@@ -20,7 +20,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/1673,msaranga, ,2021-06-1
 Java,https://github.com/Azure/sdk-release-request/issues/1667,allencal, ,2021-06-10,20,2021-06-22,9,confirm,delay for a long time and better to handle now.
 Go,https://github.com/Azure/sdk-release-request/issues/1656,priyankajayaswal1, ,2021-06-08,22,2021-06-10,20,confirm,new issue and better to confirm quickly.
 JS,https://github.com/Azure/sdk-release-request/issues/1642,bar810, ,2021-06-03,27,2021-07-01,0,confirm, 
-JS,https://github.com/Azure/sdk-release-request/issues/1556,MikhailTryakhov, ,2021-05-13,48,2021-06-08,22,confirm,delay for a long time and better to handle now.
+JS,https://github.com/Azure/sdk-release-request/issues/1556,MikhailTryakhov, ,2021-05-13,48,2021-06-08,23,confirm,delay for a long time and better to handle now.
 Ruby,https://github.com/Azure/sdk-release-request/issues/816,shawnxzq, ,2020-09-30,273,2020-12-18,194,confirm,new issue and better to confirm quickly.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,274,2020-12-18,194,confirm,new issue and better to confirm quickly.
 Ruby,https://github.com/Azure/sdk-release-request/issues/802,gtxistxgao, ,2020-09-24,279,2020-12-18,194,confirm,new issue and better to confirm quickly.
@@ -34,7 +34,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/478,fhryo-msft, ,2020-0
 Ruby,https://github.com/Azure/sdk-release-request/issues/476,danielsollondon, ,2020-06-12,384,2020-12-18,194,confirm,new issue and better to confirm quickly.
 Python,https://github.com/Azure/sdk-release-request/issues/1716,allxiao,azure-mgmt-appplatform,2021-06-30,1,2021-07-01,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1564,hailiu2586,azure-mgmt-botservice,2021-05-13,48,2021-06-02,28,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/1693,sandeepkv93,azure-mgmt-compute,2021-06-19,11,2021-06-25,5,confirm,Warning:There is duplicated issue for azure-mgmt-compute.  
+Python,https://github.com/Azure/sdk-release-request/issues/1693,sandeepkv93,azure-mgmt-compute,2021-06-19,11,2021-06-25,6,confirm,Warning:There is duplicated issue for azure-mgmt-compute.  
 Python,https://github.com/Azure/sdk-release-request/issues/1691,Juliehzl,azure-mgmt-compute,2021-06-18,13,2021-06-18,13,confirm,Warning:There is duplicated issue for azure-mgmt-compute. delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,0,2021-07-01,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1674,msaranga,azure-mgmt-databricks,2021-06-11,19,2021-06-15,15,confirm,delay for a long time and better to handle now.
