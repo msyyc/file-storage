@@ -37,12 +37,12 @@ Python,https://github.com/Azure/sdk-release-request/issues/1564,hailiu2586,azure
 Python,https://github.com/Azure/sdk-release-request/issues/1693,sandeepkv93,azure-mgmt-compute,2021-06-19,11,2021-06-25,6,confirm,Warning:There is duplicated issue for azure-mgmt-compute.  
 Python,https://github.com/Azure/sdk-release-request/issues/1691,Juliehzl,azure-mgmt-compute,2021-06-18,13,2021-06-18,13,confirm,Warning:There is duplicated issue for azure-mgmt-compute. delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,0,2021-07-01,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1674,msaranga,azure-mgmt-databricks,2021-06-11,19,2021-06-15,15,confirm,delay for a long time and better to handle now.
+Python,https://github.com/Azure/sdk-release-request/issues/1674,msaranga,azure-mgmt-databricks,2021-06-11,19,2021-06-15,16,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1596,shawnxzq,azure-mgmt-datafactory,2021-05-21,40,2021-06-02,28,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1692,tamilmani1989,azure-mgmt-dnc,2021-06-18,12,2021-06-30,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1725,vakuncha,azure-mgmt-elastic,2021-07-01,0,2021-07-01,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1686,ahamad-MS,azure-mgmt-eventgrid,2021-06-15,15,2021-06-17,14,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/1699,sirireddy12,azure-mgmt-hybridkubernetes,2021-06-24,6,2021-07-01,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1699,sirireddy12,azure-mgmt-hybridkubernetes,2021-06-24,6,2021-07-01,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1551,feiyushi,azure-mgmt-imagebuilder,2021-05-13,49,2021-06-23,8,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1579,rakeshrana44,azure-mgmt-monitor,2021-05-18,44,2021-06-02,28,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1697,DaeunYim,azure-mgmt-rdbms,2021-06-23,7,2021-07-01,0,confirm, 
