@@ -1,4 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
+Go,https://github.com/Azure/sdk-release-request/issues/1740,truptishet, ,2021-07-05,0,2021-07-05,0,confirm,new issue and better to confirm quickly.
+Python,https://github.com/Azure/sdk-release-request/issues/1739,truptishet, ,2021-07-05,0,2021-07-05,0,confirm,new issue and better to confirm quickly.
 JS,https://github.com/Azure/sdk-release-request/issues/1736,aaviram, ,2021-07-04,0,2021-07-04,0,confirm,new issue and better to confirm quickly.
 Go,https://github.com/Azure/sdk-release-request/issues/1735,aaviram, ,2021-07-04,0,2021-07-05,0,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/1733,vxfield, ,2021-07-02,2,2021-07-02,2,confirm,new issue and better to confirm quickly.
@@ -22,14 +24,14 @@ Java,https://github.com/Azure/sdk-release-request/issues/1709,bjqian, ,2021-06-2
 JS,https://github.com/Azure/sdk-release-request/issues/1707,DaeunYim, ,2021-06-29,6,2021-07-01,3,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/1704,shenmuxiaosen, ,2021-06-24,10,2021-07-05,0,confirm, 
 Java,https://github.com/Azure/sdk-release-request/issues/1703,shenmuxiaosen, ,2021-06-24,10,2021-06-24,10,confirm,new issue and better to confirm quickly.
-JS,https://github.com/Azure/sdk-release-request/issues/1698,sirireddy12, ,2021-06-24,10,2021-07-01,4,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/1698,sirireddy12, ,2021-06-24,11,2021-07-01,4,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1683,ericshape, ,2021-06-15,20,2021-06-29,6,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/1673,msaranga, ,2021-06-11,23,2021-06-24,11,confirm,delay for a long time and better to handle now.
 Java,https://github.com/Azure/sdk-release-request/issues/1667,allencal, ,2021-06-10,24,2021-06-22,13,confirm,delay for a long time and better to handle now.
 Go,https://github.com/Azure/sdk-release-request/issues/1656,priyankajayaswal1, ,2021-06-08,27,2021-06-10,25,confirm,new issue and better to confirm quickly.
 JS,https://github.com/Azure/sdk-release-request/issues/1642,bar810, ,2021-06-03,31,2021-07-01,4,confirm,delay for a month and better to close.
 JS,https://github.com/Azure/sdk-release-request/issues/1556,MikhailTryakhov, ,2021-05-13,52,2021-06-08,27,confirm,delay for a long time and better to handle now.
-Ruby,https://github.com/Azure/sdk-release-request/issues/816,shawnxzq, ,2020-09-30,277,2020-12-18,198,confirm,new issue and better to confirm quickly.
+Ruby,https://github.com/Azure/sdk-release-request/issues/816,shawnxzq, ,2020-09-30,278,2020-12-18,198,confirm,new issue and better to confirm quickly.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,279,2020-12-18,198,confirm,new issue and better to confirm quickly.
 Ruby,https://github.com/Azure/sdk-release-request/issues/802,gtxistxgao, ,2020-09-24,283,2020-12-18,198,confirm,new issue and better to confirm quickly.
 Ruby,https://github.com/Azure/sdk-release-request/issues/788,idear1203, ,2020-09-22,286,2020-12-18,198,confirm,new issue and better to confirm quickly.
@@ -46,13 +48,13 @@ Python,https://github.com/Azure/sdk-release-request/issues/1564,hailiu2586,azure
 Python,https://github.com/Azure/sdk-release-request/issues/1691,Juliehzl,azure-mgmt-compute,2021-06-18,17,2021-06-18,17,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,4,2021-07-01,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1674,msaranga,azure-mgmt-databricks,2021-06-11,23,2021-07-02,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1596,shawnxzq,azure-mgmt-datafactory,2021-05-21,44,2021-07-02,3,confirm,delay for a month and better to close.
+Python,https://github.com/Azure/sdk-release-request/issues/1596,shawnxzq,azure-mgmt-datafactory,2021-05-21,45,2021-07-02,3,confirm,delay for a month and better to close.
 Python,https://github.com/Azure/sdk-release-request/issues/1692,tamilmani1989,azure-mgmt-dnc,2021-06-18,16,2021-06-30,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1725,vakuncha,azure-mgmt-elastic,2021-07-01,4,2021-07-01,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1686,ahamad-MS,azure-mgmt-eventgrid,2021-06-15,20,2021-07-02,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1579,rakeshrana44,azure-mgmt-monitor,2021-05-18,48,2021-07-02,3,confirm,delay for a month and better to close.
 Python,https://github.com/Azure/sdk-release-request/issues/1734,vxfield,azure-mgmt-quantum,2021-07-02,2,2021-07-05,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1664,chandrikagonuguntla,azure-mgmt-recoveryservicesbackup,2021-06-09,25,2021-07-02,3,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1664,chandrikagonuguntla,azure-mgmt-recoveryservicesbackup,2021-06-09,26,2021-07-02,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1737,aaviram,azure-mgmt-security,2021-07-04,0,2021-07-05,0,confirm,Warning:There is duplicated issue for azure-mgmt-security.  
 Python,https://github.com/Azure/sdk-release-request/issues/1644,bar810,azure-mgmt-security,2021-06-03,31,2021-07-02,3,confirm,Warning:There is duplicated issue for azure-mgmt-security. delay for a month and better to close.
 Python,https://github.com/Azure/sdk-release-request/issues/1708,bjqian,azure-mgmt-signalr,2021-06-29,6,2021-07-02,3,confirm, 
