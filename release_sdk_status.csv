@@ -1,4 +1,4 @@
-package name,pypi link,latest track1 version,release date,track1 GA,latest track2 version,track2 GA,release date,cli dependency,readme config,bot advice,readme link
+package name,pypi link,latest track1,release date,track1 GA,latest track2,track2 GA,release date,cli dependency,readme config,bot advice,readme link
 azure-mgmt-datalake-analytics,https://pypi.org/pypi/azure-mgmt-datalake-analytics,0.6.0,2018/06/26,NO,NA,NO,NA,track1_0.2.1,track2,The readme.python.md has not been created.  ,https://github.com/Azure/azure-rest-api-specs/tree/master/specification/datalake-analytics/resource-manager/
 azure-mgmt-powerbiembedded,https://pypi.org/pypi/azure-mgmt-powerbiembedded,2.0.0,2018/05/25,YES,NA,NO,NA,NA,track2,The readme.python.md has not been created.  ,https://github.com/Azure/azure-rest-api-specs/tree/master/specification/powerbiembedded/resource-manager/
 azure-mgmt-datamigration,https://pypi.org/pypi/azure-mgmt-datamigration,4.1.0,2020/10/22,YES,9.0.0,YES,2021/04/8,track2_9.0.0,both,The cli using track2 now but readme.python still have track1 config.,https://github.com/Azure/azure-rest-api-specs/tree/master/specification/datamigration/resource-manager/
