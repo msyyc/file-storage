@@ -30,14 +30,14 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/478,fhryo-msft, ,2020-0
 Ruby,https://github.com/Azure/sdk-release-request/issues/476,danielsollondon, ,2020-06-12,421,2021-08-03,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1816,vutran01,azure-mgmt-applicationinsights,2021-07-28,9,2021-07-29,9,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1777,sureleo,azure-mgmt-azurearcdata,2021-07-15,22,2021-07-26,11,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/1792,jsntcy,azure-mgmt-blueprint,2021-07-20,17,2021-08-06,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,37,2021-08-04,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1792,jsntcy,azure-mgmt-blueprint,2021-07-20,17,2021-08-06,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,37,2021-08-04,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1830,kaiqzhan,azure-mgmt-containerservice,2021-08-05,1,2021-08-06,0,confirm,new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/1805,jochav,azure-mgmt-costmanagement,2021-07-23,14,2021-07-29,8,confirm,delay for a long time and better to handle now.
+Python,https://github.com/Azure/sdk-release-request/issues/1805,jochav,azure-mgmt-costmanagement,2021-07-23,14,2021-07-29,9,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1799,shawnxzq,azure-mgmt-datafactory,2021-07-23,14,2021-08-06,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1822,Noelin,azure-mgmt-fluidrelay,2021-07-29,9,2021-07-30,8,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1809,dustinburson,azure-mgmt-healthcareapis,2021-07-26,11,2021-08-02,4,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1767,vishnureddy17,azure-mgmt-iothub,2021-07-12,25,2021-08-03,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1768,vishnureddy17,azure-mgmt-iothubprovisioningservices,2021-07-12,25,2021-08-03,3,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1767,vishnureddy17,azure-mgmt-iothub,2021-07-12,25,2021-08-03,4,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1768,vishnureddy17,azure-mgmt-iothubprovisioningservices,2021-07-12,25,2021-08-03,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1752,GalGrinblat,azure-mgmt-security,2021-07-08,29,2021-07-28,9,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/1825,seligj95,azure-mgmt-web,2021-08-02,4,2021-08-04,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1825,seligj95,azure-mgmt-web,2021-08-02,4,2021-08-04,3,confirm, 
