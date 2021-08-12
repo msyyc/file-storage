@@ -12,7 +12,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/1837,shawnxzq, ,2021-08-0
 Java,https://github.com/Azure/sdk-release-request/issues/1836,shawnxzq, ,2021-08-06,5,2021-08-06,5,confirm,new issue and better to confirm quickly.
 Go,https://github.com/Azure/sdk-release-request/issues/1834,shawnxzq, ,2021-08-06,5,2021-08-06,5,confirm,new issue and better to confirm quickly.
 Go,https://github.com/Azure/sdk-release-request/issues/1833,kaiqzhan, ,2021-08-05,6,2021-08-05,6,confirm,new issue and better to confirm quickly.
-JS,https://github.com/Azure/sdk-release-request/issues/1832,kaiqzhan, ,2021-08-05,6,2021-08-10,1,confirm, 
+JS,https://github.com/Azure/sdk-release-request/issues/1832,kaiqzhan, ,2021-08-05,6,2021-08-10,2,confirm, 
 Java,https://github.com/Azure/sdk-release-request/issues/1831,kaiqzhan, ,2021-08-05,6,2021-08-09,2,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/1829,denniseik, ,2021-08-05,6,2021-08-05,6,confirm,new issue and better to confirm quickly.
 Go,https://github.com/Azure/sdk-release-request/issues/1824,neil-yechenwei, ,2021-08-02,9,2021-08-12,0,confirm, 
@@ -34,14 +34,14 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/478,fhryo-msft, ,2020-0
 Ruby,https://github.com/Azure/sdk-release-request/issues/476,danielsollondon, ,2020-06-12,426,2021-08-03,8,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1816,vutran01,azure-mgmt-applicationinsights,2021-07-28,14,2021-07-29,14,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1777,sureleo,azure-mgmt-azurearcdata,2021-07-15,27,2021-08-11,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1792,jsntcy,azure-mgmt-blueprint,2021-07-20,22,2021-08-06,5,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,42,2021-08-04,7,confirm,delay for a long time and better to handle now.
+Python,https://github.com/Azure/sdk-release-request/issues/1792,jsntcy,azure-mgmt-blueprint,2021-07-20,22,2021-08-06,6,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1722,octalimon,azure-mgmt-consumption,2021-06-30,42,2021-08-04,8,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1805,jochav,azure-mgmt-costmanagement,2021-07-23,19,2021-08-12,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1835,shawnxzq,azure-mgmt-datafactory,2021-08-06,5,2021-08-09,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1835,shawnxzq,azure-mgmt-datafactory,2021-08-06,5,2021-08-09,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1822,Noelin,azure-mgmt-fluidrelay,2021-07-29,14,2021-07-30,13,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1809,dustinburson,azure-mgmt-healthcareapis,2021-07-26,16,2021-08-09,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1767,vishnureddy17,azure-mgmt-iothub,2021-07-12,30,2021-08-12,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1768,vishnureddy17,azure-mgmt-iothubprovisioningservices,2021-07-12,30,2021-08-12,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1848,dhaiman,azure-mgmt-loganalytics,2021-08-11,0,2021-08-12,0,confirm,new issue and better to confirm quickly.
+Python,https://github.com/Azure/sdk-release-request/issues/1848,dhaiman,azure-mgmt-loganalytics,2021-08-11,0,2021-08-12,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1846,ivapplyr,azure-mgmt-network,2021-08-10,1,2021-08-12,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1825,seligj95,azure-mgmt-web,2021-08-02,9,2021-08-04,7,confirm,delay for a long time and better to handle now.
+Python,https://github.com/Azure/sdk-release-request/issues/1825,seligj95,azure-mgmt-web,2021-08-02,9,2021-08-04,8,confirm,delay for a long time and better to handle now.
