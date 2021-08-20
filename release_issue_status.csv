@@ -1,4 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
+Go,https://github.com/Azure/sdk-release-request/issues/1868,mayankagg9722, ,2021-08-20,0,2021-08-20,0,confirm, 
 Java,https://github.com/Azure/sdk-release-request/issues/1867,audunn, ,2021-08-19,0,2021-08-19,0,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/1866,audunn, ,2021-08-19,0,2021-08-19,0,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/1864,audunn, ,2021-08-19,0,2021-08-19,0,confirm, 
@@ -36,6 +37,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/1809,dustinburson,azu
 Python,https://github.com/Azure/sdk-release-request/issues/1848,dhaiman,azure-mgmt-loganalytics,2021-08-11,8,2021-08-20,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1865,audunn,azure-mgmt-netapp,2021-08-19,0,2021-08-20,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1846,ivapplyr,azure-mgmt-network,2021-08-10,9,2021-08-12,8,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/1861,msyyc,azure-mgmt-policyinsights,2021-08-19,1,2021-08-19,0,confirm,new comment for author.
+Python,https://github.com/Azure/sdk-release-request/issues/1861,msyyc,azure-mgmt-policyinsights,2021-08-19,1,2021-08-19,1,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1859,v-Ajnava,azure-mgmt-servicebus,2021-08-18,1,2021-08-19,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1854,cschen13,azure-mgmt-web,2021-08-12,7,2021-08-18,1,confirm,new comment for author.
