@@ -1,17 +1,16 @@
 issue,author,package,assignee,bot advice
+https://github.com/Azure/sdk-release-request/issues/1884,banggaurav, ,RAY-316,new issue and better to confirm quickly.
 https://github.com/Azure/sdk-release-request/issues/1863,solankisamir,azure-mgmt-apimanagement,RAY-316, 
 https://github.com/Azure/sdk-release-request/issues/1874,grizzlytheodore,azure-mgmt-compute,BigCat20196, 
-https://github.com/Azure/sdk-release-request/issues/1872,shawnxzq,azure-mgmt-datafactory,RAY-316,Warning:There is duplicated issue for azure-mgmt-datafactory.  
-https://github.com/Azure/sdk-release-request/issues/1835,shawnxzq,azure-mgmt-datafactory,BigCat20196,Warning:There is duplicated issue for azure-mgmt-datafactory.  
-https://github.com/Azure/sdk-release-request/issues/1860,temandr,azure-mgmt-datamigration,RAY-316, 
-https://github.com/Azure/sdk-release-request/issues/1877,v-Ajnava,azure-mgmt-eventhub,RAY-316, 
+https://github.com/Azure/sdk-release-request/issues/1872,shawnxzq,azure-mgmt-datafactory,RAY-316, 
+https://github.com/Azure/sdk-release-request/issues/1860,temandr,azure-mgmt-datamigration,RAY-316,new comment for author.
+https://github.com/Azure/sdk-release-request/issues/1877,v-Ajnava,azure-mgmt-eventhub,RAY-316,new comment for author.
 https://github.com/Azure/sdk-release-request/issues/1822,Noelin,azure-mgmt-fluidrelay,RAY-316,delay for a long time and better to handle now.
 https://github.com/Azure/sdk-release-request/issues/1809,dustinburson,azure-mgmt-healthcareapis,BigCat20196, 
-https://github.com/Azure/sdk-release-request/issues/1882,c-ryan-k,azure-mgmt-iothub,BigCat20196, 
+https://github.com/Azure/sdk-release-request/issues/1882,c-ryan-k,azure-mgmt-iothub,BigCat20196,new comment for author.
 https://github.com/Azure/sdk-release-request/issues/1848,dhaiman,azure-mgmt-loganalytics,BigCat20196, 
 https://github.com/Azure/sdk-release-request/issues/1865,audunn,azure-mgmt-netapp,BigCat20196, 
 https://github.com/Azure/sdk-release-request/issues/1846,ivapplyr,azure-mgmt-network,RAY-316, 
-https://github.com/Azure/sdk-release-request/issues/1861,msyyc,azure-mgmt-policyinsights,BigCat20196,new comment for author.
 https://github.com/Azure/sdk-release-request/issues/1878,v-Ajnava,azure-mgmt-relay,BigCat20196, 
 https://github.com/Azure/sdk-release-request/issues/1854,cschen13,azure-mgmt-web,RAY-316,Warning:There is duplicated issue for azure-mgmt-web.  
 https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-web, ,Warning:There is duplicated issue for azure-mgmt-web. new issue and better to confirm quickly.
