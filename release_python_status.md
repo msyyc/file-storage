@@ -1,4 +1,5 @@
-issue,author,package,assignee,bot advice
+| issue | author | package | assignee | bot advice |
+|------|------|------|------|------|
 https://github.com/Azure/sdk-release-request/issues/1863,solankisamir,azure-mgmt-apimanagement,RAY-316, 
 https://github.com/Azure/sdk-release-request/issues/1874,grizzlytheodore,azure-mgmt-compute,BigCat20196, 
 https://github.com/Azure/sdk-release-request/issues/1872,shawnxzq,azure-mgmt-datafactory,RAY-316, 
