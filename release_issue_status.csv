@@ -9,11 +9,11 @@ Go,https://github.com/Azure/sdk-release-request/issues/1887,neil-yechenwei, ,202
 Go,https://github.com/Azure/sdk-release-request/issues/1885,amitelran, ,2021-08-25,1,2021-08-25,1,confirm, 
 Java,https://github.com/Azure/sdk-release-request/issues/1883,banggaurav, ,2021-08-24,2,2021-08-24,2,confirm, 
 Java,https://github.com/Azure/sdk-release-request/issues/1876,grizzlytheodore, ,2021-08-20,6,2021-08-25,1,confirm, 
-JS,https://github.com/Azure/sdk-release-request/issues/1875,grizzlytheodore, ,2021-08-20,6,2021-08-24,2,confirm, 
+JS,https://github.com/Azure/sdk-release-request/issues/1875,grizzlytheodore, ,2021-08-20,6,2021-08-24,3,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/1873,grizzlytheodore, ,2021-08-20,6,2021-08-20,6,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/1871,shawnxzq, ,2021-08-20,6,2021-08-20,6,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/1870,shawnxzq, ,2021-08-20,6,2021-08-20,6,confirm, 
-Go,https://github.com/Azure/sdk-release-request/issues/1868,mayankagg9722, ,2021-08-20,6,2021-08-20,6,confirm, 
+Go,https://github.com/Azure/sdk-release-request/issues/1868,mayankagg9722, ,2021-08-20,7,2021-08-20,7,confirm,delay for a long time and better to handle now.
 Go,https://github.com/Azure/sdk-release-request/issues/1866,audunn, ,2021-08-19,7,2021-08-26,1,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/1864,audunn, ,2021-08-19,7,2021-08-20,6,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/1858,annoakes, ,2021-08-13,14,2021-08-17,10,confirm,delay for a long time and better to handle now.
