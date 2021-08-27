@@ -1,11 +1,11 @@
 | issue | author | package | assignee | bot advice |
 |------|------|------|------|------|
+| [https://github.com/Azure/sdk-release-request/issues/1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov |   | RAY-316 | failed to modify the body of the new issue. Please modify manually
 | [https://github.com/Azure/sdk-release-request/issues/1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |  
 | [https://github.com/Azure/sdk-release-request/issues/1874](https://github.com/Azure/sdk-release-request/issues/1874) | grizzlytheodore | azure-mgmt-compute | BigCat20196 |  
 | [https://github.com/Azure/sdk-release-request/issues/1872](https://github.com/Azure/sdk-release-request/issues/1872) | shawnxzq | azure-mgmt-datafactory | RAY-316 |  
 | [https://github.com/Azure/sdk-release-request/issues/1877](https://github.com/Azure/sdk-release-request/issues/1877) | v-Ajnava | azure-mgmt-eventhub | RAY-316 |  
 | [https://github.com/Azure/sdk-release-request/issues/1822](https://github.com/Azure/sdk-release-request/issues/1822) | Noelin | azure-mgmt-fluidrelay | RAY-316 | delay for a long time and better to handle now.
-| [https://github.com/Azure/sdk-release-request/issues/1809](https://github.com/Azure/sdk-release-request/issues/1809) | dustinburson | azure-mgmt-healthcareapis | BigCat20196 | new comment for author.
 | [https://github.com/Azure/sdk-release-request/issues/1888](https://github.com/Azure/sdk-release-request/issues/1888) | kim-soohwan | azure-mgmt-keyvault | RAY-316 |  
 | [https://github.com/Azure/sdk-release-request/issues/1848](https://github.com/Azure/sdk-release-request/issues/1848) | dhaiman | azure-mgmt-loganalytics | BigCat20196 |  
 | [https://github.com/Azure/sdk-release-request/issues/1884](https://github.com/Azure/sdk-release-request/issues/1884) | banggaurav | azure-mgmt-logz | RAY-316 |  
