@@ -1,4 +1,4 @@
-| issue | author | package | assignee | bot advice | created date | delay from created date |
+| issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 |------|------|------|------|------|------|------|
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 8 |
 | [#1874](https://github.com/Azure/sdk-release-request/issues/1874) | grizzlytheodore | azure-mgmt-compute | BigCat20196 |   | 2021-08-20 | 6 |
