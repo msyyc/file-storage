@@ -1,7 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#1896](https://github.com/Azure/sdk-release-request/issues/1896) | BigCat20196 |   | BigCat20196 | new comment for author. | 2021-08-30 | 0 |
-| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 |   | RAY-316 | new comment for author. | 2021-08-03 | 27 |
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 11 |
 | [#1777](https://github.com/Azure/sdk-release-request/issues/1777) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-07-15 | 45 |
 | [#1874](https://github.com/Azure/sdk-release-request/issues/1874) | grizzlytheodore | azure-mgmt-compute | BigCat20196 |   | 2021-08-20 | 9 |
