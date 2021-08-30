@@ -10,7 +10,7 @@
 | [#1888](https://github.com/Azure/sdk-release-request/issues/1888) | kim-soohwan | azure-mgmt-keyvault | RAY-316 | new comment for author. | 2021-08-26 | 4 |
 | [#1848](https://github.com/Azure/sdk-release-request/issues/1848) | dhaiman | azure-mgmt-loganalytics | BigCat20196 |   | 2021-08-11 | 18 |
 | [#1884](https://github.com/Azure/sdk-release-request/issues/1884) | banggaurav | azure-mgmt-logz | RAY-316 |   | 2021-08-24 | 5 |
-| [#1865](https://github.com/Azure/sdk-release-request/issues/1865) | audunn | azure-mgmt-netapp | BigCat20196 | new comment for author. | 2021-08-19 | 10 |
+| [#1865](https://github.com/Azure/sdk-release-request/issues/1865) | audunn | azure-mgmt-netapp | BigCat20196 |   | 2021-08-19 | 10 |
 | [#1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-08-26 | 3 |
 | [#1846](https://github.com/Azure/sdk-release-request/issues/1846) | ivapplyr | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-08-10 | 19 |
 | [#1878](https://github.com/Azure/sdk-release-request/issues/1878) | v-Ajnava | azure-mgmt-relay | BigCat20196 |   | 2021-08-20 | 9 |
