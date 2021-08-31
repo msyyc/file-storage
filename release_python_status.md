@@ -11,7 +11,6 @@
 | [#1884](https://github.com/Azure/sdk-release-request/issues/1884) | banggaurav | azure-mgmt-logz | RAY-316 |   | 2021-08-24 | 6 |
 | [#1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-08-26 | 4 |
 | [#1846](https://github.com/Azure/sdk-release-request/issues/1846) | ivapplyr | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-08-10 | 20 |
-| [#1861](https://github.com/Azure/sdk-release-request/issues/1861) | msyyc | azure-mgmt-policyinsights | BigCat20196 |   | 2021-08-19 | 12 |
 | [#1878](https://github.com/Azure/sdk-release-request/issues/1878) | v-Ajnava | azure-mgmt-relay | BigCat20196 | delay for a long time and better to handle now. | 2021-08-20 | 10 |
 | [#1898](https://github.com/Azure/sdk-release-request/issues/1898) | a-santamaria | azure-mgmt-servicefabric | BigCat20196 |   | 2021-08-30 | 0 |
 | [#1886](https://github.com/Azure/sdk-release-request/issues/1886) | amitelran | azure-mgmt-synapse | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-synapse.   | 2021-08-25 | 5 |
