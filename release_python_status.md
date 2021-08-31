@@ -5,8 +5,7 @@
 | [#1874](https://github.com/Azure/sdk-release-request/issues/1874) | grizzlytheodore | azure-mgmt-compute | BigCat20196 |   | 2021-08-20 | 10 |
 | [#1872](https://github.com/Azure/sdk-release-request/issues/1872) | shawnxzq | azure-mgmt-datafactory | RAY-316 |   | 2021-08-20 | 10 |
 | [#1877](https://github.com/Azure/sdk-release-request/issues/1877) | v-Ajnava | azure-mgmt-eventhub | RAY-316 |   | 2021-08-20 | 10 |
-| [#1822](https://github.com/Azure/sdk-release-request/issues/1822) | Noelin | azure-mgmt-fluidrelay | RAY-316 |   | 2021-07-29 | 32 |
-| [#1888](https://github.com/Azure/sdk-release-request/issues/1888) | kim-soohwan | azure-mgmt-keyvault | RAY-316 |   | 2021-08-26 | 4 |
+| [#1822](https://github.com/Azure/sdk-release-request/issues/1822) | Noelin | azure-mgmt-fluidrelay | RAY-316 |   | 2021-07-29 | 33 |
 | [#1848](https://github.com/Azure/sdk-release-request/issues/1848) | dhaiman | azure-mgmt-loganalytics | BigCat20196 |   | 2021-08-11 | 19 |
 | [#1896](https://github.com/Azure/sdk-release-request/issues/1896) | BigCat20196 | azure-mgmt-logz | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-logz. <br/>auto reply failed, Please intervene manually !! | 2021-08-30 | 0 |
 | [#1884](https://github.com/Azure/sdk-release-request/issues/1884) | banggaurav | azure-mgmt-logz | RAY-316 | Warning:There is duplicated issue for azure-mgmt-logz. <br/>  | 2021-08-24 | 6 |
