@@ -34,19 +34,19 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,419,2021-08-03,27,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,436,2021-08-03,27,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1863,solankisamir,azure-mgmt-apimanagement,2021-08-19,11,2021-08-24,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1777,sureleo,azure-mgmt-azurearcdata,2021-07-15,46,2021-08-30,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1777,sureleo,azure-mgmt-azurearcdata,2021-07-15,46,2021-08-30,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1874,grizzlytheodore,azure-mgmt-compute,2021-08-20,10,2021-08-24,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1872,shawnxzq,azure-mgmt-datafactory,2021-08-20,10,2021-08-24,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1877,v-Ajnava,azure-mgmt-eventhub,2021-08-20,10,2021-08-30,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1822,Noelin,azure-mgmt-fluidrelay,2021-07-29,32,2021-08-27,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1888,kim-soohwan,azure-mgmt-keyvault,2021-08-26,4,2021-08-31,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1848,dhaiman,azure-mgmt-loganalytics,2021-08-11,19,2021-08-24,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1896,BigCat20196,azure-mgmt-logz,2021-08-30,0,2021-08-31,0,confirm,Warning:There is duplicated issue for azure-mgmt-logz. auto reply failed, Please intervene manually !!
-Python,https://github.com/Azure/sdk-release-request/issues/1884,banggaurav,azure-mgmt-logz,2021-08-24,6,2021-08-26,4,confirm,Warning:There is duplicated issue for azure-mgmt-logz.  
+Python,https://github.com/Azure/sdk-release-request/issues/1896,BigCat20196,azure-mgmt-logz,2021-08-30,0,2021-08-31,0,confirm,Warning:There is duplicated issue for azure-mgmt-logz. <br/>auto reply failed, Please intervene manually !!
+Python,https://github.com/Azure/sdk-release-request/issues/1884,banggaurav,azure-mgmt-logz,2021-08-24,6,2021-08-26,4,confirm,Warning:There is duplicated issue for azure-mgmt-logz. <br/> 
 Python,https://github.com/Azure/sdk-release-request/issues/1865,audunn,azure-mgmt-netapp,2021-08-19,11,2021-08-30,0,confirm,new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/1889,MikhailTryakhov,azure-mgmt-network,2021-08-26,4,2021-08-30,0,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
-Python,https://github.com/Azure/sdk-release-request/issues/1846,ivapplyr,azure-mgmt-network,2021-08-10,20,2021-08-26,5,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
+Python,https://github.com/Azure/sdk-release-request/issues/1889,MikhailTryakhov,azure-mgmt-network,2021-08-26,4,2021-08-30,0,confirm,Warning:There is duplicated issue for azure-mgmt-network. <br/> 
+Python,https://github.com/Azure/sdk-release-request/issues/1846,ivapplyr,azure-mgmt-network,2021-08-10,20,2021-08-26,5,confirm,Warning:There is duplicated issue for azure-mgmt-network. <br/> 
 Python,https://github.com/Azure/sdk-release-request/issues/1878,v-Ajnava,azure-mgmt-relay,2021-08-20,10,2021-08-24,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1886,amitelran,azure-mgmt-synapse,2021-08-25,5,2021-08-26,4,confirm,Warning:There is duplicated issue for azure-mgmt-synapse.  
-Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-synapse,2021-08-03,27,2021-08-31,0,confirm,Warning:There is duplicated issue for azure-mgmt-synapse. auto reply failed, Please intervene manually !!
+Python,https://github.com/Azure/sdk-release-request/issues/1886,amitelran,azure-mgmt-synapse,2021-08-25,5,2021-08-26,4,confirm,Warning:There is duplicated issue for azure-mgmt-synapse. <br/> 
+Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-synapse,2021-08-03,27,2021-08-31,0,confirm,Warning:There is duplicated issue for azure-mgmt-synapse. <br/>auto reply failed, Please intervene manually !!
 Python,https://github.com/Azure/sdk-release-request/issues/1854,cschen13,azure-mgmt-web,2021-08-12,18,2021-08-23,8,confirm,delay for a long time and better to handle now.
