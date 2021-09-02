@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 | delay for a long time and better to handle now. | 2021-08-19 | 14 |
-| [#1874](https://github.com/Azure/sdk-release-request/issues/1874) | grizzlytheodore | azure-mgmt-compute | BigCat20196 | new comment for author. | 2021-08-20 | 12 |
 | [#1902](https://github.com/Azure/sdk-release-request/issues/1902) | MehaKaushik | azure-mgmt-cosmosdb | RAY-316 |   | 2021-08-30 | 2 |
 | [#1872](https://github.com/Azure/sdk-release-request/issues/1872) | shawnxzq | azure-mgmt-datafactory | RAY-316 | delay for a long time and better to handle now. | 2021-08-20 | 12 |
 | [#1877](https://github.com/Azure/sdk-release-request/issues/1877) | v-Ajnava | azure-mgmt-eventhub | RAY-316 |   | 2021-08-20 | 12 |
