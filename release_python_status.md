@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 16 |
+| [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 17 |
 | [#1902](https://github.com/Azure/sdk-release-request/issues/1902) | MehaKaushik | azure-mgmt-cosmosdb | RAY-316 |   | 2021-08-30 | 5 |
 | [#1923](https://github.com/Azure/sdk-release-request/issues/1923) | shawnxzq | azure-mgmt-datafactory | RAY-316 | Warning:There is duplicated issue for azure-mgmt-datafactory. auto reply failed, Please intervene manually !! | 2021-09-03 | 1 |
 | [#1872](https://github.com/Azure/sdk-release-request/issues/1872) | shawnxzq | azure-mgmt-datafactory | RAY-316 | Warning:There is duplicated issue for azure-mgmt-datafactory.   | 2021-08-20 | 15 |
