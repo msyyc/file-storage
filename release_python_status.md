@@ -2,9 +2,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 17 |
 | [#1902](https://github.com/Azure/sdk-release-request/issues/1902) | MehaKaushik | azure-mgmt-cosmosdb | RAY-316 |   | 2021-08-30 | 6 |
-| [#1923](https://github.com/Azure/sdk-release-request/issues/1923) | shawnxzq | azure-mgmt-datafactory | RAY-316 | Warning:There is duplicated issue for azure-mgmt-datafactory. auto reply failed, Please intervene manually !! | 2021-09-03 | 2 |
-| [#1872](https://github.com/Azure/sdk-release-request/issues/1872) | shawnxzq | azure-mgmt-datafactory | RAY-316 | Warning:There is duplicated issue for azure-mgmt-datafactory.   | 2021-08-20 | 16 |
-| [#1877](https://github.com/Azure/sdk-release-request/issues/1877) | v-Ajnava | azure-mgmt-eventhub | RAY-316 |   | 2021-08-20 | 16 |
+| [#1923](https://github.com/Azure/sdk-release-request/issues/1923) | shawnxzq | azure-mgmt-datafactory | BigCat20196 | auto reply failed, Please intervene manually !! | 2021-09-03 | 2 |
+| [#1877](https://github.com/Azure/sdk-release-request/issues/1877) | v-Ajnava | azure-mgmt-eventhub | RAY-316 | delay for a long time and better to handle now. | 2021-08-20 | 16 |
 | [#1884](https://github.com/Azure/sdk-release-request/issues/1884) | banggaurav | azure-mgmt-logz | RAY-316 | new comment for author. | 2021-08-24 | 12 |
 | [#1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov | azure-mgmt-network | BigCat20196 |   | 2021-08-26 | 10 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 | new issue and better to confirm quickly. | 2021-09-03 | 2 |
