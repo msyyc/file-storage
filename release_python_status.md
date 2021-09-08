@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#1918](https://github.com/Azure/sdk-release-request/issues/1918) | hilalevi170 |   | RAY-316 |   | 2021-09-03 | 4 |
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 19 |
-| [#1929](https://github.com/Azure/sdk-release-request/issues/1929) | dagoroz | azure-mgmt-authorization | RAY-316 | new issue and better to confirm quickly. | 2021-09-07 | 0 |
+| [#1929](https://github.com/Azure/sdk-release-request/issues/1929) | dagoroz | azure-mgmt-authorization | BigCat20196 | new issue and better to confirm quickly. | 2021-09-07 | 0 |
 | [#1902](https://github.com/Azure/sdk-release-request/issues/1902) | MehaKaushik | azure-mgmt-cosmosdb | RAY-316 | delay for a long time and better to handle now. | 2021-08-30 | 8 |
 | [#1923](https://github.com/Azure/sdk-release-request/issues/1923) | shawnxzq | azure-mgmt-datafactory | BigCat20196 |   | 2021-09-03 | 4 |
 | [#1877](https://github.com/Azure/sdk-release-request/issues/1877) | v-Ajnava | azure-mgmt-eventhub | RAY-316 | delay for a long time and better to handle now. | 2021-08-20 | 18 |
