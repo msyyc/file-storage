@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#1929](https://github.com/Azure/sdk-release-request/issues/1929) | dagoroz |   | BigCat20196 |   | 2021-09-07 | 1 |
+| [#1929](https://github.com/Azure/sdk-release-request/issues/1929) | dagoroz |   | BigCat20196 | new comment for author. | 2021-09-07 | 1 |
 | [#1918](https://github.com/Azure/sdk-release-request/issues/1918) | hilalevi170 |   | RAY-316 |   | 2021-09-03 | 5 |
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 |   | 2021-08-19 | 20 |
 | [#1902](https://github.com/Azure/sdk-release-request/issues/1902) | MehaKaushik | azure-mgmt-cosmosdb | RAY-316 | delay for a long time and better to handle now. | 2021-08-30 | 9 |
