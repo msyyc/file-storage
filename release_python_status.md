@@ -10,4 +10,4 @@
 | [#1896](https://github.com/Azure/sdk-release-request/issues/1896) | BigCat20196 | azure-mgmt-logz | BigCat20196 | auto reply failed, Please intervene manually !! | 2021-08-30 | 10 |
 | [#1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov | azure-mgmt-network | BigCat20196 | delay for a long time and better to handle now. | 2021-08-26 | 13 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 |   | 2021-09-03 | 5 |
-| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-resource | RAY-316 |   | 2021-08-03 | 37 |
+| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-resource | RAY-316 | auto reply failed, Please intervene manually !! | 2021-08-03 | 37 |
