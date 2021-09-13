@@ -48,4 +48,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/1942,aditimalladi,azu
 Python,https://github.com/Azure/sdk-release-request/issues/1896,BigCat20196,azure-mgmt-logz,2021-08-30,14,2021-09-13,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1889,MikhailTryakhov,azure-mgmt-network,2021-08-26,17,2021-09-13,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1927,rahuls-microsoft,azure-mgmt-quota,2021-09-03,9,2021-09-07,5,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-resource,2021-08-03,41,2021-09-13,0,confirm,new issue and better to confirm quickly.
+Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-resource,2021-08-03,41,2021-09-13,0,confirm,Warning:There is duplicated issue for azure-mgmt-resource. new issue and better to confirm quickly.
