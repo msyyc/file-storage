@@ -10,7 +10,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/1947,MikhailTryakhov, ,20
 JS,https://github.com/Azure/sdk-release-request/issues/1945,aditimalladi, ,2021-09-10,3,2021-09-10,3,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/1944,aditimalladi, ,2021-09-10,3,2021-09-10,3,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1943,aditimalladi, ,2021-09-10,3,2021-09-13,1,confirm,new comment for author.
-Go,https://github.com/Azure/sdk-release-request/issues/1937,solankisamir, ,2021-09-10,3,2021-09-10,3,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/1937,solankisamir, ,2021-09-10,4,2021-09-10,4,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1936,lagalbra, ,2021-09-09,4,2021-09-10,3,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1933,chengliangli0918, ,2021-09-09,5,2021-09-10,4,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1932,chengliangli0918, ,2021-09-09,5,2021-09-09,5,confirm,new comment for author.
@@ -38,7 +38,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,430,2021-08-03,41,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,433,2021-08-03,41,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,450,2021-08-03,41,confirm,new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/1863,solankisamir,azure-mgmt-apimanagement,2021-08-19,26,2021-09-03,10,confirm,delay for a long time and better to handle now.
+Python,https://github.com/Azure/sdk-release-request/issues/1863,solankisamir,azure-mgmt-apimanagement,2021-08-19,26,2021-09-03,11,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1929,dagoroz,azure-mgmt-authorization,2021-09-07,6,2021-09-10,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,4,2021-09-10,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1902,MehaKaushik,azure-mgmt-cosmosdb,2021-08-30,14,2021-09-14,0,confirm, 
