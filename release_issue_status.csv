@@ -41,7 +41,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/1863,solankisamir,azure-mgmt-apimanagement,2021-08-19,25,2021-09-03,10,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1929,dagoroz,azure-mgmt-authorization,2021-09-07,6,2021-09-10,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,4,2021-09-10,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1902,MehaKaushik,azure-mgmt-cosmosdb,2021-08-30,14,2021-09-14,0,confirm,new issue and better to confirm quickly.
+Python,https://github.com/Azure/sdk-release-request/issues/1902,MehaKaushik,azure-mgmt-cosmosdb,2021-08-30,14,2021-09-14,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1923,shawnxzq,azure-mgmt-datafactory,2021-09-03,10,2021-09-07,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1877,v-Ajnava,azure-mgmt-eventhub,2021-08-20,24,2021-09-13,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1942,aditimalladi,azure-mgmt-extendedlocation,2021-09-10,3,2021-09-13,0,confirm, 
