@@ -55,5 +55,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/1942,aditimalladi,azu
 Python,https://github.com/Azure/sdk-release-request/issues/1896,BigCat20196,azure-mgmt-logz,2021-08-30,15,2021-09-14,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1889,MikhailTryakhov,azure-mgmt-network,2021-08-26,19,2021-09-13,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1927,rahuls-microsoft,azure-mgmt-quota,2021-09-03,11,2021-09-07,7,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/1973,calecarter,azure-mgmt-resource,2021-09-14,0,2021-09-15,0,confirm,Warning:There is duplicated issue for azure-mgmt-resource. new issue and better to confirm quickly.
-Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-resource,2021-08-03,42,2021-09-15,0,confirm,Warning:There is duplicated issue for azure-mgmt-resource. new issue and better to confirm quickly.
+Python,https://github.com/Azure/sdk-release-request/issues/1973,calecarter,azure-mgmt-resource,2021-09-14,0,2021-09-15,0,confirm,failed to find Readme link, Please check !!
+Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-resource,2021-08-03,42,2021-09-15,0,confirm,failed to find Readme link, Please check !!
