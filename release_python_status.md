@@ -11,5 +11,5 @@
 | [#1896](https://github.com/Azure/sdk-release-request/issues/1896) | BigCat20196 | azure-mgmt-logz | BigCat20196 |   | 2021-08-30 | 16 |
 | [#1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov | azure-mgmt-network | BigCat20196 |   | 2021-08-26 | 19 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 | delay for a long time and better to handle now. | 2021-09-03 | 11 |
-| [#1973](https://github.com/Azure/sdk-release-request/issues/1973) | calecarter | azure-mgmt-resource | RAY-316 | Warning:There is duplicated issue for azure-mgmt-resource.   | 2021-09-14 | 0 |
+| [#1973](https://github.com/Azure/sdk-release-request/issues/1973) | calecarter | azure-mgmt-resource | RAY-316 | Warning:There is duplicated issue for azure-mgmt-resource.   | 2021-09-14 | 1 |
 | [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-resource | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-resource. new issue and better to confirm quickly. | 2021-08-03 | 43 |
