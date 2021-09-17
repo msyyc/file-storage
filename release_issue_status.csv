@@ -31,7 +31,7 @@ Java,https://github.com/Azure/sdk-release-request/issues/1883,banggaurav, ,2021-
 JS,https://github.com/Azure/sdk-release-request/issues/1858,annoakes, ,2021-08-13,35,2021-09-17,0,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,37,2021-08-10,37,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,37,2021-08-11,37,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/1815,vutran01, ,2021-07-28,50,2021-08-10,37,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/1815,vutran01, ,2021-07-28,50,2021-08-10,38,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,352,2021-08-03,45,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,427,2021-08-03,45,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,433,2021-08-03,45,confirm,new comment for author.
@@ -49,6 +49,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/1877,v-Ajnava,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/1942,aditimalladi,azure-mgmt-extendedlocation,2021-09-10,6,2021-09-17,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1896,BigCat20196,azure-mgmt-logz,2021-08-30,18,2021-09-17,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1889,MikhailTryakhov,azure-mgmt-network,2021-08-26,21,2021-09-13,4,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1927,rahuls-microsoft,azure-mgmt-quota,2021-09-03,13,2021-09-07,9,confirm,delay for a long time and better to handle now.
+Python,https://github.com/Azure/sdk-release-request/issues/1927,rahuls-microsoft,azure-mgmt-quota,2021-09-03,13,2021-09-07,10,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/1977,deymadhumanti,azure-mgmt-recoveryservicesbackup,2021-09-16,1,2021-09-17,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1973,calecarter,azure-mgmt-resource,2021-09-14,2,2021-09-17,0,confirm, 
