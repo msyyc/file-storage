@@ -3,7 +3,6 @@
 | [#1918](https://github.com/Azure/sdk-release-request/issues/1918) | hilalevi170 |   | RAY-316 | delay for a long time and better to handle now. | 2021-09-03 | 14 |
 | [#1863](https://github.com/Azure/sdk-release-request/issues/1863) | solankisamir | azure-mgmt-apimanagement | RAY-316 | delay for a long time and better to handle now. | 2021-08-19 | 29 |
 | [#1929](https://github.com/Azure/sdk-release-request/issues/1929) | dagoroz | azure-mgmt-authorization | BigCat20196 | delay for a long time and better to handle now. | 2021-09-07 | 9 |
-| [#1976](https://github.com/Azure/sdk-release-request/issues/1976) | sureleo | azure-mgmt-azurearcdata | BigCat20196 | new comment for author. | 2021-09-15 | 1 |
 | [#1935](https://github.com/Azure/sdk-release-request/issues/1935) | lagalbra | azure-mgmt-baremetalinfrastructure | RAY-316 |   | 2021-09-09 | 7 |
 | [#1988](https://github.com/Azure/sdk-release-request/issues/1988) | joseph-porter | azure-mgmt-containerinstance | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-containerinstance.   | 2021-09-16 | 0 |
 | [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-containerinstance | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-containerinstance.   | 2021-08-03 | 45 |
