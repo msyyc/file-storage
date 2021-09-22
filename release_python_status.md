@@ -8,11 +8,9 @@
 | [#1902](https://github.com/Azure/sdk-release-request/issues/1902) | MehaKaushik | azure-mgmt-cosmosdb | BigCat20196 |   | 2021-08-30 | 22 |
 | [#1996](https://github.com/Azure/sdk-release-request/issues/1996) | shawnxzq | azure-mgmt-datafactory | BigCat20196 |   | 2021-09-18 | 3 |
 | [#1942](https://github.com/Azure/sdk-release-request/issues/1942) | aditimalladi | azure-mgmt-extendedlocation | BigCat20196 | new comment for author. | 2021-09-10 | 11 |
-| [#2000](https://github.com/Azure/sdk-release-request/issues/2000) | orhasban | azure-mgmt-kusto | RAY-316 | Warning:There is duplicated issue for azure-mgmt-kusto. auto reply failed, Please intervene manually !! | 2021-09-19 | 2 |
-| [#1997](https://github.com/Azure/sdk-release-request/issues/1997) | orhasban | azure-mgmt-kusto | RAY-316 | Warning:There is duplicated issue for azure-mgmt-kusto. auto reply failed, Please intervene manually !! | 2021-09-19 | 2 |
+| [#2000](https://github.com/Azure/sdk-release-request/issues/2000) | orhasban | azure-mgmt-kusto | RAY-316 | new issue and better to confirm quickly. | 2021-09-19 | 2 |
 | [#1896](https://github.com/Azure/sdk-release-request/issues/1896) | BigCat20196 | azure-mgmt-logz | BigCat20196 |   | 2021-08-30 | 22 |
 | [#2002](https://github.com/Azure/sdk-release-request/issues/2002) | audunn | azure-mgmt-netapp | RAY-316 | new issue and better to confirm quickly. | 2021-09-20 | 1 |
-| [#2023](https://github.com/Azure/sdk-release-request/issues/2023) | Wistlie | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new issue and better to confirm quickly. | 2021-09-21 | 0 |
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new issue and better to confirm quickly. | 2021-09-21 | 0 |
 | [#1889](https://github.com/Azure/sdk-release-request/issues/1889) | MikhailTryakhov | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-08-26 | 26 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 |   | 2021-09-03 | 18 |
