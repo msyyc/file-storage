@@ -12,4 +12,4 @@
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 |   | 2021-09-21 | 1 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 |   | 2021-09-03 | 19 |
 | [#1977](https://github.com/Azure/sdk-release-request/issues/1977) | deymadhumanti | azure-mgmt-recoveryservicesbackup | RAY-316 | new comment for author. | 2021-09-16 | 6 |
-| [#2036](https://github.com/Azure/sdk-release-request/issues/2036) | v-Ajnava | azure-mgmt-servicebus | BigCat20196 | new issue and better to confirm quickly. | 2021-09-22 | 0 |
+| [#2036](https://github.com/Azure/sdk-release-request/issues/2036) | v-Ajnava | azure-mgmt-servicebus | BigCat20196 | auto reply failed, Please intervene manually !! | 2021-09-22 | 0 |
