@@ -8,4 +8,4 @@
 | [#2002](https://github.com/Azure/sdk-release-request/issues/2002) | audunn | azure-mgmt-netapp | BigCat20196 | new comment for author. | 2021-09-20 | 7 |
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 |   | 2021-09-21 | 6 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 |   | 2021-09-03 | 24 |
-| [#2040](https://github.com/Azure/sdk-release-request/issues/2040) | houk-ms | azure-mgmt-servicelinker | RAY-316 | new issue and better to confirm quickly. | 2021-09-28 | 0 |
+| [#2040](https://github.com/Azure/sdk-release-request/issues/2040) | houk-ms | azure-mgmt-servicelinker | RAY-316 |   | 2021-09-28 | 0 |
