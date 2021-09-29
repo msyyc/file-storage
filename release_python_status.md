@@ -7,4 +7,4 @@
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 |   | 2021-09-21 | 7 |
 | [#1927](https://github.com/Azure/sdk-release-request/issues/1927) | rahuls-microsoft | azure-mgmt-quota | RAY-316 |   | 2021-09-03 | 25 |
 | [#2040](https://github.com/Azure/sdk-release-request/issues/2040) | houk-ms | azure-mgmt-servicelinker | RAY-316 |   | 2021-09-28 | 0 |
-| [#2045](https://github.com/Azure/sdk-release-request/issues/2045) | rychenf1 | azure-mgmt-storagepool | RAY-316 | new issue and better to confirm quickly. | 2021-09-28 | 0 |
+| [#2045](https://github.com/Azure/sdk-release-request/issues/2045) | rychenf1 | azure-mgmt-storagepool | BigCat20196 |   | 2021-09-28 | 0 |
