@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Go,https://github.com/Azure/sdk-release-request/issues/2047,Aishwarya-C-S, ,2021-09-28,0,2021-09-28,0,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/2047,Aishwarya-C-S, ,2021-09-28,1,2021-09-28,1,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/2046,rychenf1, ,2021-09-28,1,2021-09-28,1,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2044,rychenf1, ,2021-09-28,1,2021-09-28,1,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2041,v-Ajnava, ,2021-09-28,1,2021-09-28,1,confirm,new comment for author.
@@ -7,16 +7,16 @@ JS,https://github.com/Azure/sdk-release-request/issues/1995,shawnxzq, ,2021-09-1
 Java,https://github.com/Azure/sdk-release-request/issues/1989,joseph-porter, ,2021-09-16,13,2021-09-18,11,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1982,joseph-porter, ,2021-09-16,13,2021-09-29,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1972,calecarter, ,2021-09-14,15,2021-09-29,0,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/1945,aditimalladi, ,2021-09-10,18,2021-09-29,0,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/1945,aditimalladi, ,2021-09-10,19,2021-09-29,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1928,rahuls-microsoft, ,2021-09-03,26,2021-09-29,0,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/1915,diwudd, ,2021-09-02,27,2021-09-02,27,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1904,DaeunYim, ,2021-09-01,28,2021-09-29,0,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1883,banggaurav, ,2021-08-24,36,2021-09-01,28,confirm,new comment for author.
-Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,49,2021-08-10,49,confirm,new comment for author.
-Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,49,2021-08-11,49,confirm,new comment for author.
+Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,50,2021-08-10,50,confirm,new comment for author.
+Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,50,2021-08-11,49,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,365,2021-08-03,57,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,439,2021-08-03,57,confirm,new comment for author.
-Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,445,2021-08-03,57,confirm,new comment for author.
+Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,446,2021-08-03,57,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,449,2021-08-03,57,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,465,2021-08-03,57,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,20,2021-09-16,13,confirm,delay for a long time and better to handle now.
