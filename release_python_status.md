@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#1935](https://github.com/Azure/sdk-release-request/issues/1935) | lagalbra | azure-mgmt-baremetalinfrastructure | RAY-316 | new comment for author. | 2021-09-09 | 24 |
-| [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 1 |
+| [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 2 |
 | [#1996](https://github.com/Azure/sdk-release-request/issues/1996) | shawnxzq | azure-mgmt-datafactory | BigCat20196 |   | 2021-09-18 | 16 |
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 | delay for a long time and better to handle now. | 2021-09-21 | 12 |
 | [#2057](https://github.com/Azure/sdk-release-request/issues/2057) | DaeunYim | azure-mgmt-rdbms | BigCat20196 | new issue and better to confirm quickly. | 2021-10-03 | 0 |
