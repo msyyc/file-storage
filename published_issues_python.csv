@@ -19,3 +19,4 @@ azure-mgmt-relay,BigCat20196,2021-08-20,2021-09-06,https://github.com/Azure/sdk-
 azure-mgmt-eventhub,RAY-316,2021-08-20,2021-09-18,https://github.com/Azure/sdk-release-request/issues/1877
 azure-mgmt-web,RAY-316,2021-08-12,2021-09-08,https://github.com/Azure/sdk-release-request/issues/1854
 azure-mgmt-containerinstance,BigCat20196,2021-08-03,2021-09-22,https://github.com/Azure/sdk-release-request/issues/1826
+azure-mgmt-containerinstance,BigCat20196,2021-08-03,2021-10-08,https://github.com/Azure/sdk-release-request/issues/1826

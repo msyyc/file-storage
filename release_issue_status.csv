@@ -9,7 +9,6 @@ JS,https://github.com/Azure/sdk-release-request/issues/2064,grizzlytheodore, ,20
 Java,https://github.com/Azure/sdk-release-request/issues/2059,DaeunYim, ,2021-10-03,4,2021-10-03,4,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2058,DaeunYim, ,2021-10-03,4,2021-10-08,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2054,v-Ajnava, ,2021-09-30,7,2021-10-07,0,confirm,new comment for author.
-Java,https://github.com/Azure/sdk-release-request/issues/2052,brpanask, ,2021-09-30,7,2021-09-30,7,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2050,brpanask, ,2021-09-30,7,2021-10-08,0,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/2046,rychenf1, ,2021-09-28,9,2021-09-28,9,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1995,shawnxzq, ,2021-09-18,20,2021-09-29,9,confirm,new comment for author.
@@ -25,16 +24,16 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,454,2021-08-03,66,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,457,2021-08-03,66,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,474,2021-08-03,66,confirm,new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,28,2021-10-08,0,confirm,auto-close failed, please check!
+Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,28,2021-10-08,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2062,grizzlytheodore,azure-mgmt-compute,2021-10-04,3,2021-10-08,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,6,2021-10-02,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-containerinstance,2021-08-03,66,2021-10-08,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1996,shawnxzq,azure-mgmt-datafactory,2021-09-18,20,2021-10-07,0,confirm,auto-close failed, please check!
+Python,https://github.com/Azure/sdk-release-request/issues/1996,shawnxzq,azure-mgmt-datafactory,2021-09-18,20,2021-10-07,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2075,aim-for-better,azure-mgmt-hdinsight,2021-10-08,0,2021-10-08,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2065,sirireddy12,azure-mgmt-hybridkubernetes,2021-10-04,3,2021-10-04,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2017,Wistlie,azure-mgmt-network,2021-09-21,16,2021-10-06,1,confirm,auto-close failed, please check!
-Python,https://github.com/Azure/sdk-release-request/issues/2057,DaeunYim,azure-mgmt-rdbms,2021-10-03,4,2021-10-08,0,confirm,auto-close failed, please check!
-Python,https://github.com/Azure/sdk-release-request/issues/1880,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2021-08-23,45,2021-10-04,3,confirm,auto-close failed, please check!
-Python,https://github.com/Azure/sdk-release-request/issues/2040,houk-ms,azure-mgmt-servicelinker,2021-09-28,10,2021-10-08,0,confirm,auto-close failed, please check!
+Python,https://github.com/Azure/sdk-release-request/issues/2017,Wistlie,azure-mgmt-network,2021-09-21,16,2021-10-06,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2057,DaeunYim,azure-mgmt-rdbms,2021-10-03,4,2021-10-08,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1880,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2021-08-23,45,2021-10-04,3,confirm,new comment for author.
+Python,https://github.com/Azure/sdk-release-request/issues/2040,houk-ms,azure-mgmt-servicelinker,2021-09-28,10,2021-10-08,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2069,kingsleyAzure,azure-mgmt-sql,2021-10-05,2,2021-10-05,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2045,rychenf1,azure-mgmt-storagepool,2021-09-28,9,2021-09-28,9,confirm,delay for a long time and better to handle now.
