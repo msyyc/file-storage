@@ -3,7 +3,7 @@
 | [#1935](https://github.com/Azure/sdk-release-request/issues/1935) | lagalbra | azure-mgmt-baremetalinfrastructure | RAY-316 |   | 2021-09-09 | 28 |
 | [#2062](https://github.com/Azure/sdk-release-request/issues/2062) | grizzlytheodore | azure-mgmt-compute | BigCat20196 |   | 2021-10-04 | 3 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 6 |
-| [#1996](https://github.com/Azure/sdk-release-request/issues/1996) | shawnxzq | azure-mgmt-datafactory | BigCat20196 | new issue and better to confirm quickly. | 2021-09-18 | 20 |
+| [#1996](https://github.com/Azure/sdk-release-request/issues/1996) | shawnxzq | azure-mgmt-datafactory | BigCat20196 |   | 2021-09-18 | 20 |
 | [#2075](https://github.com/Azure/sdk-release-request/issues/2075) | aim-for-better | azure-mgmt-hdinsight | RAY-316 |   | 2021-10-08 | 0 |
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 |   | 2021-10-04 | 3 |
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 |   | 2021-09-21 | 16 |
