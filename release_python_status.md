@@ -5,7 +5,7 @@
 | [#2082](https://github.com/Azure/sdk-release-request/issues/2082) | khyewei | azure-mgmt-compute | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-compute. new issue and better to confirm quickly. | 2021-10-08 | 0 |
 | [#2062](https://github.com/Azure/sdk-release-request/issues/2062) | grizzlytheodore | azure-mgmt-compute | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-compute.   | 2021-10-04 | 4 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 6 |
-| [#1996](https://github.com/Azure/sdk-release-request/issues/1996) | shawnxzq | azure-mgmt-datafactory | BigCat20196 |   | 2021-09-18 | 20 |
+| [#1996](https://github.com/Azure/sdk-release-request/issues/1996) | shawnxzq | azure-mgmt-datafactory | BigCat20196 |   | 2021-09-18 | 21 |
 | [#2075](https://github.com/Azure/sdk-release-request/issues/2075) | aim-for-better | azure-mgmt-hdinsight | RAY-316 |   | 2021-10-08 | 0 |
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 |   | 2021-10-04 | 4 |
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new issue and better to confirm quickly. | 2021-10-08 | 0 |
@@ -15,4 +15,4 @@
 | [#2040](https://github.com/Azure/sdk-release-request/issues/2040) | houk-ms | azure-mgmt-servicelinker | RAY-316 |   | 2021-09-28 | 10 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | RAY-316 |   | 2021-10-05 | 3 |
 | [#2045](https://github.com/Azure/sdk-release-request/issues/2045) | rychenf1 | azure-mgmt-storagepool | BigCat20196 | delay for a long time and better to handle now. | 2021-09-28 | 10 |
-| [#2077](https://github.com/Azure/sdk-release-request/issues/2077) | wonner | azure-mgmt-synapse | BigCat20196 | auto reply failed, Please intervene manually !! | 2021-10-08 | 0 |
+| [#2077](https://github.com/Azure/sdk-release-request/issues/2077) | wonner | azure-mgmt-synapse | BigCat20196 | new issue and better to confirm quickly. | 2021-10-08 | 0 |
