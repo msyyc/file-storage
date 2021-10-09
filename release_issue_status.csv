@@ -18,13 +18,13 @@ JS,https://github.com/Azure/sdk-release-request/issues/2050,brpanask, ,2021-09-3
 Java,https://github.com/Azure/sdk-release-request/issues/2046,rychenf1, ,2021-09-28,10,2021-10-09,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1995,shawnxzq, ,2021-09-18,21,2021-09-29,10,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1989,joseph-porter, ,2021-09-16,22,2021-10-09,0,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/1972,calecarter, ,2021-09-14,24,2021-09-29,9,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/1972,calecarter, ,2021-09-14,25,2021-09-29,10,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1945,aditimalladi, ,2021-09-10,28,2021-10-08,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1928,rahuls-microsoft, ,2021-09-03,35,2021-10-08,1,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/1904,DaeunYim, ,2021-09-01,37,2021-09-30,8,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,59,2021-08-10,59,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,59,2021-08-11,59,confirm,new comment for author.
-Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,374,2021-08-03,67,confirm,new comment for author.
+Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,375,2021-08-03,67,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,449,2021-08-03,67,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,455,2021-08-03,67,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,458,2021-08-03,67,confirm,new comment for author.
@@ -32,9 +32,9 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,29,2021-10-08,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2090,luhan2017,azure-mgmt-botservice,2021-10-09,0,2021-10-09,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2085,khyewei,azure-mgmt-compute,2021-10-08,0,2021-10-09,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,6,2021-10-02,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1996,shawnxzq,azure-mgmt-datafactory,2021-09-18,21,2021-10-09,0,confirm,auto reply failed, Please intervene manually !!
-Python,https://github.com/Azure/sdk-release-request/issues/2075,aim-for-better,azure-mgmt-hdinsight,2021-10-08,1,2021-10-08,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,7,2021-10-02,6,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/1996,shawnxzq,azure-mgmt-datafactory,2021-09-18,21,2021-10-09,0,confirm,new comment for author.
+Python,https://github.com/Azure/sdk-release-request/issues/2075,aim-for-better,azure-mgmt-hdinsight,2021-10-08,1,2021-10-08,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2065,sirireddy12,azure-mgmt-hybridkubernetes,2021-10-04,4,2021-10-04,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2088,yanfa317,azure-mgmt-network,2021-10-08,0,2021-10-09,0,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
 Python,https://github.com/Azure/sdk-release-request/issues/2017,Wistlie,azure-mgmt-network,2021-09-21,17,2021-10-08,0,confirm,Warning:There is duplicated issue for azure-mgmt-network. new comment for author.
