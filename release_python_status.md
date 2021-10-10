@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#1935](https://github.com/Azure/sdk-release-request/issues/1935) | lagalbra | azure-mgmt-baremetalinfrastructure | RAY-316 |   | 2021-09-09 | 30 |
-| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | RAY-316 |   | 2021-10-09 | 0 |
+| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | RAY-316 |   | 2021-10-09 | 1 |
 | [#2085](https://github.com/Azure/sdk-release-request/issues/2085) | khyewei | azure-mgmt-compute | RAY-316 |   | 2021-10-08 | 1 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 7 |
 | [#2075](https://github.com/Azure/sdk-release-request/issues/2075) | aim-for-better | azure-mgmt-hdinsight | RAY-316 |   | 2021-10-08 | 1 |
