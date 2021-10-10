@@ -8,7 +8,7 @@
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 |   | 2021-10-04 | 5 |
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-08 | 1 |
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new comment for author. | 2021-09-21 | 18 |
-| [#2057](https://github.com/Azure/sdk-release-request/issues/2057) | DaeunYim | azure-mgmt-rdbms | BigCat20196 |   | 2021-10-03 | 5 |
+| [#2057](https://github.com/Azure/sdk-release-request/issues/2057) | DaeunYim | azure-mgmt-rdbms | BigCat20196 |   | 2021-10-03 | 6 |
 | [#1880](https://github.com/Azure/sdk-release-request/issues/1880) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | RAY-316 |   | 2021-08-23 | 47 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | RAY-316 |   | 2021-10-05 | 4 |
 | [#2045](https://github.com/Azure/sdk-release-request/issues/2045) | rychenf1 | azure-mgmt-storagepool | BigCat20196 | delay for a long time and better to handle now. | 2021-09-28 | 11 |
