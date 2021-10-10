@@ -4,7 +4,7 @@
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | RAY-316 |   | 2021-10-09 | 1 |
 | [#2085](https://github.com/Azure/sdk-release-request/issues/2085) | khyewei | azure-mgmt-compute | RAY-316 |   | 2021-10-08 | 1 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 7 |
-| [#2075](https://github.com/Azure/sdk-release-request/issues/2075) | aim-for-better | azure-mgmt-hdinsight | RAY-316 |   | 2021-10-08 | 1 |
+| [#2075](https://github.com/Azure/sdk-release-request/issues/2075) | aim-for-better | azure-mgmt-hdinsight | RAY-316 |   | 2021-10-08 | 2 |
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 |   | 2021-10-04 | 5 |
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-08 | 1 |
 | [#2017](https://github.com/Azure/sdk-release-request/issues/2017) | Wistlie | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new comment for author. | 2021-09-21 | 18 |
