@@ -12,4 +12,4 @@
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | RAY-316 |   | 2021-10-05 | 5 |
 | [#2045](https://github.com/Azure/sdk-release-request/issues/2045) | rychenf1 | azure-mgmt-storagepool | BigCat20196 | delay for a long time and better to handle now. | 2021-09-28 | 12 |
 | [#2077](https://github.com/Azure/sdk-release-request/issues/2077) | wonner | azure-mgmt-synapse | BigCat20196 | new comment for author. | 2021-10-08 | 2 |
-| [#2093](https://github.com/Azure/sdk-release-request/issues/2093) | juniwang | azure-mgmt-webpubsub | RAY-316 | new issue and better to confirm quickly. | 2021-10-11 | 0 |
+| [#2093](https://github.com/Azure/sdk-release-request/issues/2093) | juniwang | azure-mgmt-webpubsub | RAY-316 |   | 2021-10-11 | 0 |
