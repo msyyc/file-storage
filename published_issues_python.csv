@@ -20,3 +20,4 @@ azure-mgmt-eventhub,RAY-316,2021-08-20,2021-09-18,https://github.com/Azure/sdk-r
 azure-mgmt-web,RAY-316,2021-08-12,2021-09-08,https://github.com/Azure/sdk-release-request/issues/1854
 azure-mgmt-servicelinker,RAY-316,2021-09-28,2021-10-09,https://github.com/Azure/sdk-release-request/issues/2040
 azure-mgmt-datafactory,BigCat20196,2021-09-18,2021-10-09,https://github.com/Azure/sdk-release-request/issues/1996
+azure-mgmt-network,RAY-316,2021-09-21,2021-10-11,https://github.com/Azure/sdk-release-request/issues/2017
