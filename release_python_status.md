@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#1935](https://github.com/Azure/sdk-release-request/issues/1935) | lagalbra | azure-mgmt-baremetalinfrastructure | RAY-316 |   | 2021-09-09 | 32 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | RAY-316 |   | 2021-10-09 | 3 |
-| [#2085](https://github.com/Azure/sdk-release-request/issues/2085) | khyewei | azure-mgmt-compute | RAY-316 | new issue and better to confirm quickly. | 2021-10-08 | 3 |
+| [#2085](https://github.com/Azure/sdk-release-request/issues/2085) | khyewei | azure-mgmt-compute | RAY-316 | new comment for author. | 2021-10-08 | 3 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 9 |
 | [#2075](https://github.com/Azure/sdk-release-request/issues/2075) | aim-for-better | azure-mgmt-hdinsight | RAY-316 | new comment for author. | 2021-10-08 | 4 |
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 | delay for a long time and better to handle now. | 2021-10-04 | 7 |
