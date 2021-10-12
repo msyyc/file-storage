@@ -10,4 +10,4 @@
 | [#1880](https://github.com/Azure/sdk-release-request/issues/1880) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | RAY-316 |   | 2021-08-23 | 49 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | RAY-316 |   | 2021-10-05 | 6 |
 | [#2045](https://github.com/Azure/sdk-release-request/issues/2045) | rychenf1 | azure-mgmt-storagepool | BigCat20196 | delay for a long time and better to handle now. | 2021-09-28 | 13 |
-| [#2093](https://github.com/Azure/sdk-release-request/issues/2093) | juniwang | azure-mgmt-webpubsub | RAY-316 |   | 2021-10-11 | 0 |
+| [#2093](https://github.com/Azure/sdk-release-request/issues/2093) | juniwang | azure-mgmt-webpubsub | RAY-316 | new comment for author. | 2021-10-11 | 0 |
