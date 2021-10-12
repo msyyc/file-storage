@@ -24,3 +24,4 @@ azure-mgmt-network,RAY-316,2021-09-21,2021-10-11,https://github.com/Azure/sdk-re
 azure-mgmt-synapse,BigCat20196,2021-10-08,2021-10-11,https://github.com/Azure/sdk-release-request/issues/2077
 azure-mgmt-network,RAY-316,2021-10-08,2021-10-11,https://github.com/Azure/sdk-release-request/issues/2088
 azure-mgmt-rdbms,BigCat20196,2021-10-03,2021-10-12,https://github.com/Azure/sdk-release-request/issues/2057
+azure-mgmt-hdinsight,RAY-316,2021-10-08,2021-10-12,https://github.com/Azure/sdk-release-request/issues/2075
