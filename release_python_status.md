@@ -3,7 +3,6 @@
 | [#2100](https://github.com/Azure/sdk-release-request/issues/2100) | deymadhumanti |   | BigCat20196 | failed to find Readme link and output folder. Please check !! | 2021-10-13 | 0 |
 | [#1935](https://github.com/Azure/sdk-release-request/issues/1935) | lagalbra | azure-mgmt-baremetalinfrastructure | RAY-316 | new comment for author. | 2021-09-09 | 33 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 4 |
-| [#2085](https://github.com/Azure/sdk-release-request/issues/2085) | khyewei | azure-mgmt-compute | RAY-316 | auto-close failed, please check! | 2021-10-08 | 4 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 11 |
 | [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-containerinstance | BigCat20196 |   | 2021-08-03 | 71 |
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 | delay for a long time and better to handle now. | 2021-10-04 | 8 |
