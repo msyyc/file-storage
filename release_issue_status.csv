@@ -21,7 +21,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,452,2021-08-03,70,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,459,2021-08-03,70,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,462,2021-08-03,70,confirm,new comment for author.
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,478,2021-08-03,70,confirm,new comment for author.
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,479,2021-08-03,70,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/1935,lagalbra,azure-mgmt-baremetalinfrastructure,2021-09-09,33,2021-10-12,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2090,luhan2017,azure-mgmt-botservice,2021-10-09,3,2021-10-09,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2085,khyewei,azure-mgmt-compute,2021-10-08,4,2021-10-12,0,confirm,new comment for author.
@@ -32,4 +32,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2088,yanfa317,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/1880,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2021-08-23,50,2021-10-09,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2069,kingsleyAzure,azure-mgmt-sql,2021-10-05,7,2021-10-05,7,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/2045,rychenf1,azure-mgmt-storagepool,2021-09-28,14,2021-09-28,14,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/2093,juniwang,azure-mgmt-webpubsub,2021-10-11,1,2021-10-12,0,confirm,new comment for author.
+Python,https://github.com/Azure/sdk-release-request/issues/2093,juniwang,azure-mgmt-webpubsub,2021-10-11,1,2021-10-12,1,confirm,new comment for author.
