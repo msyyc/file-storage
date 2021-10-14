@@ -9,7 +9,6 @@
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | azure-mgmt-iotcentral | BigCat20196 |   | 2021-10-12 | 1 |
 | [#2114](https://github.com/Azure/sdk-release-request/issues/2114) | calvinhzy | azure-mgmt-keyvault | BigCat20196 | new issue and better to confirm quickly. | 2021-10-14 | 0 |
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | new comment for author. | 2021-10-08 | 5 |
-| [#1880](https://github.com/Azure/sdk-release-request/issues/1880) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | RAY-316 |   | 2021-08-23 | 51 |
+| [#1880](https://github.com/Azure/sdk-release-request/issues/1880) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | RAY-316 |   | 2021-08-23 | 52 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | BigCat20196 |   | 2021-10-05 | 8 |
 | [#2102](https://github.com/Azure/sdk-release-request/issues/2102) | giakas | azure-mgmt-videoanalyzer | RAY-316 |   | 2021-10-13 | 1 |
-| [#2093](https://github.com/Azure/sdk-release-request/issues/2093) | juniwang | azure-mgmt-webpubsub | RAY-316 | new comment for author. | 2021-10-11 | 3 |
