@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-containerservice,RAY-316,2021-10-15,2021-10-18,https://github.com/Azure/sdk-release-request/issues/2117
 azure-mgmt-webpubsub,RAY-316,2021-10-11,2021-10-14,https://github.com/Azure/sdk-release-request/issues/2093
 azure-mgmt-storagepool,BigCat20196,2021-09-28,2021-10-14,https://github.com/Azure/sdk-release-request/issues/2045
 azure-mgmt-compute,RAY-316,2021-10-08,2021-10-13,https://github.com/Azure/sdk-release-request/issues/2085
