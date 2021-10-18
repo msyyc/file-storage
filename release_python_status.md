@@ -4,7 +4,7 @@
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-10-13 | 4 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 9 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 15 |
-| [#2117](https://github.com/Azure/sdk-release-request/issues/2117) | AbelHu | azure-mgmt-containerservice | RAY-316 | new issue and better to confirm quickly. | 2021-10-15 | 3 |
+| [#2117](https://github.com/Azure/sdk-release-request/issues/2117) | AbelHu | azure-mgmt-containerservice | RAY-316 |   | 2021-10-15 | 3 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 |   | 2021-10-13 | 4 |
 | [#2121](https://github.com/Azure/sdk-release-request/issues/2121) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 |   | 2021-10-15 | 2 |
 | [#2065](https://github.com/Azure/sdk-release-request/issues/2065) | sirireddy12 | azure-mgmt-hybridkubernetes | RAY-316 | delay for a long time and better to handle now. | 2021-10-04 | 13 |
@@ -14,4 +14,4 @@
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new comment for author. | 2021-10-08 | 9 |
 | [#1977](https://github.com/Azure/sdk-release-request/issues/1977) | deymadhumanti | azure-mgmt-recoveryservicesbackup | RAY-316 | new comment for author. | 2021-09-16 | 32 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | BigCat20196 |   | 2021-10-05 | 12 |
-| [#2102](https://github.com/Azure/sdk-release-request/issues/2102) | giakas | azure-mgmt-videoanalyzer | RAY-316 | new comment for author. | 2021-10-13 | 4 |
+| [#2102](https://github.com/Azure/sdk-release-request/issues/2102) | giakas | azure-mgmt-videoanalyzer | RAY-316 | new comment for author. | 2021-10-13 | 5 |
