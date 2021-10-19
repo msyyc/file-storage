@@ -11,7 +11,7 @@
 | [#2114](https://github.com/Azure/sdk-release-request/issues/2114) | calvinhzy | azure-mgmt-keyvault | BigCat20196 |   | 2021-10-14 | 5 |
 | [#2115](https://github.com/Azure/sdk-release-request/issues/2115) | mialdrid | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-14 | 4 |
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new comment for author. | 2021-10-08 | 10 |
-| [#2135](https://github.com/Azure/sdk-release-request/issues/2135) | RAY-316 | azure-mgmt-recoveryservicesbackup | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-recoveryservicesbackup. new issue and better to confirm quickly. | 2021-10-19 | 0 |
+| [#2135](https://github.com/Azure/sdk-release-request/issues/2135) | RAY-316 | azure-mgmt-recoveryservicesbackup | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-recoveryservicesbackup.   | 2021-10-19 | 0 |
 | [#1977](https://github.com/Azure/sdk-release-request/issues/1977) | deymadhumanti | azure-mgmt-recoveryservicesbackup | RAY-316 | Warning:There is duplicated issue for azure-mgmt-recoveryservicesbackup.   | 2021-09-16 | 33 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | BigCat20196 |   | 2021-10-05 | 13 |
 | [#2102](https://github.com/Azure/sdk-release-request/issues/2102) | giakas | azure-mgmt-videoanalyzer | RAY-316 | new comment for author. | 2021-10-13 | 6 |
