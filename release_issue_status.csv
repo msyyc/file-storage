@@ -13,11 +13,11 @@ JS,https://github.com/Azure/sdk-release-request/issues/2122,rohkuma-microsoft, ,
 Go,https://github.com/Azure/sdk-release-request/issues/2120,magodo, ,2021-10-15,4,2021-10-15,4,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/2119,AbelHu, ,2021-10-15,4,2021-10-19,0,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2118,AbelHu, ,2021-10-15,4,2021-10-15,4,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/2116,AbelHu, ,2021-10-15,4,2021-10-18,0,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/2108,joseph-porter, ,2021-10-13,5,2021-10-15,3,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2116,AbelHu, ,2021-10-15,4,2021-10-18,1,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2108,joseph-porter, ,2021-10-13,5,2021-10-19,0,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/2106,joseph-porter, ,2021-10-13,5,2021-10-19,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2101,giakas, ,2021-10-13,6,2021-10-18,1,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/2097,gansvv, ,2021-10-12,6,2021-10-13,5,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2097,gansvv, ,2021-10-12,6,2021-10-13,6,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,69,2021-08-10,69,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,69,2021-08-11,69,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,385,2021-08-03,77,confirm,new comment for author.
@@ -36,7 +36,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgm
 Python,https://github.com/Azure/sdk-release-request/issues/2114,calvinhzy,azure-mgmt-keyvault,2021-10-14,5,2021-10-15,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2115,mialdrid,azure-mgmt-network,2021-10-14,4,2021-10-18,1,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
 Python,https://github.com/Azure/sdk-release-request/issues/2088,yanfa317,azure-mgmt-network,2021-10-08,10,2021-10-12,7,confirm,Warning:There is duplicated issue for azure-mgmt-network. new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/2135,RAY-316,azure-mgmt-recoveryservicesbackup,2021-10-19,0,2021-10-19,0,confirm,Warning:There is duplicated issue for azure-mgmt-recoveryservicesbackup.  
-Python,https://github.com/Azure/sdk-release-request/issues/1977,deymadhumanti,azure-mgmt-recoveryservicesbackup,2021-09-16,33,2021-10-19,0,confirm,Warning:There is duplicated issue for azure-mgmt-recoveryservicesbackup.  
 Python,https://github.com/Azure/sdk-release-request/issues/2069,kingsleyAzure,azure-mgmt-sql,2021-10-05,13,2021-10-13,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2102,giakas,azure-mgmt-videoanalyzer,2021-10-13,6,2021-10-18,1,confirm,new comment for author.
