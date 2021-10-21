@@ -12,5 +12,5 @@
 | [#2149](https://github.com/Azure/sdk-release-request/issues/2149) | Wistlie | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network. new issue and better to confirm quickly. | 2021-10-21 | 0 |
 | [#2115](https://github.com/Azure/sdk-release-request/issues/2115) | mialdrid | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-14 | 6 |
 | [#2088](https://github.com/Azure/sdk-release-request/issues/2088) | yanfa317 | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-08 | 12 |
-| [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | BigCat20196 |   | 2021-10-05 | 15 |
+| [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | BigCat20196 |   | 2021-10-05 | 16 |
 | [#2102](https://github.com/Azure/sdk-release-request/issues/2102) | giakas | azure-mgmt-videoanalyzer | RAY-316 | new comment for author. | 2021-10-13 | 8 |
