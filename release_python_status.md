@@ -1,8 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 | new comment for author. | 2021-10-13 | 7 |
-| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 | delay for a long time and better to handle now. | 2021-10-09 | 11 |
-| [#2143](https://github.com/Azure/sdk-release-request/issues/2143) | mariohdez | azure-mgmt-chaos | BigCat20196 | new comment for author. | 2021-10-20 | 0 |
+| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 | delay for a long time and better to handle now. | 2021-10-09 | 12 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 18 |
 | [#2100](https://github.com/Azure/sdk-release-request/issues/2100) | deymadhumanti | azure-mgmt-dataprotection | BigCat20196 |   | 2021-10-13 | 7 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 | delay for a long time and better to handle now. | 2021-10-13 | 7 |
