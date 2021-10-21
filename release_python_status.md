@@ -2,10 +2,10 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-10-13 | 7 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 | delay for a long time and better to handle now. | 2021-10-09 | 12 |
-| [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 18 |
+| [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 19 |
 | [#2100](https://github.com/Azure/sdk-release-request/issues/2100) | deymadhumanti | azure-mgmt-dataprotection | BigCat20196 |   | 2021-10-13 | 8 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 | delay for a long time and better to handle now. | 2021-10-13 | 7 |
-| [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | RAY-316 | Warning:There is duplicated issue for azure-mgmt-eventgrid. new issue and better to confirm quickly. | 2021-10-21 | 0 |
+| [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-eventgrid.   | 2021-10-21 | 0 |
 | [#2121](https://github.com/Azure/sdk-release-request/issues/2121) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-eventgrid.   | 2021-10-15 | 5 |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | azure-mgmt-iotcentral | BigCat20196 | delay for a long time and better to handle now. | 2021-10-12 | 8 |
 | [#2114](https://github.com/Azure/sdk-release-request/issues/2114) | calvinhzy | azure-mgmt-keyvault | BigCat20196 |   | 2021-10-14 | 7 |
