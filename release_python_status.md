@@ -2,11 +2,11 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-10-13 | 8 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 | delay for a long time and better to handle now. | 2021-10-09 | 12 |
-| [#2157](https://github.com/Azure/sdk-release-request/issues/2157) | mariohdez | azure-mgmt-chaos | RAY-316 | new issue and better to confirm quickly. | 2021-10-21 | 0 |
+| [#2157](https://github.com/Azure/sdk-release-request/issues/2157) | mariohdez | azure-mgmt-chaos | BigCat20196 | new comment for author. | 2021-10-21 | 0 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 |   | 2021-10-02 | 19 |
 | [#2100](https://github.com/Azure/sdk-release-request/issues/2100) | deymadhumanti | azure-mgmt-dataprotection | BigCat20196 |   | 2021-10-13 | 8 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 | delay for a long time and better to handle now. | 2021-10-13 | 8 |
-| [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-eventgrid.   | 2021-10-21 | 0 |
+| [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-eventgrid. new comment for author. | 2021-10-21 | 0 |
 | [#2121](https://github.com/Azure/sdk-release-request/issues/2121) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-eventgrid.   | 2021-10-15 | 6 |
 | [#2155](https://github.com/Azure/sdk-release-request/issues/2155) | dsouzaarun | azure-mgmt-eventhub | BigCat20196 | new issue and better to confirm quickly. | 2021-10-21 | 0 |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | azure-mgmt-iotcentral | BigCat20196 | delay for a long time and better to handle now. | 2021-10-12 | 9 |
