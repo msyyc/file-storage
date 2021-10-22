@@ -26,7 +26,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2122,rohkuma-microsoft, ,
 Go,https://github.com/Azure/sdk-release-request/issues/2120,magodo, ,2021-10-15,7,2021-10-21,1,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2116,AbelHu, ,2021-10-15,7,2021-10-22,0,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2101,giakas, ,2021-10-13,9,2021-10-18,4,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/2097,gansvv, ,2021-10-12,9,2021-10-13,8,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2097,gansvv, ,2021-10-12,9,2021-10-13,9,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,72,2021-08-10,72,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,72,2021-08-11,72,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,388,2021-08-03,80,confirm,new comment for author.
@@ -37,11 +37,10 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2110,sureleo,azure-mgmt-azurearcdata,2021-10-13,8,2021-10-22,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2090,luhan2017,azure-mgmt-botservice,2021-10-09,13,2021-10-13,9,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/2157,mariohdez,azure-mgmt-chaos,2021-10-21,0,2021-10-22,0,confirm,new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,19,2021-10-18,4,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,20,2021-10-18,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2100,deymadhumanti,azure-mgmt-dataprotection,2021-10-13,9,2021-10-19,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2112,dpokluda,azure-mgmt-deviceupdate,2021-10-13,8,2021-10-14,8,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/2152,rohkuma-microsoft,azure-mgmt-eventgrid,2021-10-21,1,2021-10-22,0,confirm,Warning:There is duplicated issue for azure-mgmt-eventgrid. new comment for author.
-Python,https://github.com/Azure/sdk-release-request/issues/2121,rohkuma-microsoft,azure-mgmt-eventgrid,2021-10-15,6,2021-10-15,6,confirm,Warning:There is duplicated issue for azure-mgmt-eventgrid.  
+Python,https://github.com/Azure/sdk-release-request/issues/2152,rohkuma-microsoft,azure-mgmt-eventgrid,2021-10-21,1,2021-10-22,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2155,dsouzaarun,azure-mgmt-eventhub,2021-10-21,0,2021-10-22,0,confirm,new issue and better to confirm quickly.
 Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgmt-iotcentral,2021-10-12,9,2021-10-13,9,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/2114,calvinhzy,azure-mgmt-keyvault,2021-10-14,8,2021-10-22,0,confirm,new comment for author.
