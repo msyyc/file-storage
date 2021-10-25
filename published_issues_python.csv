@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-network,RAY-316,2021-10-08,2021-10-25,https://github.com/Azure/sdk-release-request/issues/2088
 azure-mgmt-chaos,BigCat20196,2021-10-20,2021-10-21,https://github.com/Azure/sdk-release-request/issues/2143
 azure-mgmt-hybridkubernetes,RAY-316,2021-10-04,2021-10-20,https://github.com/Azure/sdk-release-request/issues/2065
 azure-mgmt-recoveryservicesbackup,RAY-316,2021-09-16,2021-10-19,https://github.com/Azure/sdk-release-request/issues/1977
