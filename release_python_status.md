@@ -1,8 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 | new comment for author. | 2021-10-13 | 11 |
-| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 15 |
-| [#2157](https://github.com/Azure/sdk-release-request/issues/2157) | mariohdez | azure-mgmt-chaos | BigCat20196 | new issue and better to confirm quickly. | 2021-10-21 | 3 |
+| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 16 |
+| [#2157](https://github.com/Azure/sdk-release-request/issues/2157) | mariohdez | azure-mgmt-chaos | BigCat20196 |   | 2021-10-21 | 3 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 22 |
 | [#2163](https://github.com/Azure/sdk-release-request/issues/2163) | savaradh | azure-mgmt-containerregistry | BigCat20196 |   | 2021-10-22 | 2 |
 | [#2100](https://github.com/Azure/sdk-release-request/issues/2100) | deymadhumanti | azure-mgmt-dataprotection | BigCat20196 |   | 2021-10-13 | 11 |
