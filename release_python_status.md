@@ -4,7 +4,7 @@
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 16 |
 | [#2157](https://github.com/Azure/sdk-release-request/issues/2157) | mariohdez | azure-mgmt-chaos | BigCat20196 | new comment for author. | 2021-10-21 | 3 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 23 |
-| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-containerinstance | BigCat20196 |   | 2021-08-03 | 83 |
+| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-containerinstance | BigCat20196 | new issue and better to confirm quickly. | 2021-08-03 | 83 |
 | [#2163](https://github.com/Azure/sdk-release-request/issues/2163) | savaradh | azure-mgmt-containerregistry | BigCat20196 |   | 2021-10-22 | 2 |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | azure-mgmt-dataprotection | RAY-316 | Warning:There is duplicated issue for azure-mgmt-dataprotection.   | 2021-10-25 | 0 |
 | [#2100](https://github.com/Azure/sdk-release-request/issues/2100) | deymadhumanti | azure-mgmt-dataprotection | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-dataprotection.   | 2021-10-13 | 12 |
