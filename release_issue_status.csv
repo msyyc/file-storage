@@ -4,7 +4,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2164,savaradh, ,2021-10-2
 Java,https://github.com/Azure/sdk-release-request/issues/2161,giakas, ,2021-10-22,2,2021-10-22,2,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2159,anirbanthakur, ,2021-10-22,2,2021-10-22,2,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/2156,dsouzaarun, ,2021-10-21,3,2021-10-22,3,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/2153,rohkuma-microsoft, ,2021-10-21,3,2021-10-21,3,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2153,rohkuma-microsoft, ,2021-10-21,3,2021-10-25,0,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2150,rohkuma-microsoft, ,2021-10-21,3,2021-10-21,3,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/2151,rohkuma-microsoft, ,2021-10-21,3,2021-10-22,3,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2148,Wistlie, ,2021-10-21,4,2021-10-25,0,confirm,new comment for author.
@@ -12,12 +12,12 @@ Java,https://github.com/Azure/sdk-release-request/issues/2147,Wistlie, ,2021-10-
 Go,https://github.com/Azure/sdk-release-request/issues/2146,Wistlie, ,2021-10-21,4,2021-10-21,4,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2144,Wistlie, ,2021-10-21,4,2021-10-21,4,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2142,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
-Go,https://github.com/Azure/sdk-release-request/issues/2141,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
-Go,https://github.com/Azure/sdk-release-request/issues/2140,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
-Go,https://github.com/Azure/sdk-release-request/issues/2139,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
-Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
-Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
-JS,https://github.com/Azure/sdk-release-request/issues/2136,lirenhe, ,2021-10-20,4,2021-10-20,4,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/2141,lirenhe, ,2021-10-20,5,2021-10-20,5,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/2140,lirenhe, ,2021-10-20,5,2021-10-20,5,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/2139,lirenhe, ,2021-10-20,5,2021-10-20,5,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20,5,2021-10-20,5,confirm,new comment for author.
+Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,5,2021-10-20,5,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2136,lirenhe, ,2021-10-20,5,2021-10-20,5,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2134,rarayudu, ,2021-10-18,6,2021-10-18,6,confirm,new comment for author.
 Go,https://github.com/Azure/sdk-release-request/issues/2131,giakas, ,2021-10-18,6,2021-10-22,2,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2130,lirenhe, ,2021-10-18,6,2021-10-18,6,confirm,new comment for author.
@@ -40,7 +40,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,491,2021-08-03,82,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2110,sureleo,azure-mgmt-azurearcdata,2021-10-13,11,2021-10-22,2,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2090,luhan2017,azure-mgmt-botservice,2021-10-09,15,2021-10-24,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2157,mariohdez,azure-mgmt-chaos,2021-10-21,3,2021-10-22,2,confirm,new comment for author.
+Python,https://github.com/Azure/sdk-release-request/issues/2157,mariohdez,azure-mgmt-chaos,2021-10-21,3,2021-10-25,0,confirm,new issue and better to confirm quickly.
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,22,2021-10-18,7,confirm,delay for a long time and better to handle now.
 Python,https://github.com/Azure/sdk-release-request/issues/2163,savaradh,azure-mgmt-containerregistry,2021-10-22,2,2021-10-25,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2100,deymadhumanti,azure-mgmt-dataprotection,2021-10-13,11,2021-10-19,5,confirm, 
@@ -48,7 +48,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/2112,dpokluda,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2152,rohkuma-microsoft,azure-mgmt-eventgrid,2021-10-21,3,2021-10-25,0,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2155,dsouzaarun,azure-mgmt-eventhub,2021-10-21,3,2021-10-25,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgmt-iotcentral,2021-10-12,12,2021-10-13,12,confirm,delay for a long time and better to handle now.
-Python,https://github.com/Azure/sdk-release-request/issues/2114,calvinhzy,azure-mgmt-keyvault,2021-10-14,10,2021-10-22,2,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2149,Wistlie,azure-mgmt-network,2021-10-21,4,2021-10-25,0,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
 Python,https://github.com/Azure/sdk-release-request/issues/2115,mialdrid,azure-mgmt-network,2021-10-14,10,2021-10-22,3,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
 Python,https://github.com/Azure/sdk-release-request/issues/2160,anirbanthakur,azure-mgmt-resourceconnector,2021-10-22,2,2021-10-22,2,confirm, 
