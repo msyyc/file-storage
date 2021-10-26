@@ -5,7 +5,7 @@
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 23 |
 | [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-containerinstance | BigCat20196 |   | 2021-08-03 | 84 |
 | [#2163](https://github.com/Azure/sdk-release-request/issues/2163) | savaradh | azure-mgmt-containerregistry | BigCat20196 |   | 2021-10-22 | 3 |
-| [#2170](https://github.com/Azure/sdk-release-request/issues/2170) | vivek-microsoft | azure-mgmt-cosmosdb | BigCat20196 | new comment for author. | 2021-10-26 | 0 |
+| [#2170](https://github.com/Azure/sdk-release-request/issues/2170) | vivek-microsoft | azure-mgmt-cosmosdb | BigCat20196 | new issue and better to confirm quickly. | 2021-10-26 | 0 |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | azure-mgmt-dataprotection | RAY-316 |   | 2021-10-25 | 0 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 | delay for a long time and better to handle now. | 2021-10-13 | 12 |
 | [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 |   | 2021-10-21 | 4 |
