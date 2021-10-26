@@ -10,7 +10,7 @@
 | [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 |   | 2021-10-21 | 5 |
 | [#2155](https://github.com/Azure/sdk-release-request/issues/2155) | dsouzaarun | azure-mgmt-eventhub | BigCat20196 |   | 2021-10-21 | 4 |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | azure-mgmt-iotcentral | BigCat20196 | delay for a long time and better to handle now. | 2021-10-12 | 13 |
-| [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | azure-mgmt-maintenance | RAY-316 |   | 2021-10-25 | 0 |
+| [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | azure-mgmt-maintenance | RAY-316 |   | 2021-10-25 | 1 |
 | [#2149](https://github.com/Azure/sdk-release-request/issues/2149) | Wistlie | azure-mgmt-network | RAY-316 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-21 | 5 |
 | [#2115](https://github.com/Azure/sdk-release-request/issues/2115) | mialdrid | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-14 | 11 |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | azure-mgmt-resourceconnector | BigCat20196 |   | 2021-10-22 | 3 |
