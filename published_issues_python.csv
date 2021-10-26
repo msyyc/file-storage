@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-cosmosdb,BigCat20196,2021-10-26,2021-10-26,https://github.com/Azure/sdk-release-request/issues/2170
 azure-mgmt-chaos,BigCat20196,2021-10-21,2021-10-26,https://github.com/Azure/sdk-release-request/issues/2157
 azure-mgmt-logz,RAY-316,2021-08-30,2021-10-25,https://github.com/Azure/sdk-release-request/issues/1896
 azure-mgmt-keyvault,BigCat20196,2021-10-14,2021-10-25,https://github.com/Azure/sdk-release-request/issues/2114
