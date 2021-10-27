@@ -14,5 +14,5 @@
 | [#2115](https://github.com/Azure/sdk-release-request/issues/2115) | mialdrid | azure-mgmt-network | BigCat20196 | Warning:There is duplicated issue for azure-mgmt-network.   | 2021-10-14 | 12 |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | azure-mgmt-resourceconnector | BigCat20196 |   | 2021-10-22 | 4 |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | azure-mgmt-sql | BigCat20196 |   | 2021-10-05 | 21 |
-| [#2177](https://github.com/Azure/sdk-release-request/issues/2177) | zesluo | azure-mgmt-streamanalytics | RAY-316 | new issue and better to confirm quickly. | 2021-10-26 | 0 |
+| [#2177](https://github.com/Azure/sdk-release-request/issues/2177) | zesluo | azure-mgmt-streamanalytics | RAY-316 |   | 2021-10-26 | 0 |
 | [#2102](https://github.com/Azure/sdk-release-request/issues/2102) | giakas | azure-mgmt-videoanalyzer | RAY-316 |   | 2021-10-13 | 14 |
