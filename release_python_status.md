@@ -4,7 +4,6 @@
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-10-13 | 13 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 18 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 24 |
-| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | azure-mgmt-containerinstance | BigCat20196 | base branch attention!    | 2021-08-03 | 85 |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | azure-mgmt-dataprotection | RAY-316 |   | 2021-10-25 | 2 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 |   | 2021-10-13 | 13 |
 | [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 |   | 2021-10-21 | 6 |
