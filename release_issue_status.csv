@@ -58,5 +58,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2149,Wistlie,azure-mg
 Python,https://github.com/Azure/sdk-release-request/issues/2115,mialdrid,azure-mgmt-network,2021-10-14,12,2021-10-22,5,confirm,Warning:There is duplicated issue for azure-mgmt-network.  
 Python,https://github.com/Azure/sdk-release-request/issues/2160,anirbanthakur,azure-mgmt-resourceconnector,2021-10-22,4,2021-10-22,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2069,kingsleyAzure,azure-mgmt-sql,2021-10-05,21,2021-10-20,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2177,zesluo,azure-mgmt-streamanalytics,2021-10-26,0,2021-10-26,0,confirm,new issue and better to confirm quickly.
+Python,https://github.com/Azure/sdk-release-request/issues/2177,zesluo,azure-mgmt-streamanalytics,2021-10-26,0,2021-10-27,0,confirm,new issue and better to confirm quickly.
 Python,https://github.com/Azure/sdk-release-request/issues/2102,giakas,azure-mgmt-videoanalyzer,2021-10-13,14,2021-10-25,2,confirm, 
