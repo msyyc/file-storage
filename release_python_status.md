@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2187](https://github.com/Azure/sdk-release-request/issues/2187) | BigCat20196 |   | RAY-316 | failed to modify the body of the new issue. Please modify manually | 2021-10-28 | 0 |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | azure-mgmt-avs | RAY-316 |   | 2021-10-26 | 1 |
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-10-13 | 14 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 18 |
