@@ -1,11 +1,12 @@
 | issue | author | package | assignee | bot advice | created date of issue | delay from created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2187](https://github.com/Azure/sdk-release-request/issues/2187) | BigCat20196 |   | RAY-316 | failed to modify the body of the new issue. Please modify manually | 2021-10-28 | 0 |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | azure-mgmt-avs | RAY-316 |   | 2021-10-26 | 1 |
 | [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azure-mgmt-azurearcdata | RAY-316 |   | 2021-10-13 | 14 |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | azure-mgmt-botservice | BigCat20196 |   | 2021-10-09 | 18 |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | azure-mgmt-connectedvmware | RAY-316 | delay for a long time and better to handle now. | 2021-10-02 | 25 |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | azure-mgmt-dataprotection | RAY-316 |   | 2021-10-25 | 2 |
-| [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | azure-mgmt-desktopvirtualization\r | BigCat20196 | auto reply failed, Please intervene manually !! | 2021-10-27 | 0 |
+| [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | azure-mgmt-desktopvirtualization | BigCat20196 | auto reply failed, Please intervene manually !! | 2021-10-27 | 0 |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | azure-mgmt-deviceupdate | BigCat20196 |   | 2021-10-13 | 14 |
 | [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | azure-mgmt-eventgrid | BigCat20196 |   | 2021-10-21 | 6 |
 | [#2155](https://github.com/Azure/sdk-release-request/issues/2155) | dsouzaarun | azure-mgmt-eventhub | BigCat20196 |   | 2021-10-21 | 6 |
