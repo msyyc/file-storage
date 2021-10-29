@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | avs | RAY-316 |   | 10-26 | 11-15 |   |
-| [#2110](https://github.com/Azure/sdk-release-request/issues/2110) | sureleo | azurearcdata | RAY-316 |   | 10-13 | 10-18 |   |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | botservice | BigCat20196 |   | 10-09 | 10-25 |   |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | connectedvmware | RAY-316 | delay for a long time   | 10-02 | 11-05 |   |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | dataprotection | RAY-316 |   | 10-25 | 11-08 |   |
