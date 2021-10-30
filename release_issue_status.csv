@@ -53,8 +53,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2152,rohkuma-microsof
 Python,https://github.com/Azure/sdk-release-request/issues/2155,dsouzaarun,azure-mgmt-eventhub,2021-10-21,8,2021-10-29,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgmt-iotcentral,2021-10-12,17,2021-10-27,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2169,KalpeshChavan12,azure-mgmt-maintenance,2021-10-25,4,2021-10-26,3,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2149,Wistlie,azure-mgmt-network,2021-10-21,8,2021-10-26,3,confirm,duplicated issue for azure-mgmt-network.    
-Python,https://github.com/Azure/sdk-release-request/issues/2115,mialdrid,azure-mgmt-network,2021-10-14,15,2021-10-30,0,confirm,duplicated issue for azure-mgmt-network.    
+Python,https://github.com/Azure/sdk-release-request/issues/2149,Wistlie,azure-mgmt-network,2021-10-21,8,2021-10-26,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2195,sbudhi-msft,azure-mgmt-quota,2021-10-29,0,2021-10-30,0,confirm,auto reply failed, Please intervene manually !!
 Python,https://github.com/Azure/sdk-release-request/issues/2160,anirbanthakur,azure-mgmt-resourceconnector,2021-10-22,7,2021-10-22,7,confirm,delay for a long time  
 Python,https://github.com/Azure/sdk-release-request/issues/2069,kingsleyAzure,azure-mgmt-sql,2021-10-05,24,2021-10-20,9,confirm,delay for a long time  
