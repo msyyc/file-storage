@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2188](https://github.com/Azure/sdk-release-request/issues/2188) | shawnxzq |   | RAY-316 | failed to find Readme link and output folder. Please check !! | 10-29 | 11-15 |   |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | avs | RAY-316 |   | 10-26 | 11-15 |   |
-| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | botservice | BigCat20196 |   | 10-09 | 10-25 |   |
+| [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | botservice | BigCat20196 | delay for a long time   | 10-09 | 10-25 |   |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | connectedvmware | RAY-316 | delay for a long time   | 10-02 | 11-05 |   |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | dataprotection | RAY-316 |   | 10-25 | 11-08 |   |
 | [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | desktopvirtualization | BigCat20196 |   | 10-27 | 11-10 |   |
