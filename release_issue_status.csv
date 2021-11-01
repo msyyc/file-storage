@@ -52,7 +52,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2185,datr93,azure-mgm
 Python,https://github.com/Azure/sdk-release-request/issues/2112,dpokluda,azure-mgmt-deviceupdate,2021-10-13,18,2021-10-29,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2152,rohkuma-microsoft,azure-mgmt-eventgrid,2021-10-21,11,2021-11-01,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgmt-iotcentral,2021-10-12,19,2021-10-27,4,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2169,KalpeshChavan12,azure-mgmt-maintenance,2021-10-25,6,2021-10-26,6,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2169,KalpeshChavan12,azure-mgmt-maintenance,2021-10-25,7,2021-10-26,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2149,Wistlie,azure-mgmt-network,2021-10-21,11,2021-10-26,6,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2195,sbudhi-msft,azure-mgmt-quota,2021-10-29,2,2021-11-01,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2160,anirbanthakur,azure-mgmt-resourceconnector,2021-10-22,9,2021-10-22,9,confirm,delay for a long time  
