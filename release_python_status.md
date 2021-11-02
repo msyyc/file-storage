@@ -13,6 +13,5 @@
 | [#2149](https://github.com/Azure/sdk-release-request/issues/2149) | Wistlie | network | RAY-316 |   release date < 2 ! <br> | 10-21 | 11-03 | 0 |
 | [#2195](https://github.com/Azure/sdk-release-request/issues/2195) | sbudhi-msft | quota | BigCat20196 |   | 10-29 | 11-15 |   |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | resourceconnector | BigCat20196 | delay for a long time   | 10-22 | 11-08 |   |
-| [#2197](https://github.com/Azure/sdk-release-request/issues/2197) | juniwang | signalr | RAY-316 | new comment for author. | 11-01 | 11-15 |   |
 | [#2069](https://github.com/Azure/sdk-release-request/issues/2069) | kingsleyAzure | sql | BigCat20196 | delay for a long time   | 10-05 | 10-08 |   |
 | [#2177](https://github.com/Azure/sdk-release-request/issues/2177) | zesluo | streamanalytics | RAY-316 |   | 10-26 | 11-09 |   |
