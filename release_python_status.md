@@ -10,7 +10,7 @@
 | [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | eventgrid | BigCat20196 |   | 10-21 | 10-22 |   |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | iotcentral | BigCat20196 |   release date < 2 ! <br> | 10-12 | 11-01 | -1 |
 | [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | maintenance | RAY-316 |   | 10-25 | 10-29 |   |
-| [#2149](https://github.com/Azure/sdk-release-request/issues/2149) | Wistlie | network | RAY-316 | delay for a long time   release date < 2 ! <br> | 10-21 | 11-03 | 0 |
+| [#2149](https://github.com/Azure/sdk-release-request/issues/2149) | Wistlie | network | RAY-316 | new issue and better to confirm quickly. release date < 2 ! <br> | 10-21 | 11-03 | 0 |
 | [#2195](https://github.com/Azure/sdk-release-request/issues/2195) | sbudhi-msft | quota | BigCat20196 |   | 10-29 | 11-15 |   |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | resourceconnector | BigCat20196 | delay for a long time   | 10-22 | 11-08 |   |
 | [#2197](https://github.com/Azure/sdk-release-request/issues/2197) | juniwang | signalr | RAY-316 | new comment for author. | 11-01 | 11-15 |   |
