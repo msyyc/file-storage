@@ -8,7 +8,7 @@
 | [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | desktopvirtualization | BigCat20196 |   | 10-27 | 11-10 |   |
 | [#2112](https://github.com/Azure/sdk-release-request/issues/2112) | dpokluda | deviceupdate | BigCat20196 |   release date < 2 ! <br> | 10-13 | 11-05 | 2 |
 | [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | eventgrid | BigCat20196 |   | 10-21 | 10-22 |   |
-| [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | iotcentral | BigCat20196 | new comment for author. release date < 2 ! <br> | 10-12 | 11-01 | -1 |
+| [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | iotcentral | BigCat20196 |   release date < 2 ! <br> | 10-12 | 11-01 | -1 |
 | [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | maintenance | RAY-316 |   | 10-25 | 10-29 |   |
 | [#2149](https://github.com/Azure/sdk-release-request/issues/2149) | Wistlie | network | RAY-316 |   release date < 2 ! <br> | 10-21 | 11-03 | 0 |
 | [#2195](https://github.com/Azure/sdk-release-request/issues/2195) | sbudhi-msft | quota | BigCat20196 |   | 10-29 | 11-15 |   |
