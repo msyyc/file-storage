@@ -45,12 +45,12 @@ JS,https://github.com/Azure/sdk-release-request/issues/2097,gansvv, ,2021-10-12,
 Java,https://github.com/Azure/sdk-release-request/issues/1843,ivapplyr, ,2021-08-10,84,2021-08-10,84,confirm,new comment for author.
 Java,https://github.com/Azure/sdk-release-request/issues/1840,ivapplyr, ,2021-08-10,84,2021-08-11,83,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,399,2021-08-03,91,confirm,new comment for author.
-Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,473,2021-08-03,91,confirm,new comment for author.
+Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,474,2021-08-03,92,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,480,2021-08-03,91,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,483,2021-08-03,91,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,500,2021-08-03,91,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2180,cataggar,azure-mgmt-avs,2021-10-26,7,2021-10-26,7,confirm,delay for a long time  
-Python,https://github.com/Azure/sdk-release-request/issues/2090,luhan2017,azure-mgmt-botservice,2021-10-09,25,2021-10-24,9,confirm,delay for a long time  
+Python,https://github.com/Azure/sdk-release-request/issues/2090,luhan2017,azure-mgmt-botservice,2021-10-09,25,2021-10-24,10,confirm,delay for a long time  
 Python,https://github.com/Azure/sdk-release-request/issues/2207,yangyuan,azure-mgmt-cognitiveservices,2021-11-03,0,2021-11-03,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,31,2021-10-18,16,confirm,delay for a long time   release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2188,shawnxzq,azure-mgmt-datafactory,2021-10-29,4,2021-11-01,2,confirm, 
