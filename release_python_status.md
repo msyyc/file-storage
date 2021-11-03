@@ -2,6 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | avs | RAY-316 | delay for a long time   | 10-26 | 11-15 |   |
 | [#2090](https://github.com/Azure/sdk-release-request/issues/2090) | luhan2017 | botservice | BigCat20196 | delay for a long time   | 10-09 | 10-25 |   |
+| [#2207](https://github.com/Azure/sdk-release-request/issues/2207) | yangyuan | cognitiveservices | RAY-316 | new issue and better to confirm quickly. | 11-03 | 11-15 |   |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | connectedvmware | RAY-316 | delay for a long time   release date < 2 ! <br> | 10-02 | 11-05 | 1 |
 | [#2188](https://github.com/Azure/sdk-release-request/issues/2188) | shawnxzq | datafactory | RAY-316 |   | 10-29 | 11-15 |   |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | dataprotection | RAY-316 | delay for a long time   | 10-25 | 11-08 |   |
