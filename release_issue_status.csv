@@ -57,7 +57,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2112,dpokluda,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2152,rohkuma-microsoft,azure-mgmt-eventgrid,2021-10-21,13,2021-11-01,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgmt-iotcentral,2021-10-12,21,2021-11-02,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2169,KalpeshChavan12,azure-mgmt-maintenance,2021-10-25,8,2021-10-26,7,confirm,delay for a long time  
-Python,https://github.com/Azure/sdk-release-request/issues/2203,ritwik8119,azure-mgmt-monitor,2021-11-02,0,2021-11-03,0,confirm,auto reply failed, Please intervene manually !! release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2203,ritwik8119,azure-mgmt-monitor,2021-11-02,0,2021-11-03,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2200,MikhailTryakhov,azure-mgmt-network,2021-11-02,0,2021-11-03,0,confirm,duplicated issue for azure-mgmt-network.   new issue and better to confirm quickly.
 Python,https://github.com/Azure/sdk-release-request/issues/2149,Wistlie,azure-mgmt-network,2021-10-21,13,2021-11-02,1,confirm,duplicated issue for azure-mgmt-network.     release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2195,sbudhi-msft,azure-mgmt-quota,2021-10-29,4,2021-11-01,1,confirm, 
