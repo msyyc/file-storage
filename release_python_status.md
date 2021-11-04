@@ -7,7 +7,7 @@
 | [#2188](https://github.com/Azure/sdk-release-request/issues/2188) | shawnxzq | datafactory | RAY-316 |   | 10-29 | 11-15 |   |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | dataprotection | RAY-316 |   | 10-25 | 11-08 |   |
 | [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | desktopvirtualization | BigCat20196 |   | 10-27 | 11-10 |   |
-| [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | eventgrid | BigCat20196 |   | 10-21 | 10-22 |   |
+| [#2152](https://github.com/Azure/sdk-release-request/issues/2152) | rohkuma-microsoft | eventgrid | BigCat20196 | new comment for author.  <br> | 10-21 | 10-22 |   |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | iotcentral | BigCat20196 |   | 10-12 | 11-01 |   |
 | [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | maintenance | RAY-316 |   | 10-25 | 10-29 |   |
 | [#2203](https://github.com/Azure/sdk-release-request/issues/2203) | ritwik8119 | monitor | BigCat20196 | new comment for author.  <br> release date < 2 ! <br> | 11-02 | 11-05 | 0 |
