@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-JS,https://github.com/Azure/sdk-release-request/issues/2206,yangyuan, ,2021-11-03,2,2021-11-03,2,confirm,new comment for author.
-Java,https://github.com/Azure/sdk-release-request/issues/2205,yangyuan, ,2021-11-03,2,2021-11-03,2,confirm,new comment for author.
+JS,https://github.com/Azure/sdk-release-request/issues/2206,yangyuan, ,2021-11-03,3,2021-11-03,3,confirm,new comment for author.
+Java,https://github.com/Azure/sdk-release-request/issues/2205,yangyuan, ,2021-11-03,3,2021-11-03,3,confirm,new comment for author.
 JS,https://github.com/Azure/sdk-release-request/issues/2202,MikhailTryakhov, ,2021-11-02,3,2021-11-02,3,confirm,new comment for author. release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2201,MikhailTryakhov, ,2021-11-02,3,2021-11-02,3,confirm,new comment for author. release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2198,juniwang, ,2021-11-01,4,2021-11-01,4,confirm,new comment for author.
@@ -39,7 +39,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,486,2021-08-03,94,confirm,new comment for author.
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,503,2021-08-03,94,confirm,new comment for author.
 Python,https://github.com/Azure/sdk-release-request/issues/2180,cataggar,azure-mgmt-avs,2021-10-26,10,2021-10-26,10,confirm,delay for a long time  
-Python,https://github.com/Azure/sdk-release-request/issues/2207,yangyuan,azure-mgmt-cognitiveservices,2021-11-03,2,2021-11-04,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2207,yangyuan,azure-mgmt-cognitiveservices,2021-11-03,3,2021-11-04,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,34,2021-11-05,0,confirm,new comment for author. release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2188,shawnxzq,azure-mgmt-datafactory,2021-10-29,7,2021-11-01,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2167,mayankagg9722,azure-mgmt-dataprotection,2021-10-25,11,2021-11-04,1,confirm,  release date < 2 ! <br>
