@@ -47,6 +47,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/2185,datr93,azure-mgm
 Python,https://github.com/Azure/sdk-release-request/issues/2098,gansvv,azure-mgmt-iotcentral,2021-10-12,25,2021-11-05,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2169,KalpeshChavan12,azure-mgmt-maintenance,2021-10-25,12,2021-11-04,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2203,ritwik8119,azure-mgmt-monitor,2021-11-02,4,2021-11-03,3,confirm,new comment for author. release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2200,MikhailTryakhov,azure-mgmt-network,2021-11-02,4,2021-11-05,1,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2200,MikhailTryakhov,azure-mgmt-network,2021-11-02,4,2021-11-05,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2160,anirbanthakur,azure-mgmt-resourceconnector,2021-10-22,15,2021-11-05,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2177,zesluo,azure-mgmt-streamanalytics,2021-10-26,12,2021-11-04,3,confirm,  release date < 2 ! <br>
