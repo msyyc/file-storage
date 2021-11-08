@@ -8,7 +8,6 @@
 | [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | desktopvirtualization | BigCat20196 |   release date < 2 ! <br> | 10-27 | 11-10 | 1 |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | iotcentral | BigCat20196 |   | 10-12 | 11-01 |   |
 | [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | maintenance | RAY-316 |   | 10-25 | 10-29 |   |
-| [#2203](https://github.com/Azure/sdk-release-request/issues/2203) | ritwik8119 | monitor | BigCat20196 | new comment for author. | 11-02 | 11-05 |   |
 | [#2200](https://github.com/Azure/sdk-release-request/issues/2200) | MikhailTryakhov | network | BigCat20196 |   release date < 2 ! <br> | 11-02 | 11-09 | 0 |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | resourceconnector | BigCat20196 |   release date < 2 ! <br> | 10-22 | 11-08 | 0 |
 | [#2177](https://github.com/Azure/sdk-release-request/issues/2177) | zesluo | streamanalytics | RAY-316 |   release date < 2 ! <br> | 10-26 | 11-09 | 0 |
