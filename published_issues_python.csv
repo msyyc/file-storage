@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-monitor,BigCat20196,2021-11-02,2021-11-08,https://github.com/Azure/sdk-release-request/issues/2203
 azure-mgmt-eventgrid,BigCat20196,2021-10-21,2021-11-05,https://github.com/Azure/sdk-release-request/issues/2152
 azure-mgmt-quota,BigCat20196,2021-10-29,2021-11-04,https://github.com/Azure/sdk-release-request/issues/2195
 azure-mgmt-deviceupdate,BigCat20196,2021-10-13,2021-11-04,https://github.com/Azure/sdk-release-request/issues/2112
