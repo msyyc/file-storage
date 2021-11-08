@@ -11,4 +11,4 @@
 | [#2200](https://github.com/Azure/sdk-release-request/issues/2200) | MikhailTryakhov | network | BigCat20196 |   release date < 2 ! <br> | 11-02 | 11-09 | 0 |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | resourceconnector | BigCat20196 |   release date < 2 ! <br> | 10-22 | 11-08 | 0 |
 | [#2177](https://github.com/Azure/sdk-release-request/issues/2177) | zesluo | streamanalytics | RAY-316 |   release date < 2 ! <br> | 10-26 | 11-09 | 0 |
-| [#2210](https://github.com/Azure/sdk-release-request/issues/2210) | wonner | synapse | BigCat20196 | new issue and better to confirm quickly. | 11-08 | 11-12 |   |
+| [#2210](https://github.com/Azure/sdk-release-request/issues/2210) | wonner | synapse | BigCat20196 | new comment for author. | 11-08 | 11-12 |   |
