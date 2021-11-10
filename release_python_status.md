@@ -2,11 +2,11 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | avs | RAY-316 |   | 10-26 | 11-15 |   |
 | [#2207](https://github.com/Azure/sdk-release-request/issues/2207) | yangyuan | cognitiveservices | RAY-316 |   | 11-03 | 11-15 |   |
-| [#2217](https://github.com/Azure/sdk-release-request/issues/2217) | krishnasriSomepalli | confluent | RAY-316 | new issue and better to confirm quickly. | 11-10 | 11-15 |   |
+| [#2217](https://github.com/Azure/sdk-release-request/issues/2217) | krishnasriSomepalli | confluent | RAY-316 | new issue ! <br> | 11-10 | 11-15 |   |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | connectedvmware | RAY-316 |   | 10-02 | 11-05 |   |
 | [#2188](https://github.com/Azure/sdk-release-request/issues/2188) | shawnxzq | datafactory | RAY-316 |   | 10-29 | 11-15 |   |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | dataprotection | RAY-316 |   release date < 2 ! <br> | 10-25 | 11-08 | -2 |
-| [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | desktopvirtualization | BigCat20196 | new comment for author. release date < 2 ! <br> | 10-27 | 11-10 | 0 |
+| [#2185](https://github.com/Azure/sdk-release-request/issues/2185) | datr93 | desktopvirtualization | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 10-27 | 11-10 | 0 |
 | [#2098](https://github.com/Azure/sdk-release-request/issues/2098) | gansvv | iotcentral | BigCat20196 |   | 10-12 | 11-01 |   |
 | [#2169](https://github.com/Azure/sdk-release-request/issues/2169) | KalpeshChavan12 | maintenance | RAY-316 |   | 10-25 | 10-29 |   |
 | [#2160](https://github.com/Azure/sdk-release-request/issues/2160) | anirbanthakur | resourceconnector | BigCat20196 |   release date < 2 ! <br> | 10-22 | 11-08 | -2 |
