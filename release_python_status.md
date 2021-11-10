@@ -2,6 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2180](https://github.com/Azure/sdk-release-request/issues/2180) | cataggar | avs | RAY-316 |   | 10-26 | 11-15 |   |
 | [#2207](https://github.com/Azure/sdk-release-request/issues/2207) | yangyuan | cognitiveservices | RAY-316 |   | 11-03 | 11-15 |   |
+| [#2217](https://github.com/Azure/sdk-release-request/issues/2217) | krishnasriSomepalli | confluent | RAY-316 | new issue and better to confirm quickly. | 11-10 | 11-15 |   |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | connectedvmware | RAY-316 |   | 10-02 | 11-05 |   |
 | [#2188](https://github.com/Azure/sdk-release-request/issues/2188) | shawnxzq | datafactory | RAY-316 |   | 10-29 | 11-15 |   |
 | [#2167](https://github.com/Azure/sdk-release-request/issues/2167) | mayankagg9722 | dataprotection | RAY-316 |   release date < 2 ! <br> | 10-25 | 11-08 | -2 |
