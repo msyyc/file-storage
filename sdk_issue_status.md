@@ -1,214 +1,71 @@
-<table>
-                <tr>
-                    <th width="5%">No.</th><th width="10%">issue</th><th width="40%">title</th>
-                    <th width="20%">labels</th><th width="10%">assignee</th><th width="10%">advice</th>
-                    <th width="5%">created date</th>
-                 </tr>
-        <tr>
-                <td>1</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21665">21665</a></td><td>Typo in parameters</td><td>['bug', 'Authorization', 'customer-reported', 'needs-team-attention', 'CXP Attention']</td><td>['MughundhanRaveendran-MSFT']</td><td>new comment !</td><td>11-09</td>
-            </tr>
-        <tr>
-                <td>2</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21664">21664</a></td><td><div style="width: 100px">Documentation fix: Expected type 'TokenCredential', got 'UserPassCredentials' instead</div></td><td>['Docs', 'Network - DNS', 'customer-reported', 'needs-team-attention', 'CXP Attention']</td><td>['PramodValavala-MSFT']</td><td>new comment !</td><td>11-09</td>
-            </tr>
-        <tr>
-                <td>3</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21642">21642</a></td><td><div style="width: 100px">'MsiCredential' object has no attribute 'signed_session'</div></td><td>['customer-reported', 'Azure.Identity', 'Subscription', 'needs-team-attention']</td><td>['BigCat20196']</td><td>new comment !</td><td>11-08</td>
-            </tr>
-        <tr>
-                <td>4</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21635">21635</a></td><td><div style="width: 100px">support to create/update VpnSiteLinksOperations</div></td><td>['feature-request', 'Service Attention', 'customer-reported', 'needs-team-attention', 'Network - Private Link']</td><td>['RAY-316']</td><td> </td><td>11-07</td>
-            </tr>
-        <tr>
-                <td>5</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21467">21467</a></td><td><div style="width: 100px">B2B invitation endpoint SDK</div></td><td>['feature-request', 'Graph', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td> </td><td>new comment !</td><td>10-28</td>
-            </tr>
-        <tr>
-                <td>6</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21451">21451</a></td><td><div style="width: 100px">Azure function list properties</div></td><td>['question', 'Service Attention', 'customer-reported', 'Web Apps', 'needs-team-attention']</td><td>['BigCat20196']</td><td>new comment !</td><td>10-27</td>
-            </tr>
-        <tr>
-                <td>7</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21450">21450</a></td><td><div style="width: 100px">Network resource provider API version is 8 versions behind the latest stable version</div></td><td>['bug', 'Network', 'Service Attention']</td><td> </td><td>new comment !</td><td>10-27</td>
-            </tr>
-        <tr>
-                <td>8</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21449">21449</a></td><td><div style="width: 100px">Authorization Role Definition Update The requested resource does not support http method 'PUT': </div></td><td>['question', 'Authorization', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td>['SaurabhSharma-MSFT']</td><td>new comment !</td><td>10-27</td>
-            </tr>
-        <tr>
-                <td>9</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21375">21375</a></td><td><div style="width: 100px">I can not update only one key=value for the web app application setting</div></td><td>['feature-request', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td>['SaurabhSharma-MSFT']</td><td>new comment !</td><td>10-22</td>
-            </tr>
-        <tr>
-                <td>10</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21301">21301</a></td><td><div style="width: 100px">[Python] reduce size for `azure-mgmt-network`</div></td><td>[]</td><td>['RAY-316']</td><td> </td><td>10-18</td>
-            </tr>
-        <tr>
-                <td>11</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21252">21252</a></td><td><div style="width: 100px">from ._application_gateways_operations import ApplicationGatewaysOperations  ValueError: source code string cannot contain null bytes</div></td><td>['bug', 'Network - Application Gateway', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td>['RAY-316']</td><td>new comment !</td><td>10-14</td>
-            </tr>
-        <tr>
-                <td>12</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/21008">21008</a></td><td><div style="width: 100px">KeyInfo for functions doesn't serialize correctly</div></td><td>['bug', 'feature-request', 'Service Attention', 'customer-reported', 'Web Apps', 'needs-team-attention']</td><td>['BigCat20196']</td><td> </td><td>10-01</td>
-            </tr>
-        <tr>
-                <td>13</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20907">20907</a></td><td><div style="width: 100px">Get the Azure VM IP information</div></td><td>['question', 'Compute', 'customer-reported', 'needs-team-attention']</td><td>['RAY-316']</td><td> </td><td>09-28</td>
-            </tr>
-        <tr>
-                <td>14</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20804">20804</a></td><td><div style="width: 100px">Switching Tenant without relogin</div></td><td>['feature-request', 'Service Attention', 'customer-reported', 'ARM - Core', 'needs-team-attention']</td><td> </td><td>new comment !</td><td>09-23</td>
-            </tr>
-        <tr>
-                <td>15</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20802">20802</a></td><td><div style="width: 100px">Unable to authenticate AzureStack using ADFS authentication with UserPassCredentials</div></td><td>['bug', 'Azure Stack', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td> </td><td>new comment !</td><td>09-23</td>
-            </tr>
-        <tr>
-                <td>16</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20679">20679</a></td><td><div style="width: 100px">Query ALL azure services available in EACH region by azure sdk for python</div></td><td>['question', 'customer-reported']</td><td> </td><td> </td><td>09-14</td>
-            </tr>
-        <tr>
-                <td>17</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20664">20664</a></td><td><div style="width: 100px">Azure data factory trigger creation using python SDK</div></td><td>['question', 'Data Factory', 'Service Attention', 'customer-reported']</td><td> </td><td>new comment !</td><td>09-13</td>
-            </tr>
-        <tr>
-                <td>18</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20629">20629</a></td><td><div style="width: 100px">`top` parameter in ConsumptionManagementClient didn't return expecting list.</div></td><td>['question', 'Service Attention', 'customer-reported', 'needs-team-attention', 'Consumption - UsageDetailsAndExport']</td><td>['BigCat20196']</td><td>new comment !</td><td>09-09</td>
-            </tr>
-        <tr>
-                <td>19</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20372">20372</a></td><td><div style="width: 100px">Azure python api calls gets stuck sometimes for a long time</div></td><td>['bug', 'Compute', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td>['jaylabell']</td><td>new comment !</td><td>08-20</td>
-            </tr>
-        <tr>
-                <td>20</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20356">20356</a></td><td><div style="width: 100px">azure-mgmt-netapp: Operation: 'Change Ownership' is not permitted when creating NFSv4.1 volume</div></td><td>['bug', 'customer-reported', 'needs-team-attention']</td><td>['RAY-316']</td><td> </td><td>08-19</td>
-            </tr>
-        <tr>
-                <td>21</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20288">20288</a></td><td><div style="width: 100px">The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields</div></td><td>['bug', 'API Management', 'customer-reported', 'needs-team-attention']</td><td>['BigCat20196']</td><td>new comment !</td><td>08-16</td>
-            </tr>
-        <tr>
-                <td>22</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20181">20181</a></td><td><div style="width: 100px">azure-mgmt-redis: LICENSE missing from PyPi</div></td><td>['bug', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>23</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20177">20177</a></td><td><div style="width: 100px">azure-mgmt-recoveryservices: LICENSE missing from PyPi</div></td><td>['bug', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>24</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20175">20175</a></td><td><div style="width: 100px">azure-mgmt-rdbms: LICENSE missing from PyPi</div></td><td>['bug', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>25</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20172">20172</a></td><td><div style="width: 100px">azure-mgmt-policyinsights: LICENSE missing from PyPi</div></td><td>['bug', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>26</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20170">20170</a></td><td><div style="width: 100px">azure-mgmt-maps: LICENSE missing from PyPi</div></td><td>['bug', 'customer-reported']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>27</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20168">20168</a></td><td><div style="width: 100px">azure-mgmt-loganalytics: LICENSE missing in PyPi</div></td><td>['bug', 'customer-reported', 'Monitor - LogAnalytics', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>28</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20166">20166</a></td><td><div style="width: 100px">azure-mgmt-iotcentral: LICENSE missing in PyPi</div></td><td>['bug', 'IoT', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>29</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20163">20163</a></td><td><div style="width: 100px">azure-mgmt-datamigration: LICENSE missing in PyPi</div></td><td>['bug', 'Data Migration', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>30</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20161">20161</a></td><td><div style="width: 100px">azure-mgmt-databoxedge: LICENSE missing in PyPi</div></td><td>['bug', 'customer-reported', 'needs-team-attention', 'DataBox Edge']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>31</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20159">20159</a></td><td><div style="width: 100px">azure-mgmt-compute: LICENSE missing in PyPi</div></td><td>['bug', 'Compute', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>32</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20155">20155</a></td><td><div style="width: 100px">azure-mgmt-batchai: LICENSE file missing in pypi</div></td><td>['bug', 'BatchAI', 'customer-reported', 'needs-team-attention']</td><td> </td><td> </td><td>08-09</td>
-            </tr>
-        <tr>
-                <td>33</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/20044">20044</a></td><td><div style="width: 100px">Follow-up: Is it possible to create a VM with OS disk type different than Premium SSD?</div></td><td>['question', 'Compute - VM', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td>['RAY-316', 'oriwolman']</td><td>new comment !</td><td>08-02</td>
-            </tr>
-        <tr>
-                <td>34</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19793">19793</a></td><td><div style="width: 100px">[azure-mgmt-sql] add support for SQL replica</div></td><td>['feature-request', 'SQL', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td>['RAY-316']</td><td>new comment !</td><td>07-14</td>
-            </tr>
-        <tr>
-                <td>35</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19665">19665</a></td><td><div style="width: 100px">Error responses from certain operations do not conform to ODataV4</div></td><td>['question', 'App Services', 'Service Attention', 'customer-reported']</td><td>['BigCat20196', 'RAY-316']</td><td> </td><td>07-06</td>
-            </tr>
-        <tr>
-                <td>36</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19663">19663</a></td><td><div style="width: 100px">azure-mgmt-web 3.0.0: breaking changes without migration information</div></td><td>['question', 'App Services', 'Service Attention', 'customer-reported']</td><td>['RAY-316']</td><td>new comment !</td><td>07-06</td>
-            </tr>
-        <tr>
-                <td>37</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19600">19600</a></td><td><div style="width: 100px">consumption SDK usage_details.list does not filter by date</div></td><td>['bug', 'Service Attention', 'customer-reported', 'Consumption - UsageDetailsAndExport']</td><td> </td><td>new comment !</td><td>06-30</td>
-            </tr>
-        <tr>
-                <td>38</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19585">19585</a></td><td><div style="width: 100px">Aggregation strings aren't listed</div></td><td>['question', 'Monitor', 'Service Attention', 'customer-reported']</td><td>['RAY-316']</td><td>new comment !</td><td>06-29</td>
-            </tr>
-        <tr>
-                <td>39</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19294">19294</a></td><td><div style="width: 100px">Which SDK to be used in order to create a Express route circuit from a Direct Port?</div></td><td>['question', 'Network', 'Service Attention', 'customer-reported']</td><td> </td><td>new comment !</td><td>06-17</td>
-            </tr>
-        <tr>
-                <td>40</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19293">19293</a></td><td><div style="width: 100px">Add possibility to get tags on subscription level</div></td><td>['feature-request', 'Service Attention', 'customer-reported', 'Subscription']</td><td> </td><td>new comment !</td><td>06-17</td>
-            </tr>
-        <tr>
-                <td>41</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19224">19224</a></td><td><div style="width: 100px">azure-mgmt-batch Pool create incorrect API version</div></td><td>['bug', 'Batch', 'Service Attention', 'customer-reported']</td><td>['RAY-316']</td><td>new comment !</td><td>06-11</td>
-            </tr>
-        <tr>
-                <td>42</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19203">19203</a></td><td><div style="width: 100px">Cross references are broken</div></td><td>['Docs', 'question', 'customer-reported', 'Subscription']</td><td>['RAY-316']</td><td>new comment !</td><td>06-10</td>
-            </tr>
-        <tr>
-                <td>43</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19178">19178</a></td><td><div style="width: 100px">azure-mgmt-monitor throwing DeserializationError when handling API error</div></td><td>['question', 'Monitor', 'customer-reported']</td><td> </td><td>new comment !</td><td>06-09</td>
-            </tr>
-        <tr>
-                <td>44</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19147">19147</a></td><td><div style="width: 100px">backup_protection_containers.list got 400 error</div></td><td>['question', 'Recovery Services Backup', 'customer-reported']</td><td>['RAY-316']</td><td>new comment !</td><td>06-08</td>
-            </tr>
-        <tr>
-                <td>45</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/19009">19009</a></td><td><div style="width: 100px">azure-mgmt-resource documentation is missing the module itself</div></td><td>['bug', 'Docs', 'customer-reported']</td><td>['RAY-316']</td><td> </td><td>05-31</td>
-            </tr>
-        <tr>
-                <td>46</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18957">18957</a></td><td><div style="width: 100px">azure-mgmt-costmanagement CostManagementClient does not handle api_version</div></td><td>['bug', 'Service Attention', 'Cost Management - Query']</td><td> </td><td>new comment !</td><td>05-26</td>
-            </tr>
-        <tr>
-                <td>47</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18937">18937</a></td><td><div style="width: 100px">Varying spelling of CBLMariner and CBL_MARINER</div></td><td>['question', 'Service Attention', 'Container Service']</td><td> </td><td>new comment !</td><td>05-25</td>
-            </tr>
-        <tr>
-                <td>48</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18928">18928</a></td><td><div style="width: 100px">Missing ImportSource (and others) in azure.mgmt.containerregistry.v2019_04_01.models</div></td><td>['question', 'Container Registry', 'customer-reported']</td><td> </td><td>new comment !</td><td>05-25</td>
-            </tr>
-        <tr>
-                <td>49</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18927">18927</a></td><td><div style="width: 100px">azure-mgmt-costmanagement CostManagementClient ignores nextLink for usage</div></td><td>['bug', 'Service Attention', 'Cost Management - UsageDetailsAndExport']</td><td>['ShilpiGautam', 'olsaal-msft']</td><td>new comment !</td><td>05-25</td>
-            </tr>
-        <tr>
-                <td>50</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18911">18911</a></td><td><div style="width: 100px">Network interface cannot be modified by user Code: CannotModifyNicAttachedToPrivateEndpoint</div></td><td>['bug', 'question', 'Network', 'Service Attention', 'customer-reported']</td><td> </td><td>new comment !</td><td>05-25</td>
-            </tr>
-        <tr>
-                <td>51</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18905">18905</a></td><td><div style="width: 100px">Bad body serialization creating a Schedule Trigger in Data Factory</div></td><td>['bug', 'Data Factory', 'Service Attention', 'customer-reported', 'needs-team-attention']</td><td> </td><td>new comment !</td><td>05-25</td>
-            </tr>
-        <tr>
-                <td>52</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18877">18877</a></td><td>Python example invalid</td><td>['bug', 'customer-reported']</td><td> </td><td> </td><td>05-24</td>
-            </tr>
-        <tr>
-                <td>53</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18873">18873</a></td><td><div style="width: 100px">The Python SDK passing parameters to adf pipeline does not work</div></td><td>['bug', 'Data Factory', 'customer-reported', 'needs-team-triage']</td><td>['00Kai0']</td><td>new comment !</td><td>05-24</td>
-            </tr>
-        <tr>
-                <td>54</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18809">18809</a></td><td><div style="width: 100px">hardcoded API version in azure/mgmt/sql/operations/_databases_operations.py does not work for all sovereign clouds</div></td><td>['feature-request', 'SQL', 'Service Attention', 'customer-reported']</td><td> </td><td> </td><td>05-19</td>
-            </tr>
-        <tr>
-                <td>55</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18788">18788</a></td><td><div style="width: 100px">[API Management] Python DSK not using all schema data</div></td><td>['bug', 'API Management', 'customer-reported']</td><td> </td><td> </td><td>05-18</td>
-            </tr>
-        <tr>
-                <td>56</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18433">18433</a></td><td><div style="width: 100px">[proposal not a bug] missing example how to proceed with B2CTenantsOperations class</div></td><td>['feature-request', 'customer-reported', 'needs-team-triage']</td><td> </td><td> </td><td>04-29</td>
-            </tr>
-        <tr>
-                <td>57</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/18102">18102</a></td><td>Content too old to follow</td><td>['bug', 'Docs', 'question', 'MySQL', 'PostgreSQL', 'Service Attention', 'customer-reported']</td><td> </td><td>new comment !</td><td>04-16</td>
-            </tr>
-        <tr>
-                <td>58</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/17801">17801</a></td><td><div style="width: 100px">Azure SDK is over 500MB and growing on each release.</div></td><td>['question', 'Network', 'Service Attention', 'customer-reported']</td><td>['lmazuel']</td><td>new comment !</td><td>04-05</td>
-            </tr>
-        <tr>
-                <td>59</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/17764">17764</a></td><td><div style="width: 100px">Implement ExternalBearerTokenCredentialPolicy in azure-mgmt-core </div></td><td>['Azure.Mgmt.Core']</td><td>['jiasli', '00Kai0']</td><td>new comment !</td><td>04-02</td>
-            </tr>
-        <tr>
-                <td>60</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/17439">17439</a></td><td><div style="width: 100px">Category of the sub-assessment</div></td><td>['question', 'Security', 'Service Attention', 'customer-reported']</td><td> </td><td>new comment !</td><td>03-18</td>
-            </tr>
-        <tr>
-                <td>61</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/16943">16943</a></td><td><div style="width: 100px">Feature To Append Tags To A Resource</div></td><td>['feature-request', 'customer-reported', 'needs-team-attention', 'needs-team-triage']</td><td>['xiangyan99', '00Kai0', 'RAY-316', 'jaylabell']</td><td> </td><td>02-25</td>
-            </tr>
-        <tr>
-                <td>62</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15925">15925</a></td><td><div style="width: 100px">get public IP address at the same time when I get VM information.</div></td><td>['question', 'Compute', 'Compute - VM', 'customer-reported']</td><td>['00Kai0']</td><td>new comment !</td><td>12-28</td>
-            </tr>
-        <tr>
-                <td>63</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15913">15913</a></td><td><div style="width: 100px">AzureFileVolume not unmounted on container delete done_callback </div></td><td>['question', 'customer-reported']</td><td> </td><td>new issue !</td><td>12-23</td>
-            </tr>
-        <tr>
-                <td>64</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15910">15910</a></td><td><div style="width: 100px">Creating ContainerInstanceManagementClient using client factory causes TypeError exception</div></td><td>['question', 'customer-reported']</td><td> </td><td>new comment !</td><td>12-23</td>
-            </tr>
-        <tr>
-                <td>65</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15857">15857</a></td><td><div style="width: 100px">Subscription scope usage is not supported for current api version</div></td><td>['question', 'customer-reported']</td><td> </td><td>new issue !</td><td>12-17</td>
-            </tr>
-        <tr>
-                <td>66</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15732">15732</a></td><td><div style="width: 100px">Cannot Regenerate Storage Account Access Key</div></td><td>['Docs', 'question', 'customer-reported']</td><td> </td><td>new comment !</td><td>12-09</td>
-            </tr>
-        <tr>
-                <td>67</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15684">15684</a></td><td><div style="width: 100px">Get all 'Global administrators' users in Azure using python</div></td><td>['question', 'Service Attention', 'customer-reported']</td><td> </td><td>new issue !</td><td>12-07</td>
-            </tr>
-        <tr>
-                <td>68</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/15008">15008</a></td><td><div style="width: 100px">KeyVault library returns less number of fields when compared to PowerShell command</div></td><td>['question', 'KeyVault', 'customer-reported', 'needs-team-triage']</td><td> </td><td>new comment !</td><td>11-04</td>
-            </tr>
-        <tr>
-                <td>69</td><td><a href="https://github.com/Azure/azure-sdk-for-python/issues/13943">13943</a></td><td><div style="width: 100px">Error validating/creating Storage Account</div></td><td>['question', 'Service Attention', 'customer-reported']</td><td> </td><td> </td><td>09-22</td>
-            </tr>
-        </table>
+| No. | issue | title | labels | assignee | bot advice | created date |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 1 | [#21665](https://github.com/Azure/azure-sdk-for-python/issues/21665) | Typo in parameters | ['bug', 'Authorization', 'customer-reported', 'needs-team-attention', 'CXP Attention'] | ['MughundhanRaveendran-MSFT'] | new comment ! | 11-09  |
+| 2 | [#21664](https://github.com/Azure/azure-sdk-for-python/issues/21664) | Documentation fix: Expe-<br/>cted type 'TokenCredent-<br/>ial', got 'UserPassCred-<br/>entials' instead | ['Docs', 'Network - DNS', 'customer-reported', 'needs-team-attention', 'CXP Attention'] | ['PramodValavala-MSFT'] | new comment ! | 11-09  |
+| 3 | [#21642](https://github.com/Azure/azure-sdk-for-python/issues/21642) | 'MsiCredential' object -<br/>has no attribute 'signe-<br/>d_session' | ['customer-reported', 'Azure.Identity', 'Subscription', 'needs-team-attention'] | ['BigCat20196'] | new comment ! | 11-08  |
+| 4 | [#21635](https://github.com/Azure/azure-sdk-for-python/issues/21635) | support to create/updat-<br/>e VpnSiteLinksOperation-<br/>s | ['feature-request', 'Service Attention', 'customer-reported', 'needs-team-attention', 'Network - Private Link'] | ['RAY-316'] |   | 11-07  |
+| 5 | [#21467](https://github.com/Azure/azure-sdk-for-python/issues/21467) | B2B invitation endpoint-<br/> SDK | ['feature-request', 'Graph', 'Service Attention', 'customer-reported', 'needs-team-attention'] |   | new comment ! | 10-28  |
+| 6 | [#21451](https://github.com/Azure/azure-sdk-for-python/issues/21451) | Azure function list pro-<br/>perties | ['question', 'Service Attention', 'customer-reported', 'Web Apps', 'needs-team-attention'] | ['BigCat20196'] | new comment ! | 10-27  |
+| 7 | [#21450](https://github.com/Azure/azure-sdk-for-python/issues/21450) | Network resource provid-<br/>er API version is 8 ver-<br/>sions behind the latest-<br/> stable version | ['bug', 'Network', 'Service Attention'] |   | new comment ! | 10-27  |
+| 8 | [#21449](https://github.com/Azure/azure-sdk-for-python/issues/21449) | Authorization Role Defi-<br/>nition Update The reque-<br/>sted resource does not -<br/>support http method 'PU-<br/>T':  | ['question', 'Authorization', 'Service Attention', 'customer-reported', 'needs-team-attention'] | ['SaurabhSharma-MSFT'] | new comment ! | 10-27  |
+| 9 | [#21375](https://github.com/Azure/azure-sdk-for-python/issues/21375) | I can not update only o-<br/>ne key=value for the we-<br/>b app application setti-<br/>ng | ['feature-request', 'Service Attention', 'customer-reported', 'needs-team-attention'] | ['SaurabhSharma-MSFT'] | new comment ! | 10-22  |
+| 10 | [#21301](https://github.com/Azure/azure-sdk-for-python/issues/21301) | [Python] reduce size fo-<br/>r `azure-mgmt-network` | [] | ['RAY-316'] |   | 10-18  |
+| 11 | [#21252](https://github.com/Azure/azure-sdk-for-python/issues/21252) | from ._application_gate-<br/>ways_operations import -<br/>ApplicationGatewaysOper-<br/>ations  ValueError: sou-<br/>rce code string cannot -<br/>contain null bytes | ['bug', 'Network - Application Gateway', 'Service Attention', 'customer-reported', 'needs-team-attention'] | ['RAY-316'] | new comment ! | 10-14  |
+| 12 | [#21008](https://github.com/Azure/azure-sdk-for-python/issues/21008) | KeyInfo for functions d-<br/>oesn't serialize correc-<br/>tly | ['bug', 'feature-request', 'Service Attention', 'customer-reported', 'Web Apps', 'needs-team-attention'] | ['BigCat20196'] |   | 10-01  |
+| 13 | [#20907](https://github.com/Azure/azure-sdk-for-python/issues/20907) | Get the Azure VM IP inf-<br/>ormation | ['question', 'Compute', 'customer-reported', 'needs-team-attention'] | ['RAY-316'] |   | 09-28  |
+| 14 | [#20804](https://github.com/Azure/azure-sdk-for-python/issues/20804) | Switching Tenant withou-<br/>t relogin | ['feature-request', 'Service Attention', 'customer-reported', 'ARM - Core', 'needs-team-attention'] |   | new comment ! | 09-23  |
+| 15 | [#20802](https://github.com/Azure/azure-sdk-for-python/issues/20802) | Unable to authenticate -<br/>AzureStack using ADFS a-<br/>uthentication with User-<br/>PassCredentials | ['bug', 'Azure Stack', 'Service Attention', 'customer-reported', 'needs-team-attention'] |   | new comment ! | 09-23  |
+| 16 | [#20679](https://github.com/Azure/azure-sdk-for-python/issues/20679) | Query ALL azure service-<br/>s available in EACH reg-<br/>ion by azure sdk for py-<br/>thon | ['question', 'customer-reported'] |   |   | 09-14  |
+| 17 | [#20664](https://github.com/Azure/azure-sdk-for-python/issues/20664) | Azure data factory trig-<br/>ger creation using pyth-<br/>on SDK | ['question', 'Data Factory', 'Service Attention', 'customer-reported'] |   | new comment ! | 09-13  |
+| 18 | [#20629](https://github.com/Azure/azure-sdk-for-python/issues/20629) | `top` parameter in Cons-<br/>umptionManagementClient-<br/> didn't return expectin-<br/>g list. | ['question', 'Service Attention', 'customer-reported', 'needs-team-attention', 'Consumption - UsageDetailsAndExport'] | ['BigCat20196'] | new comment ! | 09-09  |
+| 19 | [#20372](https://github.com/Azure/azure-sdk-for-python/issues/20372) | Azure python api calls -<br/>gets stuck sometimes fo-<br/>r a long time | ['bug', 'Compute', 'Service Attention', 'customer-reported', 'needs-team-attention'] | ['jaylabell'] | new comment ! | 08-20  |
+| 20 | [#20356](https://github.com/Azure/azure-sdk-for-python/issues/20356) | azure-mgmt-netapp: Oper-<br/>ation: 'Change Ownershi-<br/>p' is not permitted whe-<br/>n creating NFSv4.1 volu-<br/>me | ['bug', 'customer-reported', 'needs-team-attention'] | ['RAY-316'] |   | 08-19  |
+| 21 | [#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288) | The operation api.get i-<br/>n the module azure.mgmt-<br/>.apimanagement.operatio-<br/>ns doesn't return all t-<br/>he fields | ['bug', 'API Management', 'customer-reported', 'needs-team-attention'] | ['BigCat20196'] | new comment ! | 08-16  |
+| 22 | [#20181](https://github.com/Azure/azure-sdk-for-python/issues/20181) | azure-mgmt-redis: LICEN-<br/>SE missing from PyPi | ['bug', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 23 | [#20177](https://github.com/Azure/azure-sdk-for-python/issues/20177) | azure-mgmt-recoveryserv-<br/>ices: LICENSE missing f-<br/>rom PyPi | ['bug', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 24 | [#20175](https://github.com/Azure/azure-sdk-for-python/issues/20175) | azure-mgmt-rdbms: LICEN-<br/>SE missing from PyPi | ['bug', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 25 | [#20172](https://github.com/Azure/azure-sdk-for-python/issues/20172) | azure-mgmt-policyinsigh-<br/>ts: LICENSE missing fro-<br/>m PyPi | ['bug', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 26 | [#20170](https://github.com/Azure/azure-sdk-for-python/issues/20170) | azure-mgmt-maps: LICENS-<br/>E missing from PyPi | ['bug', 'customer-reported'] |   |   | 08-09  |
+| 27 | [#20168](https://github.com/Azure/azure-sdk-for-python/issues/20168) | azure-mgmt-loganalytics-<br/>: LICENSE missing in Py-<br/>Pi | ['bug', 'customer-reported', 'Monitor - LogAnalytics', 'needs-team-attention'] |   |   | 08-09  |
+| 28 | [#20166](https://github.com/Azure/azure-sdk-for-python/issues/20166) | azure-mgmt-iotcentral: -<br/>LICENSE missing in PyPi-<br/> | ['bug', 'IoT', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 29 | [#20163](https://github.com/Azure/azure-sdk-for-python/issues/20163) | azure-mgmt-datamigratio-<br/>n: LICENSE missing in P-<br/>yPi | ['bug', 'Data Migration', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 30 | [#20161](https://github.com/Azure/azure-sdk-for-python/issues/20161) | azure-mgmt-databoxedge:-<br/> LICENSE missing in PyP-<br/>i | ['bug', 'customer-reported', 'needs-team-attention', 'DataBox Edge'] |   |   | 08-09  |
+| 31 | [#20159](https://github.com/Azure/azure-sdk-for-python/issues/20159) | azure-mgmt-compute: LIC-<br/>ENSE missing in PyPi | ['bug', 'Compute', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 32 | [#20155](https://github.com/Azure/azure-sdk-for-python/issues/20155) | azure-mgmt-batchai: LIC-<br/>ENSE file missing in py-<br/>pi | ['bug', 'BatchAI', 'customer-reported', 'needs-team-attention'] |   |   | 08-09  |
+| 33 | [#20044](https://github.com/Azure/azure-sdk-for-python/issues/20044) | Follow-up: Is it possib-<br/>le to create a VM with -<br/>OS disk type different -<br/>than Premium SSD? | ['question', 'Compute - VM', 'Service Attention', 'customer-reported', 'needs-team-attention'] | ['RAY-316', 'oriwolman'] | new comment ! | 08-02  |
+| 34 | [#19793](https://github.com/Azure/azure-sdk-for-python/issues/19793) | [azure-mgmt-sql] add su-<br/>pport for SQL replica | ['feature-request', 'SQL', 'Service Attention', 'customer-reported', 'needs-team-attention'] | ['RAY-316'] | new comment ! | 07-14  |
+| 35 | [#19665](https://github.com/Azure/azure-sdk-for-python/issues/19665) | Error responses from ce-<br/>rtain operations do not-<br/> conform to ODataV4 | ['question', 'App Services', 'Service Attention', 'customer-reported'] | ['BigCat20196', 'RAY-316'] |   | 07-06  |
+| 36 | [#19663](https://github.com/Azure/azure-sdk-for-python/issues/19663) | azure-mgmt-web 3.0.0: b-<br/>reaking changes without-<br/> migration information | ['question', 'App Services', 'Service Attention', 'customer-reported'] | ['RAY-316'] | new comment ! | 07-06  |
+| 37 | [#19600](https://github.com/Azure/azure-sdk-for-python/issues/19600) | consumption SDK usage_d-<br/>etails.list does not fi-<br/>lter by date | ['bug', 'Service Attention', 'customer-reported', 'Consumption - UsageDetailsAndExport'] |   | new comment ! | 06-30  |
+| 38 | [#19585](https://github.com/Azure/azure-sdk-for-python/issues/19585) | Aggregation strings are-<br/>n't listed | ['question', 'Monitor', 'Service Attention', 'customer-reported'] | ['RAY-316'] | new comment ! | 06-29  |
+| 39 | [#19294](https://github.com/Azure/azure-sdk-for-python/issues/19294) | Which SDK to be used in-<br/> order to create a Expr-<br/>ess route circuit from -<br/>a Direct Port? | ['question', 'Network', 'Service Attention', 'customer-reported'] |   | new comment ! | 06-17  |
+| 40 | [#19293](https://github.com/Azure/azure-sdk-for-python/issues/19293) | Add possibility to get -<br/>tags on subscription le-<br/>vel | ['feature-request', 'Service Attention', 'customer-reported', 'Subscription'] |   | new comment ! | 06-17  |
+| 41 | [#19224](https://github.com/Azure/azure-sdk-for-python/issues/19224) | azure-mgmt-batch Pool c-<br/>reate incorrect API ver-<br/>sion | ['bug', 'Batch', 'Service Attention', 'customer-reported'] | ['RAY-316'] | new comment ! | 06-11  |
+| 42 | [#19203](https://github.com/Azure/azure-sdk-for-python/issues/19203) | Cross references are br-<br/>oken | ['Docs', 'question', 'customer-reported', 'Subscription'] | ['RAY-316'] | new comment ! | 06-10  |
+| 43 | [#19178](https://github.com/Azure/azure-sdk-for-python/issues/19178) | azure-mgmt-monitor thro-<br/>wing DeserializationErr-<br/>or when handling API er-<br/>ror | ['question', 'Monitor', 'customer-reported'] |   | new comment ! | 06-09  |
+| 44 | [#19147](https://github.com/Azure/azure-sdk-for-python/issues/19147) | backup_protection_conta-<br/>iners.list got 400 erro-<br/>r | ['question', 'Recovery Services Backup', 'customer-reported'] | ['RAY-316'] | new comment ! | 06-08  |
+| 45 | [#19009](https://github.com/Azure/azure-sdk-for-python/issues/19009) | azure-mgmt-resource doc-<br/>umentation is missing t-<br/>he module itself | ['bug', 'Docs', 'customer-reported'] | ['RAY-316'] |   | 05-31  |
+| 46 | [#18957](https://github.com/Azure/azure-sdk-for-python/issues/18957) | azure-mgmt-costmanageme-<br/>nt CostManagementClient-<br/> does not handle api_ve-<br/>rsion | ['bug', 'Service Attention', 'Cost Management - Query'] |   | new comment ! | 05-26  |
+| 47 | [#18937](https://github.com/Azure/azure-sdk-for-python/issues/18937) | Varying spelling of CBL-<br/>Mariner and CBL_MARINER-<br/> | ['question', 'Service Attention', 'Container Service'] |   | new comment ! | 05-25  |
+| 48 | [#18928](https://github.com/Azure/azure-sdk-for-python/issues/18928) | Missing ImportSource (a-<br/>nd others) in azure.mgm-<br/>t.containerregistry.v20-<br/>19_04_01.models | ['question', 'Container Registry', 'customer-reported'] |   | new comment ! | 05-25  |
+| 49 | [#18927](https://github.com/Azure/azure-sdk-for-python/issues/18927) | azure-mgmt-costmanageme-<br/>nt CostManagementClient-<br/> ignores nextLink for u-<br/>sage | ['bug', 'Service Attention', 'Cost Management - UsageDetailsAndExport'] | ['ShilpiGautam', 'olsaal-msft'] | new comment ! | 05-25  |
+| 50 | [#18911](https://github.com/Azure/azure-sdk-for-python/issues/18911) | Network interface canno-<br/>t be modified by user C-<br/>ode: CannotModifyNicAtt-<br/>achedToPrivateEndpoint | ['bug', 'question', 'Network', 'Service Attention', 'customer-reported'] |   | new comment ! | 05-25  |
+| 51 | [#18905](https://github.com/Azure/azure-sdk-for-python/issues/18905) | Bad body serialization -<br/>creating a Schedule Tri-<br/>gger in Data Factory | ['bug', 'Data Factory', 'Service Attention', 'customer-reported', 'needs-team-attention'] |   | new comment ! | 05-25  |
+| 52 | [#18877](https://github.com/Azure/azure-sdk-for-python/issues/18877) | Python example invalid | ['bug', 'customer-reported'] |   |   | 05-24  |
+| 53 | [#18873](https://github.com/Azure/azure-sdk-for-python/issues/18873) | The Python SDK passing -<br/>parameters to adf pipel-<br/>ine does not work | ['bug', 'Data Factory', 'customer-reported', 'needs-team-triage'] | ['00Kai0'] | new comment ! | 05-24  |
+| 54 | [#18809](https://github.com/Azure/azure-sdk-for-python/issues/18809) | hardcoded API version i-<br/>n azure/mgmt/sql/operat-<br/>ions/_databases_operati-<br/>ons.py does not work fo-<br/>r all sovereign clouds | ['feature-request', 'SQL', 'Service Attention', 'customer-reported'] |   |   | 05-19  |
+| 55 | [#18788](https://github.com/Azure/azure-sdk-for-python/issues/18788) | [API Management] Python-<br/> DSK not using all sche-<br/>ma data | ['bug', 'API Management', 'customer-reported'] |   |   | 05-18  |
+| 56 | [#18433](https://github.com/Azure/azure-sdk-for-python/issues/18433) | [proposal not a bug] mi-<br/>ssing example how to pr-<br/>oceed with B2CTenantsOp-<br/>erations class | ['feature-request', 'customer-reported', 'needs-team-triage'] |   |   | 04-29  |
+| 57 | [#18102](https://github.com/Azure/azure-sdk-for-python/issues/18102) | Content too old to follow | ['bug', 'Docs', 'question', 'MySQL', 'PostgreSQL', 'Service Attention', 'customer-reported'] |   | new comment ! | 04-16  |
+| 58 | [#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801) | Azure SDK is over 500MB-<br/> and growing on each re-<br/>lease. | ['question', 'Network', 'Service Attention', 'customer-reported'] | ['lmazuel'] | new comment ! | 04-05  |
+| 59 | [#17764](https://github.com/Azure/azure-sdk-for-python/issues/17764) | Implement ExternalBeare-<br/>rTokenCredentialPolicy -<br/>in azure-mgmt-core  | ['Azure.Mgmt.Core'] | ['jiasli', '00Kai0'] | new comment ! | 04-02  |
+| 60 | [#17439](https://github.com/Azure/azure-sdk-for-python/issues/17439) | Category of the sub-ass-<br/>essment | ['question', 'Security', 'Service Attention', 'customer-reported'] |   | new comment ! | 03-18  |
+| 61 | [#16943](https://github.com/Azure/azure-sdk-for-python/issues/16943) | Feature To Append Tags -<br/>To A Resource | ['feature-request', 'customer-reported', 'needs-team-attention', 'needs-team-triage'] | ['xiangyan99', '00Kai0', 'RAY-316', 'jaylabell'] |   | 02-25  |
+| 62 | [#15925](https://github.com/Azure/azure-sdk-for-python/issues/15925) | get public IP address a-<br/>t the same time when I -<br/>get VM information. | ['question', 'Compute', 'Compute - VM', 'customer-reported'] | ['00Kai0'] | new comment ! | 12-28  |
+| 63 | [#15913](https://github.com/Azure/azure-sdk-for-python/issues/15913) | AzureFileVolume not unm-<br/>ounted on container del-<br/>ete done_callback  | ['question', 'customer-reported'] |   | new issue ! | 12-23  |
+| 64 | [#15910](https://github.com/Azure/azure-sdk-for-python/issues/15910) | Creating ContainerInsta-<br/>nceManagementClient usi-<br/>ng client factory cause-<br/>s TypeError exception | ['question', 'customer-reported'] |   | new comment ! | 12-23  |
+| 65 | [#15857](https://github.com/Azure/azure-sdk-for-python/issues/15857) | Subscription scope usag-<br/>e is not supported for -<br/>current api version | ['question', 'customer-reported'] |   | new issue ! | 12-17  |
+| 66 | [#15732](https://github.com/Azure/azure-sdk-for-python/issues/15732) | Cannot Regenerate Stora-<br/>ge Account Access Key | ['Docs', 'question', 'customer-reported'] |   | new comment ! | 12-09  |
+| 67 | [#15684](https://github.com/Azure/azure-sdk-for-python/issues/15684) | Get all 'Global adminis-<br/>trators' users in Azure-<br/> using python | ['question', 'Service Attention', 'customer-reported'] |   | new issue ! | 12-07  |
+| 68 | [#15008](https://github.com/Azure/azure-sdk-for-python/issues/15008) | KeyVault library return-<br/>s less number of fields-<br/> when compared to Power-<br/>Shell command | ['question', 'KeyVault', 'customer-reported', 'needs-team-triage'] |   | new comment ! | 11-04  |
+| 69 | [#13943](https://github.com/Azure/azure-sdk-for-python/issues/13943) | Error validating/creati-<br/>ng Storage Account | ['question', 'Service Attention', 'customer-reported'] |   |   | 09-22  |
