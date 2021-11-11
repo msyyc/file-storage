@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-iotcentral,BigCat20196,2021-10-12,2021-11-11,https://github.com/Azure/sdk-release-request/issues/2098
+azure-mgmt-avs,RAY-316,2021-10-26,2021-11-11,https://github.com/Azure/sdk-release-request/issues/2180
 azure-mgmt-desktopvirtualization,BigCat20196,2021-10-27,2021-11-11,https://github.com/Azure/sdk-release-request/issues/2185
 azure-mgmt-network,BigCat20196,2021-11-02,2021-11-09,https://github.com/Azure/sdk-release-request/issues/2200
 azure-mgmt-synapse,BigCat20196,2021-11-08,2021-11-09,https://github.com/Azure/sdk-release-request/issues/2210
