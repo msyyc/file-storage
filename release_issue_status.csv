@@ -3,8 +3,8 @@ Go,https://github.com/Azure/sdk-release-request/issues/2220,xuzhang3, ,2021-11-1
 Go,https://github.com/Azure/sdk-release-request/issues/2215,krishnasriSomepalli, ,2021-11-10,3,2021-11-10,3,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2214,krishnasriSomepalli, ,2021-11-10,3,2021-11-10,3,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2212,wonner, ,2021-11-08,5,2021-11-11,3,confirm,new comment.  <br> release date < 2 ! <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2206,yangyuan, ,2021-11-03,10,2021-11-10,3,confirm,new comment.  <br> release date < 2 ! <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2205,yangyuan, ,2021-11-03,10,2021-11-08,5,confirm,new comment.  <br> release date < 2 ! <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2206,yangyuan, ,2021-11-03,11,2021-11-10,3,confirm,new comment.  <br> release date < 2 ! <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2205,yangyuan, ,2021-11-03,11,2021-11-08,5,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2202,MikhailTryakhov, ,2021-11-02,11,2021-11-09,4,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2201,MikhailTryakhov, ,2021-11-02,11,2021-11-11,2,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2191,shawnxzq, ,2021-10-29,15,2021-11-09,4,confirm,new comment.  <br> release date < 2 ! <br>
@@ -34,7 +34,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,491,2021-08-03,102,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,494,2021-08-03,102,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,511,2021-08-03,102,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2207,yangyuan,azure-mgmt-cognitiveservices,2021-11-03,10,2021-11-12,2,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2207,yangyuan,azure-mgmt-cognitiveservices,2021-11-03,11,2021-11-12,2,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,42,2021-11-08,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2188,shawnxzq,azure-mgmt-datafactory,2021-10-29,15,2021-11-08,5,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2219,evelyn-ys,azure-mgmt-keyvault,2021-11-11,2,2021-11-11,2,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2219,evelyn-ys,azure-mgmt-keyvault,2021-11-11,3,2021-11-11,2,confirm,new comment.  <br> release date < 2 ! <br>
