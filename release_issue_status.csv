@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
- ,https://github.com/Azure/sdk-release-request/issues/2223,msyyc, ,2021-11-15,0,2021-11-15,0,confirm,new comment.  <br>
+ ,https://github.com/Azure/sdk-release-request/issues/2223,msyyc, ,2021-11-15,0,2021-11-15,0,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/2220,xuzhang3, ,2021-11-11,4,2021-11-11,4,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2215,krishnasriSomepalli, ,2021-11-10,5,2021-11-10,5,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2214,krishnasriSomepalli, ,2021-11-10,5,2021-11-15,0,confirm,new comment.  <br> release date < 2 ! <br>
@@ -36,6 +36,6 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,495,2021-08-03,104,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,512,2021-08-03,104,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,44,2021-11-08,7,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-containerinstance,2021-08-03,104,2021-11-15,0,confirm,failed to modify the body of the new issue. Please modify manually
+Python,https://github.com/Azure/sdk-release-request/issues/1826,RAY-316,azure-mgmt-containerinstance,2021-08-03,104,2021-11-15,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2188,shawnxzq,azure-mgmt-datafactory,2021-10-29,16,2021-11-15,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2222,dabenhamMic,azure-mgmt-loganalytics,2021-11-15,0,2021-11-15,0,confirm, 
