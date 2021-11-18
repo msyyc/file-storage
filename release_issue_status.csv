@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 JS,https://github.com/Azure/sdk-release-request/issues/2229,vutran01, ,2021-11-17,0,2021-11-17,0,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2228,vutran01, ,2021-11-17,0,2021-11-17,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2228,vutran01, ,2021-11-17,0,2021-11-18,0,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2226,vutran01, ,2021-11-17,0,2021-11-17,0,confirm,new comment.  <br>
  ,https://github.com/Azure/sdk-release-request/issues/2223,msyyc, ,2021-11-15,2,2021-11-17,0,confirm, 
 Go,https://github.com/Azure/sdk-release-request/issues/2220,xuzhang3, ,2021-11-11,6,2021-11-16,1,confirm,new comment.  <br>
@@ -11,7 +11,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2191,shawnxzq, ,2021-10-2
 Go,https://github.com/Azure/sdk-release-request/issues/2190,shawnxzq, ,2021-10-29,19,2021-11-02,15,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2176,zesluo, ,2021-10-26,22,2021-11-10,7,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2174,zesluo, ,2021-10-26,22,2021-11-09,8,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2173,vivek-microsoft, ,2021-10-26,22,2021-11-01,16,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2173,vivek-microsoft, ,2021-10-26,23,2021-11-01,16,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2156,dsouzaarun, ,2021-10-21,27,2021-11-03,14,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2142,lirenhe, ,2021-10-20,28,2021-10-20,28,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2141,lirenhe, ,2021-10-20,28,2021-10-20,28,confirm,new comment.  <br>
@@ -31,7 +31,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,488,2021-08-03,106,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,495,2021-08-03,106,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,498,2021-08-03,106,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,514,2021-08-03,106,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,0,2021-11-17,0,confirm,new issue ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,0,2021-11-17,0,confirm,new issue ! <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,515,2021-08-03,106,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,0,2021-11-18,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,0,2021-11-18,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,46,2021-11-17,0,confirm,new comment.  <br>
