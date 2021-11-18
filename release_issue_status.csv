@@ -1,4 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
+JS,https://github.com/Azure/sdk-release-request/issues/2232,thisisdevanshu, ,2021-11-18,0,2021-11-18,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2230,thisisdevanshu, ,2021-11-18,0,2021-11-18,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2229,vutran01, ,2021-11-17,0,2021-11-17,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2228,vutran01, ,2021-11-17,0,2021-11-18,0,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2226,vutran01, ,2021-11-17,0,2021-11-17,0,confirm,new comment.  <br>
@@ -35,3 +37,4 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,0,2021-11-18,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,0,2021-11-18,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2056,subbartt,azure-mgmt-connectedvmware,2021-10-02,46,2021-11-17,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2231,thisisdevanshu,azure-mgmt-orbital,2021-11-18,0,2021-11-18,0,confirm,new issue ! <br>
