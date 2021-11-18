@@ -3,4 +3,4 @@
 | [#2227](https://github.com/Azure/sdk-release-request/issues/2227) | vutran01 | applicationinsights | RAY-316 | new issue ! <br> | 11-17 | 12-01 |   |
 | [#2225](https://github.com/Azure/sdk-release-request/issues/2225) | bobokids | botservice | BigCat20196 |   | 11-17 | 11-24 |   |
 | [#2056](https://github.com/Azure/sdk-release-request/issues/2056) | subbartt | connectedvmware | RAY-316 | new comment.  <br> | 10-02 | 11-05 |   |
-| [#2231](https://github.com/Azure/sdk-release-request/issues/2231) | thisisdevanshu | orbital | RAY-316 | new issue ! <br> | 11-18 | 12-01 |   |
+| [#2231](https://github.com/Azure/sdk-release-request/issues/2231) | thisisdevanshu | orbital | RAY-316 |   | 11-18 | 12-01 |   |
