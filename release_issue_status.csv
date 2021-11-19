@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Go,https://github.com/Azure/sdk-release-request/issues/2238,gavinfish, ,2021-11-19,0,2021-11-19,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2237,frank-pang-msft, ,2021-11-19,0,2021-11-19,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2237,frank-pang-msft, ,2021-11-19,0,2021-11-19,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2236,Ochirkhuyag, ,2021-11-19,0,2021-11-19,0,confirm,failed to find Readme link and output folder!  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2235,thisisdevanshu, ,2021-11-18,0,2021-11-18,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2233,thisisdevanshu, ,2021-11-18,0,2021-11-18,0,confirm,new comment.  <br> release date < 2 ! <br>
@@ -28,7 +28,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2128,lirenhe, ,2021-10-18
 JS,https://github.com/Azure/sdk-release-request/issues/2127,lirenhe, ,2021-10-18,32,2021-10-18,32,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2126,lirenhe, ,2021-10-18,32,2021-10-18,32,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2125,lirenhe, ,2021-10-18,32,2021-10-18,32,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2101,giakas, ,2021-10-13,36,2021-11-03,15,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2101,giakas, ,2021-10-13,37,2021-11-03,15,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,415,2021-08-03,108,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,490,2021-08-03,108,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,496,2021-08-03,108,confirm,new comment.  <br>
