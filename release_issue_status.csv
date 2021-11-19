@@ -1,4 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
+Python,https://github.com/Azure/sdk-release-request/issues/2236,Ochirkhuyag, ,2021-11-19,0,2021-11-19,0,confirm,failed to modify the body of the new issue. Please modify manually
 Go,https://github.com/Azure/sdk-release-request/issues/2235,thisisdevanshu, ,2021-11-18,0,2021-11-18,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2233,thisisdevanshu, ,2021-11-18,0,2021-11-18,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2229,vutran01, ,2021-11-17,1,2021-11-17,1,confirm,new comment.  <br>
@@ -10,7 +11,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2191,shawnxzq, ,2021-10-2
 Go,https://github.com/Azure/sdk-release-request/issues/2190,shawnxzq, ,2021-10-29,20,2021-11-02,16,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2176,zesluo, ,2021-10-26,23,2021-11-10,8,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2174,zesluo, ,2021-10-26,23,2021-11-09,9,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2173,vivek-microsoft, ,2021-10-26,24,2021-11-01,17,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2173,vivek-microsoft, ,2021-10-26,24,2021-11-01,18,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2156,dsouzaarun, ,2021-10-21,28,2021-11-03,15,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2142,lirenhe, ,2021-10-20,29,2021-10-20,29,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2141,lirenhe, ,2021-10-20,29,2021-10-20,29,confirm,new comment.  <br>
