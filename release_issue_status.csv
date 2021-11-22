@@ -41,7 +41,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,502,2021-08-03,110,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,519,2021-08-03,110,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,4,2021-11-19,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,4,2021-11-19,3,confirm,new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,4,2021-11-22,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2245,tyler-lloyd,azure-mgmt-containerservice,2021-11-19,2,2021-11-20,2,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2239,shawnxzq,azure-mgmt-datafactory,2021-11-19,2,2021-11-20,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2234,thisisdevanshu,azure-mgmt-orbital,2021-11-18,3,2021-11-19,3,confirm,  release date < 2 ! <br>
