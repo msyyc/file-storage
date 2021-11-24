@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2256](https://github.com/Azure/sdk-release-request/issues/2256) | abranj1219 |   | RAY-316 | failed to modify the body of the new issue. Please modify manually | 11-24 | 11-30 |   |
 | [#2237](https://github.com/Azure/sdk-release-request/issues/2237) | frank-pang-msft |   | BigCat20196 |   | 11-19 | 12-02 |   |
 | [#2236](https://github.com/Azure/sdk-release-request/issues/2236) | Ochirkhuyag |   | RAY-316 |   | 11-19 | 12-10 |   |
 | [#2254](https://github.com/Azure/sdk-release-request/issues/2254) | DreamlessA | apimanagement | RAY-316 |   | 11-24 | 12-08 |   |
