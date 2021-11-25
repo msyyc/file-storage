@@ -8,4 +8,4 @@
 | [#2225](https://github.com/Azure/sdk-release-request/issues/2225) | bobokids | botservice | BigCat20196 |   release date < 2 ! <br> | 11-17 | 11-24 | -1 |
 | [#2245](https://github.com/Azure/sdk-release-request/issues/2245) | tyler-lloyd | containerservice | RAY-316 | new comment.  <br> | 11-19 | 11-29 |   |
 | [#2239](https://github.com/Azure/sdk-release-request/issues/2239) | shawnxzq | datafactory | BigCat20196 |   | 11-19 | 12-01 |   |
-| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | loganalytics | RAY-316 | new issue ! <br> | 08-03 | 10-29 |   |
+| [#1826](https://github.com/Azure/sdk-release-request/issues/1826) | RAY-316 | loganalytics | RAY-316 | duplicated issue  <br>auto reply failed!  <br> | 08-03 | 10-29 |   |
