@@ -1,6 +1,5 @@
 package name,assignee,created at,closed at,link
 azure-mgmt-loganalytics,RAY-316,2021-08-03,2021-11-25,https://github.com/Azure/sdk-release-request/issues/1826
-azure-mgmt-loganalytics,RAY-316,2021-08-03,2021-11-25,https://github.com/Azure/sdk-release-request/issues/1826
 azure-mgmt-maintenance,RAY-316,2021-10-25,2021-11-24,https://github.com/Azure/sdk-release-request/issues/2169
 azure-mgmt-orbital,BigCat20196,2021-11-18,2021-11-23,https://github.com/Azure/sdk-release-request/issues/2234
 azure-mgmt-connectedvmware,RAY-316,2021-10-02,2021-11-19,https://github.com/Azure/sdk-release-request/issues/2056
