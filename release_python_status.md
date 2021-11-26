@@ -6,5 +6,5 @@
 | [#2225](https://github.com/Azure/sdk-release-request/issues/2225) | bobokids | botservice | BigCat20196 |   release date < 2 ! <br> | 11-17 | 11-24 | -2 |
 | [#2245](https://github.com/Azure/sdk-release-request/issues/2245) | tyler-lloyd | containerservice | RAY-316 |   release date < 2 ! <br> | 11-19 | 11-29 | 2 |
 | [#2239](https://github.com/Azure/sdk-release-request/issues/2239) | shawnxzq | datafactory | BigCat20196 | new comment.  <br> | 11-19 | 12-01 |   |
-| [#2256](https://github.com/Azure/sdk-release-request/issues/2256) | abranj1219 | loadtestservice | RAY-316 | new issue ! <br> | 11-24 | 11-30 |   |
+| [#2256](https://github.com/Azure/sdk-release-request/issues/2256) | abranj1219 | loadtestservice | RAY-316 |   | 11-24 | 11-30 |   |
 | [#2236](https://github.com/Azure/sdk-release-request/issues/2236) | Ochirkhuyag | subscription | BigCat20196 | new comment.  <br> | 11-19 | 12-10 |   |
