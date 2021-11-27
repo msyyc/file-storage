@@ -7,4 +7,3 @@
 | [#2245](https://github.com/Azure/sdk-release-request/issues/2245) | tyler-lloyd | containerservice | RAY-316 |   release date < 2 ! <br> | 11-19 | 11-29 | 1 |
 | [#2256](https://github.com/Azure/sdk-release-request/issues/2256) | abranj1219 | loadtestservice | RAY-316 |   release date < 2 ! <br> | 11-24 | 11-30 | 2 |
 | [#2263](https://github.com/Azure/sdk-release-request/issues/2263) | audunn | netapp | RAY-316 | new issue ! <br> | 11-26 | 12-20 |   |
-| [#2236](https://github.com/Azure/sdk-release-request/issues/2236) | Ochirkhuyag | subscription | BigCat20196 | new comment.  <br> | 11-19 | 12-10 |   |
