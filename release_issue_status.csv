@@ -8,8 +8,8 @@ Go,https://github.com/Azure/sdk-release-request/issues/2257,abranj1219, ,2021-11
 JS,https://github.com/Azure/sdk-release-request/issues/2255,abranj1219, ,2021-11-24,4,2021-11-25,3,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2249,pratimaupadhyay02, ,2021-11-23,5,2021-11-23,5,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2248,pratimaupadhyay02, ,2021-11-23,5,2021-11-24,4,confirm,new comment.  <br> release date < 2 ! <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2246,tyler-lloyd, ,2021-11-19,9,2021-11-24,4,confirm,new comment.  <br> release date < 2 ! <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2243,tyler-lloyd, ,2021-11-19,9,2021-11-25,4,confirm,new comment.  <br> release date < 2 ! <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2246,tyler-lloyd, ,2021-11-19,9,2021-11-24,5,confirm,new comment.  <br> release date < 2 ! <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2243,tyler-lloyd, ,2021-11-19,9,2021-11-29,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2242,shawnxzq, ,2021-11-19,9,2021-11-23,5,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2240,shawnxzq, ,2021-11-19,9,2021-11-25,4,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2237,frank-pang-msft, ,2021-11-19,10,2021-11-26,2,confirm,  release date < 2 ! <br>
@@ -43,4 +43,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2254,DreamlessA,azure
 Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,11,2021-11-25,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,11,2021-11-25,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2256,abranj1219,azure-mgmt-loadtestservice,2021-11-24,4,2021-11-26,3,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,2,2021-11-27,2,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,2,2021-11-29,0,confirm, 
