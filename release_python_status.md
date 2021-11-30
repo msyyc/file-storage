@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2264](https://github.com/Azure/sdk-release-request/issues/2264) | jeffj6123 |   | RAY-316 | failed to modify the body of the new issue. Please modify manually | 11-29 | 12-01 | 0 |
+| [#2264](https://github.com/Azure/sdk-release-request/issues/2264) | jeffj6123 |   | RAY-316 | failed to find Readme link and output folder!  <br> | 11-29 | 12-01 | 0 |
 | [#2237](https://github.com/Azure/sdk-release-request/issues/2237) | frank-pang-msft |   | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 11-19 | 12-02 | 1 |
 | [#2254](https://github.com/Azure/sdk-release-request/issues/2254) | DreamlessA | apimanagement | RAY-316 |   | 11-24 | 12-08 |   |
 | [#2227](https://github.com/Azure/sdk-release-request/issues/2227) | vutran01 | applicationinsights | RAY-316 |   release date < 2 ! <br> | 11-17 | 12-01 | 0 |
