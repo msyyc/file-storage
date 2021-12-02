@@ -3,7 +3,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2273,rezmicrosoft, ,2021-
 Go,https://github.com/Azure/sdk-release-request/issues/2272,rezmicrosoft, ,2021-11-30,1,2021-12-02,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2270,rezmicrosoft, ,2021-11-30,1,2021-12-01,1,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2268,NarayanThiru, ,2021-11-30,1,2021-12-02,0,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2267,NarayanThiru, ,2021-11-30,1,2021-12-01,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2267,NarayanThiru, ,2021-11-30,1,2021-12-01,1,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2266,NarayanThiru, ,2021-11-30,1,2021-12-01,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2265,xiaxyi, ,2021-11-30,1,2021-12-02,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2260,audunn, ,2021-11-26,5,2021-12-02,0,confirm,new comment.  <br>
@@ -43,7 +43,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2254,DreamlessA,azure-mgmt-apimanagement,2021-11-24,8,2021-12-01,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,14,2021-11-25,7,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2225,bobokids,azure-mgmt-botservice,2021-11-17,14,2021-11-25,7,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2271,rezmicrosoft,azure-mgmt-imagebuilder,2021-11-30,1,2021-12-01,0,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2271,rezmicrosoft,azure-mgmt-imagebuilder,2021-11-30,1,2021-12-02,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,1,2021-12-01,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2256,abranj1219,azure-mgmt-loadtestservice,2021-11-24,7,2021-12-02,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,5,2021-11-30,2,confirm, 
