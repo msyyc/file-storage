@@ -2,9 +2,9 @@ language,issue,author,package,created date,delay from created date,latest update
 Go,https://github.com/Azure/sdk-release-request/issues/2280,eladperets, ,2021-12-04,0,2021-12-04,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2279,eladperets, ,2021-12-04,0,2021-12-04,0,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2278,eladperets, ,2021-12-04,0,2021-12-04,0,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2277,zdelacerda-microsoft, ,2021-12-03,0,2021-12-03,0,confirm,new comment.  <br> release date < 2 ! <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2277,zdelacerda-microsoft, ,2021-12-03,0,2021-12-04,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2276,zdelacerda-microsoft, ,2021-12-03,0,2021-12-04,0,confirm,new comment.  <br> release date < 2 ! <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2275,zdelacerda-microsoft, ,2021-12-03,0,2021-12-03,0,confirm,new comment.  <br> release date < 2 ! <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2275,zdelacerda-microsoft, ,2021-12-03,0,2021-12-04,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2273,rezmicrosoft, ,2021-11-30,3,2021-12-01,2,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2270,rezmicrosoft, ,2021-11-30,3,2021-12-03,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2267,NarayanThiru, ,2021-11-30,3,2021-12-03,0,confirm,new comment.  <br> release date < 2 ! <br>
@@ -39,11 +39,11 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,504,2021-08-03,122,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,511,2021-08-03,122,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,514,2021-08-03,122,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,530,2021-08-03,122,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,531,2021-08-03,122,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2254,DreamlessA,azure-mgmt-apimanagement,2021-11-24,9,2021-12-01,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2274,zdelacerda-microsoft,azure-mgmt-imagebuilder,2021-12-03,0,2021-12-03,0,confirm,duplicated issue  <br>auto reply failed!  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2274,zdelacerda-microsoft,azure-mgmt-imagebuilder,2021-12-03,0,2021-12-04,0,confirm,duplicated issue  <br>new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2271,rezmicrosoft,azure-mgmt-imagebuilder,2021-11-30,3,2021-12-03,0,confirm,duplicated issue  <br>new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,3,2021-12-01,2,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,3,2021-12-04,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2256,abranj1219,azure-mgmt-loadtestservice,2021-11-24,9,2021-12-03,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,7,2021-11-30,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2281,eladperets,azure-mgmt-policyinsights,2021-12-04,0,2021-12-04,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2281,eladperets,azure-mgmt-policyinsights,2021-12-04,0,2021-12-04,0,confirm, 
