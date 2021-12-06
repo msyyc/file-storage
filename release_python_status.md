@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2237](https://github.com/Azure/sdk-release-request/issues/2237) | frank-pang-msft |   | BigCat20196 |   | 11-19 | 12-02 |   |
 | [#2254](https://github.com/Azure/sdk-release-request/issues/2254) | DreamlessA | apimanagement | RAY-316 |   release date < 2 ! <br> | 11-24 | 12-08 | 1 |
 | [#2274](https://github.com/Azure/sdk-release-request/issues/2274) | zdelacerda-microsoft | imagebuilder | RAY-316 | duplicated issue  <br>new issue ! <br> release date < 2 ! <br> | 12-03 | 12-07 | 0 |
 | [#2271](https://github.com/Azure/sdk-release-request/issues/2271) | rezmicrosoft | imagebuilder | BigCat20196 | duplicated issue  <br>new comment.  <br> | 11-30 | 12-02 |   |
