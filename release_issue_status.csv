@@ -40,7 +40,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,533,2021-08-03,124,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2254,DreamlessA,azure-mgmt-apimanagement,2021-11-24,12,2021-12-01,5,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2271,rezmicrosoft,azure-mgmt-imagebuilder,2021-11-30,5,2021-12-03,2,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,5,2021-12-06,0,confirm,new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,5,2021-12-06,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2256,abranj1219,azure-mgmt-loadtestservice,2021-11-24,11,2021-12-03,2,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,9,2021-11-30,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2281,eladperets,azure-mgmt-policyinsights,2021-12-04,2,2021-12-04,2,confirm,  release date < 2 ! <br>
