@@ -29,10 +29,10 @@ JS,https://github.com/Azure/sdk-release-request/issues/2127,lirenhe, ,2021-10-18
 JS,https://github.com/Azure/sdk-release-request/issues/2126,lirenhe, ,2021-10-18,50,2021-12-03,4,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2125,lirenhe, ,2021-10-18,50,2021-12-03,4,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,434,2021-08-03,126,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,509,2021-08-03,126,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,515,2021-08-03,126,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,518,2021-08-03,126,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,535,2021-08-03,126,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,509,2021-08-03,127,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,515,2021-08-03,127,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,518,2021-08-03,127,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,535,2021-08-03,127,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2254,DreamlessA,azure-mgmt-apimanagement,2021-11-24,14,2021-12-01,7,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2284,zdelacerda-microsoft,azure-mgmt-imagebuilder,2021-12-06,1,2021-12-07,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,7,2021-12-06,2,confirm,  release date < 2 ! <br>
