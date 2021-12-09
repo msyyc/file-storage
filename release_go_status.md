@@ -5,8 +5,6 @@
 | [#2280](https://github.com/Azure/sdk-release-request/issues/2280) | eladperets |  | ArcturusZhang | new issue ! <br> | 12-04 |  |  |
 | [#2275](https://github.com/Azure/sdk-release-request/issues/2275) | zdelacerda-microsoft |  | ArcturusZhang | [] | 12-03 |  |  |
 | [#2259](https://github.com/Azure/sdk-release-request/issues/2259) | dennis-menge |  | ArcturusZhang | new issue ! <br> | 11-25 |  |  |
-| [#2257](https://github.com/Azure/sdk-release-request/issues/2257) | abranj1219 |  | ArcturusZhang | new issue ! <br> | 11-24 |  |  |
-| [#2235](https://github.com/Azure/sdk-release-request/issues/2235) | thisisdevanshu |  | ArcturusZhang | new issue ! <br> | 11-18 |  |  |
 | [#2142](https://github.com/Azure/sdk-release-request/issues/2142) | lirenhe |  | ArcturusZhang | new issue ! <br> | 10-20 |  |  |
 | [#2141](https://github.com/Azure/sdk-release-request/issues/2141) | lirenhe |  | ArcturusZhang | new issue ! <br> | 10-20 |  |  |
 | [#2140](https://github.com/Azure/sdk-release-request/issues/2140) | lirenhe |  | ArcturusZhang | new issue ! <br> | 10-20 |  |  |
