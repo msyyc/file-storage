@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2290](https://github.com/Azure/sdk-release-request/issues/2290) | janakiramachandran | consumption | RAY-316 | new issue ! <br> | 12-08 | 12-22 |   |
-| [#2293](https://github.com/Azure/sdk-release-request/issues/2293) | sojain | edgeorder | RAY-316 | new version is 0.0.0, please check base branch!   | 12-09 | 12-23 |   |
+| [#2290](https://github.com/Azure/sdk-release-request/issues/2290) | janakiramachandran | consumption | RAY-316 |   | 12-08 | 12-22 |   |
+| [#2293](https://github.com/Azure/sdk-release-request/issues/2293) | sojain | edgeorder | RAY-316 | new issue ! <br> | 12-09 | 12-23 |   |
 | [#2284](https://github.com/Azure/sdk-release-request/issues/2284) | zdelacerda-microsoft | imagebuilder | RAY-316 | new comment.  <br> release date < 2 ! <br> | 12-06 | 12-09 | -1 |
 | [#2269](https://github.com/Azure/sdk-release-request/issues/2269) | NarayanThiru | kubernetesconfiguration | RAY-316 |   | 11-30 | 12-07 |   |
 | [#2263](https://github.com/Azure/sdk-release-request/issues/2263) | audunn | netapp | RAY-316 |   | 11-26 | 12-20 |   |
