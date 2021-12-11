@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2300](https://github.com/Azure/sdk-release-request/issues/2300) | rohkuma-microsoft |  | weidongxu-microsoft | new issue ! <br> | 12-10 |  |  |
 | [#2294](https://github.com/Azure/sdk-release-request/issues/2294) | sojain |  | weidongxu-microsoft | [] | 12-09 |  |  |
 | [#2291](https://github.com/Azure/sdk-release-request/issues/2291) | janakiramachandran |  | weidongxu-microsoft | new issue ! <br> | 12-08 |  |  |
 | [#2243](https://github.com/Azure/sdk-release-request/issues/2243) | tyler-lloyd |  | XiaofeiCao | new issue ! <br> | 11-19 |  |  |
