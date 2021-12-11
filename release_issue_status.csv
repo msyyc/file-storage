@@ -1,10 +1,10 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Java,https://github.com/Azure/sdk-release-request/issues/2300,rohkuma-microsoft, ,2021-12-10,0,2021-12-11,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2298,rohkuma-microsoft, ,2021-12-10,0,2021-12-11,0,confirm,new comment.  <br> release date < 2 ! <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2297,rohkuma-microsoft, ,2021-12-10,0,2021-12-10,0,confirm,new comment.  <br> release date < 2 ! <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2297,rohkuma-microsoft, ,2021-12-10,0,2021-12-11,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2296,tonche, ,2021-12-10,0,2021-12-10,0,confirm,new comment.  <br> release date < 2 ! <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2295,sojain, ,2021-12-09,1,2021-12-10,0,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2294,sojain, ,2021-12-09,1,2021-12-10,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2295,sojain, ,2021-12-09,1,2021-12-10,1,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2294,sojain, ,2021-12-09,1,2021-12-10,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2292,pratimaupadhyay02, ,2021-12-09,1,2021-12-09,1,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2291,janakiramachandran, ,2021-12-08,2,2021-12-09,2,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2283,zdelacerda-microsoft, ,2021-12-06,4,2021-12-08,2,confirm,new comment.  <br> release date < 2 ! <br>
@@ -27,11 +27,11 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,511,2021-08-03,129,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,518,2021-08-03,129,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,521,2021-08-03,129,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,537,2021-08-03,129,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,538,2021-08-03,129,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-mgmt-applicationinsights,2021-11-17,23,2021-12-10,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandran,azure-mgmt-consumption,2021-12-08,2,2021-12-10,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,1,2021-12-10,0,confirm,new version is 0.0.0, please check base branch!  
-Python,https://github.com/Azure/sdk-release-request/issues/2299,rohkuma-microsoft,azure-mgmt-eventgrid,2021-12-10,0,2021-12-10,0,confirm,new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2299,rohkuma-microsoft,azure-mgmt-eventgrid,2021-12-10,0,2021-12-11,0,confirm,new version is 0.0.0, please check base branch!   release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,10,2021-12-06,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,14,2021-11-30,10,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2282,MilanBrkicFON,azure-mgmt-sql,2021-12-06,4,2021-12-07,3,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2282,MilanBrkicFON,azure-mgmt-sql,2021-12-06,4,2021-12-07,4,confirm,  release date < 2 ! <br>
