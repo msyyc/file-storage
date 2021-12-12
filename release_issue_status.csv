@@ -13,7 +13,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2279,eladperets, ,2021-12
 Go,https://github.com/Azure/sdk-release-request/issues/2259,dennis-menge, ,2021-11-25,16,2021-12-10,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2255,abranj1219, ,2021-11-24,17,2021-12-09,2,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2243,tyler-lloyd, ,2021-11-19,22,2021-11-29,12,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2226,vutran01, ,2021-11-17,24,2021-11-25,16,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2226,vutran01, ,2021-11-17,24,2021-11-25,17,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2176,zesluo, ,2021-10-26,46,2021-11-23,18,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2142,lirenhe, ,2021-10-20,52,2021-11-23,18,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2141,lirenhe, ,2021-10-20,52,2021-11-23,18,confirm,new comment.  <br>
@@ -32,6 +32,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/2227,vutran01,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandran,azure-mgmt-consumption,2021-12-08,3,2021-12-10,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,2,2021-12-10,1,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2299,rohkuma-microsoft,azure-mgmt-eventgrid,2021-12-10,1,2021-12-11,1,confirm,new version is 0.0.0, please check base branch!   release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,11,2021-12-11,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,15,2021-11-30,11,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2269,NarayanThiru,azure-mgmt-kubernetesconfiguration,2021-11-30,11,2021-12-11,1,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,15,2021-11-30,12,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2282,MilanBrkicFON,azure-mgmt-sql,2021-12-06,5,2021-12-07,5,confirm,  release date < 2 ! <br>
