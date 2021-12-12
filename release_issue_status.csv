@@ -2,7 +2,7 @@ language,issue,author,package,created date,delay from created date,latest update
 Java,https://github.com/Azure/sdk-release-request/issues/2300,rohkuma-microsoft, ,2021-12-10,1,2021-12-11,1,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2298,rohkuma-microsoft, ,2021-12-10,1,2021-12-11,1,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2297,rohkuma-microsoft, ,2021-12-10,1,2021-12-11,1,confirm,new comment.  <br> release date < 2 ! <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2296,tonche, ,2021-12-10,1,2021-12-10,1,confirm,new comment.  <br> release date < 2 ! <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2296,tonche, ,2021-12-10,2,2021-12-10,1,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2295,sojain, ,2021-12-09,2,2021-12-10,2,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2294,sojain, ,2021-12-09,2,2021-12-10,2,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2292,pratimaupadhyay02, ,2021-12-09,3,2021-12-09,3,confirm,new comment.  <br> release date < 2 ! <br>
