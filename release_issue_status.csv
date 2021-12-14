@@ -1,4 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
+Python,https://github.com/Azure/sdk-release-request/issues/2306,raktdas, ,2021-12-14,0,2021-12-14,0,confirm,failed to modify the body of the new issue. Please modify manually
 Java,https://github.com/Azure/sdk-release-request/issues/2305,stowen-msft, ,2021-12-12,1,2021-12-13,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2304,stowen-msft, ,2021-12-12,1,2021-12-13,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2303,stowen-msft, ,2021-12-12,1,2021-12-13,1,confirm,new comment.  <br>
@@ -10,23 +11,23 @@ Go,https://github.com/Azure/sdk-release-request/issues/2295,sojain, ,2021-12-09,
 Java,https://github.com/Azure/sdk-release-request/issues/2294,sojain, ,2021-12-09,4,2021-12-10,4,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2292,pratimaupadhyay02, ,2021-12-09,4,2021-12-09,4,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2291,janakiramachandran, ,2021-12-08,5,2021-12-09,5,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2283,zdelacerda-microsoft, ,2021-12-06,7,2021-12-13,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2283,zdelacerda-microsoft, ,2021-12-06,7,2021-12-13,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2280,eladperets, ,2021-12-04,10,2021-12-09,4,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2279,eladperets, ,2021-12-04,10,2021-12-13,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2259,dennis-menge, ,2021-11-25,18,2021-12-13,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2255,abranj1219, ,2021-11-24,19,2021-12-09,4,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2243,tyler-lloyd, ,2021-11-19,24,2021-11-29,14,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2226,vutran01, ,2021-11-17,26,2021-11-25,18,confirm,new comment.  <br>
  ,https://github.com/Azure/sdk-release-request/issues/2223,msyyc, ,2021-11-15,28,2021-12-13,0,confirm, 
 Java,https://github.com/Azure/sdk-release-request/issues/2176,zesluo, ,2021-10-26,48,2021-11-23,20,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2142,lirenhe, ,2021-10-20,54,2021-11-23,20,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2141,lirenhe, ,2021-10-20,54,2021-11-23,20,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2140,lirenhe, ,2021-10-20,54,2021-11-23,20,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2139,lirenhe, ,2021-10-20,54,2021-11-23,20,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20,54,2021-11-23,20,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,54,2021-11-23,20,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2136,lirenhe, ,2021-10-20,54,2021-12-03,10,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2128,lirenhe, ,2021-10-18,56,2021-12-03,10,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,152,2021-12-13,0,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,152,2021-12-13,1,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,440,2021-08-03,132,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,514,2021-08-03,132,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,521,2021-08-03,132,confirm,new comment.  <br>
