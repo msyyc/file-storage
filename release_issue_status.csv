@@ -36,5 +36,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandr
 Python,https://github.com/Azure/sdk-release-request/issues/2307,Frey-Wang,azure-mgmt-datafactory,2021-12-14,0,2021-12-14,0,confirm,new version is 0.0.0, please check base branch! new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,5,2021-12-14,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2299,rohkuma-microsoft,azure-mgmt-eventgrid,2021-12-10,4,2021-12-14,0,confirm,new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,18,2021-12-14,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,18,2021-12-15,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2282,MilanBrkicFON,azure-mgmt-sql,2021-12-06,8,2021-12-14,1,confirm, 
