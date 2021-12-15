@@ -2,7 +2,7 @@ language,issue,author,package,created date,delay from created date,latest update
 Go,https://github.com/Azure/sdk-release-request/issues/2310,Frey-Wang, ,2021-12-14,0,2021-12-14,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2309,Frey-Wang, ,2021-12-14,0,2021-12-14,0,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2308,Frey-Wang, ,2021-12-14,0,2021-12-14,0,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2305,stowen-msft, ,2021-12-12,2,2021-12-13,2,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2305,stowen-msft, ,2021-12-12,2,2021-12-15,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2304,stowen-msft, ,2021-12-12,2,2021-12-13,2,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2303,stowen-msft, ,2021-12-12,2,2021-12-14,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2298,rohkuma-microsoft, ,2021-12-10,4,2021-12-11,4,confirm,new comment.  <br> release date < 2 ! <br>
@@ -25,7 +25,7 @@ Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20
 Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,55,2021-11-23,21,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2136,lirenhe, ,2021-10-20,55,2021-12-03,11,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2128,lirenhe, ,2021-10-18,57,2021-12-03,11,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,153,2021-12-13,1,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,153,2021-12-13,2,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,441,2021-08-03,133,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,515,2021-08-03,133,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,522,2021-08-03,133,confirm,new comment.  <br>
