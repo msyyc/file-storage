@@ -1,7 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 JS,https://github.com/Azure/sdk-release-request/issues/2315,raktdas, ,2021-12-15,0,2021-12-15,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2314,raktdas, ,2021-12-15,0,2021-12-16,0,confirm,new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2313,raktdas, ,2021-12-15,0,2021-12-16,0,confirm,  release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2312,raktdas, ,2021-12-15,0,2021-12-16,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2310,Frey-Wang, ,2021-12-14,1,2021-12-14,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2309,Frey-Wang, ,2021-12-14,1,2021-12-14,1,confirm,new comment.  <br>
@@ -11,9 +10,9 @@ Go,https://github.com/Azure/sdk-release-request/issues/2304,stowen-msft, ,2021-1
 JS,https://github.com/Azure/sdk-release-request/issues/2303,stowen-msft, ,2021-12-12,3,2021-12-14,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2298,rohkuma-microsoft, ,2021-12-10,5,2021-12-11,5,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2296,tonche, ,2021-12-10,5,2021-12-10,5,confirm,new comment.  <br> release date < 2 ! <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2295,sojain, ,2021-12-09,6,2021-12-10,6,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2295,sojain, ,2021-12-09,6,2021-12-16,0,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2294,sojain, ,2021-12-09,6,2021-12-14,1,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2292,pratimaupadhyay02, ,2021-12-09,6,2021-12-09,6,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2292,pratimaupadhyay02, ,2021-12-09,6,2021-12-16,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2283,zdelacerda-microsoft, ,2021-12-06,9,2021-12-13,3,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2280,eladperets, ,2021-12-04,12,2021-12-09,6,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2279,eladperets, ,2021-12-04,12,2021-12-16,0,confirm,new comment.  <br>
@@ -37,9 +36,8 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,543,2021-08-03,134,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2302,stowen-msft,azure-mgmt-automanage,2021-12-12,3,2021-12-13,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandran,azure-mgmt-consumption,2021-12-08,7,2021-12-16,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2307,Frey-Wang,azure-mgmt-datafactory,2021-12-14,1,2021-12-14,1,confirm,new version is 0.0.0, please check base branch! new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,6,2021-12-14,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2299,rohkuma-microsoft,azure-mgmt-eventgrid,2021-12-10,5,2021-12-14,1,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2307,Frey-Wang,azure-mgmt-datafactory,2021-12-14,1,2021-12-16,0,confirm,new version is 0.0.0, please check base branch!  
+Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,6,2021-12-14,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,19,2021-12-15,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2311,gorandom,azure-mgmt-redis,2021-12-15,0,2021-12-16,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2282,MilanBrkicFON,azure-mgmt-sql,2021-12-06,9,2021-12-14,2,confirm, 
