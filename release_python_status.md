@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2237](https://github.com/Azure/sdk-release-request/issues/2237) | frank-pang-msft |   | BigCat20196 | new comment.  <br> | 11-19 | 12-02 |   |
+| [#2237](https://github.com/Azure/sdk-release-request/issues/2237) | frank-pang-msft |   | BigCat20196 |   | 11-19 | 12-02 |   |
 | [#2290](https://github.com/Azure/sdk-release-request/issues/2290) | janakiramachandran | consumption | RAY-316 |   release date < 2 ! <br> | 12-08 | 12-22 | 1 |
 | [#2293](https://github.com/Azure/sdk-release-request/issues/2293) | sojain | edgeorder | RAY-316 |   release date < 2 ! <br> | 12-09 | 12-23 | 2 |
 | [#2263](https://github.com/Azure/sdk-release-request/issues/2263) | audunn | netapp | RAY-316 | new comment.  <br> release date < 2 ! <br> | 11-26 | 12-20 | 0 |
