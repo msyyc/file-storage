@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-sql,BigCat20196,2021-12-06,2021-12-21,https://github.com/Azure/sdk-release-request/issues/2282
+azure-mgmt-redis,BigCat20196,2021-12-15,2021-12-21,https://github.com/Azure/sdk-release-request/issues/2311
 azure-mgmt-eventgrid,BigCat20196,2021-12-10,2021-12-16,https://github.com/Azure/sdk-release-request/issues/2299
 azure-mgmt-kubernetesconfiguration,RAY-316,2021-11-30,2021-12-14,https://github.com/Azure/sdk-release-request/issues/2269
 azure-mgmt-applicationinsights,RAY-316,2021-11-17,2021-12-13,https://github.com/Azure/sdk-release-request/issues/2227
