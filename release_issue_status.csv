@@ -4,7 +4,7 @@ Go,https://github.com/Azure/sdk-release-request/issues/2322,anat-gilenson, ,2021
 JS,https://github.com/Azure/sdk-release-request/issues/2321,anat-gilenson, ,2021-12-19,1,2021-12-20,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2320,mpodwysocki, ,2021-12-17,3,2021-12-18,3,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2318,mpodwysocki, ,2021-12-17,3,2021-12-18,3,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2317,mpodwysocki, ,2021-12-17,3,2021-12-20,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2317,mpodwysocki, ,2021-12-17,3,2021-12-20,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2316,t-bzhan, ,2021-12-17,3,2021-12-18,3,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2315,raktdas, ,2021-12-15,5,2021-12-20,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2312,raktdas, ,2021-12-15,5,2021-12-16,5,confirm,new comment.  <br>
@@ -35,4 +35,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandr
 Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,11,2021-12-21,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,24,2021-12-21,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2319,mpodwysocki,azure-mgmt-notificationhubs,2021-12-17,3,2021-12-21,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2326,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2021-12-21,0,2021-12-21,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2324,anat-gilenson,azure-mgmt-securityinsight,2021-12-19,1,2021-12-21,0,confirm,new comment.  <br>
