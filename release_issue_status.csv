@@ -32,5 +32,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandr
 Python,https://github.com/Azure/sdk-release-request/issues/2293,sojain,azure-mgmt-edgeorder,2021-12-09,11,2021-12-21,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2263,audunn,azure-mgmt-netapp,2021-11-26,24,2021-12-21,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2319,mpodwysocki,azure-mgmt-notificationhubs,2021-12-17,3,2021-12-21,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2326,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2021-12-21,0,2021-12-21,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2326,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2021-12-21,0,2021-12-21,0,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2324,anat-gilenson,azure-mgmt-securityinsight,2021-12-19,1,2021-12-21,0,confirm,new comment.  <br>
