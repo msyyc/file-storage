@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-edgeorder,BigCat20196,2021-12-09,2021-12-23,https://github.com/Azure/sdk-release-request/issues/2293
+azure-mgmt-recoveryservicesbackup,BigCat20196,2021-12-21,2021-12-23,https://github.com/Azure/sdk-release-request/issues/2326
 azure-mgmt-sql,BigCat20196,2021-12-06,2021-12-21,https://github.com/Azure/sdk-release-request/issues/2282
 azure-mgmt-redis,BigCat20196,2021-12-15,2021-12-21,https://github.com/Azure/sdk-release-request/issues/2311
 azure-mgmt-eventgrid,BigCat20196,2021-12-10,2021-12-16,https://github.com/Azure/sdk-release-request/issues/2299
