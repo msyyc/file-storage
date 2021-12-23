@@ -6,4 +6,4 @@
 | [#2263](https://github.com/Azure/sdk-release-request/issues/2263) | audunn | netapp | BigCat20196 |   | 11-26 | 12-20 |   |
 | [#2319](https://github.com/Azure/sdk-release-request/issues/2319) | mpodwysocki | notificationhubs | BigCat20196 |   | 12-17 | 01-03 |   |
 | [#2324](https://github.com/Azure/sdk-release-request/issues/2324) | anat-gilenson | securityinsight | BigCat20196 |   | 12-19 | 01-03 |   |
-| [#2334](https://github.com/Azure/sdk-release-request/issues/2334) | zesluo | streamanalytics | BigCat20196 | new issue ! <br> | 12-23 | 01-07 |   |
+| [#2334](https://github.com/Azure/sdk-release-request/issues/2334) | zesluo | streamanalytics | BigCat20196 |   | 12-23 | 01-07 |   |
