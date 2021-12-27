@@ -1,9 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2329](https://github.com/Azure/sdk-release-request/issues/2329) | yuwzho |  | ArcturusZhang | new issue. | 12-22 | 01-17 |  |
-| [#2322](https://github.com/Azure/sdk-release-request/issues/2322) | anat-gilenson |  | ArcturusZhang | new issue. | 12-19 | 01-03 |  |
+| [#2335](https://github.com/Azure/sdk-release-request/issues/2335) | ArcturusZhang |  | ArcturusZhang | new issue. | 12-24 | 01-10 |  |
+| [#2331](https://github.com/Azure/sdk-release-request/issues/2331) | zesluo |  | ArcturusZhang | new issue. | 12-23 | 01-07 |  |
 | [#2320](https://github.com/Azure/sdk-release-request/issues/2320) | mpodwysocki |  | ArcturusZhang |  | 12-17 | 01-03 |  |
-| [#2316](https://github.com/Azure/sdk-release-request/issues/2316) | t-bzhan |  | ArcturusZhang | new issue. close to release date.  | 12-17 | 12-21 | -2 |
 | [#2312](https://github.com/Azure/sdk-release-request/issues/2312) | raktdas |  | ArcturusZhang |  | 12-15 | 12-17 |  |
 | [#2280](https://github.com/Azure/sdk-release-request/issues/2280) | eladperets |  | ArcturusZhang | new comment. | 12-04 | 12-08 |  |
 | [#2142](https://github.com/Azure/sdk-release-request/issues/2142) | lirenhe |  | ArcturusZhang | new issue. | 10-20 | 11-03 |  |
