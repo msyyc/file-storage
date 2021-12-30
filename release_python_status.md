@@ -3,7 +3,6 @@
 | [#2237](https://github.com/Azure/sdk-release-request/issues/2237) | frank-pang-msft |   | BigCat20196 |   | 11-19 | 12-02 |   |
 | [#2327](https://github.com/Azure/sdk-release-request/issues/2327) | yuwzho | appplatform | BigCat20196 |   | 12-22 | 01-17 |   |
 | [#2290](https://github.com/Azure/sdk-release-request/issues/2290) | janakiramachandran | consumption | BigCat20196 |   | 12-08 | 12-22 |   |
-| [#1896](https://github.com/Azure/sdk-release-request/issues/1896) | BigCat20196 | logz | BigCat20196 | new version is 0.0.0, please check base branch! new issue ! <br> | 08-30 | 10-15 |   |
 | [#2263](https://github.com/Azure/sdk-release-request/issues/2263) | audunn | netapp | BigCat20196 |   | 11-26 | 12-20 |   |
 | [#2319](https://github.com/Azure/sdk-release-request/issues/2319) | mpodwysocki | notificationhubs | BigCat20196 |   | 12-17 | 01-03 |   |
 | [#2324](https://github.com/Azure/sdk-release-request/issues/2324) | anat-gilenson | securityinsight | BigCat20196 |   | 12-19 | 01-03 |   |
