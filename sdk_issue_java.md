@@ -11,7 +11,7 @@
 |9|[#25133](https://github.com/Azure/azure-sdk-for-java/issues/25133)|Analyze data for all new customers' usage|Mgmt, Mgmt - Track 2|haolingdong-msft||2021-11-02|
 |10|[#24935](https://github.com/Azure/azure-sdk-for-java/issues/24935)|mgmt, compute, support deep delete|Mgmt, Mgmt - Track 2|weidongxu-microsoft|new issue|2021-10-21|
 |11|[#24934](https://github.com/Azure/azure-sdk-for-java/issues/24934)|mgmt, appservice, support deployment status|Mgmt, Mgmt - Track 2|weidongxu-microsoft|new issue|2021-10-21|
-|12|[#24923](https://github.com/Azure/azure-sdk-for-java/issues/24923)|[Java] Remaining Issues clean up for Mgmt SDK|Mgmt, MQ|ArthurMa1978, weidongxu-microsoft|new issue|2021-10-20|
+|12|[#24923](https://github.com/Azure/azure-sdk-for-java/issues/24923)|[Java] Remaining Issues clean up for Mgmt SDK|Mgmt, MQ|weidongxu-microsoft, ArthurMa1978|new issue|2021-10-20|
 |13|[#24893](https://github.com/Azure/azure-sdk-for-java/issues/24893)|[BUG] com.azure.resourcemanager.appservice.fluent.WebAppsClient / getBackupConfiguration(String,String) fails with Reader role|question, App Services, Service Attention, Mgmt, customer-reported, Web Apps, Mgmt - Track 2, issue-addressed|weidongxu-microsoft||2021-10-19|
 |14|[#24861](https://github.com/Azure/azure-sdk-for-java/issues/24861)|[Java] Upgrade service documents from Track 1 to Track 2|Mgmt, MQ|haolingdong-msft||2021-10-18|
 |15|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
