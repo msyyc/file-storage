@@ -4,7 +4,7 @@
 |2|[#18420](https://github.com/Azure/azure-sdk-for-js/issues/18420)|@azure/arm-compute - Boolean as string?|Mgmt, Compute, needs-author-feedback|qiaozha||2021-10-28|
 |3|[#18326](https://github.com/Azure/azure-sdk-for-js/issues/18326)|Browser sample on README.md, links to src are relative - is this correct?|Mgmt, Docs|qiaozha|new comment|2021-10-22|
 |4|[#18316](https://github.com/Azure/azure-sdk-for-js/issues/18316)|Please fix all mgmt packages to directly link to the package's ref docs|Mgmt, Docs|qiaozha|new comment|2021-10-22|
-|5|[#18286](https://github.com/Azure/azure-sdk-for-js/issues/18286)|[JS] Remaining Issues clean up for Mgmt SDK|Mgmt, MQ|qiaozha, lirenhe|new issue|2021-10-20|
+|5|[#18286](https://github.com/Azure/azure-sdk-for-js/issues/18286)|[JS] Remaining Issues clean up for Mgmt SDK|Mgmt, MQ|lirenhe, qiaozha|new issue|2021-10-20|
 |6|[#18269](https://github.com/Azure/azure-sdk-for-js/issues/18269)|App Insights Workbook and MyWorkbook GET operations are sending an unsupported api-version|question, customer-reported, Mgmt, Monitor - ApplicationInsights, needs-author-feedback, no-recent-activity|qiaozha||2021-10-19|
 |7|[#18246](https://github.com/Azure/azure-sdk-for-js/issues/18246)|[JS] Support mgmt. plane SDK sample generation based on Swagger examples|Mgmt, MQ|qiaozha|new issue|2021-10-18|
 |8|[#17787](https://github.com/Azure/azure-sdk-for-js/issues/17787)|[Compute] Add ability to assign tags to disks when created/updated with ComputeManagementClient.virtualMachines|question, customer-reported, Mgmt, Service Attention, Compute, needs-author-feedback|TravisCragg-MSFT, qiaozha||2021-09-22|
