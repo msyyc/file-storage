@@ -1,4 +1,7 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-consumption,BigCat20196,2021-12-08,2022-01-06,https://github.com/Azure/sdk-release-request/issues/2290
+azure-mgmt-streamanalytics,BigCat20196,2021-12-23,2022-01-06,https://github.com/Azure/sdk-release-request/issues/2334
+azure-mgmt-netapp,BigCat20196,2022-01-04,2022-01-06,https://github.com/Azure/sdk-release-request/issues/2340
 azure-mgmt-edgeorder,BigCat20196,2021-12-09,2021-12-23,https://github.com/Azure/sdk-release-request/issues/2293
 azure-mgmt-recoveryservicesbackup,BigCat20196,2021-12-21,2021-12-23,https://github.com/Azure/sdk-release-request/issues/2326
 azure-mgmt-sql,BigCat20196,2021-12-06,2021-12-21,https://github.com/Azure/sdk-release-request/issues/2282
