@@ -7,8 +7,8 @@ Java,https://github.com/Azure/sdk-release-request/issues/2345,Frey-Wang, ,2022-0
 JS,https://github.com/Azure/sdk-release-request/issues/2344,Frey-Wang, ,2022-01-06,0,2022-01-06,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2337,sukodava, ,2022-01-04,1,2022-01-06,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2332,zesluo, ,2021-12-23,14,2022-01-06,0,confirm,new comment.  <br> release date < 2 ! <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2330,yuwzho, ,2021-12-22,15,2022-01-05,0,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2328,yuwzho, ,2021-12-22,15,2022-01-05,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2330,yuwzho, ,2021-12-22,15,2022-01-05,1,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2328,yuwzho, ,2021-12-22,15,2022-01-05,1,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2323,anat-gilenson, ,2021-12-19,17,2021-12-21,15,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2321,anat-gilenson, ,2021-12-19,17,2021-12-22,15,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2312,raktdas, ,2021-12-15,21,2021-12-16,21,confirm,new comment.  <br>
@@ -35,9 +35,9 @@ Python,https://github.com/Azure/sdk-release-request/issues/2341,yingru97,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2327,yuwzho,azure-mgmt-appplatform,2021-12-22,15,2022-01-06,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2351,zhixzhan,azure-mgmt-botservice,2022-01-06,0,2022-01-06,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2336,sukodava,azure-mgmt-compute,2022-01-04,1,2022-01-06,0,confirm,new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandran,azure-mgmt-consumption,2021-12-08,28,2022-01-06,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2290,janakiramachandran,azure-mgmt-consumption,2021-12-08,28,2022-01-06,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2346,Frey-Wang,azure-mgmt-datafactory,2022-01-06,0,2022-01-06,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,1,2022-01-06,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2340,hildurhodd,azure-mgmt-netapp,2022-01-04,1,2022-01-06,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2319,mpodwysocki,azure-mgmt-notificationhubs,2021-12-17,19,2022-01-06,0,confirm,new version is 0.0.0, please check base branch!  
+Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,1,2022-01-06,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2340,hildurhodd,azure-mgmt-netapp,2022-01-04,1,2022-01-06,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2319,mpodwysocki,azure-mgmt-notificationhubs,2021-12-17,19,2022-01-06,0,confirm,new version is 0.0.0, please check base branch! new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2334,zesluo,azure-mgmt-streamanalytics,2021-12-23,14,2022-01-06,0,confirm,  release date < 2 ! <br>
