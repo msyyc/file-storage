@@ -1,2 +1,2 @@
 package name,pypi link,latest track1 version,latest track1 release date,track1 GA version,latest track2 version,latest track1 release date,track2 GA version,cli dependency,readme config,bot advice,readme link,multi api,test coverage,passed,failed,skipped
-azure-mgmt-network,https://pypi.org/pypi/azure-mgmt-network,NA,NA,1.0.0,NA,NA,16.0.0,NA,track2,,https://github.com/Azure/azure-rest-api-specs/tree/main/specification/network/resource-manager/,True,-, -, -, -
+azure-mgmt-network,https://pypi.org/pypi/azure-mgmt-network,NA,NA,NA,NA,NA,13.0.0,NA,track2,,https://github.com/Azure/azure-rest-api-specs/tree/main/specification/network/resource-manager/,True,-, -, -, -
