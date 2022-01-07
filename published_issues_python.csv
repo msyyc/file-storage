@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-compute,BigCat20196,2022-01-04,2022-01-07,https://github.com/Azure/sdk-release-request/issues/2336
 azure-mgmt-notificationhubs,BigCat20196,2021-12-17,2022-01-07,https://github.com/Azure/sdk-release-request/issues/2319
 azure-mgmt-consumption,BigCat20196,2021-12-08,2022-01-06,https://github.com/Azure/sdk-release-request/issues/2290
 azure-mgmt-streamanalytics,BigCat20196,2021-12-23,2022-01-06,https://github.com/Azure/sdk-release-request/issues/2334
