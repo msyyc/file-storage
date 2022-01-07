@@ -6,5 +6,4 @@
 | [#2336](https://github.com/Azure/sdk-release-request/issues/2336) | sukodava | compute | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 01-04 | 01-06 | -1 |
 | [#2346](https://github.com/Azure/sdk-release-request/issues/2346) | Frey-Wang | datafactory | BigCat20196 |   | 01-06 | 01-20 |   |
 | [#2342](https://github.com/Azure/sdk-release-request/issues/2342) | dabenhamMic | loganalytics | BigCat20196 | new comment.  <br> | 01-05 | 01-19 |   |
-| [#2319](https://github.com/Azure/sdk-release-request/issues/2319) | mpodwysocki | notificationhubs | BigCat20196 |   | 12-17 | 01-03 |   |
 | [#2352](https://github.com/Azure/sdk-release-request/issues/2352) | JennyLawrance | web | BigCat20196 | new issue ! <br> release date < 2 ! <br> | 01-06 | 01-10 | 2 |
