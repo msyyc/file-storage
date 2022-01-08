@@ -1,10 +1,10 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-JS,https://github.com/Azure/sdk-release-request/issues/2363,nickdepinet, ,2022-01-07,0,2022-01-07,0,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2361,nickdepinet, ,2022-01-07,0,2022-01-07,0,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2362,nickdepinet, ,2022-01-07,0,2022-01-07,0,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,0,2022-01-07,0,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2358,komakkar, ,2022-01-07,0,2022-01-07,0,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2357,komakkar, ,2022-01-07,0,2022-01-07,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2363,nickdepinet, ,2022-01-07,0,2022-01-08,0,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2361,nickdepinet, ,2022-01-07,0,2022-01-08,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2362,nickdepinet, ,2022-01-07,0,2022-01-08,0,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,0,2022-01-08,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2358,komakkar, ,2022-01-07,0,2022-01-08,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2357,komakkar, ,2022-01-07,0,2022-01-08,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2356,Ochirkhuyag, ,2022-01-07,0,2022-01-07,0,confirm,auto reply failed!  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2355,JennyLawrance, ,2022-01-06,1,2022-01-07,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2354,JennyLawrance, ,2022-01-06,1,2022-01-07,0,confirm,new comment.  <br> release date < 2 ! <br>
@@ -39,12 +39,12 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,539,2021-08-03,157,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,546,2021-08-03,157,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,549,2021-08-03,157,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,565,2021-08-03,157,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,566,2021-08-03,157,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2341,yingru97,azure-mgmt-apimanagement,2022-01-04,3,2022-01-06,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2327,yuwzho,azure-mgmt-appplatform,2021-12-22,16,2022-01-06,1,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2351,zhixzhan,azure-mgmt-botservice,2022-01-06,1,2022-01-07,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2346,Frey-Wang,azure-mgmt-datafactory,2022-01-06,1,2022-01-06,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2364,nickdepinet,azure-mgmt-labservices,2022-01-07,0,2022-01-07,0,confirm,auto reply failed!  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2364,nickdepinet,azure-mgmt-labservices,2022-01-07,0,2022-01-08,0,confirm,auto reply failed!  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,2,2022-01-07,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,0,2022-01-07,0,confirm,auto reply failed!  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,0,2022-01-08,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2352,JennyLawrance,azure-mgmt-web,2022-01-06,1,2022-01-07,0,confirm,auto reply failed!  <br> release date < 2 ! <br>
