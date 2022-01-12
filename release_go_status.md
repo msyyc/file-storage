@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2374](https://github.com/Azure/sdk-release-request/issues/2374) | lynshi |  | ArcturusZhang | new issue. new comment. | 01-12 | 01-18 |  |
 | [#2373](https://github.com/Azure/sdk-release-request/issues/2373) | yanjungao718 |  | ArcturusZhang | new issue. new comment. | 01-11 | 01-24 |  |
 | [#2369](https://github.com/Azure/sdk-release-request/issues/2369) | vighatke |  | ArcturusZhang | new issue. new comment. | 01-10 | 01-24 |  |
 | [#2362](https://github.com/Azure/sdk-release-request/issues/2362) | nickdepinet |  | ArcturusZhang | new issue. | 01-07 | 01-18 |  |
