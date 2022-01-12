@@ -4,7 +4,7 @@
 | [#2366](https://github.com/Azure/sdk-release-request/issues/2366) | vighatke |  | qiaozha | new issue. new comment. | 01-10 | 01-24 |  |
 | [#2363](https://github.com/Azure/sdk-release-request/issues/2363) | nickdepinet |  | qiaozha | new issue. new comment. | 01-07 | 01-18 |  |
 | [#2357](https://github.com/Azure/sdk-release-request/issues/2357) | komakkar |  | qiaozha | new issue. new comment. | 01-07 | 01-24 |  |
-| [#2353](https://github.com/Azure/sdk-release-request/issues/2353) | JennyLawrance |  | qiaozha | new issue. new comment. close to release date.  | 01-06 | 01-10 | -1 |
+| [#2353](https://github.com/Azure/sdk-release-request/issues/2353) | JennyLawrance |  | qiaozha | new issue. new comment. close to release date.  | 01-06 | 01-10 | -2 |
 | [#2349](https://github.com/Azure/sdk-release-request/issues/2349) | zhixzhan |  | qiaozha | new issue. new comment. | 01-06 | 01-20 |  |
 | [#2344](https://github.com/Azure/sdk-release-request/issues/2344) | Frey-Wang |  | qiaozha | new issue. new comment. | 01-06 | 01-20 |  |
 | [#2337](https://github.com/Azure/sdk-release-request/issues/2337) | sukodava |  | qiaozha | new issue. new comment. | 01-04 | 01-06 |  |
