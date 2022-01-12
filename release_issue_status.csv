@@ -16,11 +16,11 @@ Java,https://github.com/Azure/sdk-release-request/issues/2355,JennyLawrance, ,20
 Go,https://github.com/Azure/sdk-release-request/issues/2354,JennyLawrance, ,2022-01-06,5,2022-01-07,4,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2353,JennyLawrance, ,2022-01-06,5,2022-01-11,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2350,zhixzhan, ,2022-01-06,5,2022-01-10,1,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2349,zhixzhan, ,2022-01-06,5,2022-01-11,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2349,zhixzhan, ,2022-01-06,5,2022-01-11,1,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2348,zhixzhan, ,2022-01-06,5,2022-01-10,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2347,Frey-Wang, ,2022-01-06,5,2022-01-07,4,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2345,Frey-Wang, ,2022-01-06,5,2022-01-07,4,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2344,Frey-Wang, ,2022-01-06,5,2022-01-10,1,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2344,Frey-Wang, ,2022-01-06,5,2022-01-10,2,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2337,sukodava, ,2022-01-04,7,2022-01-06,5,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2330,yuwzho, ,2021-12-22,20,2022-01-10,1,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2328,yuwzho, ,2021-12-22,20,2022-01-05,6,confirm,new comment.  <br>
@@ -40,7 +40,7 @@ Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20
 Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,83,2021-11-23,49,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2136,lirenhe, ,2021-10-20,83,2021-12-03,39,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2128,lirenhe, ,2021-10-18,85,2021-12-21,21,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,181,2021-12-13,29,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,181,2021-12-13,30,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,469,2021-08-03,161,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,543,2021-08-03,161,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,550,2021-08-03,161,confirm,new comment.  <br>
@@ -51,7 +51,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2327,yuwzho,azure-mgm
 Python,https://github.com/Azure/sdk-release-request/issues/2351,zhixzhan,azure-mgmt-botservice,2022-01-06,5,2022-01-10,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2346,Frey-Wang,azure-mgmt-datafactory,2022-01-06,5,2022-01-06,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,1,2022-01-11,0,confirm,auto reply failed!  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2364,nickdepinet,azure-mgmt-labservices,2022-01-07,4,2022-01-11,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2364,nickdepinet,azure-mgmt-labservices,2022-01-07,4,2022-01-11,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,6,2022-01-10,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,4,2022-01-10,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2356,Ochirkhuyag,azure-mgmt-subscription,2022-01-07,4,2022-01-10,1,confirm,  release date < 2 ! <br>
