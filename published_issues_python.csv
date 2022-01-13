@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-netapp,msyyc,2022-01-12,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2375
 azure-mgmt-botservice,BigCat20196,2022-01-06,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2351
 azure-mgmt-web,BigCat20196,2022-01-06,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2352
 azure-mgmt-compute,BigCat20196,2022-01-04,2022-01-07,https://github.com/Azure/sdk-release-request/issues/2336
