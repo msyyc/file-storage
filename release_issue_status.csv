@@ -5,7 +5,7 @@ Java,https://github.com/Azure/sdk-release-request/issues/2372,yanjungao718, ,202
 JS,https://github.com/Azure/sdk-release-request/issues/2370,yanjungao718, ,2022-01-11,1,2022-01-11,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2369,vighatke, ,2022-01-10,2,2022-01-11,2,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2367,vighatke, ,2022-01-10,2,2022-01-11,2,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2366,vighatke, ,2022-01-10,2,2022-01-11,2,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2366,vighatke, ,2022-01-10,2,2022-01-13,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2363,nickdepinet, ,2022-01-07,5,2022-01-10,2,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2361,nickdepinet, ,2022-01-07,5,2022-01-08,5,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2362,nickdepinet, ,2022-01-07,5,2022-01-08,5,confirm,new comment.  <br>
@@ -46,7 +46,6 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,554,2021-08-03,162,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,571,2021-08-03,162,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2341,yingru97,azure-mgmt-apimanagement,2022-01-04,8,2022-01-13,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2351,zhixzhan,azure-mgmt-botservice,2022-01-06,6,2022-01-12,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2346,Frey-Wang,azure-mgmt-datafactory,2022-01-06,6,2022-01-06,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,2,2022-01-12,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2364,nickdepinet,azure-mgmt-labservices,2022-01-07,5,2022-01-11,2,confirm, 
@@ -55,4 +54,3 @@ Python,https://github.com/Azure/sdk-release-request/issues/2375,hildurhodd,azure
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,5,2022-01-10,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2356,Ochirkhuyag,azure-mgmt-subscription,2022-01-07,5,2022-01-10,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2371,yanjungao718,azure-mgmt-synapse,2022-01-11,1,2022-01-11,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2352,JennyLawrance,azure-mgmt-web,2022-01-06,6,2022-01-11,1,confirm,new comment.  <br>
