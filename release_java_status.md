@@ -3,7 +3,7 @@
 | [#2372](https://github.com/Azure/sdk-release-request/issues/2372) | yanjungao718 |  | haolingdong-msft | new issue. new comment. | 01-11 | 01-24 |  |
 | [#2367](https://github.com/Azure/sdk-release-request/issues/2367) | vighatke |  | haolingdong-msft | new issue. new comment. | 01-10 | 01-24 |  |
 | [#2361](https://github.com/Azure/sdk-release-request/issues/2361) | nickdepinet |  | XiaofeiCao | new issue. | 01-07 | 01-18 |  |
-| [#2359](https://github.com/Azure/sdk-release-request/issues/2359) | komakkar |  | XiaofeiCao | new issue. new comment. | 01-07 | 01-24 |  |
+| [#2359](https://github.com/Azure/sdk-release-request/issues/2359) | komakkar |  | XiaofeiCao |  | 01-07 | 01-24 |  |
 | [#2355](https://github.com/Azure/sdk-release-request/issues/2355) | JennyLawrance |  | weidongxu-microsoft |  | 01-06 | 01-10 |  |
 | [#2348](https://github.com/Azure/sdk-release-request/issues/2348) | zhixzhan |  | XiaofeiCao | new issue. new comment. | 01-06 | 01-20 |  |
 | [#2345](https://github.com/Azure/sdk-release-request/issues/2345) | Frey-Wang |  | haolingdong-msft | new issue. | 01-06 | 01-20 |  |
