@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-synapse,BigCat20196,2022-01-11,2022-01-14,https://github.com/Azure/sdk-release-request/issues/2371
 azure-mgmt-apimanagement,BigCat20196,2022-01-04,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2341
 azure-mgmt-datafactory,BigCat20196,2022-01-06,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2346
 azure-mgmt-netapp,msyyc,2022-01-12,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2375
