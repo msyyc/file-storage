@@ -7,4 +7,3 @@
 | [#2342](https://github.com/Azure/sdk-release-request/issues/2342) | dabenhamMic | loganalytics | BigCat20196 | new comment.  <br> | 01-05 | 01-19 |   |
 | [#2360](https://github.com/Azure/sdk-release-request/issues/2360) | komakkar | oep | BigCat20196 |   | 01-07 | 01-24 |   |
 | [#2356](https://github.com/Azure/sdk-release-request/issues/2356) | Ochirkhuyag | subscription | BigCat20196 |   release date < 2 ! <br> | 01-07 | 01-14 | 0 |
-| [#2371](https://github.com/Azure/sdk-release-request/issues/2371) | yanjungao718 | synapse | BigCat20196 | new comment.  <br> | 01-11 | 01-24 |   |
