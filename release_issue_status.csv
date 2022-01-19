@@ -1,5 +1,4 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2388,rahisshaikh, ,2022-01-19,0,2022-01-19,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2387,haagha, ,2022-01-14,4,2022-01-19,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2385,haagha, ,2022-01-14,4,2022-01-19,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2374,lynshi, ,2022-01-12,7,2022-01-12,6,confirm,new comment.  <br> release date < 2 ! <br>
@@ -34,3 +33,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,14,2022-01-18,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,11,2022-01-17,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2356,Ochirkhuyag,azure-mgmt-subscription,2022-01-07,11,2022-01-17,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2388,rahisshaikh,azure-mgmt-trafficmanager,2022-01-19,0,2022-01-19,0,confirm,new issue ! <br>
