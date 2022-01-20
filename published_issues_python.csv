@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-trafficmanager,msyyc,2022-01-19,2022-01-20,https://github.com/Azure/sdk-release-request/issues/2388
 azure-mgmt-containerregistry,BigCat20196,2022-01-13,2022-01-19,https://github.com/Azure/sdk-release-request/issues/2379
 azure-mgmt-synapse,BigCat20196,2022-01-11,2022-01-14,https://github.com/Azure/sdk-release-request/issues/2371
 azure-mgmt-apimanagement,BigCat20196,2022-01-04,2022-01-13,https://github.com/Azure/sdk-release-request/issues/2341
