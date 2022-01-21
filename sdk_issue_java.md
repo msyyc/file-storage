@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#26525](https://github.com/Azure/azure-sdk-for-java/issues/26525)|AVS authentication issue|question, Mgmt, customer-reported, AVS|weidongxu-microsoft, billwert||2022-01-15|
+|1|[#26525](https://github.com/Azure/azure-sdk-for-java/issues/26525)|AVS authentication issue|question, Mgmt, customer-reported, AVS|billwert, weidongxu-microsoft|new comment|2022-01-15|
 |2|[#26007](https://github.com/Azure/azure-sdk-for-java/issues/26007)|Recovery Services Backup: public constructor need|question, Recovery Services Backup, Mgmt, customer-reported|XiaofeiCao||2021-12-13|
 |3|[#25975](https://github.com/Azure/azure-sdk-for-java/issues/25975)|[BUG] Failed Storage Account creation when re-sizing a VM|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao|new comment|2021-12-10|
 |4|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft|new issue|2021-12-06|
