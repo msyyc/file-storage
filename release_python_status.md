@@ -4,5 +4,4 @@
 | [#2395](https://github.com/Azure/sdk-release-request/issues/2395) | leigharubin | iothubprovisioningservices | BigCat20196 |   | 01-20 | 02-01 |   |
 | [#2342](https://github.com/Azure/sdk-release-request/issues/2342) | dabenhamMic | loganalytics | BigCat20196 |   release date < 2 ! <br> | 01-05 | 01-19 | -2 |
 | [#2360](https://github.com/Azure/sdk-release-request/issues/2360) | komakkar | oep | BigCat20196 |   release date < 2 ! <br> | 01-07 | 01-24 | 2 |
-| [#2356](https://github.com/Azure/sdk-release-request/issues/2356) | Ochirkhuyag | subscription | BigCat20196 |   | 01-07 | 01-14 |   |
 | [#2397](https://github.com/Azure/sdk-release-request/issues/2397) | SatishRanjan | web | msyyc | new issue ! <br> release date < 2 ! <br> | 01-21 | 01-24 | 2 |
