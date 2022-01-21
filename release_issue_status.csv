@@ -6,7 +6,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2392,grizzlytheodore, ,20
 Java,https://github.com/Azure/sdk-release-request/issues/2390,grizzlytheodore, ,2022-01-19,1,2022-01-20,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2385,haagha, ,2022-01-14,6,2022-01-19,1,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2374,lynshi, ,2022-01-12,9,2022-01-12,8,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2372,yanjungao718, ,2022-01-11,9,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2372,yanjungao718, ,2022-01-11,10,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2367,vighatke, ,2022-01-10,10,2022-01-20,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2366,vighatke, ,2022-01-10,10,2022-01-20,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,13,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
@@ -31,6 +31,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,559,2021-08-03,171,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,562,2021-08-03,171,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,579,2021-08-03,171,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,1,2022-01-21,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,10,2022-01-21,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,0,2022-01-21,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,16,2022-01-18,2,confirm,  release date < 2 ! <br>
