@@ -34,6 +34,5 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,1,2022-01-21,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,10,2022-01-21,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,0,2022-01-21,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2342,dabenhamMic,azure-mgmt-loganalytics,2022-01-05,16,2022-01-18,3,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,13,2022-01-17,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2397,SatishRanjan,azure-mgmt-web,2022-01-21,0,2022-01-21,0,confirm,  release date < 2 ! <br>
