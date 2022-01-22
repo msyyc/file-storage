@@ -12,7 +12,7 @@ Go,https://github.com/Azure/sdk-release-request/issues/2374,lynshi, ,2022-01-12,
 Java,https://github.com/Azure/sdk-release-request/issues/2372,yanjungao718, ,2022-01-11,10,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2367,vighatke, ,2022-01-10,11,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2366,vighatke, ,2022-01-10,11,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,14,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,14,2022-01-20,2,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2358,komakkar, ,2022-01-07,14,2022-01-20,1,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2357,komakkar, ,2022-01-07,14,2022-01-20,2,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2348,zhixzhan, ,2022-01-06,15,2022-01-10,12,confirm,new comment.  <br> release date < 2 ! <br>
@@ -30,10 +30,10 @@ Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20
 Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,94,2021-11-23,59,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,191,2022-01-18,4,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,479,2021-08-03,171,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,554,2021-08-03,171,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,560,2021-08-03,171,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,563,2021-08-03,171,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,580,2021-08-03,171,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,554,2021-08-03,172,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,560,2021-08-03,172,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,563,2021-08-03,172,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,580,2021-08-03,172,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2402,tokaplan,azure-mgmt-applicationinsights,2022-01-21,0,2022-01-22,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,2,2022-01-21,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,11,2022-01-21,1,confirm,  release date < 2 ! <br>
@@ -41,4 +41,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azur
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,14,2022-01-17,5,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,0,2022-01-22,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2403,tjegbejimba,azure-mgmt-resource,2022-01-21,0,2022-01-22,0,confirm,new issue ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2397,SatishRanjan,azure-mgmt-web,2022-01-21,0,2022-01-21,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2397,SatishRanjan,azure-mgmt-web,2022-01-21,1,2022-01-21,0,confirm,  release date < 2 ! <br>
