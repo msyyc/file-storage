@@ -11,7 +11,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2385,haagha, ,2022-01-14,
 Go,https://github.com/Azure/sdk-release-request/issues/2374,lynshi, ,2022-01-12,12,2022-01-12,11,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2367,vighatke, ,2022-01-10,13,2022-01-20,3,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2366,vighatke, ,2022-01-10,13,2022-01-20,3,confirm,new comment.  <br> release date < 2 ! <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,16,2022-01-20,3,confirm,new comment.  <br> release date < 2 ! <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2359,komakkar, ,2022-01-07,16,2022-01-20,4,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2358,komakkar, ,2022-01-07,16,2022-01-20,3,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2357,komakkar, ,2022-01-07,16,2022-01-20,4,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2348,zhixzhan, ,2022-01-06,17,2022-01-10,14,confirm,new comment.  <br>
@@ -29,10 +29,10 @@ Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20
 Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,96,2021-11-23,61,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,193,2022-01-18,6,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,481,2021-08-03,173,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,556,2021-08-03,173,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,562,2021-08-03,173,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,565,2021-08-03,173,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,582,2021-08-03,173,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,556,2021-08-03,174,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,562,2021-08-03,174,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,565,2021-08-03,174,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,582,2021-08-03,174,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2402,tokaplan,azure-mgmt-applicationinsights,2022-01-21,2,2022-01-22,2,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,4,2022-01-21,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,13,2022-01-21,3,confirm,  release date < 2 ! <br>
@@ -40,4 +40,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azur
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,16,2022-01-17,7,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,2,2022-01-24,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2403,tjegbejimba,azure-mgmt-resource,2022-01-21,2,2022-01-24,0,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2397,SatishRanjan,azure-mgmt-web,2022-01-21,2,2022-01-21,2,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2397,SatishRanjan,azure-mgmt-web,2022-01-21,3,2022-01-21,2,confirm,  release date < 2 ! <br>
