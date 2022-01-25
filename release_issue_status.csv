@@ -34,6 +34,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2402,tokaplan,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,5,2022-01-21,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,14,2022-01-21,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,4,2022-01-21,4,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/1896,BigCat20196,azure-mgmt-logz,2021-08-30,148,2022-01-25,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,3,2022-01-24,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2403,tjegbejimba,azure-mgmt-resource,2022-01-21,3,2022-01-25,0,confirm,new comment.  <br> release date < 2 ! <br>
