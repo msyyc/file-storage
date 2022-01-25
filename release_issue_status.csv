@@ -15,7 +15,6 @@ Go,https://github.com/Azure/sdk-release-request/issues/2358,komakkar, ,2022-01-0
 JS,https://github.com/Azure/sdk-release-request/issues/2357,komakkar, ,2022-01-07,17,2022-01-20,4,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2348,zhixzhan, ,2022-01-06,18,2022-01-10,14,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2328,yuwzho, ,2021-12-22,33,2022-01-18,7,confirm,new comment.  <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2323,anat-gilenson, ,2021-12-19,36,2022-01-24,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2321,anat-gilenson, ,2021-12-19,36,2022-01-20,4,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2312,raktdas, ,2021-12-15,40,2021-12-16,40,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2279,eladperets, ,2021-12-04,52,2022-01-19,5,confirm,new comment.  <br>
@@ -35,7 +34,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2402,tokaplan,azure-mgmt-applicationinsights,2022-01-21,3,2022-01-24,0,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,5,2022-01-21,3,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,14,2022-01-21,4,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,4,2022-01-21,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,3,2022-01-24,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,4,2022-01-21,4,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,3,2022-01-24,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2403,tjegbejimba,azure-mgmt-resource,2022-01-21,3,2022-01-25,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2397,SatishRanjan,azure-mgmt-web,2022-01-21,3,2022-01-24,0,confirm,new comment.  <br> release date < 2 ! <br>
