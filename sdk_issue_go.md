@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#16898](https://github.com/Azure/azure-sdk-for-go/issues/16898)|2022/01/22 21:06:26 MSI not available|question, Mgmt, customer-reported|lirenhe|new issue|2022-01-22|
+|1|[#16898](https://github.com/Azure/azure-sdk-for-go/issues/16898)|2022/01/22 21:06:26 MSI not available|question, Mgmt, customer-reported|lirenhe|new comment|2022-01-22|
 |2|[#16826](https://github.com/Azure/azure-sdk-for-go/issues/16826)|No azure-sdk-for-go Support Found for Azure Automation Service with Version '2021-06-22'|question, Automation, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2022-01-13|
 |3|[#16751](https://github.com/Azure/azure-sdk-for-go/issues/16751)|ContainerProperties values are absent in BlobContainer List and get API|question, Storage, Mgmt, customer-reported, needs-author-feedback, no-recent-activity, Previous Versions|lirenhe|new comment|2022-01-05|
 |4|[#16716](https://github.com/Azure/azure-sdk-for-go/issues/16716)|Resource Health -- Events API|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2021-12-27|
