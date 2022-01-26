@@ -34,6 +34,6 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2402,tokaplan,azure-mgmt-applicationinsights,2022-01-21,4,2022-01-25,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2391,grizzlytheodore,azure-mgmt-compute,2022-01-19,6,2022-01-21,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2368,vighatke,azure-mgmt-iothub,2022-01-10,15,2022-01-21,5,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,5,2022-01-21,4,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,4,2022-01-24,1,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2395,leigharubin,azure-mgmt-iothubprovisioningservices,2022-01-20,5,2022-01-21,5,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2398,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-01-21,4,2022-01-24,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2403,tjegbejimba,azure-mgmt-resource,2022-01-21,4,2022-01-25,0,confirm,new comment.  <br> release date < 2 ! <br>
