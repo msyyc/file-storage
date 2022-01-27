@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#20042](https://github.com/Azure/azure-sdk-for-js/issues/20042)|@azure/arm-appservice WebManagementClient.containerApps.listSecrets function doesn't accept rgName parameter|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha||2022-01-25|
-|2|[#20028](https://github.com/Azure/azure-sdk-for-js/issues/20028)|[Aggregate-reports] build failing in nightly runs|Client, Mgmt, test-reliability|qiaozha|new comment|2022-01-24|
+|2|[#20028](https://github.com/Azure/azure-sdk-for-js/issues/20028)|[Aggregate-reports] build failing in nightly runs|Client, Mgmt, test-reliability|qiaozha||2022-01-24|
 |3|[#19994](https://github.com/Azure/azure-sdk-for-js/issues/19994)|Incomplete documentation for ascLocation parameter of SecurityCenter client|question, customer-reported, Mgmt, Security, needs-team-attention|qiaozha||2022-01-21|
 |4|[#19835](https://github.com/Azure/azure-sdk-for-js/issues/19835)|Sorting arm-consumption 'usage details' by resource group|question, customer-reported, Mgmt, Service Attention, needs-author-feedback, Consumption - UsageDetailsAndExport|qiaozha||2022-01-13|
 |5|[#17499](https://github.com/Azure/azure-sdk-for-js/issues/17499)|After calling `disks.grantAccess` successfully, `accessSas` is `undefined`|question, customer-reported, Mgmt, Compute, needs-team-attention|qiaozha||2021-09-07|
