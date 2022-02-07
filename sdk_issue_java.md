@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#26885](https://github.com/Azure/azure-sdk-for-java/issues/26885)|mgmt, verify wildcard support in network|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-02-07|
-|2|[#26827](https://github.com/Azure/azure-sdk-for-java/issues/26827)|[BUG] com.microsoft.azure.management.resources.fluentcore.collection.SupportsListingByRegion.listByRegion(Region arg0) API failing with "java.io.IOException: CRC: actual 0x062fb16b != expected 0x46a58e34"|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao||2022-02-02|
+|2|[#26827](https://github.com/Azure/azure-sdk-for-java/issues/26827)|[BUG] com.microsoft.azure.management.resources.fluentcore.collection.SupportsListingByRegion.listByRegion(Region arg0) API failing with "java.io.IOException: CRC: actual 0x062fb16b != expected 0x46a58e34"|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-02-02|
 |3|[#26775](https://github.com/Azure/azure-sdk-for-java/issues/26775)|[QUERY] How to Set StorageProfile.deletionOption / networkinterface.deleteOption on a VirtualMachine osDisk / primary iface|question, Compute - VM, Mgmt, customer-reported|weidongxu-microsoft||2022-01-28|
 |4|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-01-21|
-|5|[#26525](https://github.com/Azure/azure-sdk-for-java/issues/26525)|AVS authentication issue|question, Mgmt, customer-reported, AVS|billwert, weidongxu-microsoft|new comment|2022-01-15|
+|5|[#26525](https://github.com/Azure/azure-sdk-for-java/issues/26525)|AVS authentication issue|question, Mgmt, customer-reported, AVS, issue-addressed|billwert, weidongxu-microsoft|new comment|2022-01-15|
 |6|[#26007](https://github.com/Azure/azure-sdk-for-java/issues/26007)|Recovery Services Backup: public constructor need|question, Recovery Services Backup, Mgmt, customer-reported|XiaofeiCao||2021-12-13|
 |7|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft|new issue|2021-12-06|
 |8|[#25542](https://github.com/Azure/azure-sdk-for-java/issues/25542)|[QUERY] missing ManagementGroups API|question, Mgmt, customer-reported|weidongxu-microsoft||2021-11-19|
