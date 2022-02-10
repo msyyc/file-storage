@@ -42,4 +42,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2416,Frey-Wang,azure-
 Python,https://github.com/Azure/sdk-release-request/issues/2420,sjiherzig,azure-mgmt-digitaltwins,2022-02-07,2,2022-02-08,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,33,2022-02-08,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2424,arpja,azure-mgmt-recoveryservicesbackup,2022-02-09,0,2022-02-10,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2414,blueww,azure-mgmt-storage,2022-02-07,3,2022-02-07,2,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2414,blueww,azure-mgmt-storage,2022-02-07,3,2022-02-07,3,confirm,  release date < 2 ! <br>
