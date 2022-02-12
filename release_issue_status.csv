@@ -47,4 +47,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2420,sjiherzig,azure-
 Python,https://github.com/Azure/sdk-release-request/issues/2436,audunn,azure-mgmt-netapp,2022-02-10,1,2022-02-11,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2360,komakkar,azure-mgmt-oep,2022-01-07,35,2022-02-08,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2424,arpja,azure-mgmt-recoveryservicesbackup,2022-02-09,2,2022-02-10,2,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2414,blueww,azure-mgmt-storage,2022-02-07,5,2022-02-07,4,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2414,blueww,azure-mgmt-storage,2022-02-07,5,2022-02-07,5,confirm, 
