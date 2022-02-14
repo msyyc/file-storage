@@ -1,8 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2441](https://github.com/Azure/sdk-release-request/issues/2441) | FumingZhang |  | qiaozha | new issue. | 02-14 | 02-21 |  |
+| [#2441](https://github.com/Azure/sdk-release-request/issues/2441) | FumingZhang |  | qiaozha | new issue. new comment. | 02-14 | 02-21 |  |
 | [#2439](https://github.com/Azure/sdk-release-request/issues/2439) | audunn |  | qiaozha | new issue. new comment. close to release date.  | 02-10 | 02-14 | 0 |
-| [#2433](https://github.com/Azure/sdk-release-request/issues/2433) | FumingZhang |  | qiaozha | new issue. close to release date.  | 02-10 | 02-14 | 0 |
+| [#2433](https://github.com/Azure/sdk-release-request/issues/2433) | FumingZhang |  | qiaozha | new issue. new comment. close to release date.  | 02-10 | 02-14 | 0 |
 | [#2430](https://github.com/Azure/sdk-release-request/issues/2430) | grizzlytheodore |  | qiaozha | new issue. new comment. | 02-09 | 02-23 |  |
 | [#2427](https://github.com/Azure/sdk-release-request/issues/2427) | arpja |  | qiaozha | new issue. new comment. close to release date.  | 02-09 | 02-14 | 0 |
 | [#2421](https://github.com/Azure/sdk-release-request/issues/2421) | sjiherzig |  | qiaozha | new issue. new comment. close to release date.  | 02-07 | 02-15 | 0 |
