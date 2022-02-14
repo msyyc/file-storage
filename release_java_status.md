@@ -8,5 +8,4 @@
 | [#2417](https://github.com/Azure/sdk-release-request/issues/2417) | Frey-Wang |  | weidongxu-microsoft | new issue. close to release date.  | 02-07 | 02-14 | 0 |
 | [#2412](https://github.com/Azure/sdk-release-request/issues/2412) | blueww |  | haolingdong-msft | new issue. new comment. | 02-07 | 02-09 |  |
 | [#2390](https://github.com/Azure/sdk-release-request/issues/2390) | grizzlytheodore |  | weidongxu-microsoft |  | 01-19 | 01-28 |  |
-| [#2328](https://github.com/Azure/sdk-release-request/issues/2328) | yuwzho |  | haolingdong-msft | new comment. | 12-22 | 01-17 |  |
 | [#1774](https://github.com/Azure/sdk-release-request/issues/1774) | giakas |  | weidongxu-microsoft |  | 07-14 | 07-19 |  |
