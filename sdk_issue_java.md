@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#26989](https://github.com/Azure/azure-sdk-for-java/issues/26989)|[BUG] AVS: AvsManager.clusters().list() returns an empty list|question, Service Attention, Mgmt, customer-reported, needs-team-attention, AVS|XiaofeiCao||2022-02-10|
-|2|[#26917](https://github.com/Azure/azure-sdk-for-java/issues/26917)|mgmt, support ephemeral OS disks|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-08|
-|3|[#26827](https://github.com/Azure/azure-sdk-for-java/issues/26827)|[BUG] com.microsoft.azure.management.resources.fluentcore.collection.SupportsListingByRegion.listByRegion(Region arg0) API failing with "java.io.IOException: CRC: actual 0x062fb16b != expected 0x46a58e34"|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao||2022-02-02|
-|4|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-01-21|
-|5|[#26525](https://github.com/Azure/azure-sdk-for-java/issues/26525)|AVS authentication issue|question, Mgmt, customer-reported, AVS, issue-addressed|weidongxu-microsoft, billwert|new comment|2022-01-15|
+|1|[#27083](https://github.com/Azure/azure-sdk-for-java/issues/27083)|[BUG] AzureResourceManager throws NullPointerException in context of ContainerGroup|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-02-14|
+|2|[#26989](https://github.com/Azure/azure-sdk-for-java/issues/26989)|[BUG] AVS: AvsManager.clusters().list() returns an empty list|question, Service Attention, Mgmt, customer-reported, needs-team-attention, AVS|XiaofeiCao||2022-02-10|
+|3|[#26917](https://github.com/Azure/azure-sdk-for-java/issues/26917)|mgmt, support ephemeral OS disks|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-08|
+|4|[#26827](https://github.com/Azure/azure-sdk-for-java/issues/26827)|[BUG] com.microsoft.azure.management.resources.fluentcore.collection.SupportsListingByRegion.listByRegion(Region arg0) API failing with "java.io.IOException: CRC: actual 0x062fb16b != expected 0x46a58e34"|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao||2022-02-02|
+|5|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-01-21|
 |6|[#26007](https://github.com/Azure/azure-sdk-for-java/issues/26007)|Recovery Services Backup: public constructor need|question, Recovery Services Backup, Mgmt, customer-reported|XiaofeiCao||2021-12-13|
 |7|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft|new issue|2021-12-06|
 |8|[#25542](https://github.com/Azure/azure-sdk-for-java/issues/25542)|[QUERY] missing ManagementGroups API|question, Mgmt, customer-reported|weidongxu-microsoft||2021-11-19|
