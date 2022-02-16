@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-oep,BigCat20196,2022-01-07,2022-02-16,https://github.com/Azure/sdk-release-request/issues/2360
+azure-mgmt-compute,msyyc,2022-02-09,2022-02-16,https://github.com/Azure/sdk-release-request/issues/2429
 azure-mgmt-datafactory,BigCat20196,2022-02-07,2022-02-16,https://github.com/Azure/sdk-release-request/issues/2416
 azure-mgmt-iothubprovisioningservices,BigCat20196,2022-01-20,2022-02-07,https://github.com/Azure/sdk-release-request/issues/2395
 azure-mgmt-compute,msyyc,2022-01-19,2022-01-29,https://github.com/Azure/sdk-release-request/issues/2391
