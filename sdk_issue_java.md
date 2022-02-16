@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27083](https://github.com/Azure/azure-sdk-for-java/issues/27083)|[BUG] AzureResourceManager throws NullPointerException in context of ContainerGroup|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-02-14|
+|1|[#27083](https://github.com/Azure/azure-sdk-for-java/issues/27083)|[BUG] AzureResourceManager throws NullPointerException in context of ContainerGroup|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-02-14|
 |2|[#26989](https://github.com/Azure/azure-sdk-for-java/issues/26989)|[BUG] AVS: AvsManager.clusters().list() returns an empty list|question, Service Attention, Mgmt, customer-reported, needs-team-attention, AVS|XiaofeiCao||2022-02-10|
 |3|[#26917](https://github.com/Azure/azure-sdk-for-java/issues/26917)|mgmt, support ephemeral OS disks|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-08|
 |4|[#26827](https://github.com/Azure/azure-sdk-for-java/issues/26827)|[BUG] com.microsoft.azure.management.resources.fluentcore.collection.SupportsListingByRegion.listByRegion(Region arg0) API failing with "java.io.IOException: CRC: actual 0x062fb16b != expected 0x46a58e34"|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao||2022-02-02|
