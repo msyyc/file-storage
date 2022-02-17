@@ -7,4 +7,3 @@
 | [#2446](https://github.com/Azure/sdk-release-request/issues/2446) | muwaqar | dnsresolver | BigCat20196 | new comment.  <br> | 02-15 | 02-28 |   |
 | [#2445](https://github.com/Azure/sdk-release-request/issues/2445) | dabenhamMic | loganalytics | BigCat20196 |   release date < 2 ! <br> | 02-14 | 02-16 | -1 |
 | [#2436](https://github.com/Azure/sdk-release-request/issues/2436) | audunn | netapp | BigCat20196 |   | 02-10 | 02-14 |   |
-| [#2451](https://github.com/Azure/sdk-release-request/issues/2451) | BigCat20196 | recoveryservicesbackup | msyyc | new version is 0.0.0, please check base branch!   | 02-16 | 03-02 |   |

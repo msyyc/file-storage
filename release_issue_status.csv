@@ -11,10 +11,9 @@ Go,https://github.com/Azure/sdk-release-request/issues/2443,FumingZhang, ,2022-0
 JS,https://github.com/Azure/sdk-release-request/issues/2441,FumingZhang, ,2022-02-14,2,2022-02-14,2,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2440,yangyuan, ,2022-02-10,6,2022-02-11,5,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2439,audunn, ,2022-02-10,6,2022-02-16,0,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2438,audunn, ,2022-02-10,6,2022-02-11,6,confirm, 
+Go,https://github.com/Azure/sdk-release-request/issues/2438,audunn, ,2022-02-10,6,2022-02-17,0,confirm, 
 JS,https://github.com/Azure/sdk-release-request/issues/2433,FumingZhang, ,2022-02-10,6,2022-02-14,2,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2431,grizzlytheodore, ,2022-02-09,7,2022-02-10,6,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2425,arpja, ,2022-02-09,7,2022-02-16,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2421,sjiherzig, ,2022-02-07,9,2022-02-16,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2419,Frey-Wang, ,2022-02-07,9,2022-02-08,8,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2418,Frey-Wang, ,2022-02-07,9,2022-02-14,2,confirm,new comment.  <br>
@@ -37,6 +36,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2453,wiboris,azure-mg
 Python,https://github.com/Azure/sdk-release-request/issues/2442,FumingZhang,azure-mgmt-containerservice,2022-02-14,2,2022-02-14,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2420,sjiherzig,azure-mgmt-digitaltwins,2022-02-07,9,2022-02-17,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2446,muwaqar,azure-mgmt-dnsresolver,2022-02-15,1,2022-02-16,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2445,dabenhamMic,azure-mgmt-loganalytics,2022-02-14,2,2022-02-15,1,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2436,audunn,azure-mgmt-netapp,2022-02-10,6,2022-02-14,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2451,BigCat20196,azure-mgmt-recoveryservicesbackup,2022-02-16,0,2022-02-17,0,confirm,new version is 0.0.0, please check base branch!  
+Python,https://github.com/Azure/sdk-release-request/issues/2445,dabenhamMic,azure-mgmt-loganalytics,2022-02-14,2,2022-02-15,2,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2436,audunn,azure-mgmt-netapp,2022-02-10,6,2022-02-14,3,confirm, 
