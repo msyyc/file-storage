@@ -6,6 +6,4 @@
 | [#2459](https://github.com/Azure/sdk-release-request/issues/2459) | amisi01 | cosmosdb | msyyc | new issue ! <br> release date < 2 ! <br> | 02-17 | 02-18 | 0 |
 | [#2420](https://github.com/Azure/sdk-release-request/issues/2420) | sjiherzig | digitaltwins | BigCat20196 |   | 02-07 | 02-15 |   |
 | [#2446](https://github.com/Azure/sdk-release-request/issues/2446) | muwaqar | dnsresolver | BigCat20196 | new comment.  <br> | 02-15 | 02-28 |   |
-| [#2445](https://github.com/Azure/sdk-release-request/issues/2445) | dabenhamMic | loganalytics | BigCat20196 |   release date < 2 ! <br> | 02-14 | 02-16 | -2 |
 | [#2436](https://github.com/Azure/sdk-release-request/issues/2436) | audunn | netapp | BigCat20196 |   | 02-10 | 02-14 |   |
-| [#2461](https://github.com/Azure/sdk-release-request/issues/2461) | BigCat20196 | recoveryservicesbackup | msyyc |   | 02-18 | 03-07 |   |
