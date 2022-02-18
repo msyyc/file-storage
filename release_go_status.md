@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2457](https://github.com/Azure/sdk-release-request/issues/2457) | amisi01 |  | Alancere | new issue. new comment. close to release date.  | 02-17 | 02-18 | 0 |
-| [#2456](https://github.com/Azure/sdk-release-request/issues/2456) | shenmuxiaosen |  | Alancere | new comment. close to release date.  | 02-16 | 02-18 | 0 |
 | [#2452](https://github.com/Azure/sdk-release-request/issues/2452) | HappyTobi |  | Alancere | new comment. | 02-16 | 03-09 |  |
 | [#2449](https://github.com/Azure/sdk-release-request/issues/2449) | muwaqar |  | Alancere | new comment. | 02-15 | 02-28 |  |
 | [#2443](https://github.com/Azure/sdk-release-request/issues/2443) | FumingZhang |  | Alancere | close to release date.  | 02-14 | 02-21 | 2 |
