@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-loganalytics,BigCat20196,2022-02-14,2022-02-18,https://github.com/Azure/sdk-release-request/issues/2445
+azure-mgmt-recoveryservicesbackup,msyyc,2022-02-18,2022-02-18,https://github.com/Azure/sdk-release-request/issues/2461
 azure-mgmt-appconfiguration,msyyc,2022-02-15,2022-02-18,https://github.com/Azure/sdk-release-request/issues/2450
 azure-mgmt-recoveryservicesbackup,msyyc,2022-02-09,2022-02-16,https://github.com/Azure/sdk-release-request/issues/2424
 azure-mgmt-storage,BigCat20196,2022-02-07,2022-02-16,https://github.com/Azure/sdk-release-request/issues/2414
