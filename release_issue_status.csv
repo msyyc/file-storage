@@ -1,7 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 JS,https://github.com/Azure/sdk-release-request/issues/2460,amisi01, ,2022-02-17,0,2022-02-17,0,confirm,  release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2457,amisi01, ,2022-02-17,0,2022-02-17,0,confirm,  release date < 2 ! <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2456,shenmuxiaosen, ,2022-02-16,1,2022-02-17,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2455,shenmuxiaosen, ,2022-02-16,1,2022-02-17,0,confirm,new comment.  <br> release date < 2 ! <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,1,2022-02-17,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2449,muwaqar, ,2022-02-15,2,2022-02-17,0,confirm,new comment.  <br>
