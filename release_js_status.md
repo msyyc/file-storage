@@ -3,7 +3,7 @@
 | [#2471](https://github.com/Azure/sdk-release-request/issues/2471) | apalanichamy1981 |  | qiaozha | new issue. | 02-19 | 02-28 |  |
 | [#2470](https://github.com/Azure/sdk-release-request/issues/2470) | AntonioVT |  | qiaozha | new issue. new comment. | 02-18 | 03-07 |  |
 | [#2463](https://github.com/Azure/sdk-release-request/issues/2463) | rchlkm |  | qiaozha | new issue. new comment. | 02-18 | 02-28 |  |
-| [#2462](https://github.com/Azure/sdk-release-request/issues/2462) | ruslany |  | qiaozha | new issue. | 02-18 | 03-01 |  |
+| [#2462](https://github.com/Azure/sdk-release-request/issues/2462) | ruslany |  | qiaozha | new issue. new comment. | 02-18 | 03-01 |  |
 | [#2460](https://github.com/Azure/sdk-release-request/issues/2460) | amisi01 |  | qiaozha | new issue. new comment. | 02-17 | 02-18 |  |
 | [#2455](https://github.com/Azure/sdk-release-request/issues/2455) | shenmuxiaosen |  | qiaozha | new issue. new comment. | 02-16 | 02-18 |  |
 | [#2447](https://github.com/Azure/sdk-release-request/issues/2447) | muwaqar |  | qiaozha | new comment. | 02-15 | 02-28 |  |
