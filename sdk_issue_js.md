@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha||2022-02-08|
 |2|[#20147](https://github.com/Azure/azure-sdk-for-js/issues/20147)|Feature to add auxiliary authorization header|Mgmt, needs-team-attention|dw511214992|new comment|2022-01-31|
-|3|[#20138](https://github.com/Azure/azure-sdk-for-js/issues/20138)|Can't use pagination \ continuation token with new ResourceManagementClient|question, customer-reported, Mgmt, needs-author-feedback|dw511214992||2022-01-30|
+|3|[#20138](https://github.com/Azure/azure-sdk-for-js/issues/20138)|Can't use pagination \ continuation token with new ResourceManagementClient|question, customer-reported, Mgmt, needs-author-feedback, no-recent-activity|dw511214992||2022-01-30|
 |4|[#20042](https://github.com/Azure/azure-sdk-for-js/issues/20042)|@azure/arm-appservice WebManagementClient.containerApps.listSecrets function doesn't accept rgName parameter|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha||2022-01-25|
 |5|[#20026](https://github.com/Azure/azure-sdk-for-js/issues/20026)|@azure/arm-consumption - Issues on getting correct data - v9.0.0|question, customer-reported, Mgmt, Consumption - UsageDetailsAndExport|qiaozha||2022-01-24|
 |6|[#19994](https://github.com/Azure/azure-sdk-for-js/issues/19994)|Incomplete documentation for ascLocation parameter of SecurityCenter client|question, customer-reported, Mgmt, Security, needs-team-attention|qiaozha||2022-01-21|
