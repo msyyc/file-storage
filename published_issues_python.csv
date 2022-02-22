@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-appplatform,BigCat20196,2021-12-22,2022-02-22,https://github.com/Azure/sdk-release-request/issues/2327
 azure-mgmt-containerservice,BigCat20196,2022-02-14,2022-02-21,https://github.com/Azure/sdk-release-request/issues/2442
 azure-mgmt-dnsresolver,BigCat20196,2022-02-15,2022-02-21,https://github.com/Azure/sdk-release-request/issues/2446
 azure-mgmt-cosmosdb,msyyc,2022-02-17,2022-02-21,https://github.com/Azure/sdk-release-request/issues/2459
