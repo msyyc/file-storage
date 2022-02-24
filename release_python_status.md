@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2453](https://github.com/Azure/sdk-release-request/issues/2453) | wiboris | batch | BigCat20196 | new comment.  <br> | 02-16 | 03-02 |   |
+| [#2453](https://github.com/Azure/sdk-release-request/issues/2453) | wiboris | batch | BigCat20196 |   | 02-16 | 03-02 |   |
 | [#2468](https://github.com/Azure/sdk-release-request/issues/2468) | AntonioVT | containerregistry | msyyc |   | 02-18 | 03-07 |   |
 | [#2479](https://github.com/Azure/sdk-release-request/issues/2479) | Frey-Wang | datafactory | msyyc |   | 02-22 | 03-01 |   |
 | [#2420](https://github.com/Azure/sdk-release-request/issues/2420) | sjiherzig | digitaltwins | BigCat20196 |   | 02-07 | 02-15 |   |
