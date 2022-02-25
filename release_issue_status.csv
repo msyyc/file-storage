@@ -1,5 +1,8 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Go,https://github.com/Azure/sdk-release-request/issues/2483,xiaxyi, ,2022-02-23,1,2022-02-24,0,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2490,priyjain358, ,2022-02-25,0,2022-02-25,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2489,priyjain358, ,2022-02-25,0,2022-02-25,0,confirm,new comment.  <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2487,priyjain358, ,2022-02-25,0,2022-02-25,0,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2483,xiaxyi, ,2022-02-23,1,2022-02-24,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2480,Frey-Wang, ,2022-02-22,2,2022-02-22,2,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2482,Frey-Wang, ,2022-02-22,2,2022-02-24,0,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2476,hilalevi170, ,2022-02-21,3,2022-02-24,0,confirm,new comment.  <br> release date < 2 ! <br>
@@ -14,7 +17,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2463,rchlkm, ,2022-02-18,
 JS,https://github.com/Azure/sdk-release-request/issues/2462,ruslany, ,2022-02-18,6,2022-02-21,4,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2460,amisi01, ,2022-02-17,8,2022-02-23,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2457,amisi01, ,2022-02-17,8,2022-02-24,0,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,8,2022-02-17,7,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,8,2022-02-17,8,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2447,muwaqar, ,2022-02-15,10,2022-02-18,7,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2444,FumingZhang, ,2022-02-14,11,2022-02-21,4,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2441,FumingZhang, ,2022-02-14,11,2022-02-22,3,confirm,new comment.  <br>
@@ -37,10 +40,11 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,594,2021-08-03,206,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,597,2021-08-03,206,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,614,2021-08-03,206,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,0,2022-02-25,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2468,AntonioVT,azure-mgmt-containerregistry,2022-02-18,6,2022-02-22,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2479,Frey-Wang,azure-mgmt-datafactory,2022-02-22,2,2022-02-23,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2420,sjiherzig,azure-mgmt-digitaltwins,2022-02-07,17,2022-02-17,8,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2474,apalanichamy1981,azure-mgmt-mobilenetwork,2022-02-19,5,2022-02-23,2,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2436,audunn,azure-mgmt-netapp,2022-02-10,14,2022-02-19,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,0,2022-02-25,0,confirm,new version is 0.0.0, please check base branch! new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,0,2022-02-25,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2465,rchlkm,azure-mgmt-sqlvirtualmachine,2022-02-18,6,2022-02-21,4,confirm,  release date < 2 ! <br>
