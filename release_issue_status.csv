@@ -5,7 +5,7 @@ Go,https://github.com/Azure/sdk-release-request/issues/2482,Frey-Wang, ,2022-02-
 Go,https://github.com/Azure/sdk-release-request/issues/2476,hilalevi170, ,2022-02-21,3,2022-02-24,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2475,hilalevi170, ,2022-02-21,3,2022-02-23,1,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2473,apalanichamy1981, ,2022-02-19,5,2022-02-24,0,confirm,new comment.  <br> release date < 2 ! <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2472,apalanichamy1981, ,2022-02-19,5,2022-02-24,0,confirm,new comment.  <br> release date < 2 ! <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2472,apalanichamy1981, ,2022-02-19,5,2022-02-24,1,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2471,apalanichamy1981, ,2022-02-19,5,2022-02-21,3,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2470,AntonioVT, ,2022-02-18,6,2022-02-21,3,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2467,AntonioVT, ,2022-02-18,6,2022-02-19,6,confirm,new comment.  <br>
@@ -43,6 +43,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/2479,Frey-Wang,azure-
 Python,https://github.com/Azure/sdk-release-request/issues/2420,sjiherzig,azure-mgmt-digitaltwins,2022-02-07,17,2022-02-17,8,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2474,apalanichamy1981,azure-mgmt-mobilenetwork,2022-02-19,5,2022-02-23,1,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2436,audunn,azure-mgmt-netapp,2022-02-10,14,2022-02-19,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,0,2022-02-25,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,0,2022-02-25,0,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2484,ChenTanyi,azure-mgmt-servicelinker,2022-02-24,0,2022-02-25,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2465,rchlkm,azure-mgmt-sqlvirtualmachine,2022-02-18,6,2022-02-21,3,confirm,  release date < 2 ! <br>
