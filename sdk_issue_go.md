@@ -16,7 +16,7 @@
 |14|[#15805](https://github.com/Azure/azure-sdk-for-go/issues/15805)|Support Tags on App Service Environments (Reopen #15631)|App Services, Mgmt, customer-reported, feature-request|ArcturusZhang|new issue|2021-10-15|
 |15|[#15199](https://github.com/Azure/azure-sdk-for-go/issues/15199)|for Cosmos DB account creation, publicAccessEnabled = false being changed back to true|question, Mgmt, customer-reported|ArcturusZhang|new comment|2021-08-02|
 |16|[#15173](https://github.com/Azure/azure-sdk-for-go/issues/15173)|[armcore] Check nolint comments|bug, CodeGen, Mgmt, ARM - Core|lirenhe||2021-07-27|
-|17|[#14800](https://github.com/Azure/azure-sdk-for-go/issues/14800)|Request to add services/preview/securityinsight/mgmt/2021-03-01-preview/securityinsight |Service Attention, Mgmt, customer-reported, feature-request, SecurityInsights|lirenhe, Alancere|new comment|2021-06-19|
+|17|[#14800](https://github.com/Azure/azure-sdk-for-go/issues/14800)|Request to add services/preview/securityinsight/mgmt/2021-03-01-preview/securityinsight |Service Attention, Mgmt, customer-reported, feature-request, SecurityInsights|Alancere, lirenhe|new comment|2021-06-19|
 |18|[#12180](https://github.com/Azure/azure-sdk-for-go/issues/12180)|Provide SDK for getting federation metadata XML file, please|Mgmt, customer-reported, feature-request|ArcturusZhang||2020-08-06|
 |19|[#10829](https://github.com/Azure/azure-sdk-for-go/issues/10829)|Azure SDK's Go SDK documentation should provide guidance for asynchronous usage for SQL API scenarios|Docs, SQL, Mgmt, feature-request|lirenhe|new comment|2020-06-25|
 |20|[#8917](https://github.com/Azure/azure-sdk-for-go/issues/8917)|Guidance on using ETAGs / Conditional requests|Network, Mgmt, feature-request|lirenhe|new comment|2020-05-06|
