@@ -8,4 +8,4 @@
 |6|[#19994](https://github.com/Azure/azure-sdk-for-js/issues/19994)|Incomplete documentation for ascLocation parameter of SecurityCenter client|question, customer-reported, Mgmt, Security, needs-team-attention|qiaozha||2022-01-21|
 |7|[#17499](https://github.com/Azure/azure-sdk-for-js/issues/17499)|After calling `disks.grantAccess` successfully, `accessSas` is `undefined`|question, customer-reported, Mgmt, Compute, needs-author-feedback|qiaozha||2021-09-07|
 |8|[#15421](https://github.com/Azure/azure-sdk-for-js/issues/15421)|The Cost Management SDK is missing|question, customer-reported, Mgmt, Service Attention, needs-team-attention|dw511214992|new comment|2021-05-26|
-|9|[#14186](https://github.com/Azure/azure-sdk-for-js/issues/14186)|WebApp | Service Principal cannot createOrUpdateSourceControl|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|MaryGao, lirenhe||2021-03-08|
+|9|[#14186](https://github.com/Azure/azure-sdk-for-js/issues/14186)|WebApp | Service Principal cannot createOrUpdateSourceControl|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|lirenhe, MaryGao||2021-03-08|
