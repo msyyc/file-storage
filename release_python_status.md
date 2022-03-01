@@ -7,4 +7,3 @@
 | [#2479](https://github.com/Azure/sdk-release-request/issues/2479) | Frey-Wang | datafactory | msyyc |   release date < 2 ! <br> | 02-22 | 03-01 | 0 |
 | [#2420](https://github.com/Azure/sdk-release-request/issues/2420) | sjiherzig | digitaltwins | BigCat20196 |   | 02-07 | 02-15 |   |
 | [#2485](https://github.com/Azure/sdk-release-request/issues/2485) | tjegbejimba | resource | BigCat20196 |   release date < 2 ! <br> | 02-24 | 03-01 | 0 |
-| [#2465](https://github.com/Azure/sdk-release-request/issues/2465) | rchlkm | sqlvirtualmachine | BigCat20196 |   release date < 2 ! <br> | 02-18 | 02-28 | -1 |
