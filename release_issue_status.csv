@@ -6,9 +6,9 @@ JS,https://github.com/Azure/sdk-release-request/issues/2495,shenmuxiaosen, ,2022
 Go,https://github.com/Azure/sdk-release-request/issues/2494,grizzlytheodore, ,2022-02-25,4,2022-03-02,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2493,grizzlytheodore, ,2022-02-25,4,2022-03-01,0,confirm,new comment.  <br> release date < 2 ! <br>
 Java,https://github.com/Azure/sdk-release-request/issues/2491,grizzlytheodore, ,2022-02-25,4,2022-03-02,0,confirm,new comment.  <br> release date < 2 ! <br>
-Java,https://github.com/Azure/sdk-release-request/issues/2490,priyjain358, ,2022-02-25,4,2022-02-25,4,confirm, 
-Go,https://github.com/Azure/sdk-release-request/issues/2489,priyjain358, ,2022-02-25,4,2022-02-25,4,confirm, 
-JS,https://github.com/Azure/sdk-release-request/issues/2487,priyjain358, ,2022-02-25,4,2022-02-28,2,confirm,new comment.  <br>
+Java,https://github.com/Azure/sdk-release-request/issues/2490,priyjain358, ,2022-02-25,5,2022-02-25,4,confirm, 
+Go,https://github.com/Azure/sdk-release-request/issues/2489,priyjain358, ,2022-02-25,5,2022-02-25,4,confirm, 
+JS,https://github.com/Azure/sdk-release-request/issues/2487,priyjain358, ,2022-02-25,5,2022-02-28,2,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2480,Frey-Wang, ,2022-02-22,7,2022-02-28,2,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2475,hilalevi170, ,2022-02-21,8,2022-03-02,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2471,apalanichamy1981, ,2022-02-19,10,2022-03-02,0,confirm,new comment.  <br> release date < 2 ! <br>
@@ -16,7 +16,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2470,AntonioVT, ,2022-02-
 JS,https://github.com/Azure/sdk-release-request/issues/2463,rchlkm, ,2022-02-18,11,2022-02-23,6,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2462,ruslany, ,2022-02-18,11,2022-02-21,9,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2460,amisi01, ,2022-02-17,13,2022-03-01,1,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,13,2022-02-17,12,confirm,new comment.  <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,13,2022-02-17,13,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2447,muwaqar, ,2022-02-15,15,2022-03-01,1,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2441,FumingZhang, ,2022-02-14,16,2022-03-01,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2439,audunn, ,2022-02-10,19,2022-03-02,0,confirm,new comment.  <br>
@@ -36,7 +36,7 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,599,2021-08-03,211,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,602,2021-08-03,211,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,619,2021-08-03,211,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,4,2022-03-02,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,5,2022-03-02,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2492,grizzlytheodore,azure-mgmt-compute,2022-02-25,4,2022-03-02,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2468,AntonioVT,azure-mgmt-containerregistry,2022-02-18,11,2022-02-28,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2479,Frey-Wang,azure-mgmt-datafactory,2022-02-22,7,2022-03-02,0,confirm,new comment.  <br> release date < 2 ! <br>
