@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-compute,BigCat20196,2022-02-25,2022-03-02,https://github.com/Azure/sdk-release-request/issues/2492
 azure-mgmt-appconfiguration,BigCat20196,2022-02-25,2022-03-01,https://github.com/Azure/sdk-release-request/issues/2497
 azure-mgmt-mobilenetwork,msyyc,2022-02-19,2022-02-28,https://github.com/Azure/sdk-release-request/issues/2474
 azure-mgmt-batch,BigCat20196,2022-02-16,2022-02-25,https://github.com/Azure/sdk-release-request/issues/2453
