@@ -17,7 +17,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2463,rchlkm, ,2022-02-18,
 JS,https://github.com/Azure/sdk-release-request/issues/2462,ruslany, ,2022-02-18,11,2022-02-21,9,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2460,amisi01, ,2022-02-17,12,2022-03-01,1,confirm,new comment.  <br>
 Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,13,2022-02-17,12,confirm,new comment.  <br>
-JS,https://github.com/Azure/sdk-release-request/issues/2447,muwaqar, ,2022-02-15,14,2022-03-01,1,confirm,new comment.  <br> release date < 2 ! <br>
+JS,https://github.com/Azure/sdk-release-request/issues/2447,muwaqar, ,2022-02-15,15,2022-03-01,1,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2441,FumingZhang, ,2022-02-14,16,2022-03-01,1,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2439,audunn, ,2022-02-10,19,2022-03-02,0,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2421,sjiherzig, ,2022-02-07,22,2022-03-02,0,confirm,new comment.  <br>
@@ -32,10 +32,10 @@ Go,https://github.com/Azure/sdk-release-request/issues/2138,lirenhe, ,2021-10-20
 Go,https://github.com/Azure/sdk-release-request/issues/2137,lirenhe, ,2021-10-20,133,2021-11-23,98,confirm,new comment.  <br>
 Java,https://github.com/Azure/sdk-release-request/issues/1774,giakas, ,2021-07-14,230,2022-01-18,43,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/809,hohershk, ,2020-09-29,518,2021-08-03,210,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,593,2021-08-03,210,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,599,2021-08-03,210,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,602,2021-08-03,210,confirm,new comment.  <br>
-Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,619,2021-08-03,210,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-17,593,2021-08-03,211,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,599,2021-08-03,211,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,602,2021-08-03,211,confirm,new comment.  <br>
+Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,619,2021-08-03,211,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,4,2022-03-02,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2492,grizzlytheodore,azure-mgmt-compute,2022-02-25,4,2022-03-01,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2468,AntonioVT,azure-mgmt-containerregistry,2022-02-18,11,2022-02-28,2,confirm, 
