@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#17155](https://github.com/Azure/azure-sdk-for-go/issues/17155)|batch Rest API requests (azure portal uses this) using the GO SDK|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|lirenhe||2022-02-23|
+|1|[#17155](https://github.com/Azure/azure-sdk-for-go/issues/17155)|batch Rest API requests (azure portal uses this) using the GO SDK|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-02-23|
 |2|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-18|
 |3|[#17075](https://github.com/Azure/azure-sdk-for-go/issues/17075)|Problem with return armresources/zz_generated_client - ClientListOptions|question, Mgmt, customer-reported, needs-author-feedback|ArcturusZhang||2022-02-15|
 |4|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
