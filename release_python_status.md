@@ -3,5 +3,5 @@
 | [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc |   | 02-25 | 03-14 |   |
 | [#2420](https://github.com/Azure/sdk-release-request/issues/2420) | sjiherzig | digitaltwins | BigCat20196 |   | 02-07 | 02-15 |   |
 | [#2485](https://github.com/Azure/sdk-release-request/issues/2485) | tjegbejimba | resource | BigCat20196 |   release date < 2 ! <br> | 02-24 | 03-01 | -2 |
-| [#2510](https://github.com/Azure/sdk-release-request/issues/2510) | ericshape | sql | msyyc | new issue ! <br> | 03-03 | 03-09 |   |
+| [#2510](https://github.com/Azure/sdk-release-request/issues/2510) | ericshape | sql | msyyc | new comment.  <br> | 03-03 | 03-09 |   |
 | [#2465](https://github.com/Azure/sdk-release-request/issues/2465) | rchlkm | sqlvirtualmachine | BigCat20196 | new comment.  <br> | 02-18 | 02-28 |   |
