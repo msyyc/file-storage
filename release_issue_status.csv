@@ -38,4 +38,4 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-0
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,7,2022-03-02,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2511,DaeunYim,azure-mgmt-rdbms,2022-03-03,0,2022-03-04,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,7,2022-03-04,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2510,ericshape,azure-mgmt-sql,2022-03-03,0,2022-03-03,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2510,ericshape,azure-mgmt-sql,2022-03-03,1,2022-03-03,0,confirm,new comment.  <br>
