@@ -14,7 +14,7 @@ JS,https://github.com/Azure/sdk-release-request/issues/2487,priyjain358, ,2022-0
 JS,https://github.com/Azure/sdk-release-request/issues/2470,AntonioVT, ,2022-02-18,17,2022-03-07,0,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2463,rchlkm, ,2022-02-18,17,2022-03-04,4,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2462,ruslany, ,2022-02-18,17,2022-03-02,5,confirm,new comment.  <br>
-Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,19,2022-02-17,18,confirm,new comment.  <br> release date < 2 ! <br>
+Go,https://github.com/Azure/sdk-release-request/issues/2452,HappyTobi, ,2022-02-16,19,2022-02-17,19,confirm,new comment.  <br> release date < 2 ! <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2439,audunn, ,2022-02-10,25,2022-03-04,4,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2421,sjiherzig, ,2022-02-07,28,2022-03-02,5,confirm,new comment.  <br>
 JS,https://github.com/Azure/sdk-release-request/issues/2330,yuwzho, ,2021-12-22,75,2022-03-04,4,confirm,new comment.  <br>
@@ -31,6 +31,6 @@ Ruby,https://github.com/Azure/sdk-release-request/issues/600,sudhirap, ,2020-07-
 Ruby,https://github.com/Azure/sdk-release-request/issues/577,rahuls-microsoft, ,2020-07-10,605,2021-08-03,217,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/567,rahuls-microsoft, ,2020-07-07,608,2021-08-03,217,confirm,new comment.  <br>
 Ruby,https://github.com/Azure/sdk-release-request/issues/504,fhryo-msft, ,2020-06-21,625,2021-08-03,217,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,10,2022-03-02,5,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,10,2022-03-02,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,11,2022-03-04,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2510,ericshape,azure-mgmt-sql,2022-03-03,4,2022-03-03,4,confirm,new comment.  <br> release date < 2 ! <br>
