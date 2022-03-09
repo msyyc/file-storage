@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2517](https://github.com/Azure/sdk-release-request/issues/2517) | LGDoor |  | qiaozha | new issue. | 03-09 | 03-14 |  |
+| [#2517](https://github.com/Azure/sdk-release-request/issues/2517) | LGDoor |  | qiaozha | new issue. new comment. | 03-09 | 03-14 |  |
 | [#2512](https://github.com/Azure/sdk-release-request/issues/2512) | DaeunYim |  | qiaozha | new issue. new comment. close to release date.  | 03-03 | 03-07 | -2 |
 | [#2507](https://github.com/Azure/sdk-release-request/issues/2507) | Alancere |  | qiaozha | new issue. new comment. | 03-03 | 03-17 |  |
 | [#2499](https://github.com/Azure/sdk-release-request/issues/2499) | NickKouds |  | qiaozha | new issue. new comment. | 02-25 | 03-02 |  |
