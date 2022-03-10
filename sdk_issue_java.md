@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27540](https://github.com/Azure/azure-sdk-for-java/issues/27540)|mgmt, support ephemeral os disk on vmss|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-09|
-|2|[#27539](https://github.com/Azure/azure-sdk-for-java/issues/27539)|mgmt, support ephemeral os disk on virtual machine|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-09|
+|1|[#27580](https://github.com/Azure/azure-sdk-for-java/issues/27580)|mgmt, vm support specification of vmss during create|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-10|
+|2|[#27540](https://github.com/Azure/azure-sdk-for-java/issues/27540)|mgmt, support ephemeral os disk on vmss|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-09|
 |3|[#27513](https://github.com/Azure/azure-sdk-for-java/issues/27513)|mgmt, support appplatform Spring Cloud Enterprise tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-08|
 |4|[#27275](https://github.com/Azure/azure-sdk-for-java/issues/27275)|mgmt, upgrade SQL to composite-v5|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-24|
 |5|[#26917](https://github.com/Azure/azure-sdk-for-java/issues/26917)|mgmt, support ephemeral OS disks|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-02-08|
