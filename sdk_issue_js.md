@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#20728](https://github.com/Azure/azure-sdk-for-js/issues/20728)|`WebSiteManagementClient.checkNameAvailability` in @azure/arm-appservice|customer-reported, Mgmt, App Services, needs-team-attention|qiaozha||2022-03-08|
-|2|[#20688](https://github.com/Azure/azure-sdk-for-js/issues/20688)|@azure/arm-cdn - "A non-empty request body is required" when using beginEnableCustomHttpsAndWait|question, customer-reported, Mgmt|MaryGao, qiaozha|new comment|2022-03-07|
+|2|[#20688](https://github.com/Azure/azure-sdk-for-js/issues/20688)|@azure/arm-cdn - "A non-empty request body is required" when using beginEnableCustomHttpsAndWait|question, customer-reported, Mgmt|qiaozha, MaryGao|new comment|2022-03-07|
 |3|[#20673](https://github.com/Azure/azure-sdk-for-js/issues/20673)|Azure Service Fabric Mesh Sample Issue|Mgmt, Service Fabric, test-manual-pass|qiaozha|new comment|2022-03-04|
 |4|[#20670](https://github.com/Azure/azure-sdk-for-js/issues/20670)|Azure Recovery Services Backup Sample Issue|Mgmt, Recovery Services Backup, test-manual-pass|qiaozha||2022-03-04|
 |5|[#20651](https://github.com/Azure/azure-sdk-for-js/issues/20651)|options.baseUri is always overwritten by options.endpoint in the WebSiteManagementClient constructor|Mgmt, App Services|qiaozha||2022-03-03|
 |6|[#20590](https://github.com/Azure/azure-sdk-for-js/issues/20590)|@azure/arm-storage ignores passed in API version|question, Mgmt, Storage, needs-author-feedback|qiaozha|new comment|2022-03-01|
-|7|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|HTTP 400 error when trying to deploy app service to custom location|Mgmt|MaryGao, qiaozha|new comment|2022-02-28|
+|7|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|HTTP 400 error when trying to deploy app service to custom location|Mgmt|qiaozha, MaryGao|new comment|2022-02-28|
 |8|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha||2022-02-08|
 |9|[#20147](https://github.com/Azure/azure-sdk-for-js/issues/20147)|Feature to add auxiliary authorization header|Mgmt, CodeGen, needs-team-attention|dw511214992|new comment|2022-01-31|
 |10|[#20026](https://github.com/Azure/azure-sdk-for-js/issues/20026)|@azure/arm-consumption - Issues on getting correct data - v9.0.0|question, customer-reported, Mgmt, needs-team-attention, Consumption - UsageDetailsAndExport|qiaozha||2022-01-24|
