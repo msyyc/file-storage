@@ -1,3 +1,4 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2527](https://github.com/Azure/sdk-release-request/issues/2527) | adburch |  | XiaofeiCao | new issue. | 03-11 | 03-21 |  |
 | [#2520](https://github.com/Azure/sdk-release-request/issues/2520) | seth-barshay |  | weidongxu-microsoft |  | 03-09 | 03-23 |  |
