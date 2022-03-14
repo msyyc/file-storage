@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2522,nickdepinet, ,2022-03-10,3,2022-03-10,3,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,16,2022-03-10,3,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2522,nickdepinet,azure-mgmt-labservices,2022-03-10,3,2022-03-14,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2521,herreraj-ms,azure-mgmt-monitor,2022-03-09,4,2022-03-14,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2526,adburch,azure-mgmt-storagecache,2022-03-11,2,2022-03-14,0,confirm, 
