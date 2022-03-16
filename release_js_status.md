@@ -3,9 +3,6 @@
 | [#2564](https://github.com/Azure/sdk-release-request/issues/2564) | honghr |  | qiaozha | new issue. new comment. | 03-15 | 03-29 |  |
 | [#2563](https://github.com/Azure/sdk-release-request/issues/2563) | honghr |  | qiaozha | new issue. | 03-15 | 03-29 |  |
 | [#2559](https://github.com/Azure/sdk-release-request/issues/2559) | honghr |  | qiaozha | new issue. | 03-15 | 03-29 |  |
-| [#2554](https://github.com/Azure/sdk-release-request/issues/2554) | honghr |  | qiaozha | new issue. | 03-15 | 03-29 |  |
-| [#2546](https://github.com/Azure/sdk-release-request/issues/2546) | honghr |  | qiaozha | new issue. | 03-15 | 03-29 |  |
-| [#2540](https://github.com/Azure/sdk-release-request/issues/2540) | honghr |  | qiaozha | new issue. new comment. | 03-15 | 03-29 |  |
 | [#2537](https://github.com/Azure/sdk-release-request/issues/2537) | vutran01 |  | qiaozha | new issue. new comment. | 03-15 | 03-29 |  |
 | [#2531](https://github.com/Azure/sdk-release-request/issues/2531) | anat-gilenson |  | qiaozha | new issue. new comment. | 03-14 | 03-28 |  |
 | [#2525](https://github.com/Azure/sdk-release-request/issues/2525) | adburch |  | qiaozha | new issue. new comment. | 03-11 | 03-21 |  |
