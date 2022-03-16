@@ -1,6 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2566](https://github.com/Azure/sdk-release-request/issues/2566) | honghr |  | Alancere | new issue. new comment. | 03-15 | 03-29 |  |
+| [#2561](https://github.com/Azure/sdk-release-request/issues/2561) | honghr |  | Alancere | new issue. | 03-15 | 03-29 |  |
+| [#2556](https://github.com/Azure/sdk-release-request/issues/2556) | honghr |  | Alancere | new issue. | 03-15 | 03-29 |  |
+| [#2553](https://github.com/Azure/sdk-release-request/issues/2553) | honghr |  | Alancere | new issue. | 03-15 | 03-29 |  |
+| [#2548](https://github.com/Azure/sdk-release-request/issues/2548) | honghr |  | Alancere | new issue. | 03-15 | 03-29 |  |
 | [#2547](https://github.com/Azure/sdk-release-request/issues/2547) | honghr |  | Alancere | new issue. | 03-15 | 03-29 |  |
 | [#2542](https://github.com/Azure/sdk-release-request/issues/2542) | honghr |  | Alancere | new issue. | 03-15 | 03-29 |  |
 | [#2536](https://github.com/Azure/sdk-release-request/issues/2536) | vutran01 |  | Alancere | new issue. | 03-15 | 03-29 |  |
