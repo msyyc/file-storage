@@ -1,11 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2565](https://github.com/Azure/sdk-release-request/issues/2565) | honghr |  | haolingdong-msft | new issue. new comment. | 03-15 | 03-29 |  |
-| [#2562](https://github.com/Azure/sdk-release-request/issues/2562) | honghr |  | weidongxu-microsoft | new issue. | 03-15 | 03-29 |  |
-| [#2558](https://github.com/Azure/sdk-release-request/issues/2558) | honghr |  | XiaofeiCao | new issue. | 03-15 | 03-29 |  |
-| [#2555](https://github.com/Azure/sdk-release-request/issues/2555) | honghr |  | haolingdong-msft | new issue. | 03-15 | 03-29 |  |
-| [#2549](https://github.com/Azure/sdk-release-request/issues/2549) | honghr |  | XiaofeiCao | new issue. | 03-15 | 03-29 |  |
-| [#2545](https://github.com/Azure/sdk-release-request/issues/2545) | honghr |  | haolingdong-msft | new issue. | 03-15 | 03-29 |  |
 | [#2539](https://github.com/Azure/sdk-release-request/issues/2539) | vutran01 |  | weidongxu-microsoft | new issue. | 03-15 | 03-29 |  |
 | [#2532](https://github.com/Azure/sdk-release-request/issues/2532) | anat-gilenson |  | haolingdong-msft | new issue. | 03-14 | 03-28 |  |
 | [#2527](https://github.com/Azure/sdk-release-request/issues/2527) | adburch |  | XiaofeiCao | new issue. | 03-11 | 03-21 |  |
