@@ -10,4 +10,8 @@
 | [#2489](https://github.com/Azure/sdk-release-request/issues/2489) | priyjain358 |  | Alancere |  | 02-25 | 03-14 |  |
 | [#2452](https://github.com/Azure/sdk-release-request/issues/2452) | HappyTobi |  | Alancere | new comment. | 02-16 | 03-09 |  |
 | [#2142](https://github.com/Azure/sdk-release-request/issues/2142) | lirenhe |  | Alancere | new issue. | 10-20 | 11-03 |  |
+| [#2141](https://github.com/Azure/sdk-release-request/issues/2141) | lirenhe |  | Alancere | new issue. | 10-20 | 11-03 |  |
+| [#2140](https://github.com/Azure/sdk-release-request/issues/2140) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
+| [#2139](https://github.com/Azure/sdk-release-request/issues/2139) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
+| [#2138](https://github.com/Azure/sdk-release-request/issues/2138) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
 | [#2137](https://github.com/Azure/sdk-release-request/issues/2137) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
