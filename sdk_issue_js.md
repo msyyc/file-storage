@@ -1,13 +1,13 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#20887](https://github.com/Azure/azure-sdk-for-js/issues/20887)|Aggregate Reports - PoliCheck analysis failing for arm-appservice-profile-2020-09-01|Mgmt, Service Attention, Web Apps|qiaozha||2022-03-16|
+|1|[#20887](https://github.com/Azure/azure-sdk-for-js/issues/20887)|Aggregate Reports - PoliCheck analysis failing for arm-appservice-profile-2020-09-01|Mgmt, Service Attention, Web Apps|qiaozha|new comment|2022-03-16|
 |2|[#20728](https://github.com/Azure/azure-sdk-for-js/issues/20728)|`WebSiteManagementClient.checkNameAvailability` in @azure/arm-appservice|customer-reported, Mgmt, App Services, needs-team-attention|qiaozha||2022-03-08|
-|3|[#20688](https://github.com/Azure/azure-sdk-for-js/issues/20688)|@azure/arm-cdn - "A non-empty request body is required" when using beginEnableCustomHttpsAndWait|question, customer-reported, Mgmt, Network - CDN, needs-author-feedback|MaryGao, qiaozha|new comment|2022-03-07|
+|3|[#20688](https://github.com/Azure/azure-sdk-for-js/issues/20688)|@azure/arm-cdn - "A non-empty request body is required" when using beginEnableCustomHttpsAndWait|question, customer-reported, Mgmt, Network - CDN, needs-author-feedback|qiaozha, MaryGao|new comment|2022-03-07|
 |4|[#20673](https://github.com/Azure/azure-sdk-for-js/issues/20673)|Azure Service Fabric Mesh Sample Issue|Mgmt, Service Fabric, test-manual-pass|qiaozha|new comment|2022-03-04|
 |5|[#20670](https://github.com/Azure/azure-sdk-for-js/issues/20670)|Azure Recovery Services Backup Sample Issue|Mgmt, Recovery Services Backup, test-manual-pass|qiaozha||2022-03-04|
 |6|[#20651](https://github.com/Azure/azure-sdk-for-js/issues/20651)|options.baseUri is always overwritten by options.endpoint in the WebSiteManagementClient constructor|Mgmt, App Services|qiaozha||2022-03-03|
 |7|[#20590](https://github.com/Azure/azure-sdk-for-js/issues/20590)|@azure/arm-storage ignores passed in API version|question, Mgmt, Storage, needs-author-feedback, no-recent-activity|qiaozha|new comment|2022-03-01|
-|8|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|MaryGao, qiaozha|new comment|2022-02-28|
+|8|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|qiaozha, MaryGao|new comment|2022-02-28|
 |9|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha||2022-02-08|
 |10|[#20026](https://github.com/Azure/azure-sdk-for-js/issues/20026)|@azure/arm-consumption - Issues on getting correct data - v9.0.0|question, customer-reported, Mgmt, needs-author-feedback, Consumption - UsageDetailsAndExport|qiaozha||2022-01-24|
 |11|[#19994](https://github.com/Azure/azure-sdk-for-js/issues/19994)|Incomplete documentation for ascLocation parameter of SecurityCenter client|question, customer-reported, Mgmt, Security, needs-team-attention|qiaozha||2022-01-21|
