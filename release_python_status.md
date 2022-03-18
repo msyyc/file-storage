@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2578](https://github.com/Azure/sdk-release-request/issues/2578) | ruslany | app | BigCat20196 | new issue ! <br> | 03-17 | 03-31 |   |
+| [#2578](https://github.com/Azure/sdk-release-request/issues/2578) | ruslany | app | BigCat20196 |   | 03-17 | 03-31 |   |
 | [#2538](https://github.com/Azure/sdk-release-request/issues/2538) | vutran01 | applicationinsights | BigCat20196 |   | 03-15 | 03-29 |   |
 | [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc | new comment.  <br> | 02-25 | 04-07 |   |
 | [#2573](https://github.com/Azure/sdk-release-request/issues/2573) | t-bzhan | cdn | msyyc |   release date < 2 ! <br> | 03-16 | 03-18 | 0 |
