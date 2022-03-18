@@ -15,3 +15,4 @@
 | [#2140](https://github.com/Azure/sdk-release-request/issues/2140) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
 | [#2139](https://github.com/Azure/sdk-release-request/issues/2139) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
 | [#2138](https://github.com/Azure/sdk-release-request/issues/2138) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
+| [#2137](https://github.com/Azure/sdk-release-request/issues/2137) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
