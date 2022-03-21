@@ -1,10 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2580](https://github.com/Azure/sdk-release-request/issues/2580) | ruslany |  | Alancere | new issue. | 03-17 | 03-31 |  |
-| [#2574](https://github.com/Azure/sdk-release-request/issues/2574) | t-bzhan |  | Alancere | new comment. close to release date.  | 03-16 | 03-18 | -2 |
+| [#2574](https://github.com/Azure/sdk-release-request/issues/2574) | t-bzhan |  | Alancere | new comment. | 03-16 | 03-18 |  |
 | [#2571](https://github.com/Azure/sdk-release-request/issues/2571) | arndt-s |  | Alancere |  | 03-16 | 03-30 |  |
 | [#2536](https://github.com/Azure/sdk-release-request/issues/2536) | vutran01 |  | Alancere |  | 03-15 | 03-29 |  |
-| [#2534](https://github.com/Azure/sdk-release-request/issues/2534) | roslynlu |  | Alancere | close to release date.  | 03-14 | 03-18 | -2 |
+| [#2534](https://github.com/Azure/sdk-release-request/issues/2534) | roslynlu |  | Alancere |  | 03-14 | 03-18 |  |
 | [#2533](https://github.com/Azure/sdk-release-request/issues/2533) | anat-gilenson |  | Alancere |  | 03-14 | 03-28 |  |
 | [#2528](https://github.com/Azure/sdk-release-request/issues/2528) | wiboris |  | Alancere |  | 03-11 | 03-31 |  |
 | [#2524](https://github.com/Azure/sdk-release-request/issues/2524) | adburch |  | Alancere | close to release date.  | 03-11 | 03-21 | 0 |
