@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2538](https://github.com/Azure/sdk-release-request/issues/2538) | vutran01 | applicationinsights | BigCat20196 |   | 03-15 | 03-29 |   |
 | [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc | new comment.  <br> | 02-25 | 04-07 |   |
-| [#2573](https://github.com/Azure/sdk-release-request/issues/2573) | t-bzhan | cdn | msyyc | new comment.  <br> | 03-16 | 03-18 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2587](https://github.com/Azure/sdk-release-request/issues/2587) | jonathan-innis | kubernetesconfiguration | msyyc |   | 03-21 | 03-28 |   |
 | [#2594](https://github.com/Azure/sdk-release-request/issues/2594) | giakas | media | msyyc |   release date < 2 ! <br> | 03-21 | 03-24 | 1 |
