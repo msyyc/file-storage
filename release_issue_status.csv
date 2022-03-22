@@ -10,4 +10,3 @@ Python,https://github.com/Azure/sdk-release-request/issues/2570,arndt-s,azure-mg
 Python,https://github.com/Azure/sdk-release-request/issues/2535,msyyc,azure-mgmt-network,2022-03-15,6,2022-03-16,6,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,25,2022-03-22,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2530,anat-gilenson,azure-mgmt-securityinsight,2022-03-14,7,2022-03-22,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2526,adburch,azure-mgmt-storagecache,2022-03-11,10,2022-03-21,0,confirm,new comment.  <br> release date < 2 ! <br>

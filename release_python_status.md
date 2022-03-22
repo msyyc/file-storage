@@ -11,4 +11,3 @@
 | [#2535](https://github.com/Azure/sdk-release-request/issues/2535) | msyyc | network | BigCat20196 | new version is 0.0.0, please check base branch!   | 03-15 | 03-29 |   |
 | [#2485](https://github.com/Azure/sdk-release-request/issues/2485) | tjegbejimba | resource | BigCat20196 |   | 02-24 | 03-01 |   |
 | [#2530](https://github.com/Azure/sdk-release-request/issues/2530) | anat-gilenson | securityinsight | msyyc |   | 03-14 | 03-28 |   |
-| [#2526](https://github.com/Azure/sdk-release-request/issues/2526) | adburch | storagecache | msyyc | new comment.  <br> release date < 2 ! <br> | 03-11 | 03-21 | -1 |
