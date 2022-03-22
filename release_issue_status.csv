@@ -1,11 +1,11 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2538,vutran01,azure-mgmt-applicationinsights,2022-03-15,6,2022-03-16,5,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,24,2022-03-15,6,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,25,2022-03-15,6,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,0,2022-03-22,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2587,jonathan-innis,azure-mgmt-kubernetesconfiguration,2022-03-21,0,2022-03-22,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2594,giakas,azure-mgmt-media,2022-03-21,0,2022-03-22,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2572,isolenov,azure-mgmt-msi,2022-03-16,5,2022-03-22,0,confirm,duplicated issue  <br> 
 Python,https://github.com/Azure/sdk-release-request/issues/2570,arndt-s,azure-mgmt-msi,2022-03-16,5,2022-03-17,5,confirm,duplicated issue  <br> 
-Python,https://github.com/Azure/sdk-release-request/issues/2535,msyyc,azure-mgmt-network,2022-03-15,7,2022-03-16,6,confirm,new version is 0.0.0, please check base branch!  
+Python,https://github.com/Azure/sdk-release-request/issues/2535,msyyc,azure-mgmt-network,2022-03-15,7,2022-03-22,0,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2485,tjegbejimba,azure-mgmt-resource,2022-02-24,25,2022-03-22,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2530,anat-gilenson,azure-mgmt-securityinsight,2022-03-14,7,2022-03-22,0,confirm, 
