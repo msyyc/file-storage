@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-msi,msyyc,2022-03-16,2022-03-24,https://github.com/Azure/sdk-release-request/issues/2570
+azure-mgmt-msi,msyyc,2022-03-16,2022-03-24,https://github.com/Azure/sdk-release-request/issues/2572
 azure-mgmt-resource,BigCat20196,2022-02-24,2022-03-23,https://github.com/Azure/sdk-release-request/issues/2485
 azure-mgmt-applicationinsights,BigCat20196,2022-03-15,2022-03-23,https://github.com/Azure/sdk-release-request/issues/2538
 azure-mgmt-cdn,msyyc,2022-03-16,2022-03-22,https://github.com/Azure/sdk-release-request/issues/2573
