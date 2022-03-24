@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,27,2022-03-24,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2598,FumingZhang,azure-mgmt-containerservice,2022-03-22,1,2022-03-24,0,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2598,FumingZhang,azure-mgmt-containerservice,2022-03-22,2,2022-03-24,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,0,2022-03-24,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,2,2022-03-22,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2604,kenziedolish,azure-mgmt-healthcareapis,2022-03-22,1,2022-03-23,1,confirm, 
