@@ -3,7 +3,6 @@
 | [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc |   | 02-25 | 04-07 |   |
 | [#2613](https://github.com/Azure/sdk-release-request/issues/2613) | yangyuan | cognitiveservices | BigCat20196 |   | 03-24 | 04-11 |   |
 | [#2609](https://github.com/Azure/sdk-release-request/issues/2609) | angouloure | containerinstance | BigCat20196 |   | 03-24 | 04-14 |   |
-| [#2598](https://github.com/Azure/sdk-release-request/issues/2598) | FumingZhang | containerservice | msyyc | new comment.  <br> release date < 2 ! <br> | 03-22 | 03-24 | -1 |
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 |   | 03-24 | 04-04 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2604](https://github.com/Azure/sdk-release-request/issues/2604) | kenziedolish | healthcareapis | BigCat20196 |   | 03-22 | 03-31 |   |
