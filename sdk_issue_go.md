@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#17287](https://github.com/Azure/azure-sdk-for-go/issues/17287)|FileServicesClient.SetServiceProperties does not work from around 3/8/2022|bug, Storage, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-03-14|
-|2|[#17155](https://github.com/Azure/azure-sdk-for-go/issues/17155)|batch Rest API requests (azure portal uses this) using the GO SDK|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-02-23|
+|1|[#17358](https://github.com/Azure/azure-sdk-for-go/issues/17358)|Bot service slack channel doesn't save client id/secrets|question, Service Attention, Mgmt, customer-reported, Bot Service, needs-team-attention, Previous Versions|lirenhe|new comment|2022-03-23|
+|2|[#17287](https://github.com/Azure/azure-sdk-for-go/issues/17287)|FileServicesClient.SetServiceProperties does not work from around 3/8/2022|bug, Storage, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-03-14|
 |3|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-18|
 |4|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
 |5|[#17013](https://github.com/Azure/azure-sdk-for-go/issues/17013)|Firewall Delete failure|bug, Service Attention, Mgmt, Service, Network - Firewall|ArcturusZhang|new comment|2022-02-09|
@@ -14,7 +14,7 @@
 |12|[#15805](https://github.com/Azure/azure-sdk-for-go/issues/15805)|Support Tags on App Service Environments (Reopen #15631)|App Services, Mgmt, customer-reported, feature-request|ArcturusZhang|new issue|2021-10-15|
 |13|[#15199](https://github.com/Azure/azure-sdk-for-go/issues/15199)|for Cosmos DB account creation, publicAccessEnabled = false being changed back to true|question, Mgmt, customer-reported|ArcturusZhang|new comment|2021-08-02|
 |14|[#15173](https://github.com/Azure/azure-sdk-for-go/issues/15173)|[armcore] Check nolint comments|bug, CodeGen, Mgmt, ARM - Core|lirenhe||2021-07-27|
-|15|[#14800](https://github.com/Azure/azure-sdk-for-go/issues/14800)|Request to add services/preview/securityinsight/mgmt/2021-03-01-preview/securityinsight |Service Attention, Mgmt, customer-reported, feature-request, SecurityInsights|Alancere, lirenhe|new comment|2021-06-19|
+|15|[#14800](https://github.com/Azure/azure-sdk-for-go/issues/14800)|Request to add services/preview/securityinsight/mgmt/2021-03-01-preview/securityinsight |Service Attention, Mgmt, customer-reported, feature-request, SecurityInsights|lirenhe, Alancere|new comment|2021-06-19|
 |16|[#12180](https://github.com/Azure/azure-sdk-for-go/issues/12180)|Provide SDK for getting federation metadata XML file, please|Mgmt, customer-reported, feature-request|ArcturusZhang||2020-08-06|
 |17|[#10829](https://github.com/Azure/azure-sdk-for-go/issues/10829)|Azure SDK's Go SDK documentation should provide guidance for asynchronous usage for SQL API scenarios|Docs, SQL, Mgmt, feature-request|lirenhe|new comment|2020-06-25|
 |18|[#8917](https://github.com/Azure/azure-sdk-for-go/issues/8917)|Guidance on using ETAGs / Conditional requests|Network, Mgmt, feature-request|lirenhe|new comment|2020-05-06|
