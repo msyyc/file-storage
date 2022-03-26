@@ -3,6 +3,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azur
 Python,https://github.com/Azure/sdk-release-request/issues/2613,yangyuan,azure-mgmt-cognitiveservices,2022-03-24,1,2022-03-25,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,1,2022-03-25,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,1,2022-03-24,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2620,ahamad-MS,azure-mgmt-eventgrid,2022-03-26,0,2022-03-26,0,confirm,auto reply failed!  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,4,2022-03-22,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2604,kenziedolish,azure-mgmt-healthcareapis,2022-03-22,3,2022-03-23,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2587,jonathan-innis,azure-mgmt-kubernetesconfiguration,2022-03-21,4,2022-03-22,4,confirm,  release date < 2 ! <br>
