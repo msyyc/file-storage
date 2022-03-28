@@ -8,5 +8,5 @@
 | [#2596](https://github.com/Azure/sdk-release-request/issues/2596) | FumingZhang |  | weidongxu-microsoft | new comment. | 03-22 | 03-24 |  |
 | [#2592](https://github.com/Azure/sdk-release-request/issues/2592) | giakas |  | weidongxu-microsoft |  | 03-21 | 03-24 |  |
 | [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | new issue. new comment. | 03-21 | 05-02 |  |
-| [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao | new issue. close to release date.  | 03-17 | 03-31 | 2 |
+| [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao | close to release date.  | 03-17 | 03-31 | 2 |
 | [#2490](https://github.com/Azure/sdk-release-request/issues/2490) | priyjain358 |  | XiaofeiCao | new issue. new comment. | 02-25 | fail to get. |  |
