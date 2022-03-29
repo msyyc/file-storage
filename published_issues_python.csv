@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-signalr,msyyc,2022-03-28,2022-03-29,https://github.com/Azure/sdk-release-request/issues/2624
 azure-mgmt-cognitiveservices,BigCat20196,2022-03-24,2022-03-28,https://github.com/Azure/sdk-release-request/issues/2613
 azure-mgmt-containerservice,msyyc,2022-03-22,2022-03-25,https://github.com/Azure/sdk-release-request/issues/2598
 azure-mgmt-msi,msyyc,2022-03-16,2022-03-24,https://github.com/Azure/sdk-release-request/issues/2570
