@@ -4,7 +4,6 @@
 | [#2609](https://github.com/Azure/sdk-release-request/issues/2609) | angouloure | containerinstance | BigCat20196 |   | 03-24 | 04-14 |   |
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 |   | 03-24 | 04-04 |   |
 | [#2620](https://github.com/Azure/sdk-release-request/issues/2620) | ahamad-MS | eventgrid | msyyc |   release date < 2 ! <br> | 03-26 | 03-29 | 0 |
-| [#2631](https://github.com/Azure/sdk-release-request/issues/2631) | msyyc | frontdoor | BigCat20196 |   | 03-28 | 04-11 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2604](https://github.com/Azure/sdk-release-request/issues/2604) | kenziedolish | healthcareapis | BigCat20196 |   release date < 2 ! <br> | 03-22 | 03-31 | 1 |
 | [#2587](https://github.com/Azure/sdk-release-request/issues/2587) | jonathan-innis | kubernetesconfiguration | msyyc |   release date < 2 ! <br> | 03-21 | 03-28 | -1 |
