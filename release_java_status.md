@@ -2,11 +2,11 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2627](https://github.com/Azure/sdk-release-request/issues/2627) | blueww |  | weidongxu-microsoft |  | 03-28 | 04-11 |  |
 | [#2626](https://github.com/Azure/sdk-release-request/issues/2626) | juniwang |  | XiaofeiCao | new issue. | 03-28 | 04-11 |  |
-| [#2621](https://github.com/Azure/sdk-release-request/issues/2621) | ahamad-MS |  | XiaofeiCao | close to release date.  | 03-26 | 03-29 | 0 |
+| [#2621](https://github.com/Azure/sdk-release-request/issues/2621) | ahamad-MS |  | XiaofeiCao | close to release date.  | 03-26 | 03-29 | -1 |
 | [#2615](https://github.com/Azure/sdk-release-request/issues/2615) | yangyuan |  | haolingdong-msft | new issue. | 03-24 | 04-11 |  |
 | [#2611](https://github.com/Azure/sdk-release-request/issues/2611) | angouloure |  | haolingdong-msft | new issue. | 03-24 | 04-14 |  |
 | [#2596](https://github.com/Azure/sdk-release-request/issues/2596) | FumingZhang |  | weidongxu-microsoft | new comment. | 03-22 | 03-24 |  |
-| [#2592](https://github.com/Azure/sdk-release-request/issues/2592) | giakas |  | weidongxu-microsoft |  | 03-21 | 03-24 |  |
+| [#2592](https://github.com/Azure/sdk-release-request/issues/2592) | giakas |  | weidongxu-microsoft | new comment. | 03-21 | 03-24 |  |
 | [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | new issue. new comment. | 03-21 | 05-02 |  |
-| [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao | close to release date.  | 03-17 | 03-31 | 1 |
+| [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao | close to release date.  | 03-17 | 03-31 | 0 |
 | [#2490](https://github.com/Azure/sdk-release-request/issues/2490) | priyjain358 |  | XiaofeiCao | new issue. new comment. | 02-25 | fail to get. |  |
