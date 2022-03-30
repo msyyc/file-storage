@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-securityinsight,msyyc,2022-03-14,2022-03-30,https://github.com/Azure/sdk-release-request/issues/2530
+azure-mgmt-media,msyyc,2022-03-21,2022-03-30,https://github.com/Azure/sdk-release-request/issues/2594
 azure-mgmt-frontdoor,BigCat20196,2022-03-28,2022-03-29,https://github.com/Azure/sdk-release-request/issues/2631
 azure-mgmt-signalr,msyyc,2022-03-28,2022-03-29,https://github.com/Azure/sdk-release-request/issues/2624
 azure-mgmt-cognitiveservices,BigCat20196,2022-03-24,2022-03-28,https://github.com/Azure/sdk-release-request/issues/2613
