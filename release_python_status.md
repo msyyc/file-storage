@@ -9,7 +9,7 @@
 | [#2587](https://github.com/Azure/sdk-release-request/issues/2587) | jonathan-innis | kubernetesconfiguration | msyyc |   release date < 2 ! <br> | 03-21 | 03-28 | -2 |
 | [#2594](https://github.com/Azure/sdk-release-request/issues/2594) | giakas | media | msyyc | new comment.  <br> | 03-21 | 03-24 |   |
 | [#2601](https://github.com/Azure/sdk-release-request/issues/2601) | satravi | mobilenetwork | BigCat20196 |   | 03-22 | 03-25 |   |
-| [#2632](https://github.com/Azure/sdk-release-request/issues/2632) | isolenov | msi | BigCat20196 | new comment.  <br> | 03-28 | 04-12 |   |
+| [#2632](https://github.com/Azure/sdk-release-request/issues/2632) | isolenov | msi | BigCat20196 |   | 03-28 | 04-12 |   |
 | [#2535](https://github.com/Azure/sdk-release-request/issues/2535) | msyyc | network | BigCat20196 | new version is 0.0.0, please check base branch!   release date < 2 ! <br> | 03-15 | 03-29 | -1 |
 | [#2634](https://github.com/Azure/sdk-release-request/issues/2634) | SapirElmakayes | security | BigCat20196 |   release date < 2 ! <br> | 03-28 | 03-30 | 0 |
 | [#2530](https://github.com/Azure/sdk-release-request/issues/2530) | anat-gilenson | securityinsight | msyyc | new comment.  <br> release date < 2 ! <br> | 03-14 | 03-28 | -2 |
