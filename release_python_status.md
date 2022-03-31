@@ -6,7 +6,7 @@
 | [#2620](https://github.com/Azure/sdk-release-request/issues/2620) | ahamad-MS | eventgrid | msyyc |   release date < 2 ! <br> | 03-26 | 03-29 | -2 |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2604](https://github.com/Azure/sdk-release-request/issues/2604) | kenziedolish | healthcareapis | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 03-22 | 03-31 | 0 |
-| [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 | new issue ! <br> | 03-30 | 04-13 |   |
+| [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 |   | 03-30 | 04-13 |   |
 | [#2587](https://github.com/Azure/sdk-release-request/issues/2587) | jonathan-innis | kubernetesconfiguration | msyyc | new comment.  <br> | 03-21 | 03-28 |   |
 | [#2601](https://github.com/Azure/sdk-release-request/issues/2601) | satravi | mobilenetwork | BigCat20196 |   | 03-22 | 03-25 |   |
 | [#2634](https://github.com/Azure/sdk-release-request/issues/2634) | SapirElmakayes | security | BigCat20196 |   release date < 2 ! <br> | 03-28 | 03-30 | -1 |
