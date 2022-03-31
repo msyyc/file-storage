@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-kubernetesconfiguration,msyyc,2022-03-21,2022-03-31,https://github.com/Azure/sdk-release-request/issues/2587
+azure-mgmt-healthcareapis,BigCat20196,2022-03-22,2022-03-31,https://github.com/Azure/sdk-release-request/issues/2604
 azure-mgmt-msi,BigCat20196,2022-03-28,2022-03-30,https://github.com/Azure/sdk-release-request/issues/2632
 azure-mgmt-securityinsight,msyyc,2022-03-14,2022-03-30,https://github.com/Azure/sdk-release-request/issues/2530
 azure-mgmt-media,msyyc,2022-03-21,2022-03-30,https://github.com/Azure/sdk-release-request/issues/2594
