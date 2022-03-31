@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2644](https://github.com/Azure/sdk-release-request/issues/2644) | nickgmicrosoft | azureadexternalidentities | BigCat20196 | new issue ! <br> | 03-31 | 04-04 |   |
-| [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc | new comment.  <br> | 02-25 | 04-07 |   |
+| [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc |   | 02-25 | 04-07 |   |
 | [#2609](https://github.com/Azure/sdk-release-request/issues/2609) | angouloure | containerinstance | BigCat20196 |   | 03-24 | 04-14 |   |
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 | new comment.  <br> | 03-24 | 04-04 |   |
 | [#2620](https://github.com/Azure/sdk-release-request/issues/2620) | ahamad-MS | eventgrid | msyyc |   release date < 2 ! <br> | 03-26 | 03-29 | -2 |
