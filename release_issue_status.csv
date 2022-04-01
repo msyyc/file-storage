@@ -2,7 +2,7 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,0,2022-04-01,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,34,2022-04-01,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,7,2022-03-25,7,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,7,2022-04-01,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,8,2022-04-01,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2620,ahamad-MS,azure-mgmt-eventgrid,2022-03-26,6,2022-03-28,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,10,2022-03-22,10,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2640,chgennar,azure-mgmt-iotcentral,2022-03-30,1,2022-03-31,1,confirm, 
