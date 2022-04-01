@@ -1,13 +1,14 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2645](https://github.com/Azure/sdk-release-request/issues/2645) | nickgmicrosoft |  | weidongxu-microsoft |  | 03-31 | 04-04 |  |
+| [#2647](https://github.com/Azure/sdk-release-request/issues/2647) | kyclai |  | haolingdong-msft | new issue. | 03-31 | 04-12 |  |
+| [#2645](https://github.com/Azure/sdk-release-request/issues/2645) | nickgmicrosoft |  | weidongxu-microsoft | close to release date.  | 03-31 | 04-04 | 2 |
 | [#2641](https://github.com/Azure/sdk-release-request/issues/2641) | chgennar |  | weidongxu-microsoft | new issue. | 03-30 | 04-13 |  |
 | [#2627](https://github.com/Azure/sdk-release-request/issues/2627) | blueww |  | weidongxu-microsoft |  | 03-28 | 04-11 |  |
 | [#2626](https://github.com/Azure/sdk-release-request/issues/2626) | juniwang |  | XiaofeiCao | new issue. | 03-28 | 04-11 |  |
-| [#2621](https://github.com/Azure/sdk-release-request/issues/2621) | ahamad-MS |  | XiaofeiCao | close to release date.  | 03-26 | 03-29 | -2 |
+| [#2621](https://github.com/Azure/sdk-release-request/issues/2621) | ahamad-MS |  | XiaofeiCao |  | 03-26 | 03-29 |  |
 | [#2615](https://github.com/Azure/sdk-release-request/issues/2615) | yangyuan |  | haolingdong-msft | new issue. | 03-24 | 04-11 |  |
 | [#2611](https://github.com/Azure/sdk-release-request/issues/2611) | angouloure |  | haolingdong-msft | new issue. | 03-24 | 04-14 |  |
 | [#2596](https://github.com/Azure/sdk-release-request/issues/2596) | FumingZhang |  | weidongxu-microsoft | new comment. | 03-22 | 03-24 |  |
 | [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | new issue. new comment. | 03-21 | 05-02 |  |
-| [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao | close to release date.  | 03-17 | 03-31 | 0 |
+| [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao | close to release date.  | 03-17 | 03-31 | -1 |
 | [#2490](https://github.com/Azure/sdk-release-request/issues/2490) | priyjain358 |  | XiaofeiCao | new issue. new comment. | 02-25 | fail to get. |  |
