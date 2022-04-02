@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2649](https://github.com/Azure/sdk-release-request/issues/2649) | amanswaika |   | BigCat20196 | failed to modify the body of the new issue. Please modify manually | 04-01 | 04-11 |   |
+| [#2649](https://github.com/Azure/sdk-release-request/issues/2649) | amanswaika |   | BigCat20196 | failed to find Readme link and output folder!  <br> | 04-01 | 04-11 |   |
 | [#2648](https://github.com/Azure/sdk-release-request/issues/2648) | BigCat20196 | azureadexternalidentities | msyyc | duplicated issue  <br>auto reply failed!  <br> | 04-01 | 04-18 |   |
 | [#2644](https://github.com/Azure/sdk-release-request/issues/2644) | nickgmicrosoft | azureadexternalidentities | BigCat20196 | duplicated issue  <br>new issue ! <br> release date < 2 ! <br> | 03-31 | 04-04 | 1 |
 | [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc | new comment.  <br> | 02-25 | 04-07 |   |
