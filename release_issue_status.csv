@@ -1,12 +1,12 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,0,2022-04-02,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadexternalidentities,2022-04-01,0,2022-04-02,0,confirm,duplicated issue  <br>auto reply failed!  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,1,2022-04-02,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadexternalidentities,2022-04-01,1,2022-04-02,0,confirm,duplicated issue  <br>auto reply failed!  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,2,2022-04-02,0,confirm,duplicated issue  <br>  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,36,2022-04-02,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,8,2022-03-25,8,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,9,2022-03-25,8,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,9,2022-04-01,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2620,ahamad-MS,azure-mgmt-eventgrid,2022-03-26,7,2022-04-02,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,11,2022-03-22,11,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2640,chgennar,azure-mgmt-iotcentral,2022-03-30,2,2022-03-31,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2634,SapirElmakayes,azure-mgmt-security,2022-03-28,4,2022-03-29,4,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2630,blueww,azure-mgmt-storage,2022-03-28,5,2022-03-30,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,12,2022-03-22,11,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2640,chgennar,azure-mgmt-iotcentral,2022-03-30,3,2022-03-31,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2634,SapirElmakayes,azure-mgmt-security,2022-03-28,5,2022-03-29,4,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2630,blueww,azure-mgmt-storage,2022-03-28,5,2022-03-30,3,confirm, 
