@@ -9,5 +9,6 @@
 | [#2620](https://github.com/Azure/sdk-release-request/issues/2620) | ahamad-MS | eventgrid | msyyc |   | 03-26 | 03-29 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 |   | 03-30 | 04-13 |   |
+| [#2654](https://github.com/Azure/sdk-release-request/issues/2654) | koderjoker | redisenterprise | BigCat20196 | new issue ! <br> | 04-04 | 04-18 |   |
 | [#2634](https://github.com/Azure/sdk-release-request/issues/2634) | SapirElmakayes | security | BigCat20196 |   | 03-28 | 03-30 |   |
 | [#2630](https://github.com/Azure/sdk-release-request/issues/2630) | blueww | storage | msyyc |   | 03-28 | 04-11 |   |
