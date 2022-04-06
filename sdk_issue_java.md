@@ -6,7 +6,7 @@
 |4|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Mgmt, customer-reported|weidongxu-microsoft||2022-03-29|
 |5|[#27830](https://github.com/Azure/azure-sdk-for-java/issues/27830)|mgmt, support enterprise tier feature in app platform|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-23|
 |6|[#27829](https://github.com/Azure/azure-sdk-for-java/issues/27829)|mgmt, upgrade appplatform api version to 2022-01-01-preview|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-23|
-|7|[#27819](https://github.com/Azure/azure-sdk-for-java/issues/27819)|Not able to call azure api of Virtual machine scale set through java sdk|question, Compute - VMSS, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2022-03-23|
+|7|[#27819](https://github.com/Azure/azure-sdk-for-java/issues/27819)|Not able to call azure api of Virtual machine scale set through java sdk|question, Compute - VMSS, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-03-23|
 |8|[#27617](https://github.com/Azure/azure-sdk-for-java/issues/27617)|[FEATURE] mgmt, upgrade service with old api-version|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-03-11|
 |9|[#27513](https://github.com/Azure/azure-sdk-for-java/issues/27513)|mgmt, support appplatform Spring Cloud Enterprise tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-08|
 |10|[#27275](https://github.com/Azure/azure-sdk-for-java/issues/27275)|mgmt, upgrade SQL to composite-v5|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-24|
