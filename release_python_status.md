@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2649](https://github.com/Azure/sdk-release-request/issues/2649) | amanswaika | authorization | BigCat20196 |   | 04-01 | 04-11 |   |
 | [#2648](https://github.com/Azure/sdk-release-request/issues/2648) | BigCat20196 | azureadexternalidentities | msyyc | duplicated issue  <br>auto reply failed!  <br> | 04-01 | 04-18 |   |
-| [#2644](https://github.com/Azure/sdk-release-request/issues/2644) | nickgmicrosoft | azureadexternalidentities | BigCat20196 | duplicated issue  <br>  release date < 2 ! <br> | 03-31 | 04-04 | -2 |
+| [#2644](https://github.com/Azure/sdk-release-request/issues/2644) | nickgmicrosoft | azureadexternalidentities | BigCat20196 | duplicated issue  <br>new issue ! <br> release date < 2 ! <br> | 03-31 | 04-04 | -2 |
 | [#2488](https://github.com/Azure/sdk-release-request/issues/2488) | priyjain358 | azurestackhci | msyyc |   release date < 2 ! <br> | 02-25 | 04-07 | 0 |
 | [#2609](https://github.com/Azure/sdk-release-request/issues/2609) | angouloure | containerinstance | BigCat20196 |   | 03-24 | 04-14 |   |
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 |   release date < 2 ! <br> | 03-24 | 04-04 | -2 |
