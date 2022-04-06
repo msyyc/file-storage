@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,4,2022-04-02,3,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,4,2022-04-02,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadexternalidentities,2022-04-01,4,2022-04-02,4,confirm,duplicated issue  <br>auto reply failed!  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,5,2022-04-06,0,confirm,duplicated issue  <br>new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2488,priyjain358,azure-mgmt-azurestackhci,2022-02-25,39,2022-04-02,3,confirm,  release date < 2 ! <br>
