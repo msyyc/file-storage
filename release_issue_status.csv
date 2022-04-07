@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2666,dabenhamMic, ,2022-04-07,0,2022-04-07,0,confirm,failed to modify the body of the new issue. Please modify manually
+Python,https://github.com/Azure/sdk-release-request/issues/2666,dabenhamMic, ,2022-04-07,0,2022-04-07,0,confirm,failed to find Readme link and output folder!  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2663,luhan2017, ,2022-04-07,0,2022-04-07,0,confirm,auto reply failed!  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,5,2022-04-02,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadexternalidentities,2022-04-01,5,2022-04-02,5,confirm,duplicated issue  <br>auto reply failed!  <br>
