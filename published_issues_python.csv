@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-azurestackhci,msyyc,2022-02-25,2022-04-08,https://github.com/Azure/sdk-release-request/issues/2488
+azure-mgmt-loganalytics,BigCat20196,2022-04-07,2022-04-08,https://github.com/Azure/sdk-release-request/issues/2666
 azure-mgmt-eventgrid,msyyc,2022-03-26,2022-04-07,https://github.com/Azure/sdk-release-request/issues/2620
 azure-mgmt-redisenterprise,BigCat20196,2022-04-04,2022-04-07,https://github.com/Azure/sdk-release-request/issues/2654
 azure-mgmt-storage,msyyc,2022-03-28,2022-04-06,https://github.com/Azure/sdk-release-request/issues/2630
