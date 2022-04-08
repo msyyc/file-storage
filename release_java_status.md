@@ -3,13 +3,13 @@
 | [#2665](https://github.com/Azure/sdk-release-request/issues/2665) | luhan2017 |  | XiaofeiCao | new issue. | 04-07 | 04-21 |  |
 | [#2659](https://github.com/Azure/sdk-release-request/issues/2659) | jinghzhu-msft |  | haolingdong-msft | new issue. | 04-07 | 04-12 |  |
 | [#2655](https://github.com/Azure/sdk-release-request/issues/2655) | koderjoker |  | XiaofeiCao | new issue. | 04-04 | 04-18 |  |
-| [#2652](https://github.com/Azure/sdk-release-request/issues/2652) | amanswaika |  | XiaofeiCao |  | 04-01 | 04-11 |  |
+| [#2652](https://github.com/Azure/sdk-release-request/issues/2652) | amanswaika |  | XiaofeiCao | close to release date.  | 04-01 | 04-11 | 2 |
 | [#2647](https://github.com/Azure/sdk-release-request/issues/2647) | kyclai |  | haolingdong-msft | new issue. | 03-31 | 04-12 |  |
 | [#2645](https://github.com/Azure/sdk-release-request/issues/2645) | nickgmicrosoft |  | weidongxu-microsoft |  | 03-31 | 04-04 |  |
 | [#2641](https://github.com/Azure/sdk-release-request/issues/2641) | chgennar |  | weidongxu-microsoft | new issue. | 03-30 | 04-13 |  |
-| [#2627](https://github.com/Azure/sdk-release-request/issues/2627) | blueww |  | weidongxu-microsoft |  | 03-28 | 04-11 |  |
-| [#2626](https://github.com/Azure/sdk-release-request/issues/2626) | juniwang |  | XiaofeiCao | new issue. | 03-28 | 04-11 |  |
-| [#2615](https://github.com/Azure/sdk-release-request/issues/2615) | yangyuan |  | haolingdong-msft | new issue. new comment. | 03-24 | 04-11 |  |
+| [#2627](https://github.com/Azure/sdk-release-request/issues/2627) | blueww |  | weidongxu-microsoft | close to release date.  | 03-28 | 04-11 | 2 |
+| [#2626](https://github.com/Azure/sdk-release-request/issues/2626) | juniwang |  | XiaofeiCao | new issue. close to release date.  | 03-28 | 04-11 | 2 |
+| [#2615](https://github.com/Azure/sdk-release-request/issues/2615) | yangyuan |  | haolingdong-msft | new issue. new comment. close to release date.  | 03-24 | 04-11 | 2 |
 | [#2611](https://github.com/Azure/sdk-release-request/issues/2611) | angouloure |  | haolingdong-msft | new issue. | 03-24 | 04-14 |  |
 | [#2596](https://github.com/Azure/sdk-release-request/issues/2596) | FumingZhang |  | weidongxu-microsoft | new comment. | 03-22 | 03-24 |  |
 | [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | new issue. new comment. | 03-21 | 05-02 |  |
