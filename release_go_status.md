@@ -1,11 +1,11 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2669](https://github.com/Azure/sdk-release-request/issues/2669) | anagg929 |  | Alancere | new issue. new comment. close to release date.  | 04-08 | 04-11 | 2 |
-| [#2668](https://github.com/Azure/sdk-release-request/issues/2668) | anagg929 |  | Alancere | new issue. new comment. close to release date.  | 04-07 | 04-11 | 2 |
+| [#2669](https://github.com/Azure/sdk-release-request/issues/2669) | anagg929 |  | Alancere | new issue. new comment. close to release date.  | 04-08 | 04-11 | 1 |
+| [#2668](https://github.com/Azure/sdk-release-request/issues/2668) | anagg929 |  | Alancere | new issue. new comment. close to release date.  | 04-07 | 04-11 | 1 |
 | [#2664](https://github.com/Azure/sdk-release-request/issues/2664) | luhan2017 |  | Alancere | new issue. new comment. | 04-07 | 04-21 |  |
-| [#2657](https://github.com/Azure/sdk-release-request/issues/2657) | jinghzhu-msft |  | Alancere | new issue. | 04-07 | 04-12 |  |
+| [#2657](https://github.com/Azure/sdk-release-request/issues/2657) | jinghzhu-msft |  | Alancere | new issue. close to release date.  | 04-07 | 04-12 | 2 |
 | [#2656](https://github.com/Azure/sdk-release-request/issues/2656) | koderjoker |  | Alancere |  | 04-04 | 04-18 |  |
-| [#2651](https://github.com/Azure/sdk-release-request/issues/2651) | amanswaika |  | Alancere | close to release date.  | 04-01 | 04-11 | 2 |
+| [#2651](https://github.com/Azure/sdk-release-request/issues/2651) | amanswaika |  | Alancere | close to release date.  | 04-01 | 04-11 | 1 |
 | [#2643](https://github.com/Azure/sdk-release-request/issues/2643) | nickgmicrosoft |  | Alancere |  | 03-31 | 04-04 |  |
 | [#2586](https://github.com/Azure/sdk-release-request/issues/2586) | jonathan-innis |  | Alancere |  | 03-21 | 03-28 |  |
 | [#2580](https://github.com/Azure/sdk-release-request/issues/2580) | ruslany |  | Alancere | new issue. | 03-17 | 03-31 |  |
