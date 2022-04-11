@@ -8,4 +8,4 @@
 | [#2660](https://github.com/Azure/sdk-release-request/issues/2660) | jinghzhu-msft | dashboard | msyyc | new comment.  <br> release date < 2 ! <br> | 04-07 | 04-12 | 0 |
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 |   | 03-24 | 04-04 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
-| [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 03-30 | 04-13 | 1 |
+| [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 |   release date < 2 ! <br> | 03-30 | 04-13 | 1 |
