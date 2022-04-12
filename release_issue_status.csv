@@ -6,4 +6,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2663,luhan2017,azure-
 Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,18,2022-04-07,5,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,18,2022-04-01,11,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,21,2022-03-22,21,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2640,chgennar,azure-mgmt-iotcentral,2022-03-30,12,2022-04-11,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2640,chgennar,azure-mgmt-iotcentral,2022-03-30,12,2022-04-11,1,confirm,  release date < 2 ! <br>
