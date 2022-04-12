@@ -8,3 +8,4 @@
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 |   | 03-24 | 04-04 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 |   release date < 2 ! <br> | 03-30 | 04-13 | 0 |
+| [#2677](https://github.com/Azure/sdk-release-request/issues/2677) | houk-ms | servicelinker | BigCat20196 | new issue ! <br> | 04-12 | 04-18 |   |
