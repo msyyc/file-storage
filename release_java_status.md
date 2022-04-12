@@ -1,12 +1,11 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2665](https://github.com/Azure/sdk-release-request/issues/2665) | luhan2017 |  | XiaofeiCao | new issue. | 04-07 | 04-21 |  |
-| [#2659](https://github.com/Azure/sdk-release-request/issues/2659) | jinghzhu-msft |  | haolingdong-msft | close to release date.  | 04-07 | 04-12 | 0 |
+| [#2659](https://github.com/Azure/sdk-release-request/issues/2659) | jinghzhu-msft |  | haolingdong-msft | new comment. close to release date.  | 04-07 | 04-12 | 0 |
 | [#2655](https://github.com/Azure/sdk-release-request/issues/2655) | koderjoker |  | XiaofeiCao | new issue. | 04-04 | 04-18 |  |
-| [#2652](https://github.com/Azure/sdk-release-request/issues/2652) | amanswaika |  | XiaofeiCao | close to release date.  | 04-01 | 04-11 | 0 |
+| [#2652](https://github.com/Azure/sdk-release-request/issues/2652) | amanswaika |  | XiaofeiCao | close to release date.  | 04-01 | 04-11 | -1 |
 | [#2645](https://github.com/Azure/sdk-release-request/issues/2645) | nickgmicrosoft |  | weidongxu-microsoft |  | 03-31 | 04-04 |  |
-| [#2611](https://github.com/Azure/sdk-release-request/issues/2611) | angouloure |  | haolingdong-msft | new issue. close to release date.  | 03-24 | 04-14 | 2 |
-| [#2596](https://github.com/Azure/sdk-release-request/issues/2596) | FumingZhang |  | weidongxu-microsoft | new comment. | 03-22 | 03-24 |  |
+| [#2611](https://github.com/Azure/sdk-release-request/issues/2611) | angouloure |  | haolingdong-msft | new issue. close to release date.  | 03-24 | 04-14 | 1 |
 | [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | new issue. new comment. | 03-21 | 05-02 |  |
 | [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao |  | 03-17 | 03-31 |  |
 | [#2490](https://github.com/Azure/sdk-release-request/issues/2490) | priyjain358 |  | XiaofeiCao |  | 02-25 | fail to get. |  |
