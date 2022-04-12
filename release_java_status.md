@@ -8,4 +8,3 @@
 | [#2611](https://github.com/Azure/sdk-release-request/issues/2611) | angouloure |  | haolingdong-msft | new issue. close to release date.  | 03-24 | 04-14 | 1 |
 | [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | new issue. new comment. | 03-21 | 05-02 |  |
 | [#2577](https://github.com/Azure/sdk-release-request/issues/2577) | ruslany |  | XiaofeiCao |  | 03-17 | 03-31 |  |
-| [#2490](https://github.com/Azure/sdk-release-request/issues/2490) | priyjain358 |  | XiaofeiCao |  | 02-25 | fail to get. |  |
