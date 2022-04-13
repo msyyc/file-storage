@@ -5,8 +5,7 @@
 | [#2644](https://github.com/Azure/sdk-release-request/issues/2644) | nickgmicrosoft | azureadexternalidentities | BigCat20196 |   | 03-31 | 04-04 |   |
 | [#2663](https://github.com/Azure/sdk-release-request/issues/2663) | luhan2017 | botservice | BigCat20196 |   | 04-07 | 04-21 |   |
 | [#2609](https://github.com/Azure/sdk-release-request/issues/2609) | angouloure | containerinstance | BigCat20196 |   release date < 2 ! <br> | 03-24 | 04-14 | 0 |
-| [#2682](https://github.com/Azure/sdk-release-request/issues/2682) | jinghzhu-msft | dashboard | BigCat20196 | new issue ! <br> release date < 2 ! <br> | 04-13 | 04-15 | 1 |
+| [#2682](https://github.com/Azure/sdk-release-request/issues/2682) | jinghzhu-msft | dashboard | BigCat20196 | new version is 0.0.0, please check base branch! new comment.  <br> release date < 2 ! <br> | 04-13 | 04-15 | 1 |
 | [#2606](https://github.com/Azure/sdk-release-request/issues/2606) | Frey-Wang | datafactory | BigCat20196 |   | 03-24 | 04-04 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
-| [#2640](https://github.com/Azure/sdk-release-request/issues/2640) | chgennar | iotcentral | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 03-30 | 04-13 | 0 |
 | [#2677](https://github.com/Azure/sdk-release-request/issues/2677) | houk-ms | servicelinker | BigCat20196 |   | 04-12 | 04-18 |   |
