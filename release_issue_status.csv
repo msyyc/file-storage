@@ -4,7 +4,8 @@ Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azur
 Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,12,2022-04-07,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2663,luhan2017,azure-mgmt-botservice,2022-04-07,5,2022-04-08,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,19,2022-04-07,6,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2682,jinghzhu-msft,azure-mgmt-dashboard,2022-04-13,0,2022-04-13,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,19,2022-04-01,12,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,22,2022-03-22,22,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2640,chgennar,azure-mgmt-iotcentral,2022-03-30,13,2022-04-12,0,confirm,new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2677,houk-ms,azure-mgmt-servicelinker,2022-04-12,0,2022-04-13,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2677,houk-ms,azure-mgmt-servicelinker,2022-04-12,1,2022-04-13,0,confirm, 

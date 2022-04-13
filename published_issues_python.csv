@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-iotcentral,BigCat20196,2022-03-30,2022-04-13,https://github.com/Azure/sdk-release-request/issues/2640
 azure-mgmt-dashboard,msyyc,2022-04-07,2022-04-11,https://github.com/Azure/sdk-release-request/issues/2660
 azure-mgmt-azurestackhci,msyyc,2022-02-25,2022-04-08,https://github.com/Azure/sdk-release-request/issues/2488
 azure-mgmt-loganalytics,BigCat20196,2022-04-07,2022-04-08,https://github.com/Azure/sdk-release-request/issues/2666
