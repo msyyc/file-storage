@@ -1,7 +1,7 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,12,2022-04-09,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadb2c,2022-04-01,12,2022-04-11,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,13,2022-04-07,6,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,14,2022-04-07,7,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2663,luhan2017,azure-mgmt-botservice,2022-04-07,6,2022-04-08,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,20,2022-04-14,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2684,vinhms,azure-mgmt-cosmosdb,2022-04-13,0,2022-04-14,0,confirm,  release date < 2 ! <br>
