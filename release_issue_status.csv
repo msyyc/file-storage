@@ -1,7 +1,7 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure-mgmt-authorization,2022-04-01,13,2022-04-09,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadb2c,2022-04-01,13,2022-04-11,4,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2699,FumingZhang,azure-mgmt-containerservice,2022-04-15,0,2022-04-15,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2699,FumingZhang,azure-mgmt-containerservice,2022-04-15,0,2022-04-15,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2684,vinhms,azure-mgmt-cosmosdb,2022-04-13,1,2022-04-14,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2692,Frey-Wang,azure-mgmt-datafactory,2022-04-15,0,2022-04-15,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,24,2022-03-22,24,confirm, 

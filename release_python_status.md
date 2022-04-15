@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2649](https://github.com/Azure/sdk-release-request/issues/2649) | amanswaika | authorization | BigCat20196 |   | 04-01 | 04-11 |   |
 | [#2648](https://github.com/Azure/sdk-release-request/issues/2648) | BigCat20196 | azureadb2c | msyyc |   release date < 2 ! <br> | 04-01 | 04-18 | 2 |
-| [#2699](https://github.com/Azure/sdk-release-request/issues/2699) | FumingZhang | containerservice | BigCat20196 | new issue ! <br> | 04-15 | 04-19 |   |
+| [#2699](https://github.com/Azure/sdk-release-request/issues/2699) | FumingZhang | containerservice | BigCat20196 | new comment.  <br> | 04-15 | 04-19 |   |
 | [#2684](https://github.com/Azure/sdk-release-request/issues/2684) | vinhms | cosmosdb | BigCat20196 |   release date < 2 ! <br> | 04-13 | 04-15 | 0 |
 | [#2692](https://github.com/Azure/sdk-release-request/issues/2692) | Frey-Wang | datafactory | msyyc |   | 04-15 | 04-22 |   |
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
