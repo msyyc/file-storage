@@ -3,9 +3,9 @@ Python,https://github.com/Azure/sdk-release-request/issues/2649,amanswaika,azure
 Python,https://github.com/Azure/sdk-release-request/issues/2648,BigCat20196,azure-mgmt-azureadb2c,2022-04-01,13,2022-04-11,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2644,nickgmicrosoft,azure-mgmt-azureadexternalidentities,2022-03-31,14,2022-04-07,7,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2663,luhan2017,azure-mgmt-botservice,2022-04-07,7,2022-04-14,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2609,angouloure,azure-mgmt-containerinstance,2022-03-24,21,2022-04-14,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2684,vinhms,azure-mgmt-cosmosdb,2022-04-13,1,2022-04-14,1,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,21,2022-04-01,14,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2692,Frey-Wang,azure-mgmt-datafactory,2022-04-15,0,2022-04-15,0,confirm,duplicated issue  <br>new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2606,Frey-Wang,azure-mgmt-datafactory,2022-03-24,21,2022-04-01,14,confirm,duplicated issue  <br> 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,24,2022-03-22,24,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2688,dhu5432,azure-mgmt-resource,2022-04-14,1,2022-04-14,1,confirm,new issue ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2677,houk-ms,azure-mgmt-servicelinker,2022-04-12,2,2022-04-14,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2677,houk-ms,azure-mgmt-servicelinker,2022-04-12,3,2022-04-14,0,confirm,  release date < 2 ! <br>
