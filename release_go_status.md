@@ -7,15 +7,6 @@
 | [#2696](https://github.com/Azure/sdk-release-request/issues/2696) | yanjungao718 |  | Alancere | new issue. | 04-15 | 04-26 |  |
 | [#2689](https://github.com/Azure/sdk-release-request/issues/2689) | Frey-Wang |  | Alancere | new issue. | 04-15 | 04-22 |  |
 | [#2685](https://github.com/Azure/sdk-release-request/issues/2685) | dhu5432 |  | Alancere | new issue. new comment. | 04-14 | 04-22 |  |
-| [#2679](https://github.com/Azure/sdk-release-request/issues/2679) | ahamad-MS |  | Alancere |  | 04-12 | 04-14 |  |
-| [#2675](https://github.com/Azure/sdk-release-request/issues/2675) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
-| [#2674](https://github.com/Azure/sdk-release-request/issues/2674) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
-| [#2673](https://github.com/Azure/sdk-release-request/issues/2673) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
-| [#2672](https://github.com/Azure/sdk-release-request/issues/2672) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
-| [#2671](https://github.com/Azure/sdk-release-request/issues/2671) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
-| [#2670](https://github.com/Azure/sdk-release-request/issues/2670) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
-| [#2669](https://github.com/Azure/sdk-release-request/issues/2669) | anagg929 |  | Alancere |  | 04-08 | 04-11 |  |
-| [#2664](https://github.com/Azure/sdk-release-request/issues/2664) | luhan2017 |  | Alancere | close to release date.  | 04-07 | 04-21 | 2 |
 | [#2580](https://github.com/Azure/sdk-release-request/issues/2580) | ruslany |  | Alancere | new issue. | 03-17 | 03-31 |  |
 | [#2489](https://github.com/Azure/sdk-release-request/issues/2489) | priyjain358 |  | Alancere | new comment. | 02-25 | 03-14 |  |
 | [#2452](https://github.com/Azure/sdk-release-request/issues/2452) | HappyTobi |  | Alancere |  | 02-16 | 03-09 |  |
