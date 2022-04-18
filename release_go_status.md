@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2708](https://github.com/Azure/sdk-release-request/issues/2708) | Selekena |  | Alancere | new issue. new comment. | 04-15 | 05-02 |  |
 | [#2703](https://github.com/Azure/sdk-release-request/issues/2703) | moreOver0 |  | Alancere | new issue. new comment. | 04-15 | 04-22 |  |
-| [#2698](https://github.com/Azure/sdk-release-request/issues/2698) | FumingZhang |  | Alancere | new issue. close to release date.  | 04-15 | 04-19 | 1 |
+| [#2698](https://github.com/Azure/sdk-release-request/issues/2698) | FumingZhang |  | Alancere | new issue. close to release date.  | 04-15 | 04-19 | 0 |
 | [#2697](https://github.com/Azure/sdk-release-request/issues/2697) | houk-ms |  | Alancere | new issue. new comment. | 04-15 | 04-22 |  |
 | [#2696](https://github.com/Azure/sdk-release-request/issues/2696) | yanjungao718 |  | Alancere | new issue. | 04-15 | 04-26 |  |
 | [#2689](https://github.com/Azure/sdk-release-request/issues/2689) | Frey-Wang |  | Alancere | new issue. | 04-15 | 04-22 |  |
@@ -15,7 +15,7 @@
 | [#2671](https://github.com/Azure/sdk-release-request/issues/2671) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
 | [#2670](https://github.com/Azure/sdk-release-request/issues/2670) | herreraj-ms |  | Alancere | new issue. new comment. | 04-11 | 04-25 |  |
 | [#2669](https://github.com/Azure/sdk-release-request/issues/2669) | anagg929 |  | Alancere |  | 04-08 | 04-11 |  |
-| [#2664](https://github.com/Azure/sdk-release-request/issues/2664) | luhan2017 |  | Alancere |  | 04-07 | 04-21 |  |
+| [#2664](https://github.com/Azure/sdk-release-request/issues/2664) | luhan2017 |  | Alancere | close to release date.  | 04-07 | 04-21 | 2 |
 | [#2580](https://github.com/Azure/sdk-release-request/issues/2580) | ruslany |  | Alancere | new issue. | 03-17 | 03-31 |  |
 | [#2489](https://github.com/Azure/sdk-release-request/issues/2489) | priyjain358 |  | Alancere | new comment. | 02-25 | 03-14 |  |
 | [#2452](https://github.com/Azure/sdk-release-request/issues/2452) | HappyTobi |  | Alancere |  | 02-16 | 03-09 |  |
