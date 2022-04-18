@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#17591](https://github.com/Azure/azure-sdk-for-go/issues/17591)|DscConfigurationClient.GetContent is broken since `2020-01-13-preview/automation` API version|question, Automation, Mgmt, customer-reported|lirenhe|new issue|2022-04-14|
-|2|[#17569](https://github.com/Azure/azure-sdk-for-go/issues/17569)|services/authorization/mgmt/2020-10-01/authorization uses the apiversion "2015-07-01"|bug, Authorization, Mgmt|lirenhe|new comment|2022-04-13|
+|2|[#17569](https://github.com/Azure/azure-sdk-for-go/issues/17569)|services/authorization/mgmt/2020-10-01/authorization uses the apiversion "2015-07-01"|bug, Authorization, Mgmt|lirenhe||2022-04-13|
 |3|[#17520](https://github.com/Azure/azure-sdk-for-go/issues/17520)|Unsupported api-version for armservicebus ListKeys() method|question, Service Bus, Mgmt, customer-reported|ArcturusZhang|new issue|2022-04-11|
 |4|[#17500](https://github.com/Azure/azure-sdk-for-go/issues/17500)|bugs|question, Mgmt, customer-reported, needs-author-feedback, CXP Attention|lirenhe|new comment|2022-04-10|
 |5|[#17470](https://github.com/Azure/azure-sdk-for-go/issues/17470)|`securityinsight` version 2022-01-01-preview can't compile|bug, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-04-07|
