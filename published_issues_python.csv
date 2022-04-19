@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-cosmosdb,BigCat20196,2022-04-13,2022-04-19,https://github.com/Azure/sdk-release-request/issues/2684
+azure-mgmt-synapse,msyyc,2022-04-15,2022-04-19,https://github.com/Azure/sdk-release-request/issues/2695
 azure-mgmt-datafactory,msyyc,2022-04-15,2022-04-18,https://github.com/Azure/sdk-release-request/issues/2692
 azure-mgmt-containerservice,BigCat20196,2022-04-15,2022-04-18,https://github.com/Azure/sdk-release-request/issues/2699
 azure-mgmt-botservice,BigCat20196,2022-04-07,2022-04-15,https://github.com/Azure/sdk-release-request/issues/2663
