@@ -3,5 +3,5 @@ Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena, ,2022-
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,29,2022-03-22,29,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2711,msyyc,azure-mgmt-network,2022-04-20,0,2022-04-20,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2713,gaoyp830,azure-mgmt-reservations,2022-04-20,0,2022-04-20,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2719,subbartt,azure-mgmt-scvmm,2022-04-20,0,2022-04-20,0,confirm,new issue ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2677,houk-ms,azure-mgmt-servicelinker,2022-04-12,8,2022-04-14,5,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2719,subbartt,azure-mgmt-scvmm,2022-04-20,0,2022-04-20,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2677,houk-ms,azure-mgmt-servicelinker,2022-04-12,8,2022-04-14,6,confirm,  release date < 2 ! <br>
