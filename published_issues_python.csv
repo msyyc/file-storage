@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-reservations,msyyc,2022-04-20,2022-04-22,https://github.com/Azure/sdk-release-request/issues/2713
 azure-mgmt-resource,msyyc,2022-04-14,2022-04-19,https://github.com/Azure/sdk-release-request/issues/2688
 azure-mgmt-cosmosdb,BigCat20196,2022-04-13,2022-04-19,https://github.com/Azure/sdk-release-request/issues/2684
 azure-mgmt-synapse,msyyc,2022-04-15,2022-04-19,https://github.com/Azure/sdk-release-request/issues/2695
