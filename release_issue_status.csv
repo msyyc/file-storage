@@ -1,7 +1,7 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena, ,2022-04-15,7,2022-04-18,5,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,1,2022-04-22,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,32,2022-03-22,32,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena, ,2022-04-15,8,2022-04-18,5,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,2,2022-04-22,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,33,2022-03-22,32,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,2,2022-04-22,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2711,msyyc,azure-mgmt-network,2022-04-20,3,2022-04-20,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,1,2022-04-23,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2711,msyyc,azure-mgmt-network,2022-04-20,4,2022-04-20,3,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,2,2022-04-23,0,confirm,new comment.  <br>
