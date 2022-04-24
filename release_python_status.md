@@ -5,4 +5,4 @@
 | [#2589](https://github.com/Azure/sdk-release-request/issues/2589) | sunil-archt | hardwaresecuritymodules | msyyc |   | 03-21 | 05-02 |   |
 | [#2724](https://github.com/Azure/sdk-release-request/issues/2724) | thomasp98296 | monitor | BigCat20196 |   | 04-21 | 05-16 |   |
 | [#2711](https://github.com/Azure/sdk-release-request/issues/2711) | msyyc | network | BigCat20196 |   | 04-20 | 05-04 |   |
-| [#2728](https://github.com/Azure/sdk-release-request/issues/2728) | dhu5432 | resource | BigCat20196 | new comment.  <br> | 04-21 | 05-02 |   |
+| [#2728](https://github.com/Azure/sdk-release-request/issues/2728) | dhu5432 | resource | BigCat20196 |   | 04-21 | 05-02 |   |
