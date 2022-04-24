@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2022-04-20|
+|1|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-04-20|
 |2|[#28377](https://github.com/Azure/azure-sdk-for-java/issues/28377)|[QUERY] Swap OS disk for a VM not working after migrating to resource manager library|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-04-19|
 |3|[#27991](https://github.com/Azure/azure-sdk-for-java/issues/27991)|[BUG] 400 InvalidParameter on VMSS list instances|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2022-04-01|
 |4|[#27966](https://github.com/Azure/azure-sdk-for-java/issues/27966)|[FEATURE REQ] mgmt, convenient code for DiskEncryptionSet|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-31|
