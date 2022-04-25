@@ -2,6 +2,6 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena, ,2022-04-15,9,2022-04-25,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,3,2022-04-22,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,34,2022-04-25,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,4,2022-04-24,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,4,2022-04-24,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2736,necusjz,azure-mgmt-network,2022-04-24,1,2022-04-25,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,3,2022-04-25,0,confirm,new comment.  <br>
