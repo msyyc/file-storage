@@ -3,6 +3,6 @@ Python,https://github.com/Azure/sdk-release-request/issues/2741,niteshvijay1995,
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,4,2022-04-22,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,35,2022-04-25,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,10,2022-04-26,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,5,2022-04-24,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,5,2022-04-24,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2736,necusjz,azure-mgmt-network,2022-04-24,2,2022-04-25,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,4,2022-04-26,0,confirm,new version is 0.0.0, please check base branch!  
