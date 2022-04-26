@@ -1,4 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
+Python,https://github.com/Azure/sdk-release-request/issues/2741,niteshvijay1995,azure-mgmt-cosmosdb,2022-04-26,0,2022-04-26,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,4,2022-04-22,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,35,2022-04-25,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,10,2022-04-26,0,confirm, 
