@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|lirenhe, qiaozha|new comment|2022-04-27|
-|2|[#21572](https://github.com/Azure/azure-sdk-for-js/issues/21572)|Container nodes webAppestapp_0_2ab2aa8a didn't respond to HTTP pings on port: 3000, failing site start.|question, customer-reported, Mgmt, App Services|qiaozha||2022-04-22|
+|2|[#21572](https://github.com/Azure/azure-sdk-for-js/issues/21572)|Container nodes webAppestapp_0_2ab2aa8a didn't respond to HTTP pings on port: 3000, failing site start.|question, customer-reported, Mgmt, App Services|qiaozha|new comment|2022-04-22|
 |3|[#21478](https://github.com/Azure/azure-sdk-for-js/issues/21478)|[Container Instance] Username is required even if user assigned identity is passed|question, customer-reported, Mgmt|MaryGao, qiaozha|new comment|2022-04-19|
 |4|[#21210](https://github.com/Azure/azure-sdk-for-js/issues/21210)|@azure/arm-authorization beta release missing roleDefinitions|question, customer-reported, Mgmt, Authorization|qiaozha||2022-04-05|
 |5|[#21116](https://github.com/Azure/azure-sdk-for-js/issues/21116)|webApps.beginInstallSiteExtensionAndWait always returns a 400 error due to missing request body in the API spec|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha||2022-03-30|
