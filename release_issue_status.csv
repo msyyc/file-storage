@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,0,2022-04-27,0,confirm,failed to modify the body of the new issue. Please modify manually
-Python,https://github.com/Azure/sdk-release-request/issues/2743,jaysvoboda,azure-mgmt-chaos,2022-04-26,1,2022-04-27,1,confirm,new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,0,2022-04-28,0,confirm,failed to find Readme link and output folder!  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2743,jaysvoboda,azure-mgmt-chaos,2022-04-26,1,2022-04-28,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2741,niteshvijay1995,azure-mgmt-cosmosdb,2022-04-26,1,2022-04-26,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,6,2022-04-22,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,37,2022-04-25,3,confirm, 

@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2744](https://github.com/Azure/sdk-release-request/issues/2744) | armaansood |   | BigCat20196 | failed to modify the body of the new issue. Please modify manually | 04-27 | 05-02 |   |
+| [#2744](https://github.com/Azure/sdk-release-request/issues/2744) | armaansood |   | BigCat20196 | failed to find Readme link and output folder!  <br> | 04-27 | 05-02 |   |
 | [#2743](https://github.com/Azure/sdk-release-request/issues/2743) | jaysvoboda | chaos | msyyc | new issue ! <br> release date < 2 ! <br> | 04-26 | 04-28 | 0 |
 | [#2741](https://github.com/Azure/sdk-release-request/issues/2741) | niteshvijay1995 | cosmosdb | BigCat20196 |   release date < 2 ! <br> | 04-26 | 04-28 | 0 |
 | [#2730](https://github.com/Azure/sdk-release-request/issues/2730) | vinnieangel | education | BigCat20196 |   | 04-21 | 05-05 |   |
