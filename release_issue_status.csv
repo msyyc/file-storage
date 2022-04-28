@@ -8,4 +8,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,6,2022-04-24,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2736,necusjz,azure-mgmt-network,2022-04-24,3,2022-04-25,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2742,DaeunYim,azure-mgmt-rdbms,2022-04-26,1,2022-04-27,0,confirm,new issue ! <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,6,2022-04-26,1,confirm,new version is 0.0.0, please check base branch! new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,6,2022-04-28,0,confirm,new issue ! <br>
