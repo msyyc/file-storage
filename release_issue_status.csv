@@ -1,11 +1,11 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,0,2022-04-28,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2743,jaysvoboda,azure-mgmt-chaos,2022-04-26,1,2022-04-28,0,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2745,niteshvijay1995,azure-mgmt-cosmosdb,2022-04-28,0,2022-04-28,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,6,2022-04-28,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,37,2022-04-25,3,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,12,2022-04-26,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,1,2022-04-28,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2743,jaysvoboda,azure-mgmt-chaos,2022-04-26,2,2022-04-28,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2745,niteshvijay1995,azure-mgmt-cosmosdb,2022-04-28,0,2022-04-28,0,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,7,2022-04-28,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,38,2022-04-25,3,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,13,2022-04-26,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,7,2022-04-24,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2736,necusjz,azure-mgmt-network,2022-04-24,4,2022-04-28,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2742,DaeunYim,azure-mgmt-rdbms,2022-04-26,1,2022-04-28,0,confirm,new version is 0.0.0, please check base branch!   release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,6,2022-04-28,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2748,anjorsh,azure-mgmt-recoveryservicesbackup,2022-04-29,0,2022-04-29,0,confirm,new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,7,2022-04-28,0,confirm,new comment.  <br> release date < 2 ! <br>
