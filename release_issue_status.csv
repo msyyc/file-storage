@@ -2,7 +2,7 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,3,2022-04-28,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2743,jaysvoboda,azure-mgmt-chaos,2022-04-26,4,2022-04-28,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,9,2022-04-29,1,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,40,2022-04-25,5,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,40,2022-04-25,6,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,15,2022-04-26,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,9,2022-04-24,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2750,BigCat20196,azure-mgmt-msi,2022-04-29,1,2022-04-29,1,confirm,new version is 0.0.0, please check base branch!  
