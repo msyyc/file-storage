@@ -5,7 +5,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azur
 Python,https://github.com/Azure/sdk-release-request/issues/2589,sunil-archt,azure-mgmt-hardwaresecuritymodules,2022-03-21,41,2022-04-25,7,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,16,2022-04-26,6,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,10,2022-04-24,7,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2750,BigCat20196,azure-mgmt-msi,2022-04-29,2,2022-04-29,2,confirm,new version is 0.0.0, please check base branch!  
+Python,https://github.com/Azure/sdk-release-request/issues/2750,BigCat20196,azure-mgmt-msi,2022-04-29,3,2022-04-29,2,confirm,new version is 0.0.0, please check base branch!  
 Python,https://github.com/Azure/sdk-release-request/issues/2736,necusjz,azure-mgmt-network,2022-04-24,7,2022-04-28,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2748,anjorsh,azure-mgmt-recoveryservicesbackup,2022-04-29,3,2022-04-29,2,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2728,dhu5432,azure-mgmt-resource,2022-04-21,10,2022-04-28,3,confirm,new comment.  <br> release date < 2 ! <br>
