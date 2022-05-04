@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#17788](https://github.com/Azure/azure-sdk-for-go/issues/17788)|Generated Code for KeyVault Management is Out of Date|question, KeyVault, Mgmt, customer-reported, needs-team-attention, CXP Attention|lirenhe|new comment|2022-05-02|
-|2|[#17784](https://github.com/Azure/azure-sdk-for-go/issues/17784)|Add a top level README.md for ResourceManager folder|Docs, Mgmt, blocking-release|tadelesh, lirenhe|new issue|2022-04-29|
+|1|[#17788](https://github.com/Azure/azure-sdk-for-go/issues/17788)|Generated Code for KeyVault Management is Out of Date|question, KeyVault, Mgmt, customer-reported, needs-team-attention, CXP Attention|lirenhe, SatishBoddu-MSFT|new comment|2022-05-02|
+|2|[#17784](https://github.com/Azure/azure-sdk-for-go/issues/17784)|Add a top level README.md for ResourceManager folder|Docs, Mgmt, blocking-release|lirenhe, tadelesh|new issue|2022-04-29|
 |3|[#17783](https://github.com/Azure/azure-sdk-for-go/issues/17783)|New API version: 2022-02-03 for desktopvirtualization|Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2022-04-29|
 |4|[#17591](https://github.com/Azure/azure-sdk-for-go/issues/17591)|DscConfigurationClient.GetContent is broken since `2020-01-13-preview/automation` API version|question, Automation, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-04-14|
 |5|[#17520](https://github.com/Azure/azure-sdk-for-go/issues/17520)|Unsupported api-version for armservicebus ListKeys() method|question, Service Bus, Mgmt, customer-reported|ArcturusZhang|new issue|2022-04-11|
@@ -10,7 +10,7 @@
 |8|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-02-18|
 |9|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
 |10|[#17013](https://github.com/Azure/azure-sdk-for-go/issues/17013)|Firewall Delete failure|bug, Service Attention, Mgmt, Service, Network - Firewall|ArcturusZhang|new comment|2022-02-09|
-|11|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|ArcturusZhang, ericshape, Alancere|new comment|2022-02-08|
+|11|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|Alancere, ericshape, ArcturusZhang|new comment|2022-02-08|
 |12|[#16716](https://github.com/Azure/azure-sdk-for-go/issues/16716)|Resource Health -- Events API|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2021-12-27|
 |13|[#16703](https://github.com/Azure/azure-sdk-for-go/issues/16703)|How to create Azure AD app using service principal credentials with Microsoft Graph API|question, Compute, Mgmt, customer-reported, needs-team-attention, Previous Versions|lirenhe|new comment|2021-12-23|
 |14|[#16504](https://github.com/Azure/azure-sdk-for-go/issues/16504)|Azure API version used by Modules|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2021-12-08|

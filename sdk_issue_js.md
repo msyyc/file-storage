@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|qiaozha, lirenhe||2022-04-27|
+|1|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|lirenhe, qiaozha||2022-04-27|
 |2|[#21572](https://github.com/Azure/azure-sdk-for-js/issues/21572)|Container nodes webAppestapp_0_2ab2aa8a didn't respond to HTTP pings on port: 3000, failing site start.|question, customer-reported, Mgmt, App Services|qiaozha|new comment|2022-04-22|
 |3|[#21478](https://github.com/Azure/azure-sdk-for-js/issues/21478)|[Container Instance] Username is required even if user assigned identity is passed|question, customer-reported, Mgmt|MaryGao, qiaozha|new comment|2022-04-19|
 |4|[#21210](https://github.com/Azure/azure-sdk-for-js/issues/21210)|@azure/arm-authorization beta release missing roleDefinitions|question, customer-reported, Mgmt, Authorization|qiaozha||2022-04-05|
@@ -8,13 +8,12 @@
 |6|[#21109](https://github.com/Azure/azure-sdk-for-js/issues/21109)|Azure Iot Hub Sample Issue|Mgmt, IoT, needs-team-triage, test-manual-pass|qiaozha|new issue|2022-03-30|
 |7|[#21108](https://github.com/Azure/azure-sdk-for-js/issues/21108)|Azure Net App Sample Issue|Mgmt, Docs, needs-team-triage, test-manual-pass, netapp|qiaozha|new comment|2022-03-30|
 |8|[#20984](https://github.com/Azure/azure-sdk-for-js/issues/20984)|[Container Instance] Setting IP address to 'Private' requires a network profile, but network profiles are deprecated|question, customer-reported, Mgmt|qiaozha||2022-03-22|
-|9|[#20728](https://github.com/Azure/azure-sdk-for-js/issues/20728)|`WebSiteManagementClient.checkNameAvailability` in @azure/arm-appservice|customer-reported, Mgmt, App Services, needs-author-feedback|qiaozha||2022-03-08|
-|10|[#20688](https://github.com/Azure/azure-sdk-for-js/issues/20688)|@azure/arm-cdn - "A non-empty request body is required" when using beginEnableCustomHttpsAndWait|question, customer-reported, Mgmt, Network - CDN, needs-author-feedback|MaryGao, qiaozha|new comment|2022-03-07|
+|9|[#20728](https://github.com/Azure/azure-sdk-for-js/issues/20728)|`WebSiteManagementClient.checkNameAvailability` in @azure/arm-appservice|customer-reported, Mgmt, App Services, needs-author-feedback, no-recent-activity|qiaozha||2022-03-08|
+|10|[#20688](https://github.com/Azure/azure-sdk-for-js/issues/20688)|@azure/arm-cdn - "A non-empty request body is required" when using beginEnableCustomHttpsAndWait|question, customer-reported, Mgmt, Network - CDN, needs-author-feedback, no-recent-activity|MaryGao, qiaozha|new comment|2022-03-07|
 |11|[#20673](https://github.com/Azure/azure-sdk-for-js/issues/20673)|Azure Service Fabric Mesh Sample Issue|Mgmt, Service Fabric, test-manual-pass|qiaozha|new comment|2022-03-04|
 |12|[#20670](https://github.com/Azure/azure-sdk-for-js/issues/20670)|Azure Recovery Services Backup Sample Issue|Mgmt, Recovery Services Backup, test-manual-pass|qiaozha||2022-03-04|
 |13|[#20651](https://github.com/Azure/azure-sdk-for-js/issues/20651)|options.baseUri is always overwritten by options.endpoint in the WebSiteManagementClient constructor|Mgmt, App Services|qiaozha||2022-03-03|
 |14|[#20590](https://github.com/Azure/azure-sdk-for-js/issues/20590)|@azure/arm-storage ignores passed in API version|question, Mgmt, Storage, needs-team-attention|qiaozha|new comment|2022-03-01|
 |15|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|MaryGao, qiaozha|new comment|2022-02-28|
 |16|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha||2022-02-08|
-|17|[#20026](https://github.com/Azure/azure-sdk-for-js/issues/20026)|@azure/arm-consumption - Issues on getting correct data - v9.0.0|question, customer-reported, Mgmt, Service Attention, needs-author-feedback, no-recent-activity, Consumption - UsageDetailsAndExport|qiaozha||2022-01-24|
-|18|[#17499](https://github.com/Azure/azure-sdk-for-js/issues/17499)|After calling `disks.grantAccess` successfully, `accessSas` is `undefined`|question, customer-reported, Mgmt, Compute, needs-team-attention|qiaozha|new comment|2021-09-07|
+|17|[#17499](https://github.com/Azure/azure-sdk-for-js/issues/17499)|After calling `disks.grantAccess` successfully, `accessSas` is `undefined`|question, customer-reported, Mgmt, Compute, needs-team-attention|qiaozha|new comment|2021-09-07|
