@@ -8,4 +8,4 @@
 | [#2750](https://github.com/Azure/sdk-release-request/issues/2750) | BigCat20196 | msi | BigCat20196 | new version is 0.0.0, please check base branch!   | 04-29 | 05-16 |   |
 | [#2736](https://github.com/Azure/sdk-release-request/issues/2736) | necusjz | network | msyyc |   | 04-24 | 05-12 |   |
 | [#2748](https://github.com/Azure/sdk-release-request/issues/2748) | anjorsh | recoveryservicesbackup | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 04-29 | 05-02 | -2 |
-| [#2728](https://github.com/Azure/sdk-release-request/issues/2728) | dhu5432 | resource | BigCat20196 |   release date < 2 ! <br> | 04-21 | 05-02 | -2 |
+| [#2728](https://github.com/Azure/sdk-release-request/issues/2728) | dhu5432 | resource | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 04-21 | 05-02 | -2 |
