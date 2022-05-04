@@ -1,10 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2738](https://github.com/Azure/sdk-release-request/issues/2738) | MikhailTryakhov |  | XiaofeiCao | new issue. close to release date.  | 04-25 | 05-02 | -1 |
-| [#2731](https://github.com/Azure/sdk-release-request/issues/2731) | vinnieangel |  | haolingdong-msft | new comment. close to release date.  | 04-21 | 05-05 | 1 |
-| [#2725](https://github.com/Azure/sdk-release-request/issues/2725) | dhu5432 |  | XiaofeiCao | close to release date.  | 04-21 | 05-02 | -1 |
+| [#2738](https://github.com/Azure/sdk-release-request/issues/2738) | MikhailTryakhov |  | XiaofeiCao | new issue. close to release date.  | 04-25 | 05-02 | -2 |
+| [#2731](https://github.com/Azure/sdk-release-request/issues/2731) | vinnieangel |  | haolingdong-msft | new comment. close to release date.  | 04-21 | 05-05 | 0 |
+| [#2725](https://github.com/Azure/sdk-release-request/issues/2725) | dhu5432 |  | XiaofeiCao | close to release date.  | 04-21 | 05-02 | -2 |
 | [#2720](https://github.com/Azure/sdk-release-request/issues/2720) | subbartt |  | weidongxu-microsoft |  | 04-20 | 05-09 |  |
-| [#2707](https://github.com/Azure/sdk-release-request/issues/2707) | Selekena |  | XiaofeiCao | close to release date.  | 04-15 | 05-02 | -1 |
+| [#2707](https://github.com/Azure/sdk-release-request/issues/2707) | Selekena |  | XiaofeiCao | close to release date.  | 04-15 | 05-02 | -2 |
 | [#2701](https://github.com/Azure/sdk-release-request/issues/2701) | FumingZhang |  | weidongxu-microsoft |  | 04-15 | 04-19 |  |
 | [#2652](https://github.com/Azure/sdk-release-request/issues/2652) | amanswaika |  | weidongxu-microsoft |  | 04-01 | 04-11 |  |
-| [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | close to release date.  | 03-21 | 05-02 | -1 |
+| [#2591](https://github.com/Azure/sdk-release-request/issues/2591) | sunil-archt |  | XiaofeiCao | close to release date.  | 03-21 | 05-02 | -2 |
