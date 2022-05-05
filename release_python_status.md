@@ -10,4 +10,3 @@
 | [#2736](https://github.com/Azure/sdk-release-request/issues/2736) | necusjz | network | msyyc |   | 04-24 | 05-12 |   |
 | [#2748](https://github.com/Azure/sdk-release-request/issues/2748) | anjorsh | recoveryservicesbackup | BigCat20196 | new comment.  <br> | 04-29 | 05-02 |   |
 | [#2754](https://github.com/Azure/sdk-release-request/issues/2754) | 25region | redhatopenshift | BigCat20196 |   | 05-04 | 05-18 |   |
-| [#2728](https://github.com/Azure/sdk-release-request/issues/2728) | dhu5432 | resource | BigCat20196 | new comment.  <br> | 04-21 | 05-02 |   |
