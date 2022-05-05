@@ -1,5 +1,4 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2759,BigCat20196, ,2022-05-05,0,2022-05-05,0,confirm,failed to modify the body of the new issue. Please modify manually
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,7,2022-05-05,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2743,jaysvoboda,azure-mgmt-chaos,2022-04-26,8,2022-05-04,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2752,amitprabhudesai,azure-mgmt-cosmosdb,2022-05-04,0,2022-05-05,0,confirm,new version is 0.0.0, please check base branch!   release date < 2 ! <br>

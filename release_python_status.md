@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2759](https://github.com/Azure/sdk-release-request/issues/2759) | BigCat20196 |   | BigCat20196 | failed to modify the body of the new issue. Please modify manually | 05-05 | 05-19 |   |
 | [#2744](https://github.com/Azure/sdk-release-request/issues/2744) | armaansood |   | BigCat20196 |   | 04-27 | 05-02 |   |
 | [#2743](https://github.com/Azure/sdk-release-request/issues/2743) | jaysvoboda | chaos | msyyc |   | 04-26 | 04-28 |   |
 | [#2752](https://github.com/Azure/sdk-release-request/issues/2752) | amitprabhudesai | cosmosdb | msyyc | new version is 0.0.0, please check base branch!   release date < 2 ! <br> | 05-04 | 05-06 | 0 |
