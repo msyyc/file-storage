@@ -12,4 +12,4 @@
 | [#2736](https://github.com/Azure/sdk-release-request/issues/2736) | necusjz | network | msyyc |   | 04-24 | 05-12 |   |
 | [#2748](https://github.com/Azure/sdk-release-request/issues/2748) | anjorsh | recoveryservicesbackup | BigCat20196 | new comment.  <br> | 04-29 | 05-02 |   |
 | [#2754](https://github.com/Azure/sdk-release-request/issues/2754) | 25region | redhatopenshift | BigCat20196 |   | 05-04 | 05-18 |   |
-| [#2764](https://github.com/Azure/sdk-release-request/issues/2764) | BigCat20196 | videoanalyzer | msyyc | new issue ! <br> | 05-06 | 05-23 |   |
+| [#2764](https://github.com/Azure/sdk-release-request/issues/2764) | BigCat20196 | videoanalyzer | msyyc |   | 05-06 | 05-23 |   |
