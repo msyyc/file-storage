@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#21728](https://github.com/Azure/azure-sdk-for-js/issues/21728)|Reservation Orders and Reservations - Dates populated with empty strings|question, customer-reported, Mgmt, Reservations, needs-team-triage|qiaozha|new issue|2022-05-05|
+|1|[#21728](https://github.com/Azure/azure-sdk-for-js/issues/21728)|Reservation Orders and Reservations - Dates populated with empty strings|question, customer-reported, Mgmt, Reservations, needs-team-triage|qiaozha||2022-05-05|
 |2|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|lirenhe, qiaozha||2022-04-27|
 |3|[#21572](https://github.com/Azure/azure-sdk-for-js/issues/21572)|Container nodes webAppestapp_0_2ab2aa8a didn't respond to HTTP pings on port: 3000, failing site start.|question, customer-reported, Mgmt, App Services|qiaozha|new comment|2022-04-22|
 |4|[#21478](https://github.com/Azure/azure-sdk-for-js/issues/21478)|[Container Instance] Username is required even if user assigned identity is passed|question, customer-reported, Mgmt|MaryGao, qiaozha|new comment|2022-04-19|
