@@ -1,6 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,9,2022-05-05,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2762,ruslany,azure-mgmt-appcontainers,2022-05-05,1,2022-05-06,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2752,amitprabhudesai,azure-mgmt-cosmosdb,2022-05-04,2,2022-05-05,1,confirm,new version is 0.0.0, please check base branch!   release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,1,2022-05-05,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,15,2022-05-05,2,confirm,  release date < 2 ! <br>
