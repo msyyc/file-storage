@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28688](https://github.com/Azure/azure-sdk-for-java/issues/28688)|[QUERY] Inconsistent definition of WebApp between Azure SDK and Azure Portal|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2022-05-06|
-|2|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2022-05-04|
-|3|[#28629](https://github.com/Azure/azure-sdk-for-java/issues/28629)|What is GA timeline for Data Factory Management|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2022-05-03|
+|1|[#28688](https://github.com/Azure/azure-sdk-for-java/issues/28688)|[QUERY] Inconsistent definition of WebApp between Azure SDK and Azure Portal|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2022-05-06|
+|2|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
+|3|[#28629](https://github.com/Azure/azure-sdk-for-java/issues/28629)|What is GA timeline for Data Factory Management|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2022-05-03|
 |4|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-04-20|
 |5|[#28377](https://github.com/Azure/azure-sdk-for-java/issues/28377)|[QUERY] Swap OS disk for a VM not working after migrating to resource manager library|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-04-19|
 |6|[#28218](https://github.com/Azure/azure-sdk-for-java/issues/28218)|Examine Pattern.compile usage in sdk\resourcemanagerhybrid|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new issue|2022-04-11|
