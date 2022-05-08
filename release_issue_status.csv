@@ -1,10 +1,10 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,10,2022-05-05,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2752,amitprabhudesai,azure-mgmt-cosmosdb,2022-05-04,3,2022-05-05,2,confirm,new version is 0.0.0, please check base branch!   release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,2,2022-05-05,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,3,2022-05-05,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,16,2022-05-05,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,22,2022-04-26,12,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,16,2022-04-24,13,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,17,2022-04-24,13,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2736,necusjz,azure-mgmt-network,2022-04-24,13,2022-05-05,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2754,25region,azure-mgmt-redhatopenshift,2022-05-04,3,2022-05-05,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2764,BigCat20196,azure-mgmt-videoanalyzer,2022-05-06,2,2022-05-06,2,confirm, 
