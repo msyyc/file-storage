@@ -6,7 +6,7 @@
 | [#2739](https://github.com/Azure/sdk-release-request/issues/2739) | MikhailTryakhov |  | qiaozha | new issue. new comment. | 04-25 | 05-02 |  |
 | [#2734](https://github.com/Azure/sdk-release-request/issues/2734) | ChenTanyi |  | MaryGao |  | 04-22 | 04-28 |  |
 | [#2733](https://github.com/Azure/sdk-release-request/issues/2733) | vinnieangel |  | MaryGao | new issue. new comment. | 04-21 | 05-05 |  |
-| [#2727](https://github.com/Azure/sdk-release-request/issues/2727) | dhu5432 |  | MaryGao |  | 04-21 | 05-02 |  |
+| [#2727](https://github.com/Azure/sdk-release-request/issues/2727) | dhu5432 |  | MaryGao | new comment. | 04-21 | 05-02 |  |
 | [#2718](https://github.com/Azure/sdk-release-request/issues/2718) | subbartt |  | MaryGao | close to release date.  | 04-20 | 05-09 | 0 |
 | [#2710](https://github.com/Azure/sdk-release-request/issues/2710) | Selekena |  | qiaozha | new issue. new comment. | 04-15 | 05-02 |  |
 | [#2705](https://github.com/Azure/sdk-release-request/issues/2705) | moreOver0 |  | qiaozha | new comment. | 04-15 | 04-22 |  |
