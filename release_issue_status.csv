@@ -1,7 +1,7 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,11,2022-05-05,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2752,amitprabhudesai,azure-mgmt-cosmosdb,2022-05-04,4,2022-05-09,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,4,2022-05-05,3,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,4,2022-05-05,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,17,2022-05-05,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2709,Selekena,azure-mgmt-iothubprovisioningservices,2022-04-15,23,2022-04-26,13,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2724,thomasp98296,azure-mgmt-monitor,2022-04-21,18,2022-05-09,0,confirm, 
