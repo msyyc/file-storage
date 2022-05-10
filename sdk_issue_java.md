@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#28719](https://github.com/Azure/azure-sdk-for-java/issues/28719)|Enable soft delete Storage Account capability |question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2022-05-08|
-|2|[#28717](https://github.com/Azure/azure-sdk-for-java/issues/28717)|How to get MySql flexible Server get TLS_Version ?|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2022-05-07|
+|2|[#28717](https://github.com/Azure/azure-sdk-for-java/issues/28717)|How to get MySql flexible Server get TLS_Version ?|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft|new comment|2022-05-07|
 |3|[#28688](https://github.com/Azure/azure-sdk-for-java/issues/28688)|[QUERY] Inconsistent definition of WebApp between Azure SDK and Azure Portal|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2022-05-06|
 |4|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
 |5|[#28629](https://github.com/Azure/azure-sdk-for-java/issues/28629)|What is GA timeline for Data Factory Management|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2022-05-03|
