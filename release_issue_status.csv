@@ -2,7 +2,7 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,13,2022-05-05,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2771,moreOver0,azure-mgmt-containerservice,2022-05-10,0,2022-05-11,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,0,2022-05-11,0,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,6,2022-05-05,5,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,0,2022-05-10,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,6,2022-05-05,6,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,1,2022-05-10,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,19,2022-05-05,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2764,BigCat20196,azure-mgmt-videoanalyzer,2022-05-06,5,2022-05-09,2,confirm, 
