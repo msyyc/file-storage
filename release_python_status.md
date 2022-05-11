@@ -1,8 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2744](https://github.com/Azure/sdk-release-request/issues/2744) | armaansood |   | BigCat20196 |   | 04-27 | 05-02 |   |
-| [#2762](https://github.com/Azure/sdk-release-request/issues/2762) | ruslany | appcontainers | BigCat20196 | new comment.  <br> | 05-05 | 05-19 |   |
-| [#2771](https://github.com/Azure/sdk-release-request/issues/2771) | moreOver0 | containerservice | msyyc | new issue ! <br> | 05-10 | 05-17 |   |
+| [#2771](https://github.com/Azure/sdk-release-request/issues/2771) | moreOver0 | containerservice | msyyc |   | 05-10 | 05-17 |   |
 | [#2773](https://github.com/Azure/sdk-release-request/issues/2773) | ravgill | cosmosdb | msyyc |   release date < 2 ! <br> | 05-10 | 05-12 | 0 |
 | [#2757](https://github.com/Azure/sdk-release-request/issues/2757) | Frey-Wang | datafactory | msyyc |   release date < 2 ! <br> | 05-05 | 05-12 | 0 |
 | [#2766](https://github.com/Azure/sdk-release-request/issues/2766) | divyansh3131 | dynatrace | msyyc |   | 05-10 | 06-07 |   |
