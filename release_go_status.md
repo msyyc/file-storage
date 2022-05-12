@@ -1,9 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2787](https://github.com/Azure/sdk-release-request/issues/2787) | moreOver0 |  | Alancere | new issue. | 05-12 | 05-19 |  |
 | [#2786](https://github.com/Azure/sdk-release-request/issues/2786) | pratimaupadhyay02 |  | Alancere | new issue. new comment. | 05-12 | 05-16 |  |
 | [#2780](https://github.com/Azure/sdk-release-request/issues/2780) | ruslany |  | Alancere | new issue. | 05-12 | 05-24 |  |
 | [#2774](https://github.com/Azure/sdk-release-request/issues/2774) | Brandon411 |  | Alancere | close to release date.  | 05-11 | 05-13 | 0 |
-| [#2772](https://github.com/Azure/sdk-release-request/issues/2772) | moreOver0 |  | Alancere | new issue. | 05-10 | 05-17 |  |
+| [#2772](https://github.com/Azure/sdk-release-request/issues/2772) | moreOver0 |  | Alancere | new comment. | 05-10 | 05-17 |  |
 | [#2767](https://github.com/Azure/sdk-release-request/issues/2767) | divyansh3131 |  | Alancere |  | 05-10 | 06-07 |  |
 | [#2765](https://github.com/Azure/sdk-release-request/issues/2765) | jiacheng-L |  | Alancere |  | 05-06 | 05-23 |  |
 | [#2758](https://github.com/Azure/sdk-release-request/issues/2758) | Frey-Wang |  | Alancere | close to release date.  | 05-05 | 05-12 | 0 |
