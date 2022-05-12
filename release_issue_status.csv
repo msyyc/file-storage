@@ -2,7 +2,7 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2744,armaansood, ,2022-04-27,14,2022-05-05,7,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2781,ruslany,azure-mgmt-appcontainers,2022-05-12,0,2022-05-12,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2778,grizzlytheodore,azure-mgmt-compute,2022-05-11,0,2022-05-12,0,confirm,new issue ! <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2771,moreOver0,azure-mgmt-containerservice,2022-05-10,1,2022-05-11,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2771,moreOver0,azure-mgmt-containerservice,2022-05-10,1,2022-05-11,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,1,2022-05-11,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2757,Frey-Wang,azure-mgmt-datafactory,2022-05-05,6,2022-05-05,6,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,1,2022-05-10,1,confirm, 
