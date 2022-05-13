@@ -1,9 +1,9 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2781,ruslany,azure-mgmt-appcontainers,2022-05-12,1,2022-05-12,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2778,grizzlytheodore,azure-mgmt-compute,2022-05-11,1,2022-05-12,0,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,2,2022-05-12,0,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,0,2022-05-13,0,confirm,auto reply failed!  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,2,2022-05-10,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2778,grizzlytheodore,azure-mgmt-compute,2022-05-11,1,2022-05-12,1,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,2,2022-05-12,1,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,0,2022-05-13,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,3,2022-05-10,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2730,vinnieangel,azure-mgmt-education,2022-04-21,21,2022-05-05,8,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2777,Brandon411,azure-mgmt-eventgrid,2022-05-11,1,2022-05-12,1,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2785,pratimaupadhyay02,azure-mgmt-recoveryservicesbackup,2022-05-12,1,2022-05-13,0,confirm,  release date < 2 ! <br>

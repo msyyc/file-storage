@@ -3,7 +3,7 @@
 | [#2781](https://github.com/Azure/sdk-release-request/issues/2781) | ruslany | appcontainers | BigCat20196 |   | 05-12 | 05-24 |   |
 | [#2778](https://github.com/Azure/sdk-release-request/issues/2778) | grizzlytheodore | compute | msyyc |   release date < 2 ! <br> | 05-11 | 05-13 | 0 |
 | [#2773](https://github.com/Azure/sdk-release-request/issues/2773) | ravgill | cosmosdb | msyyc |   release date < 2 ! <br> | 05-10 | 05-12 | -1 |
-| [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 | auto reply failed!  <br> | 05-13 | 05-30 |   |
+| [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 | new issue ! <br> | 05-13 | 05-30 |   |
 | [#2766](https://github.com/Azure/sdk-release-request/issues/2766) | divyansh3131 | dynatrace | msyyc |   | 05-10 | 06-07 |   |
 | [#2730](https://github.com/Azure/sdk-release-request/issues/2730) | vinnieangel | education | BigCat20196 |   | 04-21 | 05-05 |   |
 | [#2777](https://github.com/Azure/sdk-release-request/issues/2777) | Brandon411 | eventgrid | BigCat20196 |   release date < 2 ! <br> | 05-11 | 05-13 | 0 |
