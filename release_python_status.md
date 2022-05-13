@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2744](https://github.com/Azure/sdk-release-request/issues/2744) | armaansood |   | BigCat20196 |   | 04-27 | 05-02 |   |
 | [#2781](https://github.com/Azure/sdk-release-request/issues/2781) | ruslany | appcontainers | BigCat20196 |   | 05-12 | 05-24 |   |
 | [#2778](https://github.com/Azure/sdk-release-request/issues/2778) | grizzlytheodore | compute | msyyc |   release date < 2 ! <br> | 05-11 | 05-13 | 0 |
 | [#2788](https://github.com/Azure/sdk-release-request/issues/2788) | moreOver0 | containerservice | msyyc | duplicated issue  <br>new issue ! <br> | 05-12 | 05-19 |   |
