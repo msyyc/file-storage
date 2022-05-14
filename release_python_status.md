@@ -9,4 +9,3 @@
 | [#2777](https://github.com/Azure/sdk-release-request/issues/2777) | Brandon411 | eventgrid | BigCat20196 |   release date < 2 ! <br> | 05-11 | 05-13 | -1 |
 | [#2785](https://github.com/Azure/sdk-release-request/issues/2785) | pratimaupadhyay02 | recoveryservicesbackup | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | 1 |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | 1 |
-| [#2764](https://github.com/Azure/sdk-release-request/issues/2764) | BigCat20196 | videoanalyzer | msyyc |   | 05-06 | 05-23 |   |
