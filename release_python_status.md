@@ -10,4 +10,4 @@
 | [#2785](https://github.com/Azure/sdk-release-request/issues/2785) | pratimaupadhyay02 | recoveryservicesbackup | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | 0 |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | 0 |
 | [#2802](https://github.com/Azure/sdk-release-request/issues/2802) | ChenTanyi | servicelinker | BigCat20196 |   release date < 2 ! <br> | 05-16 | 05-19 | 2 |
-| [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc | new issue ! <br> | 05-16 | 06-15 |   |
+| [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc |   | 05-16 | 06-15 |   |
