@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2801](https://github.com/Azure/sdk-release-request/issues/2801) | ChenTanyi |  | MaryGao | new issue. new comment. close to release date.  | 05-16 | 05-19 | 2 |
 | [#2799](https://github.com/Azure/sdk-release-request/issues/2799) | yuwzho |  | MaryGao | new issue. new comment. | 05-16 | 05-23 |  |
 | [#2794](https://github.com/Azure/sdk-release-request/issues/2794) | DorianLatchague |  | qiaozha | new issue. new comment. close to release date.  | 05-12 | 05-16 | 0 |
 | [#2789](https://github.com/Azure/sdk-release-request/issues/2789) | moreOver0 |  | qiaozha | new issue. close to release date.  | 05-12 | 05-19 | 2 |
@@ -11,5 +12,5 @@
 | [#2755](https://github.com/Azure/sdk-release-request/issues/2755) | Frey-Wang |  | MaryGao | new issue. new comment. | 05-05 | 05-12 |  |
 | [#2749](https://github.com/Azure/sdk-release-request/issues/2749) | anjorsh |  | qiaozha | new issue. new comment. | 04-29 | 05-02 |  |
 | [#2739](https://github.com/Azure/sdk-release-request/issues/2739) | MikhailTryakhov |  | qiaozha | new issue. new comment. | 04-25 | 05-02 |  |
-| [#2733](https://github.com/Azure/sdk-release-request/issues/2733) | vinnieangel |  | MaryGao | new issue. new comment. | 04-21 | 05-05 |  |
+| [#2733](https://github.com/Azure/sdk-release-request/issues/2733) | vinnieangel |  | MaryGao |  | 04-21 | 05-05 |  |
 | [#2727](https://github.com/Azure/sdk-release-request/issues/2727) | dhu5432 |  | MaryGao | new comment. | 04-21 | 05-02 |  |
