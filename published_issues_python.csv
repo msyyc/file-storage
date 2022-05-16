@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-appplatform,BigCat20196,2022-05-16,2022-05-16,https://github.com/Azure/sdk-release-request/issues/2797
 azure-mgmt-videoanalyzer,msyyc,2022-05-06,2022-05-14,https://github.com/Azure/sdk-release-request/issues/2764
 azure-mgmt-containerservice,msyyc,2022-05-12,2022-05-13,https://github.com/Azure/sdk-release-request/issues/2788
 azure-mgmt-datafactory,msyyc,2022-05-05,2022-05-13,https://github.com/Azure/sdk-release-request/issues/2757
