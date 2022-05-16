@@ -7,7 +7,7 @@
 | [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   | 05-13 | 05-30 |   |
 | [#2766](https://github.com/Azure/sdk-release-request/issues/2766) | divyansh3131 | dynatrace | msyyc |   | 05-10 | 06-07 |   |
 | [#2777](https://github.com/Azure/sdk-release-request/issues/2777) | Brandon411 | eventgrid | BigCat20196 |   | 05-11 | 05-13 |   |
-| [#2785](https://github.com/Azure/sdk-release-request/issues/2785) | pratimaupadhyay02 | recoveryservicesbackup | BigCat20196 | new issue ! <br> release date < 2 ! <br> | 05-12 | 05-16 | 0 |
+| [#2785](https://github.com/Azure/sdk-release-request/issues/2785) | pratimaupadhyay02 | recoveryservicesbackup | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | 0 |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | 0 |
 | [#2802](https://github.com/Azure/sdk-release-request/issues/2802) | ChenTanyi | servicelinker | BigCat20196 |   release date < 2 ! <br> | 05-16 | 05-19 | 2 |
-| [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc | auto reply failed!  <br> | 05-16 | 06-15 |   |
+| [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc | new issue ! <br> | 05-16 | 06-15 |   |
