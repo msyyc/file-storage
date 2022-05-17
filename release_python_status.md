@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2781](https://github.com/Azure/sdk-release-request/issues/2781) | ruslany | appcontainers | BigCat20196 | new comment.  <br> | 05-12 | 05-24 |   |
 | [#2812](https://github.com/Azure/sdk-release-request/issues/2812) | lsweeney24 | azurestackhci | msyyc |   | 05-16 | 05-30 |   |
-| [#2778](https://github.com/Azure/sdk-release-request/issues/2778) | grizzlytheodore | compute | msyyc | new issue ! <br> | 05-11 | 05-13 |   |
+| [#2778](https://github.com/Azure/sdk-release-request/issues/2778) | grizzlytheodore | compute | msyyc | new comment.  <br> | 05-11 | 05-13 |   |
 | [#2773](https://github.com/Azure/sdk-release-request/issues/2773) | ravgill | cosmosdb | msyyc |   | 05-10 | 05-12 |   |
 | [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   | 05-13 | 05-30 |   |
 | [#2766](https://github.com/Azure/sdk-release-request/issues/2766) | divyansh3131 | dynatrace | msyyc |   | 05-10 | 06-07 |   |
