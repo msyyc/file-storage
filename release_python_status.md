@@ -9,4 +9,4 @@
 | [#2777](https://github.com/Azure/sdk-release-request/issues/2777) | Brandon411 | eventgrid | BigCat20196 |   | 05-11 | 05-13 |   |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   release date < 2 ! <br> | 05-12 | 05-16 | -1 |
 | [#2802](https://github.com/Azure/sdk-release-request/issues/2802) | ChenTanyi | servicelinker | BigCat20196 |   release date < 2 ! <br> | 05-16 | 05-19 | 1 |
-| [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc | new comment.  <br> | 05-16 | 06-15 |   |
+| [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc |   | 05-16 | 06-15 |   |
