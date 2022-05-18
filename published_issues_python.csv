@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-compute,msyyc,2022-05-11,2022-05-18,https://github.com/Azure/sdk-release-request/issues/2778
 azure-mgmt-appcontainers,BigCat20196,2022-05-12,2022-05-17,https://github.com/Azure/sdk-release-request/issues/2781
 azure-mgmt-recoveryservicesbackup,BigCat20196,2022-05-12,2022-05-17,https://github.com/Azure/sdk-release-request/issues/2785
 azure-mgmt-appplatform,BigCat20196,2022-05-16,2022-05-16,https://github.com/Azure/sdk-release-request/issues/2797

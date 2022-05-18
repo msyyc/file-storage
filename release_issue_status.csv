@@ -1,11 +1,12 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2781,ruslany,azure-mgmt-appcontainers,2022-05-12,5,2022-05-16,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2812,lsweeney24,azure-mgmt-azurestackhci,2022-05-16,0,2022-05-17,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2778,grizzlytheodore,azure-mgmt-compute,2022-05-11,5,2022-05-17,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,6,2022-05-12,5,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2812,lsweeney24,azure-mgmt-azurestackhci,2022-05-16,1,2022-05-17,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2778,grizzlytheodore,azure-mgmt-compute,2022-05-11,6,2022-05-17,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2820,cegraybl,azure-mgmt-containerregistry,2022-05-17,0,2022-05-17,0,confirm,auto reply failed!  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,7,2022-05-12,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,4,2022-05-13,4,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2821,dpokluda,azure-mgmt-deviceupdate,2022-05-18,0,2022-05-18,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,7,2022-05-10,7,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2777,Brandon411,azure-mgmt-eventgrid,2022-05-11,5,2022-05-12,5,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,4,2022-05-13,4,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2777,Brandon411,azure-mgmt-eventgrid,2022-05-11,6,2022-05-12,5,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,5,2022-05-13,4,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2802,ChenTanyi,azure-mgmt-servicelinker,2022-05-16,1,2022-05-17,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,1,2022-05-17,0,confirm, 
