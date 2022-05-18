@@ -1,10 +1,12 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2822](https://github.com/Azure/sdk-release-request/issues/2822) | dpokluda |  | weidongxu-microsoft | new issue. | 05-18 | 05-31 |  |
+| [#2817](https://github.com/Azure/sdk-release-request/issues/2817) | cegraybl |  | haolingdong-msft | new issue. new comment. | 05-17 | 05-31 |  |
 | [#2814](https://github.com/Azure/sdk-release-request/issues/2814) | lsweeney24 |  | XiaofeiCao | new issue. | 05-16 | 05-30 |  |
 | [#2806](https://github.com/Azure/sdk-release-request/issues/2806) | gargankit-microsoft |  | weidongxu-microsoft | new comment. | 05-16 | 06-15 |  |
-| [#2803](https://github.com/Azure/sdk-release-request/issues/2803) | ChenTanyi |  | XiaofeiCao | new issue. new comment. close to release date.  | 05-16 | 05-19 | 1 |
+| [#2803](https://github.com/Azure/sdk-release-request/issues/2803) | ChenTanyi |  | XiaofeiCao | new issue. new comment. close to release date.  | 05-16 | 05-19 | 0 |
 | [#2796](https://github.com/Azure/sdk-release-request/issues/2796) | yuwzho |  | XiaofeiCao |  | 05-16 | 05-23 |  |
-| [#2790](https://github.com/Azure/sdk-release-request/issues/2790) | moreOver0 |  | XiaofeiCao | new issue. close to release date.  | 05-12 | 05-19 | 1 |
+| [#2790](https://github.com/Azure/sdk-release-request/issues/2790) | moreOver0 |  | XiaofeiCao | new issue. close to release date.  | 05-12 | 05-19 | 0 |
 | [#2779](https://github.com/Azure/sdk-release-request/issues/2779) | ruslany |  | haolingdong-msft | new comment. | 05-12 | 05-24 |  |
 | [#2768](https://github.com/Azure/sdk-release-request/issues/2768) | divyansh3131 |  | XiaofeiCao | new issue. | 05-10 | 06-07 |  |
 | [#2738](https://github.com/Azure/sdk-release-request/issues/2738) | MikhailTryakhov |  | XiaofeiCao |  | 04-25 | 05-02 |  |
