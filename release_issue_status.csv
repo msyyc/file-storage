@@ -4,8 +4,8 @@ Python,https://github.com/Azure/sdk-release-request/issues/2820,cegraybl,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,8,2022-05-19,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,6,2022-05-13,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2821,dpokluda,azure-mgmt-deviceupdate,2022-05-18,1,2022-05-18,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,8,2022-05-10,8,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2766,divyansh3131,azure-mgmt-dynatrace,2022-05-10,9,2022-05-10,8,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2777,Brandon411,azure-mgmt-eventgrid,2022-05-11,7,2022-05-19,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2825,BigCat20196,azure-mgmt-keyvault,2022-05-19,0,2022-05-19,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,6,2022-05-13,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,2,2022-05-17,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,3,2022-05-17,2,confirm, 
