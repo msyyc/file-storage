@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2812,lsweeney24,azure-mgmt-azurestackhci,2022-05-16,2,2022-05-17,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2820,cegraybl,azure-mgmt-containerregistry,2022-05-17,1,2022-05-18,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2820,cegraybl,azure-mgmt-containerregistry,2022-05-17,1,2022-05-18,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,8,2022-05-19,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,5,2022-05-13,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2821,dpokluda,azure-mgmt-deviceupdate,2022-05-18,1,2022-05-18,1,confirm, 
