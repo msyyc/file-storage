@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2829](https://github.com/Azure/sdk-release-request/issues/2829) | musabbir |  | weidongxu-microsoft | new issue. | 05-19 | 06-02 |  |
-| [#2827](https://github.com/Azure/sdk-release-request/issues/2827) | grizzlytheodore |  | weidongxu-microsoft | new issue. new comment. | 05-19 | 05-24 |  |
+| [#2827](https://github.com/Azure/sdk-release-request/issues/2827) | grizzlytheodore |  | XiaofeiCao | new issue. new comment. | 05-19 | 05-24 |  |
 | [#2822](https://github.com/Azure/sdk-release-request/issues/2822) | dpokluda |  | weidongxu-microsoft |  | 05-18 | 05-31 |  |
 | [#2817](https://github.com/Azure/sdk-release-request/issues/2817) | cegraybl |  | haolingdong-msft | new issue. new comment. | 05-17 | 05-31 |  |
 | [#2814](https://github.com/Azure/sdk-release-request/issues/2814) | lsweeney24 |  | XiaofeiCao | new issue. | 05-16 | 05-30 |  |
