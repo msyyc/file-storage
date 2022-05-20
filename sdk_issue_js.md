@@ -3,7 +3,7 @@
 |1|[#21884](https://github.com/Azure/azure-sdk-for-js/issues/21884)|[@azure/arm-monitor] containsAny support for ActivityLogAlertLeafCondition|question, customer-reported, Mgmt, Monitor - ActivityLogs|qiaozha|new comment|2022-05-16|
 |2|[#21827](https://github.com/Azure/azure-sdk-for-js/issues/21827)|`Apps.beginCreateOrUpdateAndWait` returns an operation but not the promised created `AppResource`|Mgmt, ARM|qiaozha|new comment|2022-05-11|
 |3|[#21728](https://github.com/Azure/azure-sdk-for-js/issues/21728)|Reservation Orders and Reservations - Dates populated with empty strings|question, customer-reported, Mgmt, Reservations, needs-team-triage, CXP Attention|qiaozha||2022-05-05|
-|4|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|lirenhe, qiaozha||2022-04-27|
+|4|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|qiaozha, lirenhe||2022-04-27|
 |5|[#21587](https://github.com/Azure/azure-sdk-for-js/issues/21587)|Generate the rest API orders for debugging purpose when calling something from azure sdk|question, customer-reported, Mgmt, needs-team-attention|qiaozha||2022-04-25|
 |6|[#21572](https://github.com/Azure/azure-sdk-for-js/issues/21572)|Container nodes webAppestapp_0_2ab2aa8a didn't respond to HTTP pings on port: 3000, failing site start.|question, customer-reported, Mgmt, App Services|qiaozha||2022-04-22|
 |7|[#21478](https://github.com/Azure/azure-sdk-for-js/issues/21478)|[Container Instance] Username is required even if user assigned identity is passed|question, customer-reported, Mgmt|MaryGao, qiaozha|new comment|2022-04-19|
