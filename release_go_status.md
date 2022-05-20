@@ -5,8 +5,8 @@
 | [#2823](https://github.com/Azure/sdk-release-request/issues/2823) | dpokluda |  | Alancere |  | 05-18 | 05-31 |  |
 | [#2818](https://github.com/Azure/sdk-release-request/issues/2818) | cegraybl |  | Alancere |  | 05-17 | 05-31 |  |
 | [#2813](https://github.com/Azure/sdk-release-request/issues/2813) | lsweeney24 |  | Alancere |  | 05-16 | 05-30 |  |
-| [#2810](https://github.com/Azure/sdk-release-request/issues/2810) | magodo |  | Alancere | close to release date.  | 05-16 | 05-23 | 2 |
-| [#2809](https://github.com/Azure/sdk-release-request/issues/2809) | magodo |  | Alancere | close to release date.  | 05-16 | 05-23 | 2 |
+| [#2810](https://github.com/Azure/sdk-release-request/issues/2810) | magodo |  | Alancere | new comment. close to release date.  | 05-16 | 05-23 | 2 |
+| [#2809](https://github.com/Azure/sdk-release-request/issues/2809) | magodo |  | Alancere | new comment. close to release date.  | 05-16 | 05-23 | 2 |
 | [#2800](https://github.com/Azure/sdk-release-request/issues/2800) | ChenTanyi |  | Alancere | new issue. new comment. close to release date.  | 05-16 | 05-19 | -1 |
 | [#2798](https://github.com/Azure/sdk-release-request/issues/2798) | yuwzho |  | Alancere | close to release date.  | 05-16 | 05-23 | 2 |
 | [#2791](https://github.com/Azure/sdk-release-request/issues/2791) | DorianLatchague |  | Alancere | new issue. new comment. | 05-12 | 05-16 |  |
@@ -20,5 +20,3 @@
 | [#2141](https://github.com/Azure/sdk-release-request/issues/2141) | lirenhe |  | Alancere | new issue. | 10-20 | 11-03 |  |
 | [#2140](https://github.com/Azure/sdk-release-request/issues/2140) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
 | [#2139](https://github.com/Azure/sdk-release-request/issues/2139) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
-| [#2138](https://github.com/Azure/sdk-release-request/issues/2138) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
-| [#2137](https://github.com/Azure/sdk-release-request/issues/2137) | lirenhe |  | Alancere | new issue. | 10-20 | 11-05 |  |
