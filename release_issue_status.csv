@@ -3,7 +3,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2812,lsweeney24,azure
 Python,https://github.com/Azure/sdk-release-request/issues/2831,musabbir,azure-mgmt-confidentialledger,2022-05-19,2,2022-05-20,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2820,cegraybl,azure-mgmt-containerregistry,2022-05-17,4,2022-05-20,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2773,ravgill,azure-mgmt-cosmosdb,2022-05-10,11,2022-05-20,1,confirm,new issue ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,9,2022-05-13,8,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2795,pratimaupadhyay02,azure-mgmt-dataprotection,2022-05-13,9,2022-05-13,9,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2821,dpokluda,azure-mgmt-deviceupdate,2022-05-18,4,2022-05-18,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2777,Brandon411,azure-mgmt-eventgrid,2022-05-11,10,2022-05-19,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2825,BigCat20196,azure-mgmt-keyvault,2022-05-19,3,2022-05-19,2,confirm,  release date < 2 ! <br>
