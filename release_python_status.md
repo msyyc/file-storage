@@ -1,6 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2812](https://github.com/Azure/sdk-release-request/issues/2812) | lsweeney24 | azurestackhci | msyyc |   | 05-16 | 05-30 |   |
+| [#2837](https://github.com/Azure/sdk-release-request/issues/2837) | kagbakpem | communication | msyyc | new issue ! <br> release date < 2 ! <br> | 05-23 | 05-25 | 1 |
 | [#2831](https://github.com/Azure/sdk-release-request/issues/2831) | musabbir | confidentialledger | BigCat20196 |   | 05-19 | 06-02 |   |
 | [#2820](https://github.com/Azure/sdk-release-request/issues/2820) | cegraybl | containerregistry | msyyc |   | 05-17 | 05-31 |   |
 | [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   | 05-13 | 05-30 |   |
