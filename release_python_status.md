@@ -5,7 +5,7 @@
 | [#2831](https://github.com/Azure/sdk-release-request/issues/2831) | musabbir | confidentialledger | BigCat20196 |   | 05-19 | 06-02 |   |
 | [#2820](https://github.com/Azure/sdk-release-request/issues/2820) | cegraybl | containerregistry | msyyc |   | 05-17 | 05-31 |   |
 | [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   | 05-13 | 05-30 |   |
-| [#2821](https://github.com/Azure/sdk-release-request/issues/2821) | dpokluda | deviceupdate | BigCat20196 | new comment.  <br> | 05-18 | 05-31 |   |
+| [#2821](https://github.com/Azure/sdk-release-request/issues/2821) | dpokluda | deviceupdate | BigCat20196 |   | 05-18 | 05-31 |   |
 | [#2777](https://github.com/Azure/sdk-release-request/issues/2777) | Brandon411 | eventgrid | BigCat20196 |   | 05-11 | 05-13 |   |
 | [#2825](https://github.com/Azure/sdk-release-request/issues/2825) | BigCat20196 | keyvault | BigCat20196 |   release date < 2 ! <br> | 05-19 | 05-25 | 0 |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   | 05-12 | 05-16 |   |
