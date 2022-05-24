@@ -7,4 +7,3 @@
 | [#2787](https://github.com/Azure/sdk-release-request/issues/2787) | moreOver0 |  | Alancere | new issue. | 05-12 | 05-19 |  |
 | [#2780](https://github.com/Azure/sdk-release-request/issues/2780) | ruslany |  | Alancere | new issue. new comment. close to release date.  | 05-12 | 05-24 | 0 |
 | [#2772](https://github.com/Azure/sdk-release-request/issues/2772) | moreOver0 |  | Alancere | new comment. | 05-10 | 05-17 |  |
-| [#2732](https://github.com/Azure/sdk-release-request/issues/2732) | vinnieangel |  | Alancere | new issue. new comment. | 04-21 | 05-05 |  |
