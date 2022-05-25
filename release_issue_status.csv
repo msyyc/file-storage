@@ -8,4 +8,4 @@ Python,https://github.com/Azure/sdk-release-request/issues/2821,dpokluda,azure-m
 Python,https://github.com/Azure/sdk-release-request/issues/2777,Brandon411,azure-mgmt-eventgrid,2022-05-11,13,2022-05-19,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,12,2022-05-20,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2833,a-santamaria,azure-mgmt-servicefabricmanagedclusters,2022-05-19,5,2022-05-20,5,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,8,2022-05-17,8,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,9,2022-05-17,8,confirm, 
