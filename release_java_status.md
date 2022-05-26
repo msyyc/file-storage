@@ -7,6 +7,4 @@
 | [#2790](https://github.com/Azure/sdk-release-request/issues/2790) | moreOver0 |  | weidongxu-microsoft |  | 05-12 | 05-19 |  |
 | [#2738](https://github.com/Azure/sdk-release-request/issues/2738) | MikhailTryakhov |  | XiaofeiCao |  | 04-25 | 05-02 |  |
 | [#2731](https://github.com/Azure/sdk-release-request/issues/2731) | vinnieangel |  | haolingdong-msft |  | 04-21 | 05-05 |  |
-| [#2725](https://github.com/Azure/sdk-release-request/issues/2725) | dhu5432 |  | weidongxu-microsoft |  | 04-21 | 05-02 |  |
 | [#2707](https://github.com/Azure/sdk-release-request/issues/2707) | Selekena |  | XiaofeiCao |  | 04-15 | 05-02 |  |
-| [#2652](https://github.com/Azure/sdk-release-request/issues/2652) | amanswaika |  | weidongxu-microsoft |  | 04-01 | 04-11 |  |
