@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2846](https://github.com/Azure/sdk-release-request/issues/2846) | vutran01 | applicationinsights | BigCat20196 | new issue ! <br> | 05-26 | 06-09 |   |
+| [#2846](https://github.com/Azure/sdk-release-request/issues/2846) | vutran01 | applicationinsights | BigCat20196 | new version is 0.0.0, please check base branch!   | 05-26 | 06-09 |   |
 | [#2837](https://github.com/Azure/sdk-release-request/issues/2837) | kagbakpem | communication | msyyc |   release date < 2 ! <br> | 05-23 | 05-25 | -2 |
 | [#2831](https://github.com/Azure/sdk-release-request/issues/2831) | musabbir | confidentialledger | BigCat20196 |   | 05-19 | 06-02 |   |
 | [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   release date < 2 ! <br> | 05-13 | 05-30 | 2 |
