@@ -4,7 +4,7 @@
 | [#2837](https://github.com/Azure/sdk-release-request/issues/2837) | kagbakpem | communication | msyyc |   | 05-23 | 05-25 |   |
 | [#2831](https://github.com/Azure/sdk-release-request/issues/2831) | musabbir | confidentialledger | BigCat20196 | new comment.  <br> | 05-19 | 06-02 |   |
 | [#2848](https://github.com/Azure/sdk-release-request/issues/2848) | Frey-Wang | datafactory | BigCat20196 | new comment.  <br> | 05-27 | 06-06 |   |
-| [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   release date < 2 ! <br> | 05-13 | 05-30 | 1 |
+| [#2795](https://github.com/Azure/sdk-release-request/issues/2795) | pratimaupadhyay02 | dataprotection | BigCat20196 |   release date < 2 ! <br> | 05-13 | 05-30 | 0 |
 | [#2777](https://github.com/Azure/sdk-release-request/issues/2777) | Brandon411 | eventgrid | BigCat20196 | new comment.  <br> | 05-11 | 05-13 |   |
 | [#2840](https://github.com/Azure/sdk-release-request/issues/2840) | zdelacerda-microsoft | imagebuilder | msyyc |   | 05-25 | 06-08 |   |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   | 05-12 | 05-16 |   |
