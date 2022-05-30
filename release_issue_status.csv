@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2846,vutran01,azure-mgmt-applicationinsights,2022-05-26,3,2022-05-27,2,confirm,new version is 0.0.0, please check base branch! new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2846,vutran01,azure-mgmt-applicationinsights,2022-05-26,3,2022-05-30,0,confirm,new version is 0.0.0, please check base branch! new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,6,2022-05-24,6,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2831,musabbir,azure-mgmt-confidentialledger,2022-05-19,10,2022-05-27,2,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2848,Frey-Wang,azure-mgmt-datafactory,2022-05-27,2,2022-05-27,2,confirm,new comment.  <br>
