@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-confidentialledger,BigCat20196,2022-05-19,2022-05-30,https://github.com/Azure/sdk-release-request/issues/2831
 azure-mgmt-azurestackhci,msyyc,2022-05-16,2022-05-26,https://github.com/Azure/sdk-release-request/issues/2812
 azure-mgmt-containerregistry,msyyc,2022-05-17,2022-05-26,https://github.com/Azure/sdk-release-request/issues/2820
 azure-mgmt-deviceupdate,BigCat20196,2022-05-18,2022-05-26,https://github.com/Azure/sdk-release-request/issues/2821
