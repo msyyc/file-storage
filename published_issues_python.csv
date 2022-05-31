@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-eventgrid,BigCat20196,2022-05-11,2022-05-31,https://github.com/Azure/sdk-release-request/issues/2777
+azure-mgmt-datafactory,BigCat20196,2022-05-27,2022-05-31,https://github.com/Azure/sdk-release-request/issues/2848
 azure-mgmt-confidentialledger,BigCat20196,2022-05-19,2022-05-30,https://github.com/Azure/sdk-release-request/issues/2831
 azure-mgmt-azurestackhci,msyyc,2022-05-16,2022-05-26,https://github.com/Azure/sdk-release-request/issues/2812
 azure-mgmt-containerregistry,msyyc,2022-05-17,2022-05-26,https://github.com/Azure/sdk-release-request/issues/2820
