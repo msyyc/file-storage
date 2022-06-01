@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#29112](https://github.com/Azure/azure-sdk-for-java/issues/29112)|[FEATURE REQ] sample on DescriptionSet and encrypted VM on compute|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-27|
-|2|[#29105](https://github.com/Azure/azure-sdk-for-java/issues/29105)|[QUESTION] Is there a way to create a storage account with blob versioning enabled?|question, Storage, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2022-05-26|
+|2|[#29105](https://github.com/Azure/azure-sdk-for-java/issues/29105)|[QUESTION] Is there a way to create a storage account with blob versioning enabled?|question, Storage, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao|new comment|2022-05-26|
 |3|[#28899](https://github.com/Azure/azure-sdk-for-java/issues/28899)|mgmt Network, support mandatory `priority` in RequestRoutingRules|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-17|
 |4|[#28776](https://github.com/Azure/azure-sdk-for-java/issues/28776)|mgmt, appplatform support custom persistent storage|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-11|
 |5|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
