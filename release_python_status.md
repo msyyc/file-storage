@@ -8,6 +8,5 @@
 | [#2840](https://github.com/Azure/sdk-release-request/issues/2840) | zdelacerda-microsoft | imagebuilder | msyyc |   | 05-25 | 06-08 |   |
 | [#2857](https://github.com/Azure/sdk-release-request/issues/2857) | thisisdevanshu | orbital | msyyc |   | 05-31 | 06-14 |   |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   | 05-12 | 05-16 |   |
-| [#2833](https://github.com/Azure/sdk-release-request/issues/2833) | a-santamaria | servicefabricmanagedclusters | msyyc | new comment.  <br> | 05-19 | 05-23 |   |
 | [#2871](https://github.com/Azure/sdk-release-request/issues/2871) | rchlkm | sqlvirtualmachine | BigCat20196 |   | 06-01 | 06-08 |   |
 | [#2805](https://github.com/Azure/sdk-release-request/issues/2805) | gargankit-microsoft | workloads | msyyc |   | 05-16 | 06-15 |   |
