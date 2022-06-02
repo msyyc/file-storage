@@ -4,7 +4,7 @@
 | [#2870](https://github.com/Azure/sdk-release-request/issues/2870) | rchlkm |  | MaryGao | new issue. new comment. | 06-01 | 06-08 |  |
 | [#2866](https://github.com/Azure/sdk-release-request/issues/2866) | shenmuxiaosen |  | MaryGao | new issue. new comment. close to release date.  | 06-01 | 06-03 | 0 |
 | [#2861](https://github.com/Azure/sdk-release-request/issues/2861) | haagha |  | MaryGao | new issue. close to release date.  | 06-01 | 06-03 | 0 |
-| [#2858](https://github.com/Azure/sdk-release-request/issues/2858) | thisisdevanshu |  | MaryGao | new issue. | 05-31 | 06-14 |  |
+| [#2858](https://github.com/Azure/sdk-release-request/issues/2858) | thisisdevanshu |  | MaryGao | new issue. new comment. | 05-31 | 06-14 |  |
 | [#2852](https://github.com/Azure/sdk-release-request/issues/2852) | kangsun-ctrl |  | MaryGao | new issue. new comment. close to release date.  | 05-31 | 06-02 | 0 |
 | [#2851](https://github.com/Azure/sdk-release-request/issues/2851) | Frey-Wang |  | qiaozha | new issue. | 05-27 | 06-06 |  |
 | [#2843](https://github.com/Azure/sdk-release-request/issues/2843) | vutran01 |  | qiaozha | new comment. | 05-26 | 06-09 |  |
