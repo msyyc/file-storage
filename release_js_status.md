@@ -12,4 +12,4 @@
 | [#2836](https://github.com/Azure/sdk-release-request/issues/2836) | kagbakpem |  | qiaozha |  | 05-23 | 05-25 |  |
 | [#2826](https://github.com/Azure/sdk-release-request/issues/2826) | grizzlytheodore |  | MaryGao |  | 05-19 | 05-24 |  |
 | [#2804](https://github.com/Azure/sdk-release-request/issues/2804) | gargankit-microsoft |  | MaryGao |  | 05-16 | 06-15 |  |
-| [#2782](https://github.com/Azure/sdk-release-request/issues/2782) | ruslany |  | qiaozha | new issue. new comment. | 05-12 | 05-24 |  |
+| [#2782](https://github.com/Azure/sdk-release-request/issues/2782) | ruslany |  | qiaozha |  | 05-12 | 05-24 |  |
