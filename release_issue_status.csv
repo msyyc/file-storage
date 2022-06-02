@@ -2,11 +2,11 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2865,shenmuxiaosen,azure-mgmt-appconfiguration,2022-06-01,0,2022-06-02,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2846,vutran01,azure-mgmt-applicationinsights,2022-05-26,6,2022-06-01,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2860,wiboris,azure-mgmt-batch,2022-05-31,1,2022-06-01,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,9,2022-05-30,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2854,kangsun-ctrl,azure-mgmt-compute,2022-05-31,1,2022-05-31,1,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,10,2022-05-30,2,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2854,kangsun-ctrl,azure-mgmt-compute,2022-05-31,1,2022-06-02,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2840,zdelacerda-microsoft,azure-mgmt-imagebuilder,2022-05-25,7,2022-06-02,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2857,thisisdevanshu,azure-mgmt-orbital,2022-05-31,1,2022-06-01,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,20,2022-05-26,6,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,20,2022-05-26,7,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2833,a-santamaria,azure-mgmt-servicefabricmanagedclusters,2022-05-19,13,2022-06-01,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2871,rchlkm,azure-mgmt-sqlvirtualmachine,2022-06-01,0,2022-06-02,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,16,2022-05-17,15,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2805,gargankit-microsoft,azure-mgmt-workloads,2022-05-16,16,2022-05-17,16,confirm, 
