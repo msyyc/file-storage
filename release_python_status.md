@@ -5,6 +5,7 @@
 | [#2860](https://github.com/Azure/sdk-release-request/issues/2860) | wiboris | batch | msyyc |   | 05-31 | 06-14 |   |
 | [#2837](https://github.com/Azure/sdk-release-request/issues/2837) | kagbakpem | communication | msyyc |   | 05-23 | 05-25 |   |
 | [#2854](https://github.com/Azure/sdk-release-request/issues/2854) | kangsun-ctrl | compute | BigCat20196 | new issue ! <br> release date < 2 ! <br> | 05-31 | 06-02 | 0 |
+| [#2874](https://github.com/Azure/sdk-release-request/issues/2874) | FumingZhang | containerservice | BigCat20196 | new issue ! <br> | 06-02 | 06-08 |   |
 | [#2840](https://github.com/Azure/sdk-release-request/issues/2840) | zdelacerda-microsoft | imagebuilder | msyyc |   | 05-25 | 06-08 |   |
 | [#2857](https://github.com/Azure/sdk-release-request/issues/2857) | thisisdevanshu | orbital | msyyc |   | 05-31 | 06-14 |   |
 | [#2792](https://github.com/Azure/sdk-release-request/issues/2792) | DorianLatchague | securityinsight | BigCat20196 |   | 05-12 | 05-16 |   |
