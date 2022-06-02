@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2865,shenmuxiaosen,azure-mgmt-appconfiguration,2022-06-01,0,2022-06-02,0,confirm,new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2865,shenmuxiaosen,azure-mgmt-appconfiguration,2022-06-01,0,2022-06-02,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2846,vutran01,azure-mgmt-applicationinsights,2022-05-26,6,2022-06-01,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2860,wiboris,azure-mgmt-batch,2022-05-31,1,2022-06-01,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,9,2022-05-30,2,confirm, 
