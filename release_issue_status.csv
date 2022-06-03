@@ -4,7 +4,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2860,wiboris,azure-mg
 Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,10,2022-05-30,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2854,kangsun-ctrl,azure-mgmt-compute,2022-05-31,2,2022-06-02,0,confirm,new issue ! <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2874,FumingZhang,azure-mgmt-containerservice,2022-06-02,0,2022-06-02,0,confirm,new issue ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2840,zdelacerda-microsoft,azure-mgmt-imagebuilder,2022-05-25,8,2022-06-02,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2840,zdelacerda-microsoft,azure-mgmt-imagebuilder,2022-05-25,8,2022-06-02,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2857,thisisdevanshu,azure-mgmt-orbital,2022-05-31,2,2022-06-01,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,21,2022-05-26,7,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2871,rchlkm,azure-mgmt-sqlvirtualmachine,2022-06-01,1,2022-06-02,0,confirm,new comment.  <br>
