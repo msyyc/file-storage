@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2886](https://github.com/Azure/sdk-release-request/issues/2886) | ramankumarlive |   | msyyc | failed to find Readme link and output folder!  <br> | 06-04 | 06-30 |   |
 | [#2865](https://github.com/Azure/sdk-release-request/issues/2865) | shenmuxiaosen | appconfiguration | BigCat20196 |   | 06-01 | 06-03 |   |
 | [#2860](https://github.com/Azure/sdk-release-request/issues/2860) | wiboris | batch | msyyc | new comment.  <br> | 05-31 | 06-14 |   |
 | [#2889](https://github.com/Azure/sdk-release-request/issues/2889) | kagbakpem | communication | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 06-06 | 06-08 | 1 |

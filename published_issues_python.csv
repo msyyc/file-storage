@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-sqlvirtualmachine,BigCat20196,2022-06-01,2022-06-06,https://github.com/Azure/sdk-release-request/issues/2871
 azure-mgmt-applicationinsights,BigCat20196,2022-05-26,2022-06-02,https://github.com/Azure/sdk-release-request/issues/2846
 azure-mgmt-servicefabricmanagedclusters,msyyc,2022-05-19,2022-06-02,https://github.com/Azure/sdk-release-request/issues/2833
 azure-mgmt-eventgrid,BigCat20196,2022-05-11,2022-05-31,https://github.com/Azure/sdk-release-request/issues/2777
