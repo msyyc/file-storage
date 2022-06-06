@@ -2,7 +2,8 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2886,ramankumarlive, ,2022-06-04,1,2022-06-06,0,confirm,failed to find Readme link and output folder!  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2865,shenmuxiaosen,azure-mgmt-appconfiguration,2022-06-01,4,2022-06-02,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2860,wiboris,azure-mgmt-batch,2022-05-31,5,2022-06-02,3,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,13,2022-05-30,6,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2889,kagbakpem,azure-mgmt-communication,2022-06-06,0,2022-06-06,0,confirm,duplicated issue  <br>new issue ! <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2837,kagbakpem,azure-mgmt-communication,2022-05-23,13,2022-05-30,6,confirm,duplicated issue  <br> 
 Python,https://github.com/Azure/sdk-release-request/issues/2881,Sandido,azure-mgmt-compute,2022-06-03,2,2022-06-04,2,confirm,duplicated issue  <br>new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2854,kangsun-ctrl,azure-mgmt-compute,2022-05-31,5,2022-06-06,0,confirm,duplicated issue  <br>new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2874,FumingZhang,azure-mgmt-containerservice,2022-06-02,3,2022-06-06,0,confirm,new issue ! <br> release date < 2 ! <br>

@@ -3,7 +3,8 @@
 | [#2886](https://github.com/Azure/sdk-release-request/issues/2886) | ramankumarlive |   | msyyc | failed to find Readme link and output folder!  <br> | 06-04 | 06-30 |   |
 | [#2865](https://github.com/Azure/sdk-release-request/issues/2865) | shenmuxiaosen | appconfiguration | BigCat20196 |   | 06-01 | 06-03 |   |
 | [#2860](https://github.com/Azure/sdk-release-request/issues/2860) | wiboris | batch | msyyc | new comment.  <br> | 05-31 | 06-14 |   |
-| [#2837](https://github.com/Azure/sdk-release-request/issues/2837) | kagbakpem | communication | msyyc |   | 05-23 | 05-25 |   |
+| [#2889](https://github.com/Azure/sdk-release-request/issues/2889) | kagbakpem | communication | BigCat20196 | duplicated issue  <br>new issue ! <br> release date < 2 ! <br> | 06-06 | 06-08 | 1 |
+| [#2837](https://github.com/Azure/sdk-release-request/issues/2837) | kagbakpem | communication | msyyc | duplicated issue  <br>  | 05-23 | 05-25 |   |
 | [#2881](https://github.com/Azure/sdk-release-request/issues/2881) | Sandido | compute | msyyc | duplicated issue  <br>new issue ! <br> | 06-03 | 06-13 |   |
 | [#2854](https://github.com/Azure/sdk-release-request/issues/2854) | kangsun-ctrl | compute | BigCat20196 | duplicated issue  <br>new issue ! <br> | 05-31 | 06-02 |   |
 | [#2874](https://github.com/Azure/sdk-release-request/issues/2874) | FumingZhang | containerservice | BigCat20196 | new issue ! <br> release date < 2 ! <br> | 06-02 | 06-08 | 1 |
