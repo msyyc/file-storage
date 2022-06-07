@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-imagebuilder,msyyc,2022-05-25,2022-06-07,https://github.com/Azure/sdk-release-request/issues/2840
 azure-mgmt-batch,msyyc,2022-05-31,2022-06-06,https://github.com/Azure/sdk-release-request/issues/2860
 azure-mgmt-sqlvirtualmachine,BigCat20196,2022-06-01,2022-06-06,https://github.com/Azure/sdk-release-request/issues/2871
 azure-mgmt-applicationinsights,BigCat20196,2022-05-26,2022-06-02,https://github.com/Azure/sdk-release-request/issues/2846
