@@ -1,28 +1,30 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
-|2|[#28899](https://github.com/Azure/azure-sdk-for-java/issues/28899)|mgmt Network, support mandatory `priority` in RequestRoutingRules|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-17|
-|3|[#28776](https://github.com/Azure/azure-sdk-for-java/issues/28776)|mgmt, appplatform support custom persistent storage|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-11|
-|4|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
-|5|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-04-20|
-|6|[#28377](https://github.com/Azure/azure-sdk-for-java/issues/28377)|[QUERY] Swap OS disk for a VM not working after migrating to resource manager library|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-04-19|
-|7|[#28218](https://github.com/Azure/azure-sdk-for-java/issues/28218)|Examine Pattern.compile usage in sdk\resourcemanagerhybrid|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new issue|2022-04-11|
-|8|[#28211](https://github.com/Azure/azure-sdk-for-java/issues/28211)|Examine Pattern.compile usage in sdk\resourcemanager|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new comment|2022-04-11|
-|9|[#27991](https://github.com/Azure/azure-sdk-for-java/issues/27991)|[BUG] 400 InvalidParameter on VMSS list instances|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2022-04-01|
-|10|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-03-29|
-|11|[#27617](https://github.com/Azure/azure-sdk-for-java/issues/27617)|[FEATURE] mgmt, upgrade service with old api-version|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-03-11|
-|12|[#27513](https://github.com/Azure/azure-sdk-for-java/issues/27513)|mgmt, support appplatform Spring Cloud Enterprise tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-08|
-|13|[#27275](https://github.com/Azure/azure-sdk-for-java/issues/27275)|mgmt, upgrade SQL to composite-v5|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-24|
-|14|[#27268](https://github.com/Azure/azure-sdk-for-java/issues/27268)|[mgmt] [`azure-resourcemanager-sql`] Models for SQL resource manager are outdated|question, ARM, SQL, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-02-23|
-|15|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-01-21|
-|16|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft|new issue|2021-12-06|
-|17|[#25542](https://github.com/Azure/azure-sdk-for-java/issues/25542)|[QUERY] missing ManagementGroups API|question, Mgmt, customer-reported|weidongxu-microsoft||2021-11-19|
-|18|[#25328](https://github.com/Azure/azure-sdk-for-java/issues/25328)|mgmt, convenient layer for CMK, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
-|19|[#25327](https://github.com/Azure/azure-sdk-for-java/issues/25327)|mgmt, convenient layer for Azure firewall|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
-|20|[#25133](https://github.com/Azure/azure-sdk-for-java/issues/25133)|Analyze data for all new customers' usage|Mgmt, Mgmt - Track 2|haolingdong-msft||2021-11-02|
-|21|[#24893](https://github.com/Azure/azure-sdk-for-java/issues/24893)|[BUG] com.azure.resourcemanager.appservice.fluent.WebAppsClient / getBackupConfiguration(String,String) fails with Reader role|question, App Services, Service Attention, Mgmt, customer-reported, Web Apps, Mgmt - Track 2, needs-team-attention|weidongxu-microsoft||2021-10-19|
-|22|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
-|23|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
-|24|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
-|25|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|weidongxu-microsoft||2021-02-26|
-|26|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
+|1|[#29265](https://github.com/Azure/azure-sdk-for-java/issues/29265)|Set soft delete retention policy for Storage account containers |question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-06-07|
+|2|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Service Attention, Mgmt, customer-reported, needs-team-attention, CXP Attention|XiaofeiCao||2022-06-06|
+|3|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
+|4|[#28899](https://github.com/Azure/azure-sdk-for-java/issues/28899)|mgmt Network, support mandatory `priority` in RequestRoutingRules|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-17|
+|5|[#28776](https://github.com/Azure/azure-sdk-for-java/issues/28776)|mgmt, appplatform support custom persistent storage|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-11|
+|6|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
+|7|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-04-20|
+|8|[#28377](https://github.com/Azure/azure-sdk-for-java/issues/28377)|[QUERY] Swap OS disk for a VM not working after migrating to resource manager library|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-04-19|
+|9|[#28218](https://github.com/Azure/azure-sdk-for-java/issues/28218)|Examine Pattern.compile usage in sdk\resourcemanagerhybrid|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new issue|2022-04-11|
+|10|[#28211](https://github.com/Azure/azure-sdk-for-java/issues/28211)|Examine Pattern.compile usage in sdk\resourcemanager|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new comment|2022-04-11|
+|11|[#27991](https://github.com/Azure/azure-sdk-for-java/issues/27991)|[BUG] 400 InvalidParameter on VMSS list instances|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2022-04-01|
+|12|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-03-29|
+|13|[#27617](https://github.com/Azure/azure-sdk-for-java/issues/27617)|[FEATURE] mgmt, upgrade service with old api-version|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-03-11|
+|14|[#27513](https://github.com/Azure/azure-sdk-for-java/issues/27513)|mgmt, support appplatform Spring Cloud Enterprise tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-03-08|
+|15|[#27275](https://github.com/Azure/azure-sdk-for-java/issues/27275)|mgmt, upgrade SQL to composite-v5|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-02-24|
+|16|[#27268](https://github.com/Azure/azure-sdk-for-java/issues/27268)|[mgmt] [`azure-resourcemanager-sql`] Models for SQL resource manager are outdated|question, ARM, SQL, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-02-23|
+|17|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2022-01-21|
+|18|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft|new issue|2021-12-06|
+|19|[#25542](https://github.com/Azure/azure-sdk-for-java/issues/25542)|[QUERY] missing ManagementGroups API|question, Mgmt, customer-reported|weidongxu-microsoft||2021-11-19|
+|20|[#25328](https://github.com/Azure/azure-sdk-for-java/issues/25328)|mgmt, convenient layer for CMK, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
+|21|[#25327](https://github.com/Azure/azure-sdk-for-java/issues/25327)|mgmt, convenient layer for Azure firewall|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
+|22|[#25133](https://github.com/Azure/azure-sdk-for-java/issues/25133)|Analyze data for all new customers' usage|Mgmt, Mgmt - Track 2|haolingdong-msft||2021-11-02|
+|23|[#24893](https://github.com/Azure/azure-sdk-for-java/issues/24893)|[BUG] com.azure.resourcemanager.appservice.fluent.WebAppsClient / getBackupConfiguration(String,String) fails with Reader role|question, App Services, Service Attention, Mgmt, customer-reported, Web Apps, Mgmt - Track 2, needs-team-attention|weidongxu-microsoft||2021-10-19|
+|24|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
+|25|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
+|26|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
+|27|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|weidongxu-microsoft||2021-02-26|
+|28|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
