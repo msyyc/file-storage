@@ -1,5 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2901](https://github.com/Azure/sdk-release-request/issues/2901) | yangyuan |  | Alancere | new issue. close to release date.  | 06-07 | 06-09 | 0 |
+| [#2896](https://github.com/Azure/sdk-release-request/issues/2896) | hildurhodd |  | Alancere | new issue. | 06-07 | 06-21 |  |
 | [#2894](https://github.com/Azure/sdk-release-request/issues/2894) | xuzhang3 |  | Alancere | new issue. new comment. multi readme link! | 06-07 | 06-21 |  |
 | [#2890](https://github.com/Azure/sdk-release-request/issues/2890) | kagbakpem |  | Alancere | new issue. new comment. close to release date.  | 06-06 | 06-08 | 0 |
 | [#2887](https://github.com/Azure/sdk-release-request/issues/2887) | ramankumarlive |  | Alancere | new issue. | 06-04 | 06-30 |  |
@@ -9,5 +11,5 @@
 | [#2864](https://github.com/Azure/sdk-release-request/issues/2864) | haagha |  | Alancere |  | 06-01 | 06-03 |  |
 | [#2853](https://github.com/Azure/sdk-release-request/issues/2853) | kangsun-ctrl |  | Alancere |  | 05-31 | 06-02 |  |
 | [#2847](https://github.com/Azure/sdk-release-request/issues/2847) | magodo |  | Alancere | new issue. new comment. | 05-27 | 06-13 |  |
-| [#2844](https://github.com/Azure/sdk-release-request/issues/2844) | vutran01 |  | Alancere | close to release date.  | 05-26 | 06-09 | 1 |
+| [#2844](https://github.com/Azure/sdk-release-request/issues/2844) | vutran01 |  | Alancere | close to release date.  | 05-26 | 06-09 | 0 |
 | [#2791](https://github.com/Azure/sdk-release-request/issues/2791) | DorianLatchague |  | Alancere |  | 05-12 | 05-16 |  |
