@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2904](https://github.com/Azure/sdk-release-request/issues/2904) | BigCat20196 |   | msyyc | new issue ! <br> | 06-09 | 06-23 |   |
+| [#2904](https://github.com/Azure/sdk-release-request/issues/2904) | BigCat20196 |   | msyyc |   | 06-09 | 06-23 |   |
 | [#2881](https://github.com/Azure/sdk-release-request/issues/2881) | Sandido | compute | BigCat20196 |   | 06-03 | 06-13 |   |
 | [#2874](https://github.com/Azure/sdk-release-request/issues/2874) | FumingZhang | containerservice | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 06-02 | 06-08 | -1 |
 | [#2891](https://github.com/Azure/sdk-release-request/issues/2891) | damodaravadhani | eventhub | BigCat20196 |   | 06-06 | 06-20 |   |
