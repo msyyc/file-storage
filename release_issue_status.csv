@@ -5,8 +5,8 @@ Python,https://github.com/Azure/sdk-release-request/issues/2854,kangsun-ctrl,azu
 Python,https://github.com/Azure/sdk-release-request/issues/2874,FumingZhang,azure-mgmt-containerservice,2022-06-02,6,2022-06-06,2,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,2,2022-06-07,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2883,joerob-msft,azure-mgmt-logic,2022-06-03,5,2022-06-06,2,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,2,2022-06-08,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2897,hildurhodd,azure-mgmt-netapp,2022-06-07,1,2022-06-08,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2857,thisisdevanshu,azure-mgmt-orbital,2022-05-31,8,2022-06-08,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,2,2022-06-08,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2897,hildurhodd,azure-mgmt-netapp,2022-06-07,1,2022-06-08,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2857,thisisdevanshu,azure-mgmt-orbital,2022-05-31,8,2022-06-08,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2792,DorianLatchague,azure-mgmt-securityinsight,2022-05-12,27,2022-05-26,13,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,5,2022-06-07,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,5,2022-06-07,2,confirm, 
