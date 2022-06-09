@@ -3,10 +3,8 @@
 | [#2901](https://github.com/Azure/sdk-release-request/issues/2901) | yangyuan |  | Alancere | new issue. close to release date.  | 06-07 | 06-09 | 0 |
 | [#2896](https://github.com/Azure/sdk-release-request/issues/2896) | hildurhodd |  | Alancere | new issue. | 06-07 | 06-21 |  |
 | [#2894](https://github.com/Azure/sdk-release-request/issues/2894) | xuzhang3 |  | Alancere | new issue. new comment. multi readme link! | 06-07 | 06-21 |  |
-| [#2890](https://github.com/Azure/sdk-release-request/issues/2890) | kagbakpem |  | Alancere | new issue. new comment. close to release date.  | 06-06 | 06-08 | -1 |
 | [#2887](https://github.com/Azure/sdk-release-request/issues/2887) | ramankumarlive |  | Alancere | new issue. | 06-04 | 06-30 |  |
 | [#2880](https://github.com/Azure/sdk-release-request/issues/2880) | Sandido |  | Alancere | new issue. new comment. | 06-03 | 06-13 |  |
 | [#2877](https://github.com/Azure/sdk-release-request/issues/2877) | gargankit-microsoft |  | Alancere | new comment. | 06-03 | 06-30 |  |
 | [#2873](https://github.com/Azure/sdk-release-request/issues/2873) | FumingZhang |  | Alancere | close to release date.  | 06-02 | 06-08 | -1 |
-| [#2847](https://github.com/Azure/sdk-release-request/issues/2847) | magodo |  | Alancere | new issue. new comment. | 05-27 | 06-13 |  |
 | [#2844](https://github.com/Azure/sdk-release-request/issues/2844) | vutran01 |  | Alancere | close to release date.  | 05-26 | 06-09 | 0 |
