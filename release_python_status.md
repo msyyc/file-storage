@@ -1,8 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2881](https://github.com/Azure/sdk-release-request/issues/2881) | Sandido | compute | BigCat20196 |   release date < 2 ! <br> | 06-03 | 06-13 | 2 |
-| [#2874](https://github.com/Azure/sdk-release-request/issues/2874) | FumingZhang | containerservice | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 06-02 | 06-08 | -2 |
 | [#2891](https://github.com/Azure/sdk-release-request/issues/2891) | damodaravadhani | eventhub | BigCat20196 |   | 06-06 | 06-20 |   |
+| [#2883](https://github.com/Azure/sdk-release-request/issues/2883) | joerob-msft | logic | BigCat20196 | new comment.  <br> | 06-03 | 06-20 |   |
 | [#2892](https://github.com/Azure/sdk-release-request/issues/2892) | thomasp98296 | monitor | msyyc |   | 06-06 | 06-20 |   |
 | [#2897](https://github.com/Azure/sdk-release-request/issues/2897) | hildurhodd | netapp | BigCat20196 |   | 06-07 | 06-21 |   |
 | [#2906](https://github.com/Azure/sdk-release-request/issues/2906) | limingu | nginx | BigCat20196 | new issue ! <br> | 06-09 | 06-23 |   |
