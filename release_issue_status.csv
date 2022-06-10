@@ -1,6 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
 Python,https://github.com/Azure/sdk-release-request/issues/2881,Sandido,azure-mgmt-compute,2022-06-03,6,2022-06-09,1,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,3,2022-06-07,3,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,4,2022-06-07,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2904,BigCat20196,azure-mgmt-logic,2022-06-09,1,2022-06-10,0,confirm,duplicated issue  <br> 
 Python,https://github.com/Azure/sdk-release-request/issues/2883,joerob-msft,azure-mgmt-logic,2022-06-03,6,2022-06-10,0,confirm,duplicated issue  <br>new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,3,2022-06-08,2,confirm, 
