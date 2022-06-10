@@ -26,7 +26,6 @@
 |24|[#24893](https://github.com/Azure/azure-sdk-for-java/issues/24893)|[BUG] com.azure.resourcemanager.appservice.fluent.WebAppsClient / getBackupConfiguration(String,String) fails with Reader role|question, App Services, Service Attention, Mgmt, customer-reported, Web Apps, Mgmt - Track 2, issue-addressed|weidongxu-microsoft||2021-10-19|
 |25|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
 |26|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
-|27|[#24516](https://github.com/Azure/azure-sdk-for-java/issues/24516)|Review Usage of AccessController.doPrivileged in ResourceManagerTestBase|Mgmt|weidongxu-microsoft|new issue|2021-10-04|
-|28|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
-|29|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|weidongxu-microsoft||2021-02-26|
-|30|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
+|27|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
+|28|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|weidongxu-microsoft||2021-02-26|
+|29|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
