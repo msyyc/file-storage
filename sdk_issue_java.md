@@ -1,13 +1,13 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#29265](https://github.com/Azure/azure-sdk-for-java/issues/29265)|Set soft delete retention policy for Storage account containers |question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-07|
-|2|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Service Attention, Mgmt, Azure.Core, customer-reported, needs-team-attention, CXP Attention|XiaofeiCao||2022-06-06|
+|2|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Service Attention, Mgmt, Azure.Core, customer-reported, needs-team-attention, CXP Attention|XiaofeiCao|new comment|2022-06-06|
 |3|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
 |4|[#29015](https://github.com/Azure/azure-sdk-for-java/issues/29015)|[FEATURE REQ] retrieveRegistrationTokenAsync for DesktopsVirtualization|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2022-05-23|
 |5|[#28899](https://github.com/Azure/azure-sdk-for-java/issues/28899)|mgmt Network, support mandatory `priority` in RequestRoutingRules|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-17|
 |6|[#28776](https://github.com/Azure/azure-sdk-for-java/issues/28776)|mgmt, appplatform support custom persistent storage|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-11|
 |7|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
-|8|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-04-20|
+|8|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention, needs-author-feedback|XiaofeiCao||2022-04-20|
 |9|[#28218](https://github.com/Azure/azure-sdk-for-java/issues/28218)|Examine Pattern.compile usage in sdk\resourcemanagerhybrid|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new issue|2022-04-11|
 |10|[#28211](https://github.com/Azure/azure-sdk-for-java/issues/28211)|Examine Pattern.compile usage in sdk\resourcemanager|ARM, Mgmt, Mgmt - Track 2|XiaofeiCao|new comment|2022-04-11|
 |11|[#27991](https://github.com/Azure/azure-sdk-for-java/issues/27991)|[BUG] 400 InvalidParameter on VMSS list instances|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2022-04-01|
