@@ -3,7 +3,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-
 Python,https://github.com/Azure/sdk-release-request/issues/2908,ahamad-MS,azure-mgmt-eventgrid,2022-06-13,0,2022-06-13,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,7,2022-06-14,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,7,2022-06-14,0,confirm,new comment.  <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2897,hildurhodd,azure-mgmt-netapp,2022-06-07,6,2022-06-13,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2897,hildurhodd,azure-mgmt-netapp,2022-06-07,6,2022-06-13,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2906,limingu,azure-mgmt-nginx,2022-06-09,4,2022-06-13,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2857,thisisdevanshu,azure-mgmt-orbital,2022-05-31,13,2022-06-08,6,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,10,2022-06-07,7,confirm, 
