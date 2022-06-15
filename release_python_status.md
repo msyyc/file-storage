@@ -1,6 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#2914](https://github.com/Azure/sdk-release-request/issues/2914) | sjiherzig | digitaltwins | BigCat20196 | new version is 0.0.0, please check base branch!   | 06-13 | 06-30 |   |
+| [#2921](https://github.com/Azure/sdk-release-request/issues/2921) | Frey-Wang | datafactory | msyyc | new issue ! <br> | 06-15 | 06-22 |   |
+| [#2914](https://github.com/Azure/sdk-release-request/issues/2914) | sjiherzig | digitaltwins | BigCat20196 |   | 06-13 | 06-30 |   |
 | [#2908](https://github.com/Azure/sdk-release-request/issues/2908) | ahamad-MS | eventgrid | msyyc |   release date < 2 ! <br> | 06-13 | 06-15 | 0 |
 | [#2891](https://github.com/Azure/sdk-release-request/issues/2891) | damodaravadhani | eventhub | BigCat20196 |   | 06-06 | 06-20 |   |
 | [#2892](https://github.com/Azure/sdk-release-request/issues/2892) | thomasp98296 | monitor | msyyc | new comment.  <br> | 06-06 | 06-20 |   |
