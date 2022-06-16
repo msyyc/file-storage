@@ -7,4 +7,5 @@
 | [#2892](https://github.com/Azure/sdk-release-request/issues/2892) | thomasp98296 | monitor | msyyc | new comment.  <br> | 06-06 | 06-20 |   |
 | [#2897](https://github.com/Azure/sdk-release-request/issues/2897) | hildurhodd | netapp | BigCat20196 | new comment.  <br> | 06-07 | 06-21 |   |
 | [#2857](https://github.com/Azure/sdk-release-request/issues/2857) | thisisdevanshu | orbital | msyyc | new comment.  <br> release date < 2 ! <br> | 05-31 | 06-14 | -2 |
+| [#2924](https://github.com/Azure/sdk-release-request/issues/2924) | BigCat20196 | storage | msyyc | duplicated issue  <br>new issue ! <br> | 06-16 | 06-30 |   |
 | [#2875](https://github.com/Azure/sdk-release-request/issues/2875) | gargankit-microsoft | workloads | msyyc |   | 06-03 | 06-30 |   |
