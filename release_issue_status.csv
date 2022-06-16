@@ -2,8 +2,8 @@ language,issue,author,package,created date,delay from created date,latest update
 Python,https://github.com/Azure/sdk-release-request/issues/2921,Frey-Wang,azure-mgmt-datafactory,2022-06-15,0,2022-06-15,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-mgmt-digitaltwins,2022-06-13,2,2022-06-15,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2908,ahamad-MS,azure-mgmt-eventgrid,2022-06-13,2,2022-06-15,0,confirm,new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,9,2022-06-14,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,9,2022-06-14,2,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,9,2022-06-15,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2897,hildurhodd,azure-mgmt-netapp,2022-06-07,8,2022-06-15,0,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2857,thisisdevanshu,azure-mgmt-orbital,2022-05-31,15,2022-06-15,0,confirm,new comment.  <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,12,2022-06-07,8,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,12,2022-06-07,9,confirm, 
