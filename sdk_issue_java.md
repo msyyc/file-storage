@@ -22,9 +22,8 @@
 |20|[#25328](https://github.com/Azure/azure-sdk-for-java/issues/25328)|mgmt, convenient layer for CMK, with e2e samples|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
 |21|[#25327](https://github.com/Azure/azure-sdk-for-java/issues/25327)|mgmt, convenient layer for Azure firewall|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
 |22|[#25133](https://github.com/Azure/azure-sdk-for-java/issues/25133)|Analyze data for all new customers' usage|Mgmt, Mgmt - Track 2|haolingdong-msft||2021-11-02|
-|23|[#24893](https://github.com/Azure/azure-sdk-for-java/issues/24893)|[BUG] com.azure.resourcemanager.appservice.fluent.WebAppsClient / getBackupConfiguration(String,String) fails with Reader role|question, App Services, Service Attention, Mgmt, customer-reported, Web Apps, Mgmt - Track 2, issue-addressed|weidongxu-microsoft||2021-10-19|
-|24|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
-|25|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
-|26|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
-|27|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|weidongxu-microsoft||2021-02-26|
-|28|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
+|23|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
+|24|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
+|25|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
+|26|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|weidongxu-microsoft||2021-02-26|
+|27|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
