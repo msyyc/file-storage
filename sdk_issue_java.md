@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#29265](https://github.com/Azure/azure-sdk-for-java/issues/29265)|Set soft delete retention policy for Storage account containers |question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-07|
-|2|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Mgmt, Azure.Core, customer-reported, needs-team-attention|mssfang, XiaofeiCao||2022-06-06|
+|2|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Mgmt, Azure.Core, customer-reported, needs-team-attention|XiaofeiCao, mssfang||2022-06-06|
 |3|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
 |4|[#29015](https://github.com/Azure/azure-sdk-for-java/issues/29015)|[FEATURE REQ] retrieveRegistrationTokenAsync for DesktopsVirtualization|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2022-05-23|
 |5|[#28899](https://github.com/Azure/azure-sdk-for-java/issues/28899)|mgmt Network, support mandatory `priority` in RequestRoutingRules|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-17|
