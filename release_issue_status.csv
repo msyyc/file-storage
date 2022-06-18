@@ -1,5 +1,5 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2925,BigCat20196,azure-mgmt-consumption,2022-06-16,1,2022-06-16,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2925,BigCat20196,azure-mgmt-consumption,2022-06-16,2,2022-06-16,1,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-mgmt-digitaltwins,2022-06-13,4,2022-06-15,3,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2908,ahamad-MS,azure-mgmt-eventgrid,2022-06-13,5,2022-06-16,1,confirm,new comment.  <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,11,2022-06-14,4,confirm,  release date < 2 ! <br>
