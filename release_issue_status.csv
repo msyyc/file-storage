@@ -1,7 +1,6 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2925,BigCat20196,azure-mgmt-consumption,2022-06-16,4,2022-06-16,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-mgmt-digitaltwins,2022-06-13,7,2022-06-15,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2891,damodaravadhani,azure-mgmt-eventhub,2022-06-06,14,2022-06-14,7,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,0,2022-06-21,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,0,2022-06-21,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,14,2022-06-15,5,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,17,2022-06-07,14,confirm, 
