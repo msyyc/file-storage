@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#18436](https://github.com/Azure/azure-sdk-for-go/issues/18436)|compute.VirtualMachineImagesClient#ListSkusLocation in request URI 'canadacentral,' does not match location of the service 'CanadaCentral'|Mgmt|lirenhe|new comment|2022-06-17|
-|2|[#18428](https://github.com/Azure/azure-sdk-for-go/issues/18428)|Ability to create private cluster in AKS|question, Mgmt, customer-reported, needs-author-feedback|lirenhe|new comment|2022-06-16|
+|2|[#18428](https://github.com/Azure/azure-sdk-for-go/issues/18428)|Ability to create private cluster in AKS|question, Mgmt, customer-reported, needs-team-attention|lirenhe||2022-06-16|
 |3|[#18072](https://github.com/Azure/azure-sdk-for-go/issues/18072)|Azure backend has changed the record type for private hosted dns records|question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-05-17|
 |4|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Service Attention, Mgmt, customer-reported, needs-team-attention|tadelesh, lirenhe|new comment|2022-05-05|
 |5|[#17788](https://github.com/Azure/azure-sdk-for-go/issues/17788)|Generated Code for KeyVault Management is Out of Date|question, KeyVault, Mgmt, customer-reported, needs-team-attention|SatishBoddu-MSFT, lirenhe||2022-05-02|
@@ -11,7 +11,7 @@
 |9|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-02-18|
 |10|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
 |11|[#17013](https://github.com/Azure/azure-sdk-for-go/issues/17013)|Firewall Delete failure|bug, Service Attention, Mgmt, Service, Network - Firewall|ArcturusZhang|new comment|2022-02-09|
-|12|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|ericshape, ArcturusZhang, Alancere|new comment|2022-02-08|
+|12|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|ArcturusZhang, Alancere, ericshape|new comment|2022-02-08|
 |13|[#16716](https://github.com/Azure/azure-sdk-for-go/issues/16716)|Resource Health -- Events API|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2021-12-27|
 |14|[#16703](https://github.com/Azure/azure-sdk-for-go/issues/16703)|How to create Azure AD app using service principal credentials with Microsoft Graph API|question, Compute, Mgmt, customer-reported, needs-team-attention, Previous Versions|lirenhe|new comment|2021-12-23|
 |15|[#16504](https://github.com/Azure/azure-sdk-for-go/issues/16504)|Azure API version used by Modules|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2021-12-08|
