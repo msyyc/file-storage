@@ -1,8 +1,9 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-mgmt-digitaltwins,2022-06-13,8,2022-06-15,7,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,1,2022-06-21,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2933,giakas,azure-mgmt-media,2022-06-21,0,2022-06-22,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2937,victoriachenm, ,2022-06-22,0,2022-06-22,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-mgmt-digitaltwins,2022-06-13,9,2022-06-15,7,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,2,2022-06-21,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2933,giakas,azure-mgmt-media,2022-06-21,1,2022-06-22,0,confirm,new comment.  <br> release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2904,BigCat20196,azure-mgmt-monitor,2022-06-09,13,2022-06-22,0,confirm,duplicated issue  <br>new issue ! <br> release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,15,2022-06-15,6,confirm,duplicated issue  <br>  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,16,2022-06-15,7,confirm,duplicated issue  <br> 
 Python,https://github.com/Azure/sdk-release-request/issues/2935,IliasKhan,azure-mgmt-sql,2022-06-22,0,2022-06-22,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,18,2022-06-07,15,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,19,2022-06-07,15,confirm, 
