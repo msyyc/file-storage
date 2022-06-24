@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#29613](https://github.com/Azure/azure-sdk-for-java/issues/29613)|[QUERY] RestClient functionality when migrating to com.azure.resourcemanager.**|question, Mgmt, customer-reported|weidongxu-microsoft||2022-06-23|
-|2|[#29265](https://github.com/Azure/azure-sdk-for-java/issues/29265)|Set soft delete retention policy for Storage account containers |question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-07|
-|3|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Mgmt, Azure.Core, customer-reported, needs-team-attention|XiaofeiCao, mssfang||2022-06-06|
-|4|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
-|5|[#28899](https://github.com/Azure/azure-sdk-for-java/issues/28899)|mgmt Network, support mandatory `priority` in RequestRoutingRules|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-17|
+|2|[#29607](https://github.com/Azure/azure-sdk-for-java/issues/29607)|[BUG] Resource ID's returned from rest api do not respect case of resource group names created in portal|question, Compute - VM, Mgmt, customer-reported|weidongxu-microsoft||2022-06-23|
+|3|[#29265](https://github.com/Azure/azure-sdk-for-java/issues/29265)|Set soft delete retention policy for Storage account containers |question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-07|
+|4|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Mgmt, Azure.Core, customer-reported, needs-team-attention|mssfang, XiaofeiCao||2022-06-06|
+|5|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
 |6|[#28776](https://github.com/Azure/azure-sdk-for-java/issues/28776)|mgmt, appplatform support custom persistent storage|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-11|
 |7|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
 |8|[#28419](https://github.com/Azure/azure-sdk-for-java/issues/28419)|[BUG] Observed NullPointerException while creating VM|question, ARM, Compute - VM, Mgmt, customer-reported, needs-team-attention, needs-author-feedback, no-recent-activity|XiaofeiCao||2022-04-20|
