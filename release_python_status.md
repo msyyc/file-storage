@@ -7,8 +7,7 @@
 | [#2930](https://github.com/Azure/sdk-release-request/issues/2930) | jake-billings | extendedlocation | Wzb123456789 |   release date < 2 ! <br> | 06-20 | 06-27 | 0 |
 | [#2941](https://github.com/Azure/sdk-release-request/issues/2941) | dabenhamMic | loganalytics | BigCat20196 |   | 06-23 | 07-07 |   |
 | [#2933](https://github.com/Azure/sdk-release-request/issues/2933) | giakas | media | Wzb123456789 |   | 06-21 | 06-23 |   |
-| [#2904](https://github.com/Azure/sdk-release-request/issues/2904) | BigCat20196 | monitor | msyyc | duplicated issue  <br>  | 06-09 | 06-23 |   |
-| [#2892](https://github.com/Azure/sdk-release-request/issues/2892) | thomasp98296 | monitor | msyyc | duplicated issue  <br>  | 06-06 | 06-20 |   |
+| [#2892](https://github.com/Azure/sdk-release-request/issues/2892) | thomasp98296 | monitor | msyyc |   | 06-06 | 06-20 |   |
 | [#2949](https://github.com/Azure/sdk-release-request/issues/2949) | isolenov | msi | Wzb123456789 |   | 06-24 | 07-12 |   |
 | [#2935](https://github.com/Azure/sdk-release-request/issues/2935) | IliasKhan | sql | msyyc |   | 06-22 | 07-05 |   |
 | [#2875](https://github.com/Azure/sdk-release-request/issues/2875) | gargankit-microsoft | workloads | msyyc |   release date < 2 ! <br> | 06-03 | 06-30 | 2 |

@@ -6,8 +6,7 @@ Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-
 Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,6,2022-06-27,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2941,dabenhamMic,azure-mgmt-loganalytics,2022-06-23,3,2022-06-27,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2933,giakas,azure-mgmt-media,2022-06-21,5,2022-06-27,0,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2904,BigCat20196,azure-mgmt-monitor,2022-06-09,17,2022-06-27,0,confirm,duplicated issue  <br> 
-Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,20,2022-06-15,11,confirm,duplicated issue  <br> 
+Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,20,2022-06-15,11,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2949,isolenov,azure-mgmt-msi,2022-06-24,2,2022-06-27,0,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2935,IliasKhan,azure-mgmt-sql,2022-06-22,5,2022-06-22,5,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,23,2022-06-27,0,confirm,  release date < 2 ! <br>
