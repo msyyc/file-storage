@@ -1,5 +1,4 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2952,msyyc, ,2022-06-27,0,2022-06-27,0,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2937,victoriachenm,azure-mgmt-chaos,2022-06-22,4,2022-06-23,4,confirm, 
 Python,https://github.com/Azure/sdk-release-request/issues/2944,grizzlytheodore,azure-mgmt-compute,2022-06-23,3,2022-06-27,0,confirm,  release date < 2 ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2914,sjiherzig,azure-mgmt-digitaltwins,2022-06-13,13,2022-06-27,0,confirm,  release date < 2 ! <br>
