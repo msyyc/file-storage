@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2937](https://github.com/Azure/sdk-release-request/issues/2937) | victoriachenm | chaos | BigCat20196 |   | 06-22 | 07-01 |   |
 | [#2944](https://github.com/Azure/sdk-release-request/issues/2944) | grizzlytheodore | compute | Wzb123456789 |   release date < 2 ! <br> | 06-23 | 06-30 | 2 |
-| [#2914](https://github.com/Azure/sdk-release-request/issues/2914) | sjiherzig | digitaltwins | BigCat20196 |   release date < 2 ! <br> | 06-13 | 06-30 | 2 |
+| [#2914](https://github.com/Azure/sdk-release-request/issues/2914) | sjiherzig | digitaltwins | BigCat20196 | new comment.  <br> release date < 2 ! <br> | 06-13 | 06-30 | 2 |
 | [#2930](https://github.com/Azure/sdk-release-request/issues/2930) | jake-billings | extendedlocation | Wzb123456789 |   release date < 2 ! <br> | 06-20 | 06-27 | 0 |
 | [#2941](https://github.com/Azure/sdk-release-request/issues/2941) | dabenhamMic | loganalytics | BigCat20196 |   | 06-23 | 07-07 |   |
 | [#2933](https://github.com/Azure/sdk-release-request/issues/2933) | giakas | media | Wzb123456789 |   | 06-21 | 06-23 |   |
