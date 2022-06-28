@@ -10,4 +10,4 @@
 | [#2949](https://github.com/Azure/sdk-release-request/issues/2949) | isolenov | msi | Wzb123456789 |   | 06-24 | 07-12 |   |
 | [#2956](https://github.com/Azure/sdk-release-request/issues/2956) | saisankargochhayat | resourceconnector | Wzb123456789 | new issue ! <br> | 06-27 | 07-07 |   |
 | [#2935](https://github.com/Azure/sdk-release-request/issues/2935) | IliasKhan | sql | msyyc |   | 06-22 | 07-05 |   |
-| [#2875](https://github.com/Azure/sdk-release-request/issues/2875) | gargankit-microsoft | workloads | msyyc | new comment.  <br> release date < 2 ! <br> | 06-03 | 06-30 | 1 |
+| [#2875](https://github.com/Azure/sdk-release-request/issues/2875) | gargankit-microsoft | workloads | msyyc |   release date < 2 ! <br> | 06-03 | 06-30 | 1 |
