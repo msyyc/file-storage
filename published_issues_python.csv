@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-msi,Wzb123456789,2022-06-24,2022-06-29,https://github.com/Azure/sdk-release-request/issues/2949
 azure-mgmt-eventhub,BigCat20196,2022-06-06,2022-06-22,https://github.com/Azure/sdk-release-request/issues/2891
 azure-mgmt-consumption,Wzb123456789,2022-06-16,2022-06-21,https://github.com/Azure/sdk-release-request/issues/2925
 azure-mgmt-eventgrid,msyyc,2022-06-13,2022-06-21,https://github.com/Azure/sdk-release-request/issues/2908
