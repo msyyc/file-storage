@@ -1,10 +1,11 @@
 language,issue,author,package,created date,delay from created date,latest update time,delay from latest update,status,bot advice
-Python,https://github.com/Azure/sdk-release-request/issues/2944,grizzlytheodore,azure-mgmt-compute,2022-06-23,4,2022-06-27,1,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,7,2022-06-28,0,confirm,  release date < 2 ! <br>
-Python,https://github.com/Azure/sdk-release-request/issues/2941,dabenhamMic,azure-mgmt-loganalytics,2022-06-23,4,2022-06-27,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2933,giakas,azure-mgmt-media,2022-06-21,6,2022-06-27,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,21,2022-06-15,12,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2949,isolenov,azure-mgmt-msi,2022-06-24,3,2022-06-27,1,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2956,saisankargochhayat,azure-mgmt-resourceconnector,2022-06-27,0,2022-06-28,0,confirm,new issue ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2957,JasonFreeberg, ,2022-06-28,0,2022-06-28,0,confirm,failed to modify the body of the new issue. Please modify manually
+Python,https://github.com/Azure/sdk-release-request/issues/2944,grizzlytheodore,azure-mgmt-compute,2022-06-23,5,2022-06-28,0,confirm,new comment.  <br> release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2930,jake-billings,azure-mgmt-extendedlocation,2022-06-20,8,2022-06-28,0,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2941,dabenhamMic,azure-mgmt-loganalytics,2022-06-23,5,2022-06-27,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2933,giakas,azure-mgmt-media,2022-06-21,7,2022-06-27,1,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2892,thomasp98296,azure-mgmt-monitor,2022-06-06,22,2022-06-15,13,confirm, 
+Python,https://github.com/Azure/sdk-release-request/issues/2949,isolenov,azure-mgmt-msi,2022-06-24,4,2022-06-28,0,confirm,new comment.  <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2956,saisankargochhayat,azure-mgmt-resourceconnector,2022-06-27,1,2022-06-28,1,confirm,new issue ! <br>
 Python,https://github.com/Azure/sdk-release-request/issues/2935,IliasKhan,azure-mgmt-sql,2022-06-22,6,2022-06-22,6,confirm, 
-Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,24,2022-06-28,0,confirm,  release date < 2 ! <br>
+Python,https://github.com/Azure/sdk-release-request/issues/2875,gargankit-microsoft,azure-mgmt-workloads,2022-06-03,25,2022-06-28,0,confirm,  release date < 2 ! <br>
