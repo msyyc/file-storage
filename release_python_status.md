@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#2957](https://github.com/Azure/sdk-release-request/issues/2957) | JasonFreeberg | azure-mgmt-web | Wzb123456789 | new issue. | 06-28 | 07-04 |  |
 | [#2956](https://github.com/Azure/sdk-release-request/issues/2956) | saisankargochhayat | azure-mgmt-resourceconnector | Wzb123456789 | new issue. | 06-27 | 07-07 |  |
 | [#2949](https://github.com/Azure/sdk-release-request/issues/2949) | isolenov | azure-mgmt-msi | Wzb123456789 | new comment. | 06-24 | 07-12 |  |
 | [#2944](https://github.com/Azure/sdk-release-request/issues/2944) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 | new comment. close to release date.  | 06-23 | 06-30 | 0 |
