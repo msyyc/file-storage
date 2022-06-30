@@ -1,10 +1,14 @@
 package name,assignee,created at,closed at,link
-azure-mgmt-digitaltwins,BigCat20196,2022-06-13,2022-06-28,https://github.com/Azure/sdk-release-request/issues/2914
-azure-mgmt-chaos,BigCat20196,2022-06-22,2022-06-28,https://github.com/Azure/sdk-release-request/issues/2937
-azure-mgmt-logic,msyyc,2022-06-09,2022-06-21,https://github.com/Azure/sdk-release-request/issues/2904
-azure-mgmt-logic,msyyc,2022-06-09,2022-06-13,https://github.com/Azure/sdk-release-request/issues/2904
-azure-mgmt-logic,msyyc,2022-06-09,2022-06-13,https://github.com/Azure/sdk-release-request/issues/2904
-azure-mgmt-logic,msyyc,2022-06-09,2022-06-13,https://github.com/Azure/sdk-release-request/issues/2904
+azure-mgmt-workloads,msyyc,2022-06-03,2022-06-30,https://github.com/Azure/sdk-release-request/issues/2875
+azure-mgmt-compute,Wzb123456789,2022-06-23,2022-06-30,https://github.com/Azure/sdk-release-request/issues/2944
+azure-mgmt-msi,Wzb123456789,2022-06-24,2022-06-29,https://github.com/Azure/sdk-release-request/issues/2949
+azure-mgmt-eventhub,BigCat20196,2022-06-06,2022-06-22,https://github.com/Azure/sdk-release-request/issues/2891
+azure-mgmt-consumption,Wzb123456789,2022-06-16,2022-06-21,https://github.com/Azure/sdk-release-request/issues/2925
+azure-mgmt-eventgrid,msyyc,2022-06-13,2022-06-21,https://github.com/Azure/sdk-release-request/issues/2908
+azure-mgmt-orbital,msyyc,2022-05-31,2022-06-16,https://github.com/Azure/sdk-release-request/issues/2857
+azure-mgmt-netapp,BigCat20196,2022-06-07,2022-06-16,https://github.com/Azure/sdk-release-request/issues/2897
+azure-mgmt-datafactory,msyyc,2022-06-15,2022-06-16,https://github.com/Azure/sdk-release-request/issues/2921
+azure-mgmt-nginx,BigCat20196,2022-06-09,2022-06-15,https://github.com/Azure/sdk-release-request/issues/2906
 azure-mgmt-logic,BigCat20196,2022-06-03,2022-06-13,https://github.com/Azure/sdk-release-request/issues/2883
 azure-mgmt-logic,msyyc,2022-06-09,2022-06-13,https://github.com/Azure/sdk-release-request/issues/2904
 azure-mgmt-compute,BigCat20196,2022-06-03,2022-06-11,https://github.com/Azure/sdk-release-request/issues/2881
