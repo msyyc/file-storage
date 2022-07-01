@@ -5,5 +5,5 @@
 | [#2956](https://github.com/Azure/sdk-release-request/issues/2956) | saisankargochhayat | azure-mgmt-resourceconnector | Wzb123456789 | new comment. | 06-27 | 07-07 |  |
 | [#2941](https://github.com/Azure/sdk-release-request/issues/2941) | dabenhamMic | azure-mgmt-loganalytics | BigCat20196 |  | 06-23 | 07-07 |  |
 | [#2935](https://github.com/Azure/sdk-release-request/issues/2935) | IliasKhan | azure-mgmt-sql | Wzb123456789 |  | 06-22 | 07-05 |  |
-| [#2933](https://github.com/Azure/sdk-release-request/issues/2933) | giakas | azure-mgmt-media | Wzb123456789 |  | 06-21 | 06-23 |  |
+| [#2933](https://github.com/Azure/sdk-release-request/issues/2933) | giakas | azure-mgmt-media | Wzb123456789 | new comment. | 06-21 | 06-23 |  |
 | [#2930](https://github.com/Azure/sdk-release-request/issues/2930) | jake-billings | azure-mgmt-extendedlocation | Wzb123456789 |  | 06-20 | 07-08 |  |
