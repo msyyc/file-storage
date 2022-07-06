@@ -2,8 +2,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#2980](https://github.com/Azure/sdk-release-request/issues/2980) | jaganpani |  | qiaozha | new issue. | 07-05 | 07-19 |  |
 | [#2976](https://github.com/Azure/sdk-release-request/issues/2976) | paujohn |  | qiaozha | new issue. close to release date.  | 07-05 | 07-08 | 1 |
-| [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao | new issue. new comment. | 07-04 | 09-30 |  |
-| [#2966](https://github.com/Azure/sdk-release-request/issues/2966) | deer-prudence |  | MaryGao | new comment. close to release date.  | 07-01 | 07-06 | 0 |
+| [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao |  | 07-04 | 09-30 |  |
+| [#2966](https://github.com/Azure/sdk-release-request/issues/2966) | deer-prudence |  | MaryGao | close to release date.  | 07-01 | 07-06 | 0 |
 | [#2962](https://github.com/Azure/sdk-release-request/issues/2962) | sauravbhattacharya001 |  | MaryGao |  | 06-29 | 07-13 |  |
 | [#2959](https://github.com/Azure/sdk-release-request/issues/2959) | JasonFreeberg |  | MaryGao | close to release date.  | 06-28 | 07-04 | -2 |
 | [#2955](https://github.com/Azure/sdk-release-request/issues/2955) | saisankargochhayat |  | MaryGao | close to release date.  | 06-27 | 07-07 | 0 |
