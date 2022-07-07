@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#22375](https://github.com/Azure/azure-sdk-for-js/issues/22375)|PolicyAssignment Invalid Type|question, customer-reported, Mgmt, needs-author-feedback|qiaozha||2022-06-27|
 |2|[#22373](https://github.com/Azure/azure-sdk-for-js/issues/22373)|@azure/arm-reservations client.quota.beginUpdateAndWait() provisioning state failed|question, customer-reported, Mgmt, ARM, needs-author-feedback|qiaozha, MaryGao|new comment|2022-06-27|
-|3|[#22351](https://github.com/Azure/azure-sdk-for-js/issues/22351)|`SecurityCenter.securityContacts.list` returns old payload|question, customer-reported, Mgmt, Security|qiaozha|new issue|2022-06-24|
+|3|[#22351](https://github.com/Azure/azure-sdk-for-js/issues/22351)|`SecurityCenter.securityContacts.list` returns old payload|question, customer-reported, Mgmt, Security, needs-team-attention, CXP Attention|qiaozha||2022-06-24|
 |4|[#22325](https://github.com/Azure/azure-sdk-for-js/issues/22325)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return settings|question, customer-reported, Mgmt, Monitor, needs-team-attention, CXP Attention|qiaozha||2022-06-22|
 |5|[#22017](https://github.com/Azure/azure-sdk-for-js/issues/22017)|Client classes aren't tree-shakable, resulting in unnecessarily large bundles|customer-reported, Mgmt, App Services, needs-author-feedback|qiaozha||2022-05-26|
 |6|[#21884](https://github.com/Azure/azure-sdk-for-js/issues/21884)|[@azure/arm-monitor] containsAny support for ActivityLogAlertLeafCondition|question, customer-reported, Mgmt, Monitor - ActivityLogs|qiaozha, MaryGao|new comment|2022-05-16|
