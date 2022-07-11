@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#29811](https://github.com/Azure/azure-sdk-for-java/issues/29811)|[BUG] Taking snapshot of data disk through SDK fails.|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-07-06|
+|1|[#29811](https://github.com/Azure/azure-sdk-for-java/issues/29811)|[BUG] Taking snapshot of data disk through SDK fails.|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-07-06|
 |2|[#29677](https://github.com/Azure/azure-sdk-for-java/issues/29677)|[QUERY]: Provide SDK API to monitor the status of deployment on Azure Web App slot|question, Mgmt, customer-reported|XiaofeiCao||2022-06-28|
 |3|[#29656](https://github.com/Azure/azure-sdk-for-java/issues/29656)|mgmt, update samples|Mgmt|XiaofeiCao||2022-06-27|
 |4|[#29640](https://github.com/Azure/azure-sdk-for-java/issues/29640)|[QUERY] Does iterableByPage enable for all resource provider?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-24|
