@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-extendedlocation,Wzb123456789,2022-06-20,2022-07-12,https://github.com/Azure/sdk-release-request/issues/2930
 azure-mgmt-education,BigCat20196,2022-06-29,2022-07-07,https://github.com/Azure/sdk-release-request/issues/2964
 azure-mgmt-storagecache,Wzb123456789,2022-07-05,2022-07-07,https://github.com/Azure/sdk-release-request/issues/2978
 azure-mgmt-sql,Wzb123456789,2022-06-22,2022-07-07,https://github.com/Azure/sdk-release-request/issues/2935
