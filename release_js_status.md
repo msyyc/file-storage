@@ -3,7 +3,7 @@
 | [#2997](https://github.com/Azure/sdk-release-request/issues/2997) | Noelin |  | MaryGao | new issue. | 07-14 | 08-01 |  |
 | [#2994](https://github.com/Azure/sdk-release-request/issues/2994) | MSakssharm |  | MaryGao | new issue. | 07-12 | 07-26 |  |
 | [#2991](https://github.com/Azure/sdk-release-request/issues/2991) | pjohari-ms |  | MaryGao |  | 07-12 | 07-25 |  |
-| [#2980](https://github.com/Azure/sdk-release-request/issues/2980) | jaganpani |  | qiaozha |  | 07-05 | 07-19 |  |
-| [#2976](https://github.com/Azure/sdk-release-request/issues/2976) | paujohn |  | qiaozha |  | 07-05 | 07-08 |  |
+| [#2980](https://github.com/Azure/sdk-release-request/issues/2980) | jaganpani |  | qiaozha | close to release date.  | 07-05 | 07-19 | 2 |
+| [#2976](https://github.com/Azure/sdk-release-request/issues/2976) | paujohn |  | qiaozha | new comment. | 07-05 | 07-08 |  |
 | [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao | new comment. | 07-04 | 09-30 |  |
 | [#2929](https://github.com/Azure/sdk-release-request/issues/2929) | jake-billings |  | qiaozha |  | 06-20 | 07-08 |  |
