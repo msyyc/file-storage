@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link
+azure-mgmt-automation,Wzb123456789,2022-07-05,2022-07-19,https://github.com/Azure/sdk-release-request/issues/2974
+azure-mgmt-automation,Wzb123456789,2022-07-12,2022-07-19,https://github.com/Azure/sdk-release-request/issues/2995
 azure-mgmt-rdbms,BigCat20196,2022-07-08,2022-07-13,https://github.com/Azure/sdk-release-request/issues/2986
 azure-mgmt-rdbms,Wzb123456789,2022-07-11,2022-07-13,https://github.com/Azure/sdk-release-request/issues/2987
 azure-mgmt-extendedlocation,Wzb123456789,2022-06-20,2022-07-12,https://github.com/Azure/sdk-release-request/issues/2930
