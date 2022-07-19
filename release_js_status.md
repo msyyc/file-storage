@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3005](https://github.com/Azure/sdk-release-request/issues/3005) | jinghzhu-msft |  | qiaozha | new issue. | 07-19 | 08-08 |  |
 | [#3003](https://github.com/Azure/sdk-release-request/issues/3003) | NickKouds |  | qiaozha | new issue. | 07-18 | 07-25 |  |
 | [#2997](https://github.com/Azure/sdk-release-request/issues/2997) | Noelin |  | MaryGao | new issue. | 07-14 | 08-01 |  |
 | [#2994](https://github.com/Azure/sdk-release-request/issues/2994) | MSakssharm |  | MaryGao | new issue. | 07-12 | 07-26 |  |
