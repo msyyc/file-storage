@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3021](https://github.com/Azure/sdk-release-request/issues/3021) | FumingZhang | azure-mgmt-containerservice | BigCat20196 | new issue. MultiAPI | 07-21 | 07-25 |  |
 | [#3018](https://github.com/Azure/sdk-release-request/issues/3018) | audunn | azure-mgmt-netapp | BigCat20196 | close to release date.  | 07-20 | 07-22 | 0 |
 | [#3010](https://github.com/Azure/sdk-release-request/issues/3010) | satravi | azure-mgmt-mobilenetwork | Wzb123456789 | new comment. | 07-19 | 07-27 |  |
 | [#3006](https://github.com/Azure/sdk-release-request/issues/3006) | jinghzhu-msft | azure-mgmt-dashboard | Wzb123456789 |  | 07-19 | 08-08 |  |
