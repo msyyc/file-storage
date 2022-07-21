@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3033](https://github.com/Azure/sdk-release-request/issues/3033) | Wzb123456789 | azure-mgmt-securityinsight | Wzb123456789 | Attention to inconsistent tag | 07-21 | 08-04 |  |
 | [#3029](https://github.com/Azure/sdk-release-request/issues/3029) | tbyfield | azure-mgmt-devcenter | Wzb123456789 | new issue. | 07-21 | 08-03 |  |
 | [#3026](https://github.com/Azure/sdk-release-request/issues/3026) | vishak-ms | azure-mgmt-recoveryservices | Wzb123456789 |  | 07-21 | 07-25 |  |
 | [#3021](https://github.com/Azure/sdk-release-request/issues/3021) | FumingZhang | azure-mgmt-containerservice | BigCat20196 | new comment. | 07-21 | 07-25 |  |
