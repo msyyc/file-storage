@@ -9,4 +9,4 @@
 | [#2994](https://github.com/Azure/sdk-release-request/issues/2994) | MSakssharm |  | MaryGao | new issue. | 07-12 | 07-26 |  |
 | [#2991](https://github.com/Azure/sdk-release-request/issues/2991) | pjohari-ms |  | MaryGao |  | 07-12 | 07-25 |  |
 | [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao | new comment. | 07-04 | 09-30 |  |
-| [#2929](https://github.com/Azure/sdk-release-request/issues/2929) | jake-billings |  | qiaozha | new comment. | 06-20 | 07-08 |  |
+| [#2929](https://github.com/Azure/sdk-release-request/issues/2929) | jake-billings |  | qiaozha |  | 06-20 | 07-08 |  |
