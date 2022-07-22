@@ -10,5 +10,5 @@
 | [#3008](https://github.com/Azure/sdk-release-request/issues/3008) | navba-MSFT |  | Alancere | new comment. | 07-19 | 08-02 |  |
 | [#3007](https://github.com/Azure/sdk-release-request/issues/3007) | jinghzhu-msft |  | Alancere |  | 07-19 | 08-08 |  |
 | [#3000](https://github.com/Azure/sdk-release-request/issues/3000) | Noelin |  | Alancere |  | 07-14 | 08-01 |  |
-| [#2990](https://github.com/Azure/sdk-release-request/issues/2990) | pjohari-ms |  | Alancere | new comment. close to release date.  | 07-12 | 07-25 | 2 |
+| [#2990](https://github.com/Azure/sdk-release-request/issues/2990) | pjohari-ms |  | Alancere | close to release date.  | 07-12 | 07-25 | 2 |
 | [#2970](https://github.com/Azure/sdk-release-request/issues/2970) | arpit-gagneja |  | Alancere | new comment. | 07-04 | 09-30 |  |
