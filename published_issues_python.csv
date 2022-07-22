@@ -1,4 +1,4 @@
-package name,assignee,created at,closed at,link,version,isStable
+package name,assignee,created at,closed at,link,version,is stable
 azure-mgmt-containerservice,BigCat20196,2022-07-06,2022-07-22,https://github.com/Azure/sdk-release-request/issues/2985,20.1.0,True
 azure-mgmt-cosmosdb,Wzb123456789,2022-07-12,2022-07-22,https://github.com/Azure/sdk-release-request/issues/2989,,
 azure-mgmt-containerservice,Wzb123456789,2022-07-20,2022-07-21,https://github.com/Azure/sdk-release-request/issues/3014,,
