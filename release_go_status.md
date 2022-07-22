@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3030](https://github.com/Azure/sdk-release-request/issues/3030) | tbyfield |  | Alancere | new issue. | 07-21 | 08-03 |  |
 | [#3027](https://github.com/Azure/sdk-release-request/issues/3027) | vishak-ms |  | Alancere | close to release date.  Attention to inconsistent tag | 07-21 | 07-25 | 2 |
-| [#3022](https://github.com/Azure/sdk-release-request/issues/3022) | FumingZhang |  | Alancere | new issue. close to release date.  | 07-21 | 07-25 | 2 |
+| [#3022](https://github.com/Azure/sdk-release-request/issues/3022) | FumingZhang |  | Alancere | close to release date.  | 07-21 | 07-25 | 2 |
 | [#3019](https://github.com/Azure/sdk-release-request/issues/3019) | audunn |  | Alancere | close to release date.  | 07-20 | 07-22 | 0 |
 | [#3016](https://github.com/Azure/sdk-release-request/issues/3016) | FumingZhang |  | Alancere | close to release date.  | 07-20 | 07-22 | 0 |
 | [#3013](https://github.com/Azure/sdk-release-request/issues/3013) | AntonioVT |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 07-19 | 07-22 | 0 |
