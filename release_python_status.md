@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3045](https://github.com/Azure/sdk-release-request/issues/3045) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 07-26 | 08-01 |  |
+| [#3045](https://github.com/Azure/sdk-release-request/issues/3045) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | MultiAPI | 07-26 | 08-01 |  |
 | [#3036](https://github.com/Azure/sdk-release-request/issues/3036) | Wzb123456789 | azure-mgmt-datalake-analytics | Wzb123456789 | new issue. | 07-26 | 08-09 |  |
 | [#3035](https://github.com/Azure/sdk-release-request/issues/3035) | thomasp98296 | azure-mgmt-monitor | Wzb123456789 |  | 07-25 | 08-08 |  |
 | [#3029](https://github.com/Azure/sdk-release-request/issues/3029) | tbyfield | azure-mgmt-devcenter | Wzb123456789 |  | 07-21 | 08-03 |  |
