@@ -1,11 +1,11 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
-|2|[#29811](https://github.com/Azure/azure-sdk-for-java/issues/29811)|[BUG] Taking snapshot of data disk through SDK fails.|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-07-06|
-|3|[#29677](https://github.com/Azure/azure-sdk-for-java/issues/29677)|[QUERY]: Provide SDK API to monitor the status of deployment on Azure Web App slot|question, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2022-06-28|
-|4|[#29656](https://github.com/Azure/azure-sdk-for-java/issues/29656)|mgmt, update samples|Mgmt|XiaofeiCao||2022-06-27|
-|5|[#29640](https://github.com/Azure/azure-sdk-for-java/issues/29640)|[QUERY] Does iterableByPage enable for all resource provider?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-24|
-|6|[#29248](https://github.com/Azure/azure-sdk-for-java/issues/29248)|ApiErrorException thrown for invalid $skiptoken when listing large (>=250 instances) Virtual Machine Scaleset VMs|question, Compute - VMSS, Mgmt, Azure.Core, customer-reported, needs-team-attention|XiaofeiCao, mssfang||2022-06-06|
+|1|[#30152](https://github.com/Azure/azure-sdk-for-java/issues/30152)|[BUG] ARM getLogContent() doesn't return the full log contents.|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-07-27|
+|2|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-07-26|
+|3|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
+|4|[#29811](https://github.com/Azure/azure-sdk-for-java/issues/29811)|[BUG] Taking snapshot of data disk through SDK fails.|question, ARM, Mgmt, customer-reported, planning|XiaofeiCao||2022-07-06|
+|5|[#29656](https://github.com/Azure/azure-sdk-for-java/issues/29656)|mgmt, update samples|Mgmt|XiaofeiCao||2022-06-27|
+|6|[#29640](https://github.com/Azure/azure-sdk-for-java/issues/29640)|[QUERY] Does iterableByPage enable for all resource provider?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-24|
 |7|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
 |8|[#28776](https://github.com/Azure/azure-sdk-for-java/issues/28776)|mgmt, appplatform support custom persistent storage|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-05-11|
 |9|[#28642](https://github.com/Azure/azure-sdk-for-java/issues/28642)|Getting SSLException within Azure Private Link|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-05-04|
