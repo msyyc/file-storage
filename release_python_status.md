@@ -3,7 +3,6 @@
 | [#3052](https://github.com/Azure/sdk-release-request/issues/3052) | pjohari-ms | azure-mgmt-cosmosdb | BigCat20196 |  | 07-28 | 08-11 |  |
 | [#3050](https://github.com/Azure/sdk-release-request/issues/3050) | htippanaboya | azure-mgmt-network | Wzb123456789 | new issue. | 07-27 | 08-03 |  |
 | [#3045](https://github.com/Azure/sdk-release-request/issues/3045) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new comment. close to release date.  | 07-26 | 08-01 | 2 |
-| [#3036](https://github.com/Azure/sdk-release-request/issues/3036) | Wzb123456789 | azure-mgmt-datalake-analytics | Wzb123456789 |  | 07-26 | 08-09 |  |
 | [#3035](https://github.com/Azure/sdk-release-request/issues/3035) | thomasp98296 | azure-mgmt-monitor | Wzb123456789 |  | 07-25 | 08-08 |  |
 | [#3029](https://github.com/Azure/sdk-release-request/issues/3029) | tbyfield | azure-mgmt-devcenter | Wzb123456789 | new comment. on time | 07-21 | 08-15 |  |
 | [#3018](https://github.com/Azure/sdk-release-request/issues/3018) | audunn | azure-mgmt-netapp | BigCat20196 | new comment. | 07-20 | 07-22 |  |

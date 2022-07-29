@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-datalake-analytics,Wzb123456789,2022-07-26,2022-07-29,https://github.com/Azure/sdk-release-request/issues/3036,1.0.0b1,
 azure-mgmt-recoveryservices,Wzb123456789,2022-07-21,2022-07-28,https://github.com/Azure/sdk-release-request/issues/3026,2.1.0,True
 azure-mgmt-securityinsight,Wzb123456789,2022-07-21,2022-07-26,https://github.com/Azure/sdk-release-request/issues/3033,1.0.0,True
 azure-mgmt-containerservice,BigCat20196,2022-07-21,2022-07-25,https://github.com/Azure/sdk-release-request/issues/3021,20.2.0,True
