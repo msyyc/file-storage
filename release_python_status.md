@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3052](https://github.com/Azure/sdk-release-request/issues/3052) | pjohari-ms | azure-mgmt-cosmosdb | BigCat20196 | new issue. | 07-28 | 08-11 |  |
+| [#3052](https://github.com/Azure/sdk-release-request/issues/3052) | pjohari-ms | azure-mgmt-cosmosdb | BigCat20196 |  | 07-28 | 08-11 |  |
 | [#3050](https://github.com/Azure/sdk-release-request/issues/3050) | htippanaboya | azure-mgmt-network | Wzb123456789 | new issue. MultiAPI | 07-27 | 08-03 |  |
 | [#3045](https://github.com/Azure/sdk-release-request/issues/3045) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new comment. close to release date.  | 07-26 | 08-01 | 2 |
 | [#3036](https://github.com/Azure/sdk-release-request/issues/3036) | Wzb123456789 | azure-mgmt-datalake-analytics | Wzb123456789 |  | 07-26 | 08-09 |  |
