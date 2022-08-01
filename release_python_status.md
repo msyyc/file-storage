@@ -1,8 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3053](https://github.com/Azure/sdk-release-request/issues/3053) | AndrewCS149 | azure-mgmt-automanage | BigCat20196 | close to release date.  Attention to inconsistent tag | 07-29 | 08-02 | 1 |
+| [#3053](https://github.com/Azure/sdk-release-request/issues/3053) | AndrewCS149 | azure-mgmt-automanage | BigCat20196 | close to release date.  Attention to inconsistent tag | 07-29 | 08-02 | 0 |
 | [#3052](https://github.com/Azure/sdk-release-request/issues/3052) | pjohari-ms | azure-mgmt-cosmosdb | BigCat20196 |  | 07-28 | 08-11 |  |
-| [#3050](https://github.com/Azure/sdk-release-request/issues/3050) | htippanaboya | azure-mgmt-network | Wzb123456789 | close to release date.  | 07-27 | 08-03 | 2 |
+| [#3050](https://github.com/Azure/sdk-release-request/issues/3050) | htippanaboya | azure-mgmt-network | Wzb123456789 | close to release date.  | 07-27 | 08-03 | 1 |
 | [#3045](https://github.com/Azure/sdk-release-request/issues/3045) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new comment. close to release date.  | 07-26 | 08-01 | 0 |
 | [#3035](https://github.com/Azure/sdk-release-request/issues/3035) | thomasp98296 | azure-mgmt-monitor | Wzb123456789 |  | 07-25 | 08-08 |  |
 | [#3029](https://github.com/Azure/sdk-release-request/issues/3029) | tbyfield | azure-mgmt-devcenter | Wzb123456789 | new comment. on time | 07-21 | 08-15 |  |
