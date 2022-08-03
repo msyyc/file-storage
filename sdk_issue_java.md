@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao||2022-08-01|
 |2|[#30152](https://github.com/Azure/azure-sdk-for-java/issues/30152)|[BUG] ARM getLogContent() doesn't return the full log contents.|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-07-27|
-|3|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-07-26|
+|3|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
 |4|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
 |5|[#29811](https://github.com/Azure/azure-sdk-for-java/issues/29811)|[BUG] Taking snapshot of data disk through SDK fails.|question, ARM, Mgmt, customer-reported, planning|XiaofeiCao||2022-07-06|
 |6|[#29640](https://github.com/Azure/azure-sdk-for-java/issues/29640)|[QUERY] Does iterableByPage enable for all resource provider?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2022-06-24|
