@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-network,Wzb123456789,2022-07-27,2022-08-08,https://github.com/Azure/sdk-release-request/issues/3050,21.0.0,True
 azure-mgmt-fluidrelay,Wzb123456789,2022-07-14,2022-08-04,https://github.com/Azure/sdk-release-request/issues/2999,1.0.0,True
 azure-mgmt-cosmosdb,BigCat20196,2022-07-28,2022-08-03,https://github.com/Azure/sdk-release-request/issues/3052,8.0.0b1,
 azure-mgmt-netapp,BigCat20196,2022-07-20,2022-08-02,https://github.com/Azure/sdk-release-request/issues/3018,8.1.0,True
