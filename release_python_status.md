@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3070](https://github.com/Azure/sdk-release-request/issues/3070) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new issue. close to release date.  MultiAPI | 08-08 | 08-11 | 2 |
+| [#3070](https://github.com/Azure/sdk-release-request/issues/3070) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new comment. close to release date.  | 08-08 | 08-11 | 2 |
 | [#3066](https://github.com/Azure/sdk-release-request/issues/3066) | jinghzhu-msft | azure-mgmt-dashboard | Wzb123456789 |  | 08-08 | 08-23 |  |
 | [#3065](https://github.com/Azure/sdk-release-request/issues/3065) | subbartt | azure-mgmt-connectedvmware | Wzb123456789 |  | 08-08 | 08-22 |  |
 | [#3059](https://github.com/Azure/sdk-release-request/issues/3059) | damodaravadhani | azure-mgmt-servicebus | BigCat20196 | close to release date.  | 08-04 | 08-10 | 1 |
