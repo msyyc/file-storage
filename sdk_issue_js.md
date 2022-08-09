@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha||2022-07-29|
 |2|[#22351](https://github.com/Azure/azure-sdk-for-js/issues/22351)|`SecurityCenter.securityContacts.list` returns old payload|question, customer-reported, Mgmt, Security, needs-team-attention, CXP Attention|qiaozha||2022-06-24|
-|3|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|qiaozha, lirenhe||2022-04-27|
+|3|[#21638](https://github.com/Azure/azure-sdk-for-js/issues/21638)|Generated management libraries using locale links|Mgmt, Mgmt-EngSys|lirenhe, qiaozha||2022-04-27|
 |4|[#21587](https://github.com/Azure/azure-sdk-for-js/issues/21587)|Generate the rest API orders for debugging purpose when calling something from azure sdk|question, customer-reported, Mgmt, needs-team-attention|qiaozha|new comment|2022-04-25|
 |5|[#21210](https://github.com/Azure/azure-sdk-for-js/issues/21210)|@azure/arm-authorization beta release missing roleDefinitions|question, customer-reported, Mgmt, Service Attention, Authorization, needs-team-attention|qiaozha||2022-04-05|
 |6|[#21116](https://github.com/Azure/azure-sdk-for-js/issues/21116)|webApps.beginInstallSiteExtensionAndWait always returns a 400 error due to missing request body in the API spec|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha||2022-03-30|
