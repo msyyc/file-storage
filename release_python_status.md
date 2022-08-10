@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3081](https://github.com/Azure/sdk-release-request/issues/3081) | shenmuxiaosen | azure-mgmt-appconfiguration | msyyc | new issue. close to release date.  MultiAPI | 08-09 | 08-11 | 0 |
+| [#3081](https://github.com/Azure/sdk-release-request/issues/3081) | shenmuxiaosen | azure-mgmt-appconfiguration | msyyc | close to release date.  | 08-09 | 08-11 | 0 |
 | [#3080](https://github.com/Azure/sdk-release-request/issues/3080) | damodaravadhani | azure-mgmt-servicebus | msyyc | close to release date.  MultiAPI | 08-09 | 08-11 | 0 |
 | [#3078](https://github.com/Azure/sdk-release-request/issues/3078) | dpokluda | azure-mgmt-deviceupdate | msyyc |  | 08-09 | 08-23 |  |
 | [#3073](https://github.com/Azure/sdk-release-request/issues/3073) | blueww | azure-mgmt-storage | msyyc | new comment. | 08-09 | 08-23 |  |
