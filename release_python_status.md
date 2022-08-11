@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3082](https://github.com/Azure/sdk-release-request/issues/3082) | msyyc | azure-mgmt-cosmosdb | msyyc |  | 08-11 | 08-25 |  |
 | [#3081](https://github.com/Azure/sdk-release-request/issues/3081) | shenmuxiaosen | azure-mgmt-appconfiguration | msyyc | close to release date.  | 08-09 | 08-11 | 0 |
 | [#3078](https://github.com/Azure/sdk-release-request/issues/3078) | dpokluda | azure-mgmt-deviceupdate | msyyc |  | 08-09 | 08-23 |  |
 | [#3066](https://github.com/Azure/sdk-release-request/issues/3066) | jinghzhu-msft | azure-mgmt-dashboard | msyyc |  | 08-08 | 08-23 |  |
