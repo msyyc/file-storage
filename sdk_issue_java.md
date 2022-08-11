@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#30374](https://github.com/Azure/azure-sdk-for-java/issues/30374)|[FEATURE REQ] mgmt, AKS, support beginCreateAgentPool|Mgmt|XiaofeiCao||2022-08-10|
 |2|[#30327](https://github.com/Azure/azure-sdk-for-java/issues/30327)|[QUERY] NoSuchMethodError for Azure Management Java SDK|question, API Management, Mgmt, customer-reported, dependency-issue-jackson|weidongxu-microsoft||2022-08-08|
-|3|[#30287](https://github.com/Azure/azure-sdk-for-java/issues/30287)|[BUG] AppServicePlan numberOfWebApps and operatingSystem() returns wrong values|question, App Services, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft|new comment|2022-08-05|
+|3|[#30287](https://github.com/Azure/azure-sdk-for-java/issues/30287)|[BUG] AppServicePlan numberOfWebApps and operatingSystem() returns wrong values|question, App Services, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft||2022-08-05|
 |4|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao|new comment|2022-08-01|
 |5|[#30152](https://github.com/Azure/azure-sdk-for-java/issues/30152)|[BUG] ARM getLogContent() doesn't return the full log contents.|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-07-27|
 |6|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
