@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3085](https://github.com/Azure/sdk-release-request/issues/3085) | firstaye-zz |  | weidongxu-microsoft | new issue. | 08-11 | 08-22 |  |
 | [#3079](https://github.com/Azure/sdk-release-request/issues/3079) | dpokluda |  | weidongxu-microsoft | new issue. | 08-09 | 08-23 |  |
-| [#3072](https://github.com/Azure/sdk-release-request/issues/3072) | blueww |  | weidongxu-microsoft | new issue. | 08-09 | 08-23 |  |
+| [#3072](https://github.com/Azure/sdk-release-request/issues/3072) | blueww |  | weidongxu-microsoft |  | 08-09 | 08-23 |  |
 | [#3069](https://github.com/Azure/sdk-release-request/issues/3069) | jinghzhu-msft |  | weidongxu-microsoft | new issue. | 08-08 | 08-23 |  |
 | [#3063](https://github.com/Azure/sdk-release-request/issues/3063) | subbartt |  | XiaofeiCao | new issue. | 08-08 | 08-22 |  |
 | [#3048](https://github.com/Azure/sdk-release-request/issues/3048) | htippanaboya |  | haolingdong-msft | new issue. | 07-27 | 08-03 |  |
