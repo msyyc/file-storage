@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3091](https://github.com/Azure/sdk-release-request/issues/3091) | khaledaboasbe |  | haolingdong-msft | Attention to inconsistent tag | 08-15 | 08-29 |  |
+| [#3091](https://github.com/Azure/sdk-release-request/issues/3091) | khaledaboasbe |  | haolingdong-msft | new comment. Attention to inconsistent tag | 08-15 | 08-29 |  |
 | [#3088](https://github.com/Azure/sdk-release-request/issues/3088) | usvoyager |  | haolingdong-msft | new issue. | 08-12 | 08-29 |  |
 | [#3085](https://github.com/Azure/sdk-release-request/issues/3085) | firstaye-zz |  | weidongxu-microsoft | new issue. | 08-11 | 08-22 |  |
 | [#3079](https://github.com/Azure/sdk-release-request/issues/3079) | dpokluda |  | weidongxu-microsoft |  | 08-09 | 08-23 |  |
