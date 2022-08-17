@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3094](https://github.com/Azure/sdk-release-request/issues/3094) | BigCat20196 | azure-mgmt-network | BigCat20196 | new issue. MultiAPI | 08-17 | 08-31 |  |
 | [#3090](https://github.com/Azure/sdk-release-request/issues/3090) | khaledaboasbe | azure-mgmt-alertsmanagement | BigCat20196 | Hold on | 08-15 | 08-29 |  |
 | [#3087](https://github.com/Azure/sdk-release-request/issues/3087) | usvoyager | azure-mgmt-communication | BigCat20196 |  | 08-12 | 08-29 |  |
 | [#3083](https://github.com/Azure/sdk-release-request/issues/3083) | firstaye-zz | azure-mgmt-iothub | BigCat20196 |  | 08-11 | 08-22 |  |
