@@ -1,5 +1,4 @@
 package name,assignee,created at,closed at,link,version,is stable
-azure-mgmt-containerservice,BigCat20196,2022-07-06,2022-08-17,https://github.com/Azure/sdk-release-request/issues/2985,20.2.0,True
 azure-mgmt-network,BigCat20196,2022-08-17,2022-08-17,https://github.com/Azure/sdk-release-request/issues/3094,21.0.1,True
 azure-mgmt-dashboard,Wzb123456789,2022-08-08,2022-08-17,https://github.com/Azure/sdk-release-request/issues/3066,1.0.0,True
 azure-mgmt-connectedvmware,msyyc,2022-08-08,2022-08-15,https://github.com/Azure/sdk-release-request/issues/3065,1.0.0b2,
