@@ -1,11 +1,11 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3100](https://github.com/Azure/sdk-release-request/issues/3100) | FumingZhang |  | Alancere | new comment. close to release date.  | 08-18 | 08-22 | 2 |
+| [#3100](https://github.com/Azure/sdk-release-request/issues/3100) | FumingZhang |  | Alancere | close to release date.  | 08-18 | 08-22 | 1 |
 | [#3099](https://github.com/Azure/sdk-release-request/issues/3099) | limingu |  | Alancere |  | 08-18 | 08-31 |  |
-| [#3092](https://github.com/Azure/sdk-release-request/issues/3092) | khaledaboasbe |  | Alancere | Attention to inconsistent tag | 08-15 | 08-29 |  |
+| [#3092](https://github.com/Azure/sdk-release-request/issues/3092) | khaledaboasbe |  | Alancere |  | 08-15 | 08-29 |  |
 | [#3086](https://github.com/Azure/sdk-release-request/issues/3086) | usvoyager |  | Alancere |  | 08-12 | 08-29 |  |
-| [#3077](https://github.com/Azure/sdk-release-request/issues/3077) | dpokluda |  | Alancere |  | 08-09 | 08-23 |  |
-| [#3075](https://github.com/Azure/sdk-release-request/issues/3075) | blueww |  | Alancere |  | 08-09 | 08-23 |  |
-| [#3067](https://github.com/Azure/sdk-release-request/issues/3067) | jinghzhu-msft |  | Alancere | new comment. | 08-08 | 08-23 |  |
-| [#3062](https://github.com/Azure/sdk-release-request/issues/3062) | subbartt |  | Alancere | close to release date.  | 08-08 | 08-22 | 2 |
+| [#3077](https://github.com/Azure/sdk-release-request/issues/3077) | dpokluda |  | Alancere | close to release date.  | 08-09 | 08-23 | 2 |
+| [#3075](https://github.com/Azure/sdk-release-request/issues/3075) | blueww |  | Alancere | close to release date.  | 08-09 | 08-23 | 2 |
+| [#3067](https://github.com/Azure/sdk-release-request/issues/3067) | jinghzhu-msft |  | Alancere | new comment. close to release date.  | 08-08 | 08-23 | 2 |
+| [#3062](https://github.com/Azure/sdk-release-request/issues/3062) | subbartt |  | Alancere | close to release date.  | 08-08 | 08-22 | 1 |
 | [#2970](https://github.com/Azure/sdk-release-request/issues/2970) | arpit-gagneja |  | Alancere | new comment. | 07-04 | 09-30 |  |
