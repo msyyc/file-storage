@@ -4,7 +4,7 @@
 |2|[#25484](https://github.com/Azure/azure-sdk-for-python/issues/25484)|FlowLog class attribute values not populated|question, Network, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|no reply > 7|2022-08-01|
 |3|[#24915](https://github.com/Azure/azure-sdk-for-python/issues/24915)|AppInsights, ARM - getting/creating Annotations causes a deserialization error|bug, Service Attention, Mgmt, Monitor - ApplicationInsights, no-recent-activity, needs-team-attention, needs-author-feedback|Wzb123456789, msyyc||2022-06-21|
 |4|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|no reply > 7|2022-06-07|
-|5|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
+|5|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|msyyc, scbedd|new comment|2022-05-11|
 |6|[#23488](https://github.com/Azure/azure-sdk-for-python/issues/23488)|dataflow Reference is missing in Pipeline.get|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2022-03-13|
 |7|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |8|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
@@ -18,5 +18,5 @@
 |16|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|BigCat20196, msyyc|new comment|2021-08-16|
 |17|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
 |18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc|new comment|2021-04-05|
-|19|[#11149](https://github.com/Azure/azure-sdk-for-python/issues/11149)|azure-mgmt-network is huge|question, Service Attention, Network - Virtual Network, Mgmt, customer-reported, needs-team-attention|MikhailTryakhov, msyyc|new comment|2020-04-30|
+|19|[#11149](https://github.com/Azure/azure-sdk-for-python/issues/11149)|azure-mgmt-network is huge|question, Service Attention, Network - Virtual Network, Mgmt, customer-reported, needs-team-attention|msyyc, MikhailTryakhov|new comment|2020-04-30|
 |20|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
