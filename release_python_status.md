@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3105](https://github.com/Azure/sdk-release-request/issues/3105) | priyankajayaswal1 | azure-mgmt-agrifood | BigCat20196 | new issue. | 08-22 | 09-05 |  |
 | [#3097](https://github.com/Azure/sdk-release-request/issues/3097) | limingu | azure-mgmt-nginx | Wzb123456789 |  | 08-18 | 08-31 |  |
 | [#3090](https://github.com/Azure/sdk-release-request/issues/3090) | khaledaboasbe | azure-mgmt-alertsmanagement | BigCat20196 |  | 08-15 | 08-29 |  |
 | [#3087](https://github.com/Azure/sdk-release-request/issues/3087) | usvoyager | azure-mgmt-communication | BigCat20196 |  | 08-12 | 08-29 |  |
