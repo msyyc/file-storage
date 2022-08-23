@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3105](https://github.com/Azure/sdk-release-request/issues/3105) | priyankajayaswal1 | azure-mgmt-agrifood | BigCat20196 |  | 08-22 | 09-05 |  |
 | [#3097](https://github.com/Azure/sdk-release-request/issues/3097) | limingu | azure-mgmt-nginx | Wzb123456789 |  | 08-18 | 08-31 |  |
-| [#3090](https://github.com/Azure/sdk-release-request/issues/3090) | khaledaboasbe | azure-mgmt-alertsmanagement | BigCat20196 |  | 08-15 | 08-29 |  |
+| [#3090](https://github.com/Azure/sdk-release-request/issues/3090) | khaledaboasbe | azure-mgmt-alertsmanagement | BigCat20196 | new comment. | 08-15 | 08-29 |  |
 | [#3087](https://github.com/Azure/sdk-release-request/issues/3087) | usvoyager | azure-mgmt-communication | BigCat20196 |  | 08-12 | 08-29 |  |
 | [#3083](https://github.com/Azure/sdk-release-request/issues/3083) | firstaye-zz | azure-mgmt-iothub | BigCat20196 | new comment. close to release date.  | 08-11 | 08-22 | -1 |
 | [#3081](https://github.com/Azure/sdk-release-request/issues/3081) | shenmuxiaosen | azure-mgmt-appconfiguration | Wzb123456789 |  | 08-09 | 08-11 |  |
