@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3113](https://github.com/Azure/sdk-release-request/issues/3113) | navba-MSFT | azure-mgmt-containerinstance | Wzb123456789 | Attention to inconsistent tag | 08-24 | 09-07 |  |
 | [#3109](https://github.com/Azure/sdk-release-request/issues/3109) | kamperiadis | azure-mgmt-labservices | BigCat20196 | close to release date.  | 08-23 | 08-25 | 0 |
 | [#3108](https://github.com/Azure/sdk-release-request/issues/3108) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | Wzb123456789 | close to release date.  MultiAPI | 08-23 | 08-25 | 0 |
 | [#3105](https://github.com/Azure/sdk-release-request/issues/3105) | priyankajayaswal1 | azure-mgmt-agrifood | BigCat20196 |  | 08-22 | 09-05 |  |
