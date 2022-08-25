@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3120](https://github.com/Azure/sdk-release-request/issues/3120) | FumingZhang |  | Alancere | close to release date.  | 08-24 | 08-26 | 0 |
-| [#3114](https://github.com/Azure/sdk-release-request/issues/3114) | navba-MSFT |  | Alancere | new comment. Attention to inconsistent tag | 08-24 | 09-07 |  |
+| [#3114](https://github.com/Azure/sdk-release-request/issues/3114) | navba-MSFT |  | Alancere | new comment. | 08-24 | 09-07 |  |
 | [#3112](https://github.com/Azure/sdk-release-request/issues/3112) | kamperiadis |  | Alancere | close to release date.  | 08-23 | 08-25 | 0 |
 | [#3103](https://github.com/Azure/sdk-release-request/issues/3103) | priyankajayaswal1 |  | Alancere |  | 08-22 | 09-05 |  |
 | [#3099](https://github.com/Azure/sdk-release-request/issues/3099) | limingu |  | Alancere |  | 08-18 | 08-31 |  |
