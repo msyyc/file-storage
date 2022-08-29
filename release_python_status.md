@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3123](https://github.com/Azure/sdk-release-request/issues/3123) | Wzb123456789 | azure-mgmt-resourcegraph | Wzb123456789 | Attention to inconsistent tag | 08-29 | 09-12 |  |
 | [#3121](https://github.com/Azure/sdk-release-request/issues/3121) | Ochirkhuyag | azure-mgmt-subscription | BigCat20196 | close to release date.  | 08-24 | 08-29 | 0 |
-| [#3113](https://github.com/Azure/sdk-release-request/issues/3113) | navba-MSFT | azure-mgmt-containerinstance | Wzb123456789 |  | 08-24 | 09-07 |  |
+| [#3113](https://github.com/Azure/sdk-release-request/issues/3113) | navba-MSFT | azure-mgmt-containerinstance | Wzb123456789 | new comment. | 08-24 | 09-07 |  |
 | [#3105](https://github.com/Azure/sdk-release-request/issues/3105) | priyankajayaswal1 | azure-mgmt-agrifood | BigCat20196 |  | 08-22 | 09-05 |  |
 | [#3095](https://github.com/Azure/sdk-release-request/issues/3095) | BigCat20196 | azure-mgmt-eventgrid | Wzb123456789 | close to release date.  | 08-17 | 08-31 | 1 |
 | [#3087](https://github.com/Azure/sdk-release-request/issues/3087) | usvoyager | azure-mgmt-communication | BigCat20196 | close to release date.  | 08-12 | 08-29 | 0 |
