@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resourcegraph,Wzb123456789,2022-08-29,2022-08-30,https://github.com/Azure/sdk-release-request/issues/3123,8.1.0b2,
 azure-mgmt-containerinstance,Wzb123456789,2022-08-24,2022-08-30,https://github.com/Azure/sdk-release-request/issues/3113,10.0.0,True
 azure-mgmt-subscription,BigCat20196,2022-08-24,2022-08-30,https://github.com/Azure/sdk-release-request/issues/3121,3.1.0,True
 azure-mgmt-appconfiguration,Wzb123456789,2022-08-09,2022-08-30,https://github.com/Azure/sdk-release-request/issues/3081,2.2.0,True
