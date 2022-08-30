@@ -2,5 +2,4 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3126](https://github.com/Azure/sdk-release-request/issues/3126) | ashwinisingh01 |  | XiaofeiCao | close to release date.  Attention to inconsistent tag | 08-29 | 09-02 | 2 |
 | [#3104](https://github.com/Azure/sdk-release-request/issues/3104) | priyankajayaswal1 |  | weidongxu-microsoft |  | 08-22 | 09-05 |  |
-| [#3096](https://github.com/Azure/sdk-release-request/issues/3096) | limingu |  | XiaofeiCao | new issue. close to release date.  | 08-18 | 08-31 | 0 |
 | [#2984](https://github.com/Azure/sdk-release-request/issues/2984) | arpit-gagneja |  | weidongxu-microsoft |  | 07-05 | 09-30 |  |
