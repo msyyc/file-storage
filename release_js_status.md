@@ -1,10 +1,11 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3125](https://github.com/Azure/sdk-release-request/issues/3125) | ashwinisingh01 |  | qiaozha | close to release date.  Attention to inconsistent tag | 08-29 | 09-02 | 2 |
+| [#3128](https://github.com/Azure/sdk-release-request/issues/3128) | austintolani |  | qiaozha | close to release date.  Attention to inconsistent tag | 08-30 | 09-01 | 0 |
+| [#3125](https://github.com/Azure/sdk-release-request/issues/3125) | ashwinisingh01 |  | qiaozha | close to release date.  Attention to inconsistent tag | 08-29 | 09-02 | 1 |
 | [#3119](https://github.com/Azure/sdk-release-request/issues/3119) | FumingZhang |  | MaryGao |  | 08-24 | 08-26 |  |
 | [#3116](https://github.com/Azure/sdk-release-request/issues/3116) | navba-MSFT |  | MaryGao | Attention to inconsistent tag | 08-24 | 09-07 |  |
 | [#3111](https://github.com/Azure/sdk-release-request/issues/3111) | kamperiadis |  | MaryGao |  | 08-23 | 08-25 |  |
 | [#3106](https://github.com/Azure/sdk-release-request/issues/3106) | priyankajayaswal1 |  | MaryGao |  | 08-22 | 09-05 |  |
 | [#3098](https://github.com/Azure/sdk-release-request/issues/3098) | limingu |  | qiaozha | new comment. close to release date.  | 08-18 | 08-31 | 0 |
-| [#3089](https://github.com/Azure/sdk-release-request/issues/3089) | usvoyager |  | MaryGao | close to release date.  | 08-12 | 08-29 | -1 |
+| [#3089](https://github.com/Azure/sdk-release-request/issues/3089) | usvoyager |  | MaryGao | close to release date.  | 08-12 | 08-29 | -2 |
 | [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao | new comment. | 07-04 | 09-30 |  |
