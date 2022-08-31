@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#25857](https://github.com/Azure/azure-sdk-for-python/issues/25857)|Classifier missing Python3.9|bug, Mgmt, customer-reported, Resource Graph, needs-team-attention, CXP Attention|msyyc||2022-08-25|
+|1|[#25857](https://github.com/Azure/azure-sdk-for-python/issues/25857)|Classifier missing Python3.9|bug, Mgmt, customer-reported, Resource Graph, needs-author-feedback, CXP Attention|msyyc||2022-08-25|
 |2|[#25739](https://github.com/Azure/azure-sdk-for-python/issues/25739)|explore management api link returns 404|Docs, question, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|no reply > 7|2022-08-17|
-|3|[#25273](https://github.com/Azure/azure-sdk-for-python/issues/25273)|custom_headers parameter to NetworkInterfacesOperations._create_or_update_initial|question, Network, Mgmt, customer-reported, needs-team-attention|Wzb123456789, msyyc|new comment|2022-07-18|
+|3|[#25273](https://github.com/Azure/azure-sdk-for-python/issues/25273)|custom_headers parameter to NetworkInterfacesOperations._create_or_update_initial|question, Network, Mgmt, customer-reported, needs-team-attention|Wzb123456789, msyyc||2022-07-18|
 |4|[#24915](https://github.com/Azure/azure-sdk-for-python/issues/24915)|AppInsights, ARM - getting/creating Annotations causes a deserialization error|bug, Service Attention, Mgmt, Monitor - ApplicationInsights, no-recent-activity, needs-team-attention, needs-author-feedback|Wzb123456789, msyyc|new comment|2022-06-21|
 |5|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|no reply > 7|2022-06-07|
 |6|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
