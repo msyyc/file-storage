@@ -1,7 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3134](https://github.com/Azure/sdk-release-request/issues/3134) | giakas |  | qiaozha | new issue. | 09-01 | 09-06 |  |
-| [#3128](https://github.com/Azure/sdk-release-request/issues/3128) | austintolani |  | qiaozha | close to release date.  Attention to inconsistent tag | 08-30 | 09-01 | -1 |
-| [#3125](https://github.com/Azure/sdk-release-request/issues/3125) | ashwinisingh01 |  | qiaozha | close to release date.  Attention to inconsistent tag | 08-29 | 09-02 | 0 |
-| [#3106](https://github.com/Azure/sdk-release-request/issues/3106) | priyankajayaswal1 |  | MaryGao | new comment. close to release date.  | 08-22 | 09-05 | 2 |
+| [#3136](https://github.com/Azure/sdk-release-request/issues/3136) | sauravbhattacharya001 |  | qiaozha | new issue. | 09-02 | 10-17 |  |
+| [#3134](https://github.com/Azure/sdk-release-request/issues/3134) | giakas |  | qiaozha | new issue. close to release date.  | 09-01 | 09-06 | 2 |
+| [#3128](https://github.com/Azure/sdk-release-request/issues/3128) | austintolani |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 08-30 | 09-01 | -2 |
+| [#3125](https://github.com/Azure/sdk-release-request/issues/3125) | ashwinisingh01 |  | qiaozha | close to release date.  Attention to inconsistent tag | 08-29 | 09-02 | -1 |
+| [#3106](https://github.com/Azure/sdk-release-request/issues/3106) | priyankajayaswal1 |  | MaryGao | new comment. close to release date.  | 08-22 | 09-05 | 1 |
 | [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao | new comment. | 07-04 | 09-30 |  |
