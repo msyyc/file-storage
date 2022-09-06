@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#30684](https://github.com/Azure/azure-sdk-for-java/issues/30684)|[BUG] Null Pointer Exception during alertRules().activityLogAlerts()|bug, ARM, Mgmt, customer-reported|XiaofeiCao||2022-08-29|
 |2|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|XiaofeiCao||2022-08-12|
-|3|[#30287](https://github.com/Azure/azure-sdk-for-java/issues/30287)|[BUG] AppServicePlan numberOfWebApps and operatingSystem() returns wrong values|question, App Services, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention, needs-author-feedback|weidongxu-microsoft, XiaofeiCao||2022-08-05|
+|3|[#30287](https://github.com/Azure/azure-sdk-for-java/issues/30287)|[BUG] AppServicePlan numberOfWebApps and operatingSystem() returns wrong values|question, App Services, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention, needs-author-feedback|XiaofeiCao, weidongxu-microsoft||2022-08-05|
 |4|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao||2022-08-01|
 |5|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
 |6|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
