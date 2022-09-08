@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3150](https://github.com/Azure/sdk-release-request/issues/3150) | HariPrasadV |  | Alancere | new issue. | 09-07 | 10-11 |  |
+| [#3150](https://github.com/Azure/sdk-release-request/issues/3150) | HariPrasadV |  | Alancere |  | 09-07 | 10-11 |  |
 | [#3142](https://github.com/Azure/sdk-release-request/issues/3142) | Frey-Wang |  | Alancere |  | 09-06 | 09-12 |  |
 | [#3138](https://github.com/Azure/sdk-release-request/issues/3138) | sauravbhattacharya001 |  | Alancere | new issue. new comment. | 09-02 | 10-17 |  |
 | [#3127](https://github.com/Azure/sdk-release-request/issues/3127) | ashwinisingh01 |  | Alancere | new comment. Attention to inconsistent tag | 08-29 | 09-02 |  |
