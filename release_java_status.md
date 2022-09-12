@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3153](https://github.com/Azure/sdk-release-request/issues/3153) | yibirnba |  | haolingdong-msft | new issue. | 09-11 | 09-26 |  |
 | [#3147](https://github.com/Azure/sdk-release-request/issues/3147) | HariPrasadV |  | weidongxu-microsoft |  | 09-07 | 10-11 |  |
 | [#3144](https://github.com/Azure/sdk-release-request/issues/3144) | Frey-Wang |  | haolingdong-msft | new issue. close to release date.  | 09-06 | 09-12 | 0 |
 | [#3141](https://github.com/Azure/sdk-release-request/issues/3141) | smile37773 |  | XiaofeiCao | Attention to inconsistent tag | 09-05 | 09-19 |  |
