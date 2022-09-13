@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-datafactory,Wzb123456789,2022-09-06,2022-09-13,https://github.com/Azure/sdk-release-request/issues/3145,2.8.0,True
 azure-mgmt-cosmosdb,BigCat20196,2022-08-29,2022-09-09,https://github.com/Azure/sdk-release-request/issues/3124,8.0.0,True
 azure-mgmt-subscription,BigCat20196,2022-09-05,2022-09-06,https://github.com/Azure/sdk-release-request/issues/3140,3.1.1,True
 azure-mgmt-redis,BigCat20196,2022-08-30,2022-09-05,https://github.com/Azure/sdk-release-request/issues/3130,14.0.0,True
