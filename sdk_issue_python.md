@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#25990](https://github.com/Azure/azure-sdk-for-python/issues/25990)|How to create a VM with an existing/stored SSH key pair?|question, Compute - VM, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc, SaurabhSharma-MSFT||2022-09-01|
+|1|[#25990](https://github.com/Azure/azure-sdk-for-python/issues/25990)|How to create a VM with an existing/stored SSH key pair?|question, Compute - VM, Mgmt, customer-reported, issue-addressed, CXP Attention|SaurabhSharma-MSFT, msyyc||2022-09-01|
 |2|[#25911](https://github.com/Azure/azure-sdk-for-python/issues/25911)|Authentication not working with Service Principle for azure-mgmt-serialconsole API|question, Mgmt, customer-reported, issue-addressed|BigCat20196||2022-08-28|
 |3|[#25857](https://github.com/Azure/azure-sdk-for-python/issues/25857)|Classifier missing Python3.9|bug, Mgmt, customer-reported, Resource Graph, no-recent-activity, needs-author-feedback, CXP Attention|msyyc||2022-08-25|
 |4|[#25739](https://github.com/Azure/azure-sdk-for-python/issues/25739)|explore management api link returns 404|Docs, question, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|no reply > 7|2022-08-17|
-|5|[#24915](https://github.com/Azure/azure-sdk-for-python/issues/24915)|AppInsights, ARM - getting/creating Annotations causes a deserialization error|bug, Service Attention, Mgmt, Monitor - ApplicationInsights, no-recent-activity, needs-team-attention, needs-author-feedback|Wzb123456789, msyyc|new comment|2022-06-21|
+|5|[#24915](https://github.com/Azure/azure-sdk-for-python/issues/24915)|AppInsights, ARM - getting/creating Annotations causes a deserialization error|bug, Service Attention, Mgmt, Monitor - ApplicationInsights, no-recent-activity, needs-team-attention, needs-author-feedback|msyyc, Wzb123456789|new comment|2022-06-21|
 |6|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|no reply > 7|2022-06-07|
-|7|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
+|7|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|msyyc, scbedd|new comment|2022-05-11|
 |8|[#23488](https://github.com/Azure/azure-sdk-for-python/issues/23488)|dataflow Reference is missing in Pipeline.get|question, Data Factory, Mgmt, customer-reported, no-recent-activity, needs-team-attention, needs-author-feedback|msyyc||2022-03-13|
 |9|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |10|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
