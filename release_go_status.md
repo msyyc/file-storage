@@ -9,4 +9,4 @@
 | [#3138](https://github.com/Azure/sdk-release-request/issues/3138) | sauravbhattacharya001 |  | Alancere | new issue. new comment. | 09-02 | 10-17 |  |
 | [#3127](https://github.com/Azure/sdk-release-request/issues/3127) | ashwinisingh01 |  | Alancere | Attention to inconsistent tag | 08-29 | 09-02 |  |
 | [#3114](https://github.com/Azure/sdk-release-request/issues/3114) | navba-MSFT |  | Alancere |  | 08-24 | 09-07 |  |
-| [#2970](https://github.com/Azure/sdk-release-request/issues/2970) | arpit-gagneja |  | Alancere | new comment. | 07-04 | 09-30 |  |
+| [#2970](https://github.com/Azure/sdk-release-request/issues/2970) | arpit-gagneja |  | Alancere |  | 07-04 | 09-30 |  |
