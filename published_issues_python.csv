@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-dnsresolver,Wzb123456789,2022-07-05,2022-09-15,https://github.com/Azure/sdk-release-request/issues/2983,1.0.0,True
 azure-mgmt-media,Wzb123456789,2022-09-01,2022-09-14,https://github.com/Azure/sdk-release-request/issues/3133,10.1.0,True
 azure-mgmt-servicefabricmanagedclusters,BigCat20196,2022-09-09,2022-09-14,https://github.com/Azure/sdk-release-request/issues/3152,2.0.0b2,
 azure-mgmt-datafactory,Wzb123456789,2022-09-06,2022-09-13,https://github.com/Azure/sdk-release-request/issues/3145,2.8.0,True
