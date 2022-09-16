@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3185](https://github.com/Azure/sdk-release-request/issues/3185) | AllyW | azure-mgmt-monitor | BigCat20196 | Attention to inconsistent tag MultiAPI | 09-16 | 09-20 |  |
 | [#3182](https://github.com/Azure/sdk-release-request/issues/3182) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. MultiAPI | 09-16 | 09-21 |  |
 | [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 09-15 | 09-22 |  |
 | [#3175](https://github.com/Azure/sdk-release-request/issues/3175) | gaoyp830 | azure-mgmt-reservations | Wzb123456789 |  | 09-15 | 09-21 |  |
