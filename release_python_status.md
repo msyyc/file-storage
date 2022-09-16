@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 | new issue. | 09-15 | 09-22 |  |
+| [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 09-15 | 09-22 |  |
 | [#3175](https://github.com/Azure/sdk-release-request/issues/3175) | gaoyp830 | azure-mgmt-reservations | Wzb123456789 |  | 09-15 | 09-21 |  |
 | [#3166](https://github.com/Azure/sdk-release-request/issues/3166) | abhargavams | azure-mgmt-dynatrace | Wzb123456789 | new comment. Attention to inconsistent tag | 09-14 | 09-20 |  |
 | [#3157](https://github.com/Azure/sdk-release-request/issues/3157) | limingu | azure-mgmt-nginx | BigCat20196 |  | 09-12 | 09-26 |  |
