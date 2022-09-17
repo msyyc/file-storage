@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3188](https://github.com/Azure/sdk-release-request/issues/3188) | yareyes | azure-mgmt-sqlvirtualmachine | Wzb123456789 | new issue. | 09-16 | 09-23 |  |
+| [#3188](https://github.com/Azure/sdk-release-request/issues/3188) | yareyes | azure-mgmt-sqlvirtualmachine | Wzb123456789 |  | 09-16 | 09-23 |  |
 | [#3185](https://github.com/Azure/sdk-release-request/issues/3185) | AllyW | azure-mgmt-monitor | BigCat20196 | close to release date.  Attention to inconsistent tag MultiAPI | 09-16 | 09-20 | 2 |
 | [#3182](https://github.com/Azure/sdk-release-request/issues/3182) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. MultiAPI | 09-16 | 09-21 |  |
 | [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 09-15 | 09-22 |  |
