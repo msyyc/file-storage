@@ -3,7 +3,7 @@
 | [#3193](https://github.com/Azure/sdk-release-request/issues/3193) | anat-gilenson |  | XiaofeiCao | new issue. | 09-18 | 10-03 |  |
 | [#3187](https://github.com/Azure/sdk-release-request/issues/3187) | yareyes |  | weidongxu-microsoft | new issue. | 09-16 | 09-23 |  |
 | [#3178](https://github.com/Azure/sdk-release-request/issues/3178) | audunn |  | weidongxu-microsoft | new issue. close to release date.  | 09-15 | 09-22 | 2 |
-| [#3171](https://github.com/Azure/sdk-release-request/issues/3171) | Aviv-Yaniv |  | haolingdong-msft | new comment. Attention to inconsistent tag | 09-14 | fail to get. |  |
+| [#3171](https://github.com/Azure/sdk-release-request/issues/3171) | Aviv-Yaniv |  | haolingdong-msft | Attention to inconsistent tag | 09-14 | fail to get. |  |
 | [#3167](https://github.com/Azure/sdk-release-request/issues/3167) | abhargavams |  | XiaofeiCao | new comment. close to release date.  Attention to inconsistent tag | 09-14 | 09-20 | 0 |
 | [#3153](https://github.com/Azure/sdk-release-request/issues/3153) | yibirnba |  | haolingdong-msft | new issue. | 09-11 | 09-26 |  |
 | [#3147](https://github.com/Azure/sdk-release-request/issues/3147) | HariPrasadV |  | weidongxu-microsoft |  | 09-07 | 10-11 |  |

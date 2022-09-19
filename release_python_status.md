@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3192](https://github.com/Azure/sdk-release-request/issues/3192) | anat-gilenson | azure-mgmt-securityinsight | BigCat20196 |  | 09-18 | 10-03 |  |
 | [#3188](https://github.com/Azure/sdk-release-request/issues/3188) | yareyes | azure-mgmt-sqlvirtualmachine | Wzb123456789 |  | 09-16 | 09-23 |  |
-| [#3185](https://github.com/Azure/sdk-release-request/issues/3185) | AllyW | azure-mgmt-monitor | BigCat20196 | close to release date.  Attention to inconsistent tag MultiAPI | 09-16 | 09-20 | 0 |
+| [#3185](https://github.com/Azure/sdk-release-request/issues/3185) | AllyW | azure-mgmt-monitor | BigCat20196 | new issue. close to release date.  MultiAPI | 09-16 | 09-20 | 0 |
 | [#3182](https://github.com/Azure/sdk-release-request/issues/3182) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. close to release date.  MultiAPI | 09-16 | 09-21 | 1 |
 | [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 | close to release date.  | 09-15 | 09-22 | 2 |
 | [#3175](https://github.com/Azure/sdk-release-request/issues/3175) | gaoyp830 | azure-mgmt-reservations | Wzb123456789 | new comment. close to release date.  | 09-15 | 09-21 | 1 |
