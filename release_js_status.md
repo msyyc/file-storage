@@ -2,11 +2,11 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3191](https://github.com/Azure/sdk-release-request/issues/3191) | anat-gilenson |  | qiaozha | new issue. | 09-18 | 10-03 |  |
 | [#3186](https://github.com/Azure/sdk-release-request/issues/3186) | yareyes |  | qiaozha | new issue. | 09-16 | 09-23 |  |
-| [#3184](https://github.com/Azure/sdk-release-request/issues/3184) | FumingZhang |  | qiaozha | new issue. close to release date.  | 09-16 | 09-21 | 2 |
-| [#3181](https://github.com/Azure/sdk-release-request/issues/3181) | audunn |  | qiaozha | new issue. | 09-15 | 09-22 |  |
-| [#3176](https://github.com/Azure/sdk-release-request/issues/3176) | gaoyp830 |  | qiaozha | new issue. close to release date.  | 09-15 | 09-21 | 2 |
+| [#3184](https://github.com/Azure/sdk-release-request/issues/3184) | FumingZhang |  | qiaozha | new issue. close to release date.  | 09-16 | 09-21 | 1 |
+| [#3181](https://github.com/Azure/sdk-release-request/issues/3181) | audunn |  | qiaozha | new issue. close to release date.  | 09-15 | 09-22 | 2 |
+| [#3176](https://github.com/Azure/sdk-release-request/issues/3176) | gaoyp830 |  | qiaozha | new issue. close to release date.  | 09-15 | 09-21 | 1 |
 | [#3170](https://github.com/Azure/sdk-release-request/issues/3170) | Aviv-Yaniv |  | qiaozha | new comment. Attention to inconsistent tag | 09-14 | fail to get. |  |
-| [#3164](https://github.com/Azure/sdk-release-request/issues/3164) | abhargavams |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 09-14 | 09-20 | 1 |
+| [#3164](https://github.com/Azure/sdk-release-request/issues/3164) | abhargavams |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 09-14 | 09-20 | 0 |
 | [#3156](https://github.com/Azure/sdk-release-request/issues/3156) | yibirnba |  | qiaozha |  | 09-11 | 09-26 |  |
 | [#3151](https://github.com/Azure/sdk-release-request/issues/3151) | RenzoPrettoMS |  | MaryGao |  | 09-08 | fail to get. |  |
 | [#3149](https://github.com/Azure/sdk-release-request/issues/3149) | HariPrasadV |  | MaryGao |  | 09-07 | 10-11 |  |
