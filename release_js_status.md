@@ -12,4 +12,4 @@
 | [#3149](https://github.com/Azure/sdk-release-request/issues/3149) | HariPrasadV |  | MaryGao |  | 09-07 | 10-11 |  |
 | [#3146](https://github.com/Azure/sdk-release-request/issues/3146) | smile37773 |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 09-07 | 09-19 | 0 |
 | [#3136](https://github.com/Azure/sdk-release-request/issues/3136) | sauravbhattacharya001 |  | qiaozha | new comment. | 09-02 | 10-17 |  |
-| [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao | new comment. | 07-04 | 09-30 |  |
+| [#2971](https://github.com/Azure/sdk-release-request/issues/2971) | arpit-gagneja |  | MaryGao |  | 07-04 | 09-30 |  |

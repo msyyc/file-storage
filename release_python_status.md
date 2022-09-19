@@ -5,7 +5,6 @@
 | [#3185](https://github.com/Azure/sdk-release-request/issues/3185) | AllyW | azure-mgmt-monitor | BigCat20196 | new issue. close to release date.  MultiAPI | 09-16 | 09-20 | 0 |
 | [#3182](https://github.com/Azure/sdk-release-request/issues/3182) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. close to release date.  MultiAPI | 09-16 | 09-21 | 1 |
 | [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 | close to release date.  | 09-15 | 09-22 | 2 |
-| [#3175](https://github.com/Azure/sdk-release-request/issues/3175) | gaoyp830 | azure-mgmt-reservations | Wzb123456789 | new comment. close to release date.  | 09-15 | 09-21 | 1 |
 | [#3166](https://github.com/Azure/sdk-release-request/issues/3166) | abhargavams | azure-mgmt-dynatrace | Wzb123456789 | new comment. close to release date.  | 09-14 | 09-20 | 0 |
 | [#3155](https://github.com/Azure/sdk-release-request/issues/3155) | yibirnba | azure-mgmt-security | BigCat20196 |  | 09-11 | 09-26 |  |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |
