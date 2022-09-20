@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3204](https://github.com/Azure/sdk-release-request/issues/3204) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 | new issue. close to release date.  MultiAPI | 09-20 | 09-22 | 1 |
+| [#3204](https://github.com/Azure/sdk-release-request/issues/3204) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 | new issue. close to release date.  | 09-20 | 09-22 | 1 |
 | [#3202](https://github.com/Azure/sdk-release-request/issues/3202) | limingu | azure-mgmt-nginx | Wzb123456789 |  | 09-20 | 10-03 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 |  | 09-19 | 10-12 |  |
 | [#3192](https://github.com/Azure/sdk-release-request/issues/3192) | anat-gilenson | azure-mgmt-securityinsight | BigCat20196 |  | 09-18 | 10-03 |  |
