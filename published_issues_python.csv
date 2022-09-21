@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,Wzb123456789,2022-09-20,2022-09-21,https://github.com/Azure/sdk-release-request/issues/3204,28.0.0,True
 azure-mgmt-nginx,Wzb123456789,2022-09-20,2022-09-21,https://github.com/Azure/sdk-release-request/issues/3202,1.1.0,True
 azure-mgmt-dynatrace,Wzb123456789,2022-09-14,2022-09-19,https://github.com/Azure/sdk-release-request/issues/3166,1.0.0,True
 azure-mgmt-reservations,Wzb123456789,2022-09-15,2022-09-19,https://github.com/Azure/sdk-release-request/issues/3175,2.1.0,True
