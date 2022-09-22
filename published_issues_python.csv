@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-monitor,BigCat20196,2022-09-16,2022-09-22,https://github.com/Azure/sdk-release-request/issues/3185,5.0.0,True
 azure-mgmt-containerservice,Wzb123456789,2022-09-16,2022-09-22,https://github.com/Azure/sdk-release-request/issues/3182,20.4.0,True
 azure-mgmt-compute,Wzb123456789,2022-09-20,2022-09-21,https://github.com/Azure/sdk-release-request/issues/3204,28.0.0,True
 azure-mgmt-nginx,Wzb123456789,2022-09-20,2022-09-21,https://github.com/Azure/sdk-release-request/issues/3202,1.1.0,True
