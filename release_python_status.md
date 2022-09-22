@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3208](https://github.com/Azure/sdk-release-request/issues/3208) | xuzhang3 | azure-mgmt-hybridcompute | Wzb123456789 | Attention to inconsistent tag | 09-21 | 10-05 |  |
+| [#3208](https://github.com/Azure/sdk-release-request/issues/3208) | xuzhang3 | azure-mgmt-hybridcompute | Wzb123456789 | Hold on | 09-21 | 10-05 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 |  | 09-19 | 10-12 |  |
 | [#3192](https://github.com/Azure/sdk-release-request/issues/3192) | anat-gilenson | azure-mgmt-securityinsight | BigCat20196 |  | 09-18 | 10-03 |  |
 | [#3188](https://github.com/Azure/sdk-release-request/issues/3188) | yareyes | azure-mgmt-sqlvirtualmachine | Wzb123456789 | close to release date.  | 09-16 | 09-23 | 0 |
