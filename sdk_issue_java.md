@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
-|2|[#30684](https://github.com/Azure/azure-sdk-for-java/issues/30684)|[BUG] Null Pointer Exception during alertRules().activityLogAlerts()|bug, ARM, Mgmt, customer-reported|XiaofeiCao||2022-08-29|
+|2|[#30684](https://github.com/Azure/azure-sdk-for-java/issues/30684)|[BUG] Null Pointer Exception during alertRules().activityLogAlerts()|bug, ARM, Mgmt, customer-reported, needs-author-feedback|XiaofeiCao||2022-08-29|
 |3|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|XiaofeiCao||2022-08-12|
 |4|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao||2022-08-01|
 |5|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
