@@ -4,7 +4,6 @@
 | [#3200](https://github.com/Azure/sdk-release-request/issues/3200) | bfoley13 | azure-mgmt-devhub | BigCat20196 |  | 09-19 | 10-03 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 |  | 09-19 | 10-12 |  |
 | [#3192](https://github.com/Azure/sdk-release-request/issues/3192) | anat-gilenson | azure-mgmt-securityinsight | BigCat20196 |  | 09-18 | 10-03 |  |
-| [#3188](https://github.com/Azure/sdk-release-request/issues/3188) | yareyes | azure-mgmt-sqlvirtualmachine | Wzb123456789 | new comment. | 09-16 | 09-23 |  |
 | [#3179](https://github.com/Azure/sdk-release-request/issues/3179) | audunn | azure-mgmt-netapp | Wzb123456789 | new comment. | 09-15 | 09-22 |  |
 | [#3155](https://github.com/Azure/sdk-release-request/issues/3155) | yibirnba | azure-mgmt-security | BigCat20196 | close to release date.  | 09-11 | 09-26 | 0 |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |
