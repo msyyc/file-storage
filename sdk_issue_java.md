@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#31151](https://github.com/Azure/azure-sdk-for-java/issues/31151)|[BUG] Null pointer exception for Azure Resource Manager Monitor Diagnostic Settings |question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-09-26|
-|2|[#31070](https://github.com/Azure/azure-sdk-for-java/issues/31070)|[BUG] Update NSG Rule - Unable to add ASG|question, Mgmt, customer-reported, Track 1|weidongxu-microsoft||2022-09-21|
+|2|[#31070](https://github.com/Azure/azure-sdk-for-java/issues/31070)|[BUG] Update NSG Rule - Unable to add ASG|question, Mgmt, customer-reported, Track 1|XiaofeiCao||2022-09-21|
 |3|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
 |4|[#30684](https://github.com/Azure/azure-sdk-for-java/issues/30684)|[BUG] Null Pointer Exception during alertRules().activityLogAlerts()|bug, ARM, Mgmt, customer-reported, needs-author-feedback|XiaofeiCao||2022-08-29|
 |5|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|XiaofeiCao||2022-08-12|
