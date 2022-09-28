@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3214](https://github.com/Azure/sdk-release-request/issues/3214) | ddhamotharan | azure-mgmt-cosmosdb | Wzb123456789 | new issue. | 09-27 | 10-11 |  |
+| [#3214](https://github.com/Azure/sdk-release-request/issues/3214) | ddhamotharan | azure-mgmt-cosmosdb | Wzb123456789 |  | 09-27 | 10-11 |  |
 | [#3209](https://github.com/Azure/sdk-release-request/issues/3209) | cataggar | azure-mgmt-avs | Wzb123456789 | new comment. Attention to inconsistent tag | 09-26 | 10-31 |  |
 | [#3208](https://github.com/Azure/sdk-release-request/issues/3208) | xuzhang3 | azure-mgmt-hybridcompute | Wzb123456789 |  | 09-21 | 10-05 |  |
 | [#3200](https://github.com/Azure/sdk-release-request/issues/3200) | bfoley13 | azure-mgmt-devhub | BigCat20196 |  | 09-19 | 10-03 |  |
