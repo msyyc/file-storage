@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3227](https://github.com/Azure/sdk-release-request/issues/3227) | nickdepinet |  | qiaozha | new issue. | 09-28 | 10-12 |  |
-| [#3224](https://github.com/Azure/sdk-release-request/issues/3224) | MikhailTryakhov |  | qiaozha | new issue. | 09-28 | 10-05 |  |
+| [#3224](https://github.com/Azure/sdk-release-request/issues/3224) | MikhailTryakhov |  | qiaozha |  | 09-28 | 10-05 |  |
 | [#3219](https://github.com/Azure/sdk-release-request/issues/3219) | FumingZhang |  | qiaozha | close to release date.  | 09-28 | 09-30 | 0 |
 | [#3213](https://github.com/Azure/sdk-release-request/issues/3213) | ddhamotharan |  | qiaozha | new issue. | 09-27 | 10-11 |  |
 | [#3211](https://github.com/Azure/sdk-release-request/issues/3211) | cataggar |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-31 |  |
