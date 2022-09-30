@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3231](https://github.com/Azure/sdk-release-request/issues/3231) | msyyc | azure-mgmt-monitor | Wzb123456789 | new version is 0.0.0, please check base branch! | 09-30 | 10-17 |  |
+| [#3231](https://github.com/Azure/sdk-release-request/issues/3231) | msyyc | azure-mgmt-monitor | Wzb123456789 |  | 09-30 | 10-17 |  |
 | [#3230](https://github.com/Azure/sdk-release-request/issues/3230) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 09-30 | 10-17 |  |
 | [#3229](https://github.com/Azure/sdk-release-request/issues/3229) | Charan000 | azure-mgmt-dataprotection | Wzb123456789 | close to release date.  | 09-29 | 10-03 | 2 |
 | [#3226](https://github.com/Azure/sdk-release-request/issues/3226) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 09-28 | 10-12 |  |
@@ -12,6 +12,5 @@
 | [#3208](https://github.com/Azure/sdk-release-request/issues/3208) | xuzhang3 | azure-mgmt-hybridcompute | Wzb123456789 |  | 09-21 | 10-05 |  |
 | [#3200](https://github.com/Azure/sdk-release-request/issues/3200) | bfoley13 | azure-mgmt-devhub | BigCat20196 | close to release date.  | 09-19 | 10-03 | 2 |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 |  | 09-19 | 10-12 |  |
-| [#3192](https://github.com/Azure/sdk-release-request/issues/3192) | anat-gilenson | azure-mgmt-securityinsight | Wzb123456789 | new comment. close to release date.  | 09-18 | 10-03 | 2 |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |
 | [#3139](https://github.com/Azure/sdk-release-request/issues/3139) | sauravbhattacharya001 | azure-mgmt-education | Wzb123456789 |  | 09-02 | 10-17 |  |
