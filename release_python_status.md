@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3230](https://github.com/Azure/sdk-release-request/issues/3230) | msyyc | azure-mgmt-compute | Wzb123456789 | new version is 0.0.0, please check base branch! | 09-30 | 10-17 |  |
 | [#3229](https://github.com/Azure/sdk-release-request/issues/3229) | Charan000 | azure-mgmt-dataprotection | Wzb123456789 | close to release date.  | 09-29 | 10-03 | 2 |
 | [#3226](https://github.com/Azure/sdk-release-request/issues/3226) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 09-28 | 10-12 |  |
 | [#3223](https://github.com/Azure/sdk-release-request/issues/3223) | MikhailTryakhov | azure-mgmt-network | Wzb123456789 | new issue. MultiAPI | 09-28 | 10-05 |  |
