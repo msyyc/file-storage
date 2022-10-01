@@ -11,4 +11,4 @@
 | [#3208](https://github.com/Azure/sdk-release-request/issues/3208) | xuzhang3 | azure-mgmt-hybridcompute | Wzb123456789 |  | 09-21 | 10-05 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 |  | 09-19 | 10-12 |  |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |
-| [#3139](https://github.com/Azure/sdk-release-request/issues/3139) | sauravbhattacharya001 | azure-mgmt-education | Wzb123456789 | new issue. new comment. | 09-02 | 10-17 |  |
+| [#3139](https://github.com/Azure/sdk-release-request/issues/3139) | sauravbhattacharya001 | azure-mgmt-education | Wzb123456789 |  | 09-02 | 10-17 |  |
