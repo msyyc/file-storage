@@ -2,8 +2,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3234](https://github.com/Azure/sdk-release-request/issues/3234) | Sandido |  | qiaozha | new issue. | 09-30 | 10-17 |  |
 | [#3227](https://github.com/Azure/sdk-release-request/issues/3227) | nickdepinet |  | qiaozha | new issue. | 09-28 | 10-12 |  |
-| [#3224](https://github.com/Azure/sdk-release-request/issues/3224) | MikhailTryakhov |  | qiaozha | close to release date.  | 09-28 | 10-05 | 2 |
-| [#3219](https://github.com/Azure/sdk-release-request/issues/3219) | FumingZhang |  | qiaozha | close to release date.  | 09-28 | 09-30 | -2 |
+| [#3224](https://github.com/Azure/sdk-release-request/issues/3224) | MikhailTryakhov |  | qiaozha | close to release date.  | 09-28 | 10-05 | 1 |
+| [#3219](https://github.com/Azure/sdk-release-request/issues/3219) | FumingZhang |  | qiaozha |  | 09-28 | 09-30 |  |
 | [#3213](https://github.com/Azure/sdk-release-request/issues/3213) | ddhamotharan |  | qiaozha | new issue. | 09-27 | 10-11 |  |
 | [#3211](https://github.com/Azure/sdk-release-request/issues/3211) | cataggar |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-31 |  |
 | [#3206](https://github.com/Azure/sdk-release-request/issues/3206) | grizzlytheodore |  | MaryGao | new comment. | 09-20 | 09-22 |  |

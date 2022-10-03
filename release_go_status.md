@@ -2,8 +2,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3236](https://github.com/Azure/sdk-release-request/issues/3236) | Sandido |  | Alancere |  | 09-30 | 10-17 |  |
 | [#3228](https://github.com/Azure/sdk-release-request/issues/3228) | nickdepinet |  | Alancere | new comment. | 09-28 | 10-12 |  |
-| [#3221](https://github.com/Azure/sdk-release-request/issues/3221) | MikhailTryakhov |  | Alancere | close to release date.  | 09-28 | 10-05 | 2 |
-| [#3218](https://github.com/Azure/sdk-release-request/issues/3218) | FumingZhang |  | Alancere | close to release date.  | 09-28 | 09-30 | -2 |
+| [#3221](https://github.com/Azure/sdk-release-request/issues/3221) | MikhailTryakhov |  | Alancere | close to release date.  | 09-28 | 10-05 | 1 |
+| [#3218](https://github.com/Azure/sdk-release-request/issues/3218) | FumingZhang |  | Alancere |  | 09-28 | 09-30 |  |
 | [#3215](https://github.com/Azure/sdk-release-request/issues/3215) | ddhamotharan |  | Alancere |  | 09-27 | 10-11 |  |
 | [#3212](https://github.com/Azure/sdk-release-request/issues/3212) | cataggar |  | Alancere | new comment. Attention to inconsistent tag | 09-26 | 10-31 |  |
 | [#3203](https://github.com/Azure/sdk-release-request/issues/3203) | grizzlytheodore |  | Alancere | new comment. | 09-20 | 09-22 |  |
