@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |question, customer-reported, Mgmt, App Services, CXP Attention|qiaozha|new comment|2022-09-26|
-|2|[#23134](https://github.com/Azure/azure-sdk-for-js/issues/23134)|Usage of CognitiveServicesManagementClient in government clouds|question, customer-reported, Mgmt, ARM, needs-team-attention|qiaozha, kazrael2119||2022-09-07|
-|3|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha, xboxeer||2022-07-29|
+|2|[#23134](https://github.com/Azure/azure-sdk-for-js/issues/23134)|Usage of CognitiveServicesManagementClient in government clouds|question, customer-reported, Mgmt, ARM, needs-team-attention|kazrael2119, qiaozha||2022-09-07|
+|3|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|xboxeer, qiaozha||2022-07-29|
 |4|[#22351](https://github.com/Azure/azure-sdk-for-js/issues/22351)|`SecurityCenter.securityContacts.list` returns old payload|question, customer-reported, Mgmt, Security, needs-team-attention, CXP Attention|qiaozha|new comment|2022-06-24|
 |5|[#21587](https://github.com/Azure/azure-sdk-for-js/issues/21587)|Generate the rest API orders for debugging purpose when calling something from azure sdk|question, customer-reported, Mgmt, needs-team-attention|qiaozha|new comment|2022-04-25|
 |6|[#21210](https://github.com/Azure/azure-sdk-for-js/issues/21210)|@azure/arm-authorization beta release missing roleDefinitions|question, customer-reported, Mgmt, Service Attention, Authorization, needs-team-attention|qiaozha||2022-04-05|
