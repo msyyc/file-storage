@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3252](https://github.com/Azure/sdk-release-request/issues/3252) | Frey-Wang |  | MaryGao | new issue. | 10-09 | 10-17 |  |
 | [#3246](https://github.com/Azure/sdk-release-request/issues/3246) | samarthlakhotia |  | MaryGao | new issue. | 10-06 | 10-19 |  |
 | [#3242](https://github.com/Azure/sdk-release-request/issues/3242) | RenzoPrettoMS |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 10-05 | 10-10 | 0 |
 | [#3240](https://github.com/Azure/sdk-release-request/issues/3240) | ruslany |  | MaryGao | new issue. close to release date.  | 10-04 | 10-12 | 2 |
