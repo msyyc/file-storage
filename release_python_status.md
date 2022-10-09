@@ -11,5 +11,5 @@
 | [#3214](https://github.com/Azure/sdk-release-request/issues/3214) | ddhamotharan | azure-mgmt-cosmosdb | Wzb123456789 | new comment. close to release date.  | 09-27 | 10-11 | 1 |
 | [#3209](https://github.com/Azure/sdk-release-request/issues/3209) | cataggar | azure-mgmt-avs | Wzb123456789 | Hold on | 09-26 | 10-31 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 | close to release date.  | 09-19 | 10-12 | 2 |
-| [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 | new comment. close to release date.  | 09-07 | 10-11 | 1 |
+| [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 | close to release date.  Hold on | 09-07 | 10-11 | 1 |
 | [#3139](https://github.com/Azure/sdk-release-request/issues/3139) | sauravbhattacharya001 | azure-mgmt-education | Wzb123456789 |  | 09-02 | 10-17 |  |
