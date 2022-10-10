@@ -3,7 +3,7 @@
 | [#3252](https://github.com/Azure/sdk-release-request/issues/3252) | Frey-Wang |  | MaryGao | new issue. | 10-09 | 10-17 |  |
 | [#3246](https://github.com/Azure/sdk-release-request/issues/3246) | samarthlakhotia |  | MaryGao | new issue. | 10-06 | 10-19 |  |
 | [#3242](https://github.com/Azure/sdk-release-request/issues/3242) | RenzoPrettoMS |  | MaryGao | close to release date.  Attention to inconsistent tag | 10-05 | 10-10 | 0 |
-| [#3240](https://github.com/Azure/sdk-release-request/issues/3240) | ruslany |  | MaryGao | new issue. close to release date.  | 10-04 | 10-12 | 1 |
+| [#3240](https://github.com/Azure/sdk-release-request/issues/3240) | ruslany |  | MaryGao | close to release date.  | 10-04 | 10-12 | 1 |
 | [#3234](https://github.com/Azure/sdk-release-request/issues/3234) | Sandido |  | qiaozha | new issue. new comment. | 09-30 | 10-17 |  |
 | [#3227](https://github.com/Azure/sdk-release-request/issues/3227) | nickdepinet |  | qiaozha | new issue. close to release date.  | 09-28 | 10-12 | 1 |
 | [#3224](https://github.com/Azure/sdk-release-request/issues/3224) | MikhailTryakhov |  | qiaozha |  | 09-28 | 10-05 |  |
