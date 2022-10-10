@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3254](https://github.com/Azure/sdk-release-request/issues/3254) | msyyc | azure-mgmt-resource | Wzb123456789 | new issue. MultiAPI | 10-10 | 10-24 |  |
+| [#3254](https://github.com/Azure/sdk-release-request/issues/3254) | msyyc | azure-mgmt-resource | Wzb123456789 |  | 10-10 | 10-24 |  |
 | [#3250](https://github.com/Azure/sdk-release-request/issues/3250) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 | new comment. new version is 0.0.0, please check base branch! | 10-09 | 10-17 |  |
 | [#3247](https://github.com/Azure/sdk-release-request/issues/3247) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 10-07 | 10-25 |  |
 | [#3238](https://github.com/Azure/sdk-release-request/issues/3238) | ruslany | azure-mgmt-appcontainers | Wzb123456789 | close to release date.  | 10-04 | 10-12 | 1 |
