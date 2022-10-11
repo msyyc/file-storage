@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-dataprotection,Wzb123456789,2022-10-03,2022-10-11,https://github.com/Azure/sdk-release-request/issues/3237,1.0.0b2,
+azure-mgmt-resource,Wzb123456789,2022-10-10,2022-10-11,https://github.com/Azure/sdk-release-request/issues/3254,21.2.0,True
 azure-mgmt-cosmosdb,Wzb123456789,2022-09-27,2022-10-10,https://github.com/Azure/sdk-release-request/issues/3214,9.0.0b1,
 azure-mgmt-policyinsights,Wzb123456789,2022-10-06,2022-10-10,https://github.com/Azure/sdk-release-request/issues/3245,1.1.0b3,
 azure-mgmt-sql,Wzb123456789,2022-09-28,2022-10-04,https://github.com/Azure/sdk-release-request/issues/3217,4.0.0b4,
