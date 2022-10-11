@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3255](https://github.com/Azure/sdk-release-request/issues/3255) | msyyc | azure-mgmt-authorization | Wzb123456789 | Attention to inconsistent tag MultiAPI | 10-11 | 10-25 |  |
+| [#3255](https://github.com/Azure/sdk-release-request/issues/3255) | msyyc | azure-mgmt-authorization | Wzb123456789 | MultiAPI | 10-11 | 10-25 |  |
 | [#3254](https://github.com/Azure/sdk-release-request/issues/3254) | msyyc | azure-mgmt-resource | Wzb123456789 |  | 10-10 | 10-24 |  |
 | [#3250](https://github.com/Azure/sdk-release-request/issues/3250) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-09 | 10-17 |  |
 | [#3247](https://github.com/Azure/sdk-release-request/issues/3247) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 10-07 | 10-25 |  |
