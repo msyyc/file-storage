@@ -17,6 +17,5 @@
 | [#3186](https://github.com/Azure/sdk-release-request/issues/3186) | yareyes |  | qiaozha |  | 09-16 | 09-23 |  |
 | [#3181](https://github.com/Azure/sdk-release-request/issues/3181) | audunn |  | qiaozha |  | 09-15 | 09-22 |  |
 | [#3156](https://github.com/Azure/sdk-release-request/issues/3156) | yibirnba |  | qiaozha |  | 09-11 | 09-26 |  |
-| [#3151](https://github.com/Azure/sdk-release-request/issues/3151) | RenzoPrettoMS |  | MaryGao | new comment. | 09-08 | fail to get. |  |
 | [#3149](https://github.com/Azure/sdk-release-request/issues/3149) | HariPrasadV |  | MaryGao | close to release date.  | 09-07 | 10-11 | 0 |
 | [#3136](https://github.com/Azure/sdk-release-request/issues/3136) | sauravbhattacharya001 |  | qiaozha | new comment. | 09-02 | 10-17 |  |
