@@ -7,6 +7,7 @@
 | [#3223](https://github.com/Azure/sdk-release-request/issues/3223) | MikhailTryakhov | azure-mgmt-network | Wzb123456789 | new comment. | 09-28 | 10-05 |  |
 | [#3220](https://github.com/Azure/sdk-release-request/issues/3220) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 09-28 | 09-30 |  |
 | [#3209](https://github.com/Azure/sdk-release-request/issues/3209) | cataggar | azure-mgmt-avs | Wzb123456789 | Hold on | 09-26 | 10-31 |  |
+| [#3200](https://github.com/Azure/sdk-release-request/issues/3200) | bfoley13 | azure-mgmt-devhub | Wzb123456789 |  | 09-19 | 10-03 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 | new comment. close to release date.  On time | 09-19 | 10-12 | 0 |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 | close to release date.  Hold on | 09-07 | 10-11 | -1 |
 | [#3139](https://github.com/Azure/sdk-release-request/issues/3139) | sauravbhattacharya001 | azure-mgmt-education | Wzb123456789 |  | 09-02 | 10-17 |  |

@@ -13,7 +13,7 @@
 | [#3213](https://github.com/Azure/sdk-release-request/issues/3213) | ddhamotharan |  | qiaozha | close to release date.  | 09-27 | 10-11 | -1 |
 | [#3211](https://github.com/Azure/sdk-release-request/issues/3211) | cataggar |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-31 |  |
 | [#3206](https://github.com/Azure/sdk-release-request/issues/3206) | grizzlytheodore |  | MaryGao | new comment. | 09-20 | 09-22 |  |
-| [#3201](https://github.com/Azure/sdk-release-request/issues/3201) | bfoley13 |  | MaryGao | new issue. | 09-19 | 10-03 |  |
+| [#3201](https://github.com/Azure/sdk-release-request/issues/3201) | bfoley13 |  | MaryGao |  | 09-19 | 10-03 |  |
 | [#3197](https://github.com/Azure/sdk-release-request/issues/3197) | yifanz0 |  | MaryGao | new comment. close to release date.  | 09-19 | 10-12 | 0 |
 | [#3191](https://github.com/Azure/sdk-release-request/issues/3191) | anat-gilenson |  | qiaozha |  | 09-18 | 10-03 |  |
 | [#3186](https://github.com/Azure/sdk-release-request/issues/3186) | yareyes |  | qiaozha |  | 09-16 | 09-23 |  |
