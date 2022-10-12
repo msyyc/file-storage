@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3257](https://github.com/Azure/sdk-release-request/issues/3257) | JohnathonMohr | azure-mgmt-securitydevops | Wzb123456789 | new issue. close to release date.  | 10-11 | 10-13 | 0 |
+| [#3257](https://github.com/Azure/sdk-release-request/issues/3257) | JohnathonMohr | azure-mgmt-securitydevops | Wzb123456789 | close to release date.  | 10-11 | 10-13 | 0 |
 | [#3250](https://github.com/Azure/sdk-release-request/issues/3250) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-09 | 10-17 |  |
 | [#3247](https://github.com/Azure/sdk-release-request/issues/3247) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 10-07 | 10-25 |  |
 | [#3233](https://github.com/Azure/sdk-release-request/issues/3233) | Sandido | azure-mgmt-compute | Wzb123456789 |  | 09-30 | 10-17 |  |
