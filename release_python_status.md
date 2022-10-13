@@ -3,7 +3,6 @@
 | [#3270](https://github.com/Azure/sdk-release-request/issues/3270) | austintolani | azure-mgmt-redis | Wzb123456789 |  | 10-12 | fail to get. |  |
 | [#3267](https://github.com/Azure/sdk-release-request/issues/3267) | limingu | azure-mgmt-nginx | Wzb123456789 |  | 10-12 | fail to get. |  |
 | [#3264](https://github.com/Azure/sdk-release-request/issues/3264) | venkatr21 | azure-mgmt-loadtestservice | Wzb123456789 |  | 10-12 | fail to get. |  |
-| [#3257](https://github.com/Azure/sdk-release-request/issues/3257) | JohnathonMohr | azure-mgmt-securitydevops | Wzb123456789 | new comment. close to release date.  | 10-11 | 10-13 | 0 |
 | [#3250](https://github.com/Azure/sdk-release-request/issues/3250) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-09 | 10-17 |  |
 | [#3247](https://github.com/Azure/sdk-release-request/issues/3247) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 10-07 | 10-25 |  |
 | [#3233](https://github.com/Azure/sdk-release-request/issues/3233) | Sandido | azure-mgmt-compute | Wzb123456789 | new comment. | 09-30 | 10-17 |  |
