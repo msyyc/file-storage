@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3271](https://github.com/Azure/sdk-release-request/issues/3271) | austintolani |  | haolingdong-msft | new issue. new comment. | 10-12 | fail to get. |  |
 | [#3265](https://github.com/Azure/sdk-release-request/issues/3265) | venkatr21 |  | weidongxu-microsoft | new issue. | 10-12 | fail to get. |  |
-| [#3258](https://github.com/Azure/sdk-release-request/issues/3258) | JohnathonMohr |  | haolingdong-msft | new issue. close to release date.  | 10-11 | 10-13 | 0 |
 | [#3253](https://github.com/Azure/sdk-release-request/issues/3253) | Frey-Wang |  | weidongxu-microsoft | new issue. | 10-09 | 10-17 |  |
 | [#3248](https://github.com/Azure/sdk-release-request/issues/3248) | pratimaupadhyay02 |  | weidongxu-microsoft | Attention to inconsistent tag | 10-07 | 10-25 |  |
 | [#3244](https://github.com/Azure/sdk-release-request/issues/3244) | samarthlakhotia |  | weidongxu-microsoft | new issue. | 10-06 | 10-19 |  |
