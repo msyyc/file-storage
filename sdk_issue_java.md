@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2022-10-10|
-|2|[#31288](https://github.com/Azure/azure-sdk-for-java/issues/31288)|[QUERY] how to capture "Azure resource manager per hour limit reached" in azure sdk ?  |question, Mgmt, customer-reported, ARM - RBAC|weidongxu-microsoft, XiaofeiCao||2022-10-06|
+|1|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-10-10|
+|2|[#31288](https://github.com/Azure/azure-sdk-for-java/issues/31288)|[QUERY] how to capture "Azure resource manager per hour limit reached" in azure sdk ?  |question, Mgmt, customer-reported, ARM - RBAC|XiaofeiCao, weidongxu-microsoft||2022-10-06|
 |3|[#31271](https://github.com/Azure/azure-sdk-for-java/issues/31271)|[FEATURE REQ] Support Workload Identity in azure-resourcemanager-containerservice|question, AKS, Mgmt, customer-reported, needs-team-attention, Container Service|XiaofeiCao|new comment|2022-10-05|
 |4|[#31208](https://github.com/Azure/azure-sdk-for-java/issues/31208)|[FEATURE REQ] mgmt Lite, know which service is popular, but we not generated for long|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-09-29|
 |5|[#31151](https://github.com/Azure/azure-sdk-for-java/issues/31151)|[BUG] Null pointer exception for Azure Resource Manager Monitor Diagnostic Settings |question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-09-26|
