@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3274](https://github.com/Azure/sdk-release-request/issues/3274) | audunn | azure-mgmt-netapp | Wzb123456789 | new comment. | 10-13 | fail to get. |  |
+| [#3274](https://github.com/Azure/sdk-release-request/issues/3274) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 10-13 | fail to get. |  |
 | [#3270](https://github.com/Azure/sdk-release-request/issues/3270) | austintolani | azure-mgmt-redis | Wzb123456789 |  | 10-12 | fail to get. |  |
 | [#3267](https://github.com/Azure/sdk-release-request/issues/3267) | limingu | azure-mgmt-nginx | Wzb123456789 |  | 10-12 | fail to get. |  |
 | [#3250](https://github.com/Azure/sdk-release-request/issues/3250) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 | close to release date.  | 10-09 | 10-17 | 0 |
