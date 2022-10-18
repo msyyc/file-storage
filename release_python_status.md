@@ -3,7 +3,5 @@
 | [#3274](https://github.com/Azure/sdk-release-request/issues/3274) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 10-13 | fail to get. |  |
 | [#3270](https://github.com/Azure/sdk-release-request/issues/3270) | austintolani | azure-mgmt-redis | Wzb123456789 |  | 10-12 | fail to get. |  |
 | [#3247](https://github.com/Azure/sdk-release-request/issues/3247) | pratimaupadhyay02 | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 10-07 | 10-25 |  |
-| [#3220](https://github.com/Azure/sdk-release-request/issues/3220) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 09-28 | 09-30 |  |
-| [#3209](https://github.com/Azure/sdk-release-request/issues/3209) | cataggar | azure-mgmt-avs | Wzb123456789 | new comment. | 09-26 | 10-31 |  |
 | [#3196](https://github.com/Azure/sdk-release-request/issues/3196) | yifanz0 | azure-mgmt-elasticsan | Wzb123456789 | On time | 09-19 | 10-12 |  |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 | Hold on | 09-07 | 10-11 |  |

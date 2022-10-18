@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-avs,Wzb123456789,2022-09-26,2022-10-18,https://github.com/Azure/sdk-release-request/issues/3209,7.1.0,True
+azure-mgmt-containerservice,Wzb123456789,2022-09-28,2022-10-18,https://github.com/Azure/sdk-release-request/issues/3220,20.5.0,True
 azure-mgmt-nginx,Wzb123456789,2022-10-12,2022-10-18,https://github.com/Azure/sdk-release-request/issues/3267,2.0.0,True
 azure-mgmt-datafactory,Wzb123456789,2022-10-09,2022-10-17,https://github.com/Azure/sdk-release-request/issues/3250,2.8.1,True
 azure-mgmt-loadtestservice,Wzb123456789,2022-10-12,2022-10-14,https://github.com/Azure/sdk-release-request/issues/3264,1.0.0,True
