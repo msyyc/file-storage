@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3281](https://github.com/Azure/sdk-release-request/issues/3281) | IliasKhan | azure-mgmt-sql | Wzb123456789 | new issue. | 10-19 | fail to get. |  |
+| [#3281](https://github.com/Azure/sdk-release-request/issues/3281) | IliasKhan | azure-mgmt-sql | Wzb123456789 |  | 10-19 | fail to get. |  |
 | [#3279](https://github.com/Azure/sdk-release-request/issues/3279) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 10-18 | fail to get. |  |
 | [#3276](https://github.com/Azure/sdk-release-request/issues/3276) | msyyc | azure-mgmt-resource | Wzb123456789 |  | 10-18 | fail to get. |  |
 | [#3274](https://github.com/Azure/sdk-release-request/issues/3274) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 10-13 | fail to get. |  |
