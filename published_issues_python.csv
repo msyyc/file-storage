@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-elasticsan,Wzb123456789,2022-09-19,2022-10-21,https://github.com/Azure/sdk-release-request/issues/3196,1.0.0b1,
+azure-mgmt-cdn,Wzb123456789,2022-10-21,2022-10-21,https://github.com/Azure/sdk-release-request/issues/3282,12.1.0b1,
 azure-mgmt-resource,Wzb123456789,2022-10-18,2022-10-20,https://github.com/Azure/sdk-release-request/issues/3276,21.2.1,True
 azure-mgmt-recoveryservicesbackup,Wzb123456789,2022-10-07,2022-10-20,https://github.com/Azure/sdk-release-request/issues/3247,5.1.0b2,
 azure-mgmt-avs,Wzb123456789,2022-09-26,2022-10-18,https://github.com/Azure/sdk-release-request/issues/3209,7.1.0,True
