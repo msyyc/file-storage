@@ -8,7 +8,7 @@
 |6|[#31288](https://github.com/Azure/azure-sdk-for-java/issues/31288)|[QUERY] how to capture "Azure resource manager per hour limit reached" in azure sdk ?  |question, Mgmt, customer-reported, ARM - RBAC|XiaofeiCao, weidongxu-microsoft||2022-10-06|
 |7|[#31271](https://github.com/Azure/azure-sdk-for-java/issues/31271)|[FEATURE REQ] Support Workload Identity in azure-resourcemanager-containerservice|question, AKS, Mgmt, customer-reported, needs-team-attention, Container Service|XiaofeiCao|new comment|2022-10-05|
 |8|[#31208](https://github.com/Azure/azure-sdk-for-java/issues/31208)|[FEATURE REQ] mgmt Lite, know which service is popular, but we not generated for long|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-09-29|
-|9|[#31070](https://github.com/Azure/azure-sdk-for-java/issues/31070)|[BUG] Update NSG Rule - Unable to add ASG|question, Mgmt, customer-reported, Track 1|XiaofeiCao||2022-09-21|
+|9|[#31070](https://github.com/Azure/azure-sdk-for-java/issues/31070)|[BUG] Update NSG Rule - Unable to add ASG|question, Mgmt, customer-reported, needs-author-feedback, Track 1|XiaofeiCao||2022-09-21|
 |10|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
 |11|[#30684](https://github.com/Azure/azure-sdk-for-java/issues/30684)|[BUG] Null Pointer Exception during alertRules().activityLogAlerts()|bug, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-08-29|
 |12|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|XiaofeiCao||2022-08-12|
