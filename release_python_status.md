@@ -2,6 +2,5 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3283](https://github.com/Azure/sdk-release-request/issues/3283) | msyyc | azure-mgmt-network | Wzb123456789 | new issue. MultiAPI | 10-24 | 11-25 |  |
 | [#3281](https://github.com/Azure/sdk-release-request/issues/3281) | IliasKhan | azure-mgmt-sql | Wzb123456789 |  | 10-19 | 11-25 |  |
-| [#3279](https://github.com/Azure/sdk-release-request/issues/3279) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 | new comment. | 10-18 | 11-25 |  |
 | [#3274](https://github.com/Azure/sdk-release-request/issues/3274) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 10-13 | 10-28 |  |
 | [#3270](https://github.com/Azure/sdk-release-request/issues/3270) | austintolani | azure-mgmt-redis | Wzb123456789 |  | 10-12 | 10-28 |  |
