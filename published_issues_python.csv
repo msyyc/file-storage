@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,Wzb123456789,2022-10-25,2022-10-25,https://github.com/Azure/sdk-release-request/issues/3292,20.6.0,True
 azure-mgmt-network,Wzb123456789,2022-10-24,2022-10-24,https://github.com/Azure/sdk-release-request/issues/3283,22.1.0,True
 azure-mgmt-datafactory,Wzb123456789,2022-10-24,2022-10-24,https://github.com/Azure/sdk-release-request/issues/3284,2.9.0,True
 azure-mgmt-cognitiveservices,Wzb123456789,2022-10-18,2022-10-24,https://github.com/Azure/sdk-release-request/issues/3279,13.3.0,True
