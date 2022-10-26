@@ -6,4 +6,4 @@
 | [#3287](https://github.com/Azure/sdk-release-request/issues/3287) | Sherylueen |  | Alancere |  | 10-24 | 11-16 |  |
 | [#3272](https://github.com/Azure/sdk-release-request/issues/3272) | austintolani |  | Alancere | close to release date.  | 10-12 | 10-28 | 1 |
 | [#3266](https://github.com/Azure/sdk-release-request/issues/3266) | limingu |  | Alancere | new comment. close to release date.  | 10-12 | 10-28 | 1 |
-| [#3212](https://github.com/Azure/sdk-release-request/issues/3212) | cataggar |  | Alancere | new comment. | 09-26 | 10-31 |  |
+| [#3212](https://github.com/Azure/sdk-release-request/issues/3212) | cataggar |  | Alancere |  | 09-26 | 10-31 |  |
