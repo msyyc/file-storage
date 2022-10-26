@@ -26,6 +26,7 @@
 |24|[#25327](https://github.com/Azure/azure-sdk-for-java/issues/25327)|mgmt, convenient layer for Azure firewall|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
 |25|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
 |26|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
-|27|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
-|28|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|XiaofeiCao||2021-02-26|
-|29|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
+|27|[#22785](https://github.com/Azure/azure-sdk-for-java/issues/22785)|[BUG] ConsumptionManager.usageDetails fails with 400 Bad Request|bug, Mgmt, customer-reported, needs-team-attention, needs-team-triage|XiaofeiCao|new comment|2021-07-06|
+|28|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
+|29|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|XiaofeiCao||2021-02-26|
+|30|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
