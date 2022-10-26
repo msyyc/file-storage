@@ -1,8 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3295](https://github.com/Azure/sdk-release-request/issues/3295) | FumingZhang |  | Alancere | new issue. | 10-25 | 11-25 |  |
+| [#3295](https://github.com/Azure/sdk-release-request/issues/3295) | FumingZhang |  | Alancere |  | 10-25 | 11-25 |  |
 | [#3291](https://github.com/Azure/sdk-release-request/issues/3291) | harneetvirk |  | Alancere | new comment. Attention to inconsistent tag | 10-25 | 11-25 |  |
-| [#3287](https://github.com/Azure/sdk-release-request/issues/3287) | Sherylueen |  | Alancere | new issue. new comment. | 10-24 | 11-16 |  |
+| [#3287](https://github.com/Azure/sdk-release-request/issues/3287) | Sherylueen |  | Alancere |  | 10-24 | 11-16 |  |
 | [#3272](https://github.com/Azure/sdk-release-request/issues/3272) | austintolani |  | Alancere | close to release date.  | 10-12 | 10-28 | 1 |
 | [#3266](https://github.com/Azure/sdk-release-request/issues/3266) | limingu |  | Alancere | new comment. close to release date.  | 10-12 | 10-28 | 1 |
 | [#3212](https://github.com/Azure/sdk-release-request/issues/3212) | cataggar |  | Alancere | new comment. | 09-26 | 10-31 |  |
