@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3307](https://github.com/Azure/sdk-release-request/issues/3307) | Wzb123456789 | azure-mgmt-scheduler | Wzb123456789 |  | 10-27 | 11-25 |  |
-| [#3306](https://github.com/Azure/sdk-release-request/issues/3306) | Wzb123456789 | azure-mgmt-workloadmonitor | Wzb123456789 | new version is 0.0.0, please check base branch! | 10-27 | 11-25 |  |
+| [#3308](https://github.com/Azure/sdk-release-request/issues/3308) | Wzb123456789 | azure-mgmt-operationsmanagement | Wzb123456789 | new issue. | 10-27 | 11-25 |  |
+| [#3306](https://github.com/Azure/sdk-release-request/issues/3306) | Wzb123456789 | azure-mgmt-workloadmonitor | Wzb123456789 |  | 10-27 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3296](https://github.com/Azure/sdk-release-request/issues/3296) | niteshvijay1995 | azure-mgmt-cosmosdb | Wzb123456789 |  | 10-25 | 11-25 |  |
