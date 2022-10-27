@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 | new issue. | 10-26 | 11-25 |  |
+| [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3296](https://github.com/Azure/sdk-release-request/issues/3296) | niteshvijay1995 | azure-mgmt-cosmosdb | Wzb123456789 |  | 10-25 | 11-25 |  |
 | [#3288](https://github.com/Azure/sdk-release-request/issues/3288) | Sherylueen | azure-mgmt-appcomplianceautomation | Wzb123456789 | On time | 10-24 | 11-16 |  |
