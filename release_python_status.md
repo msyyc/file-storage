@@ -1,10 +1,14 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3316](https://github.com/Azure/sdk-release-request/issues/3316) | Wzb123456789 | azure-mgmt-marketplaceordering | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
-| [#3315](https://github.com/Azure/sdk-release-request/issues/3315) | Wzb123456789 | azure-mgmt-attestation | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3320](https://github.com/Azure/sdk-release-request/issues/3320) | Wzb123456789 | azure-mgmt-support | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3319](https://github.com/Azure/sdk-release-request/issues/3319) | Wzb123456789 | azure-mgmt-timeseriesinsights | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3318](https://github.com/Azure/sdk-release-request/issues/3318) | Wzb123456789 | azure-mgmt-powerbidedicated | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3317](https://github.com/Azure/sdk-release-request/issues/3317) | Wzb123456789 | azure-mgmt-privatedns | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3316](https://github.com/Azure/sdk-release-request/issues/3316) | Wzb123456789 | azure-mgmt-marketplaceordering | Wzb123456789 |  | 10-28 | 11-25 |  |
+| [#3315](https://github.com/Azure/sdk-release-request/issues/3315) | Wzb123456789 | azure-mgmt-attestation | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3314](https://github.com/Azure/sdk-release-request/issues/3314) | Wzb123456789 | azure-mgmt-healthbot | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3313](https://github.com/Azure/sdk-release-request/issues/3313) | Wzb123456789 | azure-mgmt-datalake-store | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3312](https://github.com/Azure/sdk-release-request/issues/3312) | Wzb123456789 | azure-mgmt-search | Wzb123456789 | new version is 0.0.0, please check base branch! | 10-28 | 11-25 |  |
+| [#3312](https://github.com/Azure/sdk-release-request/issues/3312) | Wzb123456789 | azure-mgmt-search | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3311](https://github.com/Azure/sdk-release-request/issues/3311) | Wzb123456789 | azure-mgmt-advisor | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3310](https://github.com/Azure/sdk-release-request/issues/3310) | Wzb123456789 | azure-mgmt-devtestlabs | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3309](https://github.com/Azure/sdk-release-request/issues/3309) | Wzb123456789 | azure-mgmt-machinelearningservices | Wzb123456789 |  | 10-27 | 11-25 |  |
