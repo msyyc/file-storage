@@ -1,6 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3314](https://github.com/Azure/sdk-release-request/issues/3314) | Wzb123456789 | azure-mgmt-healthbot | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3316](https://github.com/Azure/sdk-release-request/issues/3316) | Wzb123456789 | azure-mgmt-marketplaceordering | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3315](https://github.com/Azure/sdk-release-request/issues/3315) | Wzb123456789 | azure-mgmt-attestation | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
+| [#3314](https://github.com/Azure/sdk-release-request/issues/3314) | Wzb123456789 | azure-mgmt-healthbot | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3313](https://github.com/Azure/sdk-release-request/issues/3313) | Wzb123456789 | azure-mgmt-datalake-store | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3312](https://github.com/Azure/sdk-release-request/issues/3312) | Wzb123456789 | azure-mgmt-search | Wzb123456789 | new version is 0.0.0, please check base branch! | 10-28 | 11-25 |  |
 | [#3311](https://github.com/Azure/sdk-release-request/issues/3311) | Wzb123456789 | azure-mgmt-advisor | Wzb123456789 |  | 10-28 | 11-25 |  |
