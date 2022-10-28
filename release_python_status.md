@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3310](https://github.com/Azure/sdk-release-request/issues/3310) | Wzb123456789 | azure-mgmt-devtestlabs | Wzb123456789 | new issue. | 10-28 | 11-25 |  |
 | [#3309](https://github.com/Azure/sdk-release-request/issues/3309) | Wzb123456789 | azure-mgmt-machinelearningservices | Wzb123456789 |  | 10-27 | 11-25 |  |
 | [#3308](https://github.com/Azure/sdk-release-request/issues/3308) | Wzb123456789 | azure-mgmt-operationsmanagement | Wzb123456789 |  | 10-27 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
