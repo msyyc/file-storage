@@ -6,9 +6,6 @@
 | [#3318](https://github.com/Azure/sdk-release-request/issues/3318) | Wzb123456789 | azure-mgmt-powerbidedicated | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3317](https://github.com/Azure/sdk-release-request/issues/3317) | Wzb123456789 | azure-mgmt-privatedns | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3316](https://github.com/Azure/sdk-release-request/issues/3316) | Wzb123456789 | azure-mgmt-marketplaceordering | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3315](https://github.com/Azure/sdk-release-request/issues/3315) | Wzb123456789 | azure-mgmt-attestation | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3314](https://github.com/Azure/sdk-release-request/issues/3314) | Wzb123456789 | azure-mgmt-healthbot | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3313](https://github.com/Azure/sdk-release-request/issues/3313) | Wzb123456789 | azure-mgmt-datalake-store | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3312](https://github.com/Azure/sdk-release-request/issues/3312) | Wzb123456789 | azure-mgmt-search | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3309](https://github.com/Azure/sdk-release-request/issues/3309) | Wzb123456789 | azure-mgmt-machinelearningservices | Wzb123456789 |  | 10-27 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
