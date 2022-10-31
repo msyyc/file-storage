@@ -10,8 +10,6 @@
 | [#3314](https://github.com/Azure/sdk-release-request/issues/3314) | Wzb123456789 | azure-mgmt-healthbot | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3313](https://github.com/Azure/sdk-release-request/issues/3313) | Wzb123456789 | azure-mgmt-datalake-store | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3312](https://github.com/Azure/sdk-release-request/issues/3312) | Wzb123456789 | azure-mgmt-search | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3311](https://github.com/Azure/sdk-release-request/issues/3311) | Wzb123456789 | azure-mgmt-advisor | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3310](https://github.com/Azure/sdk-release-request/issues/3310) | Wzb123456789 | azure-mgmt-devtestlabs | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3309](https://github.com/Azure/sdk-release-request/issues/3309) | Wzb123456789 | azure-mgmt-machinelearningservices | Wzb123456789 |  | 10-27 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
