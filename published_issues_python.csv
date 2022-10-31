@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-marketplaceordering,Wzb123456789,2022-10-28,2022-10-31,https://github.com/Azure/sdk-release-request/issues/3316,1.2.0b1,
 azure-mgmt-healthbot,Wzb123456789,2022-10-28,2022-10-31,https://github.com/Azure/sdk-release-request/issues/3314,1.0.0b2,
 azure-mgmt-attestation,Wzb123456789,2022-10-28,2022-10-31,https://github.com/Azure/sdk-release-request/issues/3315,2.0.0b1,
 azure-mgmt-devtestlabs,Wzb123456789,2022-10-28,2022-10-31,https://github.com/Azure/sdk-release-request/issues/3310,10.0.0b1,
