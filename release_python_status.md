@@ -1,5 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3330](https://github.com/Azure/sdk-release-request/issues/3330) | Wzb123456789 | azure-mgmt-managedservices | Wzb123456789 | new issue. | 10-31 | 11-25 |  |
+| [#3329](https://github.com/Azure/sdk-release-request/issues/3329) | Wzb123456789 | azure-mgmt-hybridcompute | Wzb123456789 | new issue. | 10-31 | 11-25 |  |
+| [#3328](https://github.com/Azure/sdk-release-request/issues/3328) | Wzb123456789 | azure-mgmt-datashare | Wzb123456789 | new issue. | 10-31 | 11-25 |  |
 | [#3327](https://github.com/Azure/sdk-release-request/issues/3327) | Wzb123456789 | azure-mgmt-hanaonazure | Wzb123456789 |  | 10-31 | 11-25 |  |
 | [#3326](https://github.com/Azure/sdk-release-request/issues/3326) | Wzb123456789 | azure-mgmt-storagesync | Wzb123456789 |  | 10-31 | 11-25 |  |
 | [#3325](https://github.com/Azure/sdk-release-request/issues/3325) | Wzb123456789 | azure-mgmt-azurestack | Wzb123456789 |  | 10-31 | 11-25 |  |
