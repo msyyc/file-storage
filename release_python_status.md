@@ -1,7 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3329](https://github.com/Azure/sdk-release-request/issues/3329) | Wzb123456789 | azure-mgmt-hybridcompute | Wzb123456789 |  | 10-31 | 11-25 |  |
-| [#3325](https://github.com/Azure/sdk-release-request/issues/3325) | Wzb123456789 | azure-mgmt-azurestack | Wzb123456789 |  | 10-31 | 11-25 |  |
 | [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
