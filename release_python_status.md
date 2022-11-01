@@ -1,5 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3337](https://github.com/Azure/sdk-release-request/issues/3337) | Wzb123456789 | azure-mgmt-portal | Wzb123456789 | new issue. | 11-01 | 11-25 |  |
+| [#3336](https://github.com/Azure/sdk-release-request/issues/3336) | Wzb123456789 | azure-mgmt-deploymentmanager | Wzb123456789 | new issue. | 11-01 | 11-25 |  |
 | [#3335](https://github.com/Azure/sdk-release-request/issues/3335) | Wzb123456789 | azure-mgmt-machinelearningcompute | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3334](https://github.com/Azure/sdk-release-request/issues/3334) | Wzb123456789 | azure-mgmt-billing | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3333](https://github.com/Azure/sdk-release-request/issues/3333) | Wzb123456789 | azure-mgmt-maps | Wzb123456789 |  | 11-01 | 11-25 |  |
