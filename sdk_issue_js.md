@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|qiaozha, kazrael2119||2022-10-14|
+|1|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|kazrael2119, qiaozha||2022-10-14|
 |2|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |3|[#23456](https://github.com/Azure/azure-sdk-for-js/issues/23456)|can not create app deployment after upgrading package to `arm-appplatform:2.1.0-beta.3`|Mgmt|qiaozha|new comment|2022-10-09|
 |4|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
