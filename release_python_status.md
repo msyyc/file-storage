@@ -1,9 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3341](https://github.com/Azure/sdk-release-request/issues/3341) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 11-01 | 11-25 |  |
+| [#3342](https://github.com/Azure/sdk-release-request/issues/3342) | Wzb123456789 | azure-mgmt-webpubsub | Wzb123456789 | new issue. | 11-02 | 11-25 |  |
+| [#3341](https://github.com/Azure/sdk-release-request/issues/3341) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new issue. MultiAPI | 11-01 | 11-25 |  |
 | [#3340](https://github.com/Azure/sdk-release-request/issues/3340) | Wzb123456789 | azure-mgmt-managementpartner | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3339](https://github.com/Azure/sdk-release-request/issues/3339) | Wzb123456789 | azure-mgmt-managementgroups | Wzb123456789 |  | 11-01 | 11-25 |  |
-| [#3338](https://github.com/Azure/sdk-release-request/issues/3338) | Wzb123456789 | azure-mgmt-serialconsole | Wzb123456789 | new version is 0.0.0, please check base branch! | 11-01 | 11-25 |  |
+| [#3338](https://github.com/Azure/sdk-release-request/issues/3338) | Wzb123456789 | azure-mgmt-serialconsole | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3337](https://github.com/Azure/sdk-release-request/issues/3337) | Wzb123456789 | azure-mgmt-portal | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3336](https://github.com/Azure/sdk-release-request/issues/3336) | Wzb123456789 | azure-mgmt-deploymentmanager | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3335](https://github.com/Azure/sdk-release-request/issues/3335) | Wzb123456789 | azure-mgmt-machinelearningcompute | Wzb123456789 |  | 11-01 | 11-25 |  |
