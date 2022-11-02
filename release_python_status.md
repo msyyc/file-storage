@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3341](https://github.com/Azure/sdk-release-request/issues/3341) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 11-01 | 11-25 |  |
 | [#3340](https://github.com/Azure/sdk-release-request/issues/3340) | Wzb123456789 | azure-mgmt-managementpartner | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3339](https://github.com/Azure/sdk-release-request/issues/3339) | Wzb123456789 | azure-mgmt-managementgroups | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3338](https://github.com/Azure/sdk-release-request/issues/3338) | Wzb123456789 | azure-mgmt-serialconsole | Wzb123456789 | new version is 0.0.0, please check base branch! | 11-01 | 11-25 |  |
@@ -13,6 +14,5 @@
 | [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
-| [#3296](https://github.com/Azure/sdk-release-request/issues/3296) | niteshvijay1995 | azure-mgmt-cosmosdb | Wzb123456789 |  | 10-25 | 11-25 |  |
 | [#3288](https://github.com/Azure/sdk-release-request/issues/3288) | Sherylueen | azure-mgmt-appcomplianceautomation | Wzb123456789 | On time | 10-24 | 11-16 |  |
 | [#3281](https://github.com/Azure/sdk-release-request/issues/3281) | IliasKhan | azure-mgmt-sql | Wzb123456789 |  | 10-19 | 11-25 |  |
