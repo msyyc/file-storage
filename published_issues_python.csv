@@ -1,4 +1,8 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-mixedreality,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3332,1.1.0b1,
+azure-mgmt-maps,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3333,2.1.0b1,
+azure-mgmt-billing,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3334,6.1.0b1,
+azure-mgmt-machinelearningcompute,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3335,1.0.0b2,
 azure-mgmt-peering,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3331,2.0.0b1,
 azure-mgmt-cosmosdb,Wzb123456789,2022-10-25,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3296,9.0.0b2,
 azure-mgmt-search,Wzb123456789,2022-10-28,2022-11-01,https://github.com/Azure/sdk-release-request/issues/3312,9.0.0b1,
