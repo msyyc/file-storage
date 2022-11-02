@@ -1,4 +1,10 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-deploymentmanager,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3336,2.0.0b1,
+azure-mgmt-portal,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3337,1.1.0b1,
+azure-mgmt-serialconsole,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3338,1.1.0b1,
+azure-mgmt-managementgroups,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3339,1.1.0b1,
+azure-mgmt-managementpartner,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3340,1.1.0b1,
+azure-mgmt-webpubsub,Wzb123456789,2022-11-02,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3342,1.1.0b1,
 azure-mgmt-mixedreality,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3332,1.1.0b1,
 azure-mgmt-maps,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3333,2.1.0b1,
 azure-mgmt-billing,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3334,6.1.0b1,
