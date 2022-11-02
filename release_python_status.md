@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3342](https://github.com/Azure/sdk-release-request/issues/3342) | Wzb123456789 | azure-mgmt-webpubsub | Wzb123456789 | new issue. | 11-02 | 11-25 |  |
-| [#3341](https://github.com/Azure/sdk-release-request/issues/3341) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new issue. MultiAPI | 11-01 | 11-25 |  |
+| [#3342](https://github.com/Azure/sdk-release-request/issues/3342) | Wzb123456789 | azure-mgmt-webpubsub | Wzb123456789 |  | 11-02 | 11-25 |  |
+| [#3341](https://github.com/Azure/sdk-release-request/issues/3341) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3340](https://github.com/Azure/sdk-release-request/issues/3340) | Wzb123456789 | azure-mgmt-managementpartner | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3339](https://github.com/Azure/sdk-release-request/issues/3339) | Wzb123456789 | azure-mgmt-managementgroups | Wzb123456789 |  | 11-01 | 11-25 |  |
 | [#3338](https://github.com/Azure/sdk-release-request/issues/3338) | Wzb123456789 | azure-mgmt-serialconsole | Wzb123456789 |  | 11-01 | 11-25 |  |
