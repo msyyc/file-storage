@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3345](https://github.com/Azure/sdk-release-request/issues/3345) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | Attention to inconsistent tag MultiAPI | 11-02 | 11-25 |  |
-| [#3341](https://github.com/Azure/sdk-release-request/issues/3341) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new comment. | 11-01 | 11-25 |  |
+| [#3345](https://github.com/Azure/sdk-release-request/issues/3345) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. MultiAPI | 11-02 | 11-25 |  |
 | [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3305](https://github.com/Azure/sdk-release-request/issues/3305) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
