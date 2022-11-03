@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 | new issue. | 11-02 | 11-25 |  |
+| [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 | new issue. MultiAPI | 11-02 | 11-25 |  |
 | [#3359](https://github.com/Azure/sdk-release-request/issues/3359) | Wzb123456789 | azure-mgmt-logic | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3358](https://github.com/Azure/sdk-release-request/issues/3358) | Wzb123456789 | azure-mgmt-storageimportexport | Wzb123456789 |  | 11-02 | 11-25 |  |
