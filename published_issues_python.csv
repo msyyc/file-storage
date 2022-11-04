@@ -1,4 +1,8 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-confluent,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3354,2.0.0b2,
+azure-mgmt-datadog,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3355,2.1.0b1,
+azure-mgmt-devspaces,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3357,1.0.0b2,
+azure-mgmt-storageimportexport,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3358,1.0.0b2,
 azure-mgmt-rdbms,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3341,10.2.0b4,
 azure-mgmt-deploymentmanager,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3336,2.0.0b1,
 azure-mgmt-portal,Wzb123456789,2022-11-01,2022-11-02,https://github.com/Azure/sdk-release-request/issues/3337,1.1.0b1,
