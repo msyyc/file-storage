@@ -5,7 +5,7 @@
 | [#3366](https://github.com/Azure/sdk-release-request/issues/3366) | Wzb123456789 | azure-mgmt-testbase | Wzb123456789 |  | 11-04 | 11-25 |  |
 | [#3365](https://github.com/Azure/sdk-release-request/issues/3365) | Wzb123456789 | azure-mgmt-resourcemover | Wzb123456789 |  | 11-04 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
-| [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 | new issue. | 11-02 | 11-25 |  |
+| [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3356](https://github.com/Azure/sdk-release-request/issues/3356) | Wzb123456789 | azure-mgmt-vmwarecloudsimple | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3345](https://github.com/Azure/sdk-release-request/issues/3345) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 10-28 | 11-25 |  |
