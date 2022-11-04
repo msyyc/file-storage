@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3369](https://github.com/Azure/sdk-release-request/issues/3369) | Wzb123456789 | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 | new issue. | 11-04 | 11-25 |  |
 | [#3368](https://github.com/Azure/sdk-release-request/issues/3368) | Wzb123456789 | azure-mgmt-databricks | Wzb123456789 |  | 11-04 | 11-25 |  |
 | [#3367](https://github.com/Azure/sdk-release-request/issues/3367) | Wzb123456789 | azure-mgmt-guestconfig | Wzb123456789 |  | 11-04 | 11-25 |  |
 | [#3366](https://github.com/Azure/sdk-release-request/issues/3366) | Wzb123456789 | azure-mgmt-testbase | Wzb123456789 |  | 11-04 | 11-25 |  |
