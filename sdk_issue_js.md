@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#23682](https://github.com/Azure/azure-sdk-for-js/issues/23682)|@azure/arm-subscriptions SubscriptionClient `subscriptions.list` fails in AzureGovernment|question, customer-reported, Mgmt, Operations Management|qiaozha||2022-11-02|
-|2|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|kazrael2119, qiaozha||2022-10-14|
+|2|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|qiaozha, kazrael2119||2022-10-14|
 |3|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |4|[#23456](https://github.com/Azure/azure-sdk-for-js/issues/23456)|can not create app deployment after upgrading package to `arm-appplatform:2.1.0-beta.3`|Mgmt|qiaozha|new comment|2022-10-09|
 |5|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
@@ -9,5 +9,5 @@
 |7|[#21587](https://github.com/Azure/azure-sdk-for-js/issues/21587)|Generate the rest API orders for debugging purpose when calling something from azure sdk|question, customer-reported, Mgmt, needs-team-attention|qiaozha|new comment|2022-04-25|
 |8|[#21210](https://github.com/Azure/azure-sdk-for-js/issues/21210)|@azure/arm-authorization beta release missing roleDefinitions|question, customer-reported, Mgmt, Service Attention, Authorization, needs-team-attention|qiaozha||2022-04-05|
 |9|[#21116](https://github.com/Azure/azure-sdk-for-js/issues/21116)|webApps.beginInstallSiteExtensionAndWait always returns a 400 error due to missing request body in the API spec|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-03-30|
-|10|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|[swagger] HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|MaryGao, qiaozha|new comment|2022-02-28|
+|10|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|[swagger] HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|qiaozha, MaryGao|new comment|2022-02-28|
 |11|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha|new comment|2022-02-08|
