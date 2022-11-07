@@ -1,4 +1,7 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resourcemover,Wzb123456789,2022-11-04,2022-11-07,https://github.com/Azure/sdk-release-request/issues/3365,1.1.0b3,
+azure-mgmt-testbase,Wzb123456789,2022-11-04,2022-11-07,https://github.com/Azure/sdk-release-request/issues/3366,1.0.0b2,
+azure-mgmt-guestconfig,Wzb123456789,2022-11-04,2022-11-07,https://github.com/Azure/sdk-release-request/issues/3367,1.0.0b2,
 azure-mgmt-logic,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3359,10.1.0b1,
 azure-mgmt-confluent,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3354,2.0.0b2,
 azure-mgmt-datadog,Wzb123456789,2022-11-02,2022-11-04,https://github.com/Azure/sdk-release-request/issues/3355,2.1.0b1,
