@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3376](https://github.com/Azure/sdk-release-request/issues/3376) | Wzb123456789 | azure-mgmt-datamigration | Wzb123456789 | new issue. | 11-07 | 11-25 |  |
-| [#3375](https://github.com/Azure/sdk-release-request/issues/3375) | Wzb123456789 | azure-mgmt-costmanagement | Wzb123456789 | new issue. | 11-07 | 11-25 |  |
+| [#3376](https://github.com/Azure/sdk-release-request/issues/3376) | Wzb123456789 | azure-mgmt-datamigration | Wzb123456789 |  | 11-07 | 11-25 |  |
+| [#3375](https://github.com/Azure/sdk-release-request/issues/3375) | Wzb123456789 | azure-mgmt-costmanagement | Wzb123456789 |  | 11-07 | 11-25 |  |
 | [#3374](https://github.com/Azure/sdk-release-request/issues/3374) | Wzb123456789 | azure-mgmt-purview | Wzb123456789 |  | 11-07 | 11-25 |  |
 | [#3372](https://github.com/Azure/sdk-release-request/issues/3372) | Wzb123456789 | azure-mgmt-elastic | Wzb123456789 |  | 11-07 | 11-25 |  |
 | [#3371](https://github.com/Azure/sdk-release-request/issues/3371) | Wzb123456789 | azure-mgmt-quantum | Wzb123456789 |  | 11-07 | 11-25 |  |
