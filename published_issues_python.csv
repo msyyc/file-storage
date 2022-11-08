@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-logz,Wzb123456789,2022-11-07,2022-11-08,https://github.com/Azure/sdk-release-request/issues/3377,1.1.0b1,
 azure-mgmt-quantum,Wzb123456789,2022-11-07,2022-11-08,https://github.com/Azure/sdk-release-request/issues/3371,1.0.0b3,
 azure-mgmt-purview,Wzb123456789,2022-11-07,2022-11-08,https://github.com/Azure/sdk-release-request/issues/3374,1.1.0b1,
 azure-mgmt-costmanagement,Wzb123456789,2022-11-07,2022-11-08,https://github.com/Azure/sdk-release-request/issues/3375,4.0.0b1,
