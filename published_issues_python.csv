@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-devcenter,Wzb123456789,2022-10-26,2022-11-08,https://github.com/Azure/sdk-release-request/issues/3305,1.0.0b3,
 azure-mgmt-vmwarecloudsimple,Wzb123456789,2022-11-02,2022-11-07,https://github.com/Azure/sdk-release-request/issues/3356,1.0.0b2,
 azure-mgmt-resourcemover,Wzb123456789,2022-11-04,2022-11-07,https://github.com/Azure/sdk-release-request/issues/3365,1.1.0b3,
 azure-mgmt-testbase,Wzb123456789,2022-11-04,2022-11-07,https://github.com/Azure/sdk-release-request/issues/3366,1.0.0b2,
