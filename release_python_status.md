@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3383](https://github.com/Azure/sdk-release-request/issues/3383) | Wzb123456789 | azure-mgmt-relay | Wzb123456789 |  | 11-08 | 11-25 |  |
 | [#3382](https://github.com/Azure/sdk-release-request/issues/3382) | Wzb123456789 | azure-mgmt-servicefabric | Wzb123456789 |  | 11-08 | 11-25 |  |
-| [#3380](https://github.com/Azure/sdk-release-request/issues/3380) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 11-07 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3345](https://github.com/Azure/sdk-release-request/issues/3345) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new comment. | 11-02 | 11-25 |  |
