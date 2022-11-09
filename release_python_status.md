@@ -1,9 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3389](https://github.com/Azure/sdk-release-request/issues/3389) | Wzb123456789 | azure-mgmt-azurearcdata | Wzb123456789 | new issue. | 11-09 | 11-25 |  |
-| [#3388](https://github.com/Azure/sdk-release-request/issues/3388) | Wzb123456789 | azure-mgmt-hybridkubernetes | Wzb123456789 | new issue. | 11-09 | 11-25 |  |
-| [#3387](https://github.com/Azure/sdk-release-request/issues/3387) | Wzb123456789 | azure-mgmt-baremetalinfrastructure | Wzb123456789 | new issue. | 11-09 | 11-25 |  |
-| [#3386](https://github.com/Azure/sdk-release-request/issues/3386) | Wzb123456789 | azure-mgmt-storagepool | Wzb123456789 | new issue. | 11-09 | 11-25 |  |
+| [#3391](https://github.com/Azure/sdk-release-request/issues/3391) | Wzb123456789 | azure-mgmt-desktopvirtualization | Wzb123456789 | new issue. | 11-09 | 11-25 |  |
+| [#3390](https://github.com/Azure/sdk-release-request/issues/3390) | Wzb123456789 | azure-mgmt-quota | Wzb123456789 | new issue. | 11-09 | 11-25 |  |
+| [#3388](https://github.com/Azure/sdk-release-request/issues/3388) | Wzb123456789 | azure-mgmt-hybridkubernetes | Wzb123456789 |  | 11-09 | 11-25 |  |
+| [#3387](https://github.com/Azure/sdk-release-request/issues/3387) | Wzb123456789 | azure-mgmt-baremetalinfrastructure | Wzb123456789 |  | 11-09 | 11-25 |  |
+| [#3386](https://github.com/Azure/sdk-release-request/issues/3386) | Wzb123456789 | azure-mgmt-storagepool | Wzb123456789 |  | 11-09 | 11-25 |  |
 | [#3382](https://github.com/Azure/sdk-release-request/issues/3382) | Wzb123456789 | azure-mgmt-servicefabric | Wzb123456789 |  | 11-08 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 |  | 11-02 | 11-25 |  |
