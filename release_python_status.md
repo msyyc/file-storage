@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3395](https://github.com/Azure/sdk-release-request/issues/3395) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 | Attention to inconsistent tag | 11-10 | 11-25 |  |
 | [#3391](https://github.com/Azure/sdk-release-request/issues/3391) | Wzb123456789 | azure-mgmt-desktopvirtualization | Wzb123456789 |  | 11-09 | 11-25 |  |
 | [#3390](https://github.com/Azure/sdk-release-request/issues/3390) | Wzb123456789 | azure-mgmt-quota | Wzb123456789 |  | 11-09 | 11-25 |  |
 | [#3388](https://github.com/Azure/sdk-release-request/issues/3388) | Wzb123456789 | azure-mgmt-hybridkubernetes | Wzb123456789 |  | 11-09 | 11-25 |  |
