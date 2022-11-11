@@ -1,4 +1,10 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-sql,Wzb123456789,2022-10-19,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3281,4.0.0b5,
+azure-mgmt-storagepool,Wzb123456789,2022-11-09,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3386,1.1.0b1,
+azure-mgmt-baremetalinfrastructure,Wzb123456789,2022-11-09,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3387,1.1.0b1,
+azure-mgmt-hybridkubernetes,Wzb123456789,2022-11-09,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3388,1.2.0b1,
+azure-mgmt-quota,Wzb123456789,2022-11-09,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3390,1.1.0b3,
+azure-mgmt-desktopvirtualization,Wzb123456789,2022-11-09,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3391,1.0.0b2,
 azure-mgmt-servicefabric,Wzb123456789,2022-11-08,2022-11-09,https://github.com/Azure/sdk-release-request/issues/3382,2.1.0b1,
 azure-mgmt-containerservice,Wzb123456789,2022-11-02,2022-11-09,https://github.com/Azure/sdk-release-request/issues/3345,20.7.0,True
 azure-mgmt-relay,Wzb123456789,2022-11-08,2022-11-09,https://github.com/Azure/sdk-release-request/issues/3383,2.0.0b1,
