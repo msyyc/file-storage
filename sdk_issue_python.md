@@ -1,11 +1,11 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27364](https://github.com/Azure/azure-sdk-for-python/issues/27364)|az vm list error by ComputeManagementclient used the package to 28.0.0 |Compute, Mgmt, needs-author-feedback, CXP Attention|msyyc|new comment|2022-11-08|
+|1|[#27364](https://github.com/Azure/azure-sdk-for-python/issues/27364)|az vm list error by ComputeManagementclient used the package to 28.0.0 |Compute, Mgmt, needs-author-feedback, CXP Attention|msyyc||2022-11-08|
 |2|[#27357](https://github.com/Azure/azure-sdk-for-python/issues/27357)|Readonly attribute will be ignored in class <class 'azure.mgmt.appconfiguration.v2022_05_01.models._models_py3.KeyValue'>|Mgmt, needs-author-feedback, App Configuration, CXP Attention|msyyc||2022-11-08|
-|3|[#27327](https://github.com/Azure/azure-sdk-for-python/issues/27327)|The resource type 'alerts' could not be found in the namespace 'Microsoft.CostManagement' for api version '2019-11-01'|Mgmt, issue-addressed, CXP Attention, Cost Management - Query|msyyc|new comment|2022-11-07|
+|3|[#27327](https://github.com/Azure/azure-sdk-for-python/issues/27327)|The resource type 'alerts' could not be found in the namespace 'Microsoft.CostManagement' for api version '2019-11-01'|Mgmt, issue-addressed, Cost Management - Query|msyyc|new comment|2022-11-07|
 |4|[#27175](https://github.com/Azure/azure-sdk-for-python/issues/27175)|[EventHub Mgmt] Deprecated Asyncio.coroutine decorator in test|Event Hubs, Client, Mgmt|msyyc|no reply > 7|2022-10-28|
 |5|[#27092](https://github.com/Azure/azure-sdk-for-python/issues/27092)|How to use check if Advance Threat Protection is enabled azure-mgmt-security package? |question, Security, Mgmt, customer-reported, issue-addressed|msyyc||2022-10-26|
-|6|[#27071](https://github.com/Azure/azure-sdk-for-python/issues/27071)|[Web PubSub Service] web_pub_sub's get and list method doesn't work|Docs, question, Mgmt, customer-reported, needs-team-attention, WebPubSub|msyyc||2022-10-26|
+|6|[#27071](https://github.com/Azure/azure-sdk-for-python/issues/27071)|[Web PubSub Service] web_pub_sub's get and list method doesn't work|Docs, question, Mgmt, customer-reported, needs-team-attention, WebPubSub|msyyc|no reply > 7|2022-10-26|
 |7|[#27068](https://github.com/Azure/azure-sdk-for-python/issues/27068)|[Container Instances] ContainerGroups list method result doesn't have instance_view info|bug, Container Instances, Mgmt, customer-reported, issue-addressed|msyyc||2022-10-26|
 |8|[#26840](https://github.com/Azure/azure-sdk-for-python/issues/26840)|cannot update ssl_certificate into application gateway|question, Network - Application Gateway, Mgmt, customer-reported, issue-addressed|msyyc||2022-10-15|
 |9|[#26475](https://github.com/Azure/azure-sdk-for-python/issues/26475)|Outdated hyperlink on "Explore the Management APIs"|bug, Docs, Notification Hub, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2022-09-27|
@@ -18,7 +18,7 @@
 |16|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |17|[#22213](https://github.com/Azure/azure-sdk-for-python/issues/22213)|Create/Update Hub BGP Connection|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|msyyc|new comment|2021-12-17|
 |18|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
-|19|[#21346](https://github.com/Azure/azure-sdk-for-python/issues/21346)|azure-mgmt-webpubsub Ref docs issues|Docs, Mgmt, WebPubSub|msyyc||2021-10-20|
+|19|[#21346](https://github.com/Azure/azure-sdk-for-python/issues/21346)|azure-mgmt-webpubsub Ref docs issues|Docs, Mgmt, WebPubSub|msyyc|new comment|2021-10-20|
 |20|[#21306](https://github.com/Azure/azure-sdk-for-python/issues/21306)|[Python] Upgrade service documents from Track 1 to Track 2|Mgmt, MQ|msyyc|new comment|2021-10-18|
 |21|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|msyyc, BigCat20196|new comment|2021-08-16|
 |22|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
