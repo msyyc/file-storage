@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3405](https://github.com/Azure/sdk-release-request/issues/3405) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 11-14 | 12-23 |  |
+| [#3405](https://github.com/Azure/sdk-release-request/issues/3405) | alanenriqueo | azure-mgmt-rdbms | Wzb123456789 | new issue. MultiAPI | 11-14 | 12-23 |  |
 | [#3403](https://github.com/Azure/sdk-release-request/issues/3403) | Wzb123456789 | azure-mgmt-apimanagement | Wzb123456789 |  | 11-11 | 12-23 |  |
 | [#3402](https://github.com/Azure/sdk-release-request/issues/3402) | Wzb123456789 | azure-mgmt-notificationhubs | Wzb123456789 |  | 11-11 | 12-23 |  |
 | [#3401](https://github.com/Azure/sdk-release-request/issues/3401) | Wzb123456789 | azure-mgmt-streamanalytics | Wzb123456789 |  | 11-11 | 12-23 |  |
