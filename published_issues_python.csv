@@ -1,4 +1,8 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-maintenance,Wzb123456789,2022-11-11,2022-11-14,https://github.com/Azure/sdk-release-request/issues/3400,2.1.0b2,
+azure-mgmt-streamanalytics,Wzb123456789,2022-11-11,2022-11-14,https://github.com/Azure/sdk-release-request/issues/3401,2.0.0b1,
+azure-mgmt-notificationhubs,Wzb123456789,2022-11-11,2022-11-14,https://github.com/Azure/sdk-release-request/issues/3402,8.1.0b1,
+azure-mgmt-apimanagement,Wzb123456789,2022-11-11,2022-11-14,https://github.com/Azure/sdk-release-request/issues/3403,3.1.0b1,
 azure-mgmt-rdbms,Wzb123456789,2022-11-14,2022-11-14,https://github.com/Azure/sdk-release-request/issues/3405,10.2.0b5,
 azure-mgmt-sql,Wzb123456789,2022-10-19,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3281,4.0.0b5,
 azure-mgmt-storagepool,Wzb123456789,2022-11-09,2022-11-11,https://github.com/Azure/sdk-release-request/issues/3386,1.1.0b1,

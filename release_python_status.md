@@ -1,9 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3403](https://github.com/Azure/sdk-release-request/issues/3403) | Wzb123456789 | azure-mgmt-apimanagement | Wzb123456789 |  | 11-11 | 12-23 |  |
-| [#3402](https://github.com/Azure/sdk-release-request/issues/3402) | Wzb123456789 | azure-mgmt-notificationhubs | Wzb123456789 |  | 11-11 | 12-23 |  |
-| [#3401](https://github.com/Azure/sdk-release-request/issues/3401) | Wzb123456789 | azure-mgmt-streamanalytics | Wzb123456789 |  | 11-11 | 12-23 |  |
-| [#3400](https://github.com/Azure/sdk-release-request/issues/3400) | Wzb123456789 | azure-mgmt-maintenance | Wzb123456789 |  | 11-11 | 12-23 |  |
 | [#3395](https://github.com/Azure/sdk-release-request/issues/3395) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 |  | 11-10 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 |  | 11-02 | 11-25 |  |
