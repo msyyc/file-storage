@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3410](https://github.com/Azure/sdk-release-request/issues/3410) | evelyn-ys | azure-mgmt-storage | Wzb123456789 | new issue. MultiAPI | 11-15 | 12-23 |  |
+| [#3410](https://github.com/Azure/sdk-release-request/issues/3410) | evelyn-ys | azure-mgmt-storage | Wzb123456789 | new issue. | 11-15 | 12-23 |  |
 | [#3409](https://github.com/Azure/sdk-release-request/issues/3409) | kerend | azure-mgmt-security | Wzb123456789 | duplicated issue  <br> new issue. close to release date.  MultiAPI | 11-14 | 11-15 | 0 |
 | [#3395](https://github.com/Azure/sdk-release-request/issues/3395) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 |  | 11-10 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
