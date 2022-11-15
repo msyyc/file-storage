@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3413](https://github.com/Azure/sdk-release-request/issues/3413) | msyyc | azure-mgmt-resourcehealth | Wzb123456789 | new issue. MultiAPI | 11-15 | 12-23 |  |
+| [#3413](https://github.com/Azure/sdk-release-request/issues/3413) | msyyc | azure-mgmt-resourcehealth | Wzb123456789 | new version is 0.0.0, please check base branch! | 11-15 | 12-23 |  |
 | [#3412](https://github.com/Azure/sdk-release-request/issues/3412) | Wzb123456789 | azure-mgmt-oep | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3411](https://github.com/Azure/sdk-release-request/issues/3411) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 | new issue. MultiAPI | 11-15 | 12-23 |  |
 | [#3410](https://github.com/Azure/sdk-release-request/issues/3410) | evelyn-ys | azure-mgmt-storage | Wzb123456789 |  | 11-15 | 12-23 |  |
@@ -9,5 +9,4 @@
 | [#3361](https://github.com/Azure/sdk-release-request/issues/3361) | simanor | azure-mgmt-security | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 10-28 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
-| [#3288](https://github.com/Azure/sdk-release-request/issues/3288) | Sherylueen | azure-mgmt-appcomplianceautomation | Wzb123456789 | close to release date.  On time | 10-24 | 11-16 | 0 |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |
