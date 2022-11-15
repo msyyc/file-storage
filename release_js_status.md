@@ -3,7 +3,7 @@
 | [#3408](https://github.com/Azure/sdk-release-request/issues/3408) | kerend |  | MaryGao | new issue. close to release date.  | 11-14 | 11-15 | 0 |
 | [#3398](https://github.com/Azure/sdk-release-request/issues/3398) | shams11 |  | qiaozha |  | 11-10 | 11-25 |  |
 | [#3393](https://github.com/Azure/sdk-release-request/issues/3393) | NickKouds |  | qiaozha |  | 11-09 | 11-25 |  |
-| [#3381](https://github.com/Azure/sdk-release-request/issues/3381) | utkarshjain1508 |  | qiaozha | new comment. | 11-07 | 11-25 |  |
+| [#3381](https://github.com/Azure/sdk-release-request/issues/3381) | utkarshjain1508 |  | qiaozha |  | 11-07 | 11-25 |  |
 | [#3360](https://github.com/Azure/sdk-release-request/issues/3360) | simanor |  | MaryGao |  | 11-02 | 11-25 |  |
 | [#3353](https://github.com/Azure/sdk-release-request/issues/3353) | juniwang |  | MaryGao | new comment. | 11-02 | 11-25 |  |
 | [#3346](https://github.com/Azure/sdk-release-request/issues/3346) | juniwang |  | MaryGao |  | 11-02 | 11-25 |  |
