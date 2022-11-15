@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3413](https://github.com/Azure/sdk-release-request/issues/3413) | msyyc | azure-mgmt-resourcehealth | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3412](https://github.com/Azure/sdk-release-request/issues/3412) | Wzb123456789 | azure-mgmt-oep | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3411](https://github.com/Azure/sdk-release-request/issues/3411) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 | new issue. MultiAPI | 11-15 | 12-23 |  |
 | [#3410](https://github.com/Azure/sdk-release-request/issues/3410) | evelyn-ys | azure-mgmt-storage | Wzb123456789 |  | 11-15 | 12-23 |  |
