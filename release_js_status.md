@@ -18,6 +18,5 @@
 | [#3286](https://github.com/Azure/sdk-release-request/issues/3286) | Sherylueen |  | qiaozha |  | 10-24 | 11-25 |  |
 | [#3280](https://github.com/Azure/sdk-release-request/issues/3280) | yangyuan |  | MaryGao |  | 10-18 | 11-25 |  |
 | [#3262](https://github.com/Azure/sdk-release-request/issues/3262) | venkatr21 |  | qiaozha | new comment. | 10-12 | 10-28 |  |
-| [#3262](https://github.com/Azure/sdk-release-request/issues/3262) | venkatr21 |  | qiaozha | new comment. | 10-12 | 10-28 |  |
 | [#3234](https://github.com/Azure/sdk-release-request/issues/3234) | Sandido |  | qiaozha |  | 09-30 | 10-17 |  |
 | [#3149](https://github.com/Azure/sdk-release-request/issues/3149) | HariPrasadV |  | MaryGao |  | 09-07 | 10-11 |  |
