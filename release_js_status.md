@@ -1,6 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3408](https://github.com/Azure/sdk-release-request/issues/3408) | kerend |  | MaryGao | close to release date.  | 11-14 | 11-15 | 0 |
+| [#3419](https://github.com/Azure/sdk-release-request/issues/3419) | nickdepinet |  | MaryGao | new issue. | 11-15 | 12-23 |  |
+| [#3408](https://github.com/Azure/sdk-release-request/issues/3408) | kerend |  | MaryGao | close to release date.  | 11-14 | 11-15 | -1 |
 | [#3398](https://github.com/Azure/sdk-release-request/issues/3398) | shams11 |  | qiaozha |  | 11-10 | 11-25 |  |
 | [#3393](https://github.com/Azure/sdk-release-request/issues/3393) | NickKouds |  | qiaozha |  | 11-09 | 11-25 |  |
 | [#3381](https://github.com/Azure/sdk-release-request/issues/3381) | utkarshjain1508 |  | qiaozha |  | 11-07 | 11-25 |  |
