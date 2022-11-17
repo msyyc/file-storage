@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27534](https://github.com/Azure/azure-sdk-for-python/issues/27534)|EventHub configurations PATCH Method|feature-request, Event Hubs, Mgmt, customer-reported, CXP Attention|msyyc|new comment|2022-11-16|
+|1|[#27534](https://github.com/Azure/azure-sdk-for-python/issues/27534)|EventHub configurations PATCH Method|feature-request, Event Hubs, Mgmt, customer-reported, Messaging, CXP Attention|msyyc|new comment|2022-11-16|
 |2|[#27504](https://github.com/Azure/azure-sdk-for-python/issues/27504)|Scale set virtual machine instance creation time|Compute, Mgmt, needs-author-feedback|msyyc||2022-11-15|
 |3|[#27364](https://github.com/Azure/azure-sdk-for-python/issues/27364)|az vm list error by ComputeManagementclient used the package to 28.0.0 |Compute, Mgmt, needs-author-feedback, CXP Attention|msyyc||2022-11-08|
 |4|[#27357](https://github.com/Azure/azure-sdk-for-python/issues/27357)|Readonly attribute will be ignored in class <class 'azure.mgmt.appconfiguration.v2022_05_01.models._models_py3.KeyValue'>|Mgmt, needs-author-feedback, App Configuration, CXP Attention|msyyc||2022-11-08|
@@ -10,7 +10,7 @@
 |8|[#27068](https://github.com/Azure/azure-sdk-for-python/issues/27068)|[Container Instances] ContainerGroups list method result doesn't have instance_view info|bug, Container Instances, Mgmt, customer-reported, issue-addressed|msyyc||2022-10-26|
 |9|[#26840](https://github.com/Azure/azure-sdk-for-python/issues/26840)|cannot update ssl_certificate into application gateway|question, Network - Application Gateway, Mgmt, customer-reported, issue-addressed|msyyc||2022-10-15|
 |10|[#26475](https://github.com/Azure/azure-sdk-for-python/issues/26475)|Outdated hyperlink on "Explore the Management APIs"|bug, Docs, Notification Hub, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2022-09-27|
-|11|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|no reply > 7|2022-06-07|
+|11|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|no reply > 7|2022-06-07|
 |12|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
 |13|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |14|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
@@ -21,8 +21,8 @@
 |19|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |20|[#21346](https://github.com/Azure/azure-sdk-for-python/issues/21346)|azure-mgmt-webpubsub Ref docs issues|Docs, Mgmt, WebPubSub|msyyc||2021-10-20|
 |21|[#21306](https://github.com/Azure/azure-sdk-for-python/issues/21306)|[Python] Upgrade service documents from Track 1 to Track 2|Mgmt, MQ|msyyc|new comment|2021-10-18|
-|22|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|BigCat20196, msyyc|new comment|2021-08-16|
+|22|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|msyyc, BigCat20196|new comment|2021-08-16|
 |23|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
 |24|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc|new comment|2021-04-05|
-|25|[#11149](https://github.com/Azure/azure-sdk-for-python/issues/11149)|azure-mgmt-network is huge|question, Service Attention, Network - Virtual Network, Mgmt, customer-reported, needs-team-attention|msyyc, MikhailTryakhov|new comment|2020-04-30|
+|25|[#11149](https://github.com/Azure/azure-sdk-for-python/issues/11149)|azure-mgmt-network is huge|question, Service Attention, Network - Virtual Network, Mgmt, customer-reported, needs-team-attention|MikhailTryakhov, msyyc|new comment|2020-04-30|
 |26|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
