@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3427](https://github.com/Azure/sdk-release-request/issues/3427) | kukulkarni1 | azure-mgmt-networkfunction | Wzb123456789 | new issue. | 11-16 | 12-23 |  |
+| [#3427](https://github.com/Azure/sdk-release-request/issues/3427) | kukulkarni1 | azure-mgmt-networkfunction | Wzb123456789 |  | 11-16 | 12-23 |  |
 | [#3417](https://github.com/Azure/sdk-release-request/issues/3417) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3415](https://github.com/Azure/sdk-release-request/issues/3415) | Wzb123456789 | azure-mgmt-signalr | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3414](https://github.com/Azure/sdk-release-request/issues/3414) | Wzb123456789 | azure-mgmt-iothubprovisioningservices | Wzb123456789 |  | 11-15 | 12-23 |  |
