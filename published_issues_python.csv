@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-networkfunction,Wzb123456789,2022-11-16,2022-11-18,https://github.com/Azure/sdk-release-request/issues/3427,1.0.0b1,
 azure-mgmt-storage,Wzb123456789,2022-11-15,2022-11-17,https://github.com/Azure/sdk-release-request/issues/3410,21.0.0,True
 azure-mgmt-oep,Wzb123456789,2022-11-15,2022-11-17,https://github.com/Azure/sdk-release-request/issues/3412,1.0.0b2,
 azure-mgmt-iothubprovisioningservices,Wzb123456789,2022-11-15,2022-11-17,https://github.com/Azure/sdk-release-request/issues/3414,1.2.0b1,
