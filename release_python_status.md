@@ -3,6 +3,7 @@
 | [#3445](https://github.com/Azure/sdk-release-request/issues/3445) | meghanagupta95 | azure-mgmt-resource | Wzb123456789 |  | 11-17 | 12-23 |  |
 | [#3417](https://github.com/Azure/sdk-release-request/issues/3417) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3395](https://github.com/Azure/sdk-release-request/issues/3395) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 |  | 11-10 | 11-25 |  |
+| [#3369](https://github.com/Azure/sdk-release-request/issues/3369) | Wzb123456789 | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 | new issue. | 11-04 | 11-25 |  |
 | [#3368](https://github.com/Azure/sdk-release-request/issues/3368) | Wzb123456789 | azure-mgmt-databricks | Wzb123456789 |  | 11-04 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
 | [#3329](https://github.com/Azure/sdk-release-request/issues/3329) | Wzb123456789 | azure-mgmt-hybridcompute | Wzb123456789 |  | 10-31 | 11-25 |  |
