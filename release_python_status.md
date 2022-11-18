@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3445](https://github.com/Azure/sdk-release-request/issues/3445) | meghanagupta95 | azure-mgmt-resource | Wzb123456789 | new issue. MultiAPI | 11-17 | 12-23 |  |
+| [#3445](https://github.com/Azure/sdk-release-request/issues/3445) | meghanagupta95 | azure-mgmt-resource | Wzb123456789 |  | 11-17 | 12-23 |  |
 | [#3427](https://github.com/Azure/sdk-release-request/issues/3427) | kukulkarni1 | azure-mgmt-networkfunction | Wzb123456789 |  | 11-16 | 12-23 |  |
 | [#3417](https://github.com/Azure/sdk-release-request/issues/3417) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3395](https://github.com/Azure/sdk-release-request/issues/3395) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 |  | 11-10 | 11-25 |  |
