@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3426](https://github.com/Azure/sdk-release-request/issues/3426) | kukulkarni1 |  | Alancere |  | 11-16 | 12-23 |  |
+| [#3426](https://github.com/Azure/sdk-release-request/issues/3426) | kukulkarni1 |  | Alancere | new comment. | 11-16 | 12-23 |  |
 | [#3422](https://github.com/Azure/sdk-release-request/issues/3422) | yifanz0 |  | Alancere |  | 11-16 | 12-23 |  |
 | [#3420](https://github.com/Azure/sdk-release-request/issues/3420) | nickdepinet |  | Alancere |  | 11-15 | 12-23 |  |
 | [#3406](https://github.com/Azure/sdk-release-request/issues/3406) | kerend |  | Alancere |  | 11-14 | 11-15 |  |
@@ -18,4 +18,4 @@
 | [#3299](https://github.com/Azure/sdk-release-request/issues/3299) | Frey-Wang |  | Alancere |  | 10-26 | 11-25 |  |
 | [#3295](https://github.com/Azure/sdk-release-request/issues/3295) | FumingZhang |  | Alancere | new comment. | 10-25 | 11-25 |  |
 | [#3291](https://github.com/Azure/sdk-release-request/issues/3291) | harneetvirk |  | Alancere |  | 10-25 | 11-25 |  |
-| [#3287](https://github.com/Azure/sdk-release-request/issues/3287) | Sherylueen |  | Alancere | close to release date.  | 10-24 | 11-16 | -2 |
+| [#3287](https://github.com/Azure/sdk-release-request/issues/3287) | Sherylueen |  | Alancere |  | 10-24 | 11-16 |  |
