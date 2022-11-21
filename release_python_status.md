@@ -3,16 +3,8 @@
 | [#3445](https://github.com/Azure/sdk-release-request/issues/3445) | meghanagupta95 | azure-mgmt-resource | Wzb123456789 |  | 11-17 | 12-23 |  |
 | [#3417](https://github.com/Azure/sdk-release-request/issues/3417) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 11-15 | 12-23 |  |
 | [#3395](https://github.com/Azure/sdk-release-request/issues/3395) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 |  | 11-10 | 11-25 |  |
-| [#3389](https://github.com/Azure/sdk-release-request/issues/3389) | Wzb123456789 | azure-mgmt-azurearcdata | Wzb123456789 |  | 11-09 | 11-25 |  |
 | [#3384](https://github.com/Azure/sdk-release-request/issues/3384) | Wzb123456789 | azure-mgmt-hdinsight | Wzb123456789 |  | 11-08 | 11-25 |  |
-| [#3376](https://github.com/Azure/sdk-release-request/issues/3376) | Wzb123456789 | azure-mgmt-datamigration | Wzb123456789 |  | 11-07 | 11-25 |  |
-| [#3373](https://github.com/Azure/sdk-release-request/issues/3373) | Wzb123456789 | azure-mgmt-hybridnetwork | Wzb123456789 |  | 11-07 | 11-25 |  |
-| [#3369](https://github.com/Azure/sdk-release-request/issues/3369) | Wzb123456789 | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 |  | 11-04 | 11-25 |  |
-| [#3368](https://github.com/Azure/sdk-release-request/issues/3368) | Wzb123456789 | azure-mgmt-databricks | Wzb123456789 |  | 11-04 | 11-25 |  |
 | [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 |  | 11-02 | 11-25 |  |
-| [#3329](https://github.com/Azure/sdk-release-request/issues/3329) | Wzb123456789 | azure-mgmt-hybridcompute | Wzb123456789 |  | 10-31 | 11-25 |  |
-| [#3325](https://github.com/Azure/sdk-release-request/issues/3325) | Wzb123456789 | azure-mgmt-azurestack | Wzb123456789 |  | 10-31 | 11-25 |  |
 | [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 10-28 | 11-25 |  |
-| [#3309](https://github.com/Azure/sdk-release-request/issues/3309) | Wzb123456789 | azure-mgmt-machinelearningservices | Wzb123456789 |  | 10-27 | 11-25 |  |
 | [#3300](https://github.com/Azure/sdk-release-request/issues/3300) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 10-26 | 11-25 |  |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |

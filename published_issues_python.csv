@@ -1,4 +1,12 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-machinelearningservices,Wzb123456789,2022-10-27,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3309,2.0.0b1,
+azure-mgmt-azurestack,Wzb123456789,2022-10-31,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3325,2.0.0b1,
+azure-mgmt-hybridcompute,Wzb123456789,2022-10-31,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3329,8.0.0b1,
+azure-mgmt-databricks,Wzb123456789,2022-11-04,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3368,1.1.0b2,
+azure-mgmt-recoveryservicessiterecovery,Wzb123456789,2022-11-04,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3369,1.0.0b2,
+azure-mgmt-hybridnetwork,Wzb123456789,2022-11-07,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3373,2.0.0b1,
+azure-mgmt-datamigration,Wzb123456789,2022-11-07,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3376,10.1.0b1,
+azure-mgmt-azurearcdata,Wzb123456789,2022-11-09,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3389,2.0.0b1,
 azure-mgmt-networkfunction,Wzb123456789,2022-11-16,2022-11-18,https://github.com/Azure/sdk-release-request/issues/3427,1.0.0b1,
 azure-mgmt-storage,Wzb123456789,2022-11-15,2022-11-17,https://github.com/Azure/sdk-release-request/issues/3410,21.0.0,True
 azure-mgmt-oep,Wzb123456789,2022-11-15,2022-11-17,https://github.com/Azure/sdk-release-request/issues/3412,1.0.0b2,
