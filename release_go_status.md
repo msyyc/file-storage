@@ -16,6 +16,6 @@
 | [#3321](https://github.com/Azure/sdk-release-request/issues/3321) | imsiddhartha |  | Alancere | close to release date.  | 10-28 | 11-25 | 2 |
 | [#3302](https://github.com/Azure/sdk-release-request/issues/3302) | nickdepinet |  | Alancere | new comment. close to release date.  | 10-26 | 11-25 | 2 |
 | [#3299](https://github.com/Azure/sdk-release-request/issues/3299) | Frey-Wang |  | Alancere | close to release date.  | 10-26 | 11-25 | 2 |
-| [#3295](https://github.com/Azure/sdk-release-request/issues/3295) | FumingZhang |  | Alancere | new comment. close to release date.  | 10-25 | 11-25 | 2 |
+| [#3295](https://github.com/Azure/sdk-release-request/issues/3295) | FumingZhang |  | Alancere | close to release date.  | 10-25 | 11-25 | 2 |
 | [#3291](https://github.com/Azure/sdk-release-request/issues/3291) | harneetvirk |  | Alancere | close to release date.  | 10-25 | 11-25 | 2 |
 | [#3287](https://github.com/Azure/sdk-release-request/issues/3287) | Sherylueen |  | Alancere |  | 10-24 | 11-16 |  |
