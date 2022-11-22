@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-datafactory,Wzb123456789,2022-10-26,2022-11-22,https://github.com/Azure/sdk-release-request/issues/3300,2.10.0,True
 azure-mgmt-machinelearningservices,Wzb123456789,2022-10-27,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3309,2.0.0b1,
 azure-mgmt-azurestack,Wzb123456789,2022-10-31,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3325,2.0.0b1,
 azure-mgmt-hybridcompute,Wzb123456789,2022-10-31,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3329,8.0.0b1,
