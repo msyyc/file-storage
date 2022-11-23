@@ -1,4 +1,7 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-frontdoor,Wzb123456789,2022-11-22,2022-11-23,https://github.com/Azure/sdk-release-request/issues/3447,1.1.0b1,
+azure-mgmt-healthcareapis,Wzb123456789,2022-11-22,2022-11-23,https://github.com/Azure/sdk-release-request/issues/3448,1.2.0b1,
+azure-mgmt-redisenterprise,Wzb123456789,2022-11-22,2022-11-23,https://github.com/Azure/sdk-release-request/issues/3449,2.1.0b1,
 azure-mgmt-datafactory,Wzb123456789,2022-10-26,2022-11-22,https://github.com/Azure/sdk-release-request/issues/3300,2.10.0,True
 azure-mgmt-machinelearningservices,Wzb123456789,2022-10-27,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3309,2.0.0b1,
 azure-mgmt-azurestack,Wzb123456789,2022-10-31,2022-11-21,https://github.com/Azure/sdk-release-request/issues/3325,2.0.0b1,
