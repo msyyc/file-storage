@@ -6,6 +6,6 @@
 | [#3446](https://github.com/Azure/sdk-release-request/issues/3446) | houk-ms | azure-mgmt-servicelinker | Wzb123456789 |  | 11-22 | 12-23 |  |
 | [#3445](https://github.com/Azure/sdk-release-request/issues/3445) | meghanagupta95 | azure-mgmt-resource | Wzb123456789 |  | 11-17 | 12-23 |  |
 | [#3417](https://github.com/Azure/sdk-release-request/issues/3417) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 |  | 11-15 | 12-23 |  |
-| [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 | close to release date.  | 11-02 | 11-25 | 2 |
-| [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 | close to release date.  | 10-28 | 11-25 | 2 |
+| [#3364](https://github.com/Azure/sdk-release-request/issues/3364) | wiboris | azure-mgmt-batch | Wzb123456789 | close to release date.  | 11-02 | 11-25 | 1 |
+| [#3323](https://github.com/Azure/sdk-release-request/issues/3323) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 | new comment. close to release date.  | 10-28 | 11-25 | 1 |
 | [#3148](https://github.com/Azure/sdk-release-request/issues/3148) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 09-07 | 10-11 |  |
