@@ -7,5 +7,4 @@
 | [#3379](https://github.com/Azure/sdk-release-request/issues/3379) | utkarshjain1508 |  | haolingdong-msft | new issue. new comment. close to release date.  | 11-07 | 11-25 | 1 |
 | [#3298](https://github.com/Azure/sdk-release-request/issues/3298) | Frey-Wang |  | XiaofeiCao | new issue. close to release date.  | 10-26 | 11-25 | 1 |
 | [#3290](https://github.com/Azure/sdk-release-request/issues/3290) | harneetvirk |  | XiaofeiCao | close to release date.  Attention to inconsistent tag | 10-25 | 11-25 | 1 |
-| [#3277](https://github.com/Azure/sdk-release-request/issues/3277) | yangyuan |  | haolingdong-msft | new issue. close to release date.  | 10-18 | 11-25 | 1 |
 | [#3235](https://github.com/Azure/sdk-release-request/issues/3235) | Sandido |  | weidongxu-microsoft |  | 09-30 | 10-17 |  |
