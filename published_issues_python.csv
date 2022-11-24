@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-devcenter,Wzb123456789,2022-11-15,2022-11-24,https://github.com/Azure/sdk-release-request/issues/3417,1.0.0b4,
 azure-mgmt-frontdoor,Wzb123456789,2022-11-22,2022-11-23,https://github.com/Azure/sdk-release-request/issues/3447,1.1.0b1,
 azure-mgmt-healthcareapis,Wzb123456789,2022-11-22,2022-11-23,https://github.com/Azure/sdk-release-request/issues/3448,1.2.0b1,
 azure-mgmt-redisenterprise,Wzb123456789,2022-11-22,2022-11-23,https://github.com/Azure/sdk-release-request/issues/3449,2.1.0b1,
