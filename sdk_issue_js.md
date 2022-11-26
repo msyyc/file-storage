@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#23846](https://github.com/Azure/azure-sdk-for-js/issues/23846)|`rmClient.resourceGroups.list().byPage({ maxPageSize: 100 })` throws "maxPageSize is not supported by this operation" ` after upgrading to @azure/arm-resources 5.1.0|Mgmt, ARM, needs-author-feedback, no-recent-activity|qiaozha|new comment|2022-11-15|
 |2|[#23682](https://github.com/Azure/azure-sdk-for-js/issues/23682)|@azure/arm-subscriptions SubscriptionClient `subscriptions.list` fails in AzureGovernment|question, customer-reported, Mgmt, Operations Management|qiaozha|new comment|2022-11-02|
-|3|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|qiaozha, kazrael2119||2022-10-14|
+|3|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|kazrael2119, qiaozha||2022-10-14|
 |4|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |5|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
 |6|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha, xboxeer||2022-07-29|
