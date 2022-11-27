@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#19588](https://github.com/Azure/azure-sdk-for-go/issues/19588)|VMSS Flex VM instances cannot be deleted|question, Compute, Mgmt, customer-reported, needs-team-attention, needs-author-feedback|ArcturusZhang, lirenhe||2022-11-17|
+|1|[#19588](https://github.com/Azure/azure-sdk-for-go/issues/19588)|VMSS Flex VM instances cannot be deleted|question, Compute, Mgmt, customer-reported, needs-team-attention, needs-author-feedback|lirenhe, ArcturusZhang||2022-11-17|
 |2|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-11-14|
 |3|[#19195](https://github.com/Azure/azure-sdk-for-go/issues/19195)|containerregistry/armcontainerregistry lacks implementation regarding image repositories and tags|Container Registry, Client, Mgmt, feature-request|tadelesh, lirenhe|new comment|2022-09-23|
 |4|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
-|5|[#19131](https://github.com/Azure/azure-sdk-for-go/issues/19131)|Data fields are missing from VirtualMachineScaleSetVMInstanceView data model|bug, Compute, Service Attention, Mgmt|am4234m, lirenhe|new comment|2022-09-15|
+|5|[#19131](https://github.com/Azure/azure-sdk-for-go/issues/19131)|Data fields are missing from VirtualMachineScaleSetVMInstanceView data model|bug, Compute, Service Attention, Mgmt|lirenhe, am4234m|new comment|2022-09-15|
 |6|[#19026](https://github.com/Azure/azure-sdk-for-go/issues/19026)|Restore from File share snapshot|question, Storage, Mgmt, customer-reported|lirenhe|new comment|2022-09-05|
 |7|[#18705](https://github.com/Azure/azure-sdk-for-go/issues/18705)|How can I get VM Private and Public IP addresses |question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-27|
 |8|[#18590](https://github.com/Azure/azure-sdk-for-go/issues/18590)|Unable to expand planInformation on Reservation Order|bug, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-14|
@@ -18,7 +18,7 @@
 |16|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-02-18|
 |17|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
 |18|[#17013](https://github.com/Azure/azure-sdk-for-go/issues/17013)|Firewall Delete failure|bug, Service Attention, Mgmt, Service, Network - Firewall|ArcturusZhang|new comment|2022-02-09|
-|19|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|Alancere, ericshape, ArcturusZhang|new comment|2022-02-08|
+|19|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|Alancere, ArcturusZhang, ericshape|new comment|2022-02-08|
 |20|[#16716](https://github.com/Azure/azure-sdk-for-go/issues/16716)|Resource Health -- Events API|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2021-12-27|
 |21|[#16703](https://github.com/Azure/azure-sdk-for-go/issues/16703)|How to create Azure AD app using service principal credentials with Microsoft Graph API|question, Compute, Mgmt, customer-reported, needs-team-attention, Previous Versions|lirenhe|new comment|2021-12-23|
 |22|[#16504](https://github.com/Azure/azure-sdk-for-go/issues/16504)|Azure API version used by Modules|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2021-12-08|
