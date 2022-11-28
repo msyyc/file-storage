@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3465](https://github.com/Azure/sdk-release-request/issues/3465) | Wzb123456789 | azure-mgmt-communication | Wzb123456789 | new version is 0.0.0, please check base branch! | 11-28 | 12-23 |  |
+| [#3465](https://github.com/Azure/sdk-release-request/issues/3465) | Wzb123456789 | azure-mgmt-communication | Wzb123456789 |  | 11-28 | 12-23 |  |
 | [#3464](https://github.com/Azure/sdk-release-request/issues/3464) | Wzb123456789 | azure-mgmt-imagebuilder | Wzb123456789 |  | 11-28 | 12-23 |  |
 | [#3459](https://github.com/Azure/sdk-release-request/issues/3459) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 11-24 | 12-23 |  |
 | [#3456](https://github.com/Azure/sdk-release-request/issues/3456) | msyyc | azure-mgmt-workloadmonitor | Wzb123456789 |  | 11-24 | 12-23 |  |
