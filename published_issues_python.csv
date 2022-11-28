@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-azurestackhci,Wzb123456789,2022-11-25,2022-11-28,https://github.com/Azure/sdk-release-request/issues/3462,8.0.0b1,
+azure-mgmt-confidentialledger,Wzb123456789,2022-11-25,2022-11-28,https://github.com/Azure/sdk-release-request/issues/3463,2.0.0b1,
 azure-mgmt-trafficmanager,Wzb123456789,2022-10-28,2022-11-25,https://github.com/Azure/sdk-release-request/issues/3323,1.1.0b1,
 azure-mgmt-synapse,Wzb123456789,2022-11-23,2022-11-24,https://github.com/Azure/sdk-release-request/issues/3454,2.1.0b6,
 azure-mgmt-scvmm,Wzb123456789,2022-11-23,2022-11-24,https://github.com/Azure/sdk-release-request/issues/3455,1.0.0b2,
