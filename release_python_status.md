@@ -1,5 +1,9 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3482](https://github.com/Azure/sdk-release-request/issues/3482) | Wzb123456789 | azure-mgmt-consumption | Wzb123456789 | new issue. | 11-30 | 12-23 |  |
+| [#3478](https://github.com/Azure/sdk-release-request/issues/3478) | zubairabid | azure-mgmt-recoveryservices | Wzb123456789 | new issue. | 11-30 | 12-23 |  |
+| [#3477](https://github.com/Azure/sdk-release-request/issues/3477) | Wzb123456789 | azure-mgmt-eventgrid | Wzb123456789 | new issue. | 11-30 | 12-23 |  |
+| [#3476](https://github.com/Azure/sdk-release-request/issues/3476) | Wzb123456789 | azure-mgmt-orbital | Wzb123456789 | new issue. | 11-30 | 12-23 |  |
 | [#3475](https://github.com/Azure/sdk-release-request/issues/3475) | pathuang-sia | azure-mgmt-azurestackhci | Wzb123456789 |  | 11-30 | 12-23 |  |
 | [#3472](https://github.com/Azure/sdk-release-request/issues/3472) | efriesner | azure-mgmt-digitaltwins | Wzb123456789 |  | 11-29 | 12-23 |  |
 | [#3469](https://github.com/Azure/sdk-release-request/issues/3469) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 11-29 | 12-23 |  |
