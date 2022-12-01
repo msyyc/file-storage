@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3474](https://github.com/Azure/sdk-release-request/issues/3474) | pathuang-sia |  | Alancere | Attention to inconsistent tag | 11-30 | 12-23 |  |
 | [#3467](https://github.com/Azure/sdk-release-request/issues/3467) | htippanaboya |  | Alancere |  | 11-29 | 12-23 |  |
-| [#3466](https://github.com/Azure/sdk-release-request/issues/3466) | ahamad-MS |  | Alancere | Attention to inconsistent tag | 11-28 | 12-23 |  |
+| [#3466](https://github.com/Azure/sdk-release-request/issues/3466) | ahamad-MS |  | Alancere | new comment. Attention to inconsistent tag | 11-28 | 12-23 |  |
 | [#3457](https://github.com/Azure/sdk-release-request/issues/3457) | FumingZhang |  | Alancere |  | 11-24 | 12-23 |  |
 | [#3451](https://github.com/Azure/sdk-release-request/issues/3451) | gaoyp830 |  | Alancere |  | 11-23 | 12-23 |  |
 | [#3426](https://github.com/Azure/sdk-release-request/issues/3426) | kukulkarni1 |  | Alancere |  | 11-16 | 12-23 |  |
