@@ -1,4 +1,8 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-orbital,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3476,1.1.0b1,
+azure-mgmt-eventgrid,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3477,10.3.0b1,
+azure-mgmt-botservice,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3483,2.0.0b4,
+azure-mgmt-workloads,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3484,1.0.0b2,
 azure-mgmt-recoveryservices,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3478,2.2.0,True
 azure-mgmt-imagebuilder,Wzb123456789,2022-11-28,2022-11-30,https://github.com/Azure/sdk-release-request/issues/3464,1.2.0b1,
 azure-mgmt-communication,Wzb123456789,2022-11-28,2022-11-30,https://github.com/Azure/sdk-release-request/issues/3465,2.0.0b2,
