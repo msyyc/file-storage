@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3533](https://github.com/Azure/sdk-release-request/issues/3533) | pradheepm | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 | new issue. | 12-06 | 12-23 |  |
+| [#3533](https://github.com/Azure/sdk-release-request/issues/3533) | pradheepm | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 |  | 12-06 | 12-23 |  |
 | [#3482](https://github.com/Azure/sdk-release-request/issues/3482) | Wzb123456789 | azure-mgmt-consumption | Wzb123456789 |  | 11-30 | 12-23 |  |
 | [#3475](https://github.com/Azure/sdk-release-request/issues/3475) | pathuang-sia | azure-mgmt-azurestackhci | Wzb123456789 |  | 11-30 | 12-23 |  |
 | [#3472](https://github.com/Azure/sdk-release-request/issues/3472) | efriesner | azure-mgmt-digitaltwins | Wzb123456789 |  | 11-29 | 12-23 |  |
