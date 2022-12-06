@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-servicelinker,Wzb123456789,2022-11-22,2022-12-06,https://github.com/Azure/sdk-release-request/issues/3446,1.2.0b1,
 azure-mgmt-orbital,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3476,1.1.0b1,
 azure-mgmt-eventgrid,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3477,10.3.0b1,
 azure-mgmt-botservice,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3483,2.0.0b4,
