@@ -3,7 +3,6 @@
 | [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 |  | 12-07 | 12-23 |  |
 | [#3533](https://github.com/Azure/sdk-release-request/issues/3533) | pradheepm | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 |  | 12-06 | 12-23 |  |
 | [#3526](https://github.com/Azure/sdk-release-request/issues/3526) | andrew-lee-metaswitch | azure-mgmt-mobilenetwork | Wzb123456789 | Attention to inconsistent tag | 12-05 | 12-23 |  |
-| [#3482](https://github.com/Azure/sdk-release-request/issues/3482) | Wzb123456789 | azure-mgmt-consumption | Wzb123456789 |  | 11-30 | 12-23 |  |
 | [#3475](https://github.com/Azure/sdk-release-request/issues/3475) | pathuang-sia | azure-mgmt-azurestackhci | Wzb123456789 |  | 11-30 | 12-23 |  |
 | [#3472](https://github.com/Azure/sdk-release-request/issues/3472) | efriesner | azure-mgmt-digitaltwins | Wzb123456789 |  | 11-29 | 12-23 |  |
 | [#3469](https://github.com/Azure/sdk-release-request/issues/3469) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 11-29 | 12-23 |  |
