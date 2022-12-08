@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 | new issue. | 12-07 | 12-23 |  |
+| [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 |  | 12-07 | 12-23 |  |
 | [#3533](https://github.com/Azure/sdk-release-request/issues/3533) | pradheepm | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 |  | 12-06 | 12-23 |  |
 | [#3526](https://github.com/Azure/sdk-release-request/issues/3526) | andrew-lee-metaswitch | azure-mgmt-mobilenetwork | Wzb123456789 | Attention to inconsistent tag | 12-05 | 12-23 |  |
 | [#3482](https://github.com/Azure/sdk-release-request/issues/3482) | Wzb123456789 | azure-mgmt-consumption | Wzb123456789 |  | 11-30 | 12-23 |  |
