@@ -3,7 +3,7 @@
 | [#3554](https://github.com/Azure/sdk-release-request/issues/3554) | Wzb123456789 | azure-mgmt-automation | Wzb123456789 | new issue. | 12-09 | 12-23 |  |
 | [#3553](https://github.com/Azure/sdk-release-request/issues/3553) | Wzb123456789 | azure-mgmt-storagecache | Wzb123456789 | new issue. | 12-09 | 12-23 |  |
 | [#3552](https://github.com/Azure/sdk-release-request/issues/3552) | Wzb123456789 | azure-mgmt-education | Wzb123456789 | new issue. | 12-09 | 12-23 |  |
-| [#3551](https://github.com/Azure/sdk-release-request/issues/3551) | Wzb123456789 | azure-mgmt-loganalytics | Wzb123456789 | Attention to inconsistent tag | 12-09 | 12-23 |  |
+| [#3551](https://github.com/Azure/sdk-release-request/issues/3551) | Wzb123456789 | azure-mgmt-loganalytics | Wzb123456789 | new issue. | 12-09 | 12-23 |  |
 | [#3550](https://github.com/Azure/sdk-release-request/issues/3550) | Wzb123456789 | azure-mgmt-resourceconnector | Wzb123456789 | new issue. | 12-09 | 12-23 |  |
 | [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 |  | 12-07 | 12-23 |  |
 | [#3538](https://github.com/Azure/sdk-release-request/issues/3538) | malpaniHMC |  | Wzb123456789 |  | 12-06 |  | 0 |
