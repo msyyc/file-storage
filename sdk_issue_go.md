@@ -3,7 +3,7 @@
 |1|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |2|[#19625](https://github.com/Azure/azure-sdk-for-go/issues/19625)|Get minimum TLS version of eventhub.namespace|question, Mgmt, customer-reported|ArcturusZhang||2022-11-26|
 |3|[#19621](https://github.com/Azure/azure-sdk-for-go/issues/19621)|PartnerDestination (Channel) APIs are missing|question, Mgmt, customer-reported|ArcturusZhang|new comment|2022-11-24|
-|4|[#19588](https://github.com/Azure/azure-sdk-for-go/issues/19588)|VMSS Flex VM instances cannot be deleted|question, Compute, Mgmt, customer-reported, needs-team-attention|lirenhe, ArcturusZhang|new comment|2022-11-17|
+|4|[#19588](https://github.com/Azure/azure-sdk-for-go/issues/19588)|VMSS Flex VM instances cannot be deleted|question, Compute, Mgmt, customer-reported, needs-team-attention|ArcturusZhang, lirenhe|new comment|2022-11-17|
 |5|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-11-14|
 |6|[#19195](https://github.com/Azure/azure-sdk-for-go/issues/19195)|containerregistry/armcontainerregistry lacks implementation regarding image repositories and tags|Container Registry, Client, Mgmt, feature-request|tadelesh, lirenhe|new comment|2022-09-23|
 |7|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
@@ -21,7 +21,7 @@
 |19|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-02-18|
 |20|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
 |21|[#17013](https://github.com/Azure/azure-sdk-for-go/issues/17013)|Firewall Delete failure|bug, Service Attention, Mgmt, Service, Network - Firewall|ArcturusZhang|new comment|2022-02-09|
-|22|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|Alancere, ericshape, ArcturusZhang|new comment|2022-02-08|
+|22|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|ArcturusZhang, ericshape, Alancere|new comment|2022-02-08|
 |23|[#16716](https://github.com/Azure/azure-sdk-for-go/issues/16716)|Resource Health -- Events API|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2021-12-27|
 |24|[#16703](https://github.com/Azure/azure-sdk-for-go/issues/16703)|How to create Azure AD app using service principal credentials with Microsoft Graph API|question, Compute, Mgmt, customer-reported, needs-team-attention, Previous Versions|lirenhe|new comment|2021-12-23|
 |25|[#16504](https://github.com/Azure/azure-sdk-for-go/issues/16504)|Azure API version used by Modules|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2021-12-08|
