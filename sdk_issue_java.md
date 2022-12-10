@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#32445](https://github.com/Azure/azure-sdk-for-java/issues/32445)|[BUG] NullPointerException when returning null value from ManagedClusterInner method|question, AKS, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-12-05|
-|2|[#32403](https://github.com/Azure/azure-sdk-for-java/issues/32403)|[QUERY] Container Registry  ScopeMap and Token management |question, Container Registry, Service Attention, Mgmt, Client, customer-reported, Mgmt - Track 2, needs-team-attention|lmolkova, XiaofeiCao||2022-12-02|
+|2|[#32403](https://github.com/Azure/azure-sdk-for-java/issues/32403)|[QUERY] Container Registry  ScopeMap and Token management |question, Container Registry, Service Attention, Mgmt, Client, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, lmolkova||2022-12-02|
 |3|[#32387](https://github.com/Azure/azure-sdk-for-java/issues/32387)|[BUG] NullPointerException in listing diagnosticSettings by resourceId|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2022-12-01|
 |4|[#32375](https://github.com/Azure/azure-sdk-for-java/issues/32375)|[QUERY] How do we create managed disk with hibernation enabled|question, ARM, Mgmt, customer-reported|XiaofeiCao||2022-11-30|
 |5|[#32369](https://github.com/Azure/azure-sdk-for-java/issues/32369)|mgmt, review and guideline on overall thread count|Mgmt|XiaofeiCao||2022-11-30|

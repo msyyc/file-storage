@@ -13,8 +13,8 @@
 |11|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|msyyc, scbedd|new comment|2022-05-11|
 |12|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |13|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
-|14|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|tasherif-msft, msyyc|no reply > 7|2022-01-12|
-|15|[#22464](https://github.com/Azure/azure-sdk-for-python/issues/22464)|[Article] Manage an Azure Data Lake Storage Gen1 account with Python|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|tasherif-msft, msyyc|no reply > 7|2022-01-12|
+|14|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
+|15|[#22464](https://github.com/Azure/azure-sdk-for-python/issues/22464)|[Article] Manage an Azure Data Lake Storage Gen1 account with Python|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
 |16|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |17|[#22213](https://github.com/Azure/azure-sdk-for-python/issues/22213)|Create/Update Hub BGP Connection|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|msyyc|new comment|2021-12-17|
 |18|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
