@@ -1,4 +1,8 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resourceconnector,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3550,1.0.0b3,
+azure-mgmt-loganalytics,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3551,13.0.0b6,
+azure-mgmt-storagecache,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3553,1.4.0b1,
+azure-mgmt-automation,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3554,1.1.0b3,
 azure-mgmt-consumption,Wzb123456789,2022-11-30,2022-12-08,https://github.com/Azure/sdk-release-request/issues/3482,11.0.0b1,
 azure-mgmt-servicelinker,Wzb123456789,2022-11-22,2022-12-06,https://github.com/Azure/sdk-release-request/issues/3446,1.2.0b1,
 azure-mgmt-orbital,Wzb123456789,2022-11-30,2022-12-02,https://github.com/Azure/sdk-release-request/issues/3476,1.1.0b1,
