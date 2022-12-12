@@ -1,10 +1,10 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3555](https://github.com/Azure/sdk-release-request/issues/3555) | cadenmarchese |  | Alancere | Attention to inconsistent tag | 12-09 | 01-27 |  |
+| [#3555](https://github.com/Azure/sdk-release-request/issues/3555) | cadenmarchese |  | Alancere |  | 12-09 | 01-27 |  |
 | [#3542](https://github.com/Azure/sdk-release-request/issues/3542) | shams11 |  | Alancere |  | 12-07 | 12-23 |  |
-| [#3540](https://github.com/Azure/sdk-release-request/issues/3540) | malpaniHMC |  | Alancere | new issue. Attention to inconsistent tag | 12-06 | 12-23 |  |
+| [#3540](https://github.com/Azure/sdk-release-request/issues/3540) | malpaniHMC |  | Alancere | Attention to inconsistent tag | 12-06 | 12-23 |  |
 | [#3534](https://github.com/Azure/sdk-release-request/issues/3534) | pradheepm |  | Alancere |  | 12-06 | 12-23 |  |
-| [#3527](https://github.com/Azure/sdk-release-request/issues/3527) | andrew-lee-metaswitch |  | Alancere | new comment. Attention to inconsistent tag | 12-05 | 12-23 |  |
+| [#3527](https://github.com/Azure/sdk-release-request/issues/3527) | andrew-lee-metaswitch |  | Alancere | new comment. | 12-05 | 12-23 |  |
 | [#3474](https://github.com/Azure/sdk-release-request/issues/3474) | pathuang-sia |  | Alancere | Attention to inconsistent tag | 11-30 | 12-23 |  |
 | [#3467](https://github.com/Azure/sdk-release-request/issues/3467) | htippanaboya |  | Alancere |  | 11-29 | 12-23 |  |
 | [#3466](https://github.com/Azure/sdk-release-request/issues/3466) | ahamad-MS |  | Alancere | new comment. Attention to inconsistent tag | 11-28 | 12-23 |  |
