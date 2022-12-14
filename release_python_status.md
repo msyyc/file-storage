@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3558](https://github.com/Azure/sdk-release-request/issues/3558) | pradeepkintali | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 12-13 | 01-27 |  |
 | [#3556](https://github.com/Azure/sdk-release-request/issues/3556) | cadenmarchese | azure-mgmt-redhatopenshift | Wzb123456789 |  | 12-09 | 01-27 |  |
 | [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 |  | 12-07 | 12-23 |  |
 | [#3538](https://github.com/Azure/sdk-release-request/issues/3538) | malpaniHMC |  | Wzb123456789 |  | 12-06 |  | 0 |
