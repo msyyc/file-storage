@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3571](https://github.com/Azure/sdk-release-request/issues/3571) | msyyc | azure-mgmt-loadtesting | Wzb123456789 | new issue. | 12-16 | 01-27 |  |
 | [#3562](https://github.com/Azure/sdk-release-request/issues/3562) | Wzb123456789 | azure-mgmt-fluidrelay | Wzb123456789 |  | 12-14 | 01-27 |  |
 | [#3561](https://github.com/Azure/sdk-release-request/issues/3561) | Wzb123456789 | azure-mgmt-automanage | Wzb123456789 |  | 12-14 | 01-27 |  |
 | [#3560](https://github.com/Azure/sdk-release-request/issues/3560) | Wzb123456789 | azure-mgmt-chaos | Wzb123456789 |  | 12-14 | 01-27 |  |
