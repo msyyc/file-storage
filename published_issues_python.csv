@@ -1,4 +1,6 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-billingbenefits,Wzb123456789,2022-11-23,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3452,1.0.0b1,
+azure-mgmt-network,Wzb123456789,2022-11-29,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3469,22.2.0,True
 azure-mgmt-education,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3552,1.0.0b2,
 azure-mgmt-resourceconnector,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3550,1.0.0b3,
 azure-mgmt-loganalytics,Wzb123456789,2022-12-09,2022-12-12,https://github.com/Azure/sdk-release-request/issues/3551,13.0.0b6,
