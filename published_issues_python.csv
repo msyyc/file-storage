@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-recoveryservicessiterecovery,Wzb123456789,2022-12-06,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3533,1.0.0,True
 azure-mgmt-azurestackhci,Wzb123456789,2022-11-30,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3475,8.0.0b2,
 azure-mgmt-mobilenetwork,Wzb123456789,2022-12-05,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3526,1.0.0,True
 azure-mgmt-resource,Wzb123456789,2022-11-17,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3445,22.0.0,True

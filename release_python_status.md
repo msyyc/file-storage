@@ -9,4 +9,3 @@
 | [#3556](https://github.com/Azure/sdk-release-request/issues/3556) | cadenmarchese | azure-mgmt-redhatopenshift | Wzb123456789 |  | 12-09 | 01-27 |  |
 | [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 |  | 12-07 | 12-23 |  |
 | [#3538](https://github.com/Azure/sdk-release-request/issues/3538) | malpaniHMC |  | Wzb123456789 |  | 12-06 |  | 0 |
-| [#3533](https://github.com/Azure/sdk-release-request/issues/3533) | pradheepm | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 |  | 12-06 | 12-23 |  |
