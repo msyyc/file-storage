@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3571](https://github.com/Azure/sdk-release-request/issues/3571) | msyyc | azure-mgmt-loadtesting | Wzb123456789 | new issue. | 12-16 | 01-27 |  |
+| [#3571](https://github.com/Azure/sdk-release-request/issues/3571) | msyyc | azure-mgmt-loadtesting | Wzb123456789 |  | 12-16 | 01-27 |  |
 | [#3562](https://github.com/Azure/sdk-release-request/issues/3562) | Wzb123456789 | azure-mgmt-fluidrelay | Wzb123456789 |  | 12-14 | 01-27 |  |
 | [#3561](https://github.com/Azure/sdk-release-request/issues/3561) | Wzb123456789 | azure-mgmt-automanage | Wzb123456789 |  | 12-14 | 01-27 |  |
 | [#3560](https://github.com/Azure/sdk-release-request/issues/3560) | Wzb123456789 | azure-mgmt-chaos | Wzb123456789 |  | 12-14 | 01-27 |  |
@@ -10,5 +10,3 @@
 | [#3543](https://github.com/Azure/sdk-release-request/issues/3543) | shams11 | azure-mgmt-qumulo | Wzb123456789 |  | 12-07 | 12-23 |  |
 | [#3538](https://github.com/Azure/sdk-release-request/issues/3538) | malpaniHMC |  | Wzb123456789 |  | 12-06 |  | 0 |
 | [#3533](https://github.com/Azure/sdk-release-request/issues/3533) | pradheepm | azure-mgmt-recoveryservicessiterecovery | Wzb123456789 |  | 12-06 | 12-23 |  |
-| [#3526](https://github.com/Azure/sdk-release-request/issues/3526) | andrew-lee-metaswitch | azure-mgmt-mobilenetwork | Wzb123456789 |  | 12-05 | 12-23 |  |
-| [#3475](https://github.com/Azure/sdk-release-request/issues/3475) | pathuang-sia | azure-mgmt-azurestackhci | Wzb123456789 |  | 11-30 | 12-23 |  |
