@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3572](https://github.com/Azure/sdk-release-request/issues/3572) | qianliu-pdx | azure-mgmt-sqlvirtualmachine | Wzb123456789 | new issue. | 12-17 | 01-27 |  |
 | [#3571](https://github.com/Azure/sdk-release-request/issues/3571) | msyyc | azure-mgmt-loadtesting | Wzb123456789 |  | 12-16 | 01-27 |  |
 | [#3558](https://github.com/Azure/sdk-release-request/issues/3558) | pradeepkintali | azure-mgmt-rdbms | Wzb123456789 | MultiAPI | 12-13 | 01-27 |  |
 | [#3556](https://github.com/Azure/sdk-release-request/issues/3556) | cadenmarchese | azure-mgmt-redhatopenshift | Wzb123456789 |  | 12-09 | 01-27 |  |
