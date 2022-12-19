@@ -5,7 +5,7 @@
 | [#3539](https://github.com/Azure/sdk-release-request/issues/3539) | malpaniHMC |  | qiaozha | new issue. | 12-06 | 12-23 |  |
 | [#3536](https://github.com/Azure/sdk-release-request/issues/3536) | pradheepm |  | qiaozha |  | 12-06 | 12-23 |  |
 | [#3528](https://github.com/Azure/sdk-release-request/issues/3528) | andrew-lee-metaswitch |  | qiaozha | new comment. | 12-05 | 12-23 |  |
-| [#3473](https://github.com/Azure/sdk-release-request/issues/3473) | efriesner |  | MaryGao | new comment. | 11-29 | 12-23 |  |
+| [#3473](https://github.com/Azure/sdk-release-request/issues/3473) | efriesner |  | MaryGao |  | 11-29 | 12-23 |  |
 | [#3470](https://github.com/Azure/sdk-release-request/issues/3470) | htippanaboya |  | MaryGao |  | 11-29 | 12-23 |  |
 | [#3458](https://github.com/Azure/sdk-release-request/issues/3458) | FumingZhang |  | qiaozha |  | 11-24 | 12-23 |  |
 | [#3453](https://github.com/Azure/sdk-release-request/issues/3453) | gaoyp830 |  | qiaozha |  | 11-23 | 12-23 |  |
