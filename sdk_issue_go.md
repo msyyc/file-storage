@@ -1,15 +1,15 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#19709](https://github.com/Azure/azure-sdk-for-go/issues/19709)|maintenance: support API version "2022-07-01-preview"|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2022-12-15|
+|1|[#19709](https://github.com/Azure/azure-sdk-for-go/issues/19709)|maintenance: support API version "2022-07-01-preview"|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe||2022-12-15|
 |2|[#19707](https://github.com/Azure/azure-sdk-for-go/issues/19707)|Unable to get instance view for VMSS flex VMs|question, Compute - VMSS, Mgmt, customer-reported|ArcturusZhang|new comment|2022-12-15|
 |3|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |4|[#19625](https://github.com/Azure/azure-sdk-for-go/issues/19625)|Get minimum TLS version of eventhub.namespace|question, Mgmt, customer-reported|ArcturusZhang||2022-11-26|
 |5|[#19621](https://github.com/Azure/azure-sdk-for-go/issues/19621)|PartnerDestination (Channel) APIs are missing|question, Mgmt, customer-reported|ArcturusZhang|new comment|2022-11-24|
-|6|[#19588](https://github.com/Azure/azure-sdk-for-go/issues/19588)|VMSS Flex VM instances cannot be deleted|question, Compute, Mgmt, customer-reported, issue-addressed|ArcturusZhang, lirenhe|new comment|2022-11-17|
+|6|[#19588](https://github.com/Azure/azure-sdk-for-go/issues/19588)|VMSS Flex VM instances cannot be deleted|question, Compute, Mgmt, customer-reported, issue-addressed|lirenhe, ArcturusZhang|new comment|2022-11-17|
 |7|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-11-14|
 |8|[#19195](https://github.com/Azure/azure-sdk-for-go/issues/19195)|containerregistry/armcontainerregistry lacks implementation regarding image repositories and tags|Container Registry, Client, Mgmt, feature-request|lirenhe, tadelesh|new comment|2022-09-23|
 |9|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
-|10|[#19131](https://github.com/Azure/azure-sdk-for-go/issues/19131)|Data fields are missing from VirtualMachineScaleSetVMInstanceView data model|bug, Compute, Service Attention, Mgmt|lirenhe, am4234m, hilaryw29|new comment|2022-09-15|
+|10|[#19131](https://github.com/Azure/azure-sdk-for-go/issues/19131)|Data fields are missing from VirtualMachineScaleSetVMInstanceView data model|bug, Compute, Service Attention, Mgmt|hilaryw29, lirenhe, am4234m|new comment|2022-09-15|
 |11|[#19026](https://github.com/Azure/azure-sdk-for-go/issues/19026)|Restore from File share snapshot|question, Storage, Mgmt, customer-reported|lirenhe|new comment|2022-09-05|
 |12|[#18705](https://github.com/Azure/azure-sdk-for-go/issues/18705)|How can I get VM Private and Public IP addresses |question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-27|
 |13|[#18590](https://github.com/Azure/azure-sdk-for-go/issues/18590)|Unable to expand planInformation on Reservation Order|bug, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-14|
@@ -22,7 +22,7 @@
 |20|[#17103](https://github.com/Azure/azure-sdk-for-go/issues/17103)|InvalidResourceType when requesting resource reservation order list|question, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2022-02-18|
 |21|[#17071](https://github.com/Azure/azure-sdk-for-go/issues/17071)|InvalidResourceType when creating new RBAC assignment using SDK|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-02-15|
 |22|[#17013](https://github.com/Azure/azure-sdk-for-go/issues/17013)|Firewall Delete failure|bug, Service Attention, Mgmt, Service, Network - Firewall|ArcturusZhang|new comment|2022-02-09|
-|23|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|ArcturusZhang, ericshape, Alancere|new comment|2022-02-08|
+|23|[#16998](https://github.com/Azure/azure-sdk-for-go/issues/16998)|Support for SQL Managed Instance - User Assigned Managed Identity|Mgmt, SQL - Managed Instance|Alancere, ericshape, ArcturusZhang|new comment|2022-02-08|
 |24|[#16716](https://github.com/Azure/azure-sdk-for-go/issues/16716)|Resource Health -- Events API|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2021-12-27|
 |25|[#16703](https://github.com/Azure/azure-sdk-for-go/issues/16703)|How to create Azure AD app using service principal credentials with Microsoft Graph API|question, Compute, Mgmt, customer-reported, needs-team-attention, Previous Versions|lirenhe|new comment|2021-12-23|
 |26|[#16504](https://github.com/Azure/azure-sdk-for-go/issues/16504)|Azure API version used by Modules|Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2021-12-08|
