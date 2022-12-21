@@ -5,7 +5,7 @@
 | [#3542](https://github.com/Azure/sdk-release-request/issues/3542) | shams11 |  | Alancere | close to release date.  | 12-07 | 12-23 | 1 |
 | [#3540](https://github.com/Azure/sdk-release-request/issues/3540) | malpaniHMC |  | Alancere | close to release date.  Attention to inconsistent tag | 12-06 | 12-23 | 1 |
 | [#3534](https://github.com/Azure/sdk-release-request/issues/3534) | pradheepm |  | Alancere | close to release date.  | 12-06 | 12-23 | 1 |
-| [#3527](https://github.com/Azure/sdk-release-request/issues/3527) | andrew-lee-metaswitch |  | Alancere | new comment. close to release date.  | 12-05 | 12-23 | 1 |
+| [#3527](https://github.com/Azure/sdk-release-request/issues/3527) | andrew-lee-metaswitch |  | Alancere | close to release date.  | 12-05 | 12-23 | 1 |
 | [#3467](https://github.com/Azure/sdk-release-request/issues/3467) | htippanaboya |  | Alancere | close to release date.  | 11-29 | 12-23 | 1 |
 | [#3457](https://github.com/Azure/sdk-release-request/issues/3457) | FumingZhang |  | Alancere | close to release date.  | 11-24 | 12-23 | 1 |
 | [#3451](https://github.com/Azure/sdk-release-request/issues/3451) | gaoyp830 |  | Alancere | close to release date.  | 11-23 | 12-23 | 1 |
