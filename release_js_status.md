@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3577](https://github.com/Azure/sdk-release-request/issues/3577) | venkatr21 |  | qiaozha | new issue. | 12-22 | 01-27 |  |
 | [#3544](https://github.com/Azure/sdk-release-request/issues/3544) | shams11 |  | qiaozha | new comment. close to release date.  | 12-07 | 12-23 | 0 |
-| [#3539](https://github.com/Azure/sdk-release-request/issues/3539) | malpaniHMC |  | qiaozha | new comment. close to release date.  | 12-06 | 12-23 | 0 |
+| [#3539](https://github.com/Azure/sdk-release-request/issues/3539) | malpaniHMC |  | qiaozha | close to release date.  | 12-06 | 12-23 | 0 |
 | [#3536](https://github.com/Azure/sdk-release-request/issues/3536) | pradheepm |  | qiaozha | close to release date.  | 12-06 | 12-23 | 0 |
 | [#3234](https://github.com/Azure/sdk-release-request/issues/3234) | Sandido |  | qiaozha |  | 09-30 | 10-17 |  |
 | [#3149](https://github.com/Azure/sdk-release-request/issues/3149) | HariPrasadV |  | MaryGao | new comment. | 09-07 | 10-11 |  |
