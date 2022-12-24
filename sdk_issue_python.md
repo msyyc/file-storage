@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27995](https://github.com/Azure/azure-sdk-for-python/issues/27995)|Azure Mgmt Network 2022-05-01 Was Removed|question, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc||2022-12-19|
+|1|[#27995](https://github.com/Azure/azure-sdk-for-python/issues/27995)|Azure Mgmt Network 2022-05-01 Was Removed|question, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc||2022-12-19|
 |2|[#27830](https://github.com/Azure/azure-sdk-for-python/issues/27830)|"Explore the Management APIs" link is broken|Docs, Network - Traffic Manager, Mgmt|msyyc|no reply > 7|2022-12-06|
 |3|[#27652](https://github.com/Azure/azure-sdk-for-python/issues/27652)|[azure-mgmt-web]  Site Model info broken at web_app|Docs, Mgmt, customer-reported|msyyc|no reply > 7|2022-11-23|
 |4|[#27071](https://github.com/Azure/azure-sdk-for-python/issues/27071)|[Web PubSub Service] web_pub_sub's get and list method doesn't work|Docs, question, Mgmt, customer-reported, needs-team-attention, WebPubSub|msyyc|new comment|2022-10-26|
@@ -17,6 +17,6 @@
 |15|[#21306](https://github.com/Azure/azure-sdk-for-python/issues/21306)|[Python] Upgrade service documents from Track 1 to Track 2|Mgmt, MQ|msyyc|new comment|2021-10-18|
 |16|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|BigCat20196, msyyc|new comment|2021-08-16|
 |17|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc|new comment|2021-04-05|
+|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, lmazuel|new comment|2021-04-05|
 |19|[#11149](https://github.com/Azure/azure-sdk-for-python/issues/11149)|azure-mgmt-network is huge|question, Service Attention, Network - Virtual Network, Mgmt, customer-reported, needs-team-attention|MikhailTryakhov, msyyc|new comment|2020-04-30|
 |20|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
