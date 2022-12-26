@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3586](https://github.com/Azure/sdk-release-request/issues/3586) | Wzb123456789 | azure-mgmt-agrifood | Wzb123456789 | new issue. | 12-26 | 01-27 |  |
+| [#3586](https://github.com/Azure/sdk-release-request/issues/3586) | Wzb123456789 | azure-mgmt-agrifood | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3585](https://github.com/Azure/sdk-release-request/issues/3585) | Wzb123456789 | azure-mgmt-resourcegraph | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3584](https://github.com/Azure/sdk-release-request/issues/3584) | Wzb123456789 | azure-mgmt-containerinstance | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3583](https://github.com/Azure/sdk-release-request/issues/3583) | Wzb123456789 | azure-mgmt-alertsmanagement | Wzb123456789 |  | 12-26 | 01-27 |  |
