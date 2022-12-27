@@ -1,13 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3589](https://github.com/Azure/sdk-release-request/issues/3589) | Wzb123456789 | azure-mgmt-subscription | Wzb123456789 | new issue. | 12-27 | 01-27 |  |
 | [#3588](https://github.com/Azure/sdk-release-request/issues/3588) | viparek | azure-mgmt-sql | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag | 12-27 | 01-27 |  |
-| [#3586](https://github.com/Azure/sdk-release-request/issues/3586) | Wzb123456789 | azure-mgmt-agrifood | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3585](https://github.com/Azure/sdk-release-request/issues/3585) | Wzb123456789 | azure-mgmt-resourcegraph | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3584](https://github.com/Azure/sdk-release-request/issues/3584) | Wzb123456789 | azure-mgmt-containerinstance | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3583](https://github.com/Azure/sdk-release-request/issues/3583) | Wzb123456789 | azure-mgmt-alertsmanagement | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3582](https://github.com/Azure/sdk-release-request/issues/3582) | Wzb123456789 | azure-mgmt-deviceupdate | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3581](https://github.com/Azure/sdk-release-request/issues/3581) | Wzb123456789 | azure-mgmt-labservices | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3580](https://github.com/Azure/sdk-release-request/issues/3580) | Wzb123456789 | azure-mgmt-dashboard | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3575](https://github.com/Azure/sdk-release-request/issues/3575) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 |  | 12-22 | 01-27 |  |
 | [#3574](https://github.com/Azure/sdk-release-request/issues/3574) | vidit-msft | azure-mgmt-sql | Wzb123456789 | duplicated issue  <br> | 12-20 | 01-27 |  |
 | [#3572](https://github.com/Azure/sdk-release-request/issues/3572) | qianliu-pdx | azure-mgmt-sqlvirtualmachine | Wzb123456789 |  | 12-17 | 01-27 |  |

@@ -1,4 +1,11 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-dashboard,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3580,1.1.0b1,
+azure-mgmt-labservices,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3581,2.1.0b1,
+azure-mgmt-deviceupdate,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3582,1.1.0b1,
+azure-mgmt-alertsmanagement,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3583,2.0.0b2,
+azure-mgmt-containerinstance,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3584,10.1.0b1,
+azure-mgmt-resourcegraph,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3585,8.1.0b3,
+azure-mgmt-agrifood,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3586,1.0.0b3,
 azure-mgmt-connectedvmware,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3579,1.0.0b3,
 azure-mgmt-datalake-analytics,Wzb123456789,2022-12-14,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3559,1.0.0b2,
 azure-mgmt-chaos,Wzb123456789,2022-12-14,2022-12-16,https://github.com/Azure/sdk-release-request/issues/3560,1.0.0b6,
