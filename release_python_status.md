@@ -8,7 +8,6 @@
 | [#3582](https://github.com/Azure/sdk-release-request/issues/3582) | Wzb123456789 | azure-mgmt-deviceupdate | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3581](https://github.com/Azure/sdk-release-request/issues/3581) | Wzb123456789 | azure-mgmt-labservices | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3580](https://github.com/Azure/sdk-release-request/issues/3580) | Wzb123456789 | azure-mgmt-dashboard | Wzb123456789 |  | 12-26 | 01-27 |  |
-| [#3579](https://github.com/Azure/sdk-release-request/issues/3579) | Wzb123456789 | azure-mgmt-connectedvmware | Wzb123456789 |  | 12-26 | 01-27 |  |
 | [#3575](https://github.com/Azure/sdk-release-request/issues/3575) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 |  | 12-22 | 01-27 |  |
 | [#3574](https://github.com/Azure/sdk-release-request/issues/3574) | vidit-msft | azure-mgmt-sql | Wzb123456789 | duplicated issue  <br> | 12-20 | 01-27 |  |
 | [#3572](https://github.com/Azure/sdk-release-request/issues/3572) | qianliu-pdx | azure-mgmt-sqlvirtualmachine | Wzb123456789 |  | 12-17 | 01-27 |  |
