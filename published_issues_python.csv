@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-media,Wzb123456789,2022-12-27,2022-12-28,https://github.com/Azure/sdk-release-request/issues/3591,10.2.0b1,
 azure-mgmt-subscription,Wzb123456789,2022-12-27,2022-12-28,https://github.com/Azure/sdk-release-request/issues/3589,3.2.0b1,
 azure-mgmt-servicefabricmanagedclusters,Wzb123456789,2022-12-27,2022-12-28,https://github.com/Azure/sdk-release-request/issues/3590,2.0.0b3,
 azure-mgmt-dashboard,Wzb123456789,2022-12-26,2022-12-27,https://github.com/Azure/sdk-release-request/issues/3580,1.1.0b1,
