@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3601](https://github.com/Azure/sdk-release-request/issues/3601) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. MultiAPI | 12-28 | 01-27 |  |
+| [#3601](https://github.com/Azure/sdk-release-request/issues/3601) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 12-28 | 01-27 |  |
 | [#3598](https://github.com/Azure/sdk-release-request/issues/3598) | Wzb123456789 | azure-mgmt-securityinsight | Wzb123456789 |  | 12-27 | 01-27 |  |
 | [#3597](https://github.com/Azure/sdk-release-request/issues/3597) | Wzb123456789 | azure-mgmt-netapp | Wzb123456789 |  | 12-27 | 01-27 |  |
 | [#3595](https://github.com/Azure/sdk-release-request/issues/3595) | Wzb123456789 | azure-mgmt-reservations | Wzb123456789 |  | 12-27 | 01-27 |  |
