@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3616](https://github.com/Azure/sdk-release-request/issues/3616) | Wzb123456789 | azure-mgmt-rdbms | Wzb123456789 | duplicated issue  <br> new issue. MultiAPI | 12-29 | 01-27 |  |
-| [#3615](https://github.com/Azure/sdk-release-request/issues/3615) | Wzb123456789 | azure-mgmt-rdbms | Wzb123456789 | duplicated issue  <br> new version is 0.0.0, please check base branch! | 12-29 | 01-27 |  |
+| [#3615](https://github.com/Azure/sdk-release-request/issues/3615) | Wzb123456789 | azure-mgmt-rdbms | Wzb123456789 | duplicated issue  <br> | 12-29 | 01-27 |  |
 | [#3614](https://github.com/Azure/sdk-release-request/issues/3614) | Wzb123456789 | azure-mgmt-cognitiveservices | Wzb123456789 |  | 12-29 | 01-27 |  |
 | [#3613](https://github.com/Azure/sdk-release-request/issues/3613) | Wzb123456789 | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 12-29 | 01-27 |  |
 | [#3612](https://github.com/Azure/sdk-release-request/issues/3612) | Wzb123456789 | azure-mgmt-avs | Wzb123456789 |  | 12-29 | 01-27 |  |
