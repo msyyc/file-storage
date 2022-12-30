@@ -1,4 +1,5 @@
 package name,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,Wzb123456789,2022-12-28,2022-12-30,https://github.com/Azure/sdk-release-request/issues/3601,21.1.0,True
 azure-mgmt-dnsresolver,Wzb123456789,2022-12-27,2022-12-28,https://github.com/Azure/sdk-release-request/issues/3592,1.1.0b1,
 azure-mgmt-kusto,Wzb123456789,2022-12-27,2022-12-28,https://github.com/Azure/sdk-release-request/issues/3593,3.1.0b1,
 azure-mgmt-dynatrace,Wzb123456789,2022-12-27,2022-12-28,https://github.com/Azure/sdk-release-request/issues/3594,1.1.0b1,
