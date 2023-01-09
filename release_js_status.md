@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3623](https://github.com/Azure/sdk-release-request/issues/3623) | ambrahma |  | qiaozha | new issue. | 01-05 | 01-27 |  |
+| [#3623](https://github.com/Azure/sdk-release-request/issues/3623) | ambrahma |  | qiaozha |  | 01-05 | 01-27 |  |
 | [#3619](https://github.com/Azure/sdk-release-request/issues/3619) | andrew-lee-metaswitch |  | qiaozha | new comment. | 01-05 | 01-27 |  |
 | [#3600](https://github.com/Azure/sdk-release-request/issues/3600) | FumingZhang |  | MaryGao |  | 12-28 | 01-27 |  |
 | [#3577](https://github.com/Azure/sdk-release-request/issues/3577) | venkatr21 |  | qiaozha |  | 12-22 | 01-27 |  |
