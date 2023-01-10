@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3626](https://github.com/Azure/sdk-release-request/issues/3626) | grizzlytheodore |  | Alancere |  | 01-10 |  | 0 |
 | [#3622](https://github.com/Azure/sdk-release-request/issues/3622) | ambrahma |  | Alancere |  | 01-05 | 01-27 |  |
 | [#3618](https://github.com/Azure/sdk-release-request/issues/3618) | andrew-lee-metaswitch |  | Alancere |  | 01-05 | 01-27 |  |
 | [#3604](https://github.com/Azure/sdk-release-request/issues/3604) | FumingZhang |  | Alancere | Attention to inconsistent tag | 12-28 | 01-27 |  |
