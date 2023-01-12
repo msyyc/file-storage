@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#32859](https://github.com/Azure/azure-sdk-for-java/issues/32859)|[BUG] SiteConfigInner class methods return null|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-01-10|
-|2|[#32824](https://github.com/Azure/azure-sdk-for-java/issues/32824)|[BUG] AD User information returns null|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-09|
+|1|[#32859](https://github.com/Azure/azure-sdk-for-java/issues/32859)|[BUG] SiteConfigInner class methods return null|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft|new comment|2023-01-10|
+|2|[#32824](https://github.com/Azure/azure-sdk-for-java/issues/32824)|[BUG] AD User information returns null|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-01-09|
 |3|[#32822](https://github.com/Azure/azure-sdk-for-java/issues/32822)|[BUG] Deserialization failed for azure-resourcemanager-security's listing security contacts|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-09|
 |4|[#32739](https://github.com/Azure/azure-sdk-for-java/issues/32739)|[BUG] No registered resource provider found for location 'chinanorth2' and API version '2021-11-01' for type 'namespaces'|bug, Service Bus, Service Attention, Mgmt, blocking-customer-adoption|weidongxu-microsoft||2022-12-30|
 |5|[#32624](https://github.com/Azure/azure-sdk-for-java/issues/32624)|[FEATURE REQ] mgmt container instance, support container update|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-16|
