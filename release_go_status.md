@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3643](https://github.com/Azure/sdk-release-request/issues/3643) | fnuarnav |  | Alancere | new issue. | 01-11 | 01-27 |  |
-| [#3640](https://github.com/Azure/sdk-release-request/issues/3640) | jamlai |  | Alancere | new issue. | 01-11 | 01-27 |  |
+| [#3643](https://github.com/Azure/sdk-release-request/issues/3643) | fnuarnav |  | Alancere |  | 01-11 | 01-27 |  |
+| [#3640](https://github.com/Azure/sdk-release-request/issues/3640) | jamlai |  | Alancere |  | 01-11 | 01-27 |  |
 | [#3635](https://github.com/Azure/sdk-release-request/issues/3635) | cvarsh |  | Alancere | Attention to inconsistent tag | 01-11 | 01-27 |  |
 | [#3631](https://github.com/Azure/sdk-release-request/issues/3631) | anjorsh |  | Alancere | Attention to inconsistent tag | 01-10 | 01-27 |  |
 | [#3626](https://github.com/Azure/sdk-release-request/issues/3626) | grizzlytheodore |  | Alancere | new comment. | 01-10 | 01-27 |  |
