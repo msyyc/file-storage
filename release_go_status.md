@@ -12,4 +12,3 @@
 | [#3573](https://github.com/Azure/sdk-release-request/issues/3573) | KalpeshChavan12 |  | Alancere |  | 12-19 | 01-27 |  |
 | [#3555](https://github.com/Azure/sdk-release-request/issues/3555) | cadenmarchese |  | Alancere |  | 12-09 | 01-27 |  |
 | [#3542](https://github.com/Azure/sdk-release-request/issues/3542) | shams11 |  | Alancere |  | 12-07 | 12-23 |  |
-| [#3540](https://github.com/Azure/sdk-release-request/issues/3540) | malpaniHMC |  | Alancere | Attention to inconsistent tag | 12-06 | 12-23 |  |

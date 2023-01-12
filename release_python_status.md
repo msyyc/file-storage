@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3642](https://github.com/Azure/sdk-release-request/issues/3642) | fnuarnav | azure-mgmt-containerinstance | Wzb123456789 | new version is 0.0.0, please check base branch! | 01-11 | 01-27 |  |
 | [#3638](https://github.com/Azure/sdk-release-request/issues/3638) | jamlai | azure-mgmt-monitor | Wzb123456789 | new issue. MultiAPI | 01-11 | 01-27 |  |
 | [#3634](https://github.com/Azure/sdk-release-request/issues/3634) | cvarsh | azure-mgmt-recoveryservicesbackup | Wzb123456789 | Attention to inconsistent tag MultiAPI | 01-11 | 01-27 |  |
 | [#3632](https://github.com/Azure/sdk-release-request/issues/3632) | anjorsh | azure-mgmt-dataprotection | Wzb123456789 |  | 01-10 | 01-27 |  |
