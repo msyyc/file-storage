@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3649](https://github.com/Azure/sdk-release-request/issues/3649) | giakas | azure-mgmt-media | Wzb123456789 | new issue. | 01-12 | 01-27 |  |
 | [#3638](https://github.com/Azure/sdk-release-request/issues/3638) | jamlai | azure-mgmt-monitor | Wzb123456789 | new issue. MultiAPI | 01-11 | 01-27 |  |
 | [#3634](https://github.com/Azure/sdk-release-request/issues/3634) | cvarsh | azure-mgmt-recoveryservicesbackup | Wzb123456789 | Attention to inconsistent tag MultiAPI | 01-11 | 01-27 |  |
 | [#3632](https://github.com/Azure/sdk-release-request/issues/3632) | anjorsh | azure-mgmt-dataprotection | Wzb123456789 |  | 01-10 | 01-27 |  |
