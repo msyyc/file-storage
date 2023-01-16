@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3655](https://github.com/Azure/sdk-release-request/issues/3655) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 | new issue. | 01-16 | 02-24 |  |
+| [#3655](https://github.com/Azure/sdk-release-request/issues/3655) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 | new version is 0.0.0, please check base branch! | 01-16 | 02-24 |  |
 | [#3651](https://github.com/Azure/sdk-release-request/issues/3651) | thatChang | azure-mgmt-botservice | Wzb123456789 |  | 01-12 | 01-27 |  |
 | [#3649](https://github.com/Azure/sdk-release-request/issues/3649) | giakas | azure-mgmt-media | Wzb123456789 |  | 01-12 | 01-27 |  |
 | [#3632](https://github.com/Azure/sdk-release-request/issues/3632) | anjorsh | azure-mgmt-dataprotection | Wzb123456789 |  | 01-10 | 01-27 |  |
