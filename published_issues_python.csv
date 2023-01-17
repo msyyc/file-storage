@@ -1,2 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-sqlvirtualmachine,qianliu-pdx,Wzb123456789,2022-12-17,2023-01-17,https://github.com/Azure/sdk-release-request/issues/3572,1.0.0b5,
+azure-mgmt-mobilenetwork,andrew-lee-metaswitch,Wzb123456789,2023-01-05,2023-01-17,https://github.com/Azure/sdk-release-request/issues/3617,2.0.0,True
+azure-mgmt-dataprotection,anjorsh,Wzb123456789,2023-01-10,2023-01-17,https://github.com/Azure/sdk-release-request/issues/3632,1.0.0b4,
+azure-mgmt-media,giakas,Wzb123456789,2023-01-12,2023-01-17,https://github.com/Azure/sdk-release-request/issues/3649,10.2.0,True
+azure-mgmt-botservice,thatChang,Wzb123456789,2023-01-12,2023-01-17,https://github.com/Azure/sdk-release-request/issues/3651,2.0.0,True
 azure-mgmt-redhatopenshift,cadenmarchese,Wzb123456789,2022-12-09,2023-01-17,https://github.com/Azure/sdk-release-request/issues/3556,1.2.0,True
