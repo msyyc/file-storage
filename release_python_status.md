@@ -3,4 +3,3 @@
 | [#3659](https://github.com/Azure/sdk-release-request/issues/3659) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 01-16 | 02-24 |  |
 | [#3655](https://github.com/Azure/sdk-release-request/issues/3655) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 |  | 01-16 | 02-24 |  |
 | [#3624](https://github.com/Azure/sdk-release-request/issues/3624) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 | new comment. | 01-10 | 01-27 |  |
-| [#3538](https://github.com/Azure/sdk-release-request/issues/3538) | malpaniHMC | azure-mgmt-servicenetworking | Wzb123456789 | new comment. | 12-06 | 01-27 |  |
