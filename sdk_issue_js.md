@@ -1,9 +1,9 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#24505](https://github.com/Azure/azure-sdk-for-js/issues/24505)|Automatic dependency collection for @azure/arm- SDKs|question, customer-reported, Mgmt|qiaozha|new issue|2023-01-17|
+|1|[#24505](https://github.com/Azure/azure-sdk-for-js/issues/24505)|Automatic dependency collection for @azure/arm- SDKs|question, customer-reported, Mgmt|qiaozha|new comment|2023-01-17|
 |2|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|question, customer-reported, Mgmt, App Services, needs-team-attention, CXP Attention|qiaozha||2023-01-03|
 |3|[#24268](https://github.com/Azure/azure-sdk-for-js/issues/24268)|Azure ContainerService can't update a cluster - guardrails field serialization issue|Mgmt, Service Attention, Container Service|qiaozha|new comment|2022-12-16|
-|4|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|kazrael2119, qiaozha||2022-10-14|
+|4|[#23519](https://github.com/Azure/azure-sdk-for-js/issues/23519)|[mgmt] some packages have build warnings (TS2688) Cannot find type definition file for 'node'.|Mgmt|qiaozha, kazrael2119||2022-10-14|
 |5|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |6|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
 |7|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|xboxeer, qiaozha||2022-07-29|
