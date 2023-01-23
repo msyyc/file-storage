@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3683](https://github.com/Azure/sdk-release-request/issues/3683) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | Attention to inconsistent tag | 01-23 | 02-24 |  |
 | [#3679](https://github.com/Azure/sdk-release-request/issues/3679) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 01-22 | 02-24 |  |
 | [#3678](https://github.com/Azure/sdk-release-request/issues/3678) | milanbrkic-ms | azure-mgmt-sql | Wzb123456789 | Attention to inconsistent tag | 01-19 | 02-24 |  |
 | [#3676](https://github.com/Azure/sdk-release-request/issues/3676) | chchen3 | azure-mgmt-reservations | Wzb123456789 |  | 01-19 | 02-24 |  |
