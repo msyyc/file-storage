@@ -1,9 +1,8 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3700](https://github.com/Azure/sdk-release-request/issues/3700) | romero-ms |  | Wzb123456789 |  | 01-24 |  | 0 |
-| [#3698](https://github.com/Azure/sdk-release-request/issues/3698) | divya-jay | azure-mgmt-monitor | Wzb123456789 | Attention to inconsistent tag MultiAPI | 01-24 | 02-24 |  |
-| [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> new issue. | 01-24 | 02-24 |  |
-| [#3690](https://github.com/Azure/sdk-release-request/issues/3690) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> new issue. | 01-24 | 02-24 |  |
+| [#3700](https://github.com/Azure/sdk-release-request/issues/3700) | romero-ms |  | Wzb123456789 |  | 01-24 | 02-24 |  |
+| [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> | 01-24 | 02-24 |  |
+| [#3690](https://github.com/Azure/sdk-release-request/issues/3690) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> | 01-24 | 02-24 |  |
 | [#3683](https://github.com/Azure/sdk-release-request/issues/3683) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | new comment. Attention to inconsistent tag | 01-23 | 02-24 |  |
 | [#3679](https://github.com/Azure/sdk-release-request/issues/3679) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 | new comment. | 01-22 | 02-24 |  |
 | [#3678](https://github.com/Azure/sdk-release-request/issues/3678) | milanbrkic-ms | azure-mgmt-sql | Wzb123456789 | new comment. Attention to inconsistent tag | 01-19 | 02-24 |  |
@@ -13,4 +12,4 @@
 | [#3663](https://github.com/Azure/sdk-release-request/issues/3663) | hzhang87 | azure-mgmt-rdbms | Wzb123456789 |  | 01-17 | 02-24 |  |
 | [#3659](https://github.com/Azure/sdk-release-request/issues/3659) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 01-16 | 02-24 |  |
 | [#3655](https://github.com/Azure/sdk-release-request/issues/3655) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 |  | 01-16 | 02-24 |  |
-| [#3634](https://github.com/Azure/sdk-release-request/issues/3634) | cvarsh | azure-mgmt-recoveryservicesbackup | Wzb123456789 | close to release date.  | 01-11 | 01-27 | 1 |
+| [#3634](https://github.com/Azure/sdk-release-request/issues/3634) | cvarsh | azure-mgmt-recoveryservicesbackup | Wzb123456789 | new comment. close to release date.  | 01-11 | 01-27 | 1 |
