@@ -8,7 +8,7 @@
 |6|[#27071](https://github.com/Azure/azure-sdk-for-python/issues/27071)|[Web PubSub Service] web_pub_sub's get and list method doesn't work|Docs, question, Mgmt, customer-reported, needs-team-attention, WebPubSub|msyyc|new comment|2022-10-26|
 |7|[#26475](https://github.com/Azure/azure-sdk-for-python/issues/26475)|Outdated hyperlink on "Explore the Management APIs"|bug, Docs, Notification Hub, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2022-09-27|
 |8|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|no reply > 7|2022-06-07|
-|9|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|msyyc, scbedd|new comment|2022-05-11|
+|9|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
 |10|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |11|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
 |12|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|tasherif-msft, msyyc|no reply > 7|2022-01-12|
