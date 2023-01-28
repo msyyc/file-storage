@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#33163](https://github.com/Azure/azure-sdk-for-java/issues/33163)|[QUERY] Unable to create Private Link Service using the SDK. |question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-01-25|
-|2|[#33131](https://github.com/Azure/azure-sdk-for-java/issues/33131)|[BUG]Wrong param description in VirtualMachine DefinitionStages withSsh|question, ARM, Mgmt, customer-reported, Docs, needs-team-attention|weidongxu-microsoft|new comment|2023-01-20|
+|1|[#33163](https://github.com/Azure/azure-sdk-for-java/issues/33163)|[QUERY] Unable to create Private Link Service using the SDK. |question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-25|
+|2|[#33131](https://github.com/Azure/azure-sdk-for-java/issues/33131)|[BUG]Wrong param description in VirtualMachine DefinitionStages withSsh|question, ARM, Mgmt, customer-reported, Docs, needs-team-attention|XiaofeiCao||2023-01-20|
 |3|[#33112](https://github.com/Azure/azure-sdk-for-java/issues/33112)|[BUG] ExpiredAuthenticationToken happened when deleting resource groups|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-19|
 |4|[#33056](https://github.com/Azure/azure-sdk-for-java/issues/33056)|[BUG] UndeliverableException when creating resource group and network security group in heavy load|question, ARM, Mgmt, customer-reported, pillar-reliability|XiaofeiCao|new comment|2023-01-18|
 |5|[#32991](https://github.com/Azure/azure-sdk-for-java/issues/32991)|[FEATURE REQ] mgmt storage, support enabling `lastAccessTimeTrackingPolicy` in `BlobProperties`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-01-16|
@@ -11,7 +11,7 @@
 |9|[#32624](https://github.com/Azure/azure-sdk-for-java/issues/32624)|[FEATURE REQ] mgmt container instance, support container update|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-16|
 |10|[#32566](https://github.com/Azure/azure-sdk-for-java/issues/32566)|[FEATURE REQ] mgmt Network Application Gateway, support WAF policy for WAF_V2|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-12|
 |11|[#32553](https://github.com/Azure/azure-sdk-for-java/issues/32553)|[BUG] DefaultErrorResponseErrorException: Status code 502 in listing webApps|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2022-12-09|
-|12|[#32403](https://github.com/Azure/azure-sdk-for-java/issues/32403)|[QUERY] Container Registry  ScopeMap and Token management |question, Container Registry, Service Attention, Mgmt, Client, customer-reported, Mgmt - Track 2, needs-team-attention|lmolkova, XiaofeiCao||2022-12-02|
+|12|[#32403](https://github.com/Azure/azure-sdk-for-java/issues/32403)|[QUERY] Container Registry  ScopeMap and Token management |question, Container Registry, Service Attention, Mgmt, Client, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, lmolkova||2022-12-02|
 |13|[#32387](https://github.com/Azure/azure-sdk-for-java/issues/32387)|[BUG] NullPointerException in listing diagnosticSettings by resourceId|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2022-12-01|
 |14|[#32369](https://github.com/Azure/azure-sdk-for-java/issues/32369)|mgmt, review and guideline on overall thread count|Mgmt|XiaofeiCao||2022-11-30|
 |15|[#32265](https://github.com/Azure/azure-sdk-for-java/issues/32265)|[QUERY] Are Container Probe Definitions missing in the fluent definition of a container instance while creating a container group in the resource manager?|question, Container Instances, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2022-11-21|
