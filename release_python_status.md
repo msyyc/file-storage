@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3707](https://github.com/Azure/sdk-release-request/issues/3707) | matanova8 | azure-mgmt-kusto | Wzb123456789 | new issue. | 01-29 | 02-24 |  |
+| [#3707](https://github.com/Azure/sdk-release-request/issues/3707) | matanova8 | azure-mgmt-kusto | Wzb123456789 |  | 01-29 | 02-24 |  |
 | [#3703](https://github.com/Azure/sdk-release-request/issues/3703) | nathanfalke |  | Wzb123456789 |  | 01-25 |  | 0 |
 | [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 |  | 01-24 | 02-24 |  |
 | [#3683](https://github.com/Azure/sdk-release-request/issues/3683) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | new comment. Attention to inconsistent tag | 01-23 | 02-24 |  |
