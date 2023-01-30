@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3704](https://github.com/Azure/sdk-release-request/issues/3704) | matanova8 |  | qiaozha | new issue. | 01-29 | 02-24 |  |
 | [#3702](https://github.com/Azure/sdk-release-request/issues/3702) | romero-ms |  | MaryGao |  | 01-24 | 02-24 |  |
 | [#3691](https://github.com/Azure/sdk-release-request/issues/3691) | mayankagg9722 |  | MaryGao | new issue. | 01-24 | 02-24 |  |
 | [#3687](https://github.com/Azure/sdk-release-request/issues/3687) | Shashank1306s |  | MaryGao | new issue. | 01-24 | 02-24 |  |
@@ -11,8 +12,8 @@
 | [#3665](https://github.com/Azure/sdk-release-request/issues/3665) | hzhang87 |  | qiaozha | new comment. Attention to inconsistent tag | 01-17 | 02-24 |  |
 | [#3661](https://github.com/Azure/sdk-release-request/issues/3661) | Frey-Wang |  | qiaozha | new issue. | 01-16 | 02-24 |  |
 | [#3656](https://github.com/Azure/sdk-release-request/issues/3656) | venkatr21 |  | qiaozha |  | 01-16 | 02-24 |  |
-| [#3646](https://github.com/Azure/sdk-release-request/issues/3646) | yuwzho |  | MaryGao | close to release date.  Attention to inconsistent tag | 01-12 | 01-27 | -2 |
-| [#3636](https://github.com/Azure/sdk-release-request/issues/3636) | cvarsh |  | MaryGao | close to release date.  Attention to inconsistent tag | 01-11 | 01-27 | -2 |
-| [#3633](https://github.com/Azure/sdk-release-request/issues/3633) | FumingZhang |  | MaryGao | close to release date.  Attention to inconsistent tag | 01-11 | 01-27 | -2 |
-| [#3629](https://github.com/Azure/sdk-release-request/issues/3629) | anjorsh |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 01-10 | 01-27 | -2 |
+| [#3646](https://github.com/Azure/sdk-release-request/issues/3646) | yuwzho |  | MaryGao | Attention to inconsistent tag | 01-12 | 01-27 |  |
+| [#3636](https://github.com/Azure/sdk-release-request/issues/3636) | cvarsh |  | MaryGao | Attention to inconsistent tag | 01-11 | 01-27 |  |
+| [#3633](https://github.com/Azure/sdk-release-request/issues/3633) | FumingZhang |  | MaryGao | Attention to inconsistent tag | 01-11 | 01-27 |  |
+| [#3629](https://github.com/Azure/sdk-release-request/issues/3629) | anjorsh |  | MaryGao | new comment. Attention to inconsistent tag | 01-10 | 01-27 |  |
 | [#3544](https://github.com/Azure/sdk-release-request/issues/3544) | shams11 |  | qiaozha |  | 12-07 | 12-23 |  |
