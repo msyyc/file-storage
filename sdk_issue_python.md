@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28414](https://github.com/Azure/azure-sdk-for-python/issues/28414)|Implementing aks run command using the sdk|question, Mgmt, customer-reported, needs-team-attention, Container Service, CXP Attention|SaurabhSharma-MSFT, msyyc|new comment|2023-01-19|
-|2|[#28350](https://github.com/Azure/azure-sdk-for-python/issues/28350)|Subnet update for NSG disassociates Route Table|question, Network, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|new comment|2023-01-14|
+|1|[#28414](https://github.com/Azure/azure-sdk-for-python/issues/28414)|Implementing aks run command using the sdk|question, Mgmt, customer-reported, needs-team-attention, Container Service, CXP Attention|SaurabhSharma-MSFT, msyyc||2023-01-19|
+|2|[#28350](https://github.com/Azure/azure-sdk-for-python/issues/28350)|Subnet update for NSG disassociates Route Table|question, Network, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc||2023-01-14|
 |3|[#28329](https://github.com/Azure/azure-sdk-for-python/issues/28329)|[azure-mgmt-web] checked needed about web_apps.list_metadata_slot method|question, Mgmt, customer-reported, Web Apps, no-recent-activity, needs-team-attention, needs-author-feedback, CXP Attention|SaurabhSharma-MSFT, msyyc|new comment|2023-01-13|
 |4|[#28305](https://github.com/Azure/azure-sdk-for-python/issues/28305)|create_or_update of VPN connections is not working as expected for adding connection mode as responder only|question, Network, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc||2023-01-12|
 |5|[#27652](https://github.com/Azure/azure-sdk-for-python/issues/27652)|[azure-mgmt-web]  Site Model info broken at web_app|Docs, Mgmt, customer-reported|msyyc|no reply > 7|2022-11-23|

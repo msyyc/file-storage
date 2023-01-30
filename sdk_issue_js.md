@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#24534](https://github.com/Azure/azure-sdk-for-js/issues/24534)|arm-apimanagement - outdated generated code from rest specification - missing bug fixes|question, customer-reported, Mgmt, API Management|qiaozha||2023-01-20|
+|1|[#24534](https://github.com/Azure/azure-sdk-for-js/issues/24534)|arm-apimanagement - outdated generated code from rest specification - missing bug fixes|question, customer-reported, Mgmt, API Management|qiaozha|new comment|2023-01-20|
 |2|[#24505](https://github.com/Azure/azure-sdk-for-js/issues/24505)|Automatic dependency collection for @azure/arm- SDKs|question, customer-reported, Mgmt|qiaozha||2023-01-17|
 |3|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|question, customer-reported, Mgmt, App Services, needs-team-attention, CXP Attention|qiaozha||2023-01-03|
 |4|[#24268](https://github.com/Azure/azure-sdk-for-js/issues/24268)|Azure ContainerService can't update a cluster - guardrails field serialization issue|Mgmt, Service Attention, Container Service|qiaozha|new comment|2022-12-16|
