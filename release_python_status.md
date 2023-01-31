@@ -1,6 +1,5 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3712](https://github.com/Azure/sdk-release-request/issues/3712) | live1206 | azure-mgmt-databoxedge | Wzb123456789 | new issue. MultiAPI | 01-30 | fail to get. |  |
 | [#3707](https://github.com/Azure/sdk-release-request/issues/3707) | matanova8 | azure-mgmt-kusto | Wzb123456789 |  | 01-29 | 02-24 |  |
 | [#3703](https://github.com/Azure/sdk-release-request/issues/3703) | nathanfalke |  | Wzb123456789 |  | 01-25 |  | 0 |
 | [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 |  | 01-24 | 02-24 |  |
