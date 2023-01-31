@@ -12,4 +12,3 @@
 | [#3663](https://github.com/Azure/sdk-release-request/issues/3663) | hzhang87 | azure-mgmt-rdbms | Wzb123456789 |  | 01-17 | 02-24 |  |
 | [#3659](https://github.com/Azure/sdk-release-request/issues/3659) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 01-16 | 02-24 |  |
 | [#3655](https://github.com/Azure/sdk-release-request/issues/3655) | venkatr21 | azure-mgmt-loadtesting | Wzb123456789 | close to release date.  | 01-16 | 02-01 | 0 |
-| [#3634](https://github.com/Azure/sdk-release-request/issues/3634) | cvarsh | azure-mgmt-recoveryservicesbackup | Wzb123456789 | new comment. | 01-11 | 01-27 |  |
