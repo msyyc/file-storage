@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3723](https://github.com/Azure/sdk-release-request/issues/3723) | cvarsh | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> new issue. | 02-01 | 02-24 |  |
-| [#3718](https://github.com/Azure/sdk-release-request/issues/3718) | cvarsh | azure-mgmt-recoveryservices | Wzb123456789 | new issue. | 02-01 | 02-24 |  |
+| [#3723](https://github.com/Azure/sdk-release-request/issues/3723) | cvarsh | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> | 02-01 | 02-24 |  |
+| [#3718](https://github.com/Azure/sdk-release-request/issues/3718) | cvarsh | azure-mgmt-recoveryservices | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-01 | 02-24 |  |
 | [#3707](https://github.com/Azure/sdk-release-request/issues/3707) | matanova8 | azure-mgmt-kusto | Wzb123456789 |  | 01-29 | 02-24 |  |
 | [#3703](https://github.com/Azure/sdk-release-request/issues/3703) | nathanfalke |  | Wzb123456789 |  | 01-25 |  | 0 |
 | [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | duplicated issue  <br> | 01-24 | 02-24 |  |
