@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3734](https://github.com/Azure/sdk-release-request/issues/3734) | schaudhari6254888 | azure-mgmt-servicebus | Wzb123456789 | new issue. close to release date.  MultiAPI | 02-01 | 02-04 | 2 |
 | [#3732](https://github.com/Azure/sdk-release-request/issues/3732) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 03-07 |  |
 | [#3725](https://github.com/Azure/sdk-release-request/issues/3725) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 02-24 |  |
 | [#3718](https://github.com/Azure/sdk-release-request/issues/3718) | cvarsh | azure-mgmt-recoveryservices | Wzb123456789 |  | 02-01 | 02-24 |  |
