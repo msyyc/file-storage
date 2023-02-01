@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-loadtesting,venkatr21,Wzb123456789,2023-01-16,2023-02-01,https://github.com/Azure/sdk-release-request/issues/3655,1.0.0,True
 azure-mgmt-sql,milanbrkic-ms,Wzb123456789,2023-01-19,2023-01-30,https://github.com/Azure/sdk-release-request/issues/3678,4.0.0b7,
 azure-mgmt-recoveryservicesbackup,cvarsh,Wzb123456789,2023-01-11,2023-01-30,https://github.com/Azure/sdk-release-request/issues/3634,5.1.0,True
 azure-mgmt-compute,grizzlytheodore,Wzb123456789,2023-01-10,2023-01-18,https://github.com/Azure/sdk-release-request/issues/3624,29.1.0,True
