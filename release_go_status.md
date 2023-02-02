@@ -9,7 +9,7 @@
 | [#3701](https://github.com/Azure/sdk-release-request/issues/3701) | romero-ms |  | Alancere |  | 01-24 | 02-24 |  |
 | [#3694](https://github.com/Azure/sdk-release-request/issues/3694) | mayankagg9722 |  | Alancere |  | 01-24 | 02-24 |  |
 | [#3688](https://github.com/Azure/sdk-release-request/issues/3688) | Shashank1306s |  | Alancere |  | 01-24 | 02-24 |  |
-| [#3684](https://github.com/Azure/sdk-release-request/issues/3684) | gargankit-microsoft |  | Alancere |  | 01-23 | 02-24 |  |
+| [#3684](https://github.com/Azure/sdk-release-request/issues/3684) | gargankit-microsoft |  | Alancere | new comment. | 01-23 | 02-24 |  |
 | [#3682](https://github.com/Azure/sdk-release-request/issues/3682) | yangyuan |  | Alancere |  | 01-22 | 02-24 |  |
 | [#3677](https://github.com/Azure/sdk-release-request/issues/3677) | chchen3 |  | Alancere |  | 01-19 | 02-24 |  |
 | [#3672](https://github.com/Azure/sdk-release-request/issues/3672) | yanjungao718 |  | Alancere |  | 01-18 | 02-24 |  |
