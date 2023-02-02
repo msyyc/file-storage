@@ -14,7 +14,7 @@
 | [#3677](https://github.com/Azure/sdk-release-request/issues/3677) | chchen3 |  | Alancere |  | 01-19 | 02-24 |  |
 | [#3672](https://github.com/Azure/sdk-release-request/issues/3672) | yanjungao718 |  | Alancere |  | 01-18 | 02-24 |  |
 | [#3668](https://github.com/Azure/sdk-release-request/issues/3668) | cegraybl |  | Alancere | Attention to inconsistent tag | 01-17 | 02-24 |  |
-| [#3662](https://github.com/Azure/sdk-release-request/issues/3662) | Frey-Wang |  | Alancere | new issue. | 01-16 | 02-24 |  |
+| [#3662](https://github.com/Azure/sdk-release-request/issues/3662) | Frey-Wang |  | Alancere |  | 01-16 | 02-24 |  |
 | [#3657](https://github.com/Azure/sdk-release-request/issues/3657) | venkatr21 |  | Alancere |  | 01-16 | 02-24 |  |
 | [#3654](https://github.com/Azure/sdk-release-request/issues/3654) | thatChang |  | Alancere |  | 01-12 | 01-27 |  |
 | [#3650](https://github.com/Azure/sdk-release-request/issues/3650) | giakas |  | Alancere |  | 01-12 | 01-27 |  |
