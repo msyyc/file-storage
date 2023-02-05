@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#33291](https://github.com/Azure/azure-sdk-for-java/issues/33291)|[BUG] Update NSG Rule - Unable to Change From ASG to Service Tag Source\Destination|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-02-02|
+|1|[#33291](https://github.com/Azure/azure-sdk-for-java/issues/33291)|[BUG] Update NSG Rule - Unable to Change From ASG to Service Tag Source\Destination|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-02-02|
 |2|[#33240](https://github.com/Azure/azure-sdk-for-java/issues/33240)|can we ignore a metric which does not belong to the resource while calling listWithResponse|question, Service Attention, Mgmt, customer-reported, Monitor - Metrics, needs-team-attention|weidongxu-microsoft|new comment|2023-01-31|
 |3|[#33236](https://github.com/Azure/azure-sdk-for-java/issues/33236)|How can I get the list of application security groups attached to a Network Interface?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-01-31|
 |4|[#33205](https://github.com/Azure/azure-sdk-for-java/issues/33205)|[FEATURE REQ]|question, Compute - VM, Mgmt, customer-reported|weidongxu-microsoft||2023-01-28|
