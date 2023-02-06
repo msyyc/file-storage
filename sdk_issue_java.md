@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#33291](https://github.com/Azure/azure-sdk-for-java/issues/33291)|[BUG] Update NSG Rule - Unable to Change From ASG to Service Tag Source\Destination|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-02-02|
+|1|[#33291](https://github.com/Azure/azure-sdk-for-java/issues/33291)|[BUG] Update NSG Rule - Unable to Change From ASG to Service Tag Source\Destination|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-02-02|
 |2|[#33240](https://github.com/Azure/azure-sdk-for-java/issues/33240)|can we ignore a metric which does not belong to the resource while calling listWithResponse|question, Service Attention, Mgmt, customer-reported, Monitor - Metrics, needs-team-attention|weidongxu-microsoft|new comment|2023-01-31|
-|3|[#33236](https://github.com/Azure/azure-sdk-for-java/issues/33236)|How can I get the list of application security groups attached to a Network Interface?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-01-31|
+|3|[#33236](https://github.com/Azure/azure-sdk-for-java/issues/33236)|How can I get the list of application security groups attached to a Network Interface?|question, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2023-01-31|
 |4|[#33205](https://github.com/Azure/azure-sdk-for-java/issues/33205)|[FEATURE REQ]|question, Compute - VM, Mgmt, customer-reported|weidongxu-microsoft||2023-01-28|
 |5|[#33163](https://github.com/Azure/azure-sdk-for-java/issues/33163)|[QUERY] Unable to create Private Link Service using the SDK. |question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-25|
 |6|[#33131](https://github.com/Azure/azure-sdk-for-java/issues/33131)|[BUG]Wrong param description in VirtualMachine DefinitionStages withSsh|question, ARM, Mgmt, customer-reported, Docs, needs-team-attention|XiaofeiCao||2023-01-20|
@@ -14,7 +14,7 @@
 |12|[#32624](https://github.com/Azure/azure-sdk-for-java/issues/32624)|[FEATURE REQ] mgmt container instance, support container update|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-16|
 |13|[#32566](https://github.com/Azure/azure-sdk-for-java/issues/32566)|[FEATURE REQ] mgmt Network Application Gateway, support WAF policy for WAF_V2|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-12|
 |14|[#32553](https://github.com/Azure/azure-sdk-for-java/issues/32553)|[BUG] DefaultErrorResponseErrorException: Status code 502 in listing webApps|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2022-12-09|
-|15|[#32403](https://github.com/Azure/azure-sdk-for-java/issues/32403)|[QUERY] Container Registry  ScopeMap and Token management |question, Container Registry, Service Attention, Mgmt, Client, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, lmolkova||2022-12-02|
+|15|[#32403](https://github.com/Azure/azure-sdk-for-java/issues/32403)|[QUERY] Container Registry  ScopeMap and Token management |question, Container Registry, Service Attention, Mgmt, Client, customer-reported, Mgmt - Track 2, needs-team-attention|lmolkova, XiaofeiCao||2022-12-02|
 |16|[#32387](https://github.com/Azure/azure-sdk-for-java/issues/32387)|[BUG] NullPointerException in listing diagnosticSettings by resourceId|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2022-12-01|
 |17|[#32369](https://github.com/Azure/azure-sdk-for-java/issues/32369)|mgmt, review and guideline on overall thread count|Mgmt|XiaofeiCao||2022-11-30|
 |18|[#32265](https://github.com/Azure/azure-sdk-for-java/issues/32265)|[QUERY] Are Container Probe Definitions missing in the fluent definition of a container instance while creating a container group in the resource manager?|question, Container Instances, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2022-11-21|
