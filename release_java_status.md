@@ -4,14 +4,11 @@
 | [#3741](https://github.com/Azure/sdk-release-request/issues/3741) | weidongxu-microsoft |  | weidongxu-microsoft |  | 02-02 |  | 0 |
 | [#3740](https://github.com/Azure/sdk-release-request/issues/3740) | isolenov |  | XiaofeiCao | new issue. | 02-01 | 02-24 |  |
 | [#3735](https://github.com/Azure/sdk-release-request/issues/3735) | schaudhari6254888 |  | XiaofeiCao |  | 02-01 | 02-24 |  |
-| [#3731](https://github.com/Azure/sdk-release-request/issues/3731) | yifanz0 |  | weidongxu-microsoft | new issue. new comment. | 02-01 | 03-07 |  |
-| [#3726](https://github.com/Azure/sdk-release-request/issues/3726) | yifanz0 |  | weidongxu-microsoft | Attention to inconsistent tag | 02-01 | 02-24 |  |
+| [#3731](https://github.com/Azure/sdk-release-request/issues/3731) | yifanz0 |  | weidongxu-microsoft |  | 02-01 | 03-07 |  |
 | [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft |  | 02-01 | 02-24 |  |
 | [#3705](https://github.com/Azure/sdk-release-request/issues/3705) | matanova8 |  | haolingdong-msft | new issue. | 01-29 | 02-24 |  |
 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao | new issue. | 01-24 | 02-24 |  |
 | [#3685](https://github.com/Azure/sdk-release-request/issues/3685) | gargankit-microsoft |  | XiaofeiCao | new comment. Attention to inconsistent tag | 01-23 | 02-24 |  |
 | [#3680](https://github.com/Azure/sdk-release-request/issues/3680) | yangyuan |  | haolingdong-msft | new issue. | 01-22 | 02-24 |  |
-| [#3674](https://github.com/Azure/sdk-release-request/issues/3674) | chchen3 |  | weidongxu-microsoft |  | 01-19 | 02-24 |  |
 | [#3670](https://github.com/Azure/sdk-release-request/issues/3670) | yanjungao718 |  | weidongxu-microsoft | new issue. | 01-18 | 02-24 |  |
 | [#3664](https://github.com/Azure/sdk-release-request/issues/3664) | hzhang87 |  | haolingdong-msft | Attention to inconsistent tag | 01-17 | 02-24 |  |
-| [#3535](https://github.com/Azure/sdk-release-request/issues/3535) | pradheepm |  | XiaofeiCao |  | 12-06 | 12-23 |  |
