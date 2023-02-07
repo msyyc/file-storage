@@ -3,7 +3,7 @@
 | [#3743](https://github.com/Azure/sdk-release-request/issues/3743) | cegraybl |  | haolingdong-msft | new issue. | 02-02 | 02-24 |  |
 | [#3741](https://github.com/Azure/sdk-release-request/issues/3741) | weidongxu-microsoft |  | weidongxu-microsoft |  | 02-02 |  | 0 |
 | [#3740](https://github.com/Azure/sdk-release-request/issues/3740) | isolenov |  | XiaofeiCao | new issue. | 02-01 | 02-24 |  |
-| [#3735](https://github.com/Azure/sdk-release-request/issues/3735) | schaudhari6254888 |  | haolingdong-msft | new comment. | 02-01 | 02-24 |  |
+| [#3735](https://github.com/Azure/sdk-release-request/issues/3735) | schaudhari6254888 |  | XiaofeiCao |  | 02-01 | 02-24 |  |
 | [#3731](https://github.com/Azure/sdk-release-request/issues/3731) | yifanz0 |  | weidongxu-microsoft | new issue. new comment. | 02-01 | 03-07 |  |
 | [#3726](https://github.com/Azure/sdk-release-request/issues/3726) | yifanz0 |  | XiaofeiCao | Attention to inconsistent tag | 02-01 | 02-24 |  |
 | [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft |  | 02-01 | 02-24 |  |
