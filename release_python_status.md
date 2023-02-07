@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3746](https://github.com/Azure/sdk-release-request/issues/3746) | msyyc | azure-mgmt-hybridcompute | Wzb123456789 |  | 02-06 | 02-24 |  |
 | [#3745](https://github.com/Azure/sdk-release-request/issues/3745) | cegraybl | azure-mgmt-containerregistry | Wzb123456789 |  | 02-02 | 02-24 |  |
-| [#3734](https://github.com/Azure/sdk-release-request/issues/3734) | schaudhari6254888 | azure-mgmt-servicebus | Wzb123456789 | close to release date.  | 02-01 | 02-04 | -2 |
+| [#3734](https://github.com/Azure/sdk-release-request/issues/3734) | schaudhari6254888 | azure-mgmt-servicebus | Wzb123456789 |  | 02-01 | 02-04 |  |
 | [#3732](https://github.com/Azure/sdk-release-request/issues/3732) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 03-07 |  |
 | [#3725](https://github.com/Azure/sdk-release-request/issues/3725) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 02-24 |  |
 | [#3718](https://github.com/Azure/sdk-release-request/issues/3718) | cvarsh | azure-mgmt-recoveryservices | Wzb123456789 |  | 02-01 | 02-24 |  |
