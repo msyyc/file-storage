@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28657](https://github.com/Azure/azure-sdk-for-python/issues/28657)|More detailed gallery image example|question, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|new comment|2023-02-06|
+|1|[#28657](https://github.com/Azure/azure-sdk-for-python/issues/28657)|More detailed gallery image example|question, Mgmt, customer-reported, needs-team-attention, CXP Attention|SaurabhSharma-MSFT, msyyc||2023-02-06|
 |2|[#28575](https://github.com/Azure/azure-sdk-for-python/issues/28575)|next release for azure.mgmt.rdbms.postgresql|question, Mgmt, customer-reported|msyyc|new comment|2023-02-01|
 |3|[#28409](https://github.com/Azure/azure-sdk-for-python/issues/28409)|Get all active instances in a subscription|question, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc||2023-01-19|
 |4|[#28350](https://github.com/Azure/azure-sdk-for-python/issues/28350)|Subnet update for NSG disassociates Route Table|question, Network, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc||2023-01-14|
@@ -13,8 +13,8 @@
 |11|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
 |12|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |13|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
-|14|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|tasherif-msft, msyyc|no reply > 7|2022-01-12|
-|15|[#22464](https://github.com/Azure/azure-sdk-for-python/issues/22464)|[Article] Manage an Azure Data Lake Storage Gen1 account with Python|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|tasherif-msft, msyyc|no reply > 7|2022-01-12|
+|14|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
+|15|[#22464](https://github.com/Azure/azure-sdk-for-python/issues/22464)|[Article] Manage an Azure Data Lake Storage Gen1 account with Python|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
 |16|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |17|[#22213](https://github.com/Azure/azure-sdk-for-python/issues/22213)|Create/Update Hub BGP Connection|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|msyyc|new comment|2021-12-17|
 |18|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|

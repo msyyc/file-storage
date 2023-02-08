@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#33330](https://github.com/Azure/azure-sdk-for-java/issues/33330)|[QUERY] How can I know number of vCPUs present on a VM?|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-02-06|
-|2|[#33291](https://github.com/Azure/azure-sdk-for-java/issues/33291)|[BUG] Update NSG Rule - Unable to Change From ASG to Service Tag Source\Destination|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-02-02|
-|3|[#33240](https://github.com/Azure/azure-sdk-for-java/issues/33240)|can we ignore a metric which does not belong to the resource while calling listWithResponse|question, Service Attention, Mgmt, customer-reported, Monitor - Metrics, needs-team-attention|weidongxu-microsoft|new comment|2023-01-31|
+|1|[#33365](https://github.com/Azure/azure-sdk-for-java/issues/33365)|[BUG] ARM no role definition data actions|question, ARM, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft||2023-02-07|
+|2|[#33330](https://github.com/Azure/azure-sdk-for-java/issues/33330)|[QUERY] How can I know number of vCPUs present on a VM?|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-02-06|
+|3|[#33291](https://github.com/Azure/azure-sdk-for-java/issues/33291)|[BUG] Update NSG Rule - Unable to Change From ASG to Service Tag Source\Destination|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-02-02|
 |4|[#33236](https://github.com/Azure/azure-sdk-for-java/issues/33236)|How can I get the list of application security groups attached to a Network Interface?|question, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2023-01-31|
 |5|[#33205](https://github.com/Azure/azure-sdk-for-java/issues/33205)|[FEATURE REQ]|question, Compute - VM, Mgmt, customer-reported|weidongxu-microsoft||2023-01-28|
 |6|[#33163](https://github.com/Azure/azure-sdk-for-java/issues/33163)|[QUERY] Unable to create Private Link Service using the SDK. |question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-25|
