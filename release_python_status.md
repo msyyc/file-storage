@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3763](https://github.com/Azure/sdk-release-request/issues/3763) | Wzb123456789 | azure-mgmt-databoxedge | Wzb123456789 | new issue. MultiAPI | 02-10 | 03-24 |  |
+| [#3763](https://github.com/Azure/sdk-release-request/issues/3763) | Wzb123456789 | azure-mgmt-databoxedge | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3762](https://github.com/Azure/sdk-release-request/issues/3762) | Wzb123456789 | azure-mgmt-dns | Wzb123456789 |  | 02-10 | 02-24 |  |
 | [#3761](https://github.com/Azure/sdk-release-request/issues/3761) | Wzb123456789 | azure-mgmt-databox | Wzb123456789 |  | 02-10 | 02-24 |  |
 | [#3756](https://github.com/Azure/sdk-release-request/issues/3756) | kshittiz7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 02-09 | 02-24 |  |
