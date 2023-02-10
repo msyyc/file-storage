@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3759](https://github.com/Azure/sdk-release-request/issues/3759) | kshittiz7 |  | MaryGao | new issue. | 02-09 | 02-24 |  |
 | [#3754](https://github.com/Azure/sdk-release-request/issues/3754) | rebecca337 |  | MaryGao | new issue. | 02-09 | 02-24 |  |
-| [#3747](https://github.com/Azure/sdk-release-request/issues/3747) | Frey-Wang |  | MaryGao | new issue. | 02-08 | 02-24 |  |
+| [#3747](https://github.com/Azure/sdk-release-request/issues/3747) | Frey-Wang |  | MaryGao |  | 02-08 | 02-24 |  |
 | [#3742](https://github.com/Azure/sdk-release-request/issues/3742) | cegraybl |  | qiaozha | new issue. | 02-02 | 02-24 |  |
 | [#3733](https://github.com/Azure/sdk-release-request/issues/3733) | schaudhari6254888 |  | qiaozha |  | 02-01 | 02-24 |  |
 | [#3730](https://github.com/Azure/sdk-release-request/issues/3730) | yifanz0 |  | qiaozha | new issue. new comment. | 02-01 | 03-07 |  |
@@ -16,5 +16,5 @@
 | [#3681](https://github.com/Azure/sdk-release-request/issues/3681) | yangyuan |  | MaryGao |  | 01-22 | 02-24 |  |
 | [#3675](https://github.com/Azure/sdk-release-request/issues/3675) | chchen3 |  | qiaozha |  | 01-19 | 02-24 |  |
 | [#3671](https://github.com/Azure/sdk-release-request/issues/3671) | yanjungao718 |  | qiaozha |  | 01-18 | 02-24 |  |
-| [#3661](https://github.com/Azure/sdk-release-request/issues/3661) | Frey-Wang |  | qiaozha | new issue. | 01-16 | 02-24 |  |
+| [#3661](https://github.com/Azure/sdk-release-request/issues/3661) | Frey-Wang |  | qiaozha |  | 01-16 | 02-24 |  |
 | [#3544](https://github.com/Azure/sdk-release-request/issues/3544) | shams11 |  | qiaozha |  | 12-07 | 12-23 |  |
