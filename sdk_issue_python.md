@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28657](https://github.com/Azure/azure-sdk-for-python/issues/28657)|More detailed gallery image example|question, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc, SaurabhSharma-MSFT||2023-02-06|
+|1|[#28657](https://github.com/Azure/azure-sdk-for-python/issues/28657)|More detailed gallery image example|question, Mgmt, customer-reported, needs-team-attention, needs-author-feedback, CXP Attention|msyyc, SaurabhSharma-MSFT||2023-02-06|
 |2|[#28575](https://github.com/Azure/azure-sdk-for-python/issues/28575)|next release for azure.mgmt.rdbms.postgresql|question, Mgmt, customer-reported|msyyc|new comment|2023-02-01|
 |3|[#28409](https://github.com/Azure/azure-sdk-for-python/issues/28409)|Get all active instances in a subscription|question, Mgmt, customer-reported, issue-addressed|msyyc||2023-01-19|
 |4|[#28350](https://github.com/Azure/azure-sdk-for-python/issues/28350)|Subnet update for NSG disassociates Route Table|question, Network, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc||2023-01-14|
