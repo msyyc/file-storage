@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3760](https://github.com/Azure/sdk-release-request/issues/3760) | msyyc | azure-mgmt-commerce | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-10 | 02-24 |  |
+| [#3760](https://github.com/Azure/sdk-release-request/issues/3760) | msyyc | azure-mgmt-commerce | Wzb123456789 |  | 02-10 | 02-24 |  |
 | [#3756](https://github.com/Azure/sdk-release-request/issues/3756) | kshittiz7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 02-09 | 02-24 |  |
 | [#3755](https://github.com/Azure/sdk-release-request/issues/3755) | mattmsft | azure-mgmt-search | Wzb123456789 |  | 02-09 | 02-24 |  |
 | [#3751](https://github.com/Azure/sdk-release-request/issues/3751) | rebecca337 | azure-mgmt-storagecache | Wzb123456789 |  | 02-09 | 02-24 |  |
