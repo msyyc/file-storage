@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. MultiAPI | 02-13 | 03-24 |  |
 | [#3768](https://github.com/Azure/sdk-release-request/issues/3768) | Wzb123456789 | azure-mgmt-edgeorder | Wzb123456789 | new issue. MultiAPI | 02-13 | 03-24 |  |
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3763](https://github.com/Azure/sdk-release-request/issues/3763) | Wzb123456789 | azure-mgmt-databoxedge | Wzb123456789 |  | 02-10 | 03-24 |  |
