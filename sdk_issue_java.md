@@ -7,7 +7,7 @@
 |5|[#33205](https://github.com/Azure/azure-sdk-for-java/issues/33205)|[FEATURE REQ]|question, Compute - VM, Mgmt, customer-reported|weidongxu-microsoft||2023-01-28|
 |6|[#33163](https://github.com/Azure/azure-sdk-for-java/issues/33163)|[QUERY] Unable to create Private Link Service using the SDK. |question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-25|
 |7|[#33131](https://github.com/Azure/azure-sdk-for-java/issues/33131)|[BUG]Wrong param description in VirtualMachine DefinitionStages withSsh|question, ARM, Mgmt, customer-reported, Docs, needs-team-attention|XiaofeiCao||2023-01-20|
-|8|[#33112](https://github.com/Azure/azure-sdk-for-java/issues/33112)|[BUG] ExpiredAuthenticationToken happened when deleting resource groups|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-19|
+|8|[#33112](https://github.com/Azure/azure-sdk-for-java/issues/33112)|[BUG] ExpiredAuthenticationToken happened when deleting resource groups|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-01-19|
 |9|[#33056](https://github.com/Azure/azure-sdk-for-java/issues/33056)|[BUG] UndeliverableException when creating resource group and network security group in heavy load|question, ARM, Mgmt, customer-reported, pillar-reliability|XiaofeiCao|new comment|2023-01-18|
 |10|[#32824](https://github.com/Azure/azure-sdk-for-java/issues/32824)|[BUG] AD User information returns null|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-01-09|
 |11|[#32822](https://github.com/Azure/azure-sdk-for-java/issues/32822)|[BUG] Deserialization failed for azure-resourcemanager-security's listing security contacts|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-01-09|
