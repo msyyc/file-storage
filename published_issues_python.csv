@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-edgeorder,Wzb123456789,Wzb123456789,2023-02-13,2023-02-14,https://github.com/Azure/sdk-release-request/issues/3768,2.0.0b1,
+azure-mgmt-kubernetesconfiguration,Wzb123456789,Wzb123456789,2023-02-13,2023-02-14,https://github.com/Azure/sdk-release-request/issues/3775,3.0.0b1,
 azure-mgmt-databox,Wzb123456789,Wzb123456789,2023-02-10,2023-02-13,https://github.com/Azure/sdk-release-request/issues/3761,2.0.0b1,
 azure-mgmt-dns,Wzb123456789,Wzb123456789,2023-02-10,2023-02-13,https://github.com/Azure/sdk-release-request/issues/3762,8.1.0b1,
 azure-mgmt-commerce,msyyc,Wzb123456789,2023-02-10,2023-02-10,https://github.com/Azure/sdk-release-request/issues/3760,6.1.0b1,

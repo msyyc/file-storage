@@ -1,18 +1,21 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3778](https://github.com/Azure/sdk-release-request/issues/3778) | cegraybl | azure-mgmt-containerregistry | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag MultiAPI | 02-13 | 03-24 |  |
+| [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag | 02-14 | 03-24 |  |
+| [#3786](https://github.com/Azure/sdk-release-request/issues/3786) | Wzb123456789 | azure-mgmt-keyvault | Wzb123456789 | Attention to inconsistent tag MultiAPI | 02-14 | 03-24 |  |
+| [#3785](https://github.com/Azure/sdk-release-request/issues/3785) | Wzb123456789 | azure-mgmt-extendedlocation | Wzb123456789 | Attention to inconsistent tag MultiAPI | 02-14 | 03-24 |  |
+| [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. MultiAPI | 02-14 | 03-24 |  |
+| [#3783](https://github.com/Azure/sdk-release-request/issues/3783) | Wzb123456789 | azure-mgmt-eventhub | Wzb123456789 | Attention to inconsistent tag MultiAPI | 02-14 | 03-24 |  |
+| [#3782](https://github.com/Azure/sdk-release-request/issues/3782) | Wzb123456789 | azure-mgmt-applicationinsights | Wzb123456789 | Attention to inconsistent tag MultiAPI | 02-14 | 03-24 |  |
 | [#3776](https://github.com/Azure/sdk-release-request/issues/3776) | Wzb123456789 | azure-mgmt-appplatform | Wzb123456789 |  | 02-13 | 03-24 |  |
-| [#3775](https://github.com/Azure/sdk-release-request/issues/3775) | Wzb123456789 | azure-mgmt-kubernetesconfiguration | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 02-13 | 03-24 |  |
-| [#3768](https://github.com/Azure/sdk-release-request/issues/3768) | Wzb123456789 | azure-mgmt-edgeorder | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3763](https://github.com/Azure/sdk-release-request/issues/3763) | Wzb123456789 | azure-mgmt-databoxedge | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3756](https://github.com/Azure/sdk-release-request/issues/3756) | kshittiz7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 02-09 | 02-24 |  |
 | [#3755](https://github.com/Azure/sdk-release-request/issues/3755) | mattmsft | azure-mgmt-search | Wzb123456789 | new comment. | 02-09 | 02-24 |  |
-| [#3751](https://github.com/Azure/sdk-release-request/issues/3751) | rebecca337 | azure-mgmt-storagecache | Wzb123456789 |  | 02-09 | 02-24 |  |
+| [#3751](https://github.com/Azure/sdk-release-request/issues/3751) | rebecca337 | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> | 02-09 | 02-24 |  |
 | [#3748](https://github.com/Azure/sdk-release-request/issues/3748) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 02-08 | 02-24 |  |
 | [#3746](https://github.com/Azure/sdk-release-request/issues/3746) | msyyc | azure-mgmt-hybridcompute | Wzb123456789 |  | 02-06 | 02-24 |  |
-| [#3745](https://github.com/Azure/sdk-release-request/issues/3745) | cegraybl | azure-mgmt-containerregistry | Wzb123456789 | duplicated issue  <br> | 02-02 | 02-24 |  |
+| [#3745](https://github.com/Azure/sdk-release-request/issues/3745) | cegraybl | azure-mgmt-containerregistry | Wzb123456789 |  | 02-02 | 02-24 |  |
 | [#3734](https://github.com/Azure/sdk-release-request/issues/3734) | schaudhari6254888 | azure-mgmt-servicebus | Wzb123456789 |  | 02-01 | 02-04 |  |
 | [#3732](https://github.com/Azure/sdk-release-request/issues/3732) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 03-07 |  |
 | [#3725](https://github.com/Azure/sdk-release-request/issues/3725) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 02-24 |  |
