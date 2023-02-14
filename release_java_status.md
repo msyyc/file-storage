@@ -11,7 +11,7 @@
 | [#3741](https://github.com/Azure/sdk-release-request/issues/3741) | weidongxu-microsoft |  | weidongxu-microsoft |  | 02-02 |  | 0 |
 | [#3740](https://github.com/Azure/sdk-release-request/issues/3740) | isolenov |  | XiaofeiCao | new issue. | 02-01 | 02-24 |  |
 | [#3731](https://github.com/Azure/sdk-release-request/issues/3731) | yifanz0 |  | weidongxu-microsoft |  | 02-01 | 03-07 |  |
-| [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft | new comment. | 02-01 | 02-24 |  |
+| [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft |  | 02-01 | 02-24 |  |
 | [#3705](https://github.com/Azure/sdk-release-request/issues/3705) | matanova8 |  | haolingdong-msft | new issue. | 01-29 | 02-24 |  |
 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao |  | 01-24 | 02-24 |  |
 | [#3680](https://github.com/Azure/sdk-release-request/issues/3680) | yangyuan |  | haolingdong-msft | new issue. | 01-22 | 02-24 |  |
