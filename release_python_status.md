@@ -6,7 +6,6 @@
 | [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. | 02-14 | 03-24 |  |
 | [#3783](https://github.com/Azure/sdk-release-request/issues/3783) | Wzb123456789 | azure-mgmt-eventhub | Wzb123456789 |  | 02-14 | 03-24 |  |
 | [#3782](https://github.com/Azure/sdk-release-request/issues/3782) | Wzb123456789 | azure-mgmt-applicationinsights | Wzb123456789 |  | 02-14 | 03-24 |  |
-| [#3776](https://github.com/Azure/sdk-release-request/issues/3776) | Wzb123456789 | azure-mgmt-appplatform | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3756](https://github.com/Azure/sdk-release-request/issues/3756) | kshittiz7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 02-09 | 02-24 |  |

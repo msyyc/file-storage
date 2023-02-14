@@ -17,3 +17,4 @@
 | [#3680](https://github.com/Azure/sdk-release-request/issues/3680) | yangyuan |  | haolingdong-msft | new issue. | 01-22 | 02-24 |  |
 | [#3670](https://github.com/Azure/sdk-release-request/issues/3670) | yanjungao718 |  | weidongxu-microsoft |  | 01-18 | 02-24 |  |
 | [#3664](https://github.com/Azure/sdk-release-request/issues/3664) | hzhang87 |  | haolingdong-msft | Attention to inconsistent tag | 01-17 | 02-24 |  |
+| [#3637](https://github.com/Azure/sdk-release-request/issues/3637) | cvarsh |  | haolingdong-msft | Attention to inconsistent tag | 01-11 | 01-27 |  |
