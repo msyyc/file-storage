@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3778](https://github.com/Azure/sdk-release-request/issues/3778) | cegraybl | azure-mgmt-containerregistry | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag MultiAPI | 02-13 | 03-24 |  |
-| [#3777](https://github.com/Azure/sdk-release-request/issues/3777) | Wzb123456789 | azure-mgmt-containerregistry | Wzb123456789 | duplicated issue  <br> | 02-13 | 03-24 |  |
 | [#3776](https://github.com/Azure/sdk-release-request/issues/3776) | Wzb123456789 | azure-mgmt-appplatform | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3775](https://github.com/Azure/sdk-release-request/issues/3775) | Wzb123456789 | azure-mgmt-kubernetesconfiguration | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 02-13 | 03-24 |  |
@@ -20,7 +19,7 @@
 | [#3718](https://github.com/Azure/sdk-release-request/issues/3718) | cvarsh | azure-mgmt-recoveryservices | Wzb123456789 |  | 02-01 | 02-24 |  |
 | [#3707](https://github.com/Azure/sdk-release-request/issues/3707) | matanova8 | azure-mgmt-kusto | Wzb123456789 |  | 01-29 | 02-24 |  |
 | [#3703](https://github.com/Azure/sdk-release-request/issues/3703) | nathanfalke |  | Wzb123456789 |  | 01-25 |  | 0 |
-| [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | new comment. | 01-24 | 02-24 |  |
+| [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | new comment. | 01-24 | 02-20 |  |
 | [#3683](https://github.com/Azure/sdk-release-request/issues/3683) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 |  | 01-23 | 02-24 |  |
 | [#3679](https://github.com/Azure/sdk-release-request/issues/3679) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 01-22 | 02-24 |  |
 | [#3676](https://github.com/Azure/sdk-release-request/issues/3676) | chchen3 | azure-mgmt-reservations | Wzb123456789 |  | 01-19 | 02-24 |  |
