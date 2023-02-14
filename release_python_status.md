@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag | 02-14 | 03-24 |  |
 | [#3786](https://github.com/Azure/sdk-release-request/issues/3786) | Wzb123456789 | azure-mgmt-keyvault | Wzb123456789 |  | 02-14 | 03-24 |  |
-| [#3785](https://github.com/Azure/sdk-release-request/issues/3785) | Wzb123456789 | azure-mgmt-extendedlocation | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-14 | 03-24 |  |
+| [#3785](https://github.com/Azure/sdk-release-request/issues/3785) | Wzb123456789 | azure-mgmt-extendedlocation | Wzb123456789 |  | 02-14 | 03-24 |  |
 | [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. | 02-14 | 03-24 |  |
 | [#3783](https://github.com/Azure/sdk-release-request/issues/3783) | Wzb123456789 | azure-mgmt-eventhub | Wzb123456789 |  | 02-14 | 03-24 |  |
 | [#3782](https://github.com/Azure/sdk-release-request/issues/3782) | Wzb123456789 | azure-mgmt-applicationinsights | Wzb123456789 |  | 02-14 | 03-24 |  |
