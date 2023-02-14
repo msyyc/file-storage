@@ -9,7 +9,7 @@
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3763](https://github.com/Azure/sdk-release-request/issues/3763) | Wzb123456789 | azure-mgmt-databoxedge | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3756](https://github.com/Azure/sdk-release-request/issues/3756) | kshittiz7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 02-09 | 02-24 |  |
-| [#3755](https://github.com/Azure/sdk-release-request/issues/3755) | mattmsft | azure-mgmt-search | Wzb123456789 |  | 02-09 | 02-24 |  |
+| [#3755](https://github.com/Azure/sdk-release-request/issues/3755) | mattmsft | azure-mgmt-search | Wzb123456789 | new comment. | 02-09 | 02-24 |  |
 | [#3751](https://github.com/Azure/sdk-release-request/issues/3751) | rebecca337 | azure-mgmt-storagecache | Wzb123456789 |  | 02-09 | 02-24 |  |
 | [#3748](https://github.com/Azure/sdk-release-request/issues/3748) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 02-08 | 02-24 |  |
 | [#3746](https://github.com/Azure/sdk-release-request/issues/3746) | msyyc | azure-mgmt-hybridcompute | Wzb123456789 |  | 02-06 | 02-24 |  |
