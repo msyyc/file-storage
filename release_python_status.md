@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag | 02-14 | 03-24 |  |
+| [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> new issue. | 02-14 | 03-24 |  |
 | [#3786](https://github.com/Azure/sdk-release-request/issues/3786) | Wzb123456789 | azure-mgmt-keyvault | Wzb123456789 |  | 02-14 | 03-24 |  |
 | [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. | 02-14 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 02-13 | 03-24 |  |
