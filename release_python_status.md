@@ -2,10 +2,9 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3803](https://github.com/Azure/sdk-release-request/issues/3803) | Wzb123456789 | azure-mgmt-authorization | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3801](https://github.com/Azure/sdk-release-request/issues/3801) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 |  | 02-15 | 03-24 |  |
-| [#3800](https://github.com/Azure/sdk-release-request/issues/3800) | Wzb123456789 | azure-mgmt-appconfiguration | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. | 02-14 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang |  | Wzb123456789 | duplicated issue  <br> | 02-13 |  | 0 |
-| [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 | new issue. | 02-10 | 03-24 |  |
+| [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
 | [#3756](https://github.com/Azure/sdk-release-request/issues/3756) | kshittiz7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 02-09 | 02-24 |  |
 | [#3755](https://github.com/Azure/sdk-release-request/issues/3755) | mattmsft | azure-mgmt-search | Wzb123456789 | new comment. | 02-09 | 02-24 |  |
 | [#3751](https://github.com/Azure/sdk-release-request/issues/3751) | rebecca337 | azure-mgmt-storagecache | Wzb123456789 |  | 02-09 | 02-24 |  |
