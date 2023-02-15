@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3803](https://github.com/Azure/sdk-release-request/issues/3803) | Wzb123456789 | azure-mgmt-authorization | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3802](https://github.com/Azure/sdk-release-request/issues/3802) | Wzb123456789 | azure-mgmt-monitor | Wzb123456789 | duplicated issue  <br> | 02-15 | 03-24 |  |
-| [#3801](https://github.com/Azure/sdk-release-request/issues/3801) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-15 | 03-24 |  |
+| [#3801](https://github.com/Azure/sdk-release-request/issues/3801) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3800](https://github.com/Azure/sdk-release-request/issues/3800) | Wzb123456789 | azure-mgmt-appconfiguration | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3799](https://github.com/Azure/sdk-release-request/issues/3799) | Wzb123456789 | azure-mgmt-servicebus | Wzb123456789 | duplicated issue  <br> | 02-15 | 03-24 |  |
 | [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> | 02-14 | 03-24 |  |
