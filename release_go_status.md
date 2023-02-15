@@ -5,8 +5,8 @@
 | [#3774](https://github.com/Azure/sdk-release-request/issues/3774) | FumingZhang |  | Alancere | new issue. | 02-13 | 03-24 |  |
 | [#3770](https://github.com/Azure/sdk-release-request/issues/3770) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3766](https://github.com/Azure/sdk-release-request/issues/3766) | jamlai |  | Alancere | new issue. | 02-10 | 03-24 |  |
-| [#3757](https://github.com/Azure/sdk-release-request/issues/3757) | kshittiz7 |  | Alancere | new issue. | 02-09 | 02-24 |  |
-| [#3752](https://github.com/Azure/sdk-release-request/issues/3752) | rebecca337 |  | Alancere | new issue. | 02-09 | 02-24 |  |
+| [#3757](https://github.com/Azure/sdk-release-request/issues/3757) | kshittiz7 |  | Alancere |  | 02-09 | 02-24 |  |
+| [#3752](https://github.com/Azure/sdk-release-request/issues/3752) | rebecca337 |  | Alancere |  | 02-09 | 02-24 |  |
 | [#3750](https://github.com/Azure/sdk-release-request/issues/3750) | Frey-Wang |  | Alancere |  | 02-08 | 02-24 |  |
 | [#3744](https://github.com/Azure/sdk-release-request/issues/3744) | cegraybl |  | Alancere | new comment. | 02-02 | 02-24 |  |
 | [#3736](https://github.com/Azure/sdk-release-request/issues/3736) | schaudhari6254888 |  | Alancere |  | 02-01 | 02-24 |  |
