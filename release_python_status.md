@@ -5,7 +5,7 @@
 | [#3801](https://github.com/Azure/sdk-release-request/issues/3801) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-15 | 03-24 |  |
 | [#3800](https://github.com/Azure/sdk-release-request/issues/3800) | Wzb123456789 | azure-mgmt-appconfiguration | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3799](https://github.com/Azure/sdk-release-request/issues/3799) | Wzb123456789 | azure-mgmt-servicebus | Wzb123456789 | duplicated issue  <br> | 02-15 | 03-24 |  |
-| [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> new issue. | 02-14 | 03-24 |  |
+| [#3790](https://github.com/Azure/sdk-release-request/issues/3790) | brpanask | azure-mgmt-storagecache | Wzb123456789 | duplicated issue  <br> | 02-14 | 03-24 |  |
 | [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. | 02-14 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 02-13 | 03-24 |  |
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 | duplicated issue  <br> | 02-10 | 03-24 |  |
