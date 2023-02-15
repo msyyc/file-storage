@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-keyvault,Wzb123456789,Wzb123456789,2023-02-14,2023-02-15,https://github.com/Azure/sdk-release-request/issues/3786,10.2.0b1,
 azure-mgmt-applicationinsights,Wzb123456789,Wzb123456789,2023-02-14,2023-02-14,https://github.com/Azure/sdk-release-request/issues/3782,4.0.0b1,
 azure-mgmt-eventhub,Wzb123456789,Wzb123456789,2023-02-14,2023-02-14,https://github.com/Azure/sdk-release-request/issues/3783,11.0.0b1,
 azure-mgmt-extendedlocation,Wzb123456789,Wzb123456789,2023-02-14,2023-02-14,https://github.com/Azure/sdk-release-request/issues/3785,1.2.0b1,
