@@ -4,10 +4,10 @@
 | [#3814](https://github.com/Azure/sdk-release-request/issues/3814) | Wzb123456789 | azure-mgmt-msi | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-16 | 03-24 |  |
 | [#3813](https://github.com/Azure/sdk-release-request/issues/3813) | Wzb123456789 | azure-mgmt-compute | Wzb123456789 | new issue. | 02-16 | 03-24 |  |
 | [#3812](https://github.com/Azure/sdk-release-request/issues/3812) | Wzb123456789 | azure-mgmt-redhatopenshift | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-16 | 03-24 |  |
-| [#3811](https://github.com/Azure/sdk-release-request/issues/3811) | Wzb123456789 | azure-mgmt-digitaltwins | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-16 | 03-24 |  |
-| [#3810](https://github.com/Azure/sdk-release-request/issues/3810) | Wzb123456789 | azure-mgmt-resource | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-16 | 03-24 |  |
+| [#3811](https://github.com/Azure/sdk-release-request/issues/3811) | Wzb123456789 | azure-mgmt-digitaltwins | Wzb123456789 |  | 02-16 | 03-24 |  |
+| [#3810](https://github.com/Azure/sdk-release-request/issues/3810) | Wzb123456789 | azure-mgmt-resource | Wzb123456789 |  | 02-16 | 03-24 |  |
 | [#3809](https://github.com/Azure/sdk-release-request/issues/3809) | Wzb123456789 | azure-mgmt-security | Wzb123456789 |  | 02-16 | 03-24 |  |
-| [#3808](https://github.com/Azure/sdk-release-request/issues/3808) | Wzb123456789 | azure-mgmt-resourcehealth | Wzb123456789 | new version is 0.0.0, please check base branch! | 02-16 | 03-24 |  |
+| [#3808](https://github.com/Azure/sdk-release-request/issues/3808) | Wzb123456789 | azure-mgmt-resourcehealth | Wzb123456789 |  | 02-16 | 03-24 |  |
 | [#3804](https://github.com/Azure/sdk-release-request/issues/3804) | sebastianrex | azure-mgmt-voiceservices | Wzb123456789 |  | 02-15 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang |  | Wzb123456789 | duplicated issue  <br> | 02-13 |  | 0 |
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
