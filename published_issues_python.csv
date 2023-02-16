@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-cosmosdb,kshittiz7,Wzb123456789,2023-02-09,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3756,9.0.0,True
 azure-mgmt-iothub,Wzb123456789,Wzb123456789,2023-02-15,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3801,2.4.0b1,
 azure-mgmt-authorization,Wzb123456789,Wzb123456789,2023-02-15,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3803,3.1.0b1,
 azure-mgmt-appconfiguration,Wzb123456789,Wzb123456789,2023-02-15,2023-02-15,https://github.com/Azure/sdk-release-request/issues/3800,3.0.0b1,
