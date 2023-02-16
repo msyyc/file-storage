@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3805](https://github.com/Azure/sdk-release-request/issues/3805) | sebastianrex |  | weidongxu-microsoft | new issue. | 02-15 | 03-24 |  |
+| [#3805](https://github.com/Azure/sdk-release-request/issues/3805) | sebastianrex |  | weidongxu-microsoft |  | 02-15 | 03-24 |  |
 | [#3788](https://github.com/Azure/sdk-release-request/issues/3788) | brpanask |  | weidongxu-microsoft | Attention to inconsistent tag | 02-14 | 03-24 |  |
 | [#3781](https://github.com/Azure/sdk-release-request/issues/3781) | cegraybl |  | XiaofeiCao | Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3773](https://github.com/Azure/sdk-release-request/issues/3773) | FumingZhang |  | weidongxu-microsoft |  | 02-13 | 03-24 |  |
@@ -12,7 +12,7 @@
 | [#3741](https://github.com/Azure/sdk-release-request/issues/3741) | weidongxu-microsoft |  | weidongxu-microsoft |  | 02-02 |  | 0 |
 | [#3740](https://github.com/Azure/sdk-release-request/issues/3740) | isolenov |  | XiaofeiCao | new issue. | 02-01 | 02-24 |  |
 | [#3731](https://github.com/Azure/sdk-release-request/issues/3731) | yifanz0 |  | weidongxu-microsoft |  | 02-01 | 03-07 |  |
-| [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft | new comment. | 02-01 | 02-24 |  |
+| [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft |  | 02-01 | 02-24 |  |
 | [#3705](https://github.com/Azure/sdk-release-request/issues/3705) | matanova8 |  | haolingdong-msft | new issue. | 01-29 | 02-24 |  |
 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao |  | 01-24 | 02-24 |  |
 | [#3680](https://github.com/Azure/sdk-release-request/issues/3680) | yangyuan |  | haolingdong-msft | new issue. | 01-22 | 02-24 |  |
