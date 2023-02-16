@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3803](https://github.com/Azure/sdk-release-request/issues/3803) | Wzb123456789 | azure-mgmt-authorization | Wzb123456789 |  | 02-15 | 03-24 |  |
-| [#3801](https://github.com/Azure/sdk-release-request/issues/3801) | Wzb123456789 | azure-mgmt-iothub | Wzb123456789 |  | 02-15 | 03-24 |  |
+| [#3804](https://github.com/Azure/sdk-release-request/issues/3804) | sebastianrex | azure-mgmt-voiceservices | Wzb123456789 | new issue. | 02-15 | 03-24 |  |
 | [#3784](https://github.com/Azure/sdk-release-request/issues/3784) | Wzb123456789 | azure-mgmt-web | Wzb123456789 | new issue. | 02-14 | 03-24 |  |
 | [#3771](https://github.com/Azure/sdk-release-request/issues/3771) | FumingZhang |  | Wzb123456789 | duplicated issue  <br> | 02-13 |  | 0 |
 | [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 |  | 02-10 | 03-24 |  |
