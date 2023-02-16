@@ -1,4 +1,10 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-synapse,yanjungao718,Wzb123456789,2023-01-18,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3673,2.1.0b7,
+azure-mgmt-cognitiveservices,yangyuan,Wzb123456789,2023-01-22,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3679,13.4.0,True
+azure-mgmt-workloads,gargankit-microsoft,Wzb123456789,2023-01-23,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3683,1.0.0b3,
+azure-mgmt-recoveryservices,cvarsh,Wzb123456789,2023-02-01,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3718,2.3.0,True
+azure-mgmt-servicebus,schaudhari6254888,Wzb123456789,2023-02-01,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3734,8.2.0,True
+azure-mgmt-storagecache,rebecca337,Wzb123456789,2023-02-09,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3751,1.4.0,True
 azure-mgmt-cosmosdb,kshittiz7,Wzb123456789,2023-02-09,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3756,9.0.0,True
 azure-mgmt-iothub,Wzb123456789,Wzb123456789,2023-02-15,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3801,2.4.0b1,
 azure-mgmt-authorization,Wzb123456789,Wzb123456789,2023-02-15,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3803,3.1.0b1,
