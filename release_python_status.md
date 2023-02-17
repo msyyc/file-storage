@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3823](https://github.com/Azure/sdk-release-request/issues/3823) | viparek | azure-mgmt-sql | Wzb123456789 | new issue. new comment. | 02-16 | 03-24 |  |
+| [#3823](https://github.com/Azure/sdk-release-request/issues/3823) | viparek | azure-mgmt-sql | Wzb123456789 |  | 02-16 | 03-24 |  |
 | [#3822](https://github.com/Azure/sdk-release-request/issues/3822) | saurgupta-msft | azure-mgmt-newrelic | Wzb123456789 | new issue. | 02-16 | 03-24 |  |
 | [#3817](https://github.com/Azure/sdk-release-request/issues/3817) | giakas | azure-mgmt-media | Wzb123456789 | new comment. | 02-16 | 03-24 |  |
 | [#3813](https://github.com/Azure/sdk-release-request/issues/3813) | Wzb123456789 | azure-mgmt-compute | Wzb123456789 |  | 02-16 | 03-24 |  |
