@@ -14,4 +14,4 @@
 | [#3732](https://github.com/Azure/sdk-release-request/issues/3732) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> | 02-01 | 03-07 |  |
 | [#3725](https://github.com/Azure/sdk-release-request/issues/3725) | yifanz0 | azure-mgmt-storagemover | Wzb123456789 | duplicated issue  <br> new comment. | 02-01 | 02-24 |  |
 | [#3703](https://github.com/Azure/sdk-release-request/issues/3703) | nathanfalke |  | Wzb123456789 |  | 01-25 |  | 0 |
-| [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | close to release date.  | 01-24 | 02-20 | 1 |
+| [#3693](https://github.com/Azure/sdk-release-request/issues/3693) | mayankagg9722 | azure-mgmt-dataprotection | Wzb123456789 | close to release date.  | 01-24 | 02-20 | 0 |
