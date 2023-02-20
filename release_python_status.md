@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3828](https://github.com/Azure/sdk-release-request/issues/3828) | Wzb123456789 | azure-mgmt-storage | Wzb123456789 | new issue. MultiAPI | 02-20 | 03-24 |  |
+| [#3828](https://github.com/Azure/sdk-release-request/issues/3828) | Wzb123456789 | azure-mgmt-storage | Wzb123456789 | new issue. | 02-20 | 03-24 |  |
 | [#3826](https://github.com/Azure/sdk-release-request/issues/3826) | sjiherzig | azure-mgmt-digitaltwins | Wzb123456789 | new issue. MultiAPI | 02-17 | 03-24 |  |
 | [#3822](https://github.com/Azure/sdk-release-request/issues/3822) | saurgupta-msft | azure-mgmt-newrelic | Wzb123456789 |  | 02-16 | 03-24 |  |
 | [#3817](https://github.com/Azure/sdk-release-request/issues/3817) | giakas | azure-mgmt-media | Wzb123456789 |  | 02-16 | 03-24 |  |
