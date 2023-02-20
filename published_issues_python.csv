@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-dataprotection,mayankagg9722,Wzb123456789,2023-01-24,2023-02-20,https://github.com/Azure/sdk-release-request/issues/3693,1.0.0,True
+azure-mgmt-hybridcompute,msyyc,Wzb123456789,2023-02-06,2023-02-20,https://github.com/Azure/sdk-release-request/issues/3746,8.0.0,True
+azure-mgmt-sql,viparek,Wzb123456789,2023-02-16,2023-02-20,https://github.com/Azure/sdk-release-request/issues/3823,4.0.0b8,
 azure-mgmt-resourcehealth,Wzb123456789,Wzb123456789,2023-02-16,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3808,1.0.0b3,
 azure-mgmt-security,Wzb123456789,Wzb123456789,2023-02-16,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3809,4.0.0b1,
 azure-mgmt-resource,Wzb123456789,Wzb123456789,2023-02-16,2023-02-16,https://github.com/Azure/sdk-release-request/issues/3810,22.1.0b1,
