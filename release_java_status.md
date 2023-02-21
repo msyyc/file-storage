@@ -11,6 +11,5 @@
 | [#3720](https://github.com/Azure/sdk-release-request/issues/3720) | cvarsh |  | haolingdong-msft | close to release date.  | 02-01 | 02-24 | 2 |
 | [#3705](https://github.com/Azure/sdk-release-request/issues/3705) | matanova8 |  | haolingdong-msft | new issue. close to release date.  | 01-29 | 02-24 | 2 |
 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao | close to release date.  | 01-24 | 02-24 | 2 |
-| [#3664](https://github.com/Azure/sdk-release-request/issues/3664) | hzhang87 |  | haolingdong-msft | close to release date.  Attention to inconsistent tag | 01-17 | 02-24 | 2 |
 | [#3637](https://github.com/Azure/sdk-release-request/issues/3637) | cvarsh |  | haolingdong-msft | Attention to inconsistent tag | 01-11 | 01-27 |  |
 | [#3603](https://github.com/Azure/sdk-release-request/issues/3603) | FumingZhang |  | XiaofeiCao | Attention to inconsistent tag | 12-28 | 01-27 |  |
