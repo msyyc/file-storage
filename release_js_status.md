@@ -12,12 +12,12 @@
 | [#3759](https://github.com/Azure/sdk-release-request/issues/3759) | kshittiz7 |  | MaryGao | close to release date.  | 02-09 | 02-24 | 2 |
 | [#3754](https://github.com/Azure/sdk-release-request/issues/3754) | rebecca337 |  | MaryGao | close to release date.  | 02-09 | 02-24 | 2 |
 | [#3747](https://github.com/Azure/sdk-release-request/issues/3747) | Frey-Wang |  | MaryGao | close to release date.  | 02-08 | 02-24 | 2 |
-| [#3742](https://github.com/Azure/sdk-release-request/issues/3742) | cegraybl |  | qiaozha | new comment. close to release date.  | 02-02 | 02-24 | 2 |
+| [#3742](https://github.com/Azure/sdk-release-request/issues/3742) | cegraybl |  | qiaozha | close to release date.  | 02-02 | 02-24 | 2 |
 | [#3733](https://github.com/Azure/sdk-release-request/issues/3733) | schaudhari6254888 |  | qiaozha | close to release date.  | 02-01 | 02-24 | 2 |
 | [#3730](https://github.com/Azure/sdk-release-request/issues/3730) | yifanz0 |  | qiaozha | new issue. new comment. | 02-01 | 03-07 |  |
 | [#3727](https://github.com/Azure/sdk-release-request/issues/3727) | yifanz0 |  | qiaozha | close to release date.  Attention to inconsistent tag | 02-01 | 02-24 | 2 |
 | [#3717](https://github.com/Azure/sdk-release-request/issues/3717) | cvarsh |  | qiaozha | close to release date.  | 02-01 | 02-24 | 2 |
-| [#3704](https://github.com/Azure/sdk-release-request/issues/3704) | matanova8 |  | qiaozha | new comment. close to release date.  | 01-29 | 02-24 | 2 |
+| [#3704](https://github.com/Azure/sdk-release-request/issues/3704) | matanova8 |  | qiaozha | close to release date.  | 01-29 | 02-24 | 2 |
 | [#3702](https://github.com/Azure/sdk-release-request/issues/3702) | romero-ms |  | MaryGao | close to release date.  | 01-24 | 02-24 | 2 |
 | [#3691](https://github.com/Azure/sdk-release-request/issues/3691) | mayankagg9722 |  | MaryGao | close to release date.  | 01-24 | 02-24 | 2 |
 | [#3687](https://github.com/Azure/sdk-release-request/issues/3687) | Shashank1306s |  | MaryGao | close to release date.  | 01-24 | 02-24 | 2 |
