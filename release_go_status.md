@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3829](https://github.com/Azure/sdk-release-request/issues/3829) | gargankit-microsoft |  | Alancere |  | 02-21 |  | 0 |
 | [#3824](https://github.com/Azure/sdk-release-request/issues/3824) | sjiherzig |  | Alancere | new issue. | 02-17 | 03-24 |  |
 | [#3819](https://github.com/Azure/sdk-release-request/issues/3819) | saurgupta-msft |  | Alancere | new issue. | 02-16 | 03-24 |  |
 | [#3815](https://github.com/Azure/sdk-release-request/issues/3815) | giakas |  | Alancere | new issue. | 02-16 | 03-24 |  |
@@ -9,21 +10,21 @@
 | [#3774](https://github.com/Azure/sdk-release-request/issues/3774) | FumingZhang |  | Alancere | new issue. | 02-13 | 03-24 |  |
 | [#3770](https://github.com/Azure/sdk-release-request/issues/3770) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3766](https://github.com/Azure/sdk-release-request/issues/3766) | jamlai |  | Alancere | new issue. | 02-10 | 03-24 |  |
-| [#3757](https://github.com/Azure/sdk-release-request/issues/3757) | kshittiz7 |  | Alancere | close to release date.  | 02-09 | 02-24 | 2 |
-| [#3752](https://github.com/Azure/sdk-release-request/issues/3752) | rebecca337 |  | Alancere | close to release date.  | 02-09 | 02-24 | 2 |
-| [#3750](https://github.com/Azure/sdk-release-request/issues/3750) | Frey-Wang |  | Alancere | close to release date.  | 02-08 | 02-24 | 2 |
-| [#3744](https://github.com/Azure/sdk-release-request/issues/3744) | cegraybl |  | Alancere | new comment. close to release date.  | 02-02 | 02-24 | 2 |
-| [#3736](https://github.com/Azure/sdk-release-request/issues/3736) | schaudhari6254888 |  | Alancere | close to release date.  | 02-01 | 02-24 | 2 |
+| [#3757](https://github.com/Azure/sdk-release-request/issues/3757) | kshittiz7 |  | Alancere | new comment. close to release date.  | 02-09 | 02-24 | 1 |
+| [#3752](https://github.com/Azure/sdk-release-request/issues/3752) | rebecca337 |  | Alancere | close to release date.  | 02-09 | 02-24 | 1 |
+| [#3750](https://github.com/Azure/sdk-release-request/issues/3750) | Frey-Wang |  | Alancere | close to release date.  | 02-08 | 02-24 | 1 |
+| [#3744](https://github.com/Azure/sdk-release-request/issues/3744) | cegraybl |  | Alancere | new comment. close to release date.  | 02-02 | 02-24 | 1 |
+| [#3736](https://github.com/Azure/sdk-release-request/issues/3736) | schaudhari6254888 |  | Alancere | close to release date.  | 02-01 | 02-24 | 1 |
 | [#3729](https://github.com/Azure/sdk-release-request/issues/3729) | yifanz0 |  | Alancere |  | 02-01 | 03-07 |  |
-| [#3728](https://github.com/Azure/sdk-release-request/issues/3728) | yifanz0 |  | Alancere | close to release date.  Attention to inconsistent tag | 02-01 | 02-24 | 2 |
-| [#3719](https://github.com/Azure/sdk-release-request/issues/3719) | cvarsh |  | Alancere | new comment. close to release date.  | 02-01 | 02-24 | 2 |
-| [#3706](https://github.com/Azure/sdk-release-request/issues/3706) | matanova8 |  | Alancere | close to release date.  | 01-29 | 02-24 | 2 |
-| [#3701](https://github.com/Azure/sdk-release-request/issues/3701) | romero-ms |  | Alancere | close to release date.  | 01-24 | 02-24 | 2 |
-| [#3694](https://github.com/Azure/sdk-release-request/issues/3694) | mayankagg9722 |  | Alancere | close to release date.  | 01-24 | 02-24 | 2 |
-| [#3688](https://github.com/Azure/sdk-release-request/issues/3688) | Shashank1306s |  | Alancere | close to release date.  | 01-24 | 02-24 | 2 |
-| [#3684](https://github.com/Azure/sdk-release-request/issues/3684) | gargankit-microsoft |  | Alancere | new comment. close to release date.  | 01-23 | 02-24 | 2 |
-| [#3682](https://github.com/Azure/sdk-release-request/issues/3682) | yangyuan |  | Alancere | close to release date.  | 01-22 | 02-24 | 2 |
-| [#3677](https://github.com/Azure/sdk-release-request/issues/3677) | chchen3 |  | Alancere | close to release date.  | 01-19 | 02-24 | 2 |
-| [#3672](https://github.com/Azure/sdk-release-request/issues/3672) | yanjungao718 |  | Alancere | new comment. close to release date.  | 01-18 | 02-24 | 2 |
-| [#3662](https://github.com/Azure/sdk-release-request/issues/3662) | Frey-Wang |  | Alancere | close to release date.  | 01-16 | 02-24 | 2 |
+| [#3728](https://github.com/Azure/sdk-release-request/issues/3728) | yifanz0 |  | Alancere | close to release date.  Attention to inconsistent tag | 02-01 | 02-24 | 1 |
+| [#3719](https://github.com/Azure/sdk-release-request/issues/3719) | cvarsh |  | Alancere | new comment. close to release date.  | 02-01 | 02-24 | 1 |
+| [#3706](https://github.com/Azure/sdk-release-request/issues/3706) | matanova8 |  | Alancere | close to release date.  | 01-29 | 02-24 | 1 |
+| [#3701](https://github.com/Azure/sdk-release-request/issues/3701) | romero-ms |  | Alancere | close to release date.  | 01-24 | 02-24 | 1 |
+| [#3694](https://github.com/Azure/sdk-release-request/issues/3694) | mayankagg9722 |  | Alancere | close to release date.  | 01-24 | 02-24 | 1 |
+| [#3688](https://github.com/Azure/sdk-release-request/issues/3688) | Shashank1306s |  | Alancere | close to release date.  | 01-24 | 02-24 | 1 |
+| [#3684](https://github.com/Azure/sdk-release-request/issues/3684) | gargankit-microsoft |  | Alancere | new comment. close to release date.  | 01-23 | 02-24 | 1 |
+| [#3682](https://github.com/Azure/sdk-release-request/issues/3682) | yangyuan |  | Alancere | close to release date.  | 01-22 | 02-24 | 1 |
+| [#3677](https://github.com/Azure/sdk-release-request/issues/3677) | chchen3 |  | Alancere | close to release date.  | 01-19 | 02-24 | 1 |
+| [#3672](https://github.com/Azure/sdk-release-request/issues/3672) | yanjungao718 |  | Alancere | new comment. close to release date.  | 01-18 | 02-24 | 1 |
+| [#3662](https://github.com/Azure/sdk-release-request/issues/3662) | Frey-Wang |  | Alancere | close to release date.  | 01-16 | 02-24 | 1 |
 | [#3542](https://github.com/Azure/sdk-release-request/issues/3542) | shams11 |  | Alancere |  | 12-07 | 12-23 |  |
