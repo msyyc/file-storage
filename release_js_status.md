@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3832](https://github.com/Azure/sdk-release-request/issues/3832) | gargankit-microsoft |  | MaryGao |  | 02-21 |  | 0 |
+| [#3832](https://github.com/Azure/sdk-release-request/issues/3832) | gargankit-microsoft |  | MaryGao |  | 02-21 | 03-24 |  |
 | [#3827](https://github.com/Azure/sdk-release-request/issues/3827) | sjiherzig |  | qiaozha | new issue. | 02-17 | 03-24 |  |
 | [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | qiaozha | new issue. | 02-16 | 03-24 |  |
 | [#3816](https://github.com/Azure/sdk-release-request/issues/3816) | giakas |  | qiaozha | new issue. | 02-16 | 03-24 |  |
