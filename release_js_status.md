@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3835](https://github.com/Azure/sdk-release-request/issues/3835) | sjiherzig |  | MaryGao | new comment. | 02-23 | 03-24 |  |
+| [#3835](https://github.com/Azure/sdk-release-request/issues/3835) | sjiherzig |  | MaryGao |  | 02-23 | 03-24 |  |
 | [#3834](https://github.com/Azure/sdk-release-request/issues/3834) | krivi37 |  | MaryGao |  | 02-22 | 03-24 |  |
 | [#3832](https://github.com/Azure/sdk-release-request/issues/3832) | gargankit-microsoft |  | MaryGao |  | 02-21 | 03-24 |  |
 | [#3827](https://github.com/Azure/sdk-release-request/issues/3827) | sjiherzig |  | qiaozha |  | 02-17 |  | 0 |
