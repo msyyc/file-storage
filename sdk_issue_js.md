@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#24764](https://github.com/Azure/azure-sdk-for-js/issues/24764)|Cannot use @azure/arm-resources in dogfood|Mgmt, ARM, needs-author-feedback|qiaozha||2023-02-07|
 |2|[#24651](https://github.com/Azure/azure-sdk-for-js/issues/24651)|dataFlow is missing on DataFactory Activity responses|bug, customer-reported, Mgmt, Service Attention, Data Factory, needs-team-attention, CXP Attention|qiaozha||2023-02-01|
-|3|[#24613](https://github.com/Azure/azure-sdk-for-js/issues/24613)|Types are too loosely defined to be useful|question, customer-reported, Mgmt, SecurityInsights|qiaozha|new comment|2023-01-30|
+|3|[#24613](https://github.com/Azure/azure-sdk-for-js/issues/24613)|Types are too loosely defined to be useful|question, customer-reported, Mgmt, SecurityInsights|qiaozha||2023-01-30|
 |4|[#24534](https://github.com/Azure/azure-sdk-for-js/issues/24534)|arm-apimanagement - outdated generated code from rest specification - missing bug fixes|question, customer-reported, Mgmt, API Management, needs-author-feedback, no-recent-activity|qiaozha|new comment|2023-01-20|
 |5|[#24505](https://github.com/Azure/azure-sdk-for-js/issues/24505)|Automatic dependency collection for @azure/arm- SDKs|question, customer-reported, Mgmt, needs-team-attention, CXP Attention|MaryGao, qiaozha|new comment|2023-01-17|
 |6|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|question, customer-reported, Mgmt, App Services, needs-team-attention, CXP Attention|qiaozha||2023-01-03|
