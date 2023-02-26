@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#24995](https://github.com/Azure/azure-sdk-for-js/issues/24995)|[aggregate-reports] link verification failures|Mgmt, Docs|qiaozha, kazrael2119||2023-02-24|
+|1|[#24995](https://github.com/Azure/azure-sdk-for-js/issues/24995)|[aggregate-reports] link verification failures|Mgmt, Docs|kazrael2119, qiaozha||2023-02-24|
 |2|[#24764](https://github.com/Azure/azure-sdk-for-js/issues/24764)|Cannot use @azure/arm-resources in dogfood|Mgmt, ARM, needs-author-feedback|qiaozha||2023-02-07|
 |3|[#24651](https://github.com/Azure/azure-sdk-for-js/issues/24651)|dataFlow is missing on DataFactory Activity responses|bug, customer-reported, Mgmt, Service Attention, Data Factory, needs-team-attention, CXP Attention|qiaozha||2023-02-01|
 |4|[#24613](https://github.com/Azure/azure-sdk-for-js/issues/24613)|Types are too loosely defined to be useful|question, customer-reported, Mgmt, SecurityInsights|qiaozha||2023-01-30|
@@ -9,7 +9,7 @@
 |7|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|question, customer-reported, Mgmt, App Services, needs-team-attention, CXP Attention|qiaozha||2023-01-03|
 |8|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |9|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
-|10|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha, xboxeer||2022-07-29|
+|10|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|xboxeer, qiaozha||2022-07-29|
 |11|[#21587](https://github.com/Azure/azure-sdk-for-js/issues/21587)|Generate the rest API orders for debugging purpose when calling something from azure sdk|question, customer-reported, Mgmt, needs-team-attention|qiaozha|new comment|2022-04-25|
 |12|[#21210](https://github.com/Azure/azure-sdk-for-js/issues/21210)|@azure/arm-authorization beta release missing roleDefinitions|question, customer-reported, Mgmt, Service Attention, Authorization, needs-team-attention|qiaozha||2022-04-05|
 |13|[#21116](https://github.com/Azure/azure-sdk-for-js/issues/21116)|webApps.beginInstallSiteExtensionAndWait always returns a 400 error due to missing request body in the API spec|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-03-30|
