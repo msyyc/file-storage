@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3845](https://github.com/Azure/sdk-release-request/issues/3845) | PurnaChandraRaoK |  | Alancere | Attention to inconsistent tag | 02-28 | 03-24 |  |
 | [#3841](https://github.com/Azure/sdk-release-request/issues/3841) | Frey-Wang |  | Alancere | new issue. | 02-24 | 03-24 |  |
 | [#3838](https://github.com/Azure/sdk-release-request/issues/3838) | sjiherzig |  | Alancere | new issue. | 02-23 | 03-24 |  |
 | [#3829](https://github.com/Azure/sdk-release-request/issues/3829) | gargankit-microsoft |  | Alancere |  | 02-21 | 03-24 |  |
@@ -12,7 +13,6 @@
 | [#3774](https://github.com/Azure/sdk-release-request/issues/3774) | FumingZhang |  | Alancere | new issue. | 02-13 | 03-24 |  |
 | [#3770](https://github.com/Azure/sdk-release-request/issues/3770) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3766](https://github.com/Azure/sdk-release-request/issues/3766) | jamlai |  | Alancere | new issue. | 02-10 | 03-24 |  |
-| [#3757](https://github.com/Azure/sdk-release-request/issues/3757) | kshittiz7 |  | Alancere | new comment. | 02-09 | 02-24 |  |
 | [#3752](https://github.com/Azure/sdk-release-request/issues/3752) | rebecca337 |  | Alancere |  | 02-09 | 02-24 |  |
 | [#3750](https://github.com/Azure/sdk-release-request/issues/3750) | Frey-Wang |  | Alancere |  | 02-08 | 02-24 |  |
 | [#3736](https://github.com/Azure/sdk-release-request/issues/3736) | schaudhari6254888 |  | Alancere |  | 02-01 | 02-24 |  |
