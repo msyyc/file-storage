@@ -1,4 +1,16 @@
 {
+    "azure-mgmt-authorization": [
+        "2018-09-01-preview",
+        "2018-07-01-preview",
+        "2018-05-01",
+        "2018-01-01-preview",
+        "2016-12-01",
+        "2016-09-01",
+        "2015-10-01-preview",
+        "2015-07-01-preview",
+        "2015-07-01",
+        "2015-01-01"
+    ],
     "azure-mgmt-resource": [
         "2018-09-01-preview",
         "2018-07-01-preview",
@@ -12,18 +24,6 @@
         "2016-06-01",
         "2016-02-01",
         "2015-12-01",
-        "2015-10-01-preview",
-        "2015-07-01-preview",
-        "2015-07-01",
-        "2015-01-01"
-    ],
-    "azure-mgmt-authorization": [
-        "2018-09-01-preview",
-        "2018-07-01-preview",
-        "2018-05-01",
-        "2018-01-01-preview",
-        "2016-12-01",
-        "2016-09-01",
         "2015-10-01-preview",
         "2015-07-01-preview",
         "2015-07-01",
@@ -135,14 +135,6 @@
     "azure-mgmt-databoxedge": [
         "2019-03-01"
     ],
-    "azure-mgmt-containerservice": [
-        "2019-04-30",
-        "2019-02-01",
-        "2018-09-30-preview",
-        "2017-09-30",
-        "2017-08-31",
-        "2017-07-01"
-    ],
     "azure-mgmt-security": [
         "2019-01-01-preview",
         "2019-01-01",
@@ -178,9 +170,6 @@
     ],
     "azure-mgmt-resourcehealth": [
         "2017-07-01"
-    ],
-    "azure-mgmt-commerce": [
-        "2015-06-01-preview"
     ],
     "azure-mgmt-appconfiguration": [
         "2019-02-01-preview"
