@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | new issue. | 03-02 | 03-24 |  |
 | [#3855](https://github.com/Azure/sdk-release-request/issues/3855) | htippanaboya | azure-mgmt-network | Wzb123456789 | new issue. MultiAPI | 03-01 | 03-24 |  |
 | [#3848](https://github.com/Azure/sdk-release-request/issues/3848) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 03-01 | 03-24 |  |
 | [#3843](https://github.com/Azure/sdk-release-request/issues/3843) | Juliehzl | azure-mgmt-appcontainers | Wzb123456789 |  | 02-28 | 03-24 |  |
