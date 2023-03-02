@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3855](https://github.com/Azure/sdk-release-request/issues/3855) | htippanaboya | azure-mgmt-network | Wzb123456789 | new issue. MultiAPI | 03-01 | 03-24 |  |
 | [#3848](https://github.com/Azure/sdk-release-request/issues/3848) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 03-01 | 03-24 |  |
-| [#3844](https://github.com/Azure/sdk-release-request/issues/3844) | PurnaChandraRaoK | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 02-28 | 03-24 |  |
 | [#3843](https://github.com/Azure/sdk-release-request/issues/3843) | Juliehzl | azure-mgmt-appcontainers | Wzb123456789 |  | 02-28 | 03-24 |  |
 | [#3839](https://github.com/Azure/sdk-release-request/issues/3839) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 02-24 | 03-24 |  |
 | [#3837](https://github.com/Azure/sdk-release-request/issues/3837) | sjiherzig | azure-mgmt-digitaltwins | Wzb123456789 |  | 02-23 | 03-24 |  |
