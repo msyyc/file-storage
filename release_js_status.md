@@ -22,6 +22,6 @@
 | [#3772](https://github.com/Azure/sdk-release-request/issues/3772) | FumingZhang |  | qiaozha |  | 02-13 |  | 0 |
 | [#3769](https://github.com/Azure/sdk-release-request/issues/3769) | FumingZhang |  | qiaozha |  | 02-13 |  | 0 |
 | [#3767](https://github.com/Azure/sdk-release-request/issues/3767) | jamlai |  | MaryGao |  | 02-10 | 03-24 |  |
-| [#3730](https://github.com/Azure/sdk-release-request/issues/3730) | yifanz0 |  | MaryGao | close to release date.  | 02-01 | 03-07 | 2 |
+| [#3730](https://github.com/Azure/sdk-release-request/issues/3730) | yifanz0 |  | MaryGao | close to release date.  | 02-01 | 03-07 | 1 |
 | [#3702](https://github.com/Azure/sdk-release-request/issues/3702) | romero-ms |  | MaryGao |  | 01-24 | 02-24 |  |
 | [#3686](https://github.com/Azure/sdk-release-request/issues/3686) | gargankit-microsoft |  | MaryGao | Attention to inconsistent tag | 01-23 | 02-24 |  |
