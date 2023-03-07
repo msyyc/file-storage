@@ -1,7 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3892](https://github.com/Azure/sdk-release-request/issues/3892) | juniwang |  | Alancere |  | 03-07 |  | 0 |
-| [#3889](https://github.com/Azure/sdk-release-request/issues/3889) | tadelesh |  | Alancere | new issue. | 03-07 | 03-24 |  |
+| [#3892](https://github.com/Azure/sdk-release-request/issues/3892) | juniwang |  | Alancere | new comment. multi readme link! | 03-07 | 03-24 |  |
 | [#3886](https://github.com/Azure/sdk-release-request/issues/3886) | audunn |  | Alancere | new issue. | 03-06 | 03-24 |  |
 | [#3881](https://github.com/Azure/sdk-release-request/issues/3881) | chchen3 |  | Alancere | new issue. | 03-03 | 03-24 |  |
 | [#3878](https://github.com/Azure/sdk-release-request/issues/3878) | stuti-1807 |  | Alancere |  | 03-03 | 03-24 |  |

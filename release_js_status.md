@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3891](https://github.com/Azure/sdk-release-request/issues/3891) | juniwang |  | MaryGao |  | 03-07 |  | 0 |
+| [#3891](https://github.com/Azure/sdk-release-request/issues/3891) | juniwang |  | MaryGao | new comment. multi readme link! | 03-07 | 03-24 |  |
 | [#3885](https://github.com/Azure/sdk-release-request/issues/3885) | audunn |  | MaryGao | new issue. | 03-06 | 03-24 |  |
 | [#3880](https://github.com/Azure/sdk-release-request/issues/3880) | chchen3 |  | MaryGao | new issue. | 03-03 | 03-24 |  |
 | [#3876](https://github.com/Azure/sdk-release-request/issues/3876) | stuti-1807 |  | MaryGao |  | 03-03 | 03-24 |  |
@@ -9,7 +9,7 @@
 | [#3866](https://github.com/Azure/sdk-release-request/issues/3866) | amatukmolina |  | MaryGao |  | 03-03 | 03-24 |  |
 | [#3861](https://github.com/Azure/sdk-release-request/issues/3861) | revanthballa1188 |  | MaryGao | new comment. Attention to inconsistent tag | 03-02 | 03-24 |  |
 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | new issue. | 03-02 | 03-24 |  |
-| [#3853](https://github.com/Azure/sdk-release-request/issues/3853) | htippanaboya |  | MaryGao | new issue. | 03-01 | 03-24 |  |
+| [#3853](https://github.com/Azure/sdk-release-request/issues/3853) | htippanaboya |  | MaryGao |  | 03-01 | 03-24 |  |
 | [#3851](https://github.com/Azure/sdk-release-request/issues/3851) | HariPrasadV |  | MaryGao |  | 03-01 | 03-24 |  |
 | [#3847](https://github.com/Azure/sdk-release-request/issues/3847) | PurnaChandraRaoK |  | MaryGao | new comment. Attention to inconsistent tag | 02-28 | 03-24 |  |
 | [#3842](https://github.com/Azure/sdk-release-request/issues/3842) | Frey-Wang |  | MaryGao |  | 02-24 | 03-24 |  |

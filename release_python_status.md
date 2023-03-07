@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3893](https://github.com/Azure/sdk-release-request/issues/3893) | juniwang |  | Wzb123456789 |  | 03-07 |  | 0 |
+| [#3893](https://github.com/Azure/sdk-release-request/issues/3893) | juniwang |  | Wzb123456789 | new comment. multi readme link! | 03-07 | 03-24 |  |
 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 03-24 |  |
 | [#3883](https://github.com/Azure/sdk-release-request/issues/3883) | chchen3 | azure-mgmt-reservations | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3879](https://github.com/Azure/sdk-release-request/issues/3879) | stuti-1807 | azure-mgmt-orbital | Wzb123456789 |  | 03-03 | 03-24 |  |
