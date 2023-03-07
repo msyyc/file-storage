@@ -19,4 +19,3 @@
 | [#3788](https://github.com/Azure/sdk-release-request/issues/3788) | brpanask |  | weidongxu-microsoft | Attention to inconsistent tag | 02-14 | 03-24 |  |
 | [#3765](https://github.com/Azure/sdk-release-request/issues/3765) | jamlai |  | XiaofeiCao |  | 02-10 | 03-24 |  |
 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao | new comment. | 01-24 | 02-24 |  |
-| [#3603](https://github.com/Azure/sdk-release-request/issues/3603) | FumingZhang |  | XiaofeiCao | Attention to inconsistent tag | 12-28 | 01-27 |  |
