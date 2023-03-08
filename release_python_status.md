@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3908](https://github.com/Azure/sdk-release-request/issues/3908) | herreraj-ms | azure-mgmt-monitor | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag MultiAPI | 03-08 | 03-24 |  |
+| [#3908](https://github.com/Azure/sdk-release-request/issues/3908) | herreraj-ms | azure-mgmt-monitor | Wzb123456789 | duplicated issue  <br> new comment. Attention to inconsistent tag MultiAPI | 03-08 | 03-24 |  |
 | [#3905](https://github.com/Azure/sdk-release-request/issues/3905) | rsharm7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3900](https://github.com/Azure/sdk-release-request/issues/3900) | juniwang | azure-mgmt-webpubsub | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3895](https://github.com/Azure/sdk-release-request/issues/3895) | juniwang | azure-mgmt-signalr | Wzb123456789 |  | 03-07 | 03-24 |  |
