@@ -19,7 +19,7 @@
 | [#3827](https://github.com/Azure/sdk-release-request/issues/3827) | sjiherzig |  | qiaozha |  | 02-17 |  | 0 |
 | [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | MaryGao | new issue. new comment. | 02-16 | 03-24 |  |
 | [#3816](https://github.com/Azure/sdk-release-request/issues/3816) | giakas |  | MaryGao |  | 02-16 | 03-24 |  |
-| [#3807](https://github.com/Azure/sdk-release-request/issues/3807) | sebastianrex |  | MaryGao | new comment. | 02-15 | 03-24 |  |
+| [#3807](https://github.com/Azure/sdk-release-request/issues/3807) | sebastianrex |  | MaryGao |  | 02-15 | 03-24 |  |
 | [#3789](https://github.com/Azure/sdk-release-request/issues/3789) | brpanask |  | MaryGao | Attention to inconsistent tag | 02-14 | 03-24 |  |
 | [#3779](https://github.com/Azure/sdk-release-request/issues/3779) | cegraybl |  | MaryGao | new comment. Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3772](https://github.com/Azure/sdk-release-request/issues/3772) | FumingZhang |  | MaryGao |  | 02-13 | 03-24 |  |
