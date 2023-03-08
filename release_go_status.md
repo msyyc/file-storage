@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3904](https://github.com/Azure/sdk-release-request/issues/3904) | rsharm7 |  | Alancere | new issue. | 03-07 | 03-24 |  |
 | [#3898](https://github.com/Azure/sdk-release-request/issues/3898) | juniwang |  | Alancere | new issue. | 03-07 | 03-24 |  |
 | [#3896](https://github.com/Azure/sdk-release-request/issues/3896) | juniwang |  | Alancere | new issue. | 03-07 | 03-24 |  |
 | [#3886](https://github.com/Azure/sdk-release-request/issues/3886) | audunn |  | Alancere | new issue. | 03-06 | 03-24 |  |
@@ -22,4 +23,4 @@
 | [#3774](https://github.com/Azure/sdk-release-request/issues/3774) | FumingZhang |  | Alancere | new issue. | 02-13 | 03-24 |  |
 | [#3770](https://github.com/Azure/sdk-release-request/issues/3770) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3766](https://github.com/Azure/sdk-release-request/issues/3766) | jamlai |  | Alancere |  | 02-10 | 03-24 |  |
-| [#3729](https://github.com/Azure/sdk-release-request/issues/3729) | yifanz0 |  | Alancere | close to release date.  | 02-01 | 03-07 | 0 |
+| [#3729](https://github.com/Azure/sdk-release-request/issues/3729) | yifanz0 |  | Alancere | close to release date.  | 02-01 | 03-07 | -1 |
