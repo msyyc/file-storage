@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3908](https://github.com/Azure/sdk-release-request/issues/3908) | herreraj-ms | azure-mgmt-monitor | Wzb123456789 | duplicated issue  <br> new comment. Attention to inconsistent tag MultiAPI | 03-08 | 03-24 |  |
+| [#3908](https://github.com/Azure/sdk-release-request/issues/3908) | herreraj-ms | azure-mgmt-monitor | Wzb123456789 | new comment. MultiAPI | 03-08 | 03-24 |  |
 | [#3905](https://github.com/Azure/sdk-release-request/issues/3905) | rsharm7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3900](https://github.com/Azure/sdk-release-request/issues/3900) | juniwang | azure-mgmt-webpubsub | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3895](https://github.com/Azure/sdk-release-request/issues/3895) | juniwang | azure-mgmt-signalr | Wzb123456789 |  | 03-07 | 03-24 |  |
@@ -18,5 +18,4 @@
 | [#3837](https://github.com/Azure/sdk-release-request/issues/3837) | sjiherzig | azure-mgmt-digitaltwins | Wzb123456789 |  | 02-23 | 03-24 |  |
 | [#3822](https://github.com/Azure/sdk-release-request/issues/3822) | saurgupta-msft | azure-mgmt-newrelic | Wzb123456789 |  | 02-16 | 03-24 |  |
 | [#3817](https://github.com/Azure/sdk-release-request/issues/3817) | giakas | azure-mgmt-media | Wzb123456789 |  | 02-16 | 03-24 |  |
-| [#3764](https://github.com/Azure/sdk-release-request/issues/3764) | jamlai | azure-mgmt-monitor | Wzb123456789 | duplicated issue  <br> | 02-10 | 03-24 |  |
 | [#3703](https://github.com/Azure/sdk-release-request/issues/3703) | nathanfalke | azure-mgmt-defendereasm | Wzb123456789 |  | 01-25 | 03-15 |  |
