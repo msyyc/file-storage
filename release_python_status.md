@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3905](https://github.com/Azure/sdk-release-request/issues/3905) | rsharm7 | azure-mgmt-cosmosdb | Wzb123456789 | new issue. | 03-07 | 03-24 |  |
+| [#3905](https://github.com/Azure/sdk-release-request/issues/3905) | rsharm7 | azure-mgmt-cosmosdb | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3900](https://github.com/Azure/sdk-release-request/issues/3900) | juniwang | azure-mgmt-webpubsub | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3895](https://github.com/Azure/sdk-release-request/issues/3895) | juniwang | azure-mgmt-signalr | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 03-24 |  |
