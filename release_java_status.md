@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3912](https://github.com/Azure/sdk-release-request/issues/3912) | profDisarray |  | weidongxu-microsoft | new issue. | 03-09 | 03-24 |  |
 | [#3903](https://github.com/Azure/sdk-release-request/issues/3903) | rsharm7 |  | haolingdong-msft | new issue. | 03-07 | 03-24 |  |
 | [#3899](https://github.com/Azure/sdk-release-request/issues/3899) | juniwang |  | haolingdong-msft | new issue. | 03-07 | 03-24 |  |
 | [#3897](https://github.com/Azure/sdk-release-request/issues/3897) | juniwang |  | haolingdong-msft | new issue. | 03-07 | 03-24 |  |
