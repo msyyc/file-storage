@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3906](https://github.com/Azure/sdk-release-request/issues/3906) | rsharm7 |  | MaryGao | new issue. | 03-07 | 03-24 |  |
-| [#3901](https://github.com/Azure/sdk-release-request/issues/3901) | juniwang |  | MaryGao | new issue. | 03-07 | 03-24 |  |
+| [#3901](https://github.com/Azure/sdk-release-request/issues/3901) | juniwang |  | MaryGao |  | 03-07 | 03-24 |  |
 | [#3894](https://github.com/Azure/sdk-release-request/issues/3894) | juniwang |  | MaryGao | new comment. | 03-07 | 03-24 |  |
 | [#3885](https://github.com/Azure/sdk-release-request/issues/3885) | audunn |  | MaryGao |  | 03-06 | 03-24 |  |
 | [#3880](https://github.com/Azure/sdk-release-request/issues/3880) | chchen3 |  | MaryGao |  | 03-03 | 03-24 |  |
