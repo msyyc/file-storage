@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3920](https://github.com/Azure/sdk-release-request/issues/3920) | roni93 | azure-mgmt-security | Wzb123456789 | Attention to inconsistent tag MultiAPI | 03-10 | 03-24 |  |
 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 | new issue. MultiAPI | 03-10 | 03-24 |  |
 | [#3911](https://github.com/Azure/sdk-release-request/issues/3911) | profDisarray | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 03-09 | 03-24 |  |
 | [#3908](https://github.com/Azure/sdk-release-request/issues/3908) | herreraj-ms | azure-mgmt-monitor | Wzb123456789 |  | 03-08 | 03-24 |  |
