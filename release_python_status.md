@@ -7,7 +7,7 @@
 | [#3895](https://github.com/Azure/sdk-release-request/issues/3895) | juniwang | azure-mgmt-signalr | Wzb123456789 |  | 03-07 | 03-24 |  |
 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 03-24 |  |
 | [#3883](https://github.com/Azure/sdk-release-request/issues/3883) | chchen3 | azure-mgmt-reservations | Wzb123456789 |  | 03-03 | 03-24 |  |
-| [#3879](https://github.com/Azure/sdk-release-request/issues/3879) | stuti-1807 | azure-mgmt-orbital | Wzb123456789 | new comment. | 03-03 | 03-24 |  |
+| [#3879](https://github.com/Azure/sdk-release-request/issues/3879) | stuti-1807 | azure-mgmt-orbital | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3874](https://github.com/Azure/sdk-release-request/issues/3874) | revanthballa1188 | azure-mgmt-redisenterprise | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3870](https://github.com/Azure/sdk-release-request/issues/3870) | alec-baird | azure-mgmt-desktopvirtualization | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3865](https://github.com/Azure/sdk-release-request/issues/3865) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 |  | 03-03 | 03-24 |  |
