@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3914](https://github.com/Azure/sdk-release-request/issues/3914) | naveedaz |  | MaryGao | new issue. | 03-10 | 03-24 |  |
 | [#3909](https://github.com/Azure/sdk-release-request/issues/3909) | profDisarray |  | MaryGao | new issue. | 03-09 | 03-24 |  |
-| [#3906](https://github.com/Azure/sdk-release-request/issues/3906) | rsharm7 |  | MaryGao | new issue. | 03-07 | 03-24 |  |
+| [#3906](https://github.com/Azure/sdk-release-request/issues/3906) | rsharm7 |  | MaryGao |  | 03-07 | 03-24 |  |
 | [#3901](https://github.com/Azure/sdk-release-request/issues/3901) | juniwang |  | MaryGao | new comment. | 03-07 | 03-24 |  |
 | [#3894](https://github.com/Azure/sdk-release-request/issues/3894) | juniwang |  | MaryGao | new comment. | 03-07 | 03-24 |  |
 | [#3885](https://github.com/Azure/sdk-release-request/issues/3885) | audunn |  | MaryGao |  | 03-06 | 03-24 |  |
