@@ -1,14 +1,15 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3921](https://github.com/Azure/sdk-release-request/issues/3921) | Vibhuti-Sharma-Microsoft |  | MaryGao | new issue. | 03-10 | 04-28 |  |
 | [#3918](https://github.com/Azure/sdk-release-request/issues/3918) | roni93 |  | MaryGao |  | 03-10 | 03-24 |  |
 | [#3914](https://github.com/Azure/sdk-release-request/issues/3914) | naveedaz |  | MaryGao |  | 03-10 | 03-24 |  |
-| [#3909](https://github.com/Azure/sdk-release-request/issues/3909) | profDisarray |  | MaryGao |  | 03-09 | 03-24 |  |
+| [#3909](https://github.com/Azure/sdk-release-request/issues/3909) | profDisarray |  | MaryGao | new comment. | 03-09 | 03-24 |  |
 | [#3906](https://github.com/Azure/sdk-release-request/issues/3906) | rsharm7 |  | MaryGao |  | 03-07 | 03-24 |  |
 | [#3901](https://github.com/Azure/sdk-release-request/issues/3901) | juniwang |  | MaryGao | new comment. | 03-07 | 03-24 |  |
 | [#3894](https://github.com/Azure/sdk-release-request/issues/3894) | juniwang |  | MaryGao | new comment. | 03-07 | 03-24 |  |
 | [#3885](https://github.com/Azure/sdk-release-request/issues/3885) | audunn |  | MaryGao |  | 03-06 | 03-24 |  |
 | [#3880](https://github.com/Azure/sdk-release-request/issues/3880) | chchen3 |  | MaryGao |  | 03-03 | 03-24 |  |
-| [#3876](https://github.com/Azure/sdk-release-request/issues/3876) | stuti-1807 |  | MaryGao |  | 03-03 | 03-24 |  |
+| [#3876](https://github.com/Azure/sdk-release-request/issues/3876) | stuti-1807 |  | MaryGao | new comment. | 03-03 | 03-24 |  |
 | [#3875](https://github.com/Azure/sdk-release-request/issues/3875) | revanthballa1188 |  | MaryGao |  | 03-03 | 03-24 |  |
 | [#3871](https://github.com/Azure/sdk-release-request/issues/3871) | alec-baird |  | MaryGao | Attention to inconsistent tag | 03-03 | 03-24 |  |
 | [#3866](https://github.com/Azure/sdk-release-request/issues/3866) | amatukmolina |  | MaryGao |  | 03-03 | 03-24 |  |
