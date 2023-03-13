@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3925](https://github.com/Azure/sdk-release-request/issues/3925) | evelyn-ys | azure-mgmt-keyvault | Wzb123456789 | Attention to inconsistent tag MultiAPI | 03-13 | 04-28 |  |
+| [#3925](https://github.com/Azure/sdk-release-request/issues/3925) | evelyn-ys | azure-mgmt-keyvault | Wzb123456789 | MultiAPI | 03-13 | 04-28 |  |
 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 |  | 03-10 | 04-28 |  |
 | [#3920](https://github.com/Azure/sdk-release-request/issues/3920) | roni93 | azure-mgmt-security | Wzb123456789 | new issue. MultiAPI | 03-10 | 03-24 |  |
 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 | new issue. MultiAPI | 03-10 | 03-24 |  |
