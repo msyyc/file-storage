@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3921](https://github.com/Azure/sdk-release-request/issues/3921) | Vibhuti-Sharma-Microsoft |  | MaryGao | new issue. | 03-10 | 04-28 |  |
-| [#3918](https://github.com/Azure/sdk-release-request/issues/3918) | roni93 |  | MaryGao |  | 03-10 | 03-24 |  |
+| [#3918](https://github.com/Azure/sdk-release-request/issues/3918) | roni93 |  | MaryGao | new comment. | 03-10 | 03-24 |  |
 | [#3914](https://github.com/Azure/sdk-release-request/issues/3914) | naveedaz |  | MaryGao |  | 03-10 | 03-24 |  |
 | [#3909](https://github.com/Azure/sdk-release-request/issues/3909) | profDisarray |  | MaryGao | new comment. | 03-09 | 03-24 |  |
 | [#3906](https://github.com/Azure/sdk-release-request/issues/3906) | rsharm7 |  | MaryGao |  | 03-07 | 03-24 |  |
@@ -12,7 +12,7 @@
 | [#3876](https://github.com/Azure/sdk-release-request/issues/3876) | stuti-1807 |  | MaryGao | new comment. | 03-03 | 03-24 |  |
 | [#3875](https://github.com/Azure/sdk-release-request/issues/3875) | revanthballa1188 |  | MaryGao |  | 03-03 | 03-24 |  |
 | [#3871](https://github.com/Azure/sdk-release-request/issues/3871) | alec-baird |  | MaryGao | Attention to inconsistent tag | 03-03 | 03-24 |  |
-| [#3866](https://github.com/Azure/sdk-release-request/issues/3866) | amatukmolina |  | MaryGao |  | 03-03 | 03-24 |  |
+| [#3866](https://github.com/Azure/sdk-release-request/issues/3866) | amatukmolina |  | MaryGao | new comment. | 03-03 | 03-24 |  |
 | [#3861](https://github.com/Azure/sdk-release-request/issues/3861) | revanthballa1188 |  | MaryGao | new comment. Attention to inconsistent tag | 03-02 | 03-24 |  |
 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | new comment. | 03-02 | 03-24 |  |
 | [#3853](https://github.com/Azure/sdk-release-request/issues/3853) | htippanaboya |  | MaryGao |  | 03-01 | 03-24 |  |
