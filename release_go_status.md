@@ -20,9 +20,8 @@
 | [#3838](https://github.com/Azure/sdk-release-request/issues/3838) | sjiherzig |  | Alancere |  | 02-23 | 03-24 |  |
 | [#3824](https://github.com/Azure/sdk-release-request/issues/3824) | sjiherzig |  | Alancere |  | 02-17 | 03-24 |  |
 | [#3819](https://github.com/Azure/sdk-release-request/issues/3819) | saurgupta-msft |  | Alancere | new comment. | 02-16 | 03-24 |  |
-| [#3815](https://github.com/Azure/sdk-release-request/issues/3815) | giakas |  | Alancere | new comment. | 02-16 | 03-24 |  |
 | [#3806](https://github.com/Azure/sdk-release-request/issues/3806) | sebastianrex |  | Alancere |  | 02-15 | 03-24 |  |
-| [#3787](https://github.com/Azure/sdk-release-request/issues/3787) | brpanask |  | Alancere | new comment. Attention to inconsistent tag | 02-14 | 03-24 |  |
+| [#3787](https://github.com/Azure/sdk-release-request/issues/3787) | brpanask |  | Alancere | Attention to inconsistent tag | 02-14 | 03-24 |  |
 | [#3780](https://github.com/Azure/sdk-release-request/issues/3780) | cegraybl |  | Alancere | new comment. Attention to inconsistent tag | 02-13 | 03-24 |  |
 | [#3774](https://github.com/Azure/sdk-release-request/issues/3774) | FumingZhang |  | Alancere | new issue. | 02-13 | 03-24 |  |
 | [#3770](https://github.com/Azure/sdk-release-request/issues/3770) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-13 | 03-24 |  |
