@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | [#3924](https://github.com/Azure/sdk-release-request/issues/3924) | Vibhuti-Sharma-Microsoft |  | haolingdong-msft |  | 03-10 | 04-28 |  |
 | [#3919](https://github.com/Azure/sdk-release-request/issues/3919) | roni93 |  | XiaofeiCao |  | 03-10 | 03-24 |  |
-| [#3917](https://github.com/Azure/sdk-release-request/issues/3917) | naveedaz |  | weidongxu-microsoft | new issue. | 03-10 | 03-24 |  |
+| [#3917](https://github.com/Azure/sdk-release-request/issues/3917) | naveedaz |  | weidongxu-microsoft |  | 03-10 | 03-24 |  |
 | [#3912](https://github.com/Azure/sdk-release-request/issues/3912) | profDisarray |  | weidongxu-microsoft | new issue. | 03-09 | 03-24 |  |
 | [#3903](https://github.com/Azure/sdk-release-request/issues/3903) | rsharm7 |  | haolingdong-msft | new issue. | 03-07 | 03-24 |  |
 | [#3899](https://github.com/Azure/sdk-release-request/issues/3899) | juniwang |  | haolingdong-msft | new issue. | 03-07 | 03-24 |  |
