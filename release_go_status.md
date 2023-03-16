@@ -13,7 +13,7 @@
 | [#3886](https://github.com/Azure/sdk-release-request/issues/3886) | audunn |  | Alancere | new comment. | 03-06 | 03-24 |  |
 | [#3881](https://github.com/Azure/sdk-release-request/issues/3881) | chchen3 |  | Alancere |  | 03-03 | 03-24 |  |
 | [#3878](https://github.com/Azure/sdk-release-request/issues/3878) | stuti-1807 |  | Alancere | new comment. | 03-03 | 03-24 |  |
-| [#3873](https://github.com/Azure/sdk-release-request/issues/3873) | revanthballa1188 |  | Alancere | new comment. | 03-03 | 03-24 |  |
+| [#3873](https://github.com/Azure/sdk-release-request/issues/3873) | revanthballa1188 |  | Alancere |  | 03-03 | 03-24 |  |
 | [#3868](https://github.com/Azure/sdk-release-request/issues/3868) | alec-baird |  | Alancere | new comment. Attention to inconsistent tag | 03-03 | 03-24 |  |
 | [#3864](https://github.com/Azure/sdk-release-request/issues/3864) | amatukmolina |  | Alancere |  | 03-03 | 03-24 |  |
 | [#3856](https://github.com/Azure/sdk-release-request/issues/3856) | gargankit-microsoft |  | Alancere | new comment. | 03-02 | 03-24 |  |
