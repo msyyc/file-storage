@@ -7,7 +7,6 @@
 | [#3932](https://github.com/Azure/sdk-release-request/issues/3932) | kagbakpem | azure-mgmt-communication | Wzb123456789 | Attention to inconsistent tag | 03-15 | 04-28 |  |
 | [#3928](https://github.com/Azure/sdk-release-request/issues/3928) | zdelacerda-microsoft | azure-mgmt-imagebuilder | Wzb123456789 |  | 03-15 | 04-28 |  |
 | [#3926](https://github.com/Azure/sdk-release-request/issues/3926) | AllyW | azure-mgmt-applicationinsights | Wzb123456789 |  | 03-13 | 04-28 |  |
-| [#3925](https://github.com/Azure/sdk-release-request/issues/3925) | evelyn-ys | azure-mgmt-keyvault | Wzb123456789 |  | 03-13 | 04-28 |  |
 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 |  | 03-10 | 04-28 |  |
 | [#3920](https://github.com/Azure/sdk-release-request/issues/3920) | roni93 | azure-mgmt-security | Wzb123456789 |  | 03-10 | 03-24 |  |
 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 |  | 03-10 | 03-24 |  |
