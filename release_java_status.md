@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3947](https://github.com/Azure/sdk-release-request/issues/3947) | Descatles |  | XiaofeiCao | new issue. | 03-17 | 04-28 |  |
+| [#3947](https://github.com/Azure/sdk-release-request/issues/3947) | Descatles |  | XiaofeiCao |  | 03-17 | 04-28 |  |
 | [#3936](https://github.com/Azure/sdk-release-request/issues/3936) | revanthballa1188 |  | weidongxu-microsoft | new issue. | 03-16 | 04-28 |  |
 | [#3934](https://github.com/Azure/sdk-release-request/issues/3934) | kagbakpem |  | XiaofeiCao | Attention to inconsistent tag | 03-15 | 04-28 |  |
 | [#3931](https://github.com/Azure/sdk-release-request/issues/3931) | zdelacerda-microsoft |  | weidongxu-microsoft | new issue. | 03-15 | 04-28 |  |
