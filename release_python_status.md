@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3943](https://github.com/Azure/sdk-release-request/issues/3943) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> new issue. | 03-16 | 04-28 |  |
-| [#3940](https://github.com/Azure/sdk-release-request/issues/3940) | Anand0046 | azure-mgmt-apimanagement | Wzb123456789 | new issue. new comment. | 03-16 | 04-28 |  |
+| [#3943](https://github.com/Azure/sdk-release-request/issues/3943) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 03-16 | 04-28 |  |
+| [#3940](https://github.com/Azure/sdk-release-request/issues/3940) | Anand0046 | azure-mgmt-apimanagement | Wzb123456789 |  | 03-16 | 04-28 |  |
 | [#3939](https://github.com/Azure/sdk-release-request/issues/3939) | revanthballa1188 | azure-mgmt-redisenterprise | Wzb123456789 |  | 03-16 | 04-28 |  |
 | [#3932](https://github.com/Azure/sdk-release-request/issues/3932) | kagbakpem | azure-mgmt-communication | Wzb123456789 | Attention to inconsistent tag | 03-15 | 04-28 |  |
 | [#3928](https://github.com/Azure/sdk-release-request/issues/3928) | zdelacerda-microsoft | azure-mgmt-imagebuilder | Wzb123456789 |  | 03-15 | 04-28 |  |
@@ -26,4 +26,4 @@
 | [#3843](https://github.com/Azure/sdk-release-request/issues/3843) | Juliehzl | azure-mgmt-appcontainers | Wzb123456789 |  | 02-28 | 03-24 |  |
 | [#3839](https://github.com/Azure/sdk-release-request/issues/3839) | Frey-Wang | azure-mgmt-datafactory | Wzb123456789 |  | 02-24 | 03-24 |  |
 | [#3837](https://github.com/Azure/sdk-release-request/issues/3837) | sjiherzig | azure-mgmt-digitaltwins | Wzb123456789 |  | 02-23 | 03-24 |  |
-| [#3822](https://github.com/Azure/sdk-release-request/issues/3822) | saurgupta-msft | azure-mgmt-newrelic | Wzb123456789 |  | 02-16 | 03-24 |  |
+| [#3822](https://github.com/Azure/sdk-release-request/issues/3822) | saurgupta-msft | azure-mgmt-newrelic | Wzb123456789 | new comment. | 02-16 | 03-24 |  |
