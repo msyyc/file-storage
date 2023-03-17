@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3947](https://github.com/Azure/sdk-release-request/issues/3947) | Descatles |  | XiaofeiCao | new issue. | 03-17 | 04-28 |  |
 | [#3936](https://github.com/Azure/sdk-release-request/issues/3936) | revanthballa1188 |  | weidongxu-microsoft | new issue. | 03-16 | 04-28 |  |
 | [#3934](https://github.com/Azure/sdk-release-request/issues/3934) | kagbakpem |  | XiaofeiCao | Attention to inconsistent tag | 03-15 | 04-28 |  |
 | [#3931](https://github.com/Azure/sdk-release-request/issues/3931) | zdelacerda-microsoft |  | weidongxu-microsoft | new issue. | 03-15 | 04-28 |  |
@@ -10,7 +11,6 @@
 | [#3897](https://github.com/Azure/sdk-release-request/issues/3897) | juniwang |  | haolingdong-msft | new issue. | 03-07 | 03-24 |  |
 | [#3882](https://github.com/Azure/sdk-release-request/issues/3882) | chchen3 |  | haolingdong-msft | new issue. | 03-03 | 03-24 |  |
 | [#3877](https://github.com/Azure/sdk-release-request/issues/3877) | stuti-1807 |  | haolingdong-msft |  | 03-03 | 03-24 |  |
-| [#3869](https://github.com/Azure/sdk-release-request/issues/3869) | alec-baird |  | XiaofeiCao | new comment. Attention to inconsistent tag | 03-03 | 03-24 |  |
 | [#3867](https://github.com/Azure/sdk-release-request/issues/3867) | amatukmolina |  | haolingdong-msft | new comment. | 03-03 | 03-24 |  |
 | [#3859](https://github.com/Azure/sdk-release-request/issues/3859) | gargankit-microsoft |  | weidongxu-microsoft |  | 03-02 | 03-24 |  |
 | [#3854](https://github.com/Azure/sdk-release-request/issues/3854) | htippanaboya |  | weidongxu-microsoft |  | 03-01 | 03-24 |  |
