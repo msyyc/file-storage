@@ -1,4 +1,11 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-appcontainers,Juliehzl,Wzb123456789,2023-02-28,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3843,2.0.0,True
+azure-mgmt-desktopvirtualization,alec-baird,Wzb123456789,2023-03-03,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3870,1.0.0,True
+azure-mgmt-orbital,stuti-1807,Wzb123456789,2023-03-03,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3879,2.0.0,True
+azure-mgmt-reservations,chchen3,Wzb123456789,2023-03-03,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3883,2.3.0,True
+azure-mgmt-signalr,juniwang,Wzb123456789,2023-03-07,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3895,1.2.0,True
+azure-mgmt-cosmosdb,rsharm7,Wzb123456789,2023-03-07,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3905,9.1.0b1,
+azure-mgmt-cosmosdb,ashwinisingh01,Wzb123456789,2023-03-16,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3943,9.1.0b1,
 azure-mgmt-digitaltwins,sjiherzig,Wzb123456789,2023-02-23,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3837,6.4.0,True
 azure-mgmt-datafactory,Frey-Wang,Wzb123456789,2023-02-24,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3839,3.1.0,True
 azure-mgmt-hybridcontainerservice,HariPrasadV,Wzb123456789,2023-03-01,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3848,1.0.0b1,
