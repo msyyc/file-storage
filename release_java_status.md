@@ -13,7 +13,7 @@
 | [#3877](https://github.com/Azure/sdk-release-request/issues/3877) | stuti-1807 |  | haolingdong-msft |  | 03-03 | 03-24 |  |
 | [#3869](https://github.com/Azure/sdk-release-request/issues/3869) | alec-baird |  | XiaofeiCao | Attention to inconsistent tag | 03-03 | 03-24 |  |
 | [#3867](https://github.com/Azure/sdk-release-request/issues/3867) | amatukmolina |  | haolingdong-msft | new comment. | 03-03 | 03-24 |  |
-| [#3859](https://github.com/Azure/sdk-release-request/issues/3859) | gargankit-microsoft |  | weidongxu-microsoft | new comment. | 03-02 | 03-24 |  |
+| [#3859](https://github.com/Azure/sdk-release-request/issues/3859) | gargankit-microsoft |  | weidongxu-microsoft |  | 03-02 | 03-24 |  |
 | [#3854](https://github.com/Azure/sdk-release-request/issues/3854) | htippanaboya |  | weidongxu-microsoft |  | 03-01 | 03-24 |  |
 | [#3836](https://github.com/Azure/sdk-release-request/issues/3836) | sjiherzig |  | XiaofeiCao | new comment. | 02-23 | 03-24 |  |
 | [#3820](https://github.com/Azure/sdk-release-request/issues/3820) | saurgupta-msft |  | weidongxu-microsoft |  | 02-16 | 03-24 |  |
