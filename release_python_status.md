@@ -4,7 +4,7 @@
 | [#3943](https://github.com/Azure/sdk-release-request/issues/3943) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 03-16 | 04-28 |  |
 | [#3940](https://github.com/Azure/sdk-release-request/issues/3940) | Anand0046 | azure-mgmt-apimanagement | Wzb123456789 |  | 03-16 | 04-28 |  |
 | [#3939](https://github.com/Azure/sdk-release-request/issues/3939) | revanthballa1188 | azure-mgmt-redisenterprise | Wzb123456789 |  | 03-16 | 04-28 |  |
-| [#3932](https://github.com/Azure/sdk-release-request/issues/3932) | kagbakpem | azure-mgmt-communication | Wzb123456789 | Attention to inconsistent tag | 03-15 | 04-28 |  |
+| [#3932](https://github.com/Azure/sdk-release-request/issues/3932) | kagbakpem | azure-mgmt-communication | Wzb123456789 |  | 03-15 | 04-28 |  |
 | [#3928](https://github.com/Azure/sdk-release-request/issues/3928) | zdelacerda-microsoft | azure-mgmt-imagebuilder | Wzb123456789 |  | 03-15 | 04-28 |  |
 | [#3926](https://github.com/Azure/sdk-release-request/issues/3926) | AllyW | azure-mgmt-applicationinsights | Wzb123456789 |  | 03-13 | 04-28 |  |
 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 |  | 03-10 | 04-28 |  |
@@ -19,7 +19,7 @@
 | [#3883](https://github.com/Azure/sdk-release-request/issues/3883) | chchen3 | azure-mgmt-reservations | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3879](https://github.com/Azure/sdk-release-request/issues/3879) | stuti-1807 | azure-mgmt-orbital | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3870](https://github.com/Azure/sdk-release-request/issues/3870) | alec-baird | azure-mgmt-desktopvirtualization | Wzb123456789 |  | 03-03 | 03-24 |  |
-| [#3865](https://github.com/Azure/sdk-release-request/issues/3865) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 | new comment. | 03-03 | 03-24 |  |
+| [#3865](https://github.com/Azure/sdk-release-request/issues/3865) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 |  | 03-03 | 03-24 |  |
 | [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 |  | 03-02 | 03-24 |  |
 | [#3855](https://github.com/Azure/sdk-release-request/issues/3855) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 03-01 | 03-24 |  |
 | [#3848](https://github.com/Azure/sdk-release-request/issues/3848) | HariPrasadV | azure-mgmt-hybridcontainerservice | Wzb123456789 |  | 03-01 | 03-24 |  |
