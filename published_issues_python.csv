@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-digitaltwins,sjiherzig,Wzb123456789,2023-02-23,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3837,6.4.0,True
+azure-mgmt-datafactory,Frey-Wang,Wzb123456789,2023-02-24,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3839,3.1.0,True
+azure-mgmt-hybridcontainerservice,HariPrasadV,Wzb123456789,2023-03-01,2023-03-20,https://github.com/Azure/sdk-release-request/issues/3848,1.0.0b1,
 azure-mgmt-keyvault,evelyn-ys,Wzb123456789,2023-03-13,2023-03-17,https://github.com/Azure/sdk-release-request/issues/3925,10.2.0,True
 azure-mgmt-defendereasm,nathanfalke,Wzb123456789,2023-01-25,2023-03-15,https://github.com/Azure/sdk-release-request/issues/3703,1.0.0b1,
 azure-mgmt-nginx,limingu,Wzb123456789,2023-03-14,2023-03-15,https://github.com/Azure/sdk-release-request/issues/3927,2.1.0,True
