@@ -14,6 +14,6 @@
 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 |  | 03-10 | 04-28 |  |
 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 | close to release date.  | 03-10 | 03-24 | 1 |
 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 | close to release date.  | 03-06 | 03-24 | 1 |
-| [#3865](https://github.com/Azure/sdk-release-request/issues/3865) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 | close to release date.  | 03-03 | 03-24 | 1 |
+| [#3865](https://github.com/Azure/sdk-release-request/issues/3865) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 | new comment. close to release date.  | 03-03 | 03-24 | 1 |
 | [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | close to release date.  Hold on | 03-02 | 03-24 | 1 |
 | [#3822](https://github.com/Azure/sdk-release-request/issues/3822) | saurgupta-msft | azure-mgmt-newrelic | Wzb123456789 | close to release date.  | 02-16 | 03-24 | 1 |
