@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3965](https://github.com/Azure/sdk-release-request/issues/3965) | FumingZhang |  | Alancere |  | 03-22 |  | 0 |
-| [#3962](https://github.com/Azure/sdk-release-request/issues/3962) | FumingZhang |  | Alancere |  | 03-22 |  | 0 |
+| [#3965](https://github.com/Azure/sdk-release-request/issues/3965) | FumingZhang |  | Alancere | new issue. | 03-22 | 04-28 |  |
+| [#3962](https://github.com/Azure/sdk-release-request/issues/3962) | FumingZhang |  | Alancere | new issue. | 03-22 | 04-28 |  |
 | [#3955](https://github.com/Azure/sdk-release-request/issues/3955) | aditimalladi |  | Alancere | new issue. | 03-21 | 04-28 |  |
 | [#3951](https://github.com/Azure/sdk-release-request/issues/3951) | utkarshjain1508 |  | Alancere | new issue. | 03-21 | 04-28 |  |
 | [#3945](https://github.com/Azure/sdk-release-request/issues/3945) | Descatles |  | Alancere | new issue. | 03-17 | 04-28 |  |
