@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 | new issue. | 03-21 | 04-28 |  |
+| [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 | new version is 0.0.0, please check base branch! | 03-21 | 04-28 |  |
 | [#3953](https://github.com/Azure/sdk-release-request/issues/3953) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 03-21 | 04-28 |  |
 | [#3948](https://github.com/Azure/sdk-release-request/issues/3948) | Descatles | azure-mgmt-appplatform | Wzb123456789 |  | 03-17 | 04-28 |  |
 | [#3943](https://github.com/Azure/sdk-release-request/issues/3943) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 | new comment. | 03-16 | 04-28 |  |
