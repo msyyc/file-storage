@@ -1,5 +1,6 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| 'Release for Container Service - 2023-02-01'  | [#3960](https://github.com/Azure/sdk-release-request/issues/3960)  | [#3962](https://github.com/Azure/sdk-release-request/issues/3962)  | [#3961](https://github.com/Azure/sdk-release-request/issues/3961)  | [#3963](https://github.com/Azure/sdk-release-request/issues/3963)  | 03-22 |  |  |
 | 'Release for Network 2022-09-01 with new package structure'  | [#3959](https://github.com/Azure/sdk-release-request/issues/3959)  |  |  |  | 03-22 | 04-28 |  |
 | 'Release for resource connector - 2022-10-27'  | [#3957](https://github.com/Azure/sdk-release-request/issues/3957)  | [#3955](https://github.com/Azure/sdk-release-request/issues/3955)  | [#3956](https://github.com/Azure/sdk-release-request/issues/3956)  | [#3958](https://github.com/Azure/sdk-release-request/issues/3958)  | 03-21 | 04-28 |  |
 | 'Elastic SDK Release'  | [#3953](https://github.com/Azure/sdk-release-request/issues/3953)  | [#3951](https://github.com/Azure/sdk-release-request/issues/3951)  | [#3952](https://github.com/Azure/sdk-release-request/issues/3952)  | [#3954](https://github.com/Azure/sdk-release-request/issues/3954)  | 03-21 | 04-28 |  |
@@ -22,6 +23,7 @@
 | 'Release for Azure Digital Twins - 2023-01-31'  |  | [#3838](https://github.com/Azure/sdk-release-request/issues/3838)  | [#3836](https://github.com/Azure/sdk-release-request/issues/3836)  | [#3835](https://github.com/Azure/sdk-release-request/issues/3835)  | 02-23 | 03-24 | Hold on by Java/ |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  | [#3766](https://github.com/Azure/sdk-release-request/issues/3766)  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  | [#3767](https://github.com/Azure/sdk-release-request/issues/3767)  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
+| 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 |  |  |
 | 'Release for Recovery Services 2023-02-01'  |  | [#3910](https://github.com/Azure/sdk-release-request/issues/3910)  |  | [#3909](https://github.com/Azure/sdk-release-request/issues/3909)  | 03-09 | 03-24 |  |
 | 'Microsoft.Insights to add version data collection 2022-06-01'  |  | [#3907](https://github.com/Azure/sdk-release-request/issues/3907)  |  |  | 03-08 | 03-24 |  |
 | 'Release for Azure Cosmos DB 2022-11-15-preview'  |  | [#3904](https://github.com/Azure/sdk-release-request/issues/3904)  |  | [#3906](https://github.com/Azure/sdk-release-request/issues/3906)  | 03-07 | 03-24 |  |

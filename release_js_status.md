@@ -1,5 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3964](https://github.com/Azure/sdk-release-request/issues/3964) | FumingZhang |  | MaryGao |  | 03-22 |  | 0 |
+| [#3963](https://github.com/Azure/sdk-release-request/issues/3963) | FumingZhang |  | MaryGao |  | 03-22 |  | 0 |
 | [#3958](https://github.com/Azure/sdk-release-request/issues/3958) | aditimalladi |  | MaryGao | new issue. | 03-21 | 04-28 |  |
 | [#3954](https://github.com/Azure/sdk-release-request/issues/3954) | utkarshjain1508 |  | MaryGao | new issue. | 03-21 | 04-28 |  |
 | [#3946](https://github.com/Azure/sdk-release-request/issues/3946) | Descatles |  | MaryGao | new issue. | 03-17 | 04-28 |  |
@@ -18,7 +20,7 @@
 | [#3885](https://github.com/Azure/sdk-release-request/issues/3885) | audunn |  | MaryGao | close to release date.  | 03-06 | 03-24 | 1 |
 | [#3880](https://github.com/Azure/sdk-release-request/issues/3880) | chchen3 |  | MaryGao | close to release date.  | 03-03 | 03-24 | 1 |
 | [#3876](https://github.com/Azure/sdk-release-request/issues/3876) | stuti-1807 |  | MaryGao | new comment. close to release date.  | 03-03 | 03-24 | 1 |
-| [#3871](https://github.com/Azure/sdk-release-request/issues/3871) | alec-baird |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 03-03 | 03-24 | 1 |
+| [#3871](https://github.com/Azure/sdk-release-request/issues/3871) | alec-baird |  | MaryGao | close to release date.  Attention to inconsistent tag | 03-03 | 03-24 | 1 |
 | [#3866](https://github.com/Azure/sdk-release-request/issues/3866) | amatukmolina |  | MaryGao | close to release date.  | 03-03 | 03-24 | 1 |
 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | close to release date.  | 03-02 | 03-24 | 1 |
 | [#3853](https://github.com/Azure/sdk-release-request/issues/3853) | htippanaboya |  | MaryGao | close to release date.  | 03-01 | 03-24 | 1 |
