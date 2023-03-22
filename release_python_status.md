@@ -1,7 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#3960](https://github.com/Azure/sdk-release-request/issues/3960) | FumingZhang |  | Wzb123456789 | new issue. new comment. | 03-22 | 04-28 |  |
-| [#3959](https://github.com/Azure/sdk-release-request/issues/3959) | msyyc | azure-mgmt-network | Wzb123456789 | new issue. | 03-22 | 04-28 |  |
+| [#3960](https://github.com/Azure/sdk-release-request/issues/3960) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new issue. new comment. | 03-22 | 04-28 |  |
+| [#3959](https://github.com/Azure/sdk-release-request/issues/3959) | msyyc | azure-mgmt-network | Wzb123456789 | new version is 0.0.0, please check base branch! | 03-22 | 04-28 |  |
 | [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 |  | 03-21 | 04-28 |  |
 | [#3953](https://github.com/Azure/sdk-release-request/issues/3953) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 03-21 | 04-28 |  |
 | [#3948](https://github.com/Azure/sdk-release-request/issues/3948) | Descatles | azure-mgmt-appplatform | Wzb123456789 |  | 03-17 | 04-28 |  |
