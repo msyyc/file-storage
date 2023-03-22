@@ -1,5 +1,6 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| 'Release for Network 2022-09-01 with new package structure'  | [#3959](https://github.com/Azure/sdk-release-request/issues/3959)  |  |  |  | 03-22 | 04-28 |  |
 | 'Release for resource connector - 2022-10-27'  | [#3957](https://github.com/Azure/sdk-release-request/issues/3957)  | [#3955](https://github.com/Azure/sdk-release-request/issues/3955)  | [#3956](https://github.com/Azure/sdk-release-request/issues/3956)  | [#3958](https://github.com/Azure/sdk-release-request/issues/3958)  | 03-21 | 04-28 |  |
 | 'Elastic SDK Release'  | [#3953](https://github.com/Azure/sdk-release-request/issues/3953)  | [#3951](https://github.com/Azure/sdk-release-request/issues/3951)  | [#3952](https://github.com/Azure/sdk-release-request/issues/3952)  | [#3954](https://github.com/Azure/sdk-release-request/issues/3954)  | 03-21 | 04-28 |  |
 | 'Release for Azure Spring Apps - 2023-01-01-preview'  | [#3948](https://github.com/Azure/sdk-release-request/issues/3948)  | [#3945](https://github.com/Azure/sdk-release-request/issues/3945)  | [#3947](https://github.com/Azure/sdk-release-request/issues/3947)  | [#3946](https://github.com/Azure/sdk-release-request/issues/3946)  | 03-17 | 04-28 |  |
