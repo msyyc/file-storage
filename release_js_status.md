@@ -31,7 +31,7 @@
 | [#3842](https://github.com/Azure/sdk-release-request/issues/3842) | Frey-Wang |  | MaryGao | close to release date.  | 02-24 | 03-24 | 0 |
 | [#3835](https://github.com/Azure/sdk-release-request/issues/3835) | sjiherzig |  | MaryGao | close to release date.  | 02-23 | 03-24 | 0 |
 | [#3834](https://github.com/Azure/sdk-release-request/issues/3834) | krivi37 |  | MaryGao | new comment. close to release date.  | 02-22 | 03-24 | 0 |
-| [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | MaryGao | new issue. new comment. close to release date.  | 02-16 | 03-24 | 0 |
+| [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | MaryGao | close to release date.  | 02-16 | 03-24 | 0 |
 | [#3807](https://github.com/Azure/sdk-release-request/issues/3807) | sebastianrex |  | MaryGao | close to release date.  | 02-15 | 03-24 | 0 |
 | [#3789](https://github.com/Azure/sdk-release-request/issues/3789) | brpanask |  | MaryGao | close to release date.  Attention to inconsistent tag | 02-14 | 03-24 | 0 |
 | [#3772](https://github.com/Azure/sdk-release-request/issues/3772) | FumingZhang |  | MaryGao | close to release date.  | 02-13 | 03-24 | 0 |
