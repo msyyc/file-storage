@@ -44,4 +44,3 @@
 | 'Release for Container Service - 2023-01-01'  |  | [#3774](https://github.com/Azure/sdk-release-request/issues/3774)  |  |  | 02-13 | 03-24 |  |
 | 'Release for Container Service - 2023-01-02-preview'  |  | [#3770](https://github.com/Azure/sdk-release-request/issues/3770)  |  |  | 02-13 | 03-24 |  |
 | 'Release for new SQL SDK for JS (@azure/arm-sql)'  |  |  |  | [#3834](https://github.com/Azure/sdk-release-request/issues/3834)  | 02-22 | 03-24 |  |
-| 'Microsoft Graph Premium APIs V1.3 - 1/24/2023'  |  |  |  | [#3702](https://github.com/Azure/sdk-release-request/issues/3702)  | 01-24 | 02-24 |  |

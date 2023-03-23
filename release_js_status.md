@@ -18,4 +18,3 @@
 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | close to release date.  | 03-02 | 03-24 | 0 |
 | [#3834](https://github.com/Azure/sdk-release-request/issues/3834) | krivi37 |  | MaryGao | new comment. close to release date.  | 02-22 | 03-24 | 0 |
 | [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | MaryGao | close to release date.  | 02-16 | 03-24 | 0 |
-| [#3702](https://github.com/Azure/sdk-release-request/issues/3702) | romero-ms |  | MaryGao |  | 01-24 | 02-24 |  |
