@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#34089](https://github.com/Azure/azure-sdk-for-java/issues/34089)|JAVA SDK CODE FOR CDN RULES CREATION|question, Mgmt, customer-reported|XiaofeiCao||2023-03-17|
 |2|[#33870](https://github.com/Azure/azure-sdk-for-java/issues/33870)|[FEATURE REQ] Allow to enable FIPS worker nodes using fluent API in AzureResourceManager#kubernetesClusters|Mgmt, customer-reported, feature-request, needs-team-attention|XiaofeiCao||2023-03-06|
-|3|[#33829](https://github.com/Azure/azure-sdk-for-java/issues/33829)|[BUG] reactor.core.Exceptions$ReactiveException: java.lang.InterruptedException occurs at computeManager.virtualMachines().getByResourceGroup(resGroup, name)|Compute - VM, Service Attention, Mgmt, needs-team-attention|XiaofeiCao|new comment|2023-03-02|
+|3|[#33829](https://github.com/Azure/azure-sdk-for-java/issues/33829)|[BUG] reactor.core.Exceptions$ReactiveException: java.lang.InterruptedException occurs at computeManager.virtualMachines().getByResourceGroup(resGroup, name)|Compute - VM, Service Attention, Mgmt, needs-team-attention|TravisCragg-MSFT, XiaofeiCao|new comment|2023-03-02|
 |4|[#33659](https://github.com/Azure/azure-sdk-for-java/issues/33659)|[FEATURE REQ] mgmt, convenience API for keyvault HSM|Mgmt|XiaofeiCao||2023-02-22|
 |5|[#33621](https://github.com/Azure/azure-sdk-for-java/issues/33621)|mgmt autocent, fix specs mapping and remove deprecated packages|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-02-21|
 |6|[#33552](https://github.com/Azure/azure-sdk-for-java/issues/33552)|[BUG] NPE when calling listAvailablePrivateIPAddresses with limited AD permissions |question, Network, Mgmt, customer-reported|XiaofeiCao||2023-02-16|
