@@ -12,8 +12,8 @@
 | [#3951](https://github.com/Azure/sdk-release-request/issues/3951) | utkarshjain1508 |  | Alancere | new issue. | 03-21 | 04-28 |  |
 | [#3945](https://github.com/Azure/sdk-release-request/issues/3945) | Descatles |  | Alancere | new issue. | 03-17 | 04-28 |  |
 | [#3942](https://github.com/Azure/sdk-release-request/issues/3942) | ashwinisingh01 |  | Alancere | new issue. | 03-16 | 04-28 |  |
-| [#3938](https://github.com/Azure/sdk-release-request/issues/3938) | revanthballa1188 |  | Alancere |  | 03-16 | 04-28 |  |
-| [#3935](https://github.com/Azure/sdk-release-request/issues/3935) | kagbakpem |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 03-15 | 03-24 | 0 |
+| [#3938](https://github.com/Azure/sdk-release-request/issues/3938) | revanthballa1188 |  | Alancere | new comment. | 03-16 | 04-28 |  |
+| [#3935](https://github.com/Azure/sdk-release-request/issues/3935) | kagbakpem |  | Alancere | close to release date.  Attention to inconsistent tag | 03-15 | 03-24 | 0 |
 | [#3929](https://github.com/Azure/sdk-release-request/issues/3929) | zdelacerda-microsoft |  | Alancere | new issue. | 03-15 | 04-28 |  |
 | [#3923](https://github.com/Azure/sdk-release-request/issues/3923) | Vibhuti-Sharma-Microsoft |  | Alancere |  | 03-10 | 04-28 |  |
 | [#3915](https://github.com/Azure/sdk-release-request/issues/3915) | naveedaz |  | Alancere | close to release date.  | 03-10 | 03-24 | 0 |
@@ -37,7 +37,7 @@
 | [#3819](https://github.com/Azure/sdk-release-request/issues/3819) | saurgupta-msft |  | Alancere | close to release date.  | 02-16 | 03-24 | 0 |
 | [#3806](https://github.com/Azure/sdk-release-request/issues/3806) | sebastianrex |  | Alancere | close to release date.  | 02-15 | 03-24 | 0 |
 | [#3787](https://github.com/Azure/sdk-release-request/issues/3787) | brpanask |  | Alancere | close to release date.  Attention to inconsistent tag | 02-14 | 03-24 | 0 |
-| [#3780](https://github.com/Azure/sdk-release-request/issues/3780) | cegraybl |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 02-13 | 03-24 | 0 |
+| [#3780](https://github.com/Azure/sdk-release-request/issues/3780) | cegraybl |  | Alancere | close to release date.  Attention to inconsistent tag | 02-13 | 03-24 | 0 |
 | [#3774](https://github.com/Azure/sdk-release-request/issues/3774) | FumingZhang |  | Alancere | close to release date.  | 02-13 | 03-24 | 0 |
 | [#3770](https://github.com/Azure/sdk-release-request/issues/3770) | FumingZhang |  | Alancere | close to release date.  Attention to inconsistent tag | 02-13 | 03-24 | 0 |
 | [#3766](https://github.com/Azure/sdk-release-request/issues/3766) | jamlai |  | Alancere | close to release date.  | 02-10 | 03-24 | 0 |
