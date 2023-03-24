@@ -23,7 +23,6 @@
 | 'Release for Liftr-Newrelic - 2023-03-01'  | [#3822](https://github.com/Azure/sdk-release-request/issues/3822)  | [#3819](https://github.com/Azure/sdk-release-request/issues/3819)  | [#3820](https://github.com/Azure/sdk-release-request/issues/3820)  | [#3821](https://github.com/Azure/sdk-release-request/issues/3821)  | 02-16 | 03-24 |  |
 | 'Release for Keyvault - 2022-07-01'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
 | 'Network 2022-09-01'  |  | [#3852](https://github.com/Azure/sdk-release-request/issues/3852)  | [#3854](https://github.com/Azure/sdk-release-request/issues/3854)  |  | 03-01 | 03-24 |  |
-| 'Release for Azure Digital Twins - 2023-01-31'  |  | [#3838](https://github.com/Azure/sdk-release-request/issues/3838)  | [#3836](https://github.com/Azure/sdk-release-request/issues/3836)  |  | 02-23 | 03-24 | Hold on by Java/ |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  | [#3766](https://github.com/Azure/sdk-release-request/issues/3766)  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
@@ -39,6 +38,7 @@
 | 'Microsoft Graph Premium APIs - 2022-09-22-preview'  |  | [#3864](https://github.com/Azure/sdk-release-request/issues/3864)  |  |  | 03-03 | 03-24 | Hold on by Go/ |
 | 'Release for Microsoft.HybridContainerService 2022-09-01-preview SDK'  |  | [#3849](https://github.com/Azure/sdk-release-request/issues/3849)  |  |  | 03-01 | 03-24 |  |
 | 'Release for ADF - 2023-02-24'  |  | [#3841](https://github.com/Azure/sdk-release-request/issues/3841)  |  |  | 02-24 | 03-24 |  |
+| 'Release for Azure Digital Twins - 2023-01-31'  |  | [#3838](https://github.com/Azure/sdk-release-request/issues/3838)  |  |  | 02-23 | 03-24 |  |
 | 'Release for Microsoft.DigitalTwins Control Plane SDKs for API Version 2023-01-31'  |  | [#3824](https://github.com/Azure/sdk-release-request/issues/3824)  |  |  | 02-17 | 03-24 |  |
 | 'Release for VoiceServices - 2023-01-31'  |  | [#3806](https://github.com/Azure/sdk-release-request/issues/3806)  |  |  | 02-15 | 03-24 |  |
 | 'Microsoft.StorageCache-2023-03-01-preview'  |  | [#3787](https://github.com/Azure/sdk-release-request/issues/3787)  |  |  | 02-14 | 03-24 |  |
