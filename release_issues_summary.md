@@ -1,5 +1,7 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| 'Release of Elastic Pool Services - 2022-08-01'  | [#3990](https://github.com/Azure/sdk-release-request/issues/3990)  |  |  |  | 03-23 | 04-28 |  |
+| 'Release for Confidential Ledger Preview version 1-26-2023'  | [#3989](https://github.com/Azure/sdk-release-request/issues/3989)  | [#3986](https://github.com/Azure/sdk-release-request/issues/3986)  | [#3988](https://github.com/Azure/sdk-release-request/issues/3988)  | [#3987](https://github.com/Azure/sdk-release-request/issues/3987)  | 03-23 | 04-28 |  |
 | 'Mongo Cluster Public Preview Release -2023-03-01 '  | [#3980](https://github.com/Azure/sdk-release-request/issues/3980)  | [#3981](https://github.com/Azure/sdk-release-request/issues/3981)  |  | [#3978](https://github.com/Azure/sdk-release-request/issues/3978)  | 03-23 | 04-28 |  |
 | 'Release for iothub 2022-11-15-preivew'  | [#3975](https://github.com/Azure/sdk-release-request/issues/3975)  | [#3976](https://github.com/Azure/sdk-release-request/issues/3976)  | [#3974](https://github.com/Azure/sdk-release-request/issues/3974)  | [#3977](https://github.com/Azure/sdk-release-request/issues/3977)  | 03-22 | 04-28 |  |
 | 'GA release for Azure App Configuration Geo-Replication'  | [#3970](https://github.com/Azure/sdk-release-request/issues/3970)  | [#3973](https://github.com/Azure/sdk-release-request/issues/3973)  | [#3972](https://github.com/Azure/sdk-release-request/issues/3972)  | [#3971](https://github.com/Azure/sdk-release-request/issues/3971)  | 03-22 | 04-28 |  |
@@ -43,4 +45,5 @@
 | 'Release for Container Registry 2022-12-01 Stable API'  |  | [#3780](https://github.com/Azure/sdk-release-request/issues/3780)  |  |  | 02-13 | 03-24 |  |
 | 'Release for Container Service - 2023-01-01'  |  | [#3774](https://github.com/Azure/sdk-release-request/issues/3774)  |  |  | 02-13 | 03-24 |  |
 | 'Release for Container Service - 2023-01-02-preview'  |  | [#3770](https://github.com/Azure/sdk-release-request/issues/3770)  |  |  | 02-13 | 03-24 |  |
+| 'Release for Azure Spring Apps 2023-03-01-preview'  |  |  |  | [#3985](https://github.com/Azure/sdk-release-request/issues/3985)  | 03-23 | 04-28 |  |
 | 'Release for new SQL SDK for JS (@azure/arm-sql)'  |  |  |  | [#3834](https://github.com/Azure/sdk-release-request/issues/3834)  | 02-22 | 03-24 |  |
