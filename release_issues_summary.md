@@ -17,12 +17,11 @@
 | 'Release for Azure VM Image Builder - 2022-07-01'  | [#3928](https://github.com/Azure/sdk-release-request/issues/3928)  | [#3929](https://github.com/Azure/sdk-release-request/issues/3929)  |  | [#3930](https://github.com/Azure/sdk-release-request/issues/3930)  | 03-15 | 04-28 |  |
 | 'Release for Microsoft.Insights Webtest of 2022-06-15'  | [#3926](https://github.com/Azure/sdk-release-request/issues/3926)  |  |  |  | 03-13 | 04-28 |  |
 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 04-28 |  |
-| 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  | [#3915](https://github.com/Azure/sdk-release-request/issues/3915)  | [#3917](https://github.com/Azure/sdk-release-request/issues/3917)  |  | 03-10 | 03-24 | Hold on by Go/ |
+| 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  | [#3915](https://github.com/Azure/sdk-release-request/issues/3915)  |  |  | 03-10 | 03-24 |  |
 | 'Release for NetAppFiles 2022-09-01'  | [#3887](https://github.com/Azure/sdk-release-request/issues/3887)  | [#3886](https://github.com/Azure/sdk-release-request/issues/3886)  |  |  | 03-06 | 03-24 |  |
 | 'ACSS, AMS 2.0 GA SDK for v2023-04-01 '  | [#3857](https://github.com/Azure/sdk-release-request/issues/3857)  | [#3856](https://github.com/Azure/sdk-release-request/issues/3856)  | [#3859](https://github.com/Azure/sdk-release-request/issues/3859)  | [#3858](https://github.com/Azure/sdk-release-request/issues/3858)  | 03-02 | 03-24 | Hold on by JS/Python/ |
 | 'Release for Liftr-Newrelic - 2023-03-01'  | [#3822](https://github.com/Azure/sdk-release-request/issues/3822)  | [#3819](https://github.com/Azure/sdk-release-request/issues/3819)  | [#3820](https://github.com/Azure/sdk-release-request/issues/3820)  | [#3821](https://github.com/Azure/sdk-release-request/issues/3821)  | 02-16 | 03-24 |  |
 | 'Release for Keyvault - 2022-07-01'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
-| 'Network 2022-09-01'  |  | [#3852](https://github.com/Azure/sdk-release-request/issues/3852)  | [#3854](https://github.com/Azure/sdk-release-request/issues/3854)  |  | 03-01 | 03-24 |  |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  | [#3766](https://github.com/Azure/sdk-release-request/issues/3766)  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
@@ -34,8 +33,9 @@
 | 'Azure SignalR Service - 2023-02-01'  |  | [#3896](https://github.com/Azure/sdk-release-request/issues/3896)  |  |  | 03-07 | 03-24 |  |
 | 'Release for Microsoft.Capacity - 2022-11-01'  |  | [#3881](https://github.com/Azure/sdk-release-request/issues/3881)  |  |  | 03-03 | 03-24 |  |
 | 'Release for Azure Orbital - 2022-11-01'  |  | [#3878](https://github.com/Azure/sdk-release-request/issues/3878)  |  |  | 03-03 | 03-24 |  |
-| 'Release for Microsoft.DesktopVirtualization 2022-09-09 SDK (latest stable)'  |  | [#3868](https://github.com/Azure/sdk-release-request/issues/3868)  |  |  | 03-03 | 03-24 | Hold on by Go/ |
-| 'Microsoft Graph Premium APIs - 2022-09-22-preview'  |  | [#3864](https://github.com/Azure/sdk-release-request/issues/3864)  |  |  | 03-03 | 03-24 | Hold on by Go/ |
+| 'Release for Microsoft.DesktopVirtualization 2022-09-09 SDK (latest stable)'  |  | [#3868](https://github.com/Azure/sdk-release-request/issues/3868)  |  |  | 03-03 | 03-24 |  |
+| 'Microsoft Graph Premium APIs - 2022-09-22-preview'  |  | [#3864](https://github.com/Azure/sdk-release-request/issues/3864)  |  |  | 03-03 | 03-24 |  |
+| 'Network 2022-09-01'  |  | [#3852](https://github.com/Azure/sdk-release-request/issues/3852)  |  |  | 03-01 | 03-24 |  |
 | 'Release for Microsoft.HybridContainerService 2022-09-01-preview SDK'  |  | [#3849](https://github.com/Azure/sdk-release-request/issues/3849)  |  |  | 03-01 | 03-24 |  |
 | 'Release for ADF - 2023-02-24'  |  | [#3841](https://github.com/Azure/sdk-release-request/issues/3841)  |  |  | 02-24 | 03-24 |  |
 | 'Release for Azure Digital Twins - 2023-01-31'  |  | [#3838](https://github.com/Azure/sdk-release-request/issues/3838)  |  |  | 02-23 | 03-24 |  |
