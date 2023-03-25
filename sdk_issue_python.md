@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#29545](https://github.com/Azure/azure-sdk-for-python/issues/29545)|Subscriptions class does not return associated tags|question, Mgmt, customer-reported, needs-team-attention, CXP Attention, Resources|SaurabhSharma-MSFT, msyyc|new comment|2023-03-23|
+|1|[#29545](https://github.com/Azure/azure-sdk-for-python/issues/29545)|Subscriptions class does not return associated tags|question, Mgmt, customer-reported, needs-team-attention, CXP Attention, Resources|msyyc, SaurabhSharma-MSFT|new comment|2023-03-23|
 |2|[#29539](https://github.com/Azure/azure-sdk-for-python/issues/29539)|Cannot pass via the SDK linkedService parameter value in DataFlow run activity|Mgmt, needs-team-attention|msyyc|new comment|2023-03-23|
 |3|[#28350](https://github.com/Azure/azure-sdk-for-python/issues/28350)|Subnet update for NSG disassociates Route Table|question, Network, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|new comment|2023-01-14|
-|4|[#26475](https://github.com/Azure/azure-sdk-for-python/issues/26475)|Outdated hyperlink on "Explore the Management APIs"|bug, Docs, Notification Hub, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2022-09-27|
-|5|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|new comment|2022-06-07|
+|4|[#26475](https://github.com/Azure/azure-sdk-for-python/issues/26475)|Outdated hyperlink on "Explore the Management APIs"|bug, Docs, Notification Hub, Mgmt, customer-reported, issue-addressed|msyyc|new comment|2022-09-27|
+|5|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|new comment|2022-06-07|
 |6|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|msyyc, scbedd|new comment|2022-05-11|
 |7|[#22813](https://github.com/Azure/azure-sdk-for-python/issues/22813)|Feature to add auxiliary authorization header|feature-request, Mgmt|msyyc|new issue|2022-01-28|
 |8|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
@@ -13,8 +13,8 @@
 |11|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |12|[#22213](https://github.com/Azure/azure-sdk-for-python/issues/22213)|Create/Update Hub BGP Connection|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|msyyc|new comment|2021-12-17|
 |13|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
-|14|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|msyyc, BigCat20196|new comment|2021-08-16|
+|14|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|BigCat20196, msyyc|new comment|2021-08-16|
 |15|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, lmazuel|new comment|2021-04-05|
+|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc|new comment|2021-04-05|
 |17|[#13316](https://github.com/Azure/azure-sdk-for-python/issues/13316)|"Warning: Discriminator source is absent or null, use base class ResourceDetails." when serializing SecurityAssessment object|question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2020-08-25|
 |18|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
