@@ -26,7 +26,6 @@
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
 | 'Mongo Cluster Public Preview Release -2023-03-01'  |  | [#3942](https://github.com/Azure/sdk-release-request/issues/3942)  |  | [#3941](https://github.com/Azure/sdk-release-request/issues/3941)  | 03-16 | 04-28 |  |
-| 'Release for Communication Services - 2023-03-01-preview'  |  | [#3935](https://github.com/Azure/sdk-release-request/issues/3935)  |  | [#3933](https://github.com/Azure/sdk-release-request/issues/3933)  | 03-15 | 03-24 |  |
 | 'Release for Recovery Services 2023-02-01'  |  | [#3910](https://github.com/Azure/sdk-release-request/issues/3910)  |  |  | 03-09 | 03-24 |  |
 | 'Microsoft.Insights to add version data collection 2022-06-01'  |  | [#3907](https://github.com/Azure/sdk-release-request/issues/3907)  |  |  | 03-08 | 03-24 |  |
 | 'Release for Azure Cosmos DB 2022-11-15-preview'  |  | [#3904](https://github.com/Azure/sdk-release-request/issues/3904)  |  |  | 03-07 | 03-24 |  |
