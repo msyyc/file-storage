@@ -13,7 +13,6 @@
 | 'Release for Azure Spring Apps - 2023-01-01-preview'  | [#3948](https://github.com/Azure/sdk-release-request/issues/3948)  | [#3945](https://github.com/Azure/sdk-release-request/issues/3945)  | [#3947](https://github.com/Azure/sdk-release-request/issues/3947)  | [#3946](https://github.com/Azure/sdk-release-request/issues/3946)  | 03-17 | 04-28 |  |
 | 'apimangement 2022-08 01'  | [#3940](https://github.com/Azure/sdk-release-request/issues/3940)  |  |  |  | 03-16 | 04-28 |  |
 | 'Release for Redis Enterprise 2023-03-01-preview'  | [#3939](https://github.com/Azure/sdk-release-request/issues/3939)  | [#3873](https://github.com/Azure/sdk-release-request/issues/3873)  |  | [#3937](https://github.com/Azure/sdk-release-request/issues/3937)  | 03-16 | 04-28 |  |
-| 'Release for Communication Services - 2023-03-01-preview'  | [#3932](https://github.com/Azure/sdk-release-request/issues/3932)  | [#3935](https://github.com/Azure/sdk-release-request/issues/3935)  |  | [#3933](https://github.com/Azure/sdk-release-request/issues/3933)  | 03-15 | 03-24 |  |
 | 'Release for Azure VM Image Builder - 2022-07-01'  | [#3928](https://github.com/Azure/sdk-release-request/issues/3928)  | [#3929](https://github.com/Azure/sdk-release-request/issues/3929)  |  | [#3930](https://github.com/Azure/sdk-release-request/issues/3930)  | 03-15 | 04-28 |  |
 | 'Release for Microsoft.Insights Webtest of 2022-06-15'  | [#3926](https://github.com/Azure/sdk-release-request/issues/3926)  |  |  |  | 03-13 | 04-28 |  |
 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 04-28 |  |
@@ -27,6 +26,7 @@
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
 | 'Mongo Cluster Public Preview Release -2023-03-01'  |  | [#3942](https://github.com/Azure/sdk-release-request/issues/3942)  |  | [#3941](https://github.com/Azure/sdk-release-request/issues/3941)  | 03-16 | 04-28 |  |
+| 'Release for Communication Services - 2023-03-01-preview'  |  | [#3935](https://github.com/Azure/sdk-release-request/issues/3935)  |  | [#3933](https://github.com/Azure/sdk-release-request/issues/3933)  | 03-15 | 03-24 |  |
 | 'Release for Recovery Services 2023-02-01'  |  | [#3910](https://github.com/Azure/sdk-release-request/issues/3910)  |  |  | 03-09 | 03-24 |  |
 | 'Microsoft.Insights to add version data collection 2022-06-01'  |  | [#3907](https://github.com/Azure/sdk-release-request/issues/3907)  |  |  | 03-08 | 03-24 |  |
 | 'Release for Azure Cosmos DB 2022-11-15-preview'  |  | [#3904](https://github.com/Azure/sdk-release-request/issues/3904)  |  |  | 03-07 | 03-24 |  |
