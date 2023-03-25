@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3992](https://github.com/Azure/sdk-release-request/issues/3992) | achocron |  | MaryGao | new issue. | 03-24 | 04-28 |  |
 | [#3987](https://github.com/Azure/sdk-release-request/issues/3987) | musabbir |  | MaryGao | new issue. | 03-23 | 04-28 |  |
 | [#3985](https://github.com/Azure/sdk-release-request/issues/3985) | RuoyuWang-MS |  | MaryGao | new issue. | 03-23 | 04-28 |  |
 | [#3982](https://github.com/Azure/sdk-release-request/issues/3982) | josefree |  | MaryGao | Attention to inconsistent tag | 03-23 | 04-28 |  |
@@ -17,6 +18,6 @@
 | [#3933](https://github.com/Azure/sdk-release-request/issues/3933) | kagbakpem |  | MaryGao | Attention to inconsistent tag | 03-15 | 04-28 |  |
 | [#3930](https://github.com/Azure/sdk-release-request/issues/3930) | zdelacerda-microsoft |  | MaryGao |  | 03-15 | 04-28 |  |
 | [#3921](https://github.com/Azure/sdk-release-request/issues/3921) | Vibhuti-Sharma-Microsoft |  | MaryGao |  | 03-10 | 04-28 |  |
-| [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | close to release date.  | 03-02 | 03-24 | 0 |
-| [#3834](https://github.com/Azure/sdk-release-request/issues/3834) | krivi37 |  | MaryGao | close to release date.  | 02-22 | 03-24 | 0 |
-| [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | MaryGao | close to release date.  | 02-16 | 03-24 | 0 |
+| [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | close to release date.  | 03-02 | 03-24 | -1 |
+| [#3834](https://github.com/Azure/sdk-release-request/issues/3834) | krivi37 |  | MaryGao | close to release date.  | 02-22 | 03-24 | -1 |
+| [#3821](https://github.com/Azure/sdk-release-request/issues/3821) | saurgupta-msft |  | MaryGao | close to release date.  | 02-16 | 03-24 | -1 |
