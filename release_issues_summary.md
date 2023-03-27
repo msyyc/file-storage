@@ -20,7 +20,7 @@
 | 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  |  |  |  | 03-10 | 03-24 |  |
 | 'Release for NetAppFiles 2022-09-01'  | [#3887](https://github.com/Azure/sdk-release-request/issues/3887)  |  |  |  | 03-06 | 03-24 |  |
 | 'ACSS, AMS 2.0 GA SDK for v2023-04-01 '  | [#3857](https://github.com/Azure/sdk-release-request/issues/3857)  | [#3856](https://github.com/Azure/sdk-release-request/issues/3856)  | [#3859](https://github.com/Azure/sdk-release-request/issues/3859)  | [#3858](https://github.com/Azure/sdk-release-request/issues/3858)  | 03-02 | 03-24 | Hold on by JS/Python/ |
-| 'Release for Liftr-Newrelic - 2023-03-01'  | [#3822](https://github.com/Azure/sdk-release-request/issues/3822)  |  | [#3820](https://github.com/Azure/sdk-release-request/issues/3820)  | [#3821](https://github.com/Azure/sdk-release-request/issues/3821)  | 02-16 | 03-24 |  |
+| 'Release for Liftr-Newrelic - 2023-03-01'  | [#3822](https://github.com/Azure/sdk-release-request/issues/3822)  |  | [#3820](https://github.com/Azure/sdk-release-request/issues/3820)  |  | 02-16 | 03-24 |  |
 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  | [#3992](https://github.com/Azure/sdk-release-request/issues/3992)  | 03-24 | 04-28 |  |
 | 'Release for Keyvault - 2022-07-01'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
@@ -29,4 +29,3 @@
 | 'Mongo Cluster Public Preview Release -2023-03-01'  |  | [#3942](https://github.com/Azure/sdk-release-request/issues/3942)  |  | [#3941](https://github.com/Azure/sdk-release-request/issues/3941)  | 03-16 | 04-28 |  |
 | 'Release for Container Service - 2023-01-02-preview'  |  | [#3770](https://github.com/Azure/sdk-release-request/issues/3770)  |  |  | 02-13 | 03-24 |  |
 | 'Release for Azure Spring Apps 2023-03-01-preview'  |  |  |  | [#3985](https://github.com/Azure/sdk-release-request/issues/3985)  | 03-23 | 04-28 |  |
-| 'Release for new SQL SDK for JS (@azure/arm-sql)'  |  |  |  | [#3834](https://github.com/Azure/sdk-release-request/issues/3834)  | 02-22 | 03-24 |  |
