@@ -1,12 +1,12 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3997](https://github.com/Azure/sdk-release-request/issues/3997) | msyyc | azure-mgmt-resource | Wzb123456789 | Attention to inconsistent tag MultiAPI | 03-27 | 04-28 |  |
 | [#3995](https://github.com/Azure/sdk-release-request/issues/3995) | kagbakpem | azure-mgmt-communication | Wzb123456789 |  | 03-26 | 04-28 |  |
 | [#3989](https://github.com/Azure/sdk-release-request/issues/3989) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 03-23 | 04-28 |  |
 | [#3980](https://github.com/Azure/sdk-release-request/issues/3980) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 |  | 03-23 | 04-28 |  |
 | [#3975](https://github.com/Azure/sdk-release-request/issues/3975) | firstaye-zz | azure-mgmt-iothub | Wzb123456789 |  | 03-22 | 04-28 |  |
 | [#3970](https://github.com/Azure/sdk-release-request/issues/3970) | albertofori | azure-mgmt-appconfiguration | Wzb123456789 |  | 03-22 | 04-28 |  |
 | [#3969](https://github.com/Azure/sdk-release-request/issues/3969) | allison-inman | azure-mgmt-quota | Wzb123456789 |  | 03-22 | 04-28 |  |
-| [#3960](https://github.com/Azure/sdk-release-request/issues/3960) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 03-22 | 04-28 |  |
 | [#3959](https://github.com/Azure/sdk-release-request/issues/3959) | msyyc | azure-mgmt-network | Wzb123456789 | new version is 0.0.0, please check base branch! | 03-22 | 04-28 |  |
 | [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 |  | 03-21 | 04-28 |  |
 | [#3953](https://github.com/Azure/sdk-release-request/issues/3953) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 03-21 | 04-28 |  |
