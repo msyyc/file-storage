@@ -23,12 +23,11 @@
 | 'Release for Liftr-Newrelic - 2023-03-01'  | [#3822](https://github.com/Azure/sdk-release-request/issues/3822)  | [#3819](https://github.com/Azure/sdk-release-request/issues/3819)  | [#3820](https://github.com/Azure/sdk-release-request/issues/3820)  | [#3821](https://github.com/Azure/sdk-release-request/issues/3821)  | 02-16 | 03-24 |  |
 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  | [#3992](https://github.com/Azure/sdk-release-request/issues/3992)  | 03-24 | 04-28 |  |
 | 'Release for Keyvault - 2022-07-01'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
-| 'Create initial SDKs for microsoft.monitor/accounts'  |  | [#3766](https://github.com/Azure/sdk-release-request/issues/3766)  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
+| 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
 | 'Mongo Cluster Public Preview Release -2023-03-01'  |  | [#3942](https://github.com/Azure/sdk-release-request/issues/3942)  |  | [#3941](https://github.com/Azure/sdk-release-request/issues/3941)  | 03-16 | 04-28 |  |
 | 'Release for Recovery Services 2023-02-01'  |  | [#3910](https://github.com/Azure/sdk-release-request/issues/3910)  |  |  | 03-09 | 03-24 |  |
-| 'Microsoft.Insights to add version data collection 2022-06-01'  |  | [#3907](https://github.com/Azure/sdk-release-request/issues/3907)  |  |  | 03-08 | 03-24 |  |
 | 'Release for Azure Cosmos DB 2022-11-15-preview'  |  | [#3904](https://github.com/Azure/sdk-release-request/issues/3904)  |  |  | 03-07 | 03-24 |  |
 | 'Azure Web PubSub Service - 2023-02-01'  |  | [#3898](https://github.com/Azure/sdk-release-request/issues/3898)  |  |  | 03-07 | 03-24 |  |
 | 'Azure SignalR Service - 2023-02-01'  |  | [#3896](https://github.com/Azure/sdk-release-request/issues/3896)  |  |  | 03-07 | 03-24 |  |
