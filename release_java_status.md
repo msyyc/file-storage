@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#3994](https://github.com/Azure/sdk-release-request/issues/3994) | kagbakpem |  | haolingdong-msft | Attention to inconsistent tag | 03-26 | 04-28 |  |
 | [#3991](https://github.com/Azure/sdk-release-request/issues/3991) | achocron |  | XiaofeiCao | new issue. | 03-24 | 04-28 |  |
 | [#3988](https://github.com/Azure/sdk-release-request/issues/3988) | musabbir |  | weidongxu-microsoft | new issue. | 03-23 | 04-28 |  |
 | [#3983](https://github.com/Azure/sdk-release-request/issues/3983) | josefree |  | haolingdong-msft | Attention to inconsistent tag | 03-23 | 04-28 |  |
@@ -11,7 +12,7 @@
 | [#3952](https://github.com/Azure/sdk-release-request/issues/3952) | utkarshjain1508 |  | XiaofeiCao | new issue. | 03-21 | 04-28 |  |
 | [#3947](https://github.com/Azure/sdk-release-request/issues/3947) | Descatles |  | XiaofeiCao |  | 03-17 | 04-28 |  |
 | [#3924](https://github.com/Azure/sdk-release-request/issues/3924) | Vibhuti-Sharma-Microsoft |  | haolingdong-msft | new comment. | 03-10 | 04-28 |  |
-| [#3859](https://github.com/Azure/sdk-release-request/issues/3859) | gargankit-microsoft |  | weidongxu-microsoft | close to release date.  | 03-02 | 03-24 | -2 |
-| [#3820](https://github.com/Azure/sdk-release-request/issues/3820) | saurgupta-msft |  | weidongxu-microsoft | close to release date.  | 02-16 | 03-24 | -2 |
-| [#3765](https://github.com/Azure/sdk-release-request/issues/3765) | jamlai |  | XiaofeiCao | close to release date.  | 02-10 | 03-24 | -2 |
+| [#3859](https://github.com/Azure/sdk-release-request/issues/3859) | gargankit-microsoft |  | weidongxu-microsoft |  | 03-02 | 03-24 |  |
+| [#3820](https://github.com/Azure/sdk-release-request/issues/3820) | saurgupta-msft |  | weidongxu-microsoft |  | 02-16 | 03-24 |  |
+| [#3765](https://github.com/Azure/sdk-release-request/issues/3765) | jamlai |  | XiaofeiCao |  | 02-10 | 03-24 |  |
 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao | new comment. | 01-24 | 02-24 |  |
