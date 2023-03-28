@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-newrelicobservability,saurgupta-msft,Wzb123456789,2023-02-16,2023-03-28,https://github.com/Azure/sdk-release-request/issues/3822,1.0.0b1,
 azure-mgmt-resource,msyyc,Wzb123456789,2023-03-27,2023-03-28,https://github.com/Azure/sdk-release-request/issues/3997,23.0.0,True
 azure-mgmt-containerservice,FumingZhang,Wzb123456789,2023-03-22,2023-03-27,https://github.com/Azure/sdk-release-request/issues/3960,22.0.0,True
 azure-mgmt-sql,vidit-msft,Wzb123456789,2023-03-23,2023-03-27,https://github.com/Azure/sdk-release-request/issues/3990,4.0.0b9,
