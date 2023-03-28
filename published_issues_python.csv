@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resource,msyyc,Wzb123456789,2023-03-27,2023-03-28,https://github.com/Azure/sdk-release-request/issues/3997,23.0.0,True
 azure-mgmt-containerservice,FumingZhang,Wzb123456789,2023-03-22,2023-03-27,https://github.com/Azure/sdk-release-request/issues/3960,22.0.0,True
 azure-mgmt-sql,vidit-msft,Wzb123456789,2023-03-23,2023-03-27,https://github.com/Azure/sdk-release-request/issues/3990,4.0.0b9,
 azure-mgmt-communication,kagbakpem,Wzb123456789,2023-03-15,2023-03-25,https://github.com/Azure/sdk-release-request/issues/3932,2.0.0b3,
