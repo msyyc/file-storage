@@ -23,7 +23,6 @@
 | 'Release for Keyvault - 2022-07-01'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
 | 'GA release for Azure App Configuration Geo-Replication'  |  | [#3973](https://github.com/Azure/sdk-release-request/issues/3973)  | [#3972](https://github.com/Azure/sdk-release-request/issues/3972)  | [#3971](https://github.com/Azure/sdk-release-request/issues/3971)  | 03-22 | 04-28 |  |
 | 'Release for Container Service - 2023-02-01'  |  | [#3962](https://github.com/Azure/sdk-release-request/issues/3962)  | [#3961](https://github.com/Azure/sdk-release-request/issues/3961)  | [#3963](https://github.com/Azure/sdk-release-request/issues/3963)  | 03-22 | 04-28 |  |
-| 'Release for Liftr-Newrelic - 2023-03-01'  |  |  | [#3820](https://github.com/Azure/sdk-release-request/issues/3820)  |  | 02-16 | 03-24 |  |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
