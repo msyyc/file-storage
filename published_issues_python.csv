@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-network,msyyc,Wzb123456789,2023-03-22,2023-03-30,https://github.com/Azure/sdk-release-request/issues/3959,23.0.0,True
 azure-mgmt-appconfiguration,albertofori,Wzb123456789,2023-03-22,2023-03-29,https://github.com/Azure/sdk-release-request/issues/3970,3.0.0,True
 azure-mgmt-newrelicobservability,saurgupta-msft,Wzb123456789,2023-02-16,2023-03-28,https://github.com/Azure/sdk-release-request/issues/3822,1.0.0b1,
 azure-mgmt-resource,msyyc,Wzb123456789,2023-03-27,2023-03-28,https://github.com/Azure/sdk-release-request/issues/3997,23.0.0,True
