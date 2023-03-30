@@ -1,5 +1,6 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| 'Fix Release for Keyvault - 2023-02-01 (Only python)'  | [#4003](https://github.com/Azure/sdk-release-request/issues/4003)  |  |  |  | 03-30 | 04-28 |  |
 | 'Release for Ledger in MI 2022-08-01'  | [#4002](https://github.com/Azure/sdk-release-request/issues/4002)  |  |  |  | 03-28 | 04-28 |  |
 | 'Release for PostgreSQL flexible server - 2022-12-01'  | [#4000](https://github.com/Azure/sdk-release-request/issues/4000)  | [#4001](https://github.com/Azure/sdk-release-request/issues/4001)  | [#3998](https://github.com/Azure/sdk-release-request/issues/3998)  | [#3999](https://github.com/Azure/sdk-release-request/issues/3999)  | 03-27 | 04-28 |  |
 | 'Release For Azure Communication Services Email 2023-03-31'  | [#3995](https://github.com/Azure/sdk-release-request/issues/3995)  | [#3993](https://github.com/Azure/sdk-release-request/issues/3993)  | [#3994](https://github.com/Azure/sdk-release-request/issues/3994)  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
