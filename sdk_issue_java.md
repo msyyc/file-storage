@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#34243](https://github.com/Azure/azure-sdk-for-java/issues/34243)|Migrate test recording, for mgmt-plane|Mgmt, test-enhancement, Mgmt-EngSys|haolingdong-msft||2023-03-29|
-|2|[#34182](https://github.com/Azure/azure-sdk-for-java/issues/34182)|[BUG] com.azure.resourcemanager.containerservice.ContainerServiceManager.kubernetesClusters().list() returns empty|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-03-23|
+|2|[#34182](https://github.com/Azure/azure-sdk-for-java/issues/34182)|[BUG] com.azure.resourcemanager.containerservice.ContainerServiceManager.kubernetesClusters().list() returns empty|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Container Service|XiaofeiCao||2023-03-23|
 |3|[#34089](https://github.com/Azure/azure-sdk-for-java/issues/34089)|JAVA SDK CODE FOR CDN RULES CREATION|question, Mgmt, customer-reported|XiaofeiCao||2023-03-17|
 |4|[#33829](https://github.com/Azure/azure-sdk-for-java/issues/33829)|[BUG] reactor.core.Exceptions$ReactiveException: java.lang.InterruptedException occurs at computeManager.virtualMachines().getByResourceGroup(resGroup, name)|Compute - VM, Service Attention, Mgmt, needs-team-attention|XiaofeiCao, TravisCragg-MSFT|new comment|2023-03-02|
 |5|[#33659](https://github.com/Azure/azure-sdk-for-java/issues/33659)|[FEATURE REQ] mgmt, convenience API for keyvault HSM|Mgmt|XiaofeiCao||2023-02-22|
