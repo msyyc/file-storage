@@ -1,6 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 | new issue. | 03-31 | 04-28 |  |
+| [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 |  | 03-31 | 04-28 |  |
 | [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 03-31 | 04-28 |  |
 | [#4003](https://github.com/Azure/sdk-release-request/issues/4003) | msyyc | azure-mgmt-keyvault | Wzb123456789 | MultiAPI | 03-30 | 04-28 |  |
 | [#4002](https://github.com/Azure/sdk-release-request/issues/4002) | paramsiva1 | azure-mgmt-sql | Wzb123456789 |  | 03-28 | 04-28 |  |
