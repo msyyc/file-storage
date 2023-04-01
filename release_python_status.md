@@ -1,6 +1,7 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 | new issue. | 03-31 | 04-28 |  |
+| [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 | new issue. | 03-31 | 04-28 |  |
+| [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 03-31 | 04-28 |  |
 | [#4003](https://github.com/Azure/sdk-release-request/issues/4003) | msyyc | azure-mgmt-keyvault | Wzb123456789 | MultiAPI | 03-30 | 04-28 |  |
 | [#4002](https://github.com/Azure/sdk-release-request/issues/4002) | paramsiva1 | azure-mgmt-sql | Wzb123456789 |  | 03-28 | 04-28 |  |
 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | MultiAPI | 03-27 | 04-28 |  |
@@ -19,4 +20,4 @@
 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 | new comment. | 03-10 | 04-28 |  |
 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 |  | 03-10 | 03-24 |  |
 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 03-24 |  |
-| [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | Hold on | 03-02 | 03-24 |  |
+| [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | new comment. Hold on | 03-02 | 03-24 |  |

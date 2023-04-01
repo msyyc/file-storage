@@ -1,5 +1,6 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| 'Release for container instance 2023-02-01-preview'  | [#4008](https://github.com/Azure/sdk-release-request/issues/4008)  | [#4009](https://github.com/Azure/sdk-release-request/issues/4009)  | [#4006](https://github.com/Azure/sdk-release-request/issues/4006)  | [#4007](https://github.com/Azure/sdk-release-request/issues/4007)  | 03-31 | 04-28 |  |
 | 'release for Compute with new package structure (only python)'  | [#4005](https://github.com/Azure/sdk-release-request/issues/4005)  |  |  |  | 03-31 | 04-28 |  |
 | 'Fix Release for Keyvault - 2023-02-01 (Only python)'  | [#4003](https://github.com/Azure/sdk-release-request/issues/4003)  |  |  |  | 03-30 | 04-28 |  |
 | 'Release for Ledger in MI 2022-08-01'  | [#4002](https://github.com/Azure/sdk-release-request/issues/4002)  |  |  |  | 03-28 | 04-28 |  |
