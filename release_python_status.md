@@ -4,7 +4,6 @@
 | [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 03-31 | 04-28 |  |
 | [#4002](https://github.com/Azure/sdk-release-request/issues/4002) | paramsiva1 | azure-mgmt-sql | Wzb123456789 |  | 03-28 | 04-28 |  |
 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | MultiAPI | 03-27 | 04-28 |  |
-| [#3995](https://github.com/Azure/sdk-release-request/issues/3995) | kagbakpem | azure-mgmt-communication | Wzb123456789 |  | 03-26 | 04-28 |  |
 | [#3989](https://github.com/Azure/sdk-release-request/issues/3989) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 03-23 | 04-28 |  |
 | [#3980](https://github.com/Azure/sdk-release-request/issues/3980) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 |  | 03-23 | 04-28 |  |
 | [#3975](https://github.com/Azure/sdk-release-request/issues/3975) | firstaye-zz | azure-mgmt-iothub | Wzb123456789 |  | 03-22 | 04-28 |  |
