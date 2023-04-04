@@ -18,7 +18,6 @@
 | 'Release for Microsoft.Insights Webtest of 2022-06-15'  | [#3926](https://github.com/Azure/sdk-release-request/issues/3926)  |  |  |  | 03-13 | 04-28 |  |
 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 04-28 |  |
 | 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  |  |  |  | 03-10 | 03-24 |  |
-| 'Release for NetAppFiles 2022-09-01'  | [#3887](https://github.com/Azure/sdk-release-request/issues/3887)  |  |  |  | 03-06 | 03-24 |  |
 | 'ACSS, AMS 2.0 GA SDK for v2023-04-01 '  | [#3857](https://github.com/Azure/sdk-release-request/issues/3857)  | [#3856](https://github.com/Azure/sdk-release-request/issues/3856)  | [#3859](https://github.com/Azure/sdk-release-request/issues/3859)  | [#3858](https://github.com/Azure/sdk-release-request/issues/3858)  | 03-02 | 03-24 | Hold on by Python/ |
 | 'AppPlatform - 2023-03-01-preview'  |  |  | [#4004](https://github.com/Azure/sdk-release-request/issues/4004)  |  | 03-31 | 04-28 |  |
 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  | [#3992](https://github.com/Azure/sdk-release-request/issues/3992)  | 03-24 | 04-28 |  |
