@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#4012](https://github.com/Azure/sdk-release-request/issues/4012) | schaudhari6254888 | azure-mgmt-eventhub | Wzb123456789 | new issue. MultiAPI | 04-04 | 04-15 |  |
 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 |  | 03-31 | 04-28 |  |
 | [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 03-31 | 04-28 |  |
 | [#4002](https://github.com/Azure/sdk-release-request/issues/4002) | paramsiva1 | azure-mgmt-sql | Wzb123456789 |  | 03-28 | 04-28 |  |
