@@ -1,6 +1,6 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| '[resource-manager] Python: 'Release for EventHub Api-Version=2022-10-01-preview''  | [#4012](https://github.com/Azure/sdk-release-request/issues/4012)  |  | [#4014](https://github.com/Azure/sdk-release-request/issues/4014)  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-15 |  |
+| 'Release for EventHub Api-Version=2022-10-01-preview''  | [#4012](https://github.com/Azure/sdk-release-request/issues/4012)  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-15 |  |
 | 'Release for container instance 2023-02-01-preview'  | [#4008](https://github.com/Azure/sdk-release-request/issues/4008)  | [#4009](https://github.com/Azure/sdk-release-request/issues/4009)  | [#4006](https://github.com/Azure/sdk-release-request/issues/4006)  | [#4007](https://github.com/Azure/sdk-release-request/issues/4007)  | 03-31 | 04-28 |  |
 | 'release for Compute with new package structure (only python)'  | [#4005](https://github.com/Azure/sdk-release-request/issues/4005)  |  |  |  | 03-31 | 04-28 |  |
 | 'Release for Ledger in MI 2022-08-01'  | [#4002](https://github.com/Azure/sdk-release-request/issues/4002)  |  |  |  | 03-28 | 04-28 |  |
@@ -19,6 +19,7 @@
 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 04-28 |  |
 | 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  |  |  |  | 03-10 | 03-24 |  |
 | 'ACSS, AMS 2.0 GA SDK for v2023-04-01 '  | [#3857](https://github.com/Azure/sdk-release-request/issues/3857)  | [#3856](https://github.com/Azure/sdk-release-request/issues/3856)  | [#3859](https://github.com/Azure/sdk-release-request/issues/3859)  | [#3858](https://github.com/Azure/sdk-release-request/issues/3858)  | 03-02 | 03-24 | Hold on by Python/ |
+| 'Release for EventHub Api-Version=2022-10-01-preview'  |  |  | [#4014](https://github.com/Azure/sdk-release-request/issues/4014)  |  | 04-04 | 04-28 |  |
 | 'AppPlatform - 2023-03-01-preview'  |  |  | [#4004](https://github.com/Azure/sdk-release-request/issues/4004)  |  | 03-31 | 04-28 |  |
 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  | [#3992](https://github.com/Azure/sdk-release-request/issues/3992)  | 03-24 | 04-28 |  |
 | 'Release for Keyvault - 2022-07-01'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
@@ -26,7 +27,6 @@
 | 'Release for Container Service - 2023-02-01'  |  | [#3962](https://github.com/Azure/sdk-release-request/issues/3962)  | [#3961](https://github.com/Azure/sdk-release-request/issues/3961)  | [#3963](https://github.com/Azure/sdk-release-request/issues/3963)  | 03-22 | 04-28 |  |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 'Release for EventHub Api-Version=2022-10-01-preview''  |  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  |  | 04-04 | 04-28 |  |
 | 'Release For Azure Communication Services Email 2023-03-31'  |  | [#3993](https://github.com/Azure/sdk-release-request/issues/3993)  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
 | 'Mongo Cluster Public Preview Release -2023-03-01'  |  | [#3942](https://github.com/Azure/sdk-release-request/issues/3942)  |  | [#3941](https://github.com/Azure/sdk-release-request/issues/3941)  | 03-16 | 04-28 |  |
