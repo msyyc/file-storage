@@ -13,7 +13,7 @@
 | [#3977](https://github.com/Azure/sdk-release-request/issues/3977) | firstaye-zz |  | MaryGao | new issue. | 03-22 | 04-28 |  |
 | [#3971](https://github.com/Azure/sdk-release-request/issues/3971) | albertofori |  | MaryGao | new issue. | 03-22 | 04-28 |  |
 | [#3968](https://github.com/Azure/sdk-release-request/issues/3968) | allison-inman |  | MaryGao |  | 03-22 | 04-28 |  |
-| [#3964](https://github.com/Azure/sdk-release-request/issues/3964) | FumingZhang |  | MaryGao | new issue. | 03-22 | 04-28 |  |
+| [#3964](https://github.com/Azure/sdk-release-request/issues/3964) | FumingZhang |  | MaryGao |  | 03-22 | 04-28 |  |
 | [#3963](https://github.com/Azure/sdk-release-request/issues/3963) | FumingZhang |  | MaryGao | new comment. | 03-22 | 04-28 |  |
 | [#3958](https://github.com/Azure/sdk-release-request/issues/3958) | aditimalladi |  | MaryGao |  | 03-21 | 04-28 |  |
 | [#3954](https://github.com/Azure/sdk-release-request/issues/3954) | utkarshjain1508 |  | MaryGao |  | 03-21 | 04-28 |  |
