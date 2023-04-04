@@ -27,9 +27,9 @@
 | 'Release for Container Service - 2023-02-01'  |  | [#3962](https://github.com/Azure/sdk-release-request/issues/3962)  | [#3961](https://github.com/Azure/sdk-release-request/issues/3961)  | [#3963](https://github.com/Azure/sdk-release-request/issues/3963)  | 03-22 | 04-28 |  |
 | 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 'Release For Azure Communication Services Email 2023-03-31'  |  | [#3993](https://github.com/Azure/sdk-release-request/issues/3993)  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
 | 'Mongo Cluster Public Preview Release -2023-03-01'  |  | [#3942](https://github.com/Azure/sdk-release-request/issues/3942)  |  | [#3941](https://github.com/Azure/sdk-release-request/issues/3941)  | 03-16 | 04-28 |  |
 | 'Release for Container Service - 2023-01-02-preview'  |  | [#3770](https://github.com/Azure/sdk-release-request/issues/3770)  |  |  | 02-13 | 03-24 |  |
 | GA for VoiceServices  |  |  |  | [#4011](https://github.com/Azure/sdk-release-request/issues/4011)  | 04-04 |  |  |
+| 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
 | 'Release for Azure Spring Apps 2023-03-01-preview'  |  |  |  | [#3985](https://github.com/Azure/sdk-release-request/issues/3985)  | 03-23 | 04-28 |  |
