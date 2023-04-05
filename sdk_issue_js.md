@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#25414](https://github.com/Azure/azure-sdk-for-js/issues/25414)|[mgmt] credscan errors|EngSys, Mgmt|kazrael2119, qiaozha|new issue|2023-03-30|
+|1|[#25414](https://github.com/Azure/azure-sdk-for-js/issues/25414)|[mgmt] credscan errors|EngSys, Mgmt|qiaozha, kazrael2119|new issue|2023-03-30|
 |2|[#25100](https://github.com/Azure/azure-sdk-for-js/issues/25100)|[Mgmt Plane][JS] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new issue|2023-03-06|
 |3|[#24651](https://github.com/Azure/azure-sdk-for-js/issues/24651)|dataFlow is missing on DataFactory Activity responses|bug, customer-reported, Mgmt, Service Attention, Data Factory, needs-author-feedback, no-recent-activity, CXP Attention|MaryGao, qiaozha|new comment|2023-02-01|
 |4|[#24613](https://github.com/Azure/azure-sdk-for-js/issues/24613)|Types are too loosely defined to be useful|customer-reported, Mgmt, feature-request, needs-team-attention, SecurityInsights|qiaozha||2023-01-30|
