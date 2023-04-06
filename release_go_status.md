@@ -9,7 +9,7 @@
 | [#3981](https://github.com/Azure/sdk-release-request/issues/3981) | ashwinisingh01 |  | Alancere | new issue. | 03-23 | 04-28 |  |
 | [#3976](https://github.com/Azure/sdk-release-request/issues/3976) | firstaye-zz |  | Alancere | new issue. | 03-22 | 04-28 |  |
 | [#3973](https://github.com/Azure/sdk-release-request/issues/3973) | albertofori |  | Alancere | new issue. | 03-22 | 04-28 |  |
-| [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new issue. | 03-22 | 04-28 |  |
+| [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new issue. new comment. | 03-22 | 04-28 |  |
 | [#3965](https://github.com/Azure/sdk-release-request/issues/3965) | FumingZhang |  | Alancere | new issue. | 03-22 | 04-28 |  |
 | [#3962](https://github.com/Azure/sdk-release-request/issues/3962) | FumingZhang |  | Alancere | new issue. | 03-22 | 04-28 |  |
 | [#3955](https://github.com/Azure/sdk-release-request/issues/3955) | aditimalladi |  | Alancere | new issue. | 03-21 | 04-28 |  |
