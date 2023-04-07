@@ -1,5 +1,6 @@
 | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| 'Release for Azure.ResourceManager.Qumulo 2022-10-12'  | [#4021](https://github.com/Azure/sdk-release-request/issues/4021)  | [#4020](https://github.com/Azure/sdk-release-request/issues/4020)  | [#4023](https://github.com/Azure/sdk-release-request/issues/4023)  | [#4022](https://github.com/Azure/sdk-release-request/issues/4022)  | 04-06 | 04-28 |  |
 | 'Release for Security - 2023-02-01-preview'  | [#4016](https://github.com/Azure/sdk-release-request/issues/4016)  | [#4018](https://github.com/Azure/sdk-release-request/issues/4018)  | [#4017](https://github.com/Azure/sdk-release-request/issues/4017)  | [#4019](https://github.com/Azure/sdk-release-request/issues/4019)  | 04-04 | 04-28 |  |
 | 'Release for EventHub Api-Version=2022-10-01-preview''  | [#4012](https://github.com/Azure/sdk-release-request/issues/4012)  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-15 |  |
 | 'Release for container instance 2023-02-01-preview'  | [#4008](https://github.com/Azure/sdk-release-request/issues/4008)  | [#4009](https://github.com/Azure/sdk-release-request/issues/4009)  | [#4006](https://github.com/Azure/sdk-release-request/issues/4006)  | [#4007](https://github.com/Azure/sdk-release-request/issues/4007)  | 03-31 | 04-28 |  |
@@ -19,6 +20,7 @@
 | 'Release for Microsoft.Insights Webtest of 2022-06-15'  | [#3926](https://github.com/Azure/sdk-release-request/issues/3926)  |  |  |  | 03-13 | 04-28 |  |
 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 04-28 |  |
 | 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  |  |  |  | 03-10 | 03-24 |  |
+| 'Release for NetAppFiles 2022-09-01'  | [#3887](https://github.com/Azure/sdk-release-request/issues/3887)  |  |  |  | 03-06 | 04-28 |  |
 | 'ACSS, AMS 2.0 GA SDK for v2023-04-01 '  | [#3857](https://github.com/Azure/sdk-release-request/issues/3857)  | [#3856](https://github.com/Azure/sdk-release-request/issues/3856)  | [#3859](https://github.com/Azure/sdk-release-request/issues/3859)  | [#3858](https://github.com/Azure/sdk-release-request/issues/3858)  | 03-02 | 03-24 | Hold on by Python/ |
 | 'Release for EventHub Api-Version=2022-10-01-preview'  |  |  | [#4014](https://github.com/Azure/sdk-release-request/issues/4014)  |  | 04-04 | 04-28 |  |
 | 'AppPlatform - 2023-03-01-preview'  |  |  | [#4004](https://github.com/Azure/sdk-release-request/issues/4004)  |  | 03-31 | 04-28 |  |

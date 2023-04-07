@@ -1,5 +1,6 @@
 | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
+| [#4020](https://github.com/Azure/sdk-release-request/issues/4020) | nikhgup |  | Alancere | new issue. | 04-06 | 04-28 |  |
 | [#4018](https://github.com/Azure/sdk-release-request/issues/4018) | GalGoldi72 |  | Alancere | new issue. | 04-04 | 04-28 |  |
 | [#4015](https://github.com/Azure/sdk-release-request/issues/4015) | schaudhari6254888 |  | Alancere | new issue. | 04-04 | 04-28 |  |
 | [#4009](https://github.com/Azure/sdk-release-request/issues/4009) | MicroJamesLim |  | Alancere | new issue. | 03-31 | 04-28 |  |
@@ -12,7 +13,7 @@
 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new issue. new comment. | 03-22 | 04-28 |  |
 | [#3965](https://github.com/Azure/sdk-release-request/issues/3965) | FumingZhang |  | Alancere | new issue. | 03-22 | 04-28 |  |
 | [#3962](https://github.com/Azure/sdk-release-request/issues/3962) | FumingZhang |  | Alancere | new issue. | 03-22 | 04-28 |  |
-| [#3955](https://github.com/Azure/sdk-release-request/issues/3955) | aditimalladi |  | Alancere | new issue. | 03-21 | 04-28 |  |
+| [#3955](https://github.com/Azure/sdk-release-request/issues/3955) | aditimalladi |  | Alancere | new issue. new comment. | 03-21 | 04-28 |  |
 | [#3951](https://github.com/Azure/sdk-release-request/issues/3951) | utkarshjain1508 |  | Alancere | new issue. | 03-21 | 04-28 |  |
 | [#3945](https://github.com/Azure/sdk-release-request/issues/3945) | Descatles |  | Alancere | new issue. | 03-17 | 04-28 |  |
 | [#3942](https://github.com/Azure/sdk-release-request/issues/3942) | ashwinisingh01 |  | Alancere | new issue. | 03-16 | 04-28 |  |
