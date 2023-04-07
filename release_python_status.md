@@ -21,4 +21,4 @@
 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 |  | 03-10 | 04-28 |  |
 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 |  | 03-10 | 04-28 |  |
 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 04-28 |  |
-| [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | new comment. Hold on | 03-02 | 03-24 |  |
+| [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | Hold on | 03-02 | 04-28 |  |
