@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#25473](https://github.com/Azure/azure-sdk-for-js/issues/25473)|[ResoruceGraph] Change resources from NodeJS ResourceGraphClient miss information randomly|question, customer-reported, Mgmt|qiaozha||2023-04-06|
-|2|[#25414](https://github.com/Azure/azure-sdk-for-js/issues/25414)|[mgmt] credscan errors|EngSys, Mgmt|qiaozha, kazrael2119|new issue|2023-03-30|
+|2|[#25414](https://github.com/Azure/azure-sdk-for-js/issues/25414)|[mgmt] credscan errors|EngSys, Mgmt|kazrael2119, qiaozha|new issue|2023-03-30|
 |3|[#25100](https://github.com/Azure/azure-sdk-for-js/issues/25100)|[Mgmt Plane][JS] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new issue|2023-03-06|
 |4|[#24613](https://github.com/Azure/azure-sdk-for-js/issues/24613)|Types are too loosely defined to be useful|customer-reported, Mgmt, feature-request, needs-team-attention, SecurityInsights|qiaozha||2023-01-30|
-|5|[#24505](https://github.com/Azure/azure-sdk-for-js/issues/24505)|Automatic dependency collection for @azure/arm- SDKs|question, customer-reported, Mgmt, Service Attention, ARM, needs-author-feedback|MaryGao, qiaozha|new comment|2023-01-17|
+|5|[#24505](https://github.com/Azure/azure-sdk-for-js/issues/24505)|Automatic dependency collection for @azure/arm- SDKs|question, customer-reported, Mgmt, Service Attention, ARM, needs-author-feedback, no-recent-activity|MaryGao, qiaozha|new comment|2023-01-17|
 |6|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|bug, customer-reported, Mgmt, App Services, needs-team-attention, CXP Attention|qiaozha||2023-01-03|
 |7|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |8|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
