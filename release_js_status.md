@@ -4,7 +4,7 @@
 | 2 | [#4019](https://github.com/Azure/sdk-release-request/issues/4019) | GalGoldi72 |  | MaryGao | new issue. | 04-04 | 04-28 |  |
 | 3 | [#4013](https://github.com/Azure/sdk-release-request/issues/4013) | schaudhari6254888 |  | MaryGao | new issue. | 04-04 | 04-28 |  |
 | 4 | [#4011](https://github.com/Azure/sdk-release-request/issues/4011) | kazrael2119 |  | MaryGao |  | 04-04 |  | 0 |
-| 5 | [#4007](https://github.com/Azure/sdk-release-request/issues/4007) | MicroJamesLim |  | MaryGao | new issue. | 03-31 | 04-28 |  |
+| 5 | [#4007](https://github.com/Azure/sdk-release-request/issues/4007) | MicroJamesLim |  | MaryGao |  | 03-31 | 04-28 |  |
 | 6 | [#3999](https://github.com/Azure/sdk-release-request/issues/3999) | ambrahma |  | MaryGao |  | 03-27 | 04-28 |  |
 | 7 | [#3996](https://github.com/Azure/sdk-release-request/issues/3996) | kagbakpem |  | MaryGao | Attention to inconsistent tag | 03-26 | 04-28 |  |
 | 8 | [#3992](https://github.com/Azure/sdk-release-request/issues/3992) | achocron |  | MaryGao |  | 03-24 | 04-28 |  |
@@ -12,7 +12,7 @@
 | 10 | [#3985](https://github.com/Azure/sdk-release-request/issues/3985) | RuoyuWang-MS |  | MaryGao |  | 03-23 | 04-28 |  |
 | 11 | [#3982](https://github.com/Azure/sdk-release-request/issues/3982) | josefree |  | MaryGao | Attention to inconsistent tag | 03-23 | 04-28 |  |
 | 12 | [#3978](https://github.com/Azure/sdk-release-request/issues/3978) | ashwinisingh01 |  | MaryGao |  | 03-23 | 04-28 |  |
-| 13 | [#3977](https://github.com/Azure/sdk-release-request/issues/3977) | firstaye-zz |  | MaryGao |  | 03-22 | 04-28 |  |
+| 13 | [#3977](https://github.com/Azure/sdk-release-request/issues/3977) | firstaye-zz |  | MaryGao | new comment. | 03-22 | 04-28 |  |
 | 14 | [#3971](https://github.com/Azure/sdk-release-request/issues/3971) | albertofori |  | MaryGao |  | 03-22 | 04-28 |  |
 | 15 | [#3968](https://github.com/Azure/sdk-release-request/issues/3968) | allison-inman |  | MaryGao |  | 03-22 | 04-28 |  |
 | 16 | [#3964](https://github.com/Azure/sdk-release-request/issues/3964) | FumingZhang |  | MaryGao |  | 03-22 | 04-28 |  |

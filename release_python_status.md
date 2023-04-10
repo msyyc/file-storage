@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4021](https://github.com/Azure/sdk-release-request/issues/4021) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | FirstBeta | 04-06 | 04-28 |  |
-| 2 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 | new issue. MultiAPI | 04-04 | 04-28 |  |
+| 2 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
 | 3 | [#4012](https://github.com/Azure/sdk-release-request/issues/4012) | schaudhari6254888 | azure-mgmt-eventhub | Wzb123456789 |  | 04-04 | 04-15 |  |
 | 4 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 |  | 03-31 | 04-28 |  |
 | 5 | [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 03-31 | 04-28 |  |
