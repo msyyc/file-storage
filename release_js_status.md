@@ -16,7 +16,7 @@
 | 14 | [#3971](https://github.com/Azure/sdk-release-request/issues/3971) | albertofori |  | MaryGao |  | 03-22 | 04-28 |  |
 | 15 | [#3968](https://github.com/Azure/sdk-release-request/issues/3968) | allison-inman |  | MaryGao |  | 03-22 | 04-28 |  |
 | 16 | [#3964](https://github.com/Azure/sdk-release-request/issues/3964) | FumingZhang |  | qiaozha |  | 03-22 | 04-28 |  |
-| 17 | [#3963](https://github.com/Azure/sdk-release-request/issues/3963) | FumingZhang |  | MaryGao | new comment. | 03-22 | 04-28 |  |
+| 17 | [#3963](https://github.com/Azure/sdk-release-request/issues/3963) | FumingZhang |  | qiaozha | new comment. | 03-22 | 04-28 |  |
 | 18 | [#3958](https://github.com/Azure/sdk-release-request/issues/3958) | aditimalladi |  | qiaozha |  | 03-21 | 04-28 |  |
 | 19 | [#3954](https://github.com/Azure/sdk-release-request/issues/3954) | utkarshjain1508 |  | qiaozha |  | 03-21 | 04-28 |  |
 | 20 | [#3946](https://github.com/Azure/sdk-release-request/issues/3946) | Descatles |  | MaryGao |  | 03-17 | 04-28 |  |
