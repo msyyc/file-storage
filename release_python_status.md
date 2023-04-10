@@ -6,7 +6,7 @@
 | 4 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 |  | 03-31 | 04-28 |  |
 | 5 | [#4005](https://github.com/Azure/sdk-release-request/issues/4005) | msyyc | azure-mgmt-compute | Wzb123456789 |  | 03-31 | 04-28 |  |
 | 6 | [#4002](https://github.com/Azure/sdk-release-request/issues/4002) | paramsiva1 | azure-mgmt-sql | Wzb123456789 |  | 03-28 | 04-28 |  |
-| 7 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | new version is 0.0.0, please check base branch! | 03-27 | 04-28 |  |
+| 7 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 |  | 03-27 | 04-28 |  |
 | 8 | [#3989](https://github.com/Azure/sdk-release-request/issues/3989) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 03-23 | 04-28 |  |
 | 9 | [#3980](https://github.com/Azure/sdk-release-request/issues/3980) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 |  | 03-23 | 04-28 |  |
 | 10 | [#3975](https://github.com/Azure/sdk-release-request/issues/3975) | firstaye-zz | azure-mgmt-iothub | Wzb123456789 |  | 03-22 | 04-28 |  |
