@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4029](https://github.com/Azure/sdk-release-request/issues/4029) | carjackson-msft |  | qiaozha | new issue. | 04-11 | 04-28 |  |
+| 1 | [#4029](https://github.com/Azure/sdk-release-request/issues/4029) | carjackson-msft |  | qiaozha |  | 04-11 | 04-28 |  |
 | 2 | [#4025](https://github.com/Azure/sdk-release-request/issues/4025) | kerend |  | qiaozha |  | 04-10 | 04-28 |  |
 | 3 | [#4022](https://github.com/Azure/sdk-release-request/issues/4022) | nikhgup |  | qiaozha |  | 04-06 | 04-28 |  |
 | 4 | [#4019](https://github.com/Azure/sdk-release-request/issues/4019) | GalGoldi72 |  | MaryGao |  | 04-04 | 04-28 |  |
