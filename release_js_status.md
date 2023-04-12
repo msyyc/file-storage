@@ -4,7 +4,7 @@
 | 2 | [#4025](https://github.com/Azure/sdk-release-request/issues/4025) | kerend |  | qiaozha |  | 04-10 | 04-28 |  |
 | 3 | [#4022](https://github.com/Azure/sdk-release-request/issues/4022) | nikhgup |  | qiaozha |  | 04-06 | 04-28 |  |
 | 4 | [#4019](https://github.com/Azure/sdk-release-request/issues/4019) | GalGoldi72 |  | MaryGao |  | 04-04 | 04-28 |  |
-| 5 | [#4013](https://github.com/Azure/sdk-release-request/issues/4013) | schaudhari6254888 |  | qiaozha | new issue. | 04-04 | 04-28 |  |
+| 5 | [#4013](https://github.com/Azure/sdk-release-request/issues/4013) | schaudhari6254888 |  | qiaozha |  | 04-04 | 04-28 |  |
 | 6 | [#4011](https://github.com/Azure/sdk-release-request/issues/4011) | kazrael2119 |  | MaryGao |  | 04-04 |  | 0 |
 | 7 | [#4007](https://github.com/Azure/sdk-release-request/issues/4007) | MicroJamesLim |  | qiaozha |  | 03-31 | 04-28 |  |
 | 8 | [#3999](https://github.com/Azure/sdk-release-request/issues/3999) | ambrahma |  | qiaozha |  | 03-27 | 04-28 |  |
