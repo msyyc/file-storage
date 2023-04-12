@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
 | 2 | [#4026](https://github.com/Azure/sdk-release-request/issues/4026) | kerend |  | Wzb123456789 |  | 04-10 | 04-28 |  |
-| 3 | [#4021](https://github.com/Azure/sdk-release-request/issues/4021) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | FirstBeta | 04-06 | 04-18 |  |
+| 3 | [#4021](https://github.com/Azure/sdk-release-request/issues/4021) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | close to release date.  FirstBeta | 04-06 | 04-15 | 2 |
 | 4 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
 | 5 | [#4012](https://github.com/Azure/sdk-release-request/issues/4012) | schaudhari6254888 | azure-mgmt-eventhub | Wzb123456789 | close to release date.  | 04-04 | 04-15 | 2 |
 | 6 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 |  | 03-31 | 04-28 |  |
