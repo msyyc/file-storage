@@ -3,15 +3,15 @@
 | 1 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 |  | 04-12 | 04-28 |  |
 | 2 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
 | 3 | [#4026](https://github.com/Azure/sdk-release-request/issues/4026) | kerend |  | Wzb123456789 |  | 04-10 | 04-28 |  |
-| 4 | [#4021](https://github.com/Azure/sdk-release-request/issues/4021) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | close to release date.  FirstBeta | 04-06 | 04-15 | 1 |
+| 4 | [#4021](https://github.com/Azure/sdk-release-request/issues/4021) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | close to release date.  FirstBeta | 04-06 | 04-14 | 0 |
 | 5 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
-| 6 | [#4012](https://github.com/Azure/sdk-release-request/issues/4012) | schaudhari6254888 | azure-mgmt-eventhub | Wzb123456789 | close to release date.  | 04-04 | 04-15 | 1 |
+| 6 | [#4012](https://github.com/Azure/sdk-release-request/issues/4012) | schaudhari6254888 | azure-mgmt-eventhub | Wzb123456789 | close to release date.  | 04-04 | 04-14 | 0 |
 | 7 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 |  | 03-31 | 04-28 |  |
 | 8 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 |  | 03-27 | 04-28 |  |
 | 9 | [#3989](https://github.com/Azure/sdk-release-request/issues/3989) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 03-23 | 04-28 |  |
 | 10 | [#3980](https://github.com/Azure/sdk-release-request/issues/3980) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 03-23 | 04-28 |  |
 | 11 | [#3975](https://github.com/Azure/sdk-release-request/issues/3975) | firstaye-zz | azure-mgmt-iothub | Wzb123456789 |  | 03-22 | 04-28 |  |
-| 12 | [#3969](https://github.com/Azure/sdk-release-request/issues/3969) | allison-inman | azure-mgmt-quota | Wzb123456789 | new comment. | 03-22 | 04-28 |  |
+| 12 | [#3969](https://github.com/Azure/sdk-release-request/issues/3969) | allison-inman | azure-mgmt-quota | Wzb123456789 |  | 03-22 | 04-28 |  |
 | 13 | [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 | FirstGA | 03-21 | 04-28 |  |
 | 14 | [#3953](https://github.com/Azure/sdk-release-request/issues/3953) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 03-21 | 04-28 |  |
 | 15 | [#3948](https://github.com/Azure/sdk-release-request/issues/3948) | Descatles | azure-mgmt-appplatform | Wzb123456789 |  | 03-17 | 04-28 |  |
