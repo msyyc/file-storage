@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4038](https://github.com/Azure/sdk-release-request/issues/4038) | FumingZhang |  | Wzb123456789 | duplicated issue  <br> new issue. | 04-13 | 04-28 |  |
+| 1 | [#4038](https://github.com/Azure/sdk-release-request/issues/4038) | FumingZhang |  | Wzb123456789 | duplicated issue  <br> | 04-13 | 04-28 |  |
 | 2 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 |  | 04-12 | 04-28 |  |
 | 3 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
 | 4 | [#4026](https://github.com/Azure/sdk-release-request/issues/4026) | kerend |  | Wzb123456789 | duplicated issue  <br> | 04-10 | 04-28 |  |
