@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,msyyc,Wzb123456789,2023-03-31,2023-04-13,https://github.com/Azure/sdk-release-request/issues/4005,29.2.0b2,
 azure-mgmt-sql,paramsiva1,Wzb123456789,2023-03-28,2023-04-11,https://github.com/Azure/sdk-release-request/issues/4002,4.0.0b10,
 azure-mgmt-communication,kagbakpem,Wzb123456789,2023-03-26,2023-04-04,https://github.com/Azure/sdk-release-request/issues/3995,2.0.0,True
 azure-mgmt-keyvault,msyyc,Wzb123456789,2023-03-30,2023-04-04,https://github.com/Azure/sdk-release-request/issues/4003,10.2.1,True
