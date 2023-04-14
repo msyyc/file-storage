@@ -6,7 +6,6 @@
 | 4 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
 | 5 | [#4021](https://github.com/Azure/sdk-release-request/issues/4021) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | close to release date.  FirstBeta | 04-06 | 04-14 | 0 |
 | 6 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
-| 7 | [#4012](https://github.com/Azure/sdk-release-request/issues/4012) | schaudhari6254888 | azure-mgmt-eventhub | Wzb123456789 | close to release date.  | 04-04 | 04-14 | 0 |
 | 8 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 03-31 | 04-28 |  |
 | 9 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 |  | 03-27 | 04-28 |  |
 | 10 | [#3989](https://github.com/Azure/sdk-release-request/issues/3989) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 03-23 | 04-28 |  |
