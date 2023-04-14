@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-qumulo,nikhgup,Wzb123456789,2023-04-06,2023-04-14,https://github.com/Azure/sdk-release-request/issues/4021,1.0.0b1,
 azure-mgmt-eventhub,schaudhari6254888,Wzb123456789,2023-04-04,2023-04-14,https://github.com/Azure/sdk-release-request/issues/4012,11.0.0,True
 azure-mgmt-compute,msyyc,Wzb123456789,2023-03-31,2023-04-13,https://github.com/Azure/sdk-release-request/issues/4005,29.2.0b2,
 azure-mgmt-sql,paramsiva1,Wzb123456789,2023-03-28,2023-04-11,https://github.com/Azure/sdk-release-request/issues/4002,4.0.0b10,
