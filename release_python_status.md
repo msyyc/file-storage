@@ -4,7 +4,7 @@
 | 2 | [#4042](https://github.com/Azure/sdk-release-request/issues/4042) | fnuarnav | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 04-13 | 04-28 |  |
 | 3 | [#4038](https://github.com/Azure/sdk-release-request/issues/4038) | FumingZhang |  | Wzb123456789 |  | 04-13 | 04-28 |  |
 | 4 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 |  | 04-12 | 04-28 |  |
-| 5 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
+| 5 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> new comment. | 04-11 | 04-28 |  |
 | 6 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
 | 7 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 03-31 | 04-28 |  |
 | 8 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 |  | 03-27 | 04-28 |  |
@@ -20,5 +20,5 @@
 | 18 | [#3926](https://github.com/Azure/sdk-release-request/issues/3926) | AllyW | azure-mgmt-applicationinsights | Wzb123456789 |  | 03-13 | 04-28 |  |
 | 19 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 | FirstBeta | 03-10 | 04-28 |  |
 | 20 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 |  | 03-10 | 04-28 |  |
-| 21 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 04-28 |  |
+| 21 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 | new comment. | 03-06 | 04-28 |  |
 | 22 | [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | FirstGA | 03-02 | 04-28 |  |
