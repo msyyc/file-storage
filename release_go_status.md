@@ -6,7 +6,7 @@
 | 4 | [#4040](https://github.com/Azure/sdk-release-request/issues/4040) | FumingZhang |  | Alancere | new issue. | 04-13 | 04-28 |  |
 | 5 | [#4039](https://github.com/Azure/sdk-release-request/issues/4039) | FumingZhang |  | Alancere | new issue. | 04-13 | 04-28 |  |
 | 6 | [#4033](https://github.com/Azure/sdk-release-request/issues/4033) | BharathaAravind |  | Alancere | new comment. | 04-12 | 04-28 |  |
-| 7 | [#4028](https://github.com/Azure/sdk-release-request/issues/4028) | carjackson-msft |  | Alancere | new comment. | 04-11 | 04-28 |  |
+| 7 | [#4028](https://github.com/Azure/sdk-release-request/issues/4028) | carjackson-msft |  | Alancere |  | 04-11 | 04-28 |  |
 | 8 | [#4024](https://github.com/Azure/sdk-release-request/issues/4024) | kerend |  | Alancere |  | 04-10 | 04-28 |  |
 | 9 | [#4020](https://github.com/Azure/sdk-release-request/issues/4020) | nikhgup |  | Alancere |  | 04-06 | 04-28 |  |
 | 10 | [#4018](https://github.com/Azure/sdk-release-request/issues/4018) | GalGoldi72 |  | Alancere |  | 04-04 | 04-28 |  |

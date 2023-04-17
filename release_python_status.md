@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | Attention to inconsistent tag | 04-17 | 05-26 |  |
+| 1 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | Attention to inconsistent tag new version is 0.0.0, please check base branch! | 04-17 | 05-26 |  |
 | 2 | [#4049](https://github.com/Azure/sdk-release-request/issues/4049) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 04-14 | 04-28 |  |
 | 3 | [#4042](https://github.com/Azure/sdk-release-request/issues/4042) | fnuarnav | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 04-13 | 04-28 |  |
 | 4 | [#4038](https://github.com/Azure/sdk-release-request/issues/4038) | FumingZhang |  | Wzb123456789 |  | 04-13 | 04-28 |  |
