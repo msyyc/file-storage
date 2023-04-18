@@ -1,6 +1,5 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4054](https://github.com/Azure/sdk-release-request/issues/4054) | xiaoxuqi-ms | azure-mgmt-rdbms | Wzb123456789 | duplicated issue  <br> | 04-17 | 05-26 |  |
 | 2 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 |  | 04-17 | 05-26 |  |
 | 3 | [#4049](https://github.com/Azure/sdk-release-request/issues/4049) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 04-14 | 04-28 |  |
 | 4 | [#4042](https://github.com/Azure/sdk-release-request/issues/4042) | fnuarnav | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 04-13 | 04-28 |  |
@@ -9,7 +8,6 @@
 | 7 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
 | 8 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
 | 9 | [#4008](https://github.com/Azure/sdk-release-request/issues/4008) | MicroJamesLim | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 03-31 | 04-28 |  |
-| 10 | [#4000](https://github.com/Azure/sdk-release-request/issues/4000) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | duplicated issue  <br> | 03-27 | 04-28 |  |
 | 11 | [#3980](https://github.com/Azure/sdk-release-request/issues/3980) | ashwinisingh01 | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 03-23 | 04-28 |  |
 | 12 | [#3975](https://github.com/Azure/sdk-release-request/issues/3975) | firstaye-zz | azure-mgmt-iothub | Wzb123456789 |  | 03-22 | 04-28 |  |
 | 13 | [#3969](https://github.com/Azure/sdk-release-request/issues/3969) | allison-inman | azure-mgmt-quota | Wzb123456789 |  | 03-22 | 04-28 |  |
