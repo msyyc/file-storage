@@ -26,4 +26,4 @@
 | 24 | [#3945](https://github.com/Azure/sdk-release-request/issues/3945) | Descatles |  | Alancere |  | 03-17 | 04-28 |  |
 | 25 | [#3929](https://github.com/Azure/sdk-release-request/issues/3929) | zdelacerda-microsoft |  | Alancere |  | 03-15 | 04-28 |  |
 | 26 | [#3923](https://github.com/Azure/sdk-release-request/issues/3923) | Vibhuti-Sharma-Microsoft |  | Alancere | new comment. | 03-10 | 04-28 |  |
-| 27 | [#3856](https://github.com/Azure/sdk-release-request/issues/3856) | gargankit-microsoft |  | Alancere | new comment. | 03-02 | 04-21 |  |
+| 27 | [#3856](https://github.com/Azure/sdk-release-request/issues/3856) | gargankit-microsoft |  | Alancere | new comment. close to release date.  | 03-02 | 04-21 | 2 |
