@@ -9,9 +9,8 @@
 | 7 | [#3998](https://github.com/Azure/sdk-release-request/issues/3998) | ambrahma |  | XiaofeiCao |  | 03-27 | 04-28 |  |
 | 8 | [#3991](https://github.com/Azure/sdk-release-request/issues/3991) | achocron |  | XiaofeiCao | new issue. | 03-24 | 04-28 |  |
 | 9 | [#3983](https://github.com/Azure/sdk-release-request/issues/3983) | josefree |  | XiaofeiCao | Attention to inconsistent tag | 03-23 | 04-28 |  |
-| 10 | [#3974](https://github.com/Azure/sdk-release-request/issues/3974) | firstaye-zz |  | hongli750210 |  | 03-22 |  | 0 |
-| 11 | [#3972](https://github.com/Azure/sdk-release-request/issues/3972) | albertofori |  | XiaofeiCao | new issue. | 03-22 | 04-28 |  |
-| 12 | [#3956](https://github.com/Azure/sdk-release-request/issues/3956) | aditimalladi |  | XiaofeiCao |  | 03-21 | 04-28 |  |
-| 13 | [#3924](https://github.com/Azure/sdk-release-request/issues/3924) | Vibhuti-Sharma-Microsoft |  | haolingdong-msft |  | 03-10 | 04-28 |  |
-| 14 | [#3765](https://github.com/Azure/sdk-release-request/issues/3765) | jamlai |  | XiaofeiCao |  | 02-10 | 03-24 |  |
-| 15 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao | new comment. | 01-24 | 02-24 |  |
+| 10 | [#3972](https://github.com/Azure/sdk-release-request/issues/3972) | albertofori |  | XiaofeiCao | new issue. | 03-22 | 04-28 |  |
+| 11 | [#3956](https://github.com/Azure/sdk-release-request/issues/3956) | aditimalladi |  | XiaofeiCao |  | 03-21 | 04-28 |  |
+| 12 | [#3924](https://github.com/Azure/sdk-release-request/issues/3924) | Vibhuti-Sharma-Microsoft |  | haolingdong-msft |  | 03-10 | 04-28 |  |
+| 13 | [#3765](https://github.com/Azure/sdk-release-request/issues/3765) | jamlai |  | XiaofeiCao |  | 02-10 | 03-24 |  |
+| 14 | [#3692](https://github.com/Azure/sdk-release-request/issues/3692) | mayankagg9722 |  | XiaofeiCao | new comment. | 01-24 | 02-24 |  |
