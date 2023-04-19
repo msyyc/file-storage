@@ -41,4 +41,3 @@
 | 39 | 'Release for Container Service - 2023-02-01'  |  | [#3962](https://github.com/Azure/sdk-release-request/issues/3962)  |  | [#3963](https://github.com/Azure/sdk-release-request/issues/3963)  | 03-22 | 04-28 |  |
 | 40 | GA for VoiceServices  |  |  |  | [#4011](https://github.com/Azure/sdk-release-request/issues/4011)  | 04-04 |  |  |
 | 41 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
-| 42 | 'Release for Azure Spring Apps 2023-03-01-preview'  |  |  |  | [#3985](https://github.com/Azure/sdk-release-request/issues/3985)  | 03-23 | 04-28 |  |

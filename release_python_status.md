@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4062](https://github.com/Azure/sdk-release-request/issues/4062) | gauravkumar1491 | azure-mgmt-resource | Wzb123456789 | Attention to inconsistent tag MultiAPI | 04-18 | 05-26 |  |
+| 1 | [#4062](https://github.com/Azure/sdk-release-request/issues/4062) | gauravkumar1491 | azure-mgmt-resource | Wzb123456789 | new issue. MultiAPI | 04-18 | 05-26 |  |
 | 2 | [#4058](https://github.com/Azure/sdk-release-request/issues/4058) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 | new issue. new comment. MultiAPI | 04-18 | 05-26 |  |
 | 3 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 |  | 04-17 | 05-26 |  |
 | 4 | [#4049](https://github.com/Azure/sdk-release-request/issues/4049) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 04-14 | 04-28 |  |
