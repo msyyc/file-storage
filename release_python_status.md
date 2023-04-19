@@ -20,7 +20,7 @@
 | 18 | [#3939](https://github.com/Azure/sdk-release-request/issues/3939) | revanthballa1188 | azure-mgmt-redisenterprise | Wzb123456789 |  | 03-16 | 04-28 |  |
 | 19 | [#3928](https://github.com/Azure/sdk-release-request/issues/3928) | zdelacerda-microsoft | azure-mgmt-imagebuilder | Wzb123456789 |  | 03-15 | 04-28 |  |
 | 20 | [#3926](https://github.com/Azure/sdk-release-request/issues/3926) | AllyW | azure-mgmt-applicationinsights | Wzb123456789 |  | 03-13 | 04-28 |  |
-| 21 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 | new comment. FirstBeta | 03-10 | 05-04 |  |
+| 21 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 | FirstBeta | 03-10 | 05-04 |  |
 | 22 | [#3916](https://github.com/Azure/sdk-release-request/issues/3916) | naveedaz | azure-mgmt-web | Wzb123456789 |  | 03-10 | 04-28 |  |
 | 23 | [#3887](https://github.com/Azure/sdk-release-request/issues/3887) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 03-06 | 04-28 |  |
 | 24 | [#3857](https://github.com/Azure/sdk-release-request/issues/3857) | gargankit-microsoft | azure-mgmt-workloads | Wzb123456789 | FirstGA | 03-02 | 04-28 |  |
