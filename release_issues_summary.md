@@ -20,7 +20,7 @@
 | 18 | 'Release for Redis Enterprise 2023-03-01-preview'  | [#3939](https://github.com/Azure/sdk-release-request/issues/3939)  |  |  | [#3937](https://github.com/Azure/sdk-release-request/issues/3937)  | 03-16 | 04-28 |  |
 | 19 | 'Release for Azure VM Image Builder - 2022-07-01'  | [#3928](https://github.com/Azure/sdk-release-request/issues/3928)  | [#3929](https://github.com/Azure/sdk-release-request/issues/3929)  |  | [#3930](https://github.com/Azure/sdk-release-request/issues/3930)  | 03-15 | 04-28 |  |
 | 20 | 'Release for Microsoft.Insights Webtest of 2022-06-15'  | [#3926](https://github.com/Azure/sdk-release-request/issues/3926)  |  |  |  | 03-13 | 04-28 |  |
-| 21 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 04-28 | Hold on by Go/ |
+| 21 | 'Release for PaloAltoNetworks - 2023-04'  | [#3922](https://github.com/Azure/sdk-release-request/issues/3922)  | [#3923](https://github.com/Azure/sdk-release-request/issues/3923)  | [#3924](https://github.com/Azure/sdk-release-request/issues/3924)  | [#3921](https://github.com/Azure/sdk-release-request/issues/3921)  | 03-10 | 05-04 | Hold on by Java/Go/ |
 | 22 | 'Release for App Service - 2022-09-01'  | [#3916](https://github.com/Azure/sdk-release-request/issues/3916)  |  |  |  | 03-10 | 04-28 |  |
 | 23 | 'Release for NetAppFiles 2022-09-01'  | [#3887](https://github.com/Azure/sdk-release-request/issues/3887)  |  |  |  | 03-06 | 04-28 |  |
 | 24 | 'ACSS, AMS 2.0 GA SDK for v2023-04-01 '  | [#3857](https://github.com/Azure/sdk-release-request/issues/3857)  | [#3856](https://github.com/Azure/sdk-release-request/issues/3856)  |  | [#3858](https://github.com/Azure/sdk-release-request/issues/3858)  | 03-02 | 04-28 |  |
@@ -35,10 +35,8 @@
 | 33 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 34 | 'Release for Container Service - 2023-03-02-preview'  |  | [#4040](https://github.com/Azure/sdk-release-request/issues/4040)  |  | [#4041](https://github.com/Azure/sdk-release-request/issues/4041)  | 04-13 | 04-28 |  |
 | 35 | 'Release for Microsoft.Security - Pricings & Security Operators'  |  | [#4024](https://github.com/Azure/sdk-release-request/issues/4024)  |  | [#4025](https://github.com/Azure/sdk-release-request/issues/4025)  | 04-10 | 04-28 |  |
-| 36 | 'Release for Azure.ResourceManager.Qumulo 2022-10-12'  |  | [#4020](https://github.com/Azure/sdk-release-request/issues/4020)  |  | [#4022](https://github.com/Azure/sdk-release-request/issues/4022)  | 04-06 | 04-28 |  |
-| 37 | 'Release for EventHub Api-Version=2022-10-01-preview''  |  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-28 |  |
-| 38 | 'Release for Confidential Ledger Preview version 1-26-2023'  |  | [#3986](https://github.com/Azure/sdk-release-request/issues/3986)  |  | [#3987](https://github.com/Azure/sdk-release-request/issues/3987)  | 03-23 | 04-28 |  |
-| 39 | 'Request for Container Service - 2023-02-02-preview'  |  | [#3965](https://github.com/Azure/sdk-release-request/issues/3965)  |  | [#3964](https://github.com/Azure/sdk-release-request/issues/3964)  | 03-22 | 04-28 |  |
-| 40 | 'Release for Container Service - 2023-02-01'  |  | [#3962](https://github.com/Azure/sdk-release-request/issues/3962)  |  | [#3963](https://github.com/Azure/sdk-release-request/issues/3963)  | 03-22 | 04-28 |  |
-| 41 | GA for VoiceServices  |  |  |  | [#4011](https://github.com/Azure/sdk-release-request/issues/4011)  | 04-04 |  |  |
-| 42 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
+| 36 | 'Release for EventHub Api-Version=2022-10-01-preview''  |  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-28 |  |
+| 37 | 'Release for Confidential Ledger Preview version 1-26-2023'  |  | [#3986](https://github.com/Azure/sdk-release-request/issues/3986)  |  | [#3987](https://github.com/Azure/sdk-release-request/issues/3987)  | 03-23 | 04-28 |  |
+| 38 | 'Release for Azure.ResourceManager.Qumulo 2022-10-12'  |  |  |  | [#4022](https://github.com/Azure/sdk-release-request/issues/4022)  | 04-06 | 04-28 |  |
+| 39 | GA for VoiceServices  |  |  |  | [#4011](https://github.com/Azure/sdk-release-request/issues/4011)  | 04-04 |  |  |
+| 40 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
