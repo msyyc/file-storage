@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4065](https://github.com/Azure/sdk-release-request/issues/4065) | gauravkumar1491 |  | haolingdong-msft | Attention to inconsistent tag | 04-18 | 05-26 |  |
-| 2 | [#4061](https://github.com/Azure/sdk-release-request/issues/4061) | grizzlytheodore |  | weidongxu-microsoft | new issue. new comment. | 04-18 | 05-26 |  |
+| 2 | [#4061](https://github.com/Azure/sdk-release-request/issues/4061) | grizzlytheodore |  | weidongxu-microsoft |  | 04-18 | 05-26 |  |
 | 3 | [#4055](https://github.com/Azure/sdk-release-request/issues/4055) | josefree |  | XiaofeiCao | new issue. | 04-18 | 05-26 |  |
 | 4 | [#4047](https://github.com/Azure/sdk-release-request/issues/4047) | musabbir |  | hongli750210 |  | 04-14 |  | 0 |
 | 5 | [#4044](https://github.com/Azure/sdk-release-request/issues/4044) | fnuarnav |  | weidongxu-microsoft |  | 04-13 | 04-28 |  |
