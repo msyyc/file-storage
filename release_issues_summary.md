@@ -38,5 +38,4 @@
 | 36 | 'Release for EventHub Api-Version=2022-10-01-preview''  |  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-28 |  |
 | 37 | 'Release for Confidential Ledger Preview version 1-26-2023'  |  | [#3986](https://github.com/Azure/sdk-release-request/issues/3986)  |  | [#3987](https://github.com/Azure/sdk-release-request/issues/3987)  | 03-23 | 04-28 |  |
 | 38 | 'Release for Azure.ResourceManager.Qumulo 2022-10-12'  |  |  |  | [#4022](https://github.com/Azure/sdk-release-request/issues/4022)  | 04-06 | 04-28 |  |
-| 39 | GA for VoiceServices  |  |  |  | [#4011](https://github.com/Azure/sdk-release-request/issues/4011)  | 04-04 | fail to get. |  |
-| 40 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
+| 39 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
