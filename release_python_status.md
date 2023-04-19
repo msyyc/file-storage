@@ -5,7 +5,7 @@
 | 3 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 |  | 04-17 | 05-26 |  |
 | 4 | [#4049](https://github.com/Azure/sdk-release-request/issues/4049) | musabbir | azure-mgmt-confidentialledger | Wzb123456789 |  | 04-14 | 04-28 |  |
 | 5 | [#4042](https://github.com/Azure/sdk-release-request/issues/4042) | fnuarnav | azure-mgmt-containerinstance | Wzb123456789 | duplicated issue  <br> | 04-13 | 04-28 |  |
-| 6 | [#4038](https://github.com/Azure/sdk-release-request/issues/4038) | FumingZhang |  | Wzb123456789 |  | 04-13 | 04-28 |  |
+| 6 | [#4038](https://github.com/Azure/sdk-release-request/issues/4038) | FumingZhang |  | Wzb123456789 | new comment. | 04-13 | 04-28 |  |
 | 7 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 |  | 04-12 | 04-28 |  |
 | 8 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 | duplicated issue  <br> | 04-11 | 04-28 |  |
 | 9 | [#4016](https://github.com/Azure/sdk-release-request/issues/4016) | GalGoldi72 | azure-mgmt-security | Wzb123456789 |  | 04-04 | 04-28 |  |
