@@ -1,4 +1,10 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-netapp,audunn,Wzb123456789,2023-03-06,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3887,10.0.0,True
+azure-mgmt-web,naveedaz,Wzb123456789,2023-03-10,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3916,7.1.0,True
+azure-mgmt-redisenterprise,revanthballa1188,Wzb123456789,2023-03-16,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3939,2.1.0b2,
+azure-mgmt-apimanagement,Anand0046,Wzb123456789,2023-03-16,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3940,4.0.0,True
+azure-mgmt-appplatform,Descatles,Wzb123456789,2023-03-17,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3948,8.0.0,True
+azure-mgmt-elastic,utkarshjain1508,Wzb123456789,2023-03-21,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3953,1.1.0b2,
 azure-mgmt-workloads,gargankit-microsoft,Wzb123456789,2023-03-02,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3857,1.0.0,True
 azure-mgmt-rdbms,ambrahma,Wzb123456789,2023-03-27,2023-04-18,https://github.com/Azure/sdk-release-request/issues/4000,10.2.0b7,
 azure-mgmt-rdbms,xiaoxuqi-ms,Wzb123456789,2023-04-17,2023-04-18,https://github.com/Azure/sdk-release-request/issues/4054,10.2.0b7,

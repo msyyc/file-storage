@@ -13,7 +13,7 @@
 | 11 | [#3988](https://github.com/Azure/sdk-release-request/issues/3988) | musabbir |  | weidongxu-microsoft |  | 03-23 | 04-28 |  |
 | 12 | [#3983](https://github.com/Azure/sdk-release-request/issues/3983) | josefree |  | XiaofeiCao | Attention to inconsistent tag | 03-23 | 04-28 |  |
 | 13 | [#3972](https://github.com/Azure/sdk-release-request/issues/3972) | albertofori |  | XiaofeiCao |  | 03-22 | 04-28 |  |
-| 14 | [#3956](https://github.com/Azure/sdk-release-request/issues/3956) | aditimalladi |  | XiaofeiCao |  | 03-21 | 04-28 |  |
+| 14 | [#3956](https://github.com/Azure/sdk-release-request/issues/3956) | aditimalladi |  | XiaofeiCao | new comment. | 03-21 | 04-28 |  |
 | 15 | [#3924](https://github.com/Azure/sdk-release-request/issues/3924) | Vibhuti-Sharma-Microsoft |  | haolingdong-msft | new comment. | 03-10 | 05-04 |  |
 | 16 | [#3805](https://github.com/Azure/sdk-release-request/issues/3805) | sebastianrex |  | weidongxu-microsoft |  | 02-15 | 03-24 |  |
 | 17 | [#3765](https://github.com/Azure/sdk-release-request/issues/3765) | jamlai |  | XiaofeiCao |  | 02-10 | 03-24 |  |
