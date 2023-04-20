@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-workloads,gargankit-microsoft,Wzb123456789,2023-03-02,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3857,1.0.0,True
 azure-mgmt-rdbms,ambrahma,Wzb123456789,2023-03-27,2023-04-18,https://github.com/Azure/sdk-release-request/issues/4000,10.2.0b7,
 azure-mgmt-rdbms,xiaoxuqi-ms,Wzb123456789,2023-04-17,2023-04-18,https://github.com/Azure/sdk-release-request/issues/4054,10.2.0b7,
 azure-mgmt-qumulo,nikhgup,Wzb123456789,2023-04-06,2023-04-14,https://github.com/Azure/sdk-release-request/issues/4021,1.0.0b1,
