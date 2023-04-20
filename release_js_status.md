@@ -5,10 +5,10 @@
 | 3 | [#4056](https://github.com/Azure/sdk-release-request/issues/4056) | josefree |  | MaryGao | new issue. | 04-18 | 05-26 |  |
 | 4 | [#4053](https://github.com/Azure/sdk-release-request/issues/4053) | vipray-ms |  | MaryGao | Attention to inconsistent tag | 04-17 | 05-26 |  |
 | 5 | [#4048](https://github.com/Azure/sdk-release-request/issues/4048) | musabbir |  | qiaozha |  | 04-14 | 04-28 |  |
-| 6 | [#4045](https://github.com/Azure/sdk-release-request/issues/4045) | fnuarnav |  | qiaozha |  | 04-13 | 04-28 |  |
+| 6 | [#4045](https://github.com/Azure/sdk-release-request/issues/4045) | fnuarnav |  | qiaozha | new comment. | 04-13 | 04-28 |  |
 | 7 | [#4041](https://github.com/Azure/sdk-release-request/issues/4041) | FumingZhang |  | qiaozha | new comment. | 04-13 | 04-28 |  |
 | 8 | [#4037](https://github.com/Azure/sdk-release-request/issues/4037) | FumingZhang |  | qiaozha | new issue. | 04-13 | 04-28 |  |
-| 9 | [#4034](https://github.com/Azure/sdk-release-request/issues/4034) | BharathaAravind |  | qiaozha | new comment. | 04-12 | 04-28 |  |
+| 9 | [#4034](https://github.com/Azure/sdk-release-request/issues/4034) | BharathaAravind |  | qiaozha |  | 04-12 | 04-28 |  |
 | 10 | [#4029](https://github.com/Azure/sdk-release-request/issues/4029) | carjackson-msft |  | MaryGao | new comment. | 04-11 | 04-28 |  |
 | 11 | [#4025](https://github.com/Azure/sdk-release-request/issues/4025) | kerend |  | MaryGao | new comment. | 04-10 | 04-28 |  |
 | 12 | [#4022](https://github.com/Azure/sdk-release-request/issues/4022) | nikhgup |  | qiaozha |  | 04-06 | 04-28 |  |

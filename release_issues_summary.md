@@ -31,11 +31,12 @@
 | 29 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 |  |
 | 30 | 'Release for Keyvault - 2023-02'  |  | [#3984](https://github.com/Azure/sdk-release-request/issues/3984)  | [#3983](https://github.com/Azure/sdk-release-request/issues/3983)  | [#3982](https://github.com/Azure/sdk-release-request/issues/3982)  | 03-23 | 04-28 |  |
 | 31 | 'GA release for Azure App Configuration Geo-Replication'  |  | [#3973](https://github.com/Azure/sdk-release-request/issues/3973)  | [#3972](https://github.com/Azure/sdk-release-request/issues/3972)  | [#3971](https://github.com/Azure/sdk-release-request/issues/3971)  | 03-22 | 04-28 |  |
-| 32 | 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
-| 33 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 34 | 'Release for Container Service - 2023-03-02-preview'  |  | [#4040](https://github.com/Azure/sdk-release-request/issues/4040)  |  | [#4041](https://github.com/Azure/sdk-release-request/issues/4041)  | 04-13 | 04-28 |  |
-| 35 | 'Release for Microsoft.Security - Pricings & Security Operators'  |  | [#4024](https://github.com/Azure/sdk-release-request/issues/4024)  |  | [#4025](https://github.com/Azure/sdk-release-request/issues/4025)  | 04-10 | 04-28 |  |
-| 36 | 'Release for EventHub Api-Version=2022-10-01-preview''  |  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-28 |  |
-| 37 | 'Release for Confidential Ledger Preview version 1-26-2023'  |  | [#3986](https://github.com/Azure/sdk-release-request/issues/3986)  |  | [#3987](https://github.com/Azure/sdk-release-request/issues/3987)  | 03-23 | 04-28 |  |
-| 38 | 'Release for Azure.ResourceManager.Qumulo 2022-10-12'  |  |  |  | [#4022](https://github.com/Azure/sdk-release-request/issues/4022)  | 04-06 | 04-28 |  |
-| 39 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
+| 32 | 'Release for VoiceServices - 2023-01-31'  |  |  | [#3805](https://github.com/Azure/sdk-release-request/issues/3805)  |  | 02-15 | 03-24 |  |
+| 33 | 'Create initial SDKs for microsoft.monitor/accounts'  |  |  | [#3765](https://github.com/Azure/sdk-release-request/issues/3765)  |  | 02-10 | 03-24 |  |
+| 34 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
+| 35 | 'Release for Container Service - 2023-03-02-preview'  |  | [#4040](https://github.com/Azure/sdk-release-request/issues/4040)  |  | [#4041](https://github.com/Azure/sdk-release-request/issues/4041)  | 04-13 | 04-28 |  |
+| 36 | 'Release for Microsoft.Security - Pricings & Security Operators'  |  | [#4024](https://github.com/Azure/sdk-release-request/issues/4024)  |  | [#4025](https://github.com/Azure/sdk-release-request/issues/4025)  | 04-10 | 04-28 |  |
+| 37 | 'Release for EventHub Api-Version=2022-10-01-preview''  |  | [#4015](https://github.com/Azure/sdk-release-request/issues/4015)  |  | [#4013](https://github.com/Azure/sdk-release-request/issues/4013)  | 04-04 | 04-28 |  |
+| 38 | 'Release for Confidential Ledger Preview version 1-26-2023'  |  | [#3986](https://github.com/Azure/sdk-release-request/issues/3986)  |  | [#3987](https://github.com/Azure/sdk-release-request/issues/3987)  | 03-23 | 04-28 |  |
+| 39 | 'Release for Azure.ResourceManager.Qumulo 2022-10-12'  |  |  |  | [#4022](https://github.com/Azure/sdk-release-request/issues/4022)  | 04-06 | 04-28 |  |
+| 40 | 'Release For Azure Communication Services Email 2023-03-31'  |  |  |  | [#3996](https://github.com/Azure/sdk-release-request/issues/3996)  | 03-26 | 04-28 |  |
