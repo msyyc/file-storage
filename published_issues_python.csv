@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-applicationinsights,AllyW,Wzb123456789,2023-03-13,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3926,4.0.0,True
+azure-mgmt-imagebuilder,zdelacerda-microsoft,Wzb123456789,2023-03-15,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3928,1.2.0,True
 azure-mgmt-iothub,firstaye-zz,Wzb123456789,2023-03-22,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3975,2.4.0,True
 azure-mgmt-cosmosdb,ashwinisingh01,Wzb123456789,2023-03-23,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3980,9.1.0b2,
 azure-mgmt-containerinstance,MicroJamesLim,Wzb123456789,2023-03-31,2023-04-20,https://github.com/Azure/sdk-release-request/issues/4008,10.1.0b2,

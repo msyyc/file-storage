@@ -10,6 +10,4 @@
 | 8 | [#4031](https://github.com/Azure/sdk-release-request/issues/4031) | carjackson-msft | azure-mgmt-cosmosdb | Wzb123456789 |  | 04-11 | 04-28 |  |
 | 9 | [#3969](https://github.com/Azure/sdk-release-request/issues/3969) | allison-inman | azure-mgmt-quota | Wzb123456789 |  | 03-22 | 04-28 |  |
 | 10 | [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 | new comment. FirstGA | 03-21 | 04-28 |  |
-| 11 | [#3928](https://github.com/Azure/sdk-release-request/issues/3928) | zdelacerda-microsoft | azure-mgmt-imagebuilder | Wzb123456789 |  | 03-15 | 04-28 |  |
-| 12 | [#3926](https://github.com/Azure/sdk-release-request/issues/3926) | AllyW | azure-mgmt-applicationinsights | Wzb123456789 |  | 03-13 | 04-28 |  |
 | 13 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 | FirstBeta | 03-10 | 05-04 |  |
