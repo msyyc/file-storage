@@ -1,4 +1,9 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-iothub,firstaye-zz,Wzb123456789,2023-03-22,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3975,2.4.0,True
+azure-mgmt-cosmosdb,ashwinisingh01,Wzb123456789,2023-03-23,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3980,9.1.0b2,
+azure-mgmt-containerinstance,MicroJamesLim,Wzb123456789,2023-03-31,2023-04-20,https://github.com/Azure/sdk-release-request/issues/4008,10.1.0b2,
+azure-mgmt-security,GalGoldi72,Wzb123456789,2023-04-04,2023-04-20,https://github.com/Azure/sdk-release-request/issues/4016,5.0.0,True
+azure-mgmt-confidentialledger,musabbir,Wzb123456789,2023-04-14,2023-04-20,https://github.com/Azure/sdk-release-request/issues/4049,2.0.0b2,
 azure-mgmt-netapp,audunn,Wzb123456789,2023-03-06,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3887,10.0.0,True
 azure-mgmt-web,naveedaz,Wzb123456789,2023-03-10,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3916,7.1.0,True
 azure-mgmt-redisenterprise,revanthballa1188,Wzb123456789,2023-03-16,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3939,2.1.0b2,
