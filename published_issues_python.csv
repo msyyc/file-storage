@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-quota,allison-inman,Wzb123456789,2023-03-22,2023-04-21,https://github.com/Azure/sdk-release-request/issues/3969,1.0.0,True
+azure-mgmt-cosmosdb,carjackson-msft,Wzb123456789,2023-04-11,2023-04-21,https://github.com/Azure/sdk-release-request/issues/4031,9.1.0,True
+azure-mgmt-containerinstance,fnuarnav,Wzb123456789,2023-04-13,2023-04-21,https://github.com/Azure/sdk-release-request/issues/4042,10.1.0,True
 azure-mgmt-applicationinsights,AllyW,Wzb123456789,2023-03-13,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3926,4.0.0,True
 azure-mgmt-imagebuilder,zdelacerda-microsoft,Wzb123456789,2023-03-15,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3928,1.2.0,True
 azure-mgmt-iothub,firstaye-zz,Wzb123456789,2023-03-22,2023-04-20,https://github.com/Azure/sdk-release-request/issues/3975,2.4.0,True
