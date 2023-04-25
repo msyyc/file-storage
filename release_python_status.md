@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4079](https://github.com/Azure/sdk-release-request/issues/4079) | gauravkumar1491 | azure-mgmt-resource | Wzb123456789 | new issue. MultiAPI | 04-24 | 05-26 |  |
+| 1 | [#4079](https://github.com/Azure/sdk-release-request/issues/4079) | gauravkumar1491 | azure-mgmt-resource | Wzb123456789 |  | 04-24 | 05-26 |  |
 | 2 | [#4077](https://github.com/Azure/sdk-release-request/issues/4077) | t-bzhan | azure-mgmt-frontdoor | Wzb123456789 |  | 04-23 | 05-26 |  |
 | 3 | [#4074](https://github.com/Azure/sdk-release-request/issues/4074) | mbashtovaya | azure-mgmt-networkcloud | Wzb123456789 |  | 04-21 | 05-26 |  |
 | 4 | [#4068](https://github.com/Azure/sdk-release-request/issues/4068) | sfiguemsft | azure-mgmt-privatedns | Wzb123456789 |  | 04-20 | 05-26 |  |
