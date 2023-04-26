@@ -10,5 +10,4 @@
 | 8 | [#4058](https://github.com/Azure/sdk-release-request/issues/4058) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 |  | 04-18 | 05-26 |  |
 | 9 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | FirstGA | 04-17 | 05-26 |  |
 | 10 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 | HoldOn | 04-12 | 05-26 |  |
-| 11 | [#3957](https://github.com/Azure/sdk-release-request/issues/3957) | aditimalladi | azure-mgmt-resourceconnector | Wzb123456789 | close to release date.  | 03-21 | 04-28 | 1 |
 | 12 | [#3922](https://github.com/Azure/sdk-release-request/issues/3922) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworks | Wzb123456789 | FirstBeta | 03-10 | 05-04 |  |
