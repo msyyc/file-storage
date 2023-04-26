@@ -34,4 +34,4 @@
 | 32 | [#3937](https://github.com/Azure/sdk-release-request/issues/3937) | revanthballa1188 |  | MaryGao | close to release date.  | 03-16 | 04-28 | 1 |
 | 33 | [#3930](https://github.com/Azure/sdk-release-request/issues/3930) | zdelacerda-microsoft |  | MaryGao | close to release date.  | 03-15 | 04-28 | 1 |
 | 34 | [#3921](https://github.com/Azure/sdk-release-request/issues/3921) | Vibhuti-Sharma-Microsoft |  | qiaozha | new comment. | 03-10 | 05-04 |  |
-| 35 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao |  | 03-02 | 03-24 |  |
+| 35 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | new comment. | 03-02 | 03-24 |  |
