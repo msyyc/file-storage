@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4099](https://github.com/Azure/sdk-release-request/issues/4099) | prathod09 | azure-mgmt-confidentialledger | Wzb123456789 | new version is 0.0.0, please check base branch! | 04-26 | 05-26 |  |
-| 2 | [#4097](https://github.com/Azure/sdk-release-request/issues/4097) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | new version is 0.0.0, please check base branch! | 04-26 | 05-26 |  |
+| 2 | [#4097](https://github.com/Azure/sdk-release-request/issues/4097) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | FirstGA | 04-26 | 05-26 |  |
 | 3 | [#4089](https://github.com/Azure/sdk-release-request/issues/4089) | pednekarpraj | azure-mgmt-costmanagement | Wzb123456789 |  | 04-25 | 05-26 |  |
 | 4 | [#4085](https://github.com/Azure/sdk-release-request/issues/4085) | sebastianrex | azure-mgmt-voiceservices | Wzb123456789 | FirstGA | 04-25 | 05-26 |  |
 | 5 | [#4079](https://github.com/Azure/sdk-release-request/issues/4079) | gauravkumar1491 | azure-mgmt-resource | Wzb123456789 |  | 04-24 | 05-26 |  |
