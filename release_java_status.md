@@ -9,7 +9,7 @@
 | 7 | [#4071](https://github.com/Azure/sdk-release-request/issues/4071) | mbashtovaya |  | XiaofeiCao | new issue. | 04-21 | 05-26 |  |
 | 8 | [#4070](https://github.com/Azure/sdk-release-request/issues/4070) | sfiguemsft |  | haolingdong-msft | new issue. | 04-20 | 05-26 |  |
 | 9 | [#4055](https://github.com/Azure/sdk-release-request/issues/4055) | josefree |  | XiaofeiCao | new issue. | 04-18 | 05-26 |  |
-| 10 | [#4035](https://github.com/Azure/sdk-release-request/issues/4035) | BharathaAravind |  | haolingdong-msft | new comment. close to release date.  | 04-12 | 04-28 | 0 |
+| 10 | [#4035](https://github.com/Azure/sdk-release-request/issues/4035) | BharathaAravind |  | haolingdong-msft | close to release date.  | 04-12 | 04-28 | 0 |
 | 11 | [#3998](https://github.com/Azure/sdk-release-request/issues/3998) | ambrahma |  | XiaofeiCao | close to release date.  | 03-27 | 04-28 | 0 |
 | 12 | [#3991](https://github.com/Azure/sdk-release-request/issues/3991) | achocron |  | XiaofeiCao | close to release date.  | 03-24 | 04-28 | 0 |
 | 13 | [#3972](https://github.com/Azure/sdk-release-request/issues/3972) | albertofori |  | XiaofeiCao | close to release date.  | 03-22 | 04-28 | 0 |
