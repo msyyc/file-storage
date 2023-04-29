@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4110](https://github.com/Azure/sdk-release-request/issues/4110) | vinhms | azure-mgmt-cosmosdb | Wzb123456789 | new issue. | 04-28 | 05-26 |  |
+| 1 | [#4110](https://github.com/Azure/sdk-release-request/issues/4110) | vinhms | azure-mgmt-cosmosdb | Wzb123456789 |  | 04-28 | 05-26 |  |
 | 2 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 | new issue. MultiAPI | 04-28 | 05-26 |  |
 | 3 | [#4104](https://github.com/Azure/sdk-release-request/issues/4104) | vaishnavi-janardhan | azure-mgmt-databox | Wzb123456789 |  | 04-27 | 05-26 |  |
 | 4 | [#4099](https://github.com/Azure/sdk-release-request/issues/4099) | prathod09 | azure-mgmt-confidentialledger | Wzb123456789 | new version is 0.0.0, please check base branch! | 04-26 | 05-26 |  |
