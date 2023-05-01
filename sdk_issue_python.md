@@ -7,7 +7,7 @@
 |5|[#29555](https://github.com/Azure/azure-sdk-for-python/issues/29555)|Redeploy VM via py sdk|question, Compute, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2023-03-23|
 |6|[#29306](https://github.com/Azure/azure-sdk-for-python/issues/29306)|pls provide some examples for create_or_update or get methods|question, Mgmt, customer-reported, no-recent-activity, needs-author-feedback, Purview|msyyc||2023-03-13|
 |7|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|new comment|2022-06-07|
-|8|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|scbedd, msyyc|new comment|2022-05-11|
+|8|[#24387](https://github.com/Azure/azure-sdk-for-python/issues/24387)|Broken links in Azure Resources libraries for Python|Docs, Mgmt|msyyc, scbedd|new comment|2022-05-11|
 |9|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
 |10|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
 |11|[#22464](https://github.com/Azure/azure-sdk-for-python/issues/22464)|[Article] Manage an Azure Data Lake Storage Gen1 account with Python|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
