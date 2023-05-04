@@ -13,7 +13,7 @@
 | 11 | [#4075](https://github.com/Azure/sdk-release-request/issues/4075) | t-bzhan |  | Alancere | new issue. | 04-23 | 05-26 |  |
 | 12 | [#4072](https://github.com/Azure/sdk-release-request/issues/4072) | mbashtovaya |  | Alancere | new issue. new comment. | 04-21 | 05-26 |  |
 | 13 | [#4069](https://github.com/Azure/sdk-release-request/issues/4069) | sfiguemsft |  | Alancere | new issue. | 04-20 | 05-26 |  |
-| 14 | [#4064](https://github.com/Azure/sdk-release-request/issues/4064) | gauravkumar1491 |  | Alancere | new comment. Attention to inconsistent tag | 04-18 | 05-26 |  |
+| 14 | [#4064](https://github.com/Azure/sdk-release-request/issues/4064) | gauravkumar1491 |  | Alancere | new comment. | 04-18 | 05-26 |  |
 | 15 | [#4059](https://github.com/Azure/sdk-release-request/issues/4059) | grizzlytheodore |  | Alancere | new issue. new comment. | 04-18 | 05-26 |  |
 | 16 | [#4057](https://github.com/Azure/sdk-release-request/issues/4057) | josefree |  | Alancere | new issue. | 04-18 | 05-26 |  |
 | 17 | [#4051](https://github.com/Azure/sdk-release-request/issues/4051) | vipray-ms |  | Alancere |  | 04-17 | 05-26 |  |
