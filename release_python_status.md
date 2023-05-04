@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4124](https://github.com/Azure/sdk-release-request/issues/4124) | hiaga | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 05-02 | 05-12 |  |
 | 2 | [#4123](https://github.com/Azure/sdk-release-request/issues/4123) | msyyc | azure-mgmt-monitor | Wzb123456789 |  | 05-02 | 05-26 |  |
-| 3 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 | new issue. MultiAPI | 05-01 | 05-26 |  |
+| 3 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 |  | 05-01 | 05-26 |  |
 | 4 | [#4110](https://github.com/Azure/sdk-release-request/issues/4110) | vinhms | azure-mgmt-cosmosdb | Wzb123456789 |  | 04-28 | 05-26 |  |
 | 5 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 |  | 04-28 | 05-26 |  |
 | 6 | [#4104](https://github.com/Azure/sdk-release-request/issues/4104) | vaishnavi-janardhan | azure-mgmt-databox | Wzb123456789 |  | 04-27 | 05-26 |  |
