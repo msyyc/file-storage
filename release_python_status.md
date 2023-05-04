@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4124](https://github.com/Azure/sdk-release-request/issues/4124) | hiaga | azure-mgmt-recoveryservicesbackup | Wzb123456789 | new issue. new comment. MultiAPI | 05-02 | 05-12 |  |
-| 2 | [#4123](https://github.com/Azure/sdk-release-request/issues/4123) | msyyc | azure-mgmt-monitor | Wzb123456789 | MultiAPI | 05-02 | 05-26 |  |
+| 1 | [#4124](https://github.com/Azure/sdk-release-request/issues/4124) | hiaga | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 05-02 | 05-12 |  |
+| 2 | [#4123](https://github.com/Azure/sdk-release-request/issues/4123) | msyyc | azure-mgmt-monitor | Wzb123456789 | new version is 0.0.0, please check base branch! | 05-02 | 05-26 |  |
 | 3 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 | new issue. MultiAPI | 05-01 | 05-26 |  |
 | 4 | [#4110](https://github.com/Azure/sdk-release-request/issues/4110) | vinhms | azure-mgmt-cosmosdb | Wzb123456789 |  | 04-28 | 05-26 |  |
 | 5 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 | new issue. MultiAPI | 04-28 | 05-26 |  |
