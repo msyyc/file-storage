@@ -32,7 +32,7 @@
 | 30 | [#3996](https://github.com/Azure/sdk-release-request/issues/3996) | kagbakpem |  | MaryGao | Attention to inconsistent tag | 03-26 | 04-28 |  |
 | 31 | [#3987](https://github.com/Azure/sdk-release-request/issues/3987) | musabbir |  | qiaozha |  | 03-23 | 04-28 |  |
 | 32 | [#3982](https://github.com/Azure/sdk-release-request/issues/3982) | josefree |  | MaryGao | Attention to inconsistent tag | 03-23 | 04-28 |  |
-| 33 | [#3978](https://github.com/Azure/sdk-release-request/issues/3978) | ashwinisingh01 |  | MaryGao |  | 03-23 | 04-28 |  |
+| 33 | [#3978](https://github.com/Azure/sdk-release-request/issues/3978) | ashwinisingh01 |  | MaryGao | new comment. | 03-23 | 04-28 |  |
 | 34 | [#3977](https://github.com/Azure/sdk-release-request/issues/3977) | firstaye-zz |  | MaryGao |  | 03-22 | 04-28 |  |
 | 35 | [#3971](https://github.com/Azure/sdk-release-request/issues/3971) | albertofori |  | MaryGao |  | 03-22 | 04-28 |  |
 | 36 | [#3968](https://github.com/Azure/sdk-release-request/issues/3968) | allison-inman |  | MaryGao |  | 03-22 | 04-28 |  |
@@ -40,5 +40,5 @@
 | 38 | [#3954](https://github.com/Azure/sdk-release-request/issues/3954) | utkarshjain1508 |  | qiaozha |  | 03-21 | 04-28 |  |
 | 39 | [#3937](https://github.com/Azure/sdk-release-request/issues/3937) | revanthballa1188 |  | MaryGao |  | 03-16 | 04-28 |  |
 | 40 | [#3930](https://github.com/Azure/sdk-release-request/issues/3930) | zdelacerda-microsoft |  | MaryGao |  | 03-15 | 04-28 |  |
-| 41 | [#3921](https://github.com/Azure/sdk-release-request/issues/3921) | Vibhuti-Sharma-Microsoft |  | qiaozha | close to release date.  | 03-10 | 05-04 | 0 |
+| 41 | [#3921](https://github.com/Azure/sdk-release-request/issues/3921) | Vibhuti-Sharma-Microsoft |  | qiaozha | close to release date.  | 03-10 | 05-04 | -1 |
 | 42 | [#3858](https://github.com/Azure/sdk-release-request/issues/3858) | gargankit-microsoft |  | MaryGao | new comment. | 03-02 | 03-24 |  |
