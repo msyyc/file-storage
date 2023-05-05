@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4129](https://github.com/Azure/sdk-release-request/issues/4129) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | Wzb123456789 | new issue. | 05-04 | 05-26 |  |
+| 1 | [#4129](https://github.com/Azure/sdk-release-request/issues/4129) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | Wzb123456789 |  | 05-04 | 05-26 |  |
 | 2 | [#4128](https://github.com/Azure/sdk-release-request/issues/4128) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 | new comment. | 05-04 | 05-26 |  |
 | 3 | [#4124](https://github.com/Azure/sdk-release-request/issues/4124) | hiaga | azure-mgmt-recoveryservicesbackup | Wzb123456789 |  | 05-02 | 05-12 |  |
 | 4 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 |  | 05-01 | 05-26 |  |
