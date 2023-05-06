@@ -4,7 +4,7 @@
 | 2 | [#4131](https://github.com/Azure/sdk-release-request/issues/4131) | vinisoto | azure-mgmt-appcontainers | Wzb123456789 |  | 05-05 | 05-26 |  |
 | 3 | [#4129](https://github.com/Azure/sdk-release-request/issues/4129) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | Wzb123456789 |  | 05-04 | 05-26 |  |
 | 4 | [#4128](https://github.com/Azure/sdk-release-request/issues/4128) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 | FirstGA | 05-04 | 05-26 |  |
-| 5 | [#4124](https://github.com/Azure/sdk-release-request/issues/4124) | hiaga | azure-mgmt-recoveryservicesbackup | Wzb123456789 | new comment. | 05-02 | 05-12 |  |
+| 5 | [#4124](https://github.com/Azure/sdk-release-request/issues/4124) | hiaga | azure-mgmt-recoveryservicesbackup | Wzb123456789 | ForCLI | 05-02 | 05-12 |  |
 | 6 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 |  | 05-01 | 05-26 |  |
 | 7 | [#4110](https://github.com/Azure/sdk-release-request/issues/4110) | vinhms | azure-mgmt-cosmosdb | Wzb123456789 | ForCLI | 04-28 | 05-26 |  |
 | 8 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 |  | 04-28 | 05-26 |  |
