@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-cosmosdb,vinhms,Wzb123456789,2023-04-28,2023-05-08,https://github.com/Azure/sdk-release-request/issues/4110,9.2.0,True
+azure-mgmt-recoveryservicesbackup,hiaga,Wzb123456789,2023-05-02,2023-05-08,https://github.com/Azure/sdk-release-request/issues/4124,6.0.0,True
 azure-mgmt-paloaltonetworksngfw,Vibhuti-Sharma-Microsoft,Wzb123456789,2023-03-10,2023-05-05,https://github.com/Azure/sdk-release-request/issues/3922,1.0.0b2,
 azure-mgmt-monitor,msyyc,Wzb123456789,2023-05-02,2023-05-04,https://github.com/Azure/sdk-release-request/issues/4123,6.0.1,True
 azure-mgmt-resourceconnector,aditimalladi,Wzb123456789,2023-03-21,2023-04-26,https://github.com/Azure/sdk-release-request/issues/3957,1.0.0b4,
