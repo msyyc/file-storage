@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4146](https://github.com/Azure/sdk-release-request/issues/4146) | FumingZhang |  | qiaozha |  | 05-08 |  | 0 |
-| 2 | [#4142](https://github.com/Azure/sdk-release-request/issues/4142) | FumingZhang |  | qiaozha |  | 05-08 |  | 0 |
+| 1 | [#4146](https://github.com/Azure/sdk-release-request/issues/4146) | FumingZhang |  | qiaozha | new issue. | 05-08 | 05-26 |  |
+| 2 | [#4142](https://github.com/Azure/sdk-release-request/issues/4142) | FumingZhang |  | qiaozha | new issue. | 05-08 | 05-26 |  |
 | 3 | [#4139](https://github.com/Azure/sdk-release-request/issues/4139) | MikhailTryakhov |  | qiaozha | new issue. | 05-07 | 05-26 |  |
 | 4 | [#4136](https://github.com/Azure/sdk-release-request/issues/4136) | malpaniHMC |  | MaryGao | Attention to inconsistent tag | 05-05 | 05-26 |  |
 | 5 | [#4133](https://github.com/Azure/sdk-release-request/issues/4133) | vinisoto |  | MaryGao | Attention to inconsistent tag | 05-05 | 05-26 |  |
@@ -18,7 +18,7 @@
 | 16 | [#4076](https://github.com/Azure/sdk-release-request/issues/4076) | t-bzhan |  | MaryGao | new issue. | 04-23 | 05-26 |  |
 | 17 | [#4073](https://github.com/Azure/sdk-release-request/issues/4073) | mbashtovaya |  | MaryGao | new issue. new comment. | 04-21 | 05-26 |  |
 | 18 | [#4067](https://github.com/Azure/sdk-release-request/issues/4067) | sfiguemsft |  | MaryGao | new issue. | 04-20 | 05-26 |  |
-| 19 | [#4063](https://github.com/Azure/sdk-release-request/issues/4063) | gauravkumar1491 |  | MaryGao | new comment. Attention to inconsistent tag | 04-18 | 05-26 |  |
+| 19 | [#4063](https://github.com/Azure/sdk-release-request/issues/4063) | gauravkumar1491 |  | MaryGao | Attention to inconsistent tag | 04-18 | 05-26 |  |
 | 20 | [#4060](https://github.com/Azure/sdk-release-request/issues/4060) | grizzlytheodore |  | MaryGao |  | 04-18 | 05-26 |  |
 | 21 | [#4056](https://github.com/Azure/sdk-release-request/issues/4056) | josefree |  | MaryGao |  | 04-18 | 05-26 |  |
 | 22 | [#4053](https://github.com/Azure/sdk-release-request/issues/4053) | vipray-ms |  | MaryGao | Attention to inconsistent tag | 04-17 | 05-26 |  |
