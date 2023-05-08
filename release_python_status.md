@@ -8,7 +8,7 @@
 | 6 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 |  | 05-01 | 05-26 |  |
 | 7 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 |  | 04-28 | 05-26 |  |
 | 8 | [#4104](https://github.com/Azure/sdk-release-request/issues/4104) | vaishnavi-janardhan | azure-mgmt-databox | Wzb123456789 |  | 04-27 | 05-26 |  |
-| 9 | [#4099](https://github.com/Azure/sdk-release-request/issues/4099) | prathod09 | azure-mgmt-confidentialledger | Wzb123456789 | new version is 0.0.0, please check base branch! | 04-26 | 05-26 |  |
+| 9 | [#4099](https://github.com/Azure/sdk-release-request/issues/4099) | prathod09 | azure-mgmt-confidentialledger | Wzb123456789 |  | 04-26 | 05-26 |  |
 | 10 | [#4097](https://github.com/Azure/sdk-release-request/issues/4097) | nikhgup | azure-mgmt-qumulo | Wzb123456789 | FirstGA | 04-26 | 05-26 |  |
 | 11 | [#4089](https://github.com/Azure/sdk-release-request/issues/4089) | pednekarpraj | azure-mgmt-costmanagement | Wzb123456789 |  | 04-25 | 05-26 |  |
 | 12 | [#4085](https://github.com/Azure/sdk-release-request/issues/4085) | sebastianrex | azure-mgmt-voiceservices | Wzb123456789 | FirstGA | 04-25 | 05-26 |  |
