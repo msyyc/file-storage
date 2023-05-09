@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4144](https://github.com/Azure/sdk-release-request/issues/4144) | FumingZhang |  | Wzb123456789 | new comment. | 05-08 | 05-26 |  |
-| 2 | [#4138](https://github.com/Azure/sdk-release-request/issues/4138) | MikhailTryakhov | azure-mgmt-network | Wzb123456789 | new issue. MultiAPI | 05-07 | 05-26 |  |
+| 2 | [#4138](https://github.com/Azure/sdk-release-request/issues/4138) | MikhailTryakhov | azure-mgmt-network | Wzb123456789 | MultiAPI | 05-07 | 05-26 |  |
 | 3 | [#4134](https://github.com/Azure/sdk-release-request/issues/4134) | malpaniHMC | azure-mgmt-servicenetworking | Wzb123456789 |  | 05-05 | 05-26 |  |
 | 4 | [#4131](https://github.com/Azure/sdk-release-request/issues/4131) | vinisoto | azure-mgmt-appcontainers | Wzb123456789 |  | 05-05 | 05-26 |  |
 | 5 | [#4129](https://github.com/Azure/sdk-release-request/issues/4129) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | Wzb123456789 |  | 05-04 | 05-26 |  |
@@ -19,4 +19,4 @@
 | 17 | [#4068](https://github.com/Azure/sdk-release-request/issues/4068) | sfiguemsft | azure-mgmt-privatedns | Wzb123456789 |  | 04-20 | 05-26 |  |
 | 18 | [#4058](https://github.com/Azure/sdk-release-request/issues/4058) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 |  | 04-18 | 05-26 |  |
 | 19 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | FirstGA | 04-17 | 05-26 |  |
-| 20 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 | HoldOn | 04-12 | 05-26 |  |
+| 20 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 |  | 04-12 | 05-26 |  |
