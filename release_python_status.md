@@ -16,7 +16,7 @@
 | 14 | [#4079](https://github.com/Azure/sdk-release-request/issues/4079) | gauravkumar1491 | azure-mgmt-resource | Wzb123456789 |  | 04-24 | 05-26 |  |
 | 15 | [#4077](https://github.com/Azure/sdk-release-request/issues/4077) | t-bzhan | azure-mgmt-frontdoor | Wzb123456789 |  | 04-23 | 05-26 |  |
 | 16 | [#4074](https://github.com/Azure/sdk-release-request/issues/4074) | mbashtovaya | azure-mgmt-networkcloud | Wzb123456789 |  | 04-21 | 05-26 |  |
-| 17 | [#4068](https://github.com/Azure/sdk-release-request/issues/4068) | sfiguemsft | azure-mgmt-privatedns | Wzb123456789 | new comment. | 04-20 | 05-26 |  |
+| 17 | [#4068](https://github.com/Azure/sdk-release-request/issues/4068) | sfiguemsft | azure-mgmt-privatedns | Wzb123456789 |  | 04-20 | 05-26 |  |
 | 18 | [#4058](https://github.com/Azure/sdk-release-request/issues/4058) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 |  | 04-18 | 05-26 |  |
 | 19 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | FirstGA | 04-17 | 05-26 |  |
 | 20 | [#4032](https://github.com/Azure/sdk-release-request/issues/4032) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 | HoldOn | 04-12 | 05-26 |  |
