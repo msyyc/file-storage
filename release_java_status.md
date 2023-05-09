@@ -16,7 +16,7 @@
 | 14 | [#4081](https://github.com/Azure/sdk-release-request/issues/4081) | gauravkumar1491 |  | weidongxu-microsoft |  | 04-24 | 05-26 |  |
 | 15 | [#4078](https://github.com/Azure/sdk-release-request/issues/4078) | t-bzhan |  | XiaofeiCao | new issue. | 04-23 | 05-26 |  |
 | 16 | [#4071](https://github.com/Azure/sdk-release-request/issues/4071) | mbashtovaya |  | XiaofeiCao | new comment. | 04-21 | 05-26 |  |
-| 17 | [#4070](https://github.com/Azure/sdk-release-request/issues/4070) | sfiguemsft |  | haolingdong-msft | new issue. | 04-20 | 05-26 |  |
+| 17 | [#4070](https://github.com/Azure/sdk-release-request/issues/4070) | sfiguemsft |  | haolingdong-msft |  | 04-20 | 05-26 |  |
 | 18 | [#4055](https://github.com/Azure/sdk-release-request/issues/4055) | josefree |  | XiaofeiCao | new issue. | 04-18 | 05-26 |  |
 | 19 | [#4035](https://github.com/Azure/sdk-release-request/issues/4035) | BharathaAravind |  | haolingdong-msft | new comment. | 04-12 | 04-28 |  |
 | 20 | [#3998](https://github.com/Azure/sdk-release-request/issues/3998) | ambrahma |  | XiaofeiCao |  | 03-27 | 04-28 |  |
