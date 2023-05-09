@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4150](https://github.com/Azure/sdk-release-request/issues/4150) | xiaoxuqi-ms | azure-mgmt-rdbms | Wzb123456789 | MultiAPI | 05-09 | 05-26 |  |
+| 1 | [#4150](https://github.com/Azure/sdk-release-request/issues/4150) | xiaoxuqi-ms | azure-mgmt-rdbms | Wzb123456789 |  | 05-09 | 05-26 |  |
 | 2 | [#4144](https://github.com/Azure/sdk-release-request/issues/4144) | FumingZhang |  | Wzb123456789 | new comment. | 05-08 | 05-26 |  |
 | 3 | [#4138](https://github.com/Azure/sdk-release-request/issues/4138) | MikhailTryakhov | azure-mgmt-network | Wzb123456789 |  | 05-07 | 05-26 |  |
 | 4 | [#4134](https://github.com/Azure/sdk-release-request/issues/4134) | malpaniHMC | azure-mgmt-servicenetworking | Wzb123456789 |  | 05-05 | 05-26 |  |
