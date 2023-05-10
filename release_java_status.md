@@ -4,7 +4,7 @@
 | 2 | [#4145](https://github.com/Azure/sdk-release-request/issues/4145) | FumingZhang |  | haolingdong-msft | new issue. | 05-08 | 05-26 |  |
 | 3 | [#4141](https://github.com/Azure/sdk-release-request/issues/4141) | MikhailTryakhov |  | v-hongli1 |  | 05-07 |  | 0 |
 | 4 | [#4135](https://github.com/Azure/sdk-release-request/issues/4135) | malpaniHMC |  | weidongxu-microsoft | Attention to inconsistent tag | 05-05 | 05-26 |  |
-| 5 | [#4130](https://github.com/Azure/sdk-release-request/issues/4130) | vinisoto |  | haolingdong-msft | Attention to inconsistent tag | 05-05 | 05-26 |  |
+| 5 | [#4130](https://github.com/Azure/sdk-release-request/issues/4130) | vinisoto |  | haolingdong-msft | new comment. | 05-05 | 05-26 |  |
 | 6 | [#4126](https://github.com/Azure/sdk-release-request/issues/4126) | nickdepinet |  | weidongxu-microsoft | new issue. | 05-04 | 05-26 |  |
 | 7 | [#4121](https://github.com/Azure/sdk-release-request/issues/4121) | OliverMKing |  | weidongxu-microsoft |  | 05-01 | 05-26 |  |
 | 8 | [#4115](https://github.com/Azure/sdk-release-request/issues/4115) | abhayohri |  | haolingdong-msft | new issue. | 05-01 | 05-26 |  |
