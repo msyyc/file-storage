@@ -28,7 +28,7 @@
 | 26 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
 | 27 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  | [#3966](https://github.com/Azure/sdk-release-request/issues/3966)  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Java/Go/ |
 | 28 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 29 | 'Release for sdk/resourcemanager/extendedlocation/armextendedlocation v1.1.0-beta.2'  |  | [#4152](https://github.com/Azure/sdk-release-request/issues/4152)  |  |  | 05-10 |  |  |
+| 29 | 'Release for sdk/resourcemanager/extendedlocation/armextendedlocation v1.1.0-beta.2'  |  | [#4152](https://github.com/Azure/sdk-release-request/issues/4152)  |  |  | 05-10 | 05-26 |  |
 | 30 | 'Release for Container Service - 2023-04-02-preview'  |  | [#4147](https://github.com/Azure/sdk-release-request/issues/4147)  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
 | 31 | 'Release '  |  | [#4064](https://github.com/Azure/sdk-release-request/issues/4064)  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 |  |
 | 32 | 'Release for confidentialledger - preview/2023-01-26-preview'  |  |  |  | [#4048](https://github.com/Azure/sdk-release-request/issues/4048)  | 04-14 | 04-28 |  |
