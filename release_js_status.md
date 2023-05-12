@@ -10,7 +10,7 @@
 | 8 | [#4133](https://github.com/Azure/sdk-release-request/issues/4133) | vinisoto |  | MaryGao | new comment. | 05-05 | 05-26 |  |
 | 9 | [#4127](https://github.com/Azure/sdk-release-request/issues/4127) | nickdepinet |  | MaryGao | new issue. | 05-04 | 05-26 |  |
 | 10 | [#4120](https://github.com/Azure/sdk-release-request/issues/4120) | OliverMKing |  | MaryGao |  | 05-01 | 05-26 |  |
-| 11 | [#4117](https://github.com/Azure/sdk-release-request/issues/4117) | abhayohri |  | MaryGao | new issue. | 05-01 | 05-26 |  |
+| 11 | [#4117](https://github.com/Azure/sdk-release-request/issues/4117) | abhayohri |  | MaryGao |  | 05-01 | 05-26 |  |
 | 12 | [#4111](https://github.com/Azure/sdk-release-request/issues/4111) | vinhms |  | qiaozha |  | 04-28 | 05-26 |  |
 | 13 | [#4107](https://github.com/Azure/sdk-release-request/issues/4107) | bavneetsingh16 |  | qiaozha |  | 04-28 | 05-26 |  |
 | 14 | [#4102](https://github.com/Azure/sdk-release-request/issues/4102) | vaishnavi-janardhan |  | qiaozha |  | 04-27 | 05-26 |  |
