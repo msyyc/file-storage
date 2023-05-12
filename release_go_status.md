@@ -15,7 +15,7 @@
 | 13 | [#4113](https://github.com/Azure/sdk-release-request/issues/4113) | vinhms |  | Alancere |  | 04-28 | 05-26 |  |
 | 14 | [#4106](https://github.com/Azure/sdk-release-request/issues/4106) | bavneetsingh16 |  | Alancere | new comment. | 04-28 | 05-26 |  |
 | 15 | [#4103](https://github.com/Azure/sdk-release-request/issues/4103) | vaishnavi-janardhan |  | Alancere | new comment. | 04-27 | 05-26 |  |
-| 16 | [#4100](https://github.com/Azure/sdk-release-request/issues/4100) | prathod09 |  | Alancere |  | 04-26 | 05-26 |  |
+| 16 | [#4100](https://github.com/Azure/sdk-release-request/issues/4100) | prathod09 |  | Alancere | new comment. | 04-26 | 05-26 |  |
 | 17 | [#4095](https://github.com/Azure/sdk-release-request/issues/4095) | nikhgup |  | Alancere |  | 04-26 | 05-26 |  |
 | 18 | [#4087](https://github.com/Azure/sdk-release-request/issues/4087) | pednekarpraj |  | Alancere |  | 04-25 | 05-26 |  |
 | 19 | [#4082](https://github.com/Azure/sdk-release-request/issues/4082) | gauravkumar1491 |  | Alancere | new comment. | 04-24 | 05-26 |  |
