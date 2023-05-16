@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#34848](https://github.com/Azure/azure-sdk-for-java/issues/34848)|[BUG] Public key could not be uploaded to applications or service principals|bug, AAD, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2023-05-09|
-|2|[#34724](https://github.com/Azure/azure-sdk-for-java/issues/34724)|[QUERY] Associate a subnet with NAT Gateway using Azure Java SDK|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new issue|2023-04-29|
+|2|[#34724](https://github.com/Azure/azure-sdk-for-java/issues/34724)|[QUERY] Associate a subnet with NAT Gateway using Azure Java SDK|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao||2023-04-29|
 |3|[#34641](https://github.com/Azure/azure-sdk-for-java/issues/34641)|[QUERY]Do you Java sdk support for Entities - List|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2023-04-25|
 |4|[#34555](https://github.com/Azure/azure-sdk-for-java/issues/34555)|[BUG] Missing Null check in for loop | azure-resourcemanager-compute -> AvailabilitySetImpl.java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new issue|2023-04-19|
 |5|[#34424](https://github.com/Azure/azure-sdk-for-java/issues/34424)|[FEATURE REQ] Support asynchronuous calls in `azure-resourcemanager-postgresqlflexibleserver`|ARM, Mgmt, customer-reported, feature-request|weidongxu-microsoft|new comment|2023-04-12|
