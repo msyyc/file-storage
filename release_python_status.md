@@ -4,7 +4,7 @@
 | 2 | [#4163](https://github.com/Azure/sdk-release-request/issues/4163) | Gakum | azure-mgmt-recoveryservices | Wzb123456789 |  | 05-14 | 05-26 |  |
 | 3 | [#4158](https://github.com/Azure/sdk-release-request/issues/4158) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 05-11 | 05-26 |  |
 | 4 | [#4153](https://github.com/Azure/sdk-release-request/issues/4153) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 05-11 | 05-26 |  |
-| 5 | [#4144](https://github.com/Azure/sdk-release-request/issues/4144) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 05-08 | 05-26 |  |
+| 5 | [#4144](https://github.com/Azure/sdk-release-request/issues/4144) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new comment. ForCLI | 05-08 | 05-26 |  |
 | 6 | [#4138](https://github.com/Azure/sdk-release-request/issues/4138) | MikhailTryakhov | azure-mgmt-network | Wzb123456789 |  | 05-07 | 05-26 |  |
 | 7 | [#4134](https://github.com/Azure/sdk-release-request/issues/4134) | malpaniHMC | azure-mgmt-servicenetworking | Wzb123456789 |  | 05-05 | 05-26 |  |
 | 8 | [#4131](https://github.com/Azure/sdk-release-request/issues/4131) | vinisoto | azure-mgmt-appcontainers | Wzb123456789 |  | 05-05 | 05-26 |  |

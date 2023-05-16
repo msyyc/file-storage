@@ -5,8 +5,8 @@
 | 3 | [#4157](https://github.com/Azure/sdk-release-request/issues/4157) | ambrahma |  | qiaozha | Attention to inconsistent tag | 05-11 | 05-26 |  |
 | 4 | [#4156](https://github.com/Azure/sdk-release-request/issues/4156) | utkarshjain1508 |  | qiaozha |  | 05-11 | 05-26 |  |
 | 5 | [#4151](https://github.com/Azure/sdk-release-request/issues/4151) | xiaoxuqi-ms |  | qiaozha |  | 05-09 | 05-26 |  |
-| 6 | [#4146](https://github.com/Azure/sdk-release-request/issues/4146) | FumingZhang |  | qiaozha | new comment. | 05-08 | 05-26 |  |
-| 7 | [#4142](https://github.com/Azure/sdk-release-request/issues/4142) | FumingZhang |  | qiaozha | new issue. | 05-08 | 05-26 |  |
+| 6 | [#4146](https://github.com/Azure/sdk-release-request/issues/4146) | FumingZhang |  | qiaozha |  | 05-08 | 05-26 |  |
+| 7 | [#4142](https://github.com/Azure/sdk-release-request/issues/4142) | FumingZhang |  | qiaozha |  | 05-08 | 05-26 |  |
 | 8 | [#4139](https://github.com/Azure/sdk-release-request/issues/4139) | MikhailTryakhov |  | qiaozha |  | 05-07 | 05-26 |  |
 | 9 | [#4136](https://github.com/Azure/sdk-release-request/issues/4136) | malpaniHMC |  | MaryGao | new comment. Attention to inconsistent tag | 05-05 | 05-26 |  |
 | 10 | [#4133](https://github.com/Azure/sdk-release-request/issues/4133) | vinisoto |  | MaryGao |  | 05-05 | 05-26 |  |
