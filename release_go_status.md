@@ -8,7 +8,7 @@
 | 6 | [#4148](https://github.com/Azure/sdk-release-request/issues/4148) | xiaoxuqi-ms |  | Alancere |  | 05-09 | 05-26 |  |
 | 7 | [#4147](https://github.com/Azure/sdk-release-request/issues/4147) | FumingZhang |  | Alancere | new issue. | 05-08 | 05-26 |  |
 | 8 | [#4143](https://github.com/Azure/sdk-release-request/issues/4143) | FumingZhang |  | Alancere | new issue. | 05-08 | 05-26 |  |
-| 9 | [#4140](https://github.com/Azure/sdk-release-request/issues/4140) | MikhailTryakhov |  | Alancere |  | 05-07 | 05-26 |  |
+| 9 | [#4140](https://github.com/Azure/sdk-release-request/issues/4140) | MikhailTryakhov |  | Alancere | new comment. | 05-07 | 05-26 |  |
 | 10 | [#4137](https://github.com/Azure/sdk-release-request/issues/4137) | malpaniHMC |  | Alancere |  | 05-05 | 05-26 |  |
 | 11 | [#4132](https://github.com/Azure/sdk-release-request/issues/4132) | vinisoto |  | Alancere |  | 05-05 | 05-26 |  |
 | 12 | [#4125](https://github.com/Azure/sdk-release-request/issues/4125) | nickdepinet |  | Alancere | new comment. | 05-04 | 05-26 |  |
