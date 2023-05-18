@@ -33,5 +33,5 @@
 | 31 | 'Release for Container Service - 2023-04-02-preview'  |  | [#4147](https://github.com/Azure/sdk-release-request/issues/4147)  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
 | 32 | 'Release '  |  | [#4064](https://github.com/Azure/sdk-release-request/issues/4064)  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 | Hold on by JS/Go/ |
 | 33 | 'Release for MySQL 2022-09-30-preview'  |  | [#4057](https://github.com/Azure/sdk-release-request/issues/4057)  |  | [#4056](https://github.com/Azure/sdk-release-request/issues/4056)  | 04-18 | 05-26 |  |
-| 34 | 'Release for Help - 2023-01-01-preview'  |  | [#4033](https://github.com/Azure/sdk-release-request/issues/4033)  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 05-26 |  |
-| 35 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 34 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 35 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |

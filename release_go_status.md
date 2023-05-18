@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4167](https://github.com/Azure/sdk-release-request/issues/4167) | ahamad-MS |  | Alancere | new issue. | 05-16 | 06-23 |  |
+| 1 | [#4167](https://github.com/Azure/sdk-release-request/issues/4167) | ahamad-MS |  | Alancere | new issue. new comment. | 05-16 | 06-23 |  |
 | 2 | [#4164](https://github.com/Azure/sdk-release-request/issues/4164) | Gakum |  | Alancere | new issue. | 05-14 | 06-23 |  |
 | 3 | [#4160](https://github.com/Azure/sdk-release-request/issues/4160) | ambrahma |  | Alancere | Attention to inconsistent tag | 05-11 | 05-26 |  |
 | 4 | [#4154](https://github.com/Azure/sdk-release-request/issues/4154) | utkarshjain1508 |  | Alancere | new comment. | 05-11 | 05-26 |  |
@@ -27,5 +27,4 @@
 | 25 | [#4059](https://github.com/Azure/sdk-release-request/issues/4059) | grizzlytheodore |  | Alancere |  | 04-18 | 05-26 |  |
 | 26 | [#4057](https://github.com/Azure/sdk-release-request/issues/4057) | josefree |  | Alancere |  | 04-18 | 05-26 |  |
 | 27 | [#4051](https://github.com/Azure/sdk-release-request/issues/4051) | vipray-ms |  | Alancere | new comment. | 04-17 | 05-26 |  |
-| 28 | [#4033](https://github.com/Azure/sdk-release-request/issues/4033) | BharathaAravind |  | Alancere |  | 04-12 | 05-26 |  |
-| 29 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new comment. | 03-22 | 04-28 |  |
+| 28 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new comment. | 03-22 | 04-28 |  |
