@@ -3,7 +3,7 @@
 | 1 | [#4168](https://github.com/Azure/sdk-release-request/issues/4168) | ahamad-MS |  | XiaofeiCao |  | 05-16 | 06-23 |  |
 | 2 | [#4159](https://github.com/Azure/sdk-release-request/issues/4159) | ambrahma |  | XiaofeiCao | Attention to inconsistent tag | 05-11 | 05-26 |  |
 | 3 | [#4155](https://github.com/Azure/sdk-release-request/issues/4155) | utkarshjain1508 |  | haolingdong-msft | new issue. | 05-11 | 05-26 |  |
-| 4 | [#4149](https://github.com/Azure/sdk-release-request/issues/4149) | xiaoxuqi-ms |  | haolingdong-msft |  | 05-09 | 05-26 |  |
+| 4 | [#4149](https://github.com/Azure/sdk-release-request/issues/4149) | xiaoxuqi-ms |  | XiaofeiCao |  | 05-09 | 05-26 |  |
 | 5 | [#4145](https://github.com/Azure/sdk-release-request/issues/4145) | FumingZhang |  | haolingdong-msft | new issue. | 05-08 | 05-26 |  |
 | 6 | [#4141](https://github.com/Azure/sdk-release-request/issues/4141) | MikhailTryakhov |  | v-hongli1 |  | 05-07 |  | 0 |
 | 7 | [#4115](https://github.com/Azure/sdk-release-request/issues/4115) | abhayohri |  | haolingdong-msft | new issue. | 05-01 | 05-26 |  |
