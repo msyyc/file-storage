@@ -11,7 +11,7 @@
 | 9 | [#4129](https://github.com/Azure/sdk-release-request/issues/4129) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | Wzb123456789 |  | 05-04 | 05-26 |  |
 | 10 | [#4128](https://github.com/Azure/sdk-release-request/issues/4128) | nickdepinet | azure-mgmt-devcenter | Wzb123456789 | FirstGA | 05-04 | 05-26 |  |
 | 11 | [#4119](https://github.com/Azure/sdk-release-request/issues/4119) | OliverMKing | azure-mgmt-devhub | Wzb123456789 | FirstBeta | 05-01 | 05-26 |  |
-| 12 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 |  | 05-01 | 05-26 |  |
+| 12 | [#4118](https://github.com/Azure/sdk-release-request/issues/4118) | abhayohri | azure-mgmt-resourcehealth | Wzb123456789 | new issue. | 05-01 | 05-26 |  |
 | 13 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 |  | 04-28 | 05-26 |  |
 | 14 | [#4104](https://github.com/Azure/sdk-release-request/issues/4104) | vaishnavi-janardhan | azure-mgmt-databox | Wzb123456789 |  | 04-27 | 05-26 |  |
 | 15 | [#4099](https://github.com/Azure/sdk-release-request/issues/4099) | prathod09 | azure-mgmt-confidentialledger | Wzb123456789 |  | 04-26 | 05-26 |  |
