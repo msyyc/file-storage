@@ -10,7 +10,7 @@
 | 8 | [#4112](https://github.com/Azure/sdk-release-request/issues/4112) | vinhms |  | weidongxu-microsoft | new issue. | 04-28 | 05-26 |  |
 | 9 | [#4109](https://github.com/Azure/sdk-release-request/issues/4109) | bavneetsingh16 |  | weidongxu-microsoft | new issue. | 04-28 | 05-26 |  |
 | 10 | [#4105](https://github.com/Azure/sdk-release-request/issues/4105) | vaishnavi-janardhan |  | haolingdong-msft | new issue. | 04-27 | 05-26 |  |
-| 11 | [#4098](https://github.com/Azure/sdk-release-request/issues/4098) | prathod09 |  | haolingdong-msft | new comment. | 04-26 | 05-26 |  |
+| 11 | [#4098](https://github.com/Azure/sdk-release-request/issues/4098) | prathod09 |  | haolingdong-msft |  | 04-26 | 05-26 |  |
 | 12 | [#4094](https://github.com/Azure/sdk-release-request/issues/4094) | nikhgup |  | XiaofeiCao | new issue. | 04-26 | 05-26 |  |
 | 13 | [#4086](https://github.com/Azure/sdk-release-request/issues/4086) | pednekarpraj |  | XiaofeiCao | new issue. | 04-25 | 05-26 |  |
 | 14 | [#4081](https://github.com/Azure/sdk-release-request/issues/4081) | gauravkumar1491 |  | weidongxu-microsoft |  | 04-24 | 05-26 |  |
