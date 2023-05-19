@@ -37,4 +37,5 @@
 | 35 | 'Release '  |  | [#4064](https://github.com/Azure/sdk-release-request/issues/4064)  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 | Hold on by JS/Go/ |
 | 36 | 'Release for MySQL 2022-09-30-preview'  |  | [#4057](https://github.com/Azure/sdk-release-request/issues/4057)  |  | [#4056](https://github.com/Azure/sdk-release-request/issues/4056)  | 04-18 | 05-26 |  |
 | 37 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
-| 38 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |
+| 38 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
+| 39 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |
