@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-eventgrid,ahamad-MS,Wzb123456789,2023-05-16,2023-05-19,https://github.com/Azure/sdk-release-request/issues/4166,10.3.0b2,
 azure-mgmt-confidentialledger,prathod09,Wzb123456789,2023-04-26,2023-05-19,https://github.com/Azure/sdk-release-request/issues/4099,2.0.0b3,
 azure-mgmt-resource,msyyc,Wzb123456789,2023-05-18,2023-05-18,https://github.com/Azure/sdk-release-request/issues/4170,23.0.1,True
 azure-mgmt-selfhelp,BharathaAravind,Wzb123456789,2023-04-12,2023-05-17,https://github.com/Azure/sdk-release-request/issues/4032,1.0.0b1,

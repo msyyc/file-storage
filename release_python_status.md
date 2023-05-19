@@ -3,7 +3,6 @@
 | 1 | [#4179](https://github.com/Azure/sdk-release-request/issues/4179) | harshpatel17 | azure-mgmt-resource | Wzb123456789 | duplicated issue  <br> Attention to inconsistent tag MultiAPI HoldOn | 05-18 | 06-23 |  |
 | 2 | [#4175](https://github.com/Azure/sdk-release-request/issues/4175) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 | new version is 0.0.0, please check base branch! FirstGA | 05-18 | 06-23 |  |
 | 3 | [#4172](https://github.com/Azure/sdk-release-request/issues/4172) | serbrech | azure-mgmt-containerservicefleet | Wzb123456789 | FirstBeta | 05-18 | 06-23 |  |
-| 4 | [#4166](https://github.com/Azure/sdk-release-request/issues/4166) | ahamad-MS | azure-mgmt-eventgrid | Wzb123456789 |  | 05-16 | 06-23 |  |
 | 5 | [#4163](https://github.com/Azure/sdk-release-request/issues/4163) | Gakum | azure-mgmt-recoveryservices | Wzb123456789 |  | 05-14 | 05-26 |  |
 | 6 | [#4158](https://github.com/Azure/sdk-release-request/issues/4158) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | Attention to inconsistent tag MultiAPI | 05-11 | 05-26 |  |
 | 7 | [#4153](https://github.com/Azure/sdk-release-request/issues/4153) | utkarshjain1508 | azure-mgmt-elastic | Wzb123456789 |  | 05-11 | 05-26 |  |
