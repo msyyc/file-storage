@@ -24,4 +24,4 @@
 | 22 | [#4074](https://github.com/Azure/sdk-release-request/issues/4074) | mbashtovaya | azure-mgmt-networkcloud | Wzb123456789 | FirstBeta | 04-21 | 05-26 |  |
 | 23 | [#4068](https://github.com/Azure/sdk-release-request/issues/4068) | sfiguemsft | azure-mgmt-privatedns | Wzb123456789 |  | 04-20 | 05-26 |  |
 | 24 | [#4058](https://github.com/Azure/sdk-release-request/issues/4058) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 |  | 04-18 | 05-26 |  |
-| 25 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | FirstGA | 04-17 | 05-26 |  |
+| 25 | [#4050](https://github.com/Azure/sdk-release-request/issues/4050) | vipray-ms | azure-mgmt-newrelicobservability | Wzb123456789 | new comment. FirstGA | 04-17 | 05-26 |  |

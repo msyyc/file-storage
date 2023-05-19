@@ -27,5 +27,5 @@
 | 25 | [#4064](https://github.com/Azure/sdk-release-request/issues/4064) | gauravkumar1491 |  | Alancere |  | 04-18 | 05-26 |  |
 | 26 | [#4059](https://github.com/Azure/sdk-release-request/issues/4059) | grizzlytheodore |  | Alancere |  | 04-18 | 05-26 |  |
 | 27 | [#4057](https://github.com/Azure/sdk-release-request/issues/4057) | josefree |  | Alancere |  | 04-18 | 05-26 |  |
-| 28 | [#4051](https://github.com/Azure/sdk-release-request/issues/4051) | vipray-ms |  | Alancere |  | 04-17 | 05-26 |  |
+| 28 | [#4051](https://github.com/Azure/sdk-release-request/issues/4051) | vipray-ms |  | Alancere | new comment. | 04-17 | 05-26 |  |
 | 29 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new comment. | 03-22 | 04-28 |  |
