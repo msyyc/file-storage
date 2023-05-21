@@ -27,15 +27,14 @@
 | 25 | 'Release for Container Service - 2023-04-01'  |  | [#4143](https://github.com/Azure/sdk-release-request/issues/4143)  | [#4145](https://github.com/Azure/sdk-release-request/issues/4145)  | [#4142](https://github.com/Azure/sdk-release-request/issues/4142)  | 05-08 | 05-26 |  |
 | 26 | 'Release for Cosmos DB 2023-04-15 stable'  |  | [#4113](https://github.com/Azure/sdk-release-request/issues/4113)  | [#4112](https://github.com/Azure/sdk-release-request/issues/4112)  | [#4111](https://github.com/Azure/sdk-release-request/issues/4111)  | 04-28 | 05-26 |  |
 | 27 | 'MCCF Ledger SDK Release'  |  | [#4100](https://github.com/Azure/sdk-release-request/issues/4100)  | [#4098](https://github.com/Azure/sdk-release-request/issues/4098)  |  | 04-26 | 05-26 |  |
-| 28 | 'Release for PostgreSQL flexible server - 2022-12-01'  |  |  | [#3998](https://github.com/Azure/sdk-release-request/issues/3998)  |  | 03-27 | 04-28 | Hold on by Java/ |
-| 29 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
-| 30 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 31 | 'Release for sdk/resourcemanager/extendedlocation/armextendedlocation v1.1.0-beta.2'  |  | [#4152](https://github.com/Azure/sdk-release-request/issues/4152)  |  |  | 05-10 | 05-26 |  |
-| 32 | 'Release for mysql - 2022-09-30-preview'  |  | [#4148](https://github.com/Azure/sdk-release-request/issues/4148)  |  |  | 05-09 | 05-26 |  |
-| 33 | 'Release for Container Service - 2023-04-02-preview'  |  | [#4147](https://github.com/Azure/sdk-release-request/issues/4147)  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
-| 34 | 'Release '  |  | [#4064](https://github.com/Azure/sdk-release-request/issues/4064)  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 | Hold on by JS/Go/ |
-| 35 | 'Release for MySQL 2022-09-30-preview'  |  | [#4057](https://github.com/Azure/sdk-release-request/issues/4057)  |  | [#4056](https://github.com/Azure/sdk-release-request/issues/4056)  | 04-18 | 05-26 |  |
-| 36 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
-| 37 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
-| 38 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
-| 39 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |
+| 28 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
+| 29 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
+| 30 | 'Release for sdk/resourcemanager/extendedlocation/armextendedlocation v1.1.0-beta.2'  |  | [#4152](https://github.com/Azure/sdk-release-request/issues/4152)  |  |  | 05-10 | 05-26 |  |
+| 31 | 'Release for mysql - 2022-09-30-preview'  |  | [#4148](https://github.com/Azure/sdk-release-request/issues/4148)  |  |  | 05-09 | 05-26 |  |
+| 32 | 'Release for Container Service - 2023-04-02-preview'  |  | [#4147](https://github.com/Azure/sdk-release-request/issues/4147)  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
+| 33 | 'Release '  |  | [#4064](https://github.com/Azure/sdk-release-request/issues/4064)  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 | Hold on by JS/Go/ |
+| 34 | 'Release for MySQL 2022-09-30-preview'  |  | [#4057](https://github.com/Azure/sdk-release-request/issues/4057)  |  | [#4056](https://github.com/Azure/sdk-release-request/issues/4056)  | 04-18 | 05-26 |  |
+| 35 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 36 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
+| 37 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
+| 38 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |
