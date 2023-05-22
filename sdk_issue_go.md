@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#20821](https://github.com/Azure/azure-sdk-for-go/issues/20821)|Resource Sync Rule client functionality is not published to azure-sdk-go package|question, Mgmt, customer-reported, needs-team-attention|lirenhe||2023-05-09|
-|2|[#20701](https://github.com/Azure/azure-sdk-for-go/issues/20701)|Release Microsoft.ApiManagement/preview/2022-08-01|question, API Management, Mgmt, customer-reported, needs-team-attention|lirenhe|new issue|2023-04-26|
+|2|[#20701](https://github.com/Azure/azure-sdk-for-go/issues/20701)|Release Microsoft.ApiManagement/preview/2022-08-01|question, API Management, Mgmt, customer-reported, needs-author-feedback|lirenhe||2023-04-26|
 |3|[#20678](https://github.com/Azure/azure-sdk-for-go/issues/20678)|costmanagement: support API version "2022-10-01"|Service Attention, Mgmt, feature-request, Cost Management - Query|lirenhe||2023-04-21|
 |4|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |5|[#19987](https://github.com/Azure/azure-sdk-for-go/issues/19987)|Increase live test operation coverage for 20 core RPs to 75%+ in mgmt. SDK|Mgmt, test-enhancement|Alancere||2023-02-09|
@@ -31,6 +31,6 @@
 |29|[#6792](https://github.com/Azure/azure-sdk-for-go/issues/6792)|apimanagement client.ListComplete() returned empty list|bug, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2020-01-11|
 |30|[#6606](https://github.com/Azure/azure-sdk-for-go/issues/6606)|app configuration breaking change:  the api now returns the resource group name in the ID in lowercase now|bug, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2020-01-06|
 |31|[#6498](https://github.com/Azure/azure-sdk-for-go/issues/6498)|web/CertificatesClient should not force a value for the "password" property|bug, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|ArcturusZhang|new comment|2019-12-06|
-|32|[#5855](https://github.com/Azure/azure-sdk-for-go/issues/5855)|Eventhub Namespace Network Ruleset vnet rule Subnet ID returns ID with resource group name in lowercase|bug, Event Hubs, Service Attention, Mgmt, customer-reported|v-Ajnava, ArcturusZhang|new comment|2019-09-23|
-|33|[#4125](https://github.com/Azure/azure-sdk-for-go/issues/4125)|Azure IoT Hub device-2-cloud messages are not received by cloud|IoT, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2019-02-22|
+|32|[#5855](https://github.com/Azure/azure-sdk-for-go/issues/5855)|Eventhub Namespace Network Ruleset vnet rule Subnet ID returns ID with resource group name in lowercase|bug, Event Hubs, Service Attention, Mgmt, customer-reported|ArcturusZhang, v-Ajnava|new comment|2019-09-23|
+|33|[#4125](https://github.com/Azure/azure-sdk-for-go/issues/4125)|Azure IoT Hub device-2-cloud messages are not received by cloud|question, IoT, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2019-02-22|
 |34|[#3805](https://github.com/Azure/azure-sdk-for-go/issues/3805)|operationalinsights API returning all linked workspace service properties as lowercase|bug, Monitor - Operational Insights, Service Attention, Mgmt, customer-reported|ArcturusZhang|new comment|2019-01-05|
