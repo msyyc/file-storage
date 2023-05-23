@@ -1,4 +1,13 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resourcehealth,abhayohri,Wzb123456789,2023-05-01,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4118,1.0.0b4,
+azure-mgmt-devhub,OliverMKing,Wzb123456789,2023-05-01,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4119,1.0.0b1,
+azure-mgmt-devcenter,nickdepinet,Wzb123456789,2023-05-04,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4128,1.0.0,True
+azure-mgmt-servicefabricmanagedclusters,mwesigwaguma,Wzb123456789,2023-05-04,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4129,2.0.0b4,
+azure-mgmt-appcontainers,vinisoto,Wzb123456789,2023-05-05,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4131,3.0.0b1,
+azure-mgmt-servicenetworking,malpaniHMC,Wzb123456789,2023-05-05,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4134,1.0.0b2,
+azure-mgmt-network,MikhailTryakhov,Wzb123456789,2023-05-07,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4138,23.1.0,True
+azure-mgmt-elastic,utkarshjain1508,Wzb123456789,2023-05-11,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4153,1.1.0b3,
+azure-mgmt-recoveryservices,Gakum,Wzb123456789,2023-05-14,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4163,2.4.0,True
 azure-mgmt-newrelicobservability,vipray-ms,Wzb123456789,2023-04-17,2023-05-22,https://github.com/Azure/sdk-release-request/issues/4050,1.0.0,True
 azure-mgmt-privatedns,sfiguemsft,Wzb123456789,2023-04-20,2023-05-22,https://github.com/Azure/sdk-release-request/issues/4068,1.1.0,True
 azure-mgmt-networkcloud,mbashtovaya,Wzb123456789,2023-04-21,2023-05-22,https://github.com/Azure/sdk-release-request/issues/4074,1.0.0b1,
