@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4190](https://github.com/Azure/sdk-release-request/issues/4190) | SrinikhilReddy |  | Alancere |  | 05-23 |  | 0 |
+| 1 | [#4190](https://github.com/Azure/sdk-release-request/issues/4190) | SrinikhilReddy |  | Alancere |  | 05-23 | 06-23 |  |
 | 2 | [#4184](https://github.com/Azure/sdk-release-request/issues/4184) | ajtiwari07 |  | Alancere | Attention to inconsistent tag | 05-22 | 06-23 |  |
 | 3 | [#4182](https://github.com/Azure/sdk-release-request/issues/4182) | harshpatel17 |  | Alancere | new comment. Attention to inconsistent tag | 05-18 | 06-23 |  |
 | 4 | [#4176](https://github.com/Azure/sdk-release-request/issues/4176) | BharathaAravind |  | Alancere | new issue. | 05-18 | 06-23 |  |
@@ -23,7 +23,7 @@
 | 21 | [#4095](https://github.com/Azure/sdk-release-request/issues/4095) | nikhgup |  | Alancere | close to release date.  | 04-26 | 05-26 | 2 |
 | 22 | [#4087](https://github.com/Azure/sdk-release-request/issues/4087) | pednekarpraj |  | Alancere | close to release date.  | 04-25 | 05-26 | 2 |
 | 23 | [#4082](https://github.com/Azure/sdk-release-request/issues/4082) | gauravkumar1491 |  | Alancere | new comment. close to release date.  | 04-24 | 05-26 | 2 |
-| 24 | [#4075](https://github.com/Azure/sdk-release-request/issues/4075) | t-bzhan |  | Alancere | new comment. close to release date.  | 04-23 | 05-26 | 2 |
+| 24 | [#4075](https://github.com/Azure/sdk-release-request/issues/4075) | t-bzhan |  | Alancere | close to release date.  | 04-23 | 05-26 | 2 |
 | 25 | [#4072](https://github.com/Azure/sdk-release-request/issues/4072) | mbashtovaya |  | Alancere | new comment. close to release date.  | 04-21 | 05-26 | 2 |
 | 26 | [#4064](https://github.com/Azure/sdk-release-request/issues/4064) | gauravkumar1491 |  | Alancere | close to release date.  | 04-18 | 05-26 | 2 |
 | 27 | [#4059](https://github.com/Azure/sdk-release-request/issues/4059) | grizzlytheodore |  | Alancere | close to release date.  | 04-18 | 05-26 | 2 |
