@@ -8,7 +8,7 @@
 | 6 | [#4164](https://github.com/Azure/sdk-release-request/issues/4164) | Gakum |  | Alancere | new issue. | 05-14 | 06-23 |  |
 | 7 | [#4160](https://github.com/Azure/sdk-release-request/issues/4160) | ambrahma |  | Alancere | close to release date.  Attention to inconsistent tag | 05-11 | 05-26 | 2 |
 | 8 | [#4152](https://github.com/Azure/sdk-release-request/issues/4152) | saileerane |  | Alancere | close to release date.  | 05-10 | 05-26 | 2 |
-| 9 | [#4147](https://github.com/Azure/sdk-release-request/issues/4147) | FumingZhang |  | Alancere | new issue. close to release date.  | 05-08 | 05-26 | 2 |
+| 9 | [#4147](https://github.com/Azure/sdk-release-request/issues/4147) | FumingZhang |  | Alancere | close to release date.  | 05-08 | 05-26 | 2 |
 | 10 | [#4143](https://github.com/Azure/sdk-release-request/issues/4143) | FumingZhang |  | Alancere | close to release date.  | 05-08 | 05-26 | 2 |
 | 11 | [#4140](https://github.com/Azure/sdk-release-request/issues/4140) | MikhailTryakhov |  | Alancere | close to release date.  | 05-07 | 05-26 | 2 |
 | 12 | [#4137](https://github.com/Azure/sdk-release-request/issues/4137) | malpaniHMC |  | Alancere | close to release date.  | 05-05 | 05-26 | 2 |
@@ -17,7 +17,7 @@
 | 15 | [#4122](https://github.com/Azure/sdk-release-request/issues/4122) | OliverMKing |  | Alancere | close to release date.  | 05-01 | 05-26 | 2 |
 | 16 | [#4116](https://github.com/Azure/sdk-release-request/issues/4116) | abhayohri |  | Alancere | close to release date.  | 05-01 | 05-26 | 2 |
 | 17 | [#4113](https://github.com/Azure/sdk-release-request/issues/4113) | vinhms |  | Alancere | close to release date.  | 04-28 | 05-26 | 2 |
-| 18 | [#4106](https://github.com/Azure/sdk-release-request/issues/4106) | bavneetsingh16 |  | Alancere | new comment. close to release date.  | 04-28 | 05-26 | 2 |
+| 18 | [#4106](https://github.com/Azure/sdk-release-request/issues/4106) | bavneetsingh16 |  | Alancere | close to release date.  | 04-28 | 05-26 | 2 |
 | 19 | [#4103](https://github.com/Azure/sdk-release-request/issues/4103) | vaishnavi-janardhan |  | Alancere | close to release date.  | 04-27 | 05-26 | 2 |
 | 20 | [#4100](https://github.com/Azure/sdk-release-request/issues/4100) | prathod09 |  | Alancere | new comment. close to release date.  | 04-26 | 05-26 | 2 |
 | 21 | [#4095](https://github.com/Azure/sdk-release-request/issues/4095) | nikhgup |  | Alancere | close to release date.  | 04-26 | 05-26 | 2 |
