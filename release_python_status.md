@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4192](https://github.com/Azure/sdk-release-request/issues/4192) | msyyc | azure-mgmt-keyvault | Wzb123456789 | new version is 0.0.0, please check base branch! | 05-24 | 06-23 |  |
+| 1 | [#4192](https://github.com/Azure/sdk-release-request/issues/4192) | msyyc | azure-mgmt-keyvault | Wzb123456789 |  | 05-24 | 06-23 |  |
 | 2 | [#4191](https://github.com/Azure/sdk-release-request/issues/4191) | SrinikhilReddy |  | Wzb123456789 |  | 05-23 | 06-23 |  |
 | 3 | [#4187](https://github.com/Azure/sdk-release-request/issues/4187) | ajtiwari07 | azure-mgmt-redis | Wzb123456789 |  | 05-22 | 06-23 |  |
 | 4 | [#4179](https://github.com/Azure/sdk-release-request/issues/4179) | harshpatel17 | azure-mgmt-resource | Wzb123456789 | duplicated issue  <br> new comment. MultiAPI HoldOn | 05-18 | 06-23 |  |
