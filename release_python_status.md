@@ -9,4 +9,3 @@
 | 7 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 | close to release date.  | 04-28 | 05-26 | 0 |
 | 8 | [#4104](https://github.com/Azure/sdk-release-request/issues/4104) | vaishnavi-janardhan | azure-mgmt-databox | Wzb123456789 | close to release date.  | 04-27 | 05-26 | 0 |
 | 9 | [#4089](https://github.com/Azure/sdk-release-request/issues/4089) | pednekarpraj | azure-mgmt-costmanagement | Wzb123456789 | close to release date.  | 04-25 | 05-26 | 0 |
-| 10 | [#4058](https://github.com/Azure/sdk-release-request/issues/4058) | grizzlytheodore | azure-mgmt-compute | Wzb123456789 | close to release date.  | 04-18 | 05-26 | 0 |

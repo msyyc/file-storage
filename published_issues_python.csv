@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,grizzlytheodore,Wzb123456789,2023-04-18,2023-05-25,https://github.com/Azure/sdk-release-request/issues/4058,30.0.0,True
 azure-mgmt-resource,gauravkumar1491,Wzb123456789,2023-04-24,2023-05-25,https://github.com/Azure/sdk-release-request/issues/4079,23.1.0b1,
 azure-mgmt-keyvault,msyyc,Wzb123456789,2023-05-24,2023-05-24,https://github.com/Azure/sdk-release-request/issues/4192,10.2.2,True
 azure-mgmt-resourcehealth,abhayohri,Wzb123456789,2023-05-01,2023-05-23,https://github.com/Azure/sdk-release-request/issues/4118,1.0.0b4,
