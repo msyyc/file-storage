@@ -9,26 +9,26 @@
 | 7 | 'Release for Microsoft.Help - 2023-06-01'  | [#4175](https://github.com/Azure/sdk-release-request/issues/4175)  | [#4176](https://github.com/Azure/sdk-release-request/issues/4176)  | [#4177](https://github.com/Azure/sdk-release-request/issues/4177)  | [#4178](https://github.com/Azure/sdk-release-request/issues/4178)  | 05-18 | 06-23 |  |
 | 8 | 'Release for Azure Kubernetes Fleet Manager 2023-03-15-preview'  | [#4172](https://github.com/Azure/sdk-release-request/issues/4172)  | [#4173](https://github.com/Azure/sdk-release-request/issues/4173)  | [#4174](https://github.com/Azure/sdk-release-request/issues/4174)  | [#4171](https://github.com/Azure/sdk-release-request/issues/4171)  | 05-18 | 06-23 |  |
 | 9 | 'Release for PostgreSQL Flexible Server - API version 2023-03-01-preview'  | [#4158](https://github.com/Azure/sdk-release-request/issues/4158)  | [#4160](https://github.com/Azure/sdk-release-request/issues/4160)  | [#4159](https://github.com/Azure/sdk-release-request/issues/4159)  | [#4157](https://github.com/Azure/sdk-release-request/issues/4157)  | 05-11 | 05-26 | Hold on by Java/Go/Python/ |
-| 10 | 'Release for Data Box - 2022-12-01'  | [#4104](https://github.com/Azure/sdk-release-request/issues/4104)  |  |  | [#4102](https://github.com/Azure/sdk-release-request/issues/4102)  | 04-27 | 05-26 |  |
-| 11 | 'Release for Microsoft.CostManagement 2022-10-01'  | [#4089](https://github.com/Azure/sdk-release-request/issues/4089)  |  |  | [#4088](https://github.com/Azure/sdk-release-request/issues/4088)  | 04-25 | 05-26 |  |
-| 12 | 'Release for Resource Health- 2022-10-01'  |  |  | [#4115](https://github.com/Azure/sdk-release-request/issues/4115)  | [#4117](https://github.com/Azure/sdk-release-request/issues/4117)  | 05-01 | 05-26 |  |
-| 13 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
-| 14 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 15 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
-| 16 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
-| 17 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
-| 18 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
-| 19 | 'Elastic SDK Release 2023-02-01-preview'  |  |  |  | [#4156](https://github.com/Azure/sdk-release-request/issues/4156)  | 05-11 | 05-26 |  |
-| 20 | 'Release for Container Service - 2023-04-02-preview'  |  |  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
-| 21 | 'Release for Container Service - 2023-04-01'  |  |  |  | [#4142](https://github.com/Azure/sdk-release-request/issues/4142)  | 05-08 | 05-26 |  |
-| 22 | 'Release for Azure Networking 2022-11-01'  |  |  |  | [#4139](https://github.com/Azure/sdk-release-request/issues/4139)  | 05-07 | 05-26 |  |
-| 23 | 'Release for Traffic Controller 2023-05-01'  |  |  |  | [#4136](https://github.com/Azure/sdk-release-request/issues/4136)  | 05-05 | 05-26 |  |
-| 24 | 'Release for Container Apps 2022-11-01-preview API version'  |  |  |  | [#4133](https://github.com/Azure/sdk-release-request/issues/4133)  | 05-05 | 05-26 |  |
-| 25 | 'Release for Microsoft.DevCenter - 2023-04-01'  |  |  |  | [#4127](https://github.com/Azure/sdk-release-request/issues/4127)  | 05-04 | 05-26 |  |
-| 26 | 'DevHub - 2022-10-11-preview'  |  |  |  | [#4120](https://github.com/Azure/sdk-release-request/issues/4120)  | 05-01 | 05-26 |  |
-| 27 | 'Release for Cosmos DB 2023-04-15 stable'  |  |  |  | [#4111](https://github.com/Azure/sdk-release-request/issues/4111)  | 04-28 | 05-26 |  |
-| 28 | 'Release for Kubernetes Configuration - 2022-11-01'  |  |  |  | [#4107](https://github.com/Azure/sdk-release-request/issues/4107)  | 04-28 | 05-26 |  |
-| 29 | 'Release for Qumulo.Storage 2022-10-12'  |  |  |  | [#4096](https://github.com/Azure/sdk-release-request/issues/4096)  | 04-26 | 05-26 |  |
+| 10 | 'Release for Resource Health- 2022-10-01'  |  |  | [#4115](https://github.com/Azure/sdk-release-request/issues/4115)  | [#4117](https://github.com/Azure/sdk-release-request/issues/4117)  | 05-01 | 05-26 |  |
+| 11 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
+| 12 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
+| 13 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
+| 14 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 15 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
+| 16 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
+| 17 | 'Elastic SDK Release 2023-02-01-preview'  |  |  |  | [#4156](https://github.com/Azure/sdk-release-request/issues/4156)  | 05-11 | 05-26 |  |
+| 18 | 'Release for Container Service - 2023-04-02-preview'  |  |  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
+| 19 | 'Release for Container Service - 2023-04-01'  |  |  |  | [#4142](https://github.com/Azure/sdk-release-request/issues/4142)  | 05-08 | 05-26 |  |
+| 20 | 'Release for Azure Networking 2022-11-01'  |  |  |  | [#4139](https://github.com/Azure/sdk-release-request/issues/4139)  | 05-07 | 05-26 |  |
+| 21 | 'Release for Traffic Controller 2023-05-01'  |  |  |  | [#4136](https://github.com/Azure/sdk-release-request/issues/4136)  | 05-05 | 05-26 |  |
+| 22 | 'Release for Container Apps 2022-11-01-preview API version'  |  |  |  | [#4133](https://github.com/Azure/sdk-release-request/issues/4133)  | 05-05 | 05-26 |  |
+| 23 | 'Release for Microsoft.DevCenter - 2023-04-01'  |  |  |  | [#4127](https://github.com/Azure/sdk-release-request/issues/4127)  | 05-04 | 05-26 |  |
+| 24 | 'DevHub - 2022-10-11-preview'  |  |  |  | [#4120](https://github.com/Azure/sdk-release-request/issues/4120)  | 05-01 | 05-26 |  |
+| 25 | 'Release for Cosmos DB 2023-04-15 stable'  |  |  |  | [#4111](https://github.com/Azure/sdk-release-request/issues/4111)  | 04-28 | 05-26 |  |
+| 26 | 'Release for Kubernetes Configuration - 2022-11-01'  |  |  |  | [#4107](https://github.com/Azure/sdk-release-request/issues/4107)  | 04-28 | 05-26 |  |
+| 27 | 'Release for Data Box - 2022-12-01'  |  |  |  | [#4102](https://github.com/Azure/sdk-release-request/issues/4102)  | 04-27 | 05-26 |  |
+| 28 | 'Release for Qumulo.Storage 2022-10-12'  |  |  |  | [#4096](https://github.com/Azure/sdk-release-request/issues/4096)  | 04-26 | 05-26 |  |
+| 29 | 'Release for Microsoft.CostManagement 2022-10-01'  |  |  |  | [#4088](https://github.com/Azure/sdk-release-request/issues/4088)  | 04-25 | 05-26 |  |
 | 30 | 'Release for Azure FrontDoor - 2022-05-01'  |  |  |  | [#4076](https://github.com/Azure/sdk-release-request/issues/4076)  | 04-23 | 05-26 |  |
 | 31 | 'Release for NetworkCloud 2022-12-12-preview'  |  |  |  | [#4073](https://github.com/Azure/sdk-release-request/issues/4073)  | 04-21 | 05-26 |  |
 | 32 | 'Release for Private DNS SDK modules'  |  |  |  | [#4067](https://github.com/Azure/sdk-release-request/issues/4067)  | 04-20 | 05-26 |  |
