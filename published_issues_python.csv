@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-costmanagement,pednekarpraj,Wzb123456789,2023-04-25,2023-05-26,https://github.com/Azure/sdk-release-request/issues/4089,4.0.0,True
+azure-mgmt-databox,vaishnavi-janardhan,Wzb123456789,2023-04-27,2023-05-26,https://github.com/Azure/sdk-release-request/issues/4104,2.0.0,True
 azure-mgmt-kubernetesconfiguration,bavneetsingh16,Wzb123456789,2023-04-28,2023-05-26,https://github.com/Azure/sdk-release-request/issues/4108,3.0.0,True
 azure-mgmt-compute,grizzlytheodore,Wzb123456789,2023-04-18,2023-05-25,https://github.com/Azure/sdk-release-request/issues/4058,30.0.0,True
 azure-mgmt-resource,gauravkumar1491,Wzb123456789,2023-04-24,2023-05-25,https://github.com/Azure/sdk-release-request/issues/4079,23.1.0b1,
