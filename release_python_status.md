@@ -9,6 +9,5 @@
 | 7 | [#4175](https://github.com/Azure/sdk-release-request/issues/4175) | BharathaAravind | azure-mgmt-selfhelp | Wzb123456789 | new version is 0.0.0, please check base branch! FirstGA | 05-18 | 06-23 |  |
 | 8 | [#4172](https://github.com/Azure/sdk-release-request/issues/4172) | serbrech | azure-mgmt-containerservicefleet | Wzb123456789 | new comment. FirstBeta | 05-18 | 06-23 |  |
 | 9 | [#4158](https://github.com/Azure/sdk-release-request/issues/4158) | ambrahma | azure-mgmt-rdbms | Wzb123456789 | new comment. close to release date.  MultiAPI HoldOn | 05-11 | 05-26 | 0 |
-| 10 | [#4108](https://github.com/Azure/sdk-release-request/issues/4108) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | Wzb123456789 | close to release date.  | 04-28 | 05-26 | 0 |
 | 11 | [#4104](https://github.com/Azure/sdk-release-request/issues/4104) | vaishnavi-janardhan | azure-mgmt-databox | Wzb123456789 | close to release date.  | 04-27 | 05-26 | 0 |
 | 12 | [#4089](https://github.com/Azure/sdk-release-request/issues/4089) | pednekarpraj | azure-mgmt-costmanagement | Wzb123456789 | close to release date.  | 04-25 | 05-26 | 0 |
