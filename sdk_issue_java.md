@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#34995](https://github.com/Azure/azure-sdk-for-java/issues/34995)|mgmt, enable LIVE tests for all Lite generation packages|Mgmt|haolingdong-msft||2023-05-17|
-|2|[#34935](https://github.com/Azure/azure-sdk-for-java/issues/34935)|[FEATURE REQ] Possibility to add network rule when creating container registries|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-05-15|
+|2|[#34935](https://github.com/Azure/azure-sdk-for-java/issues/34935)|[FEATURE REQ] Possibility to add network rule when creating container registries|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao||2023-05-15|
 |3|[#34848](https://github.com/Azure/azure-sdk-for-java/issues/34848)|[BUG] Public key could not be uploaded to applications or service principals|bug, AAD, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2023-05-09|
 |4|[#34845](https://github.com/Azure/azure-sdk-for-java/issues/34845)|[QUERY] Force refreshing access token to avoid Role assignment latency|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao||2023-05-09|
 |5|[#34724](https://github.com/Azure/azure-sdk-for-java/issues/34724)|[QUERY] Associate a subnet with NAT Gateway using Azure Java SDK|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-04-29|
 |6|[#34641](https://github.com/Azure/azure-sdk-for-java/issues/34641)|[QUERY]Do you Java sdk support for Entities - List|question, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2023-04-25|
-|7|[#34424](https://github.com/Azure/azure-sdk-for-java/issues/34424)|[FEATURE REQ] Support asynchronuous calls in `azure-resourcemanager-postgresqlflexibleserver`|ARM, Mgmt, customer-reported, feature-request, issue-addressed|weidongxu-microsoft, XiaofeiCao||2023-04-12|
+|7|[#34424](https://github.com/Azure/azure-sdk-for-java/issues/34424)|[FEATURE REQ] Support asynchronuous calls in `azure-resourcemanager-postgresqlflexibleserver`|ARM, Mgmt, customer-reported, feature-request, issue-addressed|XiaofeiCao, weidongxu-microsoft||2023-04-12|
 |8|[#34338](https://github.com/Azure/azure-sdk-for-java/issues/34338)|[QUERY] How can I know if a resource is automatically created by Azure or by an user?|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-04-05|
 |9|[#34337](https://github.com/Azure/azure-sdk-for-java/issues/34337)|How can I know if a resource is of hidden type?|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-04-05|
 |10|[#34281](https://github.com/Azure/azure-sdk-for-java/issues/34281)|[FEATURE REQ] investigate, add code snippet to Javadoc of mgmt-plane|Mgmt|XiaofeiCao||2023-03-31|
