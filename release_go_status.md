@@ -9,5 +9,5 @@
 | 7 | [#4176](https://github.com/Azure/sdk-release-request/issues/4176) | BharathaAravind |  | Alancere | new issue. | 05-18 | 06-23 |  |
 | 8 | [#4173](https://github.com/Azure/sdk-release-request/issues/4173) | serbrech |  | Alancere | new issue. | 05-18 | 06-23 |  |
 | 9 | [#4164](https://github.com/Azure/sdk-release-request/issues/4164) | Gakum |  | Alancere | new issue. | 05-14 | 06-23 |  |
-| 10 | [#4160](https://github.com/Azure/sdk-release-request/issues/4160) | ambrahma |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 05-11 | 05-26 | -1 |
+| 10 | [#4160](https://github.com/Azure/sdk-release-request/issues/4160) | ambrahma |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 05-11 | 05-26 | -2 |
 | 11 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new comment. | 03-22 | 04-28 |  |
