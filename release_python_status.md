@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4209](https://github.com/Azure/sdk-release-request/issues/4209) | jha1bhavna | azure-mgmt-sql | Wzb123456789 | Attention to inconsistent tag | 05-29 | 06-23 |  |
+| 1 | [#4209](https://github.com/Azure/sdk-release-request/issues/4209) | jha1bhavna | azure-mgmt-sql | Wzb123456789 |  | 05-29 | 06-23 |  |
 | 2 | [#4201](https://github.com/Azure/sdk-release-request/issues/4201) | WendyCaiMS | azure-mgmt-iothubprovisioningservices | Wzb123456789 |  | 05-25 | 06-23 |  |
 | 3 | [#4199](https://github.com/Azure/sdk-release-request/issues/4199) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 | FirstGA | 05-25 | 06-23 |  |
 | 4 | [#4193](https://github.com/Azure/sdk-release-request/issues/4193) | imsiddhartha | azure-mgmt-trafficmanager | Wzb123456789 |  | 05-25 | 06-23 |  |
