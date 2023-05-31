@@ -20,4 +20,3 @@
 | 18 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
 | 19 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
 | 20 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
-| 21 | 'Release for Qumulo.Storage 2022-10-12'  |  |  |  | [#4096](https://github.com/Azure/sdk-release-request/issues/4096)  | 04-26 | 05-26 |  |
