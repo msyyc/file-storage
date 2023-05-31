@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | 'Beta release for Cosmos DB for PostgreSQL - 2022-11-08'  | [#4216](https://github.com/Azure/sdk-release-request/issues/4216)  | [#4218](https://github.com/Azure/sdk-release-request/issues/4218)  | [#4217](https://github.com/Azure/sdk-release-request/issues/4217)  | [#4215](https://github.com/Azure/sdk-release-request/issues/4215)  | 05-30 | 06-23 |  |
-| 2 | 'Release request for SDK for Python release for package-preview-2023-01'  | [#4213](https://github.com/Azure/sdk-release-request/issues/4213)  |  |  |  | 05-30 | 06-23 |  |
+| 2 | 'Release request for SDK for Python release for package-preview-2022-08'  | [#4213](https://github.com/Azure/sdk-release-request/issues/4213)  |  |  |  | 05-30 | 06-23 |  |
 | 3 | '[SQL] Add None as valid option for MinimalTlsVersion'  | [#4209](https://github.com/Azure/sdk-release-request/issues/4209)  | [#4210](https://github.com/Azure/sdk-release-request/issues/4210)  | [#4207](https://github.com/Azure/sdk-release-request/issues/4207)  | [#4208](https://github.com/Azure/sdk-release-request/issues/4208)  | 05-29 | 06-23 |  |
 | 4 | 'Release for Provisioning Services - 2023-03-01-preview'  | [#4201](https://github.com/Azure/sdk-release-request/issues/4201)  | [#4204](https://github.com/Azure/sdk-release-request/issues/4204)  | [#4203](https://github.com/Azure/sdk-release-request/issues/4203)  | [#4202](https://github.com/Azure/sdk-release-request/issues/4202)  | 05-25 | 06-23 |  |
 | 5 | 'Release for Microsoft.GraphServices 2023-04-13'  | [#4199](https://github.com/Azure/sdk-release-request/issues/4199)  | [#4197](https://github.com/Azure/sdk-release-request/issues/4197)  | [#4200](https://github.com/Azure/sdk-release-request/issues/4200)  | [#4198](https://github.com/Azure/sdk-release-request/issues/4198)  | 05-25 | 06-23 |  |
@@ -11,36 +11,35 @@
 | 9 | 'Release for Deployment Stacks - 2022-08-01'  | [#4179](https://github.com/Azure/sdk-release-request/issues/4179)  | [#4182](https://github.com/Azure/sdk-release-request/issues/4182)  | [#4180](https://github.com/Azure/sdk-release-request/issues/4180)  | [#4181](https://github.com/Azure/sdk-release-request/issues/4181)  | 05-18 | 06-23 | Hold on by Python/ |
 | 10 | 'Release for Microsoft.Help - 2023-06-01'  | [#4175](https://github.com/Azure/sdk-release-request/issues/4175)  | [#4176](https://github.com/Azure/sdk-release-request/issues/4176)  | [#4177](https://github.com/Azure/sdk-release-request/issues/4177)  | [#4178](https://github.com/Azure/sdk-release-request/issues/4178)  | 05-18 | 06-23 |  |
 | 11 | 'Release for Azure Kubernetes Fleet Manager 2023-03-15-preview'  | [#4172](https://github.com/Azure/sdk-release-request/issues/4172)  | [#4173](https://github.com/Azure/sdk-release-request/issues/4173)  | [#4174](https://github.com/Azure/sdk-release-request/issues/4174)  | [#4171](https://github.com/Azure/sdk-release-request/issues/4171)  | 05-18 | 06-23 |  |
-| 12 | 'Release request for SDK for Java release for package-preview-2023-01'  |  |  | [#4211](https://github.com/Azure/sdk-release-request/issues/4211)  |  | 05-30 | 06-23 |  |
+| 12 | 'Release request for SDK for Java release for package-preview-2022-08'  |  |  | [#4211](https://github.com/Azure/sdk-release-request/issues/4211)  |  | 05-30 | 06-23 |  |
 | 13 | 'Release for PostgreSQL Flexible Server - API version 2023-03-01-preview'  |  |  | [#4159](https://github.com/Azure/sdk-release-request/issues/4159)  | [#4157](https://github.com/Azure/sdk-release-request/issues/4157)  | 05-11 | 05-26 | Hold on by Java/ |
 | 14 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
 | 15 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 16 | 'Release request for SDK for go release for package-preview-2023-01'  |  | [#4214](https://github.com/Azure/sdk-release-request/issues/4214)  |  |  | 05-30 | 06-23 |  |
-| 17 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
-| 18 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
-| 19 | 'Release request for SDK for JS release for package-preview-2023-01'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
-| 20 | 'Release for PostgreSQL FLexible server API version 2023-03-01-preview fixes to resolve consistency between swagger and SDK'  |  |  |  | [#4205](https://github.com/Azure/sdk-release-request/issues/4205)  | 05-26 | 06-23 |  |
-| 21 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
-| 22 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
-| 23 | 'Elastic SDK Release 2023-02-01-preview'  |  |  |  | [#4156](https://github.com/Azure/sdk-release-request/issues/4156)  | 05-11 | 05-26 |  |
-| 24 | 'Release for Container Service - 2023-04-02-preview'  |  |  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
-| 25 | 'Release for Container Service - 2023-04-01'  |  |  |  | [#4142](https://github.com/Azure/sdk-release-request/issues/4142)  | 05-08 | 05-26 |  |
-| 26 | 'Release for Azure Networking 2022-11-01'  |  |  |  | [#4139](https://github.com/Azure/sdk-release-request/issues/4139)  | 05-07 | 05-26 |  |
-| 27 | 'Release for Traffic Controller 2023-05-01'  |  |  |  | [#4136](https://github.com/Azure/sdk-release-request/issues/4136)  | 05-05 | 05-26 |  |
-| 28 | 'Release for Container Apps 2022-11-01-preview API version'  |  |  |  | [#4133](https://github.com/Azure/sdk-release-request/issues/4133)  | 05-05 | 05-26 |  |
-| 29 | 'Release for Microsoft.DevCenter - 2023-04-01'  |  |  |  | [#4127](https://github.com/Azure/sdk-release-request/issues/4127)  | 05-04 | 05-26 |  |
-| 30 | 'DevHub - 2022-10-11-preview'  |  |  |  | [#4120](https://github.com/Azure/sdk-release-request/issues/4120)  | 05-01 | 05-26 |  |
-| 31 | 'Release for Resource Health- 2022-10-01'  |  |  |  | [#4117](https://github.com/Azure/sdk-release-request/issues/4117)  | 05-01 | 05-26 |  |
-| 32 | 'Release for Cosmos DB 2023-04-15 stable'  |  |  |  | [#4111](https://github.com/Azure/sdk-release-request/issues/4111)  | 04-28 | 05-26 |  |
-| 33 | 'Release for Kubernetes Configuration - 2022-11-01'  |  |  |  | [#4107](https://github.com/Azure/sdk-release-request/issues/4107)  | 04-28 | 05-26 |  |
-| 34 | 'Release for Data Box - 2022-12-01'  |  |  |  | [#4102](https://github.com/Azure/sdk-release-request/issues/4102)  | 04-27 | 05-26 |  |
-| 35 | 'Release for Qumulo.Storage 2022-10-12'  |  |  |  | [#4096](https://github.com/Azure/sdk-release-request/issues/4096)  | 04-26 | 05-26 |  |
-| 36 | 'Release for Microsoft.CostManagement 2022-10-01'  |  |  |  | [#4088](https://github.com/Azure/sdk-release-request/issues/4088)  | 04-25 | 05-26 |  |
-| 37 | 'Release for Azure FrontDoor - 2022-05-01'  |  |  |  | [#4076](https://github.com/Azure/sdk-release-request/issues/4076)  | 04-23 | 05-26 |  |
-| 38 | 'Release for NetworkCloud 2022-12-12-preview'  |  |  |  | [#4073](https://github.com/Azure/sdk-release-request/issues/4073)  | 04-21 | 05-26 |  |
-| 39 | 'Release for Private DNS SDK modules'  |  |  |  | [#4067](https://github.com/Azure/sdk-release-request/issues/4067)  | 04-20 | 05-26 |  |
-| 40 | 'Release '  |  |  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 |  |
-| 41 | 'Release for Compute 2023-03-01'  |  |  |  | [#4060](https://github.com/Azure/sdk-release-request/issues/4060)  | 04-18 | 05-26 |  |
-| 42 | 'Release for MySQL 2022-09-30-preview'  |  |  |  | [#4056](https://github.com/Azure/sdk-release-request/issues/4056)  | 04-18 | 05-26 |  |
-| 43 | 'Release for Liftr-Newrelic - 2023-04-17'  |  |  |  | [#4053](https://github.com/Azure/sdk-release-request/issues/4053)  | 04-17 | 05-26 |  |
-| 44 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |
+| 16 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
+| 17 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 18 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
+| 19 | 'Release for PostgreSQL FLexible server API version 2023-03-01-preview fixes to resolve consistency between swagger and SDK'  |  |  |  | [#4205](https://github.com/Azure/sdk-release-request/issues/4205)  | 05-26 | 06-23 |  |
+| 20 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
+| 21 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
+| 22 | 'Elastic SDK Release 2023-02-01-preview'  |  |  |  | [#4156](https://github.com/Azure/sdk-release-request/issues/4156)  | 05-11 | 05-26 |  |
+| 23 | 'Release for Container Service - 2023-04-02-preview'  |  |  |  | [#4146](https://github.com/Azure/sdk-release-request/issues/4146)  | 05-08 | 05-26 |  |
+| 24 | 'Release for Container Service - 2023-04-01'  |  |  |  | [#4142](https://github.com/Azure/sdk-release-request/issues/4142)  | 05-08 | 05-26 |  |
+| 25 | 'Release for Azure Networking 2022-11-01'  |  |  |  | [#4139](https://github.com/Azure/sdk-release-request/issues/4139)  | 05-07 | 05-26 |  |
+| 26 | 'Release for Traffic Controller 2023-05-01'  |  |  |  | [#4136](https://github.com/Azure/sdk-release-request/issues/4136)  | 05-05 | 05-26 |  |
+| 27 | 'Release for Container Apps 2022-11-01-preview API version'  |  |  |  | [#4133](https://github.com/Azure/sdk-release-request/issues/4133)  | 05-05 | 05-26 |  |
+| 28 | 'Release for Microsoft.DevCenter - 2023-04-01'  |  |  |  | [#4127](https://github.com/Azure/sdk-release-request/issues/4127)  | 05-04 | 05-26 |  |
+| 29 | 'DevHub - 2022-10-11-preview'  |  |  |  | [#4120](https://github.com/Azure/sdk-release-request/issues/4120)  | 05-01 | 05-26 |  |
+| 30 | 'Release for Resource Health- 2022-10-01'  |  |  |  | [#4117](https://github.com/Azure/sdk-release-request/issues/4117)  | 05-01 | 05-26 |  |
+| 31 | 'Release for Cosmos DB 2023-04-15 stable'  |  |  |  | [#4111](https://github.com/Azure/sdk-release-request/issues/4111)  | 04-28 | 05-26 |  |
+| 32 | 'Release for Kubernetes Configuration - 2022-11-01'  |  |  |  | [#4107](https://github.com/Azure/sdk-release-request/issues/4107)  | 04-28 | 05-26 |  |
+| 33 | 'Release for Data Box - 2022-12-01'  |  |  |  | [#4102](https://github.com/Azure/sdk-release-request/issues/4102)  | 04-27 | 05-26 |  |
+| 34 | 'Release for Qumulo.Storage 2022-10-12'  |  |  |  | [#4096](https://github.com/Azure/sdk-release-request/issues/4096)  | 04-26 | 05-26 |  |
+| 35 | 'Release for Microsoft.CostManagement 2022-10-01'  |  |  |  | [#4088](https://github.com/Azure/sdk-release-request/issues/4088)  | 04-25 | 05-26 |  |
+| 36 | 'Release for Azure FrontDoor - 2022-05-01'  |  |  |  | [#4076](https://github.com/Azure/sdk-release-request/issues/4076)  | 04-23 | 05-26 |  |
+| 37 | 'Release for NetworkCloud 2022-12-12-preview'  |  |  |  | [#4073](https://github.com/Azure/sdk-release-request/issues/4073)  | 04-21 | 05-26 |  |
+| 38 | 'Release for Private DNS SDK modules'  |  |  |  | [#4067](https://github.com/Azure/sdk-release-request/issues/4067)  | 04-20 | 05-26 |  |
+| 39 | 'Release '  |  |  |  | [#4063](https://github.com/Azure/sdk-release-request/issues/4063)  | 04-18 | 05-26 |  |
+| 40 | 'Release for Compute 2023-03-01'  |  |  |  | [#4060](https://github.com/Azure/sdk-release-request/issues/4060)  | 04-18 | 05-26 |  |
+| 41 | 'Release for MySQL 2022-09-30-preview'  |  |  |  | [#4056](https://github.com/Azure/sdk-release-request/issues/4056)  | 04-18 | 05-26 |  |
+| 42 | 'Release for Liftr-Newrelic - 2023-04-17'  |  |  |  | [#4053](https://github.com/Azure/sdk-release-request/issues/4053)  | 04-17 | 05-26 |  |
+| 43 | 'Release for Help - 2023-01-01-preview'  |  |  |  | [#4034](https://github.com/Azure/sdk-release-request/issues/4034)  | 04-12 | 04-28 |  |
