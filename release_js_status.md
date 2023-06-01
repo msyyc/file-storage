@@ -12,7 +12,7 @@
 | 10 | [#4183](https://github.com/Azure/sdk-release-request/issues/4183) | dsmith111 |  | MaryGao | Attention to inconsistent tag | 05-19 | 06-23 |  |
 | 11 | [#4181](https://github.com/Azure/sdk-release-request/issues/4181) | harshpatel17 |  | MaryGao | new comment. Attention to inconsistent tag | 05-18 | 06-23 |  |
 | 12 | [#4178](https://github.com/Azure/sdk-release-request/issues/4178) | BharathaAravind |  | MaryGao | new issue. | 05-18 | 06-23 |  |
-| 13 | [#4171](https://github.com/Azure/sdk-release-request/issues/4171) | serbrech |  | MaryGao | new issue. | 05-18 | 06-23 |  |
+| 13 | [#4171](https://github.com/Azure/sdk-release-request/issues/4171) | serbrech |  | MaryGao |  | 05-18 | 06-23 |  |
 | 14 | [#4169](https://github.com/Azure/sdk-release-request/issues/4169) | ahamad-MS |  | MaryGao |  | 05-16 | 06-23 |  |
 | 15 | [#4162](https://github.com/Azure/sdk-release-request/issues/4162) | Gakum |  | MaryGao |  | 05-14 | 06-23 |  |
 | 16 | [#3968](https://github.com/Azure/sdk-release-request/issues/3968) | allison-inman |  | MaryGao |  | 03-22 | 04-28 |  |
