@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#20923](https://github.com/Azure/azure-sdk-for-go/issues/20923)|armpolicy -- inconsistent & case-sensitive|question, Mgmt, customer-reported, needs-team-attention|lirenhe|new issue|2023-05-31|
-|2|[#20912](https://github.com/Azure/azure-sdk-for-go/issues/20912)|Azure Sql Server: VulnerabilityAssessmentsSettingsClient|question, SQL, Mgmt, customer-reported, needs-team-attention|lirenhe|new issue|2023-05-30|
-|3|[#20907](https://github.com/Azure/azure-sdk-for-go/issues/20907)|Support for the upload threat indicators API |question, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2023-05-26|
+|1|[#20923](https://github.com/Azure/azure-sdk-for-go/issues/20923)|armpolicy -- inconsistent & case-sensitive|question, Mgmt, customer-reported, needs-team-attention|lirenhe||2023-05-31|
+|2|[#20912](https://github.com/Azure/azure-sdk-for-go/issues/20912)|Azure Sql Server: VulnerabilityAssessmentsSettingsClient|question, SQL, Mgmt, customer-reported, needs-team-attention|lirenhe||2023-05-30|
+|3|[#20907](https://github.com/Azure/azure-sdk-for-go/issues/20907)|Support for the upload threat indicators API |question, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe||2023-05-26|
 |4|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |5|[#19987](https://github.com/Azure/azure-sdk-for-go/issues/19987)|Increase live test operation coverage for 20 core RPs to 75%+ in mgmt. SDK|Mgmt, test-enhancement|Alancere||2023-02-09|
 |6|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
