@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4221](https://github.com/Azure/sdk-release-request/issues/4221) | ankur741999 | azure-mgmt-dataprotection | Wzb123456789 |  | 05-31 | 06-23 |  |
-| 2 | [#4216](https://github.com/Azure/sdk-release-request/issues/4216) | mozansaka | azure-mgmt-cosmosdbforpostgresql | Wzb123456789 | new comment. FirstBeta | 05-30 | 06-23 |  |
+| 2 | [#4216](https://github.com/Azure/sdk-release-request/issues/4216) | mozansaka | azure-mgmt-cosmosdbforpostgresql | Wzb123456789 | FirstBeta | 05-30 | 06-23 |  |
 | 3 | [#4213](https://github.com/Azure/sdk-release-request/issues/4213) | navba-MSFT | azure-mgmt-sqlvirtualmachine | Wzb123456789 |  | 05-30 | 06-23 |  |
 | 4 | [#4209](https://github.com/Azure/sdk-release-request/issues/4209) | jha1bhavna | azure-mgmt-sql | Wzb123456789 | new comment. | 05-29 | 06-23 |  |
 | 5 | [#4201](https://github.com/Azure/sdk-release-request/issues/4201) | WendyCaiMS | azure-mgmt-iothubprovisioningservices | Wzb123456789 |  | 05-25 | 06-23 |  |
