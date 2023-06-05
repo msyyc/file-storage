@@ -5,7 +5,7 @@
 | 3 | [#4212](https://github.com/Azure/sdk-release-request/issues/4212) | navba-MSFT |  | MaryGao | new issue. | 05-30 | 06-23 |  |
 | 4 | [#4208](https://github.com/Azure/sdk-release-request/issues/4208) | jha1bhavna |  | MaryGao | Attention to inconsistent tag | 05-29 | 06-23 |  |
 | 5 | [#4202](https://github.com/Azure/sdk-release-request/issues/4202) | WendyCaiMS |  | qiaozha | new issue. | 05-25 | 06-23 |  |
-| 6 | [#4198](https://github.com/Azure/sdk-release-request/issues/4198) | amatukmolina |  | qiaozha | new issue. | 05-25 | 06-23 |  |
+| 6 | [#4198](https://github.com/Azure/sdk-release-request/issues/4198) | amatukmolina |  | qiaozha |  | 05-25 | 06-23 |  |
 | 7 | [#4196](https://github.com/Azure/sdk-release-request/issues/4196) | imsiddhartha |  | qiaozha |  | 05-25 | 06-23 |  |
 | 8 | [#4189](https://github.com/Azure/sdk-release-request/issues/4189) | SrinikhilReddy |  | qiaozha |  | 05-23 | 06-23 |  |
 | 9 | [#4185](https://github.com/Azure/sdk-release-request/issues/4185) | ajtiwari07 |  | qiaozha | Attention to inconsistent tag | 05-22 | 06-23 |  |
