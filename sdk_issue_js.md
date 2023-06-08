@@ -1,9 +1,9 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#26106](https://github.com/Azure/azure-sdk-for-js/issues/26106)|[ARM App Platform] Breaking change from 2.0.0 to 3.0.0-beta|Mgmt, ARM - Managed Applications|qiaozha|new issue|2023-06-06|
-|2|[#26053](https://github.com/Azure/azure-sdk-for-js/issues/26053)|Azure App Service Managed Certificate createOrUpdate call throws on 202|question, customer-reported, Mgmt, App Services, needs-team-attention|qiaozha, kazrael2119||2023-05-31|
-|3|[#25857](https://github.com/Azure/azure-sdk-for-js/issues/25857)|Query governance policies attached to a Management Group|question, customer-reported, Mgmt, Policy, needs-author-feedback, no-recent-activity|qiaozha, kazrael2119||2023-05-12|
-|4|[#25671](https://github.com/Azure/azure-sdk-for-js/issues/25671)|beginListActiveSessionsAndWait() does not return Sessions even though the api called by the sdk does return Sessions|bug, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha, kazrael2119||2023-04-26|
+|2|[#26053](https://github.com/Azure/azure-sdk-for-js/issues/26053)|Azure App Service Managed Certificate createOrUpdate call throws on 202|question, customer-reported, Mgmt, App Services, needs-team-attention|kazrael2119, qiaozha||2023-05-31|
+|3|[#25857](https://github.com/Azure/azure-sdk-for-js/issues/25857)|Query governance policies attached to a Management Group|question, customer-reported, Mgmt, Policy, needs-author-feedback, no-recent-activity|kazrael2119, qiaozha||2023-05-12|
+|4|[#25671](https://github.com/Azure/azure-sdk-for-js/issues/25671)|beginListActiveSessionsAndWait() does not return Sessions even though the api called by the sdk does return Sessions|bug, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|kazrael2119, qiaozha||2023-04-26|
 |5|[#25473](https://github.com/Azure/azure-sdk-for-js/issues/25473)|[ResoruceGraph] Change resources from NodeJS ResourceGraphClient miss information randomly|question, customer-reported, Mgmt, Service Attention, Resource Graph, needs-team-attention|qiaozha|new comment|2023-04-06|
 |6|[#25100](https://github.com/Azure/azure-sdk-for-js/issues/25100)|[Mgmt Plane][JS] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new issue|2023-03-06|
 |7|[#24613](https://github.com/Azure/azure-sdk-for-js/issues/24613)|Types are too loosely defined to be useful|customer-reported, Mgmt, feature-request, needs-team-attention, SecurityInsights|qiaozha||2023-01-30|
