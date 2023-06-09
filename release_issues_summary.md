@@ -18,8 +18,9 @@
 | 16 | 'Release for PostgreSQL Flexible Server - API version 2023-03-01-preview'  |  |  | [#4159](https://github.com/Azure/sdk-release-request/issues/4159)  |  | 05-11 | 05-26 | Hold on by Java/ |
 | 17 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
 | 18 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 19 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
-| 20 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
-| 21 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
-| 22 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
-| 23 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
+| 19 | 'Release for Container Service - 2023-05-02-preview'  |  | [#4231](https://github.com/Azure/sdk-release-request/issues/4231)  |  | [#4232](https://github.com/Azure/sdk-release-request/issues/4232)  | 06-09 |  |  |
+| 20 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
+| 21 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 22 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
+| 23 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
+| 24 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
