@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4229](https://github.com/Azure/sdk-release-request/issues/4229) | tibanyas | azure-mgmt-storagecache | Wzb123456789 | new issue. | 06-08 | 06-23 |  |
+| 1 | [#4229](https://github.com/Azure/sdk-release-request/issues/4229) | tibanyas | azure-mgmt-storagecache | Wzb123456789 |  | 06-08 | 06-23 |  |
 | 2 | [#4221](https://github.com/Azure/sdk-release-request/issues/4221) | ankur741999 | azure-mgmt-dataprotection | Wzb123456789 |  | 05-31 | 06-23 |  |
 | 3 | [#4216](https://github.com/Azure/sdk-release-request/issues/4216) | mozansaka | azure-mgmt-cosmosdbforpostgresql | Wzb123456789 | FirstBeta | 05-30 | 06-23 |  |
 | 4 | [#4213](https://github.com/Azure/sdk-release-request/issues/4213) | navba-MSFT | azure-mgmt-sqlvirtualmachine | Wzb123456789 |  | 05-30 | 06-23 |  |
