@@ -8,7 +8,7 @@
 | 6 | [#4210](https://github.com/Azure/sdk-release-request/issues/4210) | jha1bhavna |  | Alancere | Attention to inconsistent tag | 05-29 | 06-23 |  |
 | 7 | [#4204](https://github.com/Azure/sdk-release-request/issues/4204) | WendyCaiMS |  | Alancere |  | 05-25 | 06-23 |  |
 | 8 | [#4197](https://github.com/Azure/sdk-release-request/issues/4197) | amatukmolina |  | Alancere |  | 05-25 | 06-23 |  |
-| 9 | [#4195](https://github.com/Azure/sdk-release-request/issues/4195) | imsiddhartha |  | Alancere |  | 05-25 | 06-23 |  |
+| 9 | [#4195](https://github.com/Azure/sdk-release-request/issues/4195) | imsiddhartha |  | Alancere | new comment. | 05-25 | 06-23 |  |
 | 10 | [#4190](https://github.com/Azure/sdk-release-request/issues/4190) | SrinikhilReddy |  | Alancere |  | 05-23 | 06-23 |  |
 | 11 | [#4184](https://github.com/Azure/sdk-release-request/issues/4184) | ajtiwari07 |  | Alancere |  | 05-22 | 06-23 |  |
 | 12 | [#4176](https://github.com/Azure/sdk-release-request/issues/4176) | BharathaAravind |  | Alancere |  | 05-18 | 06-23 |  |
