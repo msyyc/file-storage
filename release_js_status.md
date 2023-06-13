@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4238](https://github.com/Azure/sdk-release-request/issues/4238) | Vibhuti-Sharma-Microsoft |  | qiaozha | Attention to inconsistent tag | 06-09 | 07-14 |  |
 | 2 | [#4232](https://github.com/Azure/sdk-release-request/issues/4232) | FumingZhang |  | qiaozha |  | 06-09 | 06-23 |  |
-| 3 | [#4228](https://github.com/Azure/sdk-release-request/issues/4228) | tibanyas |  | qiaozha |  | 06-08 | 06-23 |  |
+| 3 | [#4228](https://github.com/Azure/sdk-release-request/issues/4228) | tibanyas |  | qiaozha | new comment. | 06-08 | 06-23 |  |
 | 4 | [#4220](https://github.com/Azure/sdk-release-request/issues/4220) | ankur741999 |  | MaryGao | Attention to inconsistent tag | 05-31 | 06-23 |  |
 | 5 | [#4215](https://github.com/Azure/sdk-release-request/issues/4215) | mozansaka |  | MaryGao | new comment. | 05-30 | 06-23 |  |
 | 6 | [#4212](https://github.com/Azure/sdk-release-request/issues/4212) | navba-MSFT |  | MaryGao |  | 05-30 | 06-23 |  |
