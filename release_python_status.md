@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 | new issue. | 06-13 | 07-28 |  |
-| 2 | [#4240](https://github.com/Azure/sdk-release-request/issues/4240) | msyyc | azure-mgmt-dns | Wzb123456789 | Attention to inconsistent tag MultiAPI | 06-13 | 07-28 |  |
-| 3 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 |  | 06-09 | 07-14 |  |
+| 1 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 |  | 06-13 | 07-28 |  |
+| 2 | [#4240](https://github.com/Azure/sdk-release-request/issues/4240) | msyyc | azure-mgmt-dns | Wzb123456789 | Attention to inconsistent tag | 06-13 | 07-28 |  |
+| 3 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 | new comment. | 06-09 | 07-14 |  |
 | 4 | [#4229](https://github.com/Azure/sdk-release-request/issues/4229) | tibanyas | azure-mgmt-storagecache | Wzb123456789 |  | 06-08 | 06-23 |  |
 | 5 | [#4221](https://github.com/Azure/sdk-release-request/issues/4221) | ankur741999 | azure-mgmt-dataprotection | Wzb123456789 |  | 05-31 | 06-23 |  |
 | 6 | [#4216](https://github.com/Azure/sdk-release-request/issues/4216) | mozansaka | azure-mgmt-cosmosdbforpostgresql | Wzb123456789 | FirstBeta | 05-30 | 06-23 |  |
