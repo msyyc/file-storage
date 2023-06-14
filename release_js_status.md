@@ -18,4 +18,3 @@
 | 16 | [#4171](https://github.com/Azure/sdk-release-request/issues/4171) | serbrech |  | MaryGao | new comment. | 05-18 | 06-23 |  |
 | 17 | [#4169](https://github.com/Azure/sdk-release-request/issues/4169) | ahamad-MS |  | MaryGao |  | 05-16 | 06-23 |  |
 | 18 | [#4162](https://github.com/Azure/sdk-release-request/issues/4162) | Gakum |  | MaryGao |  | 05-14 | 06-23 |  |
-| 19 | [#3968](https://github.com/Azure/sdk-release-request/issues/3968) | allison-inman |  | MaryGao |  | 03-22 | 04-28 |  |

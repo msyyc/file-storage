@@ -22,7 +22,7 @@
 | 20 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
 | 21 | 'Release for Container Service - 2023-05-02-preview'  |  | [#4231](https://github.com/Azure/sdk-release-request/issues/4231)  |  | [#4232](https://github.com/Azure/sdk-release-request/issues/4232)  | 06-09 | 06-23 |  |
 | 22 | 'SDK release for new API version'  |  | [#4164](https://github.com/Azure/sdk-release-request/issues/4164)  |  | [#4162](https://github.com/Azure/sdk-release-request/issues/4162)  | 05-14 | 06-23 |  |
-| 23 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  | [#3968](https://github.com/Azure/sdk-release-request/issues/3968)  | 03-22 | 04-28 | Hold on by JS/Go/ |
+| 23 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
 | 24 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
 | 25 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
 | 26 | 'Release of Azure Event Grid - 2023-06-01-preview'  |  |  |  | [#4169](https://github.com/Azure/sdk-release-request/issues/4169)  | 05-16 | 06-23 |  |
