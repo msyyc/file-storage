@@ -1,13 +1,13 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4254](https://github.com/Azure/sdk-release-request/issues/4254) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 |  | 06-16 | 07-28 |  |
+| 1 | [#4254](https://github.com/Azure/sdk-release-request/issues/4254) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 | FirstBeta | 06-16 | 07-28 |  |
 | 2 | [#4248](https://github.com/Azure/sdk-release-request/issues/4248) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 06-14 | 07-28 |  |
 | 3 | [#4245](https://github.com/Azure/sdk-release-request/issues/4245) | msyyc | azure-mgmt-databricks | Wzb123456789 | HoldOn | 06-14 | 07-28 |  |
 | 4 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 |  | 06-13 | 07-28 |  |
 | 5 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 | new comment. FirstGA | 06-09 | 07-14 |  |
 | 6 | [#4229](https://github.com/Azure/sdk-release-request/issues/4229) | tibanyas | azure-mgmt-storagecache | Wzb123456789 | close to release date.  | 06-08 | 06-23 | 2 |
 | 7 | [#4221](https://github.com/Azure/sdk-release-request/issues/4221) | ankur741999 | azure-mgmt-dataprotection | Wzb123456789 | close to release date.  | 05-31 | 06-23 | 2 |
-| 8 | [#4216](https://github.com/Azure/sdk-release-request/issues/4216) | mozansaka | azure-mgmt-cosmosdbforpostgresql | Wzb123456789 | new comment. close to release date.  FirstBeta | 05-30 | 06-23 | 2 |
+| 8 | [#4216](https://github.com/Azure/sdk-release-request/issues/4216) | mozansaka | azure-mgmt-cosmosdbforpostgresql | Wzb123456789 | close to release date.  FirstBeta | 05-30 | 06-23 | 2 |
 | 9 | [#4213](https://github.com/Azure/sdk-release-request/issues/4213) | navba-MSFT | azure-mgmt-sqlvirtualmachine | Wzb123456789 | close to release date.  | 05-30 | 06-23 | 2 |
 | 10 | [#4209](https://github.com/Azure/sdk-release-request/issues/4209) | jha1bhavna | azure-mgmt-sql | Wzb123456789 | close to release date.  | 05-29 | 06-23 | 2 |
 | 11 | [#4201](https://github.com/Azure/sdk-release-request/issues/4201) | WendyCaiMS | azure-mgmt-iothubprovisioningservices | Wzb123456789 | close to release date.  | 05-25 | 06-23 | 2 |
