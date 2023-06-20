@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4254](https://github.com/Azure/sdk-release-request/issues/4254) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 | FirstBeta | 06-16 | 07-28 |  |
-| 2 | [#4248](https://github.com/Azure/sdk-release-request/issues/4248) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 | new comment. | 06-14 | 06-26 |  |
+| 2 | [#4248](https://github.com/Azure/sdk-release-request/issues/4248) | FumingZhang | azure-mgmt-containerservice | Wzb123456789 |  | 06-14 | 06-26 |  |
 | 3 | [#4245](https://github.com/Azure/sdk-release-request/issues/4245) | msyyc | azure-mgmt-databricks | Wzb123456789 | HoldOn | 06-14 | 07-28 |  |
 | 4 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 |  | 06-13 | 07-28 |  |
 | 5 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 | new comment. FirstGA | 06-09 | 07-14 |  |
