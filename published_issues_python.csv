@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservicefleet,serbrech,Wzb123456789,2023-05-18,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4172,1.0.0b1,
+azure-mgmt-redis,ajtiwari07,Wzb123456789,2023-05-22,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4187,14.2.0,True
+azure-mgmt-trafficmanager,imsiddhartha,Wzb123456789,2023-05-25,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4193,1.1.0,True
+azure-mgmt-containerservice,FumingZhang,Wzb123456789,2023-06-14,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4248,24.0.0,True
 azure-mgmt-dns,msyyc,Wzb123456789,2023-06-13,2023-06-14,https://github.com/Azure/sdk-release-request/issues/4240,8.1.0,True
 azure-mgmt-rdbms,ambrahma,Wzb123456789,2023-05-11,2023-05-26,https://github.com/Azure/sdk-release-request/issues/4158,10.2.0b9,
 azure-mgmt-costmanagement,pednekarpraj,Wzb123456789,2023-04-25,2023-05-26,https://github.com/Azure/sdk-release-request/issues/4089,4.0.0,True
