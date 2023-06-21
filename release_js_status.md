@@ -17,6 +17,6 @@
 | 15 | [#4185](https://github.com/Azure/sdk-release-request/issues/4185) | ajtiwari07 |  | qiaozha | close to release date.  Attention to inconsistent tag | 05-22 | 06-23 | 1 |
 | 16 | [#4183](https://github.com/Azure/sdk-release-request/issues/4183) | dsmith111 |  | MaryGao | close to release date.  Attention to inconsistent tag | 05-19 | 06-23 | 1 |
 | 17 | [#4178](https://github.com/Azure/sdk-release-request/issues/4178) | BharathaAravind |  | MaryGao | new comment. close to release date.  | 05-18 | 06-23 | 1 |
-| 18 | [#4171](https://github.com/Azure/sdk-release-request/issues/4171) | serbrech |  | MaryGao | new comment. close to release date.  | 05-18 | 06-23 | 1 |
+| 18 | [#4171](https://github.com/Azure/sdk-release-request/issues/4171) | serbrech |  | MaryGao | close to release date.  | 05-18 | 06-23 | 1 |
 | 19 | [#4169](https://github.com/Azure/sdk-release-request/issues/4169) | ahamad-MS |  | MaryGao | close to release date.  | 05-16 | 06-23 | 1 |
 | 20 | [#4162](https://github.com/Azure/sdk-release-request/issues/4162) | Gakum |  | MaryGao | close to release date.  | 05-14 | 06-23 | 1 |
