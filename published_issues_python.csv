@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-cosmosdbforpostgresql,mozansaka,Wzb123456789,2023-05-30,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4216,1.0.0b1,
+azure-mgmt-dataprotection,ankur741999,Wzb123456789,2023-05-31,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4221,1.1.0,True
 azure-mgmt-containerservicefleet,serbrech,Wzb123456789,2023-05-18,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4172,1.0.0b1,
 azure-mgmt-redis,ajtiwari07,Wzb123456789,2023-05-22,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4187,14.2.0,True
 azure-mgmt-trafficmanager,imsiddhartha,Wzb123456789,2023-05-25,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4193,1.1.0,True
