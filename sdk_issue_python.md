@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#30822](https://github.com/Azure/azure-sdk-for-python/issues/30822)|[azure.mgmt.network] Add implementation for `az network vnet subnet list-available-ips`|feature-request, question, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc|new comment|2023-06-20|
+|1|[#30822](https://github.com/Azure/azure-sdk-for-python/issues/30822)|[azure.mgmt.network] Add implementation for `az network vnet subnet list-available-ips`|feature-request, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-06-20|
 |2|[#30656](https://github.com/Azure/azure-sdk-for-python/issues/30656)|Incomplete documentation|question, Authorization, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2023-06-06|
 |3|[#30408](https://github.com/Azure/azure-sdk-for-python/issues/30408)|Missing sample|Docs, ARM, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-05-16|
 |4|[#30147](https://github.com/Azure/azure-sdk-for-python/issues/30147)|Import bug: 'RecoveryServicesBackupClient' from 'azure.mgmt.recoveryservicesbackup'|Recovery Services Backup, Mgmt, customer-reported, issue-addressed|msyyc||2023-04-28|
@@ -13,6 +13,6 @@
 |11|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |12|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|BigCat20196, msyyc|new comment|2021-08-16|
 |13|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|14|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
+|14|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
 |15|[#13316](https://github.com/Azure/azure-sdk-for-python/issues/13316)|"Warning: Discriminator source is absent or null, use base class ResourceDetails." when serializing SecurityAssessment object|question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2020-08-25|
 |16|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
