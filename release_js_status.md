@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4268](https://github.com/Azure/sdk-release-request/issues/4268) | eatkimchee |  | qiaozha |  | 06-23 |  | 0 |
+| 1 | [#4268](https://github.com/Azure/sdk-release-request/issues/4268) | eatkimchee |  | qiaozha |  | 06-23 | 07-28 |  |
 | 2 | [#4262](https://github.com/Azure/sdk-release-request/issues/4262) | mumoryan |  | qiaozha | new issue. | 06-21 | 07-28 |  |
 | 3 | [#4260](https://github.com/Azure/sdk-release-request/issues/4260) | audunn |  | qiaozha | new issue. | 06-21 | 07-28 |  |
 | 4 | [#4255](https://github.com/Azure/sdk-release-request/issues/4255) | surajmb |  | MaryGao | new issue. | 06-16 | 07-28 |  |
