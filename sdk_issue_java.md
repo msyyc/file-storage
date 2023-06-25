@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#35527](https://github.com/Azure/azure-sdk-for-java/issues/35527)|[FEATURE REQ] mgmt, redact api-version query parameter upon migrate to test proxy|Mgmt|haolingdong-msft||2023-06-20|
-|2|[#35517](https://github.com/Azure/azure-sdk-for-java/issues/35517)|[BUG] Azure sdk takes too long to report back disk status after attaching|question, ARM, Mgmt, customer-reported|XiaofeiCao|new comment|2023-06-19|
+|2|[#35517](https://github.com/Azure/azure-sdk-for-java/issues/35517)|[BUG] Azure sdk takes too long to report back disk status after attaching|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-06-19|
 |3|[#35430](https://github.com/Azure/azure-sdk-for-java/issues/35430)|[BUG] escape resourceId exposed by convenience layer code, which may contain white space|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-13|
 |4|[#35425](https://github.com/Azure/azure-sdk-for-java/issues/35425)|[BUG] Creating diagnostic settings ignores log settings|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao||2023-06-13|
 |5|[#35316](https://github.com/Azure/azure-sdk-for-java/issues/35316)|[FEATURE REQ] LIVE test for mgmt GA Lite packages|Mgmt, Mgmt-EngSys|XiaofeiCao, v-hongli1||2023-06-06|
