@@ -8,4 +8,3 @@
 | 6 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 |  | 06-13 | 07-28 |  |
 | 7 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 | FirstGA | 06-09 | 07-14 |  |
 | 8 | [#4209](https://github.com/Azure/sdk-release-request/issues/4209) | jha1bhavna | azure-mgmt-sql | Wzb123456789 | close to release date.  | 05-29 | 06-23 | -2 |
-| 9 | [#4199](https://github.com/Azure/sdk-release-request/issues/4199) | amatukmolina | azure-mgmt-graphservices | Wzb123456789 | close to release date.  FirstGA | 05-25 | 06-23 | -2 |
