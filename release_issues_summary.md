@@ -10,19 +10,19 @@
 | 8 | 'Release for PaloAltoNetworks (GA)'  | [#4236](https://github.com/Azure/sdk-release-request/issues/4236)  | [#4239](https://github.com/Azure/sdk-release-request/issues/4239)  | [#4237](https://github.com/Azure/sdk-release-request/issues/4237)  | [#4238](https://github.com/Azure/sdk-release-request/issues/4238)  | 06-09 | 07-14 |  |
 | 9 | '[SQL] Add None as valid option for MinimalTlsVersion'  | [#4209](https://github.com/Azure/sdk-release-request/issues/4209)  | [#4210](https://github.com/Azure/sdk-release-request/issues/4210)  | [#4207](https://github.com/Azure/sdk-release-request/issues/4207)  | [#4208](https://github.com/Azure/sdk-release-request/issues/4208)  | 05-29 | 06-23 |  |
 | 10 | 'Release for Provisioning Services - 2023-03-01-preview'  |  |  | [#4203](https://github.com/Azure/sdk-release-request/issues/4203)  | [#4202](https://github.com/Azure/sdk-release-request/issues/4202)  | 05-25 | 06-23 |  |
-| 11 | 'Release for Microsoft.GraphServices 2023-04-13'  |  |  | [#4200](https://github.com/Azure/sdk-release-request/issues/4200)  | [#4198](https://github.com/Azure/sdk-release-request/issues/4198)  | 05-25 | 06-23 |  |
-| 12 | 'Release for trafficmanager 2022-04-01'  |  |  | [#4194](https://github.com/Azure/sdk-release-request/issues/4194)  | [#4196](https://github.com/Azure/sdk-release-request/issues/4196)  | 05-25 | 06-23 |  |
-| 13 | 'Release for CosmosDB service - 2023-03-15-preview'  |  |  | [#4188](https://github.com/Azure/sdk-release-request/issues/4188)  | [#4189](https://github.com/Azure/sdk-release-request/issues/4189)  | 05-23 | 06-23 |  |
-| 14 | 'Release for PostgreSQL Flexible Server - API version 2023-03-01-preview'  |  |  | [#4159](https://github.com/Azure/sdk-release-request/issues/4159)  |  | 05-11 | 05-26 | Hold on by Java/ |
-| 15 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
-| 16 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
-| 17 | 'Release for Container Service - 2023-05-01'  |  | [#4249](https://github.com/Azure/sdk-release-request/issues/4249)  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
-| 18 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
-| 19 | 'Release for Container Service - 2023-05-02-preview'  |  |  |  | [#4232](https://github.com/Azure/sdk-release-request/issues/4232)  | 06-09 | 06-23 |  |
-| 20 | 'Release for Azure StorageCache 2023-05-01'  |  |  |  | [#4228](https://github.com/Azure/sdk-release-request/issues/4228)  | 06-08 | 06-23 |  |
-| 21 | 'SDK DPP MUA Release API Version: 2023-01-01'  |  |  |  | [#4220](https://github.com/Azure/sdk-release-request/issues/4220)  | 05-31 | 06-23 |  |
-| 22 | 'Beta release for Cosmos DB for PostgreSQL - 2022-11-08'  |  |  |  | [#4215](https://github.com/Azure/sdk-release-request/issues/4215)  | 05-30 | 06-23 |  |
-| 23 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
+| 11 | 'Release for trafficmanager 2022-04-01'  |  |  | [#4194](https://github.com/Azure/sdk-release-request/issues/4194)  | [#4196](https://github.com/Azure/sdk-release-request/issues/4196)  | 05-25 | 06-23 |  |
+| 12 | 'Release for CosmosDB service - 2023-03-15-preview'  |  |  | [#4188](https://github.com/Azure/sdk-release-request/issues/4188)  | [#4189](https://github.com/Azure/sdk-release-request/issues/4189)  | 05-23 | 06-23 |  |
+| 13 | 'Release for PostgreSQL Flexible Server - API version 2023-03-01-preview'  |  |  | [#4159](https://github.com/Azure/sdk-release-request/issues/4159)  |  | 05-11 | 05-26 | Hold on by Java/ |
+| 14 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
+| 15 | 'Release for DataProtection 2023-01-01'  |  |  | [#3692](https://github.com/Azure/sdk-release-request/issues/3692)  |  | 01-24 | 02-24 |  |
+| 16 | 'Release for Container Service - 2023-05-01'  |  | [#4249](https://github.com/Azure/sdk-release-request/issues/4249)  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
+| 17 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
+| 18 | 'Release for Container Service - 2023-05-02-preview'  |  |  |  | [#4232](https://github.com/Azure/sdk-release-request/issues/4232)  | 06-09 | 06-23 |  |
+| 19 | 'Release for Azure StorageCache 2023-05-01'  |  |  |  | [#4228](https://github.com/Azure/sdk-release-request/issues/4228)  | 06-08 | 06-23 |  |
+| 20 | 'SDK DPP MUA Release API Version: 2023-01-01'  |  |  |  | [#4220](https://github.com/Azure/sdk-release-request/issues/4220)  | 05-31 | 06-23 |  |
+| 21 | 'Beta release for Cosmos DB for PostgreSQL - 2022-11-08'  |  |  |  | [#4215](https://github.com/Azure/sdk-release-request/issues/4215)  | 05-30 | 06-23 |  |
+| 22 | 'Release request for SDK for JS release for package-preview-2022-08'  |  |  |  | [#4212](https://github.com/Azure/sdk-release-request/issues/4212)  | 05-30 | 06-23 |  |
+| 23 | 'Release for Microsoft.GraphServices 2023-04-13'  |  |  |  | [#4198](https://github.com/Azure/sdk-release-request/issues/4198)  | 05-25 | 06-23 |  |
 | 24 | 'Release for Azure Redis - 2023-04-01'  |  |  |  | [#4185](https://github.com/Azure/sdk-release-request/issues/4185)  | 05-22 | 06-23 |  |
 | 25 | 'Release for Azure BareMetal Instances - 2021-08-09'  |  |  |  | [#4183](https://github.com/Azure/sdk-release-request/issues/4183)  | 05-19 | 06-23 |  |
 | 26 | 'Release for Microsoft.Help - 2023-06-01'  |  |  |  | [#4178](https://github.com/Azure/sdk-release-request/issues/4178)  | 05-18 | 06-23 |  |
