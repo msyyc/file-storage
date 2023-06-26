@@ -8,11 +8,11 @@
 | 6 | [#4250](https://github.com/Azure/sdk-release-request/issues/4250) | FumingZhang |  | v-hongli1 |  | 06-14 |  | 0 |
 | 7 | [#4243](https://github.com/Azure/sdk-release-request/issues/4243) | JJJessieWang |  | XiaofeiCao | new issue. | 06-13 | 07-28 |  |
 | 8 | [#4237](https://github.com/Azure/sdk-release-request/issues/4237) | Vibhuti-Sharma-Microsoft |  | haolingdong-msft | Attention to inconsistent tag | 06-09 | 07-14 |  |
-| 9 | [#4225](https://github.com/Azure/sdk-release-request/issues/4225) | yuwzho |  | XiaofeiCao | new comment. close to release date.  Attention to inconsistent tag | 06-05 | 06-23 | -2 |
-| 10 | [#4207](https://github.com/Azure/sdk-release-request/issues/4207) | jha1bhavna |  | XiaofeiCao | new comment. close to release date.  Attention to inconsistent tag | 05-29 | 06-23 | -2 |
-| 11 | [#4203](https://github.com/Azure/sdk-release-request/issues/4203) | WendyCaiMS |  | haolingdong-msft | close to release date.  | 05-25 | 06-23 | -2 |
-| 12 | [#4200](https://github.com/Azure/sdk-release-request/issues/4200) | amatukmolina |  | haolingdong-msft | close to release date.  | 05-25 | 06-23 | -2 |
-| 13 | [#4194](https://github.com/Azure/sdk-release-request/issues/4194) | imsiddhartha |  | weidongxu-microsoft | close to release date.  | 05-25 | 06-23 | -2 |
+| 9 | [#4225](https://github.com/Azure/sdk-release-request/issues/4225) | yuwzho |  | XiaofeiCao | new comment. Attention to inconsistent tag | 06-05 | 06-23 |  |
+| 10 | [#4207](https://github.com/Azure/sdk-release-request/issues/4207) | jha1bhavna |  | XiaofeiCao | new comment. Attention to inconsistent tag | 05-29 | 06-23 |  |
+| 11 | [#4203](https://github.com/Azure/sdk-release-request/issues/4203) | WendyCaiMS |  | haolingdong-msft |  | 05-25 | 06-23 |  |
+| 12 | [#4200](https://github.com/Azure/sdk-release-request/issues/4200) | amatukmolina |  | haolingdong-msft |  | 05-25 | 06-23 |  |
+| 13 | [#4194](https://github.com/Azure/sdk-release-request/issues/4194) | imsiddhartha |  | weidongxu-microsoft |  | 05-25 | 06-23 |  |
 | 14 | [#4188](https://github.com/Azure/sdk-release-request/issues/4188) | SrinikhilReddy |  | v-hongli1 |  | 05-23 |  | 0 |
 | 15 | [#4159](https://github.com/Azure/sdk-release-request/issues/4159) | ambrahma |  | XiaofeiCao | new comment. Attention to inconsistent tag | 05-11 | 05-26 |  |
 | 16 | [#3991](https://github.com/Azure/sdk-release-request/issues/3991) | achocron |  | XiaofeiCao |  | 03-24 | 04-28 |  |
