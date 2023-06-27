@@ -4,7 +4,7 @@
 | 2 | [#4280](https://github.com/Azure/sdk-release-request/issues/4280) | htippanaboya |  | XiaofeiCao |  | 06-26 | 07-28 |  |
 | 3 | [#4275](https://github.com/Azure/sdk-release-request/issues/4275) | JeetendraJoshi-MSFT |  | weidongxu-microsoft | Attention to inconsistent tag | 06-26 | 07-28 |  |
 | 4 | [#4272](https://github.com/Azure/sdk-release-request/issues/4272) | michaelshikh07 |  | haolingdong-msft | new issue. | 06-25 | 07-28 |  |
-| 5 | [#4265](https://github.com/Azure/sdk-release-request/issues/4265) | eatkimchee |  | weidongxu-microsoft | new comment. | 06-23 | 07-28 |  |
+| 5 | [#4265](https://github.com/Azure/sdk-release-request/issues/4265) | eatkimchee |  | weidongxu-microsoft |  | 06-23 | 07-28 |  |
 | 6 | [#4264](https://github.com/Azure/sdk-release-request/issues/4264) | mumoryan |  | XiaofeiCao | new issue. | 06-21 | 07-28 |  |
 | 7 | [#4259](https://github.com/Azure/sdk-release-request/issues/4259) | audunn |  | XiaofeiCao | new issue. | 06-21 | 07-28 |  |
 | 8 | [#4256](https://github.com/Azure/sdk-release-request/issues/4256) | surajmb |  | weidongxu-microsoft | new comment. | 06-16 | 07-28 |  |
