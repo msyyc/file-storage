@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 | new issue. | 06-28 | 07-28 |  |
+| 1 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 | new comment. | 06-28 | 07-28 |  |
 | 2 | [#4293](https://github.com/Azure/sdk-release-request/issues/4293) | thomasricci | azure-mgmt-dnc | Wzb123456789 | Attention to inconsistent tag | 06-28 | 07-28 |  |
 | 3 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | duplicated issue  <br> new comment. Attention to inconsistent tag | 06-27 | 07-28 |  |
 | 4 | [#4284](https://github.com/Azure/sdk-release-request/issues/4284) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 06-27 | 07-28 |  |
