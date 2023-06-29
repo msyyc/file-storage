@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4300](https://github.com/Azure/sdk-release-request/issues/4300) | jmmscript |  | weidongxu-microsoft | new issue. new comment. | 06-28 | 07-28 |  |
+| 1 | [#4300](https://github.com/Azure/sdk-release-request/issues/4300) | jmmscript |  | weidongxu-microsoft |  | 06-28 | 07-28 |  |
 | 2 | [#4295](https://github.com/Azure/sdk-release-request/issues/4295) | yuc-Li |  | haolingdong-msft | new issue. | 06-28 | 07-28 |  |
 | 3 | [#4290](https://github.com/Azure/sdk-release-request/issues/4290) | thomasricci |  | XiaofeiCao | Attention to inconsistent tag | 06-28 | 07-28 |  |
 | 4 | [#4287](https://github.com/Azure/sdk-release-request/issues/4287) | GalGoldi72 |  | XiaofeiCao | Attention to inconsistent tag | 06-27 | 07-28 |  |
@@ -8,7 +8,7 @@
 | 6 | [#4280](https://github.com/Azure/sdk-release-request/issues/4280) | htippanaboya |  | XiaofeiCao |  | 06-26 | 07-28 |  |
 | 7 | [#4275](https://github.com/Azure/sdk-release-request/issues/4275) | JeetendraJoshi-MSFT |  | weidongxu-microsoft | Attention to inconsistent tag | 06-26 | 07-28 |  |
 | 8 | [#4272](https://github.com/Azure/sdk-release-request/issues/4272) | michaelshikh07 |  | haolingdong-msft | new issue. | 06-25 | 07-28 |  |
-| 9 | [#4265](https://github.com/Azure/sdk-release-request/issues/4265) | eatkimchee |  | weidongxu-microsoft |  | 06-23 | 07-28 |  |
+| 9 | [#4265](https://github.com/Azure/sdk-release-request/issues/4265) | eatkimchee |  | weidongxu-microsoft | new comment. | 06-23 | 07-28 |  |
 | 10 | [#4264](https://github.com/Azure/sdk-release-request/issues/4264) | mumoryan |  | XiaofeiCao | new issue. | 06-21 | 07-28 |  |
 | 11 | [#4259](https://github.com/Azure/sdk-release-request/issues/4259) | audunn |  | XiaofeiCao | new issue. | 06-21 | 07-28 |  |
 | 12 | [#4243](https://github.com/Azure/sdk-release-request/issues/4243) | JJJessieWang |  | XiaofeiCao | new issue. | 06-13 | 07-28 |  |
