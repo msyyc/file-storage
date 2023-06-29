@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-managednetworkfabric,surajmb,Wzb123456789,2023-06-16,2023-06-29,https://github.com/Azure/sdk-release-request/issues/4254,1.0.0b1,
 azure-mgmt-graphservices,amatukmolina,Wzb123456789,2023-05-25,2023-06-25,https://github.com/Azure/sdk-release-request/issues/4199,1.0.0,True
 azure-mgmt-selfhelp,BharathaAravind,Wzb123456789,2023-05-18,2023-06-25,https://github.com/Azure/sdk-release-request/issues/4175,1.0.0,True
 azure-mgmt-storagecache,tibanyas,Wzb123456789,2023-06-08,2023-06-21,https://github.com/Azure/sdk-release-request/issues/4229,1.5.0,True
