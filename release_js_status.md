@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4299](https://github.com/Azure/sdk-release-request/issues/4299) | jmmscript |  | MaryGao | new issue. new comment. | 06-28 | 07-28 |  |
 | 2 | [#4294](https://github.com/Azure/sdk-release-request/issues/4294) | yuc-Li |  | MaryGao | new issue. | 06-28 | 07-28 |  |
-| 3 | [#4291](https://github.com/Azure/sdk-release-request/issues/4291) | thomasricci |  | MaryGao | Attention to inconsistent tag | 06-28 | 07-28 |  |
+| 3 | [#4291](https://github.com/Azure/sdk-release-request/issues/4291) | thomasricci |  | MaryGao | new comment. Attention to inconsistent tag | 06-28 | 07-28 |  |
 | 4 | [#4288](https://github.com/Azure/sdk-release-request/issues/4288) | GalGoldi72 |  | MaryGao |  | 06-27 | 07-28 |  |
 | 5 | [#4283](https://github.com/Azure/sdk-release-request/issues/4283) | yangyuan |  | MaryGao | new issue. | 06-27 | 07-28 |  |
 | 6 | [#4281](https://github.com/Azure/sdk-release-request/issues/4281) | htippanaboya |  | MaryGao | new issue. | 06-26 | 07-28 |  |
