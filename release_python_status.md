@@ -11,6 +11,5 @@
 | 9 | [#4267](https://github.com/Azure/sdk-release-request/issues/4267) | eatkimchee | azure-mgmt-iotfirmwaredefense | Wzb123456789 |  | 06-23 | 07-28 |  |
 | 10 | [#4263](https://github.com/Azure/sdk-release-request/issues/4263) | mumoryan | azure-mgmt-authorization | Wzb123456789 |  | 06-21 | 07-28 |  |
 | 11 | [#4257](https://github.com/Azure/sdk-release-request/issues/4257) | audunn | azure-mgmt-netapp | Wzb123456789 |  | 06-21 | 07-28 |  |
-| 13 | [#4245](https://github.com/Azure/sdk-release-request/issues/4245) | msyyc | azure-mgmt-databricks | Wzb123456789 | HoldOn | 06-14 | 07-28 |  |
-| 14 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 |  | 06-13 | 07-28 |  |
-| 15 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 | FirstGA | 06-09 | 07-14 |  |
+| 13 | [#4241](https://github.com/Azure/sdk-release-request/issues/4241) | JJJessieWang | azure-mgmt-batch | Wzb123456789 |  | 06-13 | 07-28 |  |
+| 14 | [#4236](https://github.com/Azure/sdk-release-request/issues/4236) | Vibhuti-Sharma-Microsoft | azure-mgmt-paloaltonetworksngfw | Wzb123456789 | FirstGA | 06-09 | 07-14 |  |
