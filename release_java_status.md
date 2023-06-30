@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4311](https://github.com/Azure/sdk-release-request/issues/4311) | allegradomel |  | XiaofeiCao | new issue. | 06-29 | 07-28 |  |
-| 2 | [#4303](https://github.com/Azure/sdk-release-request/issues/4303) | haagha |  | XiaofeiCao | new issue. | 06-29 | 07-28 |  |
+| 2 | [#4303](https://github.com/Azure/sdk-release-request/issues/4303) | haagha |  | v-hongli1 |  | 06-29 |  | 0 |
 | 3 | [#4300](https://github.com/Azure/sdk-release-request/issues/4300) | jmmscript |  | weidongxu-microsoft |  | 06-28 | 07-28 |  |
 | 4 | [#4295](https://github.com/Azure/sdk-release-request/issues/4295) | yuc-Li |  | haolingdong-msft | new issue. | 06-28 | 07-28 |  |
 | 5 | [#4290](https://github.com/Azure/sdk-release-request/issues/4290) | thomasricci |  | XiaofeiCao | Attention to inconsistent tag | 06-28 | 07-28 |  |
