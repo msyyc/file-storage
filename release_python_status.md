@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | duplicated issue  <br> new issue. | 06-29 | 07-28 |  |
-| 2 | [#4306](https://github.com/Azure/sdk-release-request/issues/4306) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | duplicated issue  <br> new issue. | 06-29 | 07-28 |  |
+| 1 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | duplicated issue  <br> | 06-29 | 07-28 |  |
+| 2 | [#4306](https://github.com/Azure/sdk-release-request/issues/4306) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | duplicated issue  <br> | 06-29 | 07-28 |  |
 | 3 | [#4305](https://github.com/Azure/sdk-release-request/issues/4305) | haagha | azure-mgmt-compute | Wzb123456789 | new issue. MultiAPI | 06-29 | 07-28 |  |
 | 4 | [#4301](https://github.com/Azure/sdk-release-request/issues/4301) | jmmscript | azure-mgmt-networkcloud | Wzb123456789 |  | 06-28 | 07-28 |  |
 | 5 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 |  | 06-28 | 07-28 |  |
