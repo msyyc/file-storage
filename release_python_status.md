@@ -5,7 +5,7 @@
 | 3 | [#4305](https://github.com/Azure/sdk-release-request/issues/4305) | haagha | azure-mgmt-compute | Wzb123456789 | new issue. MultiAPI | 06-29 | 07-28 |  |
 | 4 | [#4301](https://github.com/Azure/sdk-release-request/issues/4301) | jmmscript | azure-mgmt-networkcloud | Wzb123456789 |  | 06-28 | 07-28 |  |
 | 5 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 |  | 06-28 | 07-28 |  |
-| 6 | [#4293](https://github.com/Azure/sdk-release-request/issues/4293) | thomasricci | azure-mgmt-dnc | Wzb123456789 | new comment. Attention to inconsistent tag | 06-28 | 07-28 |  |
+| 6 | [#4293](https://github.com/Azure/sdk-release-request/issues/4293) | thomasricci | azure-mgmt-dnc | Wzb123456789 | Attention to inconsistent tag | 06-28 | 07-28 |  |
 | 7 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | HoldOn | 06-27 | 07-28 |  |
 | 8 | [#4284](https://github.com/Azure/sdk-release-request/issues/4284) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 06-27 | 07-28 |  |
 | 9 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 06-26 | 07-28 |  |
