@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4315](https://github.com/Azure/sdk-release-request/issues/4315) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 | new issue. | 07-03 | 07-28 |  |
+| 1 | [#4315](https://github.com/Azure/sdk-release-request/issues/4315) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 |  | 07-03 | 07-28 |  |
 | 2 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 |  | 06-29 | 07-28 |  |
 | 3 | [#4305](https://github.com/Azure/sdk-release-request/issues/4305) | haagha | azure-mgmt-compute | Wzb123456789 |  | 06-29 | 07-28 |  |
 | 4 | [#4301](https://github.com/Azure/sdk-release-request/issues/4301) | jmmscript | azure-mgmt-networkcloud | Wzb123456789 |  | 06-28 | 07-28 |  |
