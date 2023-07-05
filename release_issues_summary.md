@@ -19,7 +19,6 @@
 | 17 | 'Request for SDKs for 2023-06 of MobileNetwork'  |  | [#4277](https://github.com/Azure/sdk-release-request/issues/4277)  | [#4275](https://github.com/Azure/sdk-release-request/issues/4275)  | [#4278](https://github.com/Azure/sdk-release-request/issues/4278)  | 06-26 | 07-28 |  |
 | 18 | '[SQL] Add None as valid option for MinimalTlsVersion'  |  | [#4210](https://github.com/Azure/sdk-release-request/issues/4210)  | [#4207](https://github.com/Azure/sdk-release-request/issues/4207)  | [#4208](https://github.com/Azure/sdk-release-request/issues/4208)  | 05-29 | 06-23 |  |
 | 19 | 'Release for Provisioning Services - 2023-03-01-preview'  |  |  | [#4203](https://github.com/Azure/sdk-release-request/issues/4203)  |  | 05-25 | 06-23 |  |
-| 20 | 'Release for CosmosDB service - 2023-03-15-preview'  |  |  | [#4188](https://github.com/Azure/sdk-release-request/issues/4188)  |  | 05-23 |  |  |
-| 21 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
-| 22 | 'Release for Container Service - 2023-05-01'  |  | [#4249](https://github.com/Azure/sdk-release-request/issues/4249)  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
-| 23 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
+| 20 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
+| 21 | 'Release for Container Service - 2023-05-01'  |  | [#4249](https://github.com/Azure/sdk-release-request/issues/4249)  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
+| 22 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
