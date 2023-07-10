@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#31029](https://github.com/Azure/azure-sdk-for-python/issues/31029)|Zones Field Missing for Public IP Addresses When Using `ResourceManagementClient.resources.get_by_id()`|question, ARM, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-07-07|
+|1|[#31029](https://github.com/Azure/azure-sdk-for-python/issues/31029)|Zones Field Missing for Public IP Addresses When Using `ResourceManagementClient.resources.get_by_id()`|question, ARM, Mgmt, customer-reported, issue-addressed|msyyc||2023-07-07|
 |2|[#30997](https://github.com/Azure/azure-sdk-for-python/issues/30997)|VMSS operation : How to scale?|question, Compute, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc||2023-07-05|
 |3|[#30987](https://github.com/Azure/azure-sdk-for-python/issues/30987)|An attribute in the usage example is mispelled|Docs, question, ARM, Mgmt, customer-reported, needs-team-attention, Resources|swathipil, msyyc||2023-07-03|
 |4|[#30986](https://github.com/Azure/azure-sdk-for-python/issues/30986)|Minor Rendering issue|question, Compute, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc||2023-07-03|
@@ -17,6 +17,6 @@
 |15|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |16|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|BigCat20196, msyyc|new comment|2021-08-16|
 |17|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc, iscai-msft|new comment|2021-04-05|
 |19|[#13316](https://github.com/Azure/azure-sdk-for-python/issues/13316)|"Warning: Discriminator source is absent or null, use base class ResourceDetails." when serializing SecurityAssessment object|question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2020-08-25|
 |20|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
