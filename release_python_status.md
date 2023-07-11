@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4323](https://github.com/Azure/sdk-release-request/issues/4323) | zackliu |  | Wzb123456789 |  | 07-10 |  | 0 |
+| 1 | [#4323](https://github.com/Azure/sdk-release-request/issues/4323) | zackliu |  | Wzb123456789 |  | 07-10 | 07-28 |  |
 | 2 | [#4321](https://github.com/Azure/sdk-release-request/issues/4321) | xinyi-joffre | azure-mgmt-quantum | Wzb123456789 |  | 07-07 | 07-28 |  |
 | 3 | [#4315](https://github.com/Azure/sdk-release-request/issues/4315) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 |  | 07-03 | 07-28 |  |
 | 4 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | FirstBeta | 06-29 | 07-28 |  |
