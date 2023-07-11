@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4330](https://github.com/Azure/sdk-release-request/issues/4330) | yifanz7 | azure-mgmt-storagemover | Wzb123456789 | new issue. | 07-11 | 07-28 |  |
-| 2 | [#4326](https://github.com/Azure/sdk-release-request/issues/4326) | yifanz7 | azure-mgmt-elasticsan | Wzb123456789 |  | 07-11 | 07-28 |  |
+| 1 | [#4330](https://github.com/Azure/sdk-release-request/issues/4330) | yifanz7 | azure-mgmt-storagemover | Wzb123456789 |  | 07-11 | 07-28 |  |
+| 2 | [#4326](https://github.com/Azure/sdk-release-request/issues/4326) | yifanz7 | azure-mgmt-elasticsan | Wzb123456789 | new issue. | 07-11 | 07-28 |  |
 | 3 | [#4323](https://github.com/Azure/sdk-release-request/issues/4323) | zackliu | azure-mgmt-webpubsub | Wzb123456789 |  | 07-10 | 07-28 |  |
 | 4 | [#4321](https://github.com/Azure/sdk-release-request/issues/4321) | xinyi-joffre | azure-mgmt-quantum | Wzb123456789 |  | 07-07 | 07-28 |  |
 | 5 | [#4315](https://github.com/Azure/sdk-release-request/issues/4315) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 |  | 07-03 | 07-28 |  |
