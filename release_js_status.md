@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4322](https://github.com/Azure/sdk-release-request/issues/4322) | zackliu |  | MaryGao |  | 07-10 | 07-28 |  |
-| 2 | [#4319](https://github.com/Azure/sdk-release-request/issues/4319) | xinyi-joffre |  | qiaozha | new comment. | 07-07 | 07-28 |  |
+| 2 | [#4319](https://github.com/Azure/sdk-release-request/issues/4319) | xinyi-joffre |  | qiaozha |  | 07-07 | 07-28 |  |
 | 3 | [#4317](https://github.com/Azure/sdk-release-request/issues/4317) | Shashank1306s |  | qiaozha |  | 07-03 | 07-28 |  |
 | 4 | [#4307](https://github.com/Azure/sdk-release-request/issues/4307) | allegradomel |  | MaryGao |  | 06-29 | 07-28 |  |
 | 5 | [#4304](https://github.com/Azure/sdk-release-request/issues/4304) | haagha |  | MaryGao |  | 06-29 | 07-28 |  |
