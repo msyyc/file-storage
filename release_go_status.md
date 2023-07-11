@@ -1,13 +1,13 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4333](https://github.com/Azure/sdk-release-request/issues/4333) | yifanz7 |  | Alancere | new issue. | 07-11 | 07-28 |  |
-| 2 | [#4327](https://github.com/Azure/sdk-release-request/issues/4327) | yifanz7 |  | Alancere | new issue. | 07-11 | 07-28 |  |
+| 1 | [#4333](https://github.com/Azure/sdk-release-request/issues/4333) | yifanz7 |  | Alancere |  | 07-11 | 07-28 |  |
+| 2 | [#4327](https://github.com/Azure/sdk-release-request/issues/4327) | yifanz7 |  | Alancere |  | 07-11 | 07-28 |  |
 | 3 | [#4324](https://github.com/Azure/sdk-release-request/issues/4324) | zackliu |  | Alancere |  | 07-10 | 07-28 |  |
 | 4 | [#4318](https://github.com/Azure/sdk-release-request/issues/4318) | xinyi-joffre |  | Alancere |  | 07-07 | 07-28 |  |
-| 5 | [#4314](https://github.com/Azure/sdk-release-request/issues/4314) | Shashank1306s |  | Alancere | new issue. | 07-03 | 07-28 |  |
+| 5 | [#4314](https://github.com/Azure/sdk-release-request/issues/4314) | Shashank1306s |  | Alancere |  | 07-03 | 07-28 |  |
 | 6 | [#4310](https://github.com/Azure/sdk-release-request/issues/4310) | allegradomel |  | Alancere |  | 06-29 | 07-28 |  |
 | 7 | [#4302](https://github.com/Azure/sdk-release-request/issues/4302) | haagha |  | Alancere |  | 06-29 | 07-28 |  |
-| 8 | [#4298](https://github.com/Azure/sdk-release-request/issues/4298) | jmmscript |  | Alancere | new issue. new comment. | 06-28 | 07-28 |  |
+| 8 | [#4298](https://github.com/Azure/sdk-release-request/issues/4298) | jmmscript |  | Alancere |  | 06-28 | 07-28 |  |
 | 9 | [#4296](https://github.com/Azure/sdk-release-request/issues/4296) | yuc-Li |  | Alancere | new comment. | 06-28 | 07-28 |  |
 | 10 | [#4286](https://github.com/Azure/sdk-release-request/issues/4286) | yangyuan |  | Alancere |  | 06-27 | 07-28 |  |
 | 11 | [#4279](https://github.com/Azure/sdk-release-request/issues/4279) | htippanaboya |  | Alancere |  | 06-26 | 07-28 |  |
