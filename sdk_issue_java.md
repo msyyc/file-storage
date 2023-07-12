@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35817](https://github.com/Azure/azure-sdk-for-java/issues/35817)|[BUG] Protectable Containers - List api doesn't work|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-07-11|
+|1|[#35817](https://github.com/Azure/azure-sdk-for-java/issues/35817)|[BUG] Protectable Containers - List api doesn't work|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao|new comment|2023-07-11|
 |2|[#35791](https://github.com/Azure/azure-sdk-for-java/issues/35791)|Long running operation is Failed or Cancelled exception occurs when workloads live test|ARM, Mgmt, test-reliability|XiaofeiCao, weidongxu-microsoft||2023-07-10|
 |3|[#35672](https://github.com/Azure/azure-sdk-for-java/issues/35672)|[FEATURE REQ] mgmt, support container size in convenience API on webapp/functionapp|Mgmt, feature-request|XiaofeiCao||2023-06-29|
 |4|[#35527](https://github.com/Azure/azure-sdk-for-java/issues/35527)|[FEATURE REQ] mgmt, redact api-version query parameter upon migrate to test proxy|Mgmt|haolingdong-msft||2023-06-20|
