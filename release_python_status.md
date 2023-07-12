@@ -10,7 +10,7 @@
 | 8 | [#4301](https://github.com/Azure/sdk-release-request/issues/4301) | jmmscript | azure-mgmt-networkcloud | Wzb123456789 |  | 06-28 | 07-28 |  |
 | 9 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 |  | 06-28 | 07-28 |  |
 | 10 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | HoldOn | 06-27 | 07-28 |  |
-| 11 | [#4284](https://github.com/Azure/sdk-release-request/issues/4284) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 | new comment. | 06-27 | 07-28 |  |
+| 11 | [#4284](https://github.com/Azure/sdk-release-request/issues/4284) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 06-27 | 07-28 |  |
 | 12 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 06-26 | 07-28 |  |
 | 13 | [#4276](https://github.com/Azure/sdk-release-request/issues/4276) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | Wzb123456789 |  | 06-26 | 07-28 |  |
 | 14 | [#4269](https://github.com/Azure/sdk-release-request/issues/4269) | michaelshikh07 | azure-mgmt-kusto | Wzb123456789 |  | 06-25 | 07-28 |  |
