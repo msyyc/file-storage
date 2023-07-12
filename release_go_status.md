@@ -7,9 +7,9 @@
 | 5 | [#4314](https://github.com/Azure/sdk-release-request/issues/4314) | Shashank1306s |  | Alancere |  | 07-03 | 07-28 |  |
 | 6 | [#4310](https://github.com/Azure/sdk-release-request/issues/4310) | allegradomel |  | Alancere |  | 06-29 | 07-28 |  |
 | 7 | [#4302](https://github.com/Azure/sdk-release-request/issues/4302) | haagha |  | Alancere |  | 06-29 | 07-28 |  |
-| 8 | [#4298](https://github.com/Azure/sdk-release-request/issues/4298) | jmmscript |  | Alancere |  | 06-28 | 07-28 |  |
+| 8 | [#4298](https://github.com/Azure/sdk-release-request/issues/4298) | jmmscript |  | Alancere | new comment. | 06-28 | 07-28 |  |
 | 9 | [#4296](https://github.com/Azure/sdk-release-request/issues/4296) | yuc-Li |  | Alancere | new comment. | 06-28 | 07-28 |  |
-| 10 | [#4286](https://github.com/Azure/sdk-release-request/issues/4286) | yangyuan |  | Alancere |  | 06-27 | 07-28 |  |
+| 10 | [#4286](https://github.com/Azure/sdk-release-request/issues/4286) | yangyuan |  | Alancere | new comment. | 06-27 | 07-28 |  |
 | 11 | [#4279](https://github.com/Azure/sdk-release-request/issues/4279) | htippanaboya |  | Alancere |  | 06-26 | 07-28 |  |
 | 12 | [#4277](https://github.com/Azure/sdk-release-request/issues/4277) | JeetendraJoshi-MSFT |  | Alancere |  | 06-26 | 07-28 |  |
 | 13 | [#4271](https://github.com/Azure/sdk-release-request/issues/4271) | michaelshikh07 |  | Alancere |  | 06-25 | 07-28 |  |
@@ -18,6 +18,6 @@
 | 16 | [#4258](https://github.com/Azure/sdk-release-request/issues/4258) | audunn |  | Alancere |  | 06-21 | 07-28 |  |
 | 17 | [#4249](https://github.com/Azure/sdk-release-request/issues/4249) | FumingZhang |  | Alancere |  | 06-14 | 07-28 |  |
 | 18 | [#4244](https://github.com/Azure/sdk-release-request/issues/4244) | JJJessieWang |  | Alancere |  | 06-13 | 07-28 |  |
-| 19 | [#4239](https://github.com/Azure/sdk-release-request/issues/4239) | Vibhuti-Sharma-Microsoft |  | Alancere | close to release date.  | 06-09 | 07-14 | 2 |
+| 19 | [#4239](https://github.com/Azure/sdk-release-request/issues/4239) | Vibhuti-Sharma-Microsoft |  | Alancere | close to release date.  | 06-09 | 07-14 | 1 |
 | 20 | [#4210](https://github.com/Azure/sdk-release-request/issues/4210) | jha1bhavna |  | Alancere | new comment. Attention to inconsistent tag | 05-29 | 06-23 |  |
 | 21 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere | new comment. | 03-22 | 04-28 |  |

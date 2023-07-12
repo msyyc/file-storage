@@ -10,7 +10,7 @@
 | 8 | [#4299](https://github.com/Azure/sdk-release-request/issues/4299) | jmmscript |  | MaryGao | new comment. | 06-28 | 07-28 |  |
 | 9 | [#4294](https://github.com/Azure/sdk-release-request/issues/4294) | yuc-Li |  | MaryGao |  | 06-28 | 07-28 |  |
 | 10 | [#4288](https://github.com/Azure/sdk-release-request/issues/4288) | GalGoldi72 |  | MaryGao |  | 06-27 | 07-28 |  |
-| 11 | [#4283](https://github.com/Azure/sdk-release-request/issues/4283) | yangyuan |  | MaryGao |  | 06-27 | 07-28 |  |
+| 11 | [#4283](https://github.com/Azure/sdk-release-request/issues/4283) | yangyuan |  | MaryGao | new comment. | 06-27 | 07-28 |  |
 | 12 | [#4281](https://github.com/Azure/sdk-release-request/issues/4281) | htippanaboya |  | MaryGao |  | 06-26 | 07-28 |  |
 | 13 | [#4278](https://github.com/Azure/sdk-release-request/issues/4278) | JeetendraJoshi-MSFT |  | MaryGao | Attention to inconsistent tag | 06-26 | 07-28 |  |
 | 14 | [#4270](https://github.com/Azure/sdk-release-request/issues/4270) | michaelshikh07 |  | qiaozha |  | 06-25 | 07-28 |  |
@@ -19,5 +19,5 @@
 | 17 | [#4260](https://github.com/Azure/sdk-release-request/issues/4260) | audunn |  | qiaozha |  | 06-21 | 07-28 |  |
 | 18 | [#4247](https://github.com/Azure/sdk-release-request/issues/4247) | FumingZhang |  | MaryGao |  | 06-14 | 07-28 |  |
 | 19 | [#4242](https://github.com/Azure/sdk-release-request/issues/4242) | JJJessieWang |  | MaryGao |  | 06-13 | 07-28 |  |
-| 20 | [#4238](https://github.com/Azure/sdk-release-request/issues/4238) | Vibhuti-Sharma-Microsoft |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 06-09 | 07-14 | 2 |
+| 20 | [#4238](https://github.com/Azure/sdk-release-request/issues/4238) | Vibhuti-Sharma-Microsoft |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 06-09 | 07-14 | 1 |
 | 21 | [#4208](https://github.com/Azure/sdk-release-request/issues/4208) | jha1bhavna |  | MaryGao | Attention to inconsistent tag | 05-29 | 06-23 |  |
