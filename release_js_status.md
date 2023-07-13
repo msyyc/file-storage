@@ -8,7 +8,7 @@
 | 6 | [#4317](https://github.com/Azure/sdk-release-request/issues/4317) | Shashank1306s |  | qiaozha |  | 07-03 | 07-28 |  |
 | 7 | [#4307](https://github.com/Azure/sdk-release-request/issues/4307) | allegradomel |  | MaryGao |  | 06-29 | 07-28 |  |
 | 8 | [#4304](https://github.com/Azure/sdk-release-request/issues/4304) | haagha |  | MaryGao |  | 06-29 | 07-28 |  |
-| 9 | [#4299](https://github.com/Azure/sdk-release-request/issues/4299) | jmmscript |  | MaryGao | new comment. | 06-28 | 07-28 |  |
+| 9 | [#4299](https://github.com/Azure/sdk-release-request/issues/4299) | jmmscript |  | MaryGao |  | 06-28 | 07-28 |  |
 | 10 | [#4294](https://github.com/Azure/sdk-release-request/issues/4294) | yuc-Li |  | MaryGao |  | 06-28 | 07-28 |  |
 | 11 | [#4288](https://github.com/Azure/sdk-release-request/issues/4288) | GalGoldi72 |  | MaryGao |  | 06-27 | 07-28 |  |
 | 12 | [#4283](https://github.com/Azure/sdk-release-request/issues/4283) | yangyuan |  | MaryGao | new comment. | 06-27 | 07-28 |  |
