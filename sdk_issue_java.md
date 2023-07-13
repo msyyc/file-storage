@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35817](https://github.com/Azure/azure-sdk-for-java/issues/35817)|[BUG] Protectable Containers - List api doesn't work|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao|new comment|2023-07-11|
-|2|[#35791](https://github.com/Azure/azure-sdk-for-java/issues/35791)|Long running operation is Failed or Cancelled exception occurs when workloads live test|ARM, Mgmt, test-reliability|XiaofeiCao, weidongxu-microsoft||2023-07-10|
+|1|[#35817](https://github.com/Azure/azure-sdk-for-java/issues/35817)|[BUG] Protectable Containers - List api doesn't work|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1|new comment|2023-07-11|
+|2|[#35791](https://github.com/Azure/azure-sdk-for-java/issues/35791)|Long running operation is Failed or Cancelled exception occurs when workloads live test|ARM, Mgmt, test-reliability|weidongxu-microsoft, XiaofeiCao||2023-07-10|
 |3|[#35672](https://github.com/Azure/azure-sdk-for-java/issues/35672)|[FEATURE REQ] mgmt, support container size in convenience API on webapp/functionapp|Mgmt, feature-request|XiaofeiCao||2023-06-29|
 |4|[#35527](https://github.com/Azure/azure-sdk-for-java/issues/35527)|[FEATURE REQ] mgmt, redact api-version query parameter upon migrate to test proxy|Mgmt|haolingdong-msft||2023-06-20|
 |5|[#35517](https://github.com/Azure/azure-sdk-for-java/issues/35517)|[BUG] Azure sdk takes too long to report back disk status after attaching|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-06-19|
-|6|[#35316](https://github.com/Azure/azure-sdk-for-java/issues/35316)|[FEATURE REQ] LIVE test for mgmt GA Lite packages|Mgmt, Mgmt-EngSys|v-hongli1, XiaofeiCao||2023-06-06|
-|7|[#35308](https://github.com/Azure/azure-sdk-for-java/issues/35308)|[BUG] : MetricDefinitions Error on resources with white spaces in the name|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-06-05|
+|6|[#35316](https://github.com/Azure/azure-sdk-for-java/issues/35316)|[FEATURE REQ] LIVE test for mgmt GA Lite packages|Mgmt, Mgmt-EngSys|XiaofeiCao, v-hongli1||2023-06-06|
+|7|[#35308](https://github.com/Azure/azure-sdk-for-java/issues/35308)|[BUG] : MetricDefinitions Error on resources with white spaces in the name|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-06-05|
 |8|[#35244](https://github.com/Azure/azure-sdk-for-java/issues/35244)|[BUG] mgmt, investigate on occasional thread stuck|Mgmt, Mgmt - Track 2, backlog|XiaofeiCao||2023-06-01|
 |9|[#35243](https://github.com/Azure/azure-sdk-for-java/issues/35243)|[FEATURE REQ] mgmt WAF Policy, convenience layer for global, per-listener and per-site association|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
 |10|[#35242](https://github.com/Azure/azure-sdk-for-java/issues/35242)|[FEATURE REQ] mgmt WAF Policy, convenience layer for Geomatch custom rules|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
@@ -18,7 +18,7 @@
 |16|[#34281](https://github.com/Azure/azure-sdk-for-java/issues/34281)|[FEATURE REQ] investigate, add code snippet to Javadoc of mgmt-plane|Mgmt|XiaofeiCao||2023-03-31|
 |17|[#34271](https://github.com/Azure/azure-sdk-for-java/issues/34271)|[BUG] PermissionScope.withPermissions can not add list|question, Storage, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2023-03-30|
 |18|[#34243](https://github.com/Azure/azure-sdk-for-java/issues/34243)|Migrate test recording, for mgmt-plane|Mgmt, test-enhancement, Mgmt-EngSys|haolingdong-msft||2023-03-29|
-|19|[#34225](https://github.com/Azure/azure-sdk-for-java/issues/34225)|[FEATURE REQ] Expose a method for listing virtual images with more criteria than just the region|ARM, Mgmt, customer-reported, feature-request|v-hongli1, XiaofeiCao|new comment|2023-03-28|
+|19|[#34225](https://github.com/Azure/azure-sdk-for-java/issues/34225)|[FEATURE REQ] Expose a method for listing virtual images with more criteria than just the region|ARM, Mgmt, customer-reported, feature-request|XiaofeiCao, v-hongli1|new comment|2023-03-28|
 |20|[#34182](https://github.com/Azure/azure-sdk-for-java/issues/34182)|[BUG] com.azure.resourcemanager.containerservice.ContainerServiceManager.kubernetesClusters().list() returns empty|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Container Service|XiaofeiCao||2023-03-23|
 |21|[#33829](https://github.com/Azure/azure-sdk-for-java/issues/33829)|[BUG] reactor.core.Exceptions$ReactiveException: java.lang.InterruptedException occurs at computeManager.virtualMachines().getByResourceGroup(resGroup, name)|Compute - VM, Service Attention, Mgmt, needs-team-attention|TravisCragg-MSFT, XiaofeiCao|new comment|2023-03-02|
 |22|[#33544](https://github.com/Azure/azure-sdk-for-java/issues/33544)|[BUG] functionApp deleted user assigned identities been returned under the FunctionApp object|question, Service Attention, Mgmt, customer-reported, Functions, needs-team-attention|weidongxu-microsoft||2023-02-16|
@@ -34,7 +34,7 @@
 |32|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-10-10|
 |33|[#31208](https://github.com/Azure/azure-sdk-for-java/issues/31208)|[FEATURE REQ] mgmt Lite, know which service is popular, but we not generated for long|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-09-29|
 |34|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
-|35|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|v-hongli1, XiaofeiCao||2022-08-12|
+|35|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|XiaofeiCao, v-hongli1||2022-08-12|
 |36|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao||2022-08-01|
 |37|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
 |38|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
