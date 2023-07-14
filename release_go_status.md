@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4337](https://github.com/Azure/sdk-release-request/issues/4337) | surajmb |  | Alancere | new issue. | 07-13 | 07-28 |  |
+| 1 | [#4337](https://github.com/Azure/sdk-release-request/issues/4337) | surajmb |  | Alancere |  | 07-13 | 07-28 |  |
 | 2 | [#4333](https://github.com/Azure/sdk-release-request/issues/4333) | yifanz7 |  | Alancere |  | 07-11 | 07-28 |  |
 | 3 | [#4327](https://github.com/Azure/sdk-release-request/issues/4327) | yifanz7 |  | Alancere |  | 07-11 | 07-28 |  |
 | 4 | [#4324](https://github.com/Azure/sdk-release-request/issues/4324) | zackliu |  | Alancere |  | 07-10 | 07-28 |  |
@@ -12,7 +12,7 @@
 | 10 | [#4296](https://github.com/Azure/sdk-release-request/issues/4296) | yuc-Li |  | Alancere | new comment. | 06-28 | 07-28 |  |
 | 11 | [#4286](https://github.com/Azure/sdk-release-request/issues/4286) | yangyuan |  | Alancere | new comment. | 06-27 | 07-28 |  |
 | 12 | [#4279](https://github.com/Azure/sdk-release-request/issues/4279) | htippanaboya |  | Alancere |  | 06-26 | 07-28 |  |
-| 13 | [#4277](https://github.com/Azure/sdk-release-request/issues/4277) | JeetendraJoshi-MSFT |  | Alancere |  | 06-26 | 07-28 |  |
+| 13 | [#4277](https://github.com/Azure/sdk-release-request/issues/4277) | JeetendraJoshi-MSFT |  | Alancere | new comment. | 06-26 | 07-28 |  |
 | 14 | [#4271](https://github.com/Azure/sdk-release-request/issues/4271) | michaelshikh07 |  | Alancere |  | 06-25 | 07-28 |  |
 | 15 | [#4266](https://github.com/Azure/sdk-release-request/issues/4266) | eatkimchee |  | Alancere | new comment. | 06-23 | 07-28 |  |
 | 16 | [#4261](https://github.com/Azure/sdk-release-request/issues/4261) | mumoryan |  | Alancere | new comment. | 06-21 | 07-28 |  |
