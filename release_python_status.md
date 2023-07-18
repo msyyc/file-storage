@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4339](https://github.com/Azure/sdk-release-request/issues/4339) | KalpeshChavan12 | azure-mgmt-maintenance | Wzb123456789 |  | 07-15 | 08-25 |  |
-| 2 | [#4336](https://github.com/Azure/sdk-release-request/issues/4336) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 | FirstGA | 07-13 | 07-28 |  |
+| 2 | [#4336](https://github.com/Azure/sdk-release-request/issues/4336) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 | new comment. FirstGA | 07-13 | 07-28 |  |
 | 3 | [#4330](https://github.com/Azure/sdk-release-request/issues/4330) | yifanz7 | azure-mgmt-storagemover | Wzb123456789 |  | 07-11 | 07-28 |  |
 | 4 | [#4326](https://github.com/Azure/sdk-release-request/issues/4326) | yifanz7 | azure-mgmt-elasticsan | Wzb123456789 |  | 07-11 | 07-28 |  |
 | 5 | [#4323](https://github.com/Azure/sdk-release-request/issues/4323) | zackliu | azure-mgmt-webpubsub | Wzb123456789 |  | 07-10 | 07-28 |  |
