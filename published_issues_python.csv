@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-networkcloud,jmmscript,Wzb123456789,2023-06-28,2023-07-19,https://github.com/Azure/sdk-release-request/issues/4301,1.0.0b2,
 azure-mgmt-paloaltonetworksngfw,Vibhuti-Sharma-Microsoft,Wzb123456789,2023-06-09,2023-07-14,https://github.com/Azure/sdk-release-request/issues/4236,1.0.0,True
 azure-mgmt-databricks,msyyc,Wzb123456789,2023-06-14,2023-06-29,https://github.com/Azure/sdk-release-request/issues/4245,2.0.0,True
 azure-mgmt-managednetworkfabric,surajmb,Wzb123456789,2023-06-16,2023-06-29,https://github.com/Azure/sdk-release-request/issues/4254,1.0.0b1,
