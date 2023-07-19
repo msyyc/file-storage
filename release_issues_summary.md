@@ -24,5 +24,5 @@
 | 22 | '[SQL] Add None as valid option for MinimalTlsVersion'  |  | [#4210](https://github.com/Azure/sdk-release-request/issues/4210)  | [#4207](https://github.com/Azure/sdk-release-request/issues/4207)  | [#4208](https://github.com/Azure/sdk-release-request/issues/4208)  | 05-29 | 06-23 |  |
 | 23 | 'Release for Java and JavaScript Quantum Management Plane'  |  |  | [#3991](https://github.com/Azure/sdk-release-request/issues/3991)  |  | 03-24 | 04-28 | Hold on by Java/ |
 | 24 | 'Release for Container Service - 2023-05-01'  |  | [#4249](https://github.com/Azure/sdk-release-request/issues/4249)  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
-| 25 | 'Release for PaloAltoNetworks (GA)'  |  | [#4239](https://github.com/Azure/sdk-release-request/issues/4239)  |  | [#4238](https://github.com/Azure/sdk-release-request/issues/4238)  | 06-09 | 07-14 |  |
-| 26 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
+| 25 | 'Release for Quota 2023-02-01'  |  | [#3967](https://github.com/Azure/sdk-release-request/issues/3967)  |  |  | 03-22 | 04-28 | Hold on by Go/ |
+| 26 | 'Release for PaloAltoNetworks (GA)'  |  |  |  | [#4238](https://github.com/Azure/sdk-release-request/issues/4238)  | 06-09 | 07-14 |  |

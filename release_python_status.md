@@ -6,7 +6,7 @@
 | 4 | [#4326](https://github.com/Azure/sdk-release-request/issues/4326) | yifanz7 | azure-mgmt-elasticsan | Wzb123456789 |  | 07-11 | 07-28 |  |
 | 5 | [#4323](https://github.com/Azure/sdk-release-request/issues/4323) | zackliu | azure-mgmt-webpubsub | Wzb123456789 |  | 07-10 | 07-28 |  |
 | 6 | [#4321](https://github.com/Azure/sdk-release-request/issues/4321) | xinyi-joffre | azure-mgmt-quantum | Wzb123456789 |  | 07-07 | 07-28 |  |
-| 7 | [#4315](https://github.com/Azure/sdk-release-request/issues/4315) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 | new comment. | 07-03 | 07-28 |  |
+| 7 | [#4315](https://github.com/Azure/sdk-release-request/issues/4315) | Shashank1306s | azure-mgmt-dataprotection | Wzb123456789 |  | 07-03 | 07-28 |  |
 | 8 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | FirstBeta | 06-29 | 07-28 |  |
 | 9 | [#4305](https://github.com/Azure/sdk-release-request/issues/4305) | haagha | azure-mgmt-compute | Wzb123456789 |  | 06-29 | 07-28 |  |
 | 10 | [#4301](https://github.com/Azure/sdk-release-request/issues/4301) | jmmscript | azure-mgmt-networkcloud | Wzb123456789 |  | 06-28 | 07-28 |  |
