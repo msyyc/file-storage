@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4342](https://github.com/Azure/sdk-release-request/issues/4342) | KalpeshChavan12 |  | MaryGao | new issue. | 07-15 | 08-25 |  |
-| 2 | [#4338](https://github.com/Azure/sdk-release-request/issues/4338) | surajmb |  | MaryGao | new comment. | 07-13 | 07-28 |  |
+| 2 | [#4338](https://github.com/Azure/sdk-release-request/issues/4338) | surajmb |  | MaryGao |  | 07-13 | 07-28 |  |
 | 3 | [#4331](https://github.com/Azure/sdk-release-request/issues/4331) | yifanz7 |  | MaryGao |  | 07-11 | 07-28 |  |
 | 4 | [#4329](https://github.com/Azure/sdk-release-request/issues/4329) | yifanz7 |  | MaryGao |  | 07-11 | 07-28 |  |
 | 5 | [#4322](https://github.com/Azure/sdk-release-request/issues/4322) | zackliu |  | MaryGao |  | 07-10 | 07-28 |  |
@@ -22,4 +22,3 @@
 | 20 | [#4247](https://github.com/Azure/sdk-release-request/issues/4247) | FumingZhang |  | MaryGao | new comment. | 06-14 | 07-28 |  |
 | 21 | [#4242](https://github.com/Azure/sdk-release-request/issues/4242) | JJJessieWang |  | MaryGao | new comment. | 06-13 | 07-28 |  |
 | 22 | [#4238](https://github.com/Azure/sdk-release-request/issues/4238) | Vibhuti-Sharma-Microsoft |  | qiaozha | Attention to inconsistent tag | 06-09 | 07-14 |  |
-| 23 | [#4208](https://github.com/Azure/sdk-release-request/issues/4208) | jha1bhavna |  | MaryGao | Attention to inconsistent tag | 05-29 | 06-23 |  |
