@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia |  | Wzb123456789 |  | 07-19 |  | 0 |
+| 1 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia |  | Wzb123456789 |  | 07-19 | 08-25 |  |
 | 2 | [#4339](https://github.com/Azure/sdk-release-request/issues/4339) | KalpeshChavan12 | azure-mgmt-maintenance | Wzb123456789 |  | 07-15 | 08-25 |  |
 | 3 | [#4336](https://github.com/Azure/sdk-release-request/issues/4336) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 | FirstGA | 07-13 | 07-28 |  |
 | 4 | [#4330](https://github.com/Azure/sdk-release-request/issues/4330) | yifanz7 | azure-mgmt-storagemover | Wzb123456789 |  | 07-11 | 07-28 |  |
