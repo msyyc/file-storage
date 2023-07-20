@@ -11,7 +11,7 @@
 | 9 | [#4295](https://github.com/Azure/sdk-release-request/issues/4295) | yuc-Li |  | haolingdong-msft | new issue. | 06-28 | 07-28 |  |
 | 10 | [#4287](https://github.com/Azure/sdk-release-request/issues/4287) | GalGoldi72 |  | v-hongli1 |  | 06-27 |  | 0 |
 | 11 | [#4280](https://github.com/Azure/sdk-release-request/issues/4280) | htippanaboya |  | v-hongli1 |  | 06-26 |  | 0 |
-| 12 | [#4275](https://github.com/Azure/sdk-release-request/issues/4275) | JeetendraJoshi-MSFT |  | weidongxu-microsoft | new comment. Attention to inconsistent tag | 06-26 | 07-28 |  |
+| 12 | [#4275](https://github.com/Azure/sdk-release-request/issues/4275) | JeetendraJoshi-MSFT |  | weidongxu-microsoft | Attention to inconsistent tag | 06-26 | 07-28 |  |
 | 13 | [#4265](https://github.com/Azure/sdk-release-request/issues/4265) | eatkimchee |  | weidongxu-microsoft |  | 06-23 | 07-28 |  |
 | 14 | [#4259](https://github.com/Azure/sdk-release-request/issues/4259) | audunn |  | XiaofeiCao | new issue. | 06-21 | 07-28 |  |
 | 15 | [#4243](https://github.com/Azure/sdk-release-request/issues/4243) | JJJessieWang |  | XiaofeiCao | new issue. | 06-13 | 07-28 |  |
