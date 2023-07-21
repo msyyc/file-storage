@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4354](https://github.com/Azure/sdk-release-request/issues/4354) | FumingZhang |  | weidongxu-microsoft |  | 07-21 |  | 0 |
+| 1 | [#4354](https://github.com/Azure/sdk-release-request/issues/4354) | FumingZhang |  | weidongxu-microsoft | new issue. | 07-21 | 08-25 |  |
 | 2 | [#4351](https://github.com/Azure/sdk-release-request/issues/4351) | pathuang-sia |  | haolingdong-msft | Attention to inconsistent tag | 07-20 | 08-25 |  |
 | 3 | [#4347](https://github.com/Azure/sdk-release-request/issues/4347) | brrusino |  | weidongxu-microsoft | new issue. | 07-20 | 08-25 |  |
 | 4 | [#4340](https://github.com/Azure/sdk-release-request/issues/4340) | KalpeshChavan12 |  | XiaofeiCao | new issue. | 07-15 | 08-25 |  |
