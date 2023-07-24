@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#26543](https://github.com/Azure/azure-sdk-for-js/issues/26543)|Mgmt plane change log generation policy is incorrect.|Mgmt, Mgmt-EngSys|kazrael2119, MaryGao||2023-07-19|
+|1|[#26543](https://github.com/Azure/azure-sdk-for-js/issues/26543)|Mgmt plane change log generation policy is incorrect.|Mgmt, Mgmt-EngSys|MaryGao, kazrael2119||2023-07-19|
 |2|[#26300](https://github.com/Azure/azure-sdk-for-js/issues/26300)|containerApps fail due to pointing to historic resource location|bug, customer-reported, Mgmt, App Services, needs-team-attention|qiaozha||2023-06-22|
 |3|[#26106](https://github.com/Azure/azure-sdk-for-js/issues/26106)|[ARM App Platform] Breaking change from 2.0.0 to 3.0.0-beta|Mgmt, ARM - Managed Applications|MaryGao||2023-06-06|
 |4|[#26053](https://github.com/Azure/azure-sdk-for-js/issues/26053)|Azure App Service Managed Certificate createOrUpdate call throws on 202|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha, kazrael2119||2023-05-31|
