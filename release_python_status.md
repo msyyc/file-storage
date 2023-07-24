@@ -4,7 +4,6 @@
 | 2 | [#4349](https://github.com/Azure/sdk-release-request/issues/4349) | brrusino | azure-mgmt-chaos | Wzb123456789 |  | 07-20 | 08-25 |  |
 | 3 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia |  | Wzb123456789 |  | 07-19 | 08-25 |  |
 | 4 | [#4339](https://github.com/Azure/sdk-release-request/issues/4339) | KalpeshChavan12 | azure-mgmt-maintenance | Wzb123456789 |  | 07-15 | 08-25 |  |
-| 5 | [#4336](https://github.com/Azure/sdk-release-request/issues/4336) | surajmb | azure-mgmt-managednetworkfabric | Wzb123456789 | FirstGA | 07-13 | 07-28 |  |
 | 6 | [#4330](https://github.com/Azure/sdk-release-request/issues/4330) | yifanz7 | azure-mgmt-storagemover | Wzb123456789 |  | 07-11 | 07-28 |  |
 | 7 | [#4326](https://github.com/Azure/sdk-release-request/issues/4326) | yifanz7 | azure-mgmt-elasticsan | Wzb123456789 |  | 07-11 | 07-28 |  |
 | 8 | [#4323](https://github.com/Azure/sdk-release-request/issues/4323) | zackliu | azure-mgmt-webpubsub | Wzb123456789 |  | 07-10 | 07-28 |  |
