@@ -13,14 +13,14 @@
 | 11 | [#4314](https://github.com/Azure/sdk-release-request/issues/4314) | Shashank1306s |  | Alancere | new comment. | 07-03 | 07-28 |  |
 | 12 | [#4310](https://github.com/Azure/sdk-release-request/issues/4310) | allegradomel |  | Alancere |  | 06-29 | 07-28 |  |
 | 13 | [#4302](https://github.com/Azure/sdk-release-request/issues/4302) | haagha |  | Alancere |  | 06-29 | 07-28 |  |
-| 14 | [#4296](https://github.com/Azure/sdk-release-request/issues/4296) | yuc-Li |  | Alancere | new comment. | 06-28 | 07-28 |  |
+| 14 | [#4296](https://github.com/Azure/sdk-release-request/issues/4296) | yuc-Li |  | Alancere |  | 06-28 | 07-28 |  |
 | 15 | [#4286](https://github.com/Azure/sdk-release-request/issues/4286) | yangyuan |  | Alancere |  | 06-27 | 07-28 |  |
 | 16 | [#4279](https://github.com/Azure/sdk-release-request/issues/4279) | htippanaboya |  | Alancere |  | 06-26 | 07-28 |  |
 | 17 | [#4277](https://github.com/Azure/sdk-release-request/issues/4277) | JeetendraJoshi-MSFT |  | Alancere | new comment. | 06-26 | 07-28 |  |
 | 18 | [#4271](https://github.com/Azure/sdk-release-request/issues/4271) | michaelshikh07 |  | Alancere |  | 06-25 | 07-28 |  |
 | 19 | [#4266](https://github.com/Azure/sdk-release-request/issues/4266) | eatkimchee |  | Alancere | new comment. | 06-23 | 07-28 |  |
 | 20 | [#4261](https://github.com/Azure/sdk-release-request/issues/4261) | mumoryan |  | Alancere | new comment. | 06-21 | 07-28 |  |
-| 21 | [#4258](https://github.com/Azure/sdk-release-request/issues/4258) | audunn |  | Alancere | new comment. | 06-21 | 07-28 |  |
+| 21 | [#4258](https://github.com/Azure/sdk-release-request/issues/4258) | audunn |  | Alancere |  | 06-21 | 07-28 |  |
 | 22 | [#4249](https://github.com/Azure/sdk-release-request/issues/4249) | FumingZhang |  | Alancere | new comment. | 06-14 | 07-28 |  |
 | 23 | [#4244](https://github.com/Azure/sdk-release-request/issues/4244) | JJJessieWang |  | Alancere |  | 06-13 | 07-28 |  |
 | 24 | [#3967](https://github.com/Azure/sdk-release-request/issues/3967) | allison-inman |  | Alancere |  | 03-22 | 04-28 |  |
