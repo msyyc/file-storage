@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-batch,JJJessieWang,Wzb123456789,2023-06-13,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4241,17.1.0,True
+azure-mgmt-netapp,audunn,Wzb123456789,2023-06-21,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4257,10.1.0,True
 azure-mgmt-managednetworkfabric,surajmb,Wzb123456789,2023-07-13,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4336,1.0.0,True
 azure-mgmt-costmanagement,msyyc,Wzb123456789,2023-07-19,2023-07-19,https://github.com/Azure/sdk-release-request/issues/4343,4.0.1,True
 azure-mgmt-networkcloud,jmmscript,Wzb123456789,2023-06-28,2023-07-19,https://github.com/Azure/sdk-release-request/issues/4301,1.0.0b2,
