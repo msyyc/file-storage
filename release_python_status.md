@@ -5,11 +5,11 @@
 | 3 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia |  | Wzb123456789 |  | 07-19 | 08-25 |  |
 | 4 | [#4339](https://github.com/Azure/sdk-release-request/issues/4339) | KalpeshChavan12 | azure-mgmt-maintenance | Wzb123456789 |  | 07-15 | 08-25 |  |
 | 5 | [#4330](https://github.com/Azure/sdk-release-request/issues/4330) | yifanz7 | azure-mgmt-storagemover | Wzb123456789 |  | 07-11 | 07-28 |  |
-| 10 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | FirstBeta | 06-29 | 07-28 |  |
-| 12 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 |  | 06-28 | 07-28 |  |
-| 13 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | HoldOn | 06-27 | 07-28 |  |
-| 14 | [#4284](https://github.com/Azure/sdk-release-request/issues/4284) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 06-27 | 07-28 |  |
-| 15 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 06-26 | 07-28 |  |
-| 16 | [#4276](https://github.com/Azure/sdk-release-request/issues/4276) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | Wzb123456789 |  | 06-26 | 07-28 |  |
-| 17 | [#4267](https://github.com/Azure/sdk-release-request/issues/4267) | eatkimchee | azure-mgmt-iotfirmwaredefense | Wzb123456789 | FirstBeta | 06-23 | 07-28 |  |
-| 18 | [#4263](https://github.com/Azure/sdk-release-request/issues/4263) | mumoryan | azure-mgmt-authorization | Wzb123456789 |  | 06-21 | 07-28 |  |
+| 6 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | FirstBeta | 06-29 | 07-28 |  |
+| 7 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 |  | 06-28 | 07-28 |  |
+| 8 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | HoldOn | 06-27 | 07-28 |  |
+| 9 | [#4284](https://github.com/Azure/sdk-release-request/issues/4284) | yangyuan | azure-mgmt-cognitiveservices | Wzb123456789 |  | 06-27 | 07-28 |  |
+| 10 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 |  | 06-26 | 07-28 |  |
+| 11 | [#4276](https://github.com/Azure/sdk-release-request/issues/4276) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | Wzb123456789 |  | 06-26 | 07-28 |  |
+| 12 | [#4267](https://github.com/Azure/sdk-release-request/issues/4267) | eatkimchee | azure-mgmt-iotfirmwaredefense | Wzb123456789 | FirstBeta | 06-23 | 07-28 |  |
+| 13 | [#4263](https://github.com/Azure/sdk-release-request/issues/4263) | mumoryan | azure-mgmt-authorization | Wzb123456789 |  | 06-21 | 07-28 |  |
