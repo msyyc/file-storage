@@ -1,4 +1,9 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,haagha,Wzb123456789,2023-06-29,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4305,30.1.0,True
+azure-mgmt-dataprotection,Shashank1306s,Wzb123456789,2023-07-03,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4315,1.2.0,True
+azure-mgmt-quantum,xinyi-joffre,Wzb123456789,2023-07-07,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4321,1.0.0b4,
+azure-mgmt-webpubsub,zackliu,Wzb123456789,2023-07-10,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4323,2.0.0b1,
+azure-mgmt-elasticsan,yifanz7,Wzb123456789,2023-07-11,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4326,1.0.0b2,
 azure-mgmt-kusto,michaelshikh07,Wzb123456789,2023-06-25,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4269,3.2.0,True
 azure-mgmt-batch,JJJessieWang,Wzb123456789,2023-06-13,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4241,17.1.0,True
 azure-mgmt-netapp,audunn,Wzb123456789,2023-06-21,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4257,10.1.0,True
