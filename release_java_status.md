@@ -4,8 +4,6 @@
 | 2 | [#4351](https://github.com/Azure/sdk-release-request/issues/4351) | pathuang-sia |  | haolingdong-msft | Attention to inconsistent tag | 07-20 | 08-25 |  |
 | 3 | [#4347](https://github.com/Azure/sdk-release-request/issues/4347) | brrusino |  | weidongxu-microsoft | new issue. | 07-20 | 08-25 |  |
 | 4 | [#4340](https://github.com/Azure/sdk-release-request/issues/4340) | KalpeshChavan12 |  | XiaofeiCao | new issue. | 07-15 | 08-25 |  |
-| 5 | [#4328](https://github.com/Azure/sdk-release-request/issues/4328) | yifanz7 |  | XiaofeiCao | new issue. close to release date.  | 07-11 | 07-28 | 2 |
-| 6 | [#4303](https://github.com/Azure/sdk-release-request/issues/4303) | haagha |  | v-hongli1 |  | 06-29 |  | 0 |
-| 7 | [#4280](https://github.com/Azure/sdk-release-request/issues/4280) | htippanaboya |  | v-hongli1 |  | 06-26 |  | 0 |
-| 8 | [#4259](https://github.com/Azure/sdk-release-request/issues/4259) | audunn |  | XiaofeiCao | new issue. close to release date.  | 06-21 | 07-28 | 2 |
-| 9 | [#4243](https://github.com/Azure/sdk-release-request/issues/4243) | JJJessieWang |  | XiaofeiCao | new issue. close to release date.  | 06-13 | 07-28 | 2 |
+| 5 | [#4303](https://github.com/Azure/sdk-release-request/issues/4303) | haagha |  | v-hongli1 |  | 06-29 |  | 0 |
+| 6 | [#4280](https://github.com/Azure/sdk-release-request/issues/4280) | htippanaboya |  | v-hongli1 |  | 06-26 |  | 0 |
+| 7 | [#4243](https://github.com/Azure/sdk-release-request/issues/4243) | JJJessieWang |  | XiaofeiCao | new issue. close to release date.  | 06-13 | 07-28 | 2 |
