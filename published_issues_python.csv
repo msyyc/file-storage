@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-iotfirmwaredefense,eatkimchee,Wzb123456789,2023-06-23,2023-07-25,https://github.com/Azure/sdk-release-request/issues/4267,1.0.0b1,
+azure-mgmt-cognitiveservices,yangyuan,Wzb123456789,2023-06-27,2023-07-25,https://github.com/Azure/sdk-release-request/issues/4284,13.5.0,True
 azure-mgmt-compute,haagha,Wzb123456789,2023-06-29,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4305,30.1.0,True
 azure-mgmt-dataprotection,Shashank1306s,Wzb123456789,2023-07-03,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4315,1.2.0,True
 azure-mgmt-quantum,xinyi-joffre,Wzb123456789,2023-07-07,2023-07-24,https://github.com/Azure/sdk-release-request/issues/4321,1.0.0b4,
