@@ -7,4 +7,3 @@
 | 5 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | close to release date.  FirstBeta | 06-29 | 07-28 | 2 |
 | 6 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | close to release date.  HoldOn | 06-27 | 07-28 | 2 |
 | 7 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 | close to release date.  | 06-26 | 07-28 | 2 |
-| 8 | [#4263](https://github.com/Azure/sdk-release-request/issues/4263) | mumoryan | azure-mgmt-authorization | Wzb123456789 | close to release date.  | 06-21 | 07-28 | 2 |

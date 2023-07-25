@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-authorization,mumoryan,Wzb123456789,2023-06-21,2023-07-25,https://github.com/Azure/sdk-release-request/issues/4263,4.0.0,True
 azure-mgmt-mobilenetwork,JeetendraJoshi-MSFT,Wzb123456789,2023-06-26,2023-07-25,https://github.com/Azure/sdk-release-request/issues/4276,3.0.0,True
 azure-mgmt-storagemover,yifanz7,Wzb123456789,2023-07-11,2023-07-25,https://github.com/Azure/sdk-release-request/issues/4330,2.0.0b1,
 azure-mgmt-hdinsight,yuc-Li,Wzb123456789,2023-06-23,2023-07-25,https://github.com/Azure/sdk-release-request/issues/4297,9.0.0b2,
