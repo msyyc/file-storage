@@ -8,6 +8,6 @@
 | 6 | [#4313](https://github.com/Azure/sdk-release-request/issues/4313) | allegradomel | azure-mgmt-azuresphere | Wzb123456789 | close to release date.  FirstBeta | 06-29 | 07-28 | 2 |
 | 7 | [#4297](https://github.com/Azure/sdk-release-request/issues/4297) | yuc-Li | azure-mgmt-hdinsight | Wzb123456789 | close to release date.  | 06-28 | 07-28 | 2 |
 | 8 | [#4289](https://github.com/Azure/sdk-release-request/issues/4289) | GalGoldi72 | azure-mgmt-sql | Wzb123456789 | close to release date.  HoldOn | 06-27 | 07-28 | 2 |
-| 10 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 | close to release date.  | 06-26 | 07-28 | 2 |
-| 11 | [#4276](https://github.com/Azure/sdk-release-request/issues/4276) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | Wzb123456789 | new comment. close to release date.  | 06-26 | 07-28 | 2 |
-| 13 | [#4263](https://github.com/Azure/sdk-release-request/issues/4263) | mumoryan | azure-mgmt-authorization | Wzb123456789 | close to release date.  | 06-21 | 07-28 | 2 |
+| 9 | [#4282](https://github.com/Azure/sdk-release-request/issues/4282) | htippanaboya | azure-mgmt-network | Wzb123456789 | close to release date.  | 06-26 | 07-28 | 2 |
+| 10 | [#4276](https://github.com/Azure/sdk-release-request/issues/4276) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | Wzb123456789 | new comment. close to release date.  | 06-26 | 07-28 | 2 |
+| 11 | [#4263](https://github.com/Azure/sdk-release-request/issues/4263) | mumoryan | azure-mgmt-authorization | Wzb123456789 | close to release date.  | 06-21 | 07-28 | 2 |
