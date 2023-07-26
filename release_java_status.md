@@ -8,4 +8,3 @@
 | 6 | [#4340](https://github.com/Azure/sdk-release-request/issues/4340) | KalpeshChavan12 |  | XiaofeiCao | new issue. | 07-15 | 08-25 |  |
 | 7 | [#4303](https://github.com/Azure/sdk-release-request/issues/4303) | haagha |  | v-hongli1 |  | 06-29 |  | 0 |
 | 8 | [#4280](https://github.com/Azure/sdk-release-request/issues/4280) | htippanaboya |  | v-hongli1 |  | 06-26 |  | 0 |
-| 9 | [#4243](https://github.com/Azure/sdk-release-request/issues/4243) | JJJessieWang |  | XiaofeiCao | close to release date.  | 06-13 | 07-28 | 1 |

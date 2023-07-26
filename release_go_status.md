@@ -6,4 +6,3 @@
 | 4 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere | new comment. | 07-19 | 08-25 |  |
 | 5 | [#4344](https://github.com/Azure/sdk-release-request/issues/4344) | josefree |  | Alancere | close to release date.  Attention to inconsistent tag | 07-19 | 07-28 | 1 |
 | 6 | [#4341](https://github.com/Azure/sdk-release-request/issues/4341) | KalpeshChavan12 |  | Alancere | new issue. | 07-15 | 08-25 |  |
-| 7 | [#4279](https://github.com/Azure/sdk-release-request/issues/4279) | htippanaboya |  | Alancere | close to release date.  | 06-26 | 07-28 | 1 |
