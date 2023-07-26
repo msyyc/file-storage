@@ -6,18 +6,18 @@
 | 4 | 'Release for Chaos Studio 2023-04-15-preview'  | [#4349](https://github.com/Azure/sdk-release-request/issues/4349)  | [#4348](https://github.com/Azure/sdk-release-request/issues/4348)  | [#4347](https://github.com/Azure/sdk-release-request/issues/4347)  | [#4350](https://github.com/Azure/sdk-release-request/issues/4350)  | 07-20 | 08-25 |  |
 | 5 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  | [#4345](https://github.com/Azure/sdk-release-request/issues/4345)  | [#4346](https://github.com/Azure/sdk-release-request/issues/4346)  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-19 | 08-25 |  |
 | 6 | 'Maintenance RP 2023-04-01 release'  | [#4339](https://github.com/Azure/sdk-release-request/issues/4339)  | [#4341](https://github.com/Azure/sdk-release-request/issues/4341)  | [#4340](https://github.com/Azure/sdk-release-request/issues/4340)  | [#4342](https://github.com/Azure/sdk-release-request/issues/4342)  | 07-15 | 08-25 |  |
-| 7 | 'Release for Azure Sphere - 6-29-2023'  | [#4313](https://github.com/Azure/sdk-release-request/issues/4313)  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 |  |
-| 8 | 'Release for SQL - 2022-11-01-preview'  | [#4289](https://github.com/Azure/sdk-release-request/issues/4289)  | [#4344](https://github.com/Azure/sdk-release-request/issues/4344)  |  | [#4288](https://github.com/Azure/sdk-release-request/issues/4288)  | 06-27 | 07-28 | Hold on by Python/ |
-| 9 | 'Chaos Studio Java SDK (Public Preview version) release'  |  |  | [#4363](https://github.com/Azure/sdk-release-request/issues/4363)  |  | 07-25 | 08-25 |  |
-| 10 | 'Release for Compute 2023-01-02'  |  |  | [#4303](https://github.com/Azure/sdk-release-request/issues/4303)  | [#4304](https://github.com/Azure/sdk-release-request/issues/4304)  | 06-29 | 07-28 |  |
-| 11 | 'NRP 2023-02-01'  |  | [#4279](https://github.com/Azure/sdk-release-request/issues/4279)  | [#4280](https://github.com/Azure/sdk-release-request/issues/4280)  | [#4281](https://github.com/Azure/sdk-release-request/issues/4281)  | 06-26 | 07-28 |  |
-| 12 | 'Release for Batch Service - 2023-05-01'  |  |  | [#4243](https://github.com/Azure/sdk-release-request/issues/4243)  | [#4242](https://github.com/Azure/sdk-release-request/issues/4242)  | 06-13 | 07-28 |  |
-| 13 | 'Release for ManagedNetworkFabric - 2023-06-15'  |  |  |  | [#4338](https://github.com/Azure/sdk-release-request/issues/4338)  | 07-13 | 07-28 |  |
-| 14 | 'Release of StorageMover - 2023-07-01-preview'  |  |  |  | [#4331](https://github.com/Azure/sdk-release-request/issues/4331)  | 07-11 | 07-28 |  |
-| 15 | 'Release for ElasitcSan - 2022-12-01-preview'  |  |  |  | [#4329](https://github.com/Azure/sdk-release-request/issues/4329)  | 07-11 | 07-28 |  |
-| 16 | 'Release for Azure Web PubSub - 2023-06-01-preview'  |  |  |  | [#4322](https://github.com/Azure/sdk-release-request/issues/4322)  | 07-10 | 07-28 |  |
-| 17 | 'Release for Microsoft.Quantum mgmt javascript sdk'  |  |  |  | [#4319](https://github.com/Azure/sdk-release-request/issues/4319)  | 07-07 | 07-28 |  |
-| 18 | 'Release for AKS Backup 2023-05-01'  |  |  |  | [#4317](https://github.com/Azure/sdk-release-request/issues/4317)  | 07-03 | 07-28 |  |
+| 7 | 'Release for SQL - 2022-11-01-preview'  | [#4289](https://github.com/Azure/sdk-release-request/issues/4289)  | [#4344](https://github.com/Azure/sdk-release-request/issues/4344)  |  | [#4288](https://github.com/Azure/sdk-release-request/issues/4288)  | 06-27 | 07-28 | Hold on by Python/ |
+| 8 | 'Chaos Studio Java SDK (Public Preview version) release'  |  |  | [#4363](https://github.com/Azure/sdk-release-request/issues/4363)  |  | 07-25 | 08-25 |  |
+| 9 | 'Release for Compute 2023-01-02'  |  |  | [#4303](https://github.com/Azure/sdk-release-request/issues/4303)  | [#4304](https://github.com/Azure/sdk-release-request/issues/4304)  | 06-29 | 07-28 |  |
+| 10 | 'NRP 2023-02-01'  |  | [#4279](https://github.com/Azure/sdk-release-request/issues/4279)  | [#4280](https://github.com/Azure/sdk-release-request/issues/4280)  | [#4281](https://github.com/Azure/sdk-release-request/issues/4281)  | 06-26 | 07-28 |  |
+| 11 | 'Release for Batch Service - 2023-05-01'  |  |  | [#4243](https://github.com/Azure/sdk-release-request/issues/4243)  | [#4242](https://github.com/Azure/sdk-release-request/issues/4242)  | 06-13 | 07-28 |  |
+| 12 | 'Release for ManagedNetworkFabric - 2023-06-15'  |  |  |  | [#4338](https://github.com/Azure/sdk-release-request/issues/4338)  | 07-13 | 07-28 |  |
+| 13 | 'Release of StorageMover - 2023-07-01-preview'  |  |  |  | [#4331](https://github.com/Azure/sdk-release-request/issues/4331)  | 07-11 | 07-28 |  |
+| 14 | 'Release for ElasitcSan - 2022-12-01-preview'  |  |  |  | [#4329](https://github.com/Azure/sdk-release-request/issues/4329)  | 07-11 | 07-28 |  |
+| 15 | 'Release for Azure Web PubSub - 2023-06-01-preview'  |  |  |  | [#4322](https://github.com/Azure/sdk-release-request/issues/4322)  | 07-10 | 07-28 |  |
+| 16 | 'Release for Microsoft.Quantum mgmt javascript sdk'  |  |  |  | [#4319](https://github.com/Azure/sdk-release-request/issues/4319)  | 07-07 | 07-28 |  |
+| 17 | 'Release for AKS Backup 2023-05-01'  |  |  |  | [#4317](https://github.com/Azure/sdk-release-request/issues/4317)  | 07-03 | 07-28 |  |
+| 18 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 |  |
 | 19 | 'Release for NetworkCloud - 2023-05-01-preview'  |  |  |  | [#4299](https://github.com/Azure/sdk-release-request/issues/4299)  | 06-28 | 07-28 |  |
 | 20 | 'Release for HDInsight services - 2023-04-15-preview'  |  |  |  | [#4294](https://github.com/Azure/sdk-release-request/issues/4294)  | 06-28 | 07-28 |  |
 | 21 | 'Cognitive Services 2023-05-01'  |  |  |  | [#4283](https://github.com/Azure/sdk-release-request/issues/4283)  | 06-27 | 07-28 |  |
