@@ -13,17 +13,13 @@
 | 11 | 'Release of StorageMover - 2023-07-01-preview'  |  |  |  | [#4331](https://github.com/Azure/sdk-release-request/issues/4331)  | 07-11 | 07-28 |  |
 | 12 | 'Release for ElasitcSan - 2022-12-01-preview'  |  |  |  | [#4329](https://github.com/Azure/sdk-release-request/issues/4329)  | 07-11 | 07-28 |  |
 | 13 | 'Release for Azure Web PubSub - 2023-06-01-preview'  |  |  |  | [#4322](https://github.com/Azure/sdk-release-request/issues/4322)  | 07-10 | 07-28 |  |
-| 14 | 'Release for Microsoft.Quantum mgmt javascript sdk'  |  |  |  | [#4319](https://github.com/Azure/sdk-release-request/issues/4319)  | 07-07 | 07-28 |  |
-| 15 | 'Release for AKS Backup 2023-05-01'  |  |  |  | [#4317](https://github.com/Azure/sdk-release-request/issues/4317)  | 07-03 | 07-28 |  |
-| 16 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 |  |
-| 17 | 'Release for NetworkCloud - 2023-05-01-preview'  |  |  |  | [#4299](https://github.com/Azure/sdk-release-request/issues/4299)  | 06-28 | 07-28 |  |
-| 18 | 'Release for HDInsight services - 2023-04-15-preview'  |  |  |  | [#4294](https://github.com/Azure/sdk-release-request/issues/4294)  | 06-28 | 07-28 |  |
-| 19 | 'Cognitive Services 2023-05-01'  |  |  |  | [#4283](https://github.com/Azure/sdk-release-request/issues/4283)  | 06-27 | 07-28 |  |
-| 20 | 'Request for SDKs for 2023-06 of MobileNetwork'  |  |  |  | [#4278](https://github.com/Azure/sdk-release-request/issues/4278)  | 06-26 | 07-28 |  |
-| 21 | 'Release for Kusto 2023-05-02'  |  |  |  | [#4270](https://github.com/Azure/sdk-release-request/issues/4270)  | 06-25 | 07-28 |  |
-| 22 | 'Release for IoT Firmware Defense - 2023-02-08-preview'  |  |  |  | [#4268](https://github.com/Azure/sdk-release-request/issues/4268)  | 06-23 | 07-28 |  |
-| 23 | 'Release for Policy Administrative Services - 2022-05-01-preview'  |  |  |  | [#4262](https://github.com/Azure/sdk-release-request/issues/4262)  | 06-21 | 07-28 |  |
-| 24 | 'Release for NetAppFiles 2022-11-01'  |  |  |  | [#4260](https://github.com/Azure/sdk-release-request/issues/4260)  | 06-21 | 07-28 |  |
-| 25 | 'Release for Container Service - 2023-05-01'  |  |  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
-| 26 | 'Release for Batch Service - 2023-05-01'  |  |  |  | [#4242](https://github.com/Azure/sdk-release-request/issues/4242)  | 06-13 | 07-28 |  |
-| 27 | 'Release for PaloAltoNetworks (GA)'  |  |  |  | [#4238](https://github.com/Azure/sdk-release-request/issues/4238)  | 06-09 | 07-14 |  |
+| 14 | 'Release for AKS Backup 2023-05-01'  |  |  |  | [#4317](https://github.com/Azure/sdk-release-request/issues/4317)  | 07-03 | 07-28 |  |
+| 15 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 |  |
+| 16 | 'Release for NetworkCloud - 2023-05-01-preview'  |  |  |  | [#4299](https://github.com/Azure/sdk-release-request/issues/4299)  | 06-28 | 07-28 |  |
+| 17 | 'Release for HDInsight services - 2023-04-15-preview'  |  |  |  | [#4294](https://github.com/Azure/sdk-release-request/issues/4294)  | 06-28 | 07-28 |  |
+| 18 | 'Cognitive Services 2023-05-01'  |  |  |  | [#4283](https://github.com/Azure/sdk-release-request/issues/4283)  | 06-27 | 07-28 |  |
+| 19 | 'Request for SDKs for 2023-06 of MobileNetwork'  |  |  |  | [#4278](https://github.com/Azure/sdk-release-request/issues/4278)  | 06-26 | 07-28 |  |
+| 20 | 'Release for Policy Administrative Services - 2022-05-01-preview'  |  |  |  | [#4262](https://github.com/Azure/sdk-release-request/issues/4262)  | 06-21 | 07-28 |  |
+| 21 | 'Release for NetAppFiles 2022-11-01'  |  |  |  | [#4260](https://github.com/Azure/sdk-release-request/issues/4260)  | 06-21 | 07-28 |  |
+| 22 | 'Release for Container Service - 2023-05-01'  |  |  |  | [#4247](https://github.com/Azure/sdk-release-request/issues/4247)  | 06-14 | 07-28 |  |
+| 23 | 'Release for Batch Service - 2023-05-01'  |  |  |  | [#4242](https://github.com/Azure/sdk-release-request/issues/4242)  | 06-13 | 07-28 |  |
