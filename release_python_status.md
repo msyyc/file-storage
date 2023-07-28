@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4373](https://github.com/Azure/sdk-release-request/issues/4373) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 | Attention to inconsistent tag | 07-27 | 08-25 |  |
+| 1 | [#4373](https://github.com/Azure/sdk-release-request/issues/4373) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 |  | 07-27 | 08-25 |  |
 | 2 | [#4370](https://github.com/Azure/sdk-release-request/issues/4370) | apclouds | azure-mgmt-resource | ChenxiJiang333 | MultiAPI | 07-26 | 08-25 |  |
 | 3 | [#4366](https://github.com/Azure/sdk-release-request/issues/4366) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstBeta | 07-26 | 08-25 |  |
 | 4 | [#4359](https://github.com/Azure/sdk-release-request/issues/4359) | priyamshet | azure-mgmt-networkcloud | ChenxiJiang333 |  | 07-25 | 08-25 |  |
