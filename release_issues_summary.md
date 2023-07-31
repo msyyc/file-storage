@@ -13,7 +13,7 @@
 | 11 | 'Release of StorageMover - 2023-07-01-preview'  |  |  |  | [#4331](https://github.com/Azure/sdk-release-request/issues/4331)  | 07-11 | 07-28 |  |
 | 12 | 'Release for ElasitcSan - 2022-12-01-preview'  |  |  |  | [#4329](https://github.com/Azure/sdk-release-request/issues/4329)  | 07-11 | 07-28 |  |
 | 13 | 'Release for Azure Web PubSub - 2023-06-01-preview'  |  |  |  | [#4322](https://github.com/Azure/sdk-release-request/issues/4322)  | 07-10 | 07-28 |  |
-| 14 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 | Hold on by JS/ |
+| 14 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 |  |
 | 15 | 'Release for Compute 2023-01-02'  |  |  |  | [#4304](https://github.com/Azure/sdk-release-request/issues/4304)  | 06-29 | 07-28 |  |
 | 16 | 'Release for NetworkCloud - 2023-05-01-preview'  |  |  |  | [#4299](https://github.com/Azure/sdk-release-request/issues/4299)  | 06-28 | 07-28 |  |
 | 17 | 'Release for SQL - 2022-11-01-preview'  |  |  |  | [#4288](https://github.com/Azure/sdk-release-request/issues/4288)  | 06-27 | 07-28 |  |
