@@ -7,15 +7,16 @@
 | 5 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  | [#4345](https://github.com/Azure/sdk-release-request/issues/4345)  | [#4346](https://github.com/Azure/sdk-release-request/issues/4346)  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-19 | 08-25 |  |
 | 6 | 'Maintenance RP 2023-04-01 release'  | [#4339](https://github.com/Azure/sdk-release-request/issues/4339)  | [#4341](https://github.com/Azure/sdk-release-request/issues/4341)  | [#4340](https://github.com/Azure/sdk-release-request/issues/4340)  | [#4342](https://github.com/Azure/sdk-release-request/issues/4342)  | 07-15 | 08-25 |  |
 | 7 | 'Release for Deployment Stacks - 2022-08-01'  |  |  | [#4375](https://github.com/Azure/sdk-release-request/issues/4375)  |  | 07-28 | 08-25 |  |
-| 8 | 'Release for Container Service - 2023-06-01'  |  | [#4355](https://github.com/Azure/sdk-release-request/issues/4355)  |  | [#4356](https://github.com/Azure/sdk-release-request/issues/4356)  | 07-21 | 08-25 |  |
-| 9 | 'Release for ManagedNetworkFabric - 2023-06-15'  |  |  |  | [#4338](https://github.com/Azure/sdk-release-request/issues/4338)  | 07-13 | 07-28 |  |
-| 10 | 'Release of StorageMover - 2023-07-01-preview'  |  |  |  | [#4331](https://github.com/Azure/sdk-release-request/issues/4331)  | 07-11 | 07-28 |  |
-| 11 | 'Release for ElasitcSan - 2022-12-01-preview'  |  |  |  | [#4329](https://github.com/Azure/sdk-release-request/issues/4329)  | 07-11 | 07-28 |  |
-| 12 | 'Release for Azure Web PubSub - 2023-06-01-preview'  |  |  |  | [#4322](https://github.com/Azure/sdk-release-request/issues/4322)  | 07-10 | 07-28 |  |
-| 13 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 | Hold on by JS/ |
-| 14 | 'Release for Compute 2023-01-02'  |  |  |  | [#4304](https://github.com/Azure/sdk-release-request/issues/4304)  | 06-29 | 07-28 |  |
-| 15 | 'Release for NetworkCloud - 2023-05-01-preview'  |  |  |  | [#4299](https://github.com/Azure/sdk-release-request/issues/4299)  | 06-28 | 07-28 |  |
-| 16 | 'Release for SQL - 2022-11-01-preview'  |  |  |  | [#4288](https://github.com/Azure/sdk-release-request/issues/4288)  | 06-27 | 07-28 |  |
-| 17 | 'NRP 2023-02-01'  |  |  |  | [#4281](https://github.com/Azure/sdk-release-request/issues/4281)  | 06-26 | 07-28 |  |
-| 18 | 'Request for SDKs for 2023-06 of MobileNetwork'  |  |  |  | [#4278](https://github.com/Azure/sdk-release-request/issues/4278)  | 06-26 | 07-28 |  |
-| 19 | 'Release for Batch Service - 2023-05-01'  |  |  |  | [#4242](https://github.com/Azure/sdk-release-request/issues/4242)  | 06-13 | 07-28 |  |
+| 8 | 'Release for Container Service - 2023-06-02-preview'  |  | [#4377](https://github.com/Azure/sdk-release-request/issues/4377)  |  | [#4376](https://github.com/Azure/sdk-release-request/issues/4376)  | 07-31 |  |  |
+| 9 | 'Release for Container Service - 2023-06-01'  |  | [#4355](https://github.com/Azure/sdk-release-request/issues/4355)  |  | [#4356](https://github.com/Azure/sdk-release-request/issues/4356)  | 07-21 | 08-25 |  |
+| 10 | 'Release for ManagedNetworkFabric - 2023-06-15'  |  |  |  | [#4338](https://github.com/Azure/sdk-release-request/issues/4338)  | 07-13 | 07-28 |  |
+| 11 | 'Release of StorageMover - 2023-07-01-preview'  |  |  |  | [#4331](https://github.com/Azure/sdk-release-request/issues/4331)  | 07-11 | 07-28 |  |
+| 12 | 'Release for ElasitcSan - 2022-12-01-preview'  |  |  |  | [#4329](https://github.com/Azure/sdk-release-request/issues/4329)  | 07-11 | 07-28 |  |
+| 13 | 'Release for Azure Web PubSub - 2023-06-01-preview'  |  |  |  | [#4322](https://github.com/Azure/sdk-release-request/issues/4322)  | 07-10 | 07-28 |  |
+| 14 | 'Release for Azure Sphere - 6-29-2023'  |  |  |  | [#4307](https://github.com/Azure/sdk-release-request/issues/4307)  | 06-29 | 07-28 | Hold on by JS/ |
+| 15 | 'Release for Compute 2023-01-02'  |  |  |  | [#4304](https://github.com/Azure/sdk-release-request/issues/4304)  | 06-29 | 07-28 |  |
+| 16 | 'Release for NetworkCloud - 2023-05-01-preview'  |  |  |  | [#4299](https://github.com/Azure/sdk-release-request/issues/4299)  | 06-28 | 07-28 |  |
+| 17 | 'Release for SQL - 2022-11-01-preview'  |  |  |  | [#4288](https://github.com/Azure/sdk-release-request/issues/4288)  | 06-27 | 07-28 |  |
+| 18 | 'NRP 2023-02-01'  |  |  |  | [#4281](https://github.com/Azure/sdk-release-request/issues/4281)  | 06-26 | 07-28 |  |
+| 19 | 'Request for SDKs for 2023-06 of MobileNetwork'  |  |  |  | [#4278](https://github.com/Azure/sdk-release-request/issues/4278)  | 06-26 | 07-28 |  |
+| 20 | 'Release for Batch Service - 2023-05-01'  |  |  |  | [#4242](https://github.com/Azure/sdk-release-request/issues/4242)  | 06-13 | 07-28 |  |
