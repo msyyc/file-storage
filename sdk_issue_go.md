@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#21267](https://github.com/Azure/azure-sdk-for-go/issues/21267)|Enhance release tooling for mgmt.|Mgmt, Mgmt-EngSys|Alancere|new issue|2023-07-26|
-|2|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|Alancere, tadelesh|new issue|2023-07-26|
+|2|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|tadelesh, Alancere|new issue|2023-07-26|
 |3|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |4|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |5|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|Alancere||2022-11-14|
