@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4385](https://github.com/Azure/sdk-release-request/issues/4385) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 | new issue. | 08-02 | 08-25 |  |
+| 1 | [#4385](https://github.com/Azure/sdk-release-request/issues/4385) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-02 | 08-25 |  |
 | 2 | [#4382](https://github.com/Azure/sdk-release-request/issues/4382) | carlowisse | azure-mgmt-redhatopenshift | ChenxiJiang333 | new issue. MultiAPI | 08-01 | 08-25 |  |
 | 3 | [#4379](https://github.com/Azure/sdk-release-request/issues/4379) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 | MultiAPI | 07-31 | 08-25 |  |
 | 4 | [#4373](https://github.com/Azure/sdk-release-request/issues/4373) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 | HoldOn | 07-27 | 08-25 |  |
