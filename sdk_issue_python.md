@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#31497](https://github.com/Azure/azure-sdk-for-python/issues/31497)|azure-mgmt-network not correctly seeing App Gateway WAF V2 enabled?|question, Network - Application Gateway, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-08-07|
+|1|[#31497](https://github.com/Azure/azure-sdk-for-python/issues/31497)|azure-mgmt-network not correctly seeing App Gateway WAF V2 enabled?|question, Network - Application Gateway, Mgmt, customer-reported, needs-team-attention|msyyc||2023-08-07|
 |2|[#31473](https://github.com/Azure/azure-sdk-for-python/issues/31473)|Please provide an example of how to use the Azure Consumption python sdk|feature-request, Mgmt, customer-reported, CXP Attention|msyyc|new comment|2023-08-04|
 |3|[#31382](https://github.com/Azure/azure-sdk-for-python/issues/31382)|Azure Alert - Attributes missing in azure-mgmt-monitor module|question, Mgmt, customer-reported, needs-author-feedback|msyyc||2023-07-31|
 |4|[#31251](https://github.com/Azure/azure-sdk-for-python/issues/31251)|virtual_machine_run_commands.begin_create_or_update with treatFailureAsDeploymentFailure property lead to failed execution state|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-07-21|
@@ -17,6 +17,6 @@
 |15|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |16|[#20288](https://github.com/Azure/azure-sdk-for-python/issues/20288)|The operation api.get in the module azure.mgmt.apimanagement.operations doesn't return all the fields|bug, API Management, Mgmt, customer-reported|msyyc, BigCat20196|new comment|2021-08-16|
 |17|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
+|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
 |19|[#13316](https://github.com/Azure/azure-sdk-for-python/issues/13316)|"Warning: Discriminator source is absent or null, use base class ResourceDetails." when serializing SecurityAssessment object|question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2020-08-25|
 |20|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
