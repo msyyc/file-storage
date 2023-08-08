@@ -1,11 +1,11 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4400](https://github.com/Azure/sdk-release-request/issues/4400) | FumingZhang |  | MaryGao |  | 08-08 |  | 0 |
+| 1 | [#4400](https://github.com/Azure/sdk-release-request/issues/4400) | FumingZhang |  | MaryGao | new issue. | 08-08 | 08-25 |  |
 | 2 | [#4396](https://github.com/Azure/sdk-release-request/issues/4396) | harshpatel17 |  | MaryGao | Attention to inconsistent tag | 08-07 | 08-25 |  |
 | 3 | [#4392](https://github.com/Azure/sdk-release-request/issues/4392) | stack111 |  | qiaozha | Attention to inconsistent tag | 08-04 | 08-25 |  |
 | 4 | [#4388](https://github.com/Azure/sdk-release-request/issues/4388) | calvinhzy |  | qiaozha | new issue. | 08-04 | 08-25 |  |
 | 5 | [#4386](https://github.com/Azure/sdk-release-request/issues/4386) | Juliehzl |  | qiaozha | new issue. | 08-02 | 08-25 |  |
-| 6 | [#4378](https://github.com/Azure/sdk-release-request/issues/4378) | Joanna-Yang-Art |  | qiaozha | new issue. | 07-31 | 08-25 |  |
+| 6 | [#4378](https://github.com/Azure/sdk-release-request/issues/4378) | Joanna-Yang-Art |  | qiaozha |  | 07-31 | 08-25 |  |
 | 7 | [#4376](https://github.com/Azure/sdk-release-request/issues/4376) | FumingZhang |  | qiaozha | new issue. | 07-31 | 08-25 |  |
 | 8 | [#4372](https://github.com/Azure/sdk-release-request/issues/4372) | solankisamir |  | MaryGao | Attention to inconsistent tag | 07-27 | 08-25 |  |
 | 9 | [#4368](https://github.com/Azure/sdk-release-request/issues/4368) | azaslonov |  | MaryGao |  | 07-26 | 08-25 |  |

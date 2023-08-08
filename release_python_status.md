@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4401](https://github.com/Azure/sdk-release-request/issues/4401) | FumingZhang |  | ChenxiJiang333 |  | 08-08 |  | 0 |
+| 1 | [#4401](https://github.com/Azure/sdk-release-request/issues/4401) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. MultiAPI | 08-08 | 08-25 |  |
 | 2 | [#4395](https://github.com/Azure/sdk-release-request/issues/4395) | stack111 | azure-mgmt-maps | ChenxiJiang333 |  | 08-04 | 08-25 |  |
 | 3 | [#4391](https://github.com/Azure/sdk-release-request/issues/4391) | calvinhzy | azure-mgmt-storage | ChenxiJiang333 |  | 08-04 | 08-25 |  |
 | 4 | [#4385](https://github.com/Azure/sdk-release-request/issues/4385) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-02 | 08-25 |  |
