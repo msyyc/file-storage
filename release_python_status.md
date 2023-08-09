@@ -4,7 +4,7 @@
 | 2 | [#4408](https://github.com/Azure/sdk-release-request/issues/4408) | abhargavams |  | ChenxiJiang333 |  | 08-08 | 08-25 |  |
 | 3 | [#4405](https://github.com/Azure/sdk-release-request/issues/4405) | aim-for-better | azure-mgmt-hdinsight | ChenxiJiang333 | FirstBeta | 08-08 | 08-25 |  |
 | 4 | [#4401](https://github.com/Azure/sdk-release-request/issues/4401) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 08-08 | 08-25 |  |
-| 5 | [#4395](https://github.com/Azure/sdk-release-request/issues/4395) | stack111 | azure-mgmt-maps | ChenxiJiang333 | new comment. | 08-04 | 08-25 |  |
+| 5 | [#4395](https://github.com/Azure/sdk-release-request/issues/4395) | stack111 | azure-mgmt-maps | ChenxiJiang333 |  | 08-04 | 08-25 |  |
 | 6 | [#4391](https://github.com/Azure/sdk-release-request/issues/4391) | calvinhzy | azure-mgmt-storage | ChenxiJiang333 |  | 08-04 | 08-25 |  |
 | 7 | [#4385](https://github.com/Azure/sdk-release-request/issues/4385) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-02 | 08-25 |  |
 | 8 | [#4382](https://github.com/Azure/sdk-release-request/issues/4382) | carlowisse | azure-mgmt-redhatopenshift | ChenxiJiang333 |  | 08-01 | 08-25 |  |
