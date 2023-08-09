@@ -16,5 +16,5 @@
 | 14 | [#4360](https://github.com/Azure/sdk-release-request/issues/4360) | priyamshet |  | Alancere | new comment. | 07-25 | 08-25 |  |
 | 15 | [#4355](https://github.com/Azure/sdk-release-request/issues/4355) | FumingZhang |  | Alancere | new issue. | 07-21 | 08-25 |  |
 | 16 | [#4348](https://github.com/Azure/sdk-release-request/issues/4348) | brrusino |  | Alancere |  | 07-20 | 08-25 |  |
-| 17 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere | Attention to inconsistent tag | 07-19 | 08-25 |  |
+| 17 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere |  | 07-19 | 08-25 |  |
 | 18 | [#4341](https://github.com/Azure/sdk-release-request/issues/4341) | KalpeshChavan12 |  | Alancere |  | 07-15 | 08-25 |  |
