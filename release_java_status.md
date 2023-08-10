@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4411](https://github.com/Azure/sdk-release-request/issues/4411) | cataggar |  | haolingdong-msft | new issue. | 08-08 | 08-25 |  |
 | 2 | [#4406](https://github.com/Azure/sdk-release-request/issues/4406) | abhargavams |  | weidongxu-microsoft |  | 08-08 | 08-25 |  |
-| 3 | [#4404](https://github.com/Azure/sdk-release-request/issues/4404) | aim-for-better |  | weidongxu-microsoft | new comment. Attention to inconsistent tag | 08-08 | 08-25 |  |
+| 3 | [#4404](https://github.com/Azure/sdk-release-request/issues/4404) | aim-for-better |  | weidongxu-microsoft | Attention to inconsistent tag | 08-08 | 08-25 |  |
 | 4 | [#4399](https://github.com/Azure/sdk-release-request/issues/4399) | FumingZhang |  | weidongxu-microsoft |  | 08-08 | 08-25 |  |
 | 5 | [#4394](https://github.com/Azure/sdk-release-request/issues/4394) | stack111 |  | XiaofeiCao | new comment. Attention to inconsistent tag | 08-04 | 08-25 |  |
 | 6 | [#4390](https://github.com/Azure/sdk-release-request/issues/4390) | calvinhzy |  | weidongxu-microsoft |  | 08-04 | 08-25 |  |
