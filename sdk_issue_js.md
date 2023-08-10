@@ -2,9 +2,9 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#26661](https://github.com/Azure/azure-sdk-for-js/issues/26661)|"Subscription Not Found" for nodejs function app using @azure/arm-containerinstance|question, customer-reported, Mgmt, needs-author-feedback|qiaozha||2023-07-28|
 |2|[#26580](https://github.com/Azure/azure-sdk-for-js/issues/26580)|Correct provider IDs for @azure/arm-reservations QuotaGetRequest |Mgmt, Service Attention, needs-author-feedback, Quota|kazrael2119, qiaozha||2023-07-21|
-|3|[#26543](https://github.com/Azure/azure-sdk-for-js/issues/26543)|Mgmt plane change log generation policy is incorrect.|Mgmt, Mgmt-EngSys|kazrael2119, MaryGao||2023-07-19|
+|3|[#26543](https://github.com/Azure/azure-sdk-for-js/issues/26543)|Mgmt plane change log generation policy is incorrect.|Mgmt, Mgmt-EngSys|MaryGao, kazrael2119||2023-07-19|
 |4|[#26300](https://github.com/Azure/azure-sdk-for-js/issues/26300)|containerApps fail due to pointing to historic resource location|bug, customer-reported, Mgmt, App Services, needs-team-attention|qiaozha||2023-06-22|
-|5|[#26106](https://github.com/Azure/azure-sdk-for-js/issues/26106)|[ARM App Platform] Breaking change from 2.0.0 to 3.0.0-beta|Mgmt, ARM - Managed Applications|kazrael2119, MaryGao||2023-06-06|
+|5|[#26106](https://github.com/Azure/azure-sdk-for-js/issues/26106)|[ARM App Platform] Breaking change from 2.0.0 to 3.0.0-beta|Mgmt, ARM - Managed Applications|MaryGao, kazrael2119||2023-06-06|
 |6|[#26053](https://github.com/Azure/azure-sdk-for-js/issues/26053)|Azure App Service Managed Certificate createOrUpdate call throws on 202|question, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|kazrael2119, qiaozha||2023-05-31|
 |7|[#25671](https://github.com/Azure/azure-sdk-for-js/issues/25671)|beginListActiveSessionsAndWait() does not return Sessions even though the api called by the sdk does return Sessions|bug, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|kazrael2119, qiaozha||2023-04-26|
 |8|[#25473](https://github.com/Azure/azure-sdk-for-js/issues/25473)|[ResoruceGraph] Change resources from NodeJS ResourceGraphClient miss information randomly|question, customer-reported, Mgmt, Service Attention, Resource Graph, needs-team-attention|qiaozha|new comment|2023-04-06|
