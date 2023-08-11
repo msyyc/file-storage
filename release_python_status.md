@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4418](https://github.com/Azure/sdk-release-request/issues/4418) | aditimalladi | azure-mgmt-resourceconnector | ChenxiJiang333 | new issue. | 08-11 | 08-25 |  |
+| 1 | [#4418](https://github.com/Azure/sdk-release-request/issues/4418) | aditimalladi | azure-mgmt-resourceconnector | ChenxiJiang333 |  | 08-11 | 08-25 |  |
 | 2 | [#4414](https://github.com/Azure/sdk-release-request/issues/4414) | cataggar | azure-mgmt-avs | ChenxiJiang333 |  | 08-08 | 08-25 |  |
 | 3 | [#4408](https://github.com/Azure/sdk-release-request/issues/4408) | abhargavams | azure-mgmt-dynatrace | ChenxiJiang333 |  | 08-08 | 08-25 |  |
 | 4 | [#4405](https://github.com/Azure/sdk-release-request/issues/4405) | aim-for-better | azure-mgmt-hdinsight | ChenxiJiang333 | FirstBeta | 08-08 | 08-25 |  |
