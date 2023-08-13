@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|tadelesh, Alancere|new issue|2023-07-26|
+|1|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|Alancere, tadelesh|new issue|2023-07-26|
 |2|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |3|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |4|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|Alancere||2022-11-14|
 |5|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
 |6|[#18590](https://github.com/Azure/azure-sdk-for-go/issues/18590)|Unable to expand planInformation on Reservation Order|bug, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-14|
-|7|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, tadelesh|new comment|2022-05-05|
+|7|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|tadelesh, lirenhe|new comment|2022-05-05|
 |8|[#17783](https://github.com/Azure/azure-sdk-for-go/issues/17783)|New API version: 2022-02-03 for desktopvirtualization|Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere||2022-04-29|
 |9|[#17591](https://github.com/Azure/azure-sdk-for-go/issues/17591)|DscConfigurationClient.GetContent is broken since `2020-01-13-preview/automation` API version|bug, Automation, Service Attention, Mgmt, customer-reported, needs-team-attention, Previous Versions|ArcturusZhang|new comment|2022-04-14|
 |10|[#17520](https://github.com/Azure/azure-sdk-for-go/issues/17520)|Unsupported api-version for armservicebus ListKeys() method|bug, Service Bus, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-04-11|
