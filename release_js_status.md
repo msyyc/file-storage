@@ -20,4 +20,4 @@
 | 18 | [#4356](https://github.com/Azure/sdk-release-request/issues/4356) | FumingZhang |  | qiaozha |  | 07-21 | 08-25 |  |
 | 19 | [#4352](https://github.com/Azure/sdk-release-request/issues/4352) | pathuang-sia |  | qiaozha | Attention to inconsistent tag | 07-20 | 08-25 |  |
 | 20 | [#4350](https://github.com/Azure/sdk-release-request/issues/4350) | brrusino |  | qiaozha | new comment. | 07-20 | 08-25 |  |
-| 21 | [#4342](https://github.com/Azure/sdk-release-request/issues/4342) | KalpeshChavan12 |  | MaryGao |  | 07-15 | 08-25 |  |
+| 21 | [#4342](https://github.com/Azure/sdk-release-request/issues/4342) | KalpeshChavan12 |  | MaryGao | new comment. | 07-15 | 08-25 |  |
