@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4426](https://github.com/Azure/sdk-release-request/issues/4426) | ankur741999 | azure-mgmt-recoveryservices | ChenxiJiang333 |  | 08-14 | 09-22 |  |
-| 2 | [#4422](https://github.com/Azure/sdk-release-request/issues/4422) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 08-12 | 09-22 |  |
+| 2 | [#4422](https://github.com/Azure/sdk-release-request/issues/4422) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 08-12 | 09-22 |  |
 | 3 | [#4418](https://github.com/Azure/sdk-release-request/issues/4418) | aditimalladi | azure-mgmt-resourceconnector | ChenxiJiang333 | FirstGA | 08-11 | 08-25 |  |
 | 4 | [#4414](https://github.com/Azure/sdk-release-request/issues/4414) | cataggar | azure-mgmt-avs | ChenxiJiang333 |  | 08-08 | 08-25 |  |
 | 5 | [#4408](https://github.com/Azure/sdk-release-request/issues/4408) | abhargavams | azure-mgmt-dynatrace | ChenxiJiang333 |  | 08-08 | 08-25 |  |
