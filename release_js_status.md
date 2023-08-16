@@ -5,7 +5,7 @@
 | 3 | [#4427](https://github.com/Azure/sdk-release-request/issues/4427) | ankur741999 |  | qiaozha | new issue. | 08-14 | 09-22 |  |
 | 4 | [#4423](https://github.com/Azure/sdk-release-request/issues/4423) | grizzlytheodore |  | MaryGao |  | 08-12 | 09-22 |  |
 | 5 | [#4419](https://github.com/Azure/sdk-release-request/issues/4419) | aditimalladi |  | MaryGao |  | 08-11 | 08-25 |  |
-| 6 | [#4415](https://github.com/Azure/sdk-release-request/issues/4415) | thang-bit |  | MaryGao | new comment. | 08-10 | 08-25 |  |
+| 6 | [#4415](https://github.com/Azure/sdk-release-request/issues/4415) | thang-bit |  | MaryGao |  | 08-10 | 08-25 |  |
 | 7 | [#4413](https://github.com/Azure/sdk-release-request/issues/4413) | cataggar |  | MaryGao |  | 08-08 | 08-25 |  |
 | 8 | [#4409](https://github.com/Azure/sdk-release-request/issues/4409) | abhargavams |  | MaryGao |  | 08-08 | 08-25 |  |
 | 9 | [#4403](https://github.com/Azure/sdk-release-request/issues/4403) | aim-for-better |  | MaryGao | new comment. Attention to inconsistent tag | 08-08 | 08-25 |  |
