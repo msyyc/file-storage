@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Mgmt, customer-reported|XiaofeiCao, v-hongli1|new comment|2023-08-14|
+|1|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-08-14|
 |2|[#36243](https://github.com/Azure/azure-sdk-for-java/issues/36243)|[FEATURE REQ]mgmt Compute, convenience api for updating VM resource deleteOptions(osDisk, dataDisks, networkInterfaces)|Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao||2023-08-04|
 |3|[#36215](https://github.com/Azure/azure-sdk-for-java/issues/36215)|[FEATURE REQ] mgmt network, change application gateway default size and tier to `BASIC`|Network - Application Gateway, Mgmt|XiaofeiCao||2023-08-02|
 |4|[#36152](https://github.com/Azure/azure-sdk-for-java/issues/36152)|[BUG] Failure while deleting resource with the following type 'privateDnsZones/virtualNetworkLinks'.|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2023-07-28|
