@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#31647](https://github.com/Azure/azure-sdk-for-python/issues/31647)|Resource Group documentation has markup instead of items|Docs, question, ARM, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-08-14|
+|1|[#31647](https://github.com/Azure/azure-sdk-for-python/issues/31647)|Resource Group documentation has markup instead of items|Docs, question, ARM, Mgmt, customer-reported, needs-team-attention|msyyc||2023-08-14|
 |2|[#31643](https://github.com/Azure/azure-sdk-for-python/issues/31643)| Calling .usage.list() on a ComputeManagementClient will inconsistently result in a DecodeError.|question, Client, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-08-14|
 |3|[#31580](https://github.com/Azure/azure-sdk-for-python/issues/31580)|Unable to update TLS version using Python management SDK on Service bus namespace|Service Bus, question, Client, Mgmt, customer-reported, needs-team-attention|msyyc||2023-08-11|
 |4|[#31579](https://github.com/Azure/azure-sdk-for-python/issues/31579)|begin_import_image command is hanging when uploading images from one container registry to another|question, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-08-11|
