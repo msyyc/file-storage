@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4447](https://github.com/Azure/sdk-release-request/issues/4447) | bjqian |  | ChenxiJiang333 | duplicated issue  <br> multi readme link! | 08-17 | 09-22 |  |
-| 2 | [#4442](https://github.com/Azure/sdk-release-request/issues/4442) | bjqian |  | ChenxiJiang333 | duplicated issue  <br> multi readme link! | 08-17 | 09-22 |  |
+| 1 | [#4447](https://github.com/Azure/sdk-release-request/issues/4447) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 | multi readme link! | 08-17 | 09-22 |  |
+| 2 | [#4442](https://github.com/Azure/sdk-release-request/issues/4442) | bjqian | azure-mgmt-signalr | ChenxiJiang333 | multi readme link! | 08-17 | 09-22 |  |
 | 3 | [#4440](https://github.com/Azure/sdk-release-request/issues/4440) | apmehrotra | azure-mgmt-hybridconnectivity | ChenxiJiang333 | new issue. | 08-16 | 09-22 |  |
 | 4 | [#4432](https://github.com/Azure/sdk-release-request/issues/4432) | ethanann-ms | azure-mgmt-iothub | ChenxiJiang333 |  | 08-15 | 09-22 |  |
 | 5 | [#4426](https://github.com/Azure/sdk-release-request/issues/4426) | ankur741999 | azure-mgmt-recoveryservices | ChenxiJiang333 |  | 08-14 | 09-22 |  |
