@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4445](https://github.com/Azure/sdk-release-request/issues/4445) | bjqian |  | haolingdong-msft |  | 08-17 |  | 0 |
-| 2 | [#4443](https://github.com/Azure/sdk-release-request/issues/4443) | bjqian |  | haolingdong-msft |  | 08-17 |  | 0 |
+| 1 | [#4445](https://github.com/Azure/sdk-release-request/issues/4445) | bjqian |  | haolingdong-msft | multi readme link! | 08-17 | 09-22 |  |
+| 2 | [#4443](https://github.com/Azure/sdk-release-request/issues/4443) | bjqian |  | haolingdong-msft | multi readme link! | 08-17 | 09-22 |  |
 | 3 | [#4438](https://github.com/Azure/sdk-release-request/issues/4438) | apmehrotra |  | weidongxu-microsoft | new issue. | 08-16 | 09-22 |  |
 | 4 | [#4429](https://github.com/Azure/sdk-release-request/issues/4429) | ethanann-ms |  | weidongxu-microsoft | new issue. | 08-15 | 09-22 |  |
 | 5 | [#4425](https://github.com/Azure/sdk-release-request/issues/4425) | ankur741999 |  | XiaofeiCao | new issue. | 08-14 | 09-22 |  |
