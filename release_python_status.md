@@ -17,7 +17,7 @@
 | 15 | [#4385](https://github.com/Azure/sdk-release-request/issues/4385) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-02 | 08-25 |  |
 | 16 | [#4382](https://github.com/Azure/sdk-release-request/issues/4382) | carlowisse | azure-mgmt-redhatopenshift | ChenxiJiang333 |  | 08-01 | 08-25 |  |
 | 17 | [#4379](https://github.com/Azure/sdk-release-request/issues/4379) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 |  | 07-31 | 08-25 |  |
-| 18 | [#4366](https://github.com/Azure/sdk-release-request/issues/4366) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstBeta | 07-26 | 08-25 |  |
+| 18 | [#4366](https://github.com/Azure/sdk-release-request/issues/4366) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstBeta HoldOn | 07-26 | 08-25 |  |
 | 19 | [#4359](https://github.com/Azure/sdk-release-request/issues/4359) | priyamshet | azure-mgmt-networkcloud | ChenxiJiang333 | FirstGA | 07-25 | 08-25 |  |
 | 20 | [#4349](https://github.com/Azure/sdk-release-request/issues/4349) | brrusino | azure-mgmt-chaos | ChenxiJiang333 |  | 07-20 | 08-25 |  |
 | 21 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | HoldOn | 07-19 | 08-25 |  |
