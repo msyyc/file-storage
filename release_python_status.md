@@ -2,12 +2,12 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4452](https://github.com/Azure/sdk-release-request/issues/4452) | ethanann-ms | azure-mgmt-iothub | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 08-17 | 09-22 |  |
 | 2 | [#4447](https://github.com/Azure/sdk-release-request/issues/4447) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 | multi readme link! new version is 0.0.0, please check base branch! | 08-17 | 09-22 |  |
-| 3 | [#4442](https://github.com/Azure/sdk-release-request/issues/4442) | bjqian | azure-mgmt-signalr | ChenxiJiang333 | multi readme link! | 08-17 | 09-22 |  |
+| 3 | [#4442](https://github.com/Azure/sdk-release-request/issues/4442) | bjqian | azure-mgmt-signalr | ChenxiJiang333 |  | 08-17 | 09-22 |  |
 | 4 | [#4440](https://github.com/Azure/sdk-release-request/issues/4440) | apmehrotra | azure-mgmt-hybridconnectivity | ChenxiJiang333 |  | 08-16 | 09-22 |  |
 | 5 | [#4432](https://github.com/Azure/sdk-release-request/issues/4432) | ethanann-ms | azure-mgmt-iothub | ChenxiJiang333 | duplicated issue  <br> | 08-15 | 09-22 |  |
 | 6 | [#4426](https://github.com/Azure/sdk-release-request/issues/4426) | ankur741999 | azure-mgmt-recoveryservices | ChenxiJiang333 |  | 08-14 | 09-22 |  |
 | 7 | [#4422](https://github.com/Azure/sdk-release-request/issues/4422) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 08-12 | 09-22 |  |
-| 8 | [#4418](https://github.com/Azure/sdk-release-request/issues/4418) | aditimalladi | azure-mgmt-resourceconnector | ChenxiJiang333 | new comment. FirstGA | 08-11 | 08-25 |  |
+| 8 | [#4418](https://github.com/Azure/sdk-release-request/issues/4418) | aditimalladi | azure-mgmt-resourceconnector | ChenxiJiang333 | FirstGA | 08-11 | 08-25 |  |
 | 9 | [#4414](https://github.com/Azure/sdk-release-request/issues/4414) | cataggar | azure-mgmt-avs | ChenxiJiang333 |  | 08-08 | 08-25 |  |
 | 10 | [#4408](https://github.com/Azure/sdk-release-request/issues/4408) | abhargavams | azure-mgmt-dynatrace | ChenxiJiang333 |  | 08-08 | 08-25 |  |
 | 11 | [#4405](https://github.com/Azure/sdk-release-request/issues/4405) | aim-for-better | azure-mgmt-hdinsight | ChenxiJiang333 | FirstBeta | 08-08 | 08-25 |  |
