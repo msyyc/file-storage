@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-redhatopenshift,carlowisse,ChenxiJiang333,2023-08-01,2023-08-21,https://github.com/Azure/sdk-release-request/issues/4382,1.3.0,True
+azure-mgmt-resourceconnector,aditimalladi,ChenxiJiang333,2023-08-11,2023-08-21,https://github.com/Azure/sdk-release-request/issues/4418,1.0.0,True
 azure-mgmt-maintenance,KalpeshChavan12,ChenxiJiang333,2023-07-15,2023-08-21,https://github.com/Azure/sdk-release-request/issues/4339,2.1.0,True
 azure-mgmt-sql,GalGoldi72,ChenxiJiang333,2023-06-27,2023-07-28,https://github.com/Azure/sdk-release-request/issues/4289,4.0.0b11,
 azure-mgmt-keyvault,msyyc,ChenxiJiang333,2023-07-26,2023-07-26,https://github.com/Azure/sdk-release-request/issues/4364,10.2.3,True
