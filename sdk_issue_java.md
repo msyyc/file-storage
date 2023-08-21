@@ -9,7 +9,7 @@
 |7|[#35926](https://github.com/Azure/azure-sdk-for-java/issues/35926)|[FEATURE REQ] mgmt, update the convenient API for Application Gateway SSL profile|Mgmt|XiaofeiCao||2023-07-18|
 |8|[#35884](https://github.com/Azure/azure-sdk-for-java/issues/35884)|[FEATURE REQ] Update mgmt automation for pom with maven profile|Mgmt, Mgmt-EngSys|weidongxu-microsoft||2023-07-14|
 |9|[#35817](https://github.com/Azure/azure-sdk-for-java/issues/35817)|[BUG] Protectable Containers - List api doesn't work|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-07-11|
-|10|[#35517](https://github.com/Azure/azure-sdk-for-java/issues/35517)|[BUG] Azure sdk takes too long to report back disk status after attaching|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-06-19|
+|10|[#35517](https://github.com/Azure/azure-sdk-for-java/issues/35517)|[BUG] Azure sdk takes too long to report back disk status after attaching|question, ARM, Mgmt, customer-reported, needs-author-feedback|XiaofeiCao||2023-06-19|
 |11|[#35316](https://github.com/Azure/azure-sdk-for-java/issues/35316)|[FEATURE REQ] LIVE test for mgmt GA Lite packages|Mgmt, Mgmt-EngSys|XiaofeiCao, v-hongli1||2023-06-06|
 |12|[#35244](https://github.com/Azure/azure-sdk-for-java/issues/35244)|[BUG] mgmt, investigate on occasional thread stuck|Mgmt, Mgmt - Track 2, backlog|XiaofeiCao||2023-06-01|
 |13|[#35243](https://github.com/Azure/azure-sdk-for-java/issues/35243)|[FEATURE REQ] mgmt WAF Policy, convenience layer for global, per-listener and per-site association|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
