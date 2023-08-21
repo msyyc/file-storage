@@ -21,4 +21,3 @@
 | 19 | [#4359](https://github.com/Azure/sdk-release-request/issues/4359) | priyamshet | azure-mgmt-networkcloud | ChenxiJiang333 | FirstGA | 07-25 | 08-25 |  |
 | 20 | [#4349](https://github.com/Azure/sdk-release-request/issues/4349) | brrusino | azure-mgmt-chaos | ChenxiJiang333 |  | 07-20 | 08-25 |  |
 | 21 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | HoldOn | 07-19 | 08-25 |  |
-| 22 | [#4339](https://github.com/Azure/sdk-release-request/issues/4339) | KalpeshChavan12 | azure-mgmt-maintenance | ChenxiJiang333 |  | 07-15 | 08-25 |  |
