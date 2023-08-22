@@ -10,7 +10,7 @@
 | 8 | [#4426](https://github.com/Azure/sdk-release-request/issues/4426) | ankur741999 | azure-mgmt-recoveryservices | ChenxiJiang333 |  | 08-14 | 09-22 |  |
 | 9 | [#4422](https://github.com/Azure/sdk-release-request/issues/4422) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 08-12 | 09-22 |  |
 | 10 | [#4414](https://github.com/Azure/sdk-release-request/issues/4414) | cataggar | azure-mgmt-avs | ChenxiJiang333 | close to release date.  | 08-08 | 08-25 | 2 |
-| 12 | [#4405](https://github.com/Azure/sdk-release-request/issues/4405) | aim-for-better | azure-mgmt-hdinsight | ChenxiJiang333 | close to release date.  FirstBeta | 08-08 | 08-25 | 2 |
-| 13 | [#4395](https://github.com/Azure/sdk-release-request/issues/4395) | stack111 | azure-mgmt-maps | ChenxiJiang333 | close to release date.  HoldOn | 08-04 | 08-25 | 2 |
-| 16 | [#4366](https://github.com/Azure/sdk-release-request/issues/4366) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 07-26 | 08-25 | 2 |
-| 17 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | close to release date.  HoldOn | 07-19 | 08-25 | 2 |
+| 11 | [#4405](https://github.com/Azure/sdk-release-request/issues/4405) | aim-for-better | azure-mgmt-hdinsight | ChenxiJiang333 | close to release date.  FirstBeta | 08-08 | 08-25 | 2 |
+| 12 | [#4395](https://github.com/Azure/sdk-release-request/issues/4395) | stack111 | azure-mgmt-maps | ChenxiJiang333 | close to release date.  HoldOn | 08-04 | 08-25 | 2 |
+| 13 | [#4366](https://github.com/Azure/sdk-release-request/issues/4366) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 07-26 | 08-25 | 2 |
+| 14 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | close to release date.  HoldOn | 07-19 | 08-25 | 2 |
