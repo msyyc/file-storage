@@ -1,6 +1,5 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4454](https://github.com/Azure/sdk-release-request/issues/4454) | ChenxiJiang333 | azure-mgmt-devspaces | ChenxiJiang333 |  | 08-22 | 09-22 |  |
 | 2 | [#4453](https://github.com/Azure/sdk-release-request/issues/4453) | msyyc | azure-mgmt-monitor | ChenxiJiang333 |  | 08-22 | 09-22 |  |
 | 3 | [#4452](https://github.com/Azure/sdk-release-request/issues/4452) | ethanann-ms | azure-mgmt-iothub | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 08-17 | 09-22 |  |
 | 4 | [#4447](https://github.com/Azure/sdk-release-request/issues/4447) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 | multi readme link! HoldOn | 08-17 | 09-22 |  |
