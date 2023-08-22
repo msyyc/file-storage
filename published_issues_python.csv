@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-chaos,brrusino,ChenxiJiang333,2023-07-20,2023-08-22,https://github.com/Azure/sdk-release-request/issues/4349,1.0.0b7,
+azure-mgmt-storage,calvinhzy,ChenxiJiang333,2023-08-04,2023-08-22,https://github.com/Azure/sdk-release-request/issues/4391,21.1.0,True
 azure-mgmt-networkcloud,priyamshet,ChenxiJiang333,2023-07-25,2023-08-21,https://github.com/Azure/sdk-release-request/issues/4359,1.0.0,True
 azure-mgmt-containerservice,FumingZhang,ChenxiJiang333,2023-08-08,2023-08-21,https://github.com/Azure/sdk-release-request/issues/4401,26.0.0,True
 azure-mgmt-redhatopenshift,carlowisse,ChenxiJiang333,2023-08-01,2023-08-21,https://github.com/Azure/sdk-release-request/issues/4382,1.3.0,True
