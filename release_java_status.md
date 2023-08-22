@@ -3,7 +3,7 @@
 | 1 | [#4449](https://github.com/Azure/sdk-release-request/issues/4449) | ethanann-ms |  | haolingdong-msft | new issue. | 08-17 | 09-22 |  |
 | 2 | [#4445](https://github.com/Azure/sdk-release-request/issues/4445) | bjqian |  | haolingdong-msft | multi readme link! | 08-17 | 09-22 |  |
 | 3 | [#4443](https://github.com/Azure/sdk-release-request/issues/4443) | bjqian |  | haolingdong-msft | multi readme link! | 08-17 | 09-22 |  |
-| 4 | [#4438](https://github.com/Azure/sdk-release-request/issues/4438) | apmehrotra |  | weidongxu-microsoft | new issue. | 08-16 | 09-22 |  |
+| 4 | [#4438](https://github.com/Azure/sdk-release-request/issues/4438) | apmehrotra |  | weidongxu-microsoft |  | 08-16 | 09-22 |  |
 | 5 | [#4429](https://github.com/Azure/sdk-release-request/issues/4429) | ethanann-ms |  | weidongxu-microsoft | new issue. | 08-15 | 09-22 |  |
 | 6 | [#4424](https://github.com/Azure/sdk-release-request/issues/4424) | grizzlytheodore |  | v-hongli1 |  | 08-12 |  | 0 |
 | 7 | [#4420](https://github.com/Azure/sdk-release-request/issues/4420) | aditimalladi |  | weidongxu-microsoft | close to release date.  | 08-11 | 08-25 | 2 |
