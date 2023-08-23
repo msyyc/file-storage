@@ -6,7 +6,7 @@
 | 4 | [#4438](https://github.com/Azure/sdk-release-request/issues/4438) | apmehrotra |  | weidongxu-microsoft |  | 08-16 | 09-22 |  |
 | 5 | [#4429](https://github.com/Azure/sdk-release-request/issues/4429) | ethanann-ms |  | weidongxu-microsoft | new issue. | 08-15 | 09-22 |  |
 | 6 | [#4424](https://github.com/Azure/sdk-release-request/issues/4424) | grizzlytheodore |  | v-hongli1 |  | 08-12 |  | 0 |
-| 7 | [#4420](https://github.com/Azure/sdk-release-request/issues/4420) | aditimalladi |  | weidongxu-microsoft | new comment. close to release date.  | 08-11 | 08-25 | 1 |
+| 7 | [#4420](https://github.com/Azure/sdk-release-request/issues/4420) | aditimalladi |  | weidongxu-microsoft | close to release date.  | 08-11 | 08-25 | 1 |
 | 8 | [#4404](https://github.com/Azure/sdk-release-request/issues/4404) | aim-for-better |  | weidongxu-microsoft | close to release date.  Attention to inconsistent tag | 08-08 | 08-25 | 1 |
 | 9 | [#4399](https://github.com/Azure/sdk-release-request/issues/4399) | FumingZhang |  | weidongxu-microsoft | new comment. close to release date.  | 08-08 | 08-25 | 1 |
 | 10 | [#4390](https://github.com/Azure/sdk-release-request/issues/4390) | calvinhzy |  | weidongxu-microsoft | close to release date.  | 08-04 | 08-25 | 1 |
