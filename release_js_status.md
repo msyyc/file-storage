@@ -8,7 +8,7 @@
 | 6 | [#4430](https://github.com/Azure/sdk-release-request/issues/4430) | ethanann-ms |  | qiaozha | new issue. | 08-15 | 09-22 |  |
 | 7 | [#4427](https://github.com/Azure/sdk-release-request/issues/4427) | ankur741999 |  | qiaozha | new issue. | 08-14 | 09-22 |  |
 | 8 | [#4423](https://github.com/Azure/sdk-release-request/issues/4423) | grizzlytheodore |  | MaryGao |  | 08-12 | 09-22 |  |
-| 9 | [#4419](https://github.com/Azure/sdk-release-request/issues/4419) | aditimalladi |  | MaryGao | new comment. close to release date.  | 08-11 | 08-25 | 1 |
+| 9 | [#4419](https://github.com/Azure/sdk-release-request/issues/4419) | aditimalladi |  | MaryGao | close to release date.  | 08-11 | 08-25 | 1 |
 | 10 | [#4415](https://github.com/Azure/sdk-release-request/issues/4415) | thang-bit |  | MaryGao | new comment. close to release date.  | 08-10 | 08-25 | 1 |
 | 11 | [#4413](https://github.com/Azure/sdk-release-request/issues/4413) | cataggar |  | MaryGao | close to release date.  | 08-08 | 08-25 | 1 |
 | 12 | [#4409](https://github.com/Azure/sdk-release-request/issues/4409) | abhargavams |  | MaryGao | close to release date.  | 08-08 | 08-25 | 1 |
