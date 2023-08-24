@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4463](https://github.com/Azure/sdk-release-request/issues/4463) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-23 | 09-22 |  |
-| 2 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | Attention to inconsistent tag MultiAPI | 08-23 | 09-22 |  |
+| 2 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI | 08-23 | 09-22 |  |
 | 3 | [#4452](https://github.com/Azure/sdk-release-request/issues/4452) | ethanann-ms | azure-mgmt-iothub | ChenxiJiang333 |  | 08-17 | 09-22 |  |
 | 4 | [#4447](https://github.com/Azure/sdk-release-request/issues/4447) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 | HoldOn | 08-17 | 09-22 |  |
 | 5 | [#4442](https://github.com/Azure/sdk-release-request/issues/4442) | bjqian | azure-mgmt-signalr | ChenxiJiang333 |  | 08-17 | 09-22 |  |
