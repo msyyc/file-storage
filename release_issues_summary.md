@@ -21,9 +21,9 @@
 | 19 | 'SDK Release NetworkCloud 2023-07-01 Stable API Version'  |  | [#4360](https://github.com/Azure/sdk-release-request/issues/4360)  | [#4361](https://github.com/Azure/sdk-release-request/issues/4361)  | [#4362](https://github.com/Azure/sdk-release-request/issues/4362)  | 07-25 | 08-25 |  |
 | 20 | 'Release for Container Service - 2023-07-02-preview'  |  | [#4456](https://github.com/Azure/sdk-release-request/issues/4456)  |  | [#4455](https://github.com/Azure/sdk-release-request/issues/4455)  | 08-23 | 09-22 |  |
 | 21 | 'Release for Resource Connector - 2022-10-27'  |  | [#4417](https://github.com/Azure/sdk-release-request/issues/4417)  |  | [#4419](https://github.com/Azure/sdk-release-request/issues/4419)  | 08-11 | 08-25 |  |
-| 22 | 'Release for Dynatrace.Observability - 2023-04-27'  |  | [#4407](https://github.com/Azure/sdk-release-request/issues/4407)  |  | [#4409](https://github.com/Azure/sdk-release-request/issues/4409)  | 08-08 | 08-25 | Hold on by JS/ |
-| 23 | 'Release for Deployment Stacks - 2022-08-01'  |  | [#4397](https://github.com/Azure/sdk-release-request/issues/4397)  |  | [#4396](https://github.com/Azure/sdk-release-request/issues/4396)  | 08-07 | 08-25 |  |
-| 24 | 'Release for Microsoft Easm service - 2023-04-01-preview'  |  |  |  | [#4415](https://github.com/Azure/sdk-release-request/issues/4415)  | 08-10 | 08-25 |  |
+| 22 | 'Release for Deployment Stacks - 2022-08-01'  |  | [#4397](https://github.com/Azure/sdk-release-request/issues/4397)  |  | [#4396](https://github.com/Azure/sdk-release-request/issues/4396)  | 08-07 | 08-25 |  |
+| 23 | 'Release for Microsoft Easm service - 2023-04-01-preview'  |  |  |  | [#4415](https://github.com/Azure/sdk-release-request/issues/4415)  | 08-10 | 08-25 |  |
+| 24 | 'Release for Dynatrace.Observability - 2023-04-27'  |  |  |  | [#4409](https://github.com/Azure/sdk-release-request/issues/4409)  | 08-08 | 08-25 | Hold on by JS/ |
 | 25 | 'Release for container app 2023-05-01'  |  |  |  | [#4386](https://github.com/Azure/sdk-release-request/issues/4386)  | 08-02 | 08-25 |  |
 | 26 | 'Release for Container Service - 2023-06-02-preview'  |  |  |  | [#4376](https://github.com/Azure/sdk-release-request/issues/4376)  | 07-31 | 08-25 |  |
 | 27 | 'Release for Container Service - 2023-06-01'  |  |  |  | [#4356](https://github.com/Azure/sdk-release-request/issues/4356)  | 07-21 | 08-25 |  |
