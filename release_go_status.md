@@ -13,10 +13,7 @@
 | 11 | [#4417](https://github.com/Azure/sdk-release-request/issues/4417) | aditimalladi |  | Alancere | new comment. close to release date.  | 08-11 | 08-25 | 0 |
 | 12 | [#4407](https://github.com/Azure/sdk-release-request/issues/4407) | abhargavams |  | Alancere | close to release date.  | 08-08 | 08-25 | 0 |
 | 13 | [#4402](https://github.com/Azure/sdk-release-request/issues/4402) | aim-for-better |  | Alancere | close to release date.  | 08-08 | 08-25 | 0 |
-| 14 | [#4398](https://github.com/Azure/sdk-release-request/issues/4398) | FumingZhang |  | Alancere | new comment. close to release date.  | 08-08 | 08-25 | 0 |
+| 14 | [#4398](https://github.com/Azure/sdk-release-request/issues/4398) | FumingZhang |  | Alancere | close to release date.  | 08-08 | 08-25 | 0 |
 | 15 | [#4397](https://github.com/Azure/sdk-release-request/issues/4397) | harshpatel17 |  | Alancere | close to release date.  | 08-07 | 08-25 | 0 |
-| 16 | [#4384](https://github.com/Azure/sdk-release-request/issues/4384) | Juliehzl |  | Alancere | close to release date.  | 08-02 | 08-25 | 0 |
-| 17 | [#4371](https://github.com/Azure/sdk-release-request/issues/4371) | solankisamir |  | Alancere | close to release date.  | 07-27 | 08-25 | 0 |
-| 18 | [#4360](https://github.com/Azure/sdk-release-request/issues/4360) | priyamshet |  | Alancere | new comment. close to release date.  | 07-25 | 08-25 | 0 |
-| 19 | [#4355](https://github.com/Azure/sdk-release-request/issues/4355) | FumingZhang |  | Alancere | close to release date.  | 07-21 | 08-25 | 0 |
-| 20 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere | close to release date.  | 07-19 | 08-25 | 0 |
+| 16 | [#4360](https://github.com/Azure/sdk-release-request/issues/4360) | priyamshet |  | Alancere | new comment. close to release date.  | 07-25 | 08-25 | 0 |
+| 17 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere | close to release date.  | 07-19 | 08-25 | 0 |
