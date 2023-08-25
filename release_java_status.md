@@ -12,5 +12,4 @@
 | 10 | [#4390](https://github.com/Azure/sdk-release-request/issues/4390) | calvinhzy |  | weidongxu-microsoft | close to release date.  | 08-04 | 08-25 | 0 |
 | 11 | [#4381](https://github.com/Azure/sdk-release-request/issues/4381) | Joanna-Yang-Art |  | weidongxu-microsoft | close to release date.  | 07-31 | 08-25 | 0 |
 | 12 | [#4374](https://github.com/Azure/sdk-release-request/issues/4374) | solankisamir |  | haolingdong-msft | close to release date.  Attention to inconsistent tag | 07-27 | 08-25 | 0 |
-| 13 | [#4367](https://github.com/Azure/sdk-release-request/issues/4367) | azaslonov |  | XiaofeiCao | close to release date.  | 07-26 | 08-25 | 0 |
-| 14 | [#4351](https://github.com/Azure/sdk-release-request/issues/4351) | pathuang-sia |  | v-hongli1 |  | 07-20 |  | 0 |
+| 13 | [#4351](https://github.com/Azure/sdk-release-request/issues/4351) | pathuang-sia |  | v-hongli1 |  | 07-20 |  | 0 |
