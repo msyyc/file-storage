@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, weidongxu-microsoft, XiaofeiCao||2023-08-22|
+|1|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|XiaofeiCao, v-hongli1, weidongxu-microsoft||2023-08-22|
 |2|[#36417](https://github.com/Azure/azure-sdk-for-java/issues/36417)|[BUG] Error when creating ScaleSet with Proximity Group|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft|new comment|2023-08-21|
 |3|[#36386](https://github.com/Azure/azure-sdk-for-java/issues/36386)|Azure Purview Scanning client library 404 issue|question, Mgmt, customer-reported, needs-team-triage, Purview|weidongxu-microsoft|new comment|2023-08-17|
 |4|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
