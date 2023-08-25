@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, weidongxu-microsoft, XiaofeiCao||2023-08-22|
+|1|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, XiaofeiCao, weidongxu-microsoft||2023-08-22|
 |2|[#36417](https://github.com/Azure/azure-sdk-for-java/issues/36417)|[BUG] Error when creating ScaleSet with Proximity Group|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft|new comment|2023-08-21|
 |3|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |4|[#36386](https://github.com/Azure/azure-sdk-for-java/issues/36386)|Azure Purview Scanning client library 404 issue|question, Mgmt, customer-reported, needs-team-triage, Purview|weidongxu-microsoft|new comment|2023-08-17|
@@ -34,27 +34,26 @@
 |32|[#32822](https://github.com/Azure/azure-sdk-for-java/issues/32822)|[BUG] Deserialization failed for azure-resourcemanager-security's listing security contacts|question, Security, Service Attention, Mgmt, customer-reported|XiaofeiCao||2023-01-09|
 |33|[#32624](https://github.com/Azure/azure-sdk-for-java/issues/32624)|[FEATURE REQ] mgmt container instance, support container update|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-16|
 |34|[#32566](https://github.com/Azure/azure-sdk-for-java/issues/32566)|[FEATURE REQ] mgmt Network Application Gateway, convenience layer for WAF policy for WAF_V2|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-12|
-|35|[#32553](https://github.com/Azure/azure-sdk-for-java/issues/32553)|[BUG] DefaultErrorResponseErrorException: Status code 502 in listing webApps|question, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|weidongxu-microsoft||2022-12-09|
-|36|[#32205](https://github.com/Azure/azure-sdk-for-java/issues/32205)|[FEATURE REQ] mgmt compute, support Confidential VM|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-11-17|
-|37|[#32128](https://github.com/Azure/azure-sdk-for-java/issues/32128)|[QUERY] Get Azure Virtual Hub Effective Routes via Java SDK|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|weidongxu-microsoft|new comment|2022-11-14|
-|38|[#31777](https://github.com/Azure/azure-sdk-for-java/issues/31777)|Option to override HttpLoggingPolicy.MAX_BODY_LOG_SIZE|ARM, Mgmt, customer-reported, feature-request|XiaofeiCao|new comment|2022-10-27|
-|39|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-10-10|
-|40|[#31208](https://github.com/Azure/azure-sdk-for-java/issues/31208)|[FEATURE REQ] mgmt Lite, know which service is popular, but we not generated for long|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-09-29|
-|41|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
-|42|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|v-hongli1, XiaofeiCao||2022-08-12|
-|43|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao||2022-08-01|
-|44|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
-|45|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
-|46|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
-|47|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-03-29|
-|48|[#27514](https://github.com/Azure/azure-sdk-for-java/issues/27514)|[QUERY] The dependency com.azure.azure-security-keyvault-secrets should not be passed to com.azure.resourcemanager:azure-resourcemanager|question, Mgmt, Client, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2022-03-08|
-|49|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-01-21|
-|50|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft||2021-12-06|
-|51|[#25328](https://github.com/Azure/azure-sdk-for-java/issues/25328)|mgmt, convenient layer for CMK, with e2e samples|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2021-11-11|
-|52|[#25327](https://github.com/Azure/azure-sdk-for-java/issues/25327)|mgmt, convenient layer for Azure firewall|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
-|53|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
-|54|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
-|55|[#22785](https://github.com/Azure/azure-sdk-for-java/issues/22785)|[BUG] ConsumptionManager.usageDetails fails with 400 Bad Request|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, needs-team-triage, Consumption - UsageDetailsAndExport|XiaofeiCao||2021-07-06|
-|56|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
-|57|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|XiaofeiCao||2021-02-26|
-|58|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
+|35|[#32205](https://github.com/Azure/azure-sdk-for-java/issues/32205)|[FEATURE REQ] mgmt compute, support Confidential VM|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-11-17|
+|36|[#32128](https://github.com/Azure/azure-sdk-for-java/issues/32128)|[QUERY] Get Azure Virtual Hub Effective Routes via Java SDK|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|weidongxu-microsoft|new comment|2022-11-14|
+|37|[#31777](https://github.com/Azure/azure-sdk-for-java/issues/31777)|Option to override HttpLoggingPolicy.MAX_BODY_LOG_SIZE|ARM, Mgmt, customer-reported, feature-request|XiaofeiCao|new comment|2022-10-27|
+|38|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-10-10|
+|39|[#31208](https://github.com/Azure/azure-sdk-for-java/issues/31208)|[FEATURE REQ] mgmt Lite, know which service is popular, but we not generated for long|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-09-29|
+|40|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
+|41|[#30434](https://github.com/Azure/azure-sdk-for-java/issues/30434)|mgmt, design, sample for beginCreate VM|Mgmt|v-hongli1, XiaofeiCao||2022-08-12|
+|42|[#30229](https://github.com/Azure/azure-sdk-for-java/issues/30229)|Fix CdnSampleTests.testManageCdnProfileWithCustomDomain|Mgmt, test bug, Mgmt - Track 2|XiaofeiCao||2022-08-01|
+|43|[#30141](https://github.com/Azure/azure-sdk-for-java/issues/30141)|[BUG] Security SDK - SubAssessments not includes additional data |question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-07-26|
+|44|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
+|45|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
+|46|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-03-29|
+|47|[#27514](https://github.com/Azure/azure-sdk-for-java/issues/27514)|[QUERY] The dependency com.azure.azure-security-keyvault-secrets should not be passed to com.azure.resourcemanager:azure-resourcemanager|question, Mgmt, Client, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2022-03-08|
+|48|[#26623](https://github.com/Azure/azure-sdk-for-java/issues/26623)|mgmt, convenient layer for service tag, with e2e samples|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-01-21|
+|49|[#25818](https://github.com/Azure/azure-sdk-for-java/issues/25818)|[Java] Migrate test recording framework to unified test framework|Mgmt, MQ|haolingdong-msft||2021-12-06|
+|50|[#25328](https://github.com/Azure/azure-sdk-for-java/issues/25328)|mgmt, convenient layer for CMK, with e2e samples|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2021-11-11|
+|51|[#25327](https://github.com/Azure/azure-sdk-for-java/issues/25327)|mgmt, convenient layer for Azure firewall|Mgmt, Mgmt - Track 2, planning|weidongxu-microsoft||2021-11-11|
+|52|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
+|53|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
+|54|[#22785](https://github.com/Azure/azure-sdk-for-java/issues/22785)|[BUG] ConsumptionManager.usageDetails fails with 400 Bad Request|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, needs-team-triage, Consumption - UsageDetailsAndExport|XiaofeiCao||2021-07-06|
+|55|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
+|56|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|XiaofeiCao||2021-02-26|
+|57|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
