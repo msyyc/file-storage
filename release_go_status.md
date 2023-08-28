@@ -10,4 +10,4 @@
 | 8 | [#4431](https://github.com/Azure/sdk-release-request/issues/4431) | ethanann-ms |  | Alancere | new issue. | 08-15 | 09-22 |  |
 | 9 | [#4428](https://github.com/Azure/sdk-release-request/issues/4428) | ankur741999 |  | Alancere | new issue. | 08-14 | 09-22 |  |
 | 10 | [#4421](https://github.com/Azure/sdk-release-request/issues/4421) | grizzlytheodore |  | Alancere | new issue. | 08-12 | 09-22 |  |
-| 11 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere | close to release date.  | 07-19 | 08-25 | -2 |
+| 11 | [#4346](https://github.com/Azure/sdk-release-request/issues/4346) | pathuang-sia |  | Alancere |  | 07-19 | 08-25 |  |
