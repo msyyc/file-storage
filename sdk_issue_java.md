@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, weidongxu-microsoft, XiaofeiCao||2023-08-22|
+|1|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|weidongxu-microsoft, v-hongli1, XiaofeiCao||2023-08-22|
 |2|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |3|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
 |4|[#36152](https://github.com/Azure/azure-sdk-for-java/issues/36152)|[BUG] Failure while deleting resource with the following type 'privateDnsZones/virtualNetworkLinks'.|question, ARM, Mgmt, customer-reported, needs-author-feedback|XiaofeiCao||2023-07-28|
