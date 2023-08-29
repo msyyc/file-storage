@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4469](https://github.com/Azure/sdk-release-request/issues/4469) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | new issue. MultiAPI | 08-29 | 09-22 |  |
+| 1 | [#4470](https://github.com/Azure/sdk-release-request/issues/4470) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | new issue. MultiAPI | 08-29 | 09-22 |  |
 | 2 | [#4468](https://github.com/Azure/sdk-release-request/issues/4468) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | ChenxiJiang333 | new issue. MultiAPI | 08-28 | 09-22 |  |
 | 3 | [#4463](https://github.com/Azure/sdk-release-request/issues/4463) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 | FirstGA | 08-23 | 09-22 |  |
 | 4 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI | 08-23 | 09-22 |  |
