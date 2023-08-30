@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4478](https://github.com/Azure/sdk-release-request/issues/4478) | htippanaboya |  | weidongxu-microsoft | new issue. | 08-29 | 09-22 |  |
-| 2 | [#4474](https://github.com/Azure/sdk-release-request/issues/4474) | viparek |  | weidongxu-microsoft | Attention to inconsistent tag | 08-29 | 09-22 |  |
+| 1 | [#4478](https://github.com/Azure/sdk-release-request/issues/4478) | htippanaboya |  | v-hongli1 |  | 08-29 |  | 0 |
+| 2 | [#4474](https://github.com/Azure/sdk-release-request/issues/4474) | viparek |  | v-hongli1 |  | 08-29 |  | 0 |
 | 3 | [#4467](https://github.com/Azure/sdk-release-request/issues/4467) | bavneetsingh16 |  | haolingdong-msft | new issue. | 08-28 | 09-22 |  |
 | 4 | [#4464](https://github.com/Azure/sdk-release-request/issues/4464) | senatol |  | weidongxu-microsoft | new issue. | 08-23 | 09-22 |  |
 | 5 | [#4460](https://github.com/Azure/sdk-release-request/issues/4460) | SushmithaVReddy |  | weidongxu-microsoft | Attention to inconsistent tag | 08-23 | 09-22 |  |
