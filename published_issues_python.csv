@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-sql,viparek,ChenxiJiang333,2023-08-29,2023-08-30,https://github.com/Azure/sdk-release-request/issues/4472,4.0.0b12,
 azure-mgmt-apicenter,azaslonov,ChenxiJiang333,2023-07-26,2023-08-25,https://github.com/Azure/sdk-release-request/issues/4366,1.0.0b1,
 azure-mgmt-avs,cataggar,ChenxiJiang333,2023-08-08,2023-08-25,https://github.com/Azure/sdk-release-request/issues/4414,8.0.0,True
 azure-mgmt-hdinsightcontainers,aim-for-better,ChenxiJiang333,2023-08-11,2023-08-22,https://github.com/Azure/sdk-release-request/issues/4405,1.0.0b1,
