@@ -14,7 +14,7 @@
 | 12 | [#4441](https://github.com/Azure/sdk-release-request/issues/4441) | bjqian |  | qiaozha | multi readme link! | 08-17 | 09-22 |  |
 | 13 | [#4439](https://github.com/Azure/sdk-release-request/issues/4439) | apmehrotra |  | qiaozha | new comment. | 08-16 | 09-22 |  |
 | 14 | [#4430](https://github.com/Azure/sdk-release-request/issues/4430) | ethanann-ms |  | qiaozha | new issue. | 08-15 | 09-22 |  |
-| 15 | [#4427](https://github.com/Azure/sdk-release-request/issues/4427) | ankur741999 |  | qiaozha | new comment. | 08-14 | 09-22 |  |
+| 15 | [#4427](https://github.com/Azure/sdk-release-request/issues/4427) | ankur741999 |  | qiaozha |  | 08-14 | 09-22 |  |
 | 16 | [#4423](https://github.com/Azure/sdk-release-request/issues/4423) | grizzlytheodore |  | MaryGao | new comment. | 08-12 | 09-22 |  |
 | 17 | [#4419](https://github.com/Azure/sdk-release-request/issues/4419) | aditimalladi |  | MaryGao |  | 08-11 | 08-25 |  |
 | 18 | [#4415](https://github.com/Azure/sdk-release-request/issues/4415) | thang-bit |  | MaryGao |  | 08-10 | 08-25 |  |
