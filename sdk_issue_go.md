@@ -4,7 +4,7 @@
 |2|[#21436](https://github.com/Azure/azure-sdk-for-go/issues/21436)|Upgrade the module version used in live test when the sdk has major version bump|Mgmt, EngSys, test-enhancement|Alancere|new issue|2023-08-24|
 |3|[#21394](https://github.com/Azure/azure-sdk-for-go/issues/21394)|Unable to get the `name` field for `privateEndpointConnections` when we call from `azure-sdk-for-go` or through REST API.|question, Machine Learning, Mgmt, customer-reported, needs-team-attention, needs-team-triage|lirenhe||2023-08-18|
 |4|[#21319](https://github.com/Azure/azure-sdk-for-go/issues/21319)|Track 2 SDK, `ParseResourceType` func doesn't support management group scoped provider|question, ARM, Mgmt, customer-reported, needs-team-attention|ArcturusZhang, raych1|new comment|2023-08-03|
-|5|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|Alancere, tadelesh||2023-07-26|
+|5|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|tadelesh, Alancere||2023-07-26|
 |6|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |7|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |8|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|Alancere||2022-11-14|
