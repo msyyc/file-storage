@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | new issue. | 08-31 | 09-22 |  |
-| 2 | [#4476](https://github.com/Azure/sdk-release-request/issues/4476) | htippanaboya | azure-mgmt-network | ChenxiJiang333 | new issue. | 08-29 | 09-22 |  |
+| 2 | [#4476](https://github.com/Azure/sdk-release-request/issues/4476) | htippanaboya | azure-mgmt-network | ChenxiJiang333 |  | 08-29 | 09-22 |  |
 | 3 | [#4470](https://github.com/Azure/sdk-release-request/issues/4470) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 08-29 | 09-22 |  |
 | 4 | [#4468](https://github.com/Azure/sdk-release-request/issues/4468) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | ChenxiJiang333 |  | 08-28 | 09-22 |  |
 | 5 | [#4463](https://github.com/Azure/sdk-release-request/issues/4463) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 | FirstGA | 08-23 | 09-22 |  |
