@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4489](https://github.com/Azure/sdk-release-request/issues/4489) | tadelesh |  | XiaofeiCao | new issue. | 09-05 | 09-22 |  |
+| 1 | [#4489](https://github.com/Azure/sdk-release-request/issues/4489) | tadelesh |  | XiaofeiCao |  | 09-05 | 09-22 |  |
 | 2 | [#4483](https://github.com/Azure/sdk-release-request/issues/4483) | aneesh-ponneth |  | XiaofeiCao |  | 08-31 | 09-22 |  |
 | 3 | [#4479](https://github.com/Azure/sdk-release-request/issues/4479) | ankur741999 |  | XiaofeiCao | new issue. new comment. | 08-30 | 09-22 |  |
 | 4 | [#4478](https://github.com/Azure/sdk-release-request/issues/4478) | htippanaboya |  | v-hongli1 |  | 08-29 |  | 0 |
