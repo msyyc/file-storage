@@ -14,28 +14,11 @@
 | 12 | 'Relase 2023-06-01-preview for Azure SignalR '  | [#4442](https://github.com/Azure/sdk-release-request/issues/4442)  | [#4444](https://github.com/Azure/sdk-release-request/issues/4444)  | [#4443](https://github.com/Azure/sdk-release-request/issues/4443)  | [#4441](https://github.com/Azure/sdk-release-request/issues/4441)  | 08-17 | 09-22 |  |
 | 13 | 'SDK release for GA version for Microsoft.HybridConnectivity'  | [#4440](https://github.com/Azure/sdk-release-request/issues/4440)  | [#4437](https://github.com/Azure/sdk-release-request/issues/4437)  | [#4438](https://github.com/Azure/sdk-release-request/issues/4438)  | [#4439](https://github.com/Azure/sdk-release-request/issues/4439)  | 08-16 | 09-22 |  |
 | 14 | 'Compute 2023-07-01 '  | [#4422](https://github.com/Azure/sdk-release-request/issues/4422)  | [#4421](https://github.com/Azure/sdk-release-request/issues/4421)  |  | [#4423](https://github.com/Azure/sdk-release-request/issues/4423)  | 08-12 | 09-22 |  |
-| 15 | 'Maps-2023-06-01 SDK'  | [#4395](https://github.com/Azure/sdk-release-request/issues/4395)  |  |  | [#4392](https://github.com/Azure/sdk-release-request/issues/4392)  | 08-04 | 08-25 | Hold on by Python/ |
+| 15 | 'Maps-2023-06-01 SDK'  | [#4395](https://github.com/Azure/sdk-release-request/issues/4395)  |  |  |  | 08-04 | 08-25 | Hold on by Python/ |
 | 16 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  | [#4345](https://github.com/Azure/sdk-release-request/issues/4345)  | [#4346](https://github.com/Azure/sdk-release-request/issues/4346)  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-19 | 09-22 | Hold on by JS/Java/Python/ |
 | 17 | 'Release for Azure Container Registry - 2023-07-01 stable'  |  | [#4493](https://github.com/Azure/sdk-release-request/issues/4493)  | [#4492](https://github.com/Azure/sdk-release-request/issues/4492)  | [#4491](https://github.com/Azure/sdk-release-request/issues/4491)  | 09-05 | 09-22 |  |
-| 18 | 'Release for RecoveryServicesBackup 2023-04-01'  |  | [#4481](https://github.com/Azure/sdk-release-request/issues/4481)  | [#4479](https://github.com/Azure/sdk-release-request/issues/4479)  | [#4480](https://github.com/Azure/sdk-release-request/issues/4480)  | 08-30 | 09-22 |  |
+| 18 | 'Release for RecoveryServicesBackup 2023-04-01'  |  | [#4481](https://github.com/Azure/sdk-release-request/issues/4481)  | [#4479](https://github.com/Azure/sdk-release-request/issues/4479)  |  | 08-30 | 09-22 |  |
 | 19 | 'Python SDK release for SQL - 2023-02-01'  |  | [#4473](https://github.com/Azure/sdk-release-request/issues/4473)  | [#4474](https://github.com/Azure/sdk-release-request/issues/4474)  | [#4471](https://github.com/Azure/sdk-release-request/issues/4471)  | 08-29 | 09-22 |  |
 | 20 | 'Release for IotHub Control Plane 2023-06-30-preview'  |  | [#4431](https://github.com/Azure/sdk-release-request/issues/4431)  | [#4429](https://github.com/Azure/sdk-release-request/issues/4429)  | [#4430](https://github.com/Azure/sdk-release-request/issues/4430)  | 08-15 | 09-22 | Hold on by JS/ |
 | 21 | 'Release for Container Service - 2023-07-02-preview'  |  | [#4456](https://github.com/Azure/sdk-release-request/issues/4456)  |  | [#4455](https://github.com/Azure/sdk-release-request/issues/4455)  | 08-23 | 09-22 |  |
-| 22 | 'Release for RRP 2023-04-01'  |  | [#4428](https://github.com/Azure/sdk-release-request/issues/4428)  |  | [#4427](https://github.com/Azure/sdk-release-request/issues/4427)  | 08-14 | 09-22 |  |
-| 23 | 'Release for Resource Connector - 2022-10-27'  |  |  |  | [#4419](https://github.com/Azure/sdk-release-request/issues/4419)  | 08-11 | 08-25 |  |
-| 24 | 'Release for Microsoft Easm service - 2023-04-01-preview'  |  |  |  | [#4415](https://github.com/Azure/sdk-release-request/issues/4415)  | 08-10 | 08-25 |  |
-| 25 | 'AVS 2023-03-01 SDKs'  |  |  |  | [#4413](https://github.com/Azure/sdk-release-request/issues/4413)  | 08-08 | 08-25 |  |
-| 26 | 'Release for Dynatrace.Observability - 2023-04-27'  |  |  |  | [#4409](https://github.com/Azure/sdk-release-request/issues/4409)  | 08-08 | 08-25 |  |
-| 27 | 'Release for HDInsight On Aks - 2023-06-01-preview'  |  |  |  | [#4403](https://github.com/Azure/sdk-release-request/issues/4403)  | 08-08 | 08-25 |  |
-| 28 | 'Release for Container Service - 2023-07-01'  |  |  |  | [#4400](https://github.com/Azure/sdk-release-request/issues/4400)  | 08-08 | 08-25 |  |
-| 29 | 'Release for Deployment Stacks - 2022-08-01'  |  |  |  | [#4396](https://github.com/Azure/sdk-release-request/issues/4396)  | 08-07 | 08-25 |  |
-| 30 | 'Release for Storage Mgmt Plane 2023-01-01'  |  |  |  | [#4388](https://github.com/Azure/sdk-release-request/issues/4388)  | 08-04 | 08-25 |  |
-| 31 | 'Release for container app 2023-05-01'  |  |  |  | [#4386](https://github.com/Azure/sdk-release-request/issues/4386)  | 08-02 | 08-25 |  |
-| 32 | 'Network 2023-04-01'  |  |  |  | [#4378](https://github.com/Azure/sdk-release-request/issues/4378)  | 07-31 | 08-25 |  |
-| 33 | 'Release for Container Service - 2023-06-02-preview'  |  |  |  | [#4376](https://github.com/Azure/sdk-release-request/issues/4376)  | 07-31 | 08-25 |  |
-| 34 | 'Release Api Management - 2022-08-01'  |  |  |  | [#4372](https://github.com/Azure/sdk-release-request/issues/4372)  | 07-27 | 08-25 |  |
-| 35 | 'Azure API Center - 2023-07-01-preview'  |  |  |  | [#4368](https://github.com/Azure/sdk-release-request/issues/4368)  | 07-26 | 08-25 |  |
-| 36 | 'SDK Release NetworkCloud 2023-07-01 Stable API Version'  |  |  |  | [#4362](https://github.com/Azure/sdk-release-request/issues/4362)  | 07-25 | 08-25 |  |
-| 37 | 'Release for Container Service - 2023-06-01'  |  |  |  | [#4356](https://github.com/Azure/sdk-release-request/issues/4356)  | 07-21 | 08-25 |  |
-| 38 | 'Release for Chaos Studio 2023-04-15-preview'  |  |  |  | [#4350](https://github.com/Azure/sdk-release-request/issues/4350)  | 07-20 | 08-25 |  |
-| 39 | 'Maintenance RP 2023-04-01 release'  |  |  |  | [#4342](https://github.com/Azure/sdk-release-request/issues/4342)  | 07-15 | 08-25 |  |
+| 22 | 'Release for RRP 2023-04-01'  |  | [#4428](https://github.com/Azure/sdk-release-request/issues/4428)  |  |  | 08-14 | 09-22 |  |
