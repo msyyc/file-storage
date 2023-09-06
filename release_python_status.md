@@ -1,10 +1,10 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4499](https://github.com/Azure/sdk-release-request/issues/4499) | serbrech |  | ChenxiJiang333 | duplicated issue  <br> new issue. | 09-06 | 09-22 |  |
+| 1 | [#4499](https://github.com/Azure/sdk-release-request/issues/4499) | serbrech | azure-mgmt-containerservicefleet | ChenxiJiang333 | new issue. MultiAPI | 09-06 | 09-22 |  |
 | 2 | [#4497](https://github.com/Azure/sdk-release-request/issues/4497) | AntonioVT | azure-mgmt-containerregistry | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 09-05 | 09-22 |  |
 | 3 | [#4494](https://github.com/Azure/sdk-release-request/issues/4494) | AntonioVT | azure-mgmt-containerregistry | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag MultiAPI | 09-05 | 09-22 |  |
 | 4 | [#4487](https://github.com/Azure/sdk-release-request/issues/4487) | tadelesh | azure-mgmt-managedapplications | ChenxiJiang333 |  | 09-05 | 09-22 |  |
-| 5 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | duplicated issue  <br> | 08-31 | 09-22 |  |
+| 5 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 |  | 08-31 | 09-22 |  |
 | 6 | [#4476](https://github.com/Azure/sdk-release-request/issues/4476) | htippanaboya | azure-mgmt-network | ChenxiJiang333 |  | 08-29 | 09-22 |  |
 | 7 | [#4470](https://github.com/Azure/sdk-release-request/issues/4470) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 08-29 | 09-22 |  |
 | 8 | [#4468](https://github.com/Azure/sdk-release-request/issues/4468) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | ChenxiJiang333 |  | 08-28 | 09-22 |  |
