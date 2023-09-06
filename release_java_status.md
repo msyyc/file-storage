@@ -14,5 +14,5 @@
 | 12 | [#4449](https://github.com/Azure/sdk-release-request/issues/4449) | ethanann-ms |  | haolingdong-msft | new issue. new comment. | 08-17 | 09-22 |  |
 | 13 | [#4443](https://github.com/Azure/sdk-release-request/issues/4443) | bjqian |  | haolingdong-msft | multi readme link! | 08-17 | 09-22 |  |
 | 14 | [#4438](https://github.com/Azure/sdk-release-request/issues/4438) | apmehrotra |  | weidongxu-microsoft |  | 08-16 | 09-22 |  |
-| 15 | [#4429](https://github.com/Azure/sdk-release-request/issues/4429) | ethanann-ms |  | weidongxu-microsoft | new issue. | 08-15 | 09-22 |  |
+| 15 | [#4429](https://github.com/Azure/sdk-release-request/issues/4429) | ethanann-ms |  | v-hongli1 |  | 08-15 |  | 0 |
 | 16 | [#4351](https://github.com/Azure/sdk-release-request/issues/4351) | pathuang-sia |  | v-hongli1 |  | 07-20 |  | 0 |
