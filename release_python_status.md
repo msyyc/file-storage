@@ -16,4 +16,4 @@
 | 14 | [#4440](https://github.com/Azure/sdk-release-request/issues/4440) | apmehrotra | azure-mgmt-hybridconnectivity | ChenxiJiang333 | FirstBeta | 08-16 | 09-22 |  |
 | 15 | [#4422](https://github.com/Azure/sdk-release-request/issues/4422) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 08-12 | 09-22 |  |
 | 16 | [#4395](https://github.com/Azure/sdk-release-request/issues/4395) | stack111 | azure-mgmt-maps | ChenxiJiang333 | HoldOn | 08-04 | 08-25 |  |
-| 17 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | HoldOn | 07-19 | 08-25 |  |
+| 17 | [#4345](https://github.com/Azure/sdk-release-request/issues/4345) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | new comment. HoldOn | 07-19 | 09-22 |  |
