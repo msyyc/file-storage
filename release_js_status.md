@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4501](https://github.com/Azure/sdk-release-request/issues/4501) | serbrech |  | MaryGao |  | 09-06 |  | 0 |
+| 1 | [#4501](https://github.com/Azure/sdk-release-request/issues/4501) | serbrech |  | MaryGao | new issue. | 09-06 | 09-22 |  |
 | 2 | [#4495](https://github.com/Azure/sdk-release-request/issues/4495) | AntonioVT |  | MaryGao | new issue. | 09-05 | 09-22 |  |
 | 3 | [#4491](https://github.com/Azure/sdk-release-request/issues/4491) | AntonioVT |  | MaryGao | Attention to inconsistent tag | 09-05 | 09-22 |  |
 | 4 | [#4490](https://github.com/Azure/sdk-release-request/issues/4490) | tadelesh |  | MaryGao | new issue. | 09-05 | 09-22 |  |
