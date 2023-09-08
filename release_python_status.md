@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4508](https://github.com/Azure/sdk-release-request/issues/4508) | koderjoker | azure-mgmt-redis | ChenxiJiang333 | new issue. | 09-07 | 09-22 |  |
+| 1 | [#4508](https://github.com/Azure/sdk-release-request/issues/4508) | koderjoker | azure-mgmt-redis | ChenxiJiang333 |  | 09-07 | 09-22 |  |
 | 2 | [#4503](https://github.com/Azure/sdk-release-request/issues/4503) | shivamverma-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 09-06 | 09-22 |  |
 | 3 | [#4499](https://github.com/Azure/sdk-release-request/issues/4499) | serbrech | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-06 | 09-22 |  |
 | 4 | [#4497](https://github.com/Azure/sdk-release-request/issues/4497) | AntonioVT | azure-mgmt-containerregistry | ChenxiJiang333 | new comment. | 09-05 | 09-22 |  |
