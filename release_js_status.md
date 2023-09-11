@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4513](https://github.com/Azure/sdk-release-request/issues/4513) | audunn |  | MaryGao | new issue. | 09-08 | 10-27 |  |
-| 2 | [#4510](https://github.com/Azure/sdk-release-request/issues/4510) | koderjoker |  | MaryGao | new issue. | 09-07 | 09-22 |  |
+| 2 | [#4510](https://github.com/Azure/sdk-release-request/issues/4510) | koderjoker |  | MaryGao |  | 09-07 | 09-22 |  |
 | 3 | [#4504](https://github.com/Azure/sdk-release-request/issues/4504) | shivamverma-ms |  | MaryGao |  | 09-06 | 09-22 |  |
 | 4 | [#4501](https://github.com/Azure/sdk-release-request/issues/4501) | serbrech |  | MaryGao |  | 09-06 | 09-22 |  |
 | 5 | [#4495](https://github.com/Azure/sdk-release-request/issues/4495) | AntonioVT |  | MaryGao | new comment. | 09-05 | 09-22 |  |
 | 6 | [#4491](https://github.com/Azure/sdk-release-request/issues/4491) | AntonioVT |  | MaryGao | Attention to inconsistent tag | 09-05 | 09-22 |  |
-| 7 | [#4490](https://github.com/Azure/sdk-release-request/issues/4490) | tadelesh |  | MaryGao | new issue. | 09-05 | 09-22 |  |
+| 7 | [#4490](https://github.com/Azure/sdk-release-request/issues/4490) | tadelesh |  | MaryGao |  | 09-05 | 09-22 |  |
 | 8 | [#4484](https://github.com/Azure/sdk-release-request/issues/4484) | aneesh-ponneth |  | qiaozha |  | 08-31 | 09-22 |  |
 | 9 | [#4482](https://github.com/Azure/sdk-release-request/issues/4482) | apmehrotra |  | qiaozha |  | 08-30 | 09-22 |  |
 | 10 | [#4477](https://github.com/Azure/sdk-release-request/issues/4477) | htippanaboya |  | qiaozha |  | 08-29 | 09-22 |  |
