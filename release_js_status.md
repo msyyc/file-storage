@@ -19,6 +19,6 @@
 | 17 | [#4448](https://github.com/Azure/sdk-release-request/issues/4448) | bjqian |  | qiaozha | multi readme link! | 08-17 | 09-22 |  |
 | 18 | [#4441](https://github.com/Azure/sdk-release-request/issues/4441) | bjqian |  | qiaozha | multi readme link! | 08-17 | 09-22 |  |
 | 19 | [#4439](https://github.com/Azure/sdk-release-request/issues/4439) | apmehrotra |  | qiaozha |  | 08-16 | 09-22 |  |
-| 20 | [#4430](https://github.com/Azure/sdk-release-request/issues/4430) | ethanann-ms |  | qiaozha | new issue. | 08-15 | 09-22 |  |
+| 20 | [#4430](https://github.com/Azure/sdk-release-request/issues/4430) | ethanann-ms |  | qiaozha |  | 08-15 | 09-22 |  |
 | 21 | [#4423](https://github.com/Azure/sdk-release-request/issues/4423) | grizzlytheodore |  | MaryGao | new comment. | 08-12 | 09-22 |  |
 | 22 | [#4352](https://github.com/Azure/sdk-release-request/issues/4352) | pathuang-sia |  | qiaozha | new comment. Attention to inconsistent tag | 07-20 | 09-22 |  |
