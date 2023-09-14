@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4523](https://github.com/Azure/sdk-release-request/issues/4523) | Joeleniqs | azure-mgmt-communication | ChenxiJiang333 | Attention to inconsistent tag | 09-13 | 10-27 |  |
-| 2 | [#4522](https://github.com/Azure/sdk-release-request/issues/4522) | minhsuanlee | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | new issue. | 09-13 | 10-27 |  |
+| 2 | [#4522](https://github.com/Azure/sdk-release-request/issues/4522) | minhsuanlee | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 |  | 09-13 | 10-27 |  |
 | 3 | [#4515](https://github.com/Azure/sdk-release-request/issues/4515) | venkatr21 | azure-mgmt-playwrighttesting | ChenxiJiang333 | new issue. | 09-13 | 10-27 |  |
 | 4 | [#4512](https://github.com/Azure/sdk-release-request/issues/4512) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 09-08 | 10-27 |  |
 | 5 | [#4508](https://github.com/Azure/sdk-release-request/issues/4508) | koderjoker | azure-mgmt-redis | ChenxiJiang333 |  | 09-07 | 09-22 |  |
