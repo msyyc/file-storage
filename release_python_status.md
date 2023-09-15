@@ -12,7 +12,7 @@
 | 10 | [#4476](https://github.com/Azure/sdk-release-request/issues/4476) | htippanaboya | azure-mgmt-network | ChenxiJiang333 |  | 08-29 | 09-22 |  |
 | 11 | [#4470](https://github.com/Azure/sdk-release-request/issues/4470) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | ForCLI | 08-29 | 09-22 |  |
 | 12 | [#4468](https://github.com/Azure/sdk-release-request/issues/4468) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | ChenxiJiang333 |  | 08-28 | 09-22 |  |
-| 13 | [#4463](https://github.com/Azure/sdk-release-request/issues/4463) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 | new comment. FirstGA | 08-23 | 09-22 |  |
+| 13 | [#4463](https://github.com/Azure/sdk-release-request/issues/4463) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 | FirstGA | 08-23 | 09-22 |  |
 | 14 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI | 08-23 | 09-22 |  |
 | 15 | [#4452](https://github.com/Azure/sdk-release-request/issues/4452) | ethanann-ms | azure-mgmt-iothub | ChenxiJiang333 |  | 08-17 | 09-22 |  |
 | 16 | [#4447](https://github.com/Azure/sdk-release-request/issues/4447) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 | HoldOn | 08-17 | 09-22 |  |
