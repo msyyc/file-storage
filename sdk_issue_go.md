@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#21438](https://github.com/Azure/azure-sdk-for-go/issues/21438)|Getting error on delete request with HTTP 202|question, Mgmt, customer-reported, ARM - Managed Applications, needs-team-attention|Alancere|new comment|2023-08-24|
 |2|[#21394](https://github.com/Azure/azure-sdk-for-go/issues/21394)|Unable to get the `name` field for `privateEndpointConnections` when we call from `azure-sdk-for-go` or through REST API.|question, Machine Learning, Mgmt, customer-reported, needs-team-attention, needs-team-triage|lirenhe||2023-08-18|
-|3|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|Alancere, tadelesh||2023-07-26|
+|3|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|tadelesh, Alancere||2023-07-26|
 |4|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |5|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |6|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|Alancere||2022-11-14|
