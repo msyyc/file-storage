@@ -4,7 +4,7 @@
 | 2 | [#4519](https://github.com/Azure/sdk-release-request/issues/4519) | minhsuanlee |  | qiaozha | new issue. | 09-13 | 10-27 |  |
 | 3 | [#4518](https://github.com/Azure/sdk-release-request/issues/4518) | venkatr21 |  | qiaozha |  | 09-13 | 10-27 |  |
 | 4 | [#4513](https://github.com/Azure/sdk-release-request/issues/4513) | audunn |  | MaryGao | new issue. | 09-08 | 10-27 |  |
-| 5 | [#4510](https://github.com/Azure/sdk-release-request/issues/4510) | koderjoker |  | MaryGao |  | 09-07 | 09-22 |  |
+| 5 | [#4510](https://github.com/Azure/sdk-release-request/issues/4510) | koderjoker |  | MaryGao | new comment. | 09-07 | 09-22 |  |
 | 6 | [#4504](https://github.com/Azure/sdk-release-request/issues/4504) | shivamverma-ms |  | MaryGao |  | 09-06 | 09-22 |  |
 | 7 | [#4501](https://github.com/Azure/sdk-release-request/issues/4501) | serbrech |  | MaryGao |  | 09-06 | 09-22 |  |
 | 8 | [#4495](https://github.com/Azure/sdk-release-request/issues/4495) | AntonioVT |  | MaryGao | new comment. | 09-05 | 09-22 |  |
@@ -15,7 +15,7 @@
 | 13 | [#4477](https://github.com/Azure/sdk-release-request/issues/4477) | htippanaboya |  | qiaozha |  | 08-29 | 09-22 |  |
 | 14 | [#4471](https://github.com/Azure/sdk-release-request/issues/4471) | viparek |  | qiaozha | Attention to inconsistent tag | 08-29 | 09-22 |  |
 | 15 | [#4466](https://github.com/Azure/sdk-release-request/issues/4466) | bavneetsingh16 |  | qiaozha |  | 08-28 | 09-22 |  |
-| 16 | [#4461](https://github.com/Azure/sdk-release-request/issues/4461) | senatol |  | MaryGao |  | 08-23 | 09-22 |  |
+| 16 | [#4461](https://github.com/Azure/sdk-release-request/issues/4461) | senatol |  | MaryGao | new comment. | 08-23 | 09-22 |  |
 | 17 | [#4458](https://github.com/Azure/sdk-release-request/issues/4458) | SushmithaVReddy |  | MaryGao | Attention to inconsistent tag | 08-23 | 09-22 |  |
 | 18 | [#4455](https://github.com/Azure/sdk-release-request/issues/4455) | FumingZhang |  | MaryGao |  | 08-23 | 09-22 |  |
 | 19 | [#4450](https://github.com/Azure/sdk-release-request/issues/4450) | ethanann-ms |  | qiaozha | new comment. | 08-17 | 09-22 |  |
