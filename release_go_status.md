@@ -6,8 +6,8 @@
 | 4 | [#4511](https://github.com/Azure/sdk-release-request/issues/4511) | audunn |  | Alancere | new issue. | 09-08 | 10-27 |  |
 | 5 | [#4509](https://github.com/Azure/sdk-release-request/issues/4509) | koderjoker |  | Alancere | new comment. | 09-07 | 09-22 |  |
 | 6 | [#4505](https://github.com/Azure/sdk-release-request/issues/4505) | shivamverma-ms |  | Alancere |  | 09-06 | 09-22 |  |
-| 7 | [#4498](https://github.com/Azure/sdk-release-request/issues/4498) | AntonioVT |  | Alancere |  | 09-05 | 09-22 |  |
-| 8 | [#4493](https://github.com/Azure/sdk-release-request/issues/4493) | AntonioVT |  | Alancere |  | 09-05 | 09-22 |  |
+| 7 | [#4498](https://github.com/Azure/sdk-release-request/issues/4498) | AntonioVT |  | Alancere | new comment. | 09-05 | 09-22 |  |
+| 8 | [#4493](https://github.com/Azure/sdk-release-request/issues/4493) | AntonioVT |  | Alancere | new comment. | 09-05 | 09-22 |  |
 | 9 | [#4488](https://github.com/Azure/sdk-release-request/issues/4488) | tadelesh |  | Alancere | new issue. | 09-05 | 09-22 |  |
 | 10 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. | 08-31 | 09-22 |  |
 | 11 | [#4475](https://github.com/Azure/sdk-release-request/issues/4475) | htippanaboya |  | Alancere |  | 08-29 | 09-22 |  |
