@@ -22,5 +22,5 @@
 | 20 | [#4441](https://github.com/Azure/sdk-release-request/issues/4441) | bjqian |  | qiaozha | multi readme link! close to release date.  | 08-17 | 09-22 | 2 |
 | 21 | [#4439](https://github.com/Azure/sdk-release-request/issues/4439) | apmehrotra |  | qiaozha | close to release date.  | 08-16 | 09-22 | 2 |
 | 22 | [#4430](https://github.com/Azure/sdk-release-request/issues/4430) | ethanann-ms |  | qiaozha | close to release date.  | 08-15 | 09-22 | 2 |
-| 23 | [#4423](https://github.com/Azure/sdk-release-request/issues/4423) | grizzlytheodore |  | MaryGao | new comment. close to release date.  | 08-12 | 09-22 | 2 |
+| 23 | [#4423](https://github.com/Azure/sdk-release-request/issues/4423) | grizzlytheodore |  | MaryGao | close to release date.  | 08-12 | 09-22 | 2 |
 | 24 | [#4352](https://github.com/Azure/sdk-release-request/issues/4352) | pathuang-sia |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 07-20 | 09-22 | 2 |
