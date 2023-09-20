@@ -5,7 +5,7 @@
 | 3 | [#4516](https://github.com/Azure/sdk-release-request/issues/4516) | venkatr21 |  | weidongxu-microsoft |  | 09-13 | 10-27 |  |
 | 4 | [#4514](https://github.com/Azure/sdk-release-request/issues/4514) | audunn |  | weidongxu-microsoft | new issue. | 09-08 | 10-27 |  |
 | 5 | [#4507](https://github.com/Azure/sdk-release-request/issues/4507) | koderjoker |  | v-hongli1 |  | 09-07 |  | 0 |
-| 6 | [#4506](https://github.com/Azure/sdk-release-request/issues/4506) | shivamverma-ms |  | XiaofeiCao | new issue. close to release date.  | 09-06 | 09-22 | 1 |
+| 6 | [#4506](https://github.com/Azure/sdk-release-request/issues/4506) | shivamverma-ms |  | XiaofeiCao | close to release date.  | 09-06 | 09-22 | 1 |
 | 7 | [#4496](https://github.com/Azure/sdk-release-request/issues/4496) | AntonioVT |  | weidongxu-microsoft | close to release date.  | 09-05 | 09-22 | 1 |
 | 8 | [#4492](https://github.com/Azure/sdk-release-request/issues/4492) | AntonioVT |  | v-hongli1 |  | 09-05 |  | 0 |
 | 9 | [#4489](https://github.com/Azure/sdk-release-request/issues/4489) | tadelesh |  | XiaofeiCao | close to release date.  | 09-05 | 09-22 | 1 |
