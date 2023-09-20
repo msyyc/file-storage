@@ -20,4 +20,4 @@
 | 18 | 'Python SDK release for SQL - 2023-02-01'  |  | [#4473](https://github.com/Azure/sdk-release-request/issues/4473)  | [#4474](https://github.com/Azure/sdk-release-request/issues/4474)  | [#4471](https://github.com/Azure/sdk-release-request/issues/4471)  | 08-29 | 09-22 |  |
 | 19 | 'Release for Azure Cosmos DB for PostgreSQL - 2022-11-08'  |  | [#4462](https://github.com/Azure/sdk-release-request/issues/4462)  | [#4464](https://github.com/Azure/sdk-release-request/issues/4464)  | [#4461](https://github.com/Azure/sdk-release-request/issues/4461)  | 08-23 | 09-22 |  |
 | 20 | 'Release for IotHub Control Plane 2023-06-30'  |  |  | [#4449](https://github.com/Azure/sdk-release-request/issues/4449)  |  | 08-17 | 09-22 |  |
-| 21 | 'Release for Azure Communication Service - 2023-04-01-preview'  |  |  |  | [#4526](https://github.com/Azure/sdk-release-request/issues/4526)  | 09-13 | 10-27 |  |
+| 21 | 'Release for Azure Communication Service - 2023-04-01-preview'  |  |  |  | [#4526](https://github.com/Azure/sdk-release-request/issues/4526)  | 09-13 | 09-22 |  |

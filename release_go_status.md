@@ -9,7 +9,7 @@
 | 7 | [#4498](https://github.com/Azure/sdk-release-request/issues/4498) | AntonioVT |  | Alancere | new comment. close to release date.  | 09-05 | 09-22 | 1 |
 | 8 | [#4493](https://github.com/Azure/sdk-release-request/issues/4493) | AntonioVT |  | Alancere | new comment. close to release date.  | 09-05 | 09-22 | 1 |
 | 9 | [#4488](https://github.com/Azure/sdk-release-request/issues/4488) | tadelesh |  | Alancere | new issue. close to release date.  | 09-05 | 09-22 | 1 |
-| 10 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. close to release date.  | 08-31 | 09-22 | 1 |
+| 10 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. close to release date.  | 08-31 | 09-22 | 1 |
 | 11 | [#4475](https://github.com/Azure/sdk-release-request/issues/4475) | htippanaboya |  | Alancere | close to release date.  | 08-29 | 09-22 | 1 |
 | 12 | [#4473](https://github.com/Azure/sdk-release-request/issues/4473) | viparek |  | Alancere | close to release date.  | 08-29 | 09-22 | 1 |
 | 13 | [#4465](https://github.com/Azure/sdk-release-request/issues/4465) | bavneetsingh16 |  | Alancere | close to release date.  | 08-28 | 09-22 | 1 |
