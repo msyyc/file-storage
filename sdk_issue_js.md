@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27159](https://github.com/Azure/azure-sdk-for-js/issues/27159)|[test][mgmt] `arm-loadtesting` test are failing now due to recording mismatch|Mgmt, test-reliability|qiaozha|new issue|2023-09-19|
+|1|[#27159](https://github.com/Azure/azure-sdk-for-js/issues/27159)|[test][mgmt] `arm-loadtesting` test are failing now due to recording mismatch|Mgmt, test-reliability|MaryGao, kazrael2119||2023-09-19|
 |2|[#27136](https://github.com/Azure/azure-sdk-for-js/issues/27136)|[Feature Request] Add support for REST API's in `Azure API Connections` service.|question, customer-reported, Mgmt, Logic App, needs-team-attention|MaryGao, kazrael2119|new comment|2023-09-15|
 |3|[#27089](https://github.com/Azure/azure-sdk-for-js/issues/27089)|List all roles without scope and filter them|question, customer-reported, Mgmt, Service Attention, Authorization, needs-team-attention|qiaozha, kazrael2119|new comment|2023-09-12|
 |4|[#27068](https://github.com/Azure/azure-sdk-for-js/issues/27068)|[@azure/arm-desktopvirtualization] Nullable Properties|question, customer-reported, Mgmt, Service Attention, ARM, needs-team-attention|qiaozha, kazrael2119||2023-09-11|
@@ -22,5 +22,5 @@
 |20|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
 |21|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha, xboxeer||2022-07-29|
 |22|[#21116](https://github.com/Azure/azure-sdk-for-js/issues/21116)|webApps.beginInstallSiteExtensionAndWait always returns a 400 error due to missing request body in the API spec|bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-03-30|
-|23|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|[swagger] HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|MaryGao, qiaozha|new comment|2022-02-28|
+|23|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|[swagger] HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|qiaozha, MaryGao|new comment|2022-02-28|
 |24|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha|new comment|2022-02-08|
