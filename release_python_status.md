@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4535](https://github.com/Azure/sdk-release-request/issues/4535) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. MultiAPI | 09-21 | 10-27 |  |
+| 1 | [#4535](https://github.com/Azure/sdk-release-request/issues/4535) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 2 | [#4531](https://github.com/Azure/sdk-release-request/issues/4531) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 |  | 09-20 | 10-27 |  |
 | 3 | [#4529](https://github.com/Azure/sdk-release-request/issues/4529) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 09-20 | 10-27 |  |
 | 4 | [#4522](https://github.com/Azure/sdk-release-request/issues/4522) | minhsuanlee | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | FirstBeta | 09-13 | 10-27 |  |
