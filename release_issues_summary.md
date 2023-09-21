@@ -13,12 +13,12 @@
 | 11 | 'Release for Microsoft Cache - 2023-08-01'  |  |  | [#4507](https://github.com/Azure/sdk-release-request/issues/4507)  | [#4510](https://github.com/Azure/sdk-release-request/issues/4510)  | 09-07 | 09-22 |  |
 | 12 | 'June API version for ASR'  |  |  | [#4506](https://github.com/Azure/sdk-release-request/issues/4506)  |  | 09-06 | 09-22 |  |
 | 13 | 'Release for Azure Container Registry - 2023-07-01 stable'  |  |  | [#4492](https://github.com/Azure/sdk-release-request/issues/4492)  |  | 09-05 |  |  |
-| 14 | 'Managed Application package-managedapplications-2021-07'  |  |  | [#4489](https://github.com/Azure/sdk-release-request/issues/4489)  | [#4490](https://github.com/Azure/sdk-release-request/issues/4490)  | 09-05 | 09-22 |  |
-| 15 | 'Release for RecoveryServicesBackup 2023-04-01'  |  |  | [#4479](https://github.com/Azure/sdk-release-request/issues/4479)  |  | 08-30 | 09-05 |  |
-| 16 | 'Network 2023-05-01'  |  |  | [#4478](https://github.com/Azure/sdk-release-request/issues/4478)  |  | 08-29 |  |  |
-| 17 | 'Python SDK release for SQL - 2023-02-01'  |  |  | [#4474](https://github.com/Azure/sdk-release-request/issues/4474)  | [#4471](https://github.com/Azure/sdk-release-request/issues/4471)  | 08-29 | 09-22 |  |
-| 18 | 'Release for Azure Cosmos DB for PostgreSQL - 2022-11-08'  |  |  | [#4464](https://github.com/Azure/sdk-release-request/issues/4464)  | [#4461](https://github.com/Azure/sdk-release-request/issues/4461)  | 08-23 | 09-22 |  |
-| 19 | 'SDK release for GA version for Microsoft.HybridConnectivity'  |  |  | [#4438](https://github.com/Azure/sdk-release-request/issues/4438)  |  | 08-16 | 09-22 |  |
-| 20 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/Java/ |
-| 21 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
-| 22 | 'Release for Azure Communication Service - 2023-04-01-preview'  |  |  |  | [#4526](https://github.com/Azure/sdk-release-request/issues/4526)  | 09-13 | 09-22 |  |
+| 14 | 'Release for RecoveryServicesBackup 2023-04-01'  |  |  | [#4479](https://github.com/Azure/sdk-release-request/issues/4479)  |  | 08-30 | 09-05 |  |
+| 15 | 'Network 2023-05-01'  |  |  | [#4478](https://github.com/Azure/sdk-release-request/issues/4478)  |  | 08-29 |  |  |
+| 16 | 'Python SDK release for SQL - 2023-02-01'  |  |  | [#4474](https://github.com/Azure/sdk-release-request/issues/4474)  | [#4471](https://github.com/Azure/sdk-release-request/issues/4471)  | 08-29 | 09-22 |  |
+| 17 | 'Release for Azure Cosmos DB for PostgreSQL - 2022-11-08'  |  |  | [#4464](https://github.com/Azure/sdk-release-request/issues/4464)  | [#4461](https://github.com/Azure/sdk-release-request/issues/4461)  | 08-23 | 09-22 |  |
+| 18 | 'SDK release for GA version for Microsoft.HybridConnectivity'  |  |  | [#4438](https://github.com/Azure/sdk-release-request/issues/4438)  |  | 08-16 | 09-22 |  |
+| 19 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/Java/ |
+| 20 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
+| 21 | 'Release for Azure Communication Service - 2023-04-01-preview'  |  |  |  | [#4526](https://github.com/Azure/sdk-release-request/issues/4526)  | 09-13 | 09-22 |  |
+| 22 | 'Managed Application package-managedapplications-2021-07'  |  |  |  | [#4490](https://github.com/Azure/sdk-release-request/issues/4490)  | 09-05 | 09-22 |  |
