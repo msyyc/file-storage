@@ -9,4 +9,3 @@
 | 7 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 08-31 | 09-22 | 0 |
 | 8 | [#4468](https://github.com/Azure/sdk-release-request/issues/4468) | bavneetsingh16 | azure-mgmt-kubernetesconfiguration | ChenxiJiang333 | close to release date.  | 08-28 | 09-22 | 0 |
 | 9 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | close to release date.  MultiAPI HoldOn | 08-23 | 09-22 | 0 |
-| 10 | [#4440](https://github.com/Azure/sdk-release-request/issues/4440) | apmehrotra | azure-mgmt-hybridconnectivity | ChenxiJiang333 | close to release date.  FirstBeta | 08-16 | 09-22 | 0 |
