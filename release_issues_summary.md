@@ -19,9 +19,9 @@
 | 17 | 'Release for RecoveryServicesBackup 2023-04-01'  |  |  | [#4479](https://github.com/Azure/sdk-release-request/issues/4479)  |  | 08-30 | 09-05 |  |
 | 18 | 'Network 2023-05-01'  |  |  | [#4478](https://github.com/Azure/sdk-release-request/issues/4478)  |  | 08-29 |  |  |
 | 19 | 'Python SDK release for SQL - 2023-02-01'  |  |  | [#4474](https://github.com/Azure/sdk-release-request/issues/4474)  | [#4471](https://github.com/Azure/sdk-release-request/issues/4471)  | 08-29 | 09-22 |  |
-| 20 | 'Release for Azure Cosmos DB for PostgreSQL - 2022-11-08'  |  |  | [#4464](https://github.com/Azure/sdk-release-request/issues/4464)  | [#4461](https://github.com/Azure/sdk-release-request/issues/4461)  | 08-23 | 09-22 |  |
-| 21 | 'SDK release for GA version for Microsoft.HybridConnectivity'  |  |  | [#4438](https://github.com/Azure/sdk-release-request/issues/4438)  |  | 08-16 | 09-22 |  |
-| 22 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/Java/ |
-| 23 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
-| 24 | 'Release for Azure Communication Service - 2023-04-01-preview'  |  |  |  | [#4526](https://github.com/Azure/sdk-release-request/issues/4526)  | 09-13 | 09-22 |  |
-| 25 | 'Managed Application package-managedapplications-2021-07'  |  |  |  | [#4490](https://github.com/Azure/sdk-release-request/issues/4490)  | 09-05 | 09-22 |  |
+| 20 | 'SDK release for GA version for Microsoft.HybridConnectivity'  |  |  | [#4438](https://github.com/Azure/sdk-release-request/issues/4438)  |  | 08-16 | 09-22 |  |
+| 21 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/Java/ |
+| 22 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
+| 23 | 'Release for Azure Communication Service - 2023-04-01-preview'  |  |  |  | [#4526](https://github.com/Azure/sdk-release-request/issues/4526)  | 09-13 | 09-22 |  |
+| 24 | 'Managed Application package-managedapplications-2021-07'  |  |  |  | [#4490](https://github.com/Azure/sdk-release-request/issues/4490)  | 09-05 | 09-22 |  |
+| 25 | 'Release for Azure Cosmos DB for PostgreSQL - 2022-11-08'  |  |  |  | [#4461](https://github.com/Azure/sdk-release-request/issues/4461)  | 08-23 | 09-22 |  |
