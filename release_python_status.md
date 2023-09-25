@@ -3,7 +3,7 @@
 | 1 | [#4561](https://github.com/Azure/sdk-release-request/issues/4561) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 09-25 | 10-27 |  |
 | 2 | [#4551](https://github.com/Azure/sdk-release-request/issues/4551) | AdrianSibajaRetana | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 09-22 | 10-27 |  |
 | 3 | [#4547](https://github.com/Azure/sdk-release-request/issues/4547) | subbartt | azure-mgmt-connectedvmware | ChenxiJiang333 |  | 09-22 | 10-27 |  |
-| 4 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-21 | 10-27 |  |
+| 4 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag HoldOn | 09-21 | 10-27 |  |
 | 5 | [#4539](https://github.com/Azure/sdk-release-request/issues/4539) | yashjain4 | azure-mgmt-resourcemover | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 6 | [#4535](https://github.com/Azure/sdk-release-request/issues/4535) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 7 | [#4531](https://github.com/Azure/sdk-release-request/issues/4531) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 |  | 09-20 | 10-27 |  |
