@@ -10,5 +10,5 @@
 | 8 | [#4522](https://github.com/Azure/sdk-release-request/issues/4522) | minhsuanlee | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | FirstBeta | 09-13 | 10-27 |  |
 | 9 | [#4515](https://github.com/Azure/sdk-release-request/issues/4515) | venkatr21 | azure-mgmt-playwrighttesting | ChenxiJiang333 | FirstBeta | 09-13 | 10-27 |  |
 | 10 | [#4512](https://github.com/Azure/sdk-release-request/issues/4512) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 09-08 | 10-27 |  |
-| 11 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 08-31 | 09-22 | -2 |
-| 12 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | close to release date.  MultiAPI HoldOn | 08-23 | 09-22 | -2 |
+| 11 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | FirstBeta HoldOn | 08-31 | 09-22 |  |
+| 12 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI HoldOn | 08-23 | 09-22 |  |
