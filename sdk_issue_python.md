@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#32189](https://github.com/Azure/azure-sdk-for-python/issues/32189)|Volume creation issue after upgrading version of azure-mgmt-netapp package|question, Network - Application Gateway, Client, Mgmt, customer-reported, needs-team-attention, CXP Attention|msyyc||2023-09-22|
-|2|[#32118](https://github.com/Azure/azure-sdk-for-python/issues/32118)|Image not rendering - "Error Fetching Resource" displayed|bug, Mgmt, customer-reported, Monitor - ApplicationInsights, needs-team-attention, CXP Attention|msyyc||2023-09-17|
+|1|[#32189](https://github.com/Azure/azure-sdk-for-python/issues/32189)|Volume creation issue after upgrading version of azure-mgmt-netapp package|question, Network - Application Gateway, Client, Mgmt, customer-reported, issue-addressed, CXP Attention|msyyc||2023-09-22|
+|2|[#32118](https://github.com/Azure/azure-sdk-for-python/issues/32118)|Image not rendering - "Error Fetching Resource" displayed|bug, Mgmt, customer-reported, Monitor - ApplicationInsights, issue-addressed, CXP Attention|msyyc||2023-09-17|
 |3|[#31918](https://github.com/Azure/azure-sdk-for-python/issues/31918)|metrics.list method doesnt return results after changing authorization type|question, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2023-09-01|
 |4|[#31806](https://github.com/Azure/azure-sdk-for-python/issues/31806)|Ability to deploy a Bicep file without having to transpile  it to ARM/.json first.|feature-request, question, Mgmt, customer-reported, needs-team-attention, CXP Attention, Resources|msyyc|no reply > 7|2023-08-25|
 |5|[#31724](https://github.com/Azure/azure-sdk-for-python/issues/31724)|azure-mgmt-core needs linting updates for pylint version 2.15.8|Mgmt, Azure.Mgmt.Core, pylint|msyyc|new issue|2023-08-20|
@@ -13,5 +13,5 @@
 |11|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |12|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |13|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|14|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
+|14|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
 |15|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
