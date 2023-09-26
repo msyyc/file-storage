@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4568](https://github.com/Azure/sdk-release-request/issues/4568) | ambrahma |  | qiaozha | new comment. | 09-25 | 10-27 |  |
-| 2 | [#4563](https://github.com/Azure/sdk-release-request/issues/4563) | niteshvijay1995 |  | qiaozha | Attention to inconsistent tag | 09-25 | 10-27 |  |
+| 1 | [#4572](https://github.com/Azure/sdk-release-request/issues/4572) | niteshvijay1995 |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-27 |  |
+| 2 | [#4568](https://github.com/Azure/sdk-release-request/issues/4568) | ambrahma |  | qiaozha | new comment. | 09-25 | 10-27 |  |
 | 3 | [#4558](https://github.com/Azure/sdk-release-request/issues/4558) | yifanz7 |  | qiaozha | new issue. | 09-25 | 10-27 |  |
 | 4 | [#4552](https://github.com/Azure/sdk-release-request/issues/4552) | AdrianSibajaRetana |  | MaryGao | Attention to inconsistent tag | 09-22 | 10-27 |  |
 | 5 | [#4549](https://github.com/Azure/sdk-release-request/issues/4549) | subbartt |  | MaryGao | new issue. | 09-22 | 10-27 |  |

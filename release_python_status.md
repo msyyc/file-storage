@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4567](https://github.com/Azure/sdk-release-request/issues/4567) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new comment. | 09-25 | 10-27 |  |
-| 2 | [#4565](https://github.com/Azure/sdk-release-request/issues/4565) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-25 | 10-27 |  |
+| 1 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-26 | 10-27 |  |
+| 2 | [#4567](https://github.com/Azure/sdk-release-request/issues/4567) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new comment. | 09-25 | 10-27 |  |
 | 3 | [#4561](https://github.com/Azure/sdk-release-request/issues/4561) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 09-25 | 10-27 |  |
 | 4 | [#4551](https://github.com/Azure/sdk-release-request/issues/4551) | AdrianSibajaRetana | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 09-22 | 10-27 |  |
 | 5 | [#4547](https://github.com/Azure/sdk-release-request/issues/4547) | subbartt | azure-mgmt-connectedvmware | ChenxiJiang333 |  | 09-22 | 10-27 |  |
