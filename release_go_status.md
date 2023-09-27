@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4578](https://github.com/Azure/sdk-release-request/issues/4578) | zman-ms |  | Alancere |  | 09-26 |  | 0 |
-| 2 | [#4575](https://github.com/Azure/sdk-release-request/issues/4575) | GargParth |  | Alancere |  | 09-26 |  | 0 |
+| 1 | [#4578](https://github.com/Azure/sdk-release-request/issues/4578) | zman-ms |  | Alancere | new issue. | 09-26 | 10-27 |  |
+| 2 | [#4575](https://github.com/Azure/sdk-release-request/issues/4575) | GargParth |  | Alancere |  | 09-26 | 10-27 |  |
 | 3 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 4 | [#4566](https://github.com/Azure/sdk-release-request/issues/4566) | ambrahma |  | Alancere | new comment. | 09-25 | 10-27 |  |
 | 5 | [#4560](https://github.com/Azure/sdk-release-request/issues/4560) | yifanz7 |  | Alancere | new issue. | 09-25 | 10-27 |  |

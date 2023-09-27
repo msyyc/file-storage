@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms |  | ChenxiJiang333 | duplicated issue  <br> | 09-26 |  | 0 |
-| 2 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> | 09-26 |  | 0 |
+| 1 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms |  | ChenxiJiang333 | duplicated issue  <br> new issue. | 09-26 | 10-27 |  |
+| 2 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> | 09-26 | 10-27 |  |
 | 3 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 4 | [#4567](https://github.com/Azure/sdk-release-request/issues/4567) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new comment. | 09-25 | 10-27 |  |
 | 5 | [#4561](https://github.com/Azure/sdk-release-request/issues/4561) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 09-25 | 10-27 |  |
