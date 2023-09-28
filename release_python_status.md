@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4586](https://github.com/Azure/sdk-release-request/issues/4586) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | Attention to inconsistent tag MultiAPI | 09-27 | 10-27 |  |
+| 1 | [#4586](https://github.com/Azure/sdk-release-request/issues/4586) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | Attention to inconsistent tag | 09-27 | 10-27 |  |
 | 2 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-26 | 10-27 |  |
 | 3 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 09-26 | 10-27 |  |
 | 4 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-26 | 10-27 |  |
