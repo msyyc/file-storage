@@ -12,6 +12,6 @@
 | 10 | [#4535](https://github.com/Azure/sdk-release-request/issues/4535) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 11 | [#4529](https://github.com/Azure/sdk-release-request/issues/4529) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 09-20 | 10-27 |  |
 | 12 | [#4522](https://github.com/Azure/sdk-release-request/issues/4522) | minhsuanlee | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | FirstBeta | 09-13 | 10-27 |  |
-| 14 | [#4512](https://github.com/Azure/sdk-release-request/issues/4512) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 09-08 | 10-27 |  |
-| 15 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | duplicated issue  <br> FirstBeta HoldOn | 08-31 | 09-22 |  |
-| 16 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI HoldOn | 08-23 | 09-22 |  |
+| 13 | [#4512](https://github.com/Azure/sdk-release-request/issues/4512) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 09-08 | 10-27 |  |
+| 14 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | duplicated issue  <br> FirstBeta HoldOn | 08-31 | 09-22 |  |
+| 15 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI HoldOn | 08-23 | 09-22 |  |
