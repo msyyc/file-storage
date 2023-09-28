@@ -1,7 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 | new issue. | 09-28 | 10-27 |  |
-| 2 | [#4586](https://github.com/Azure/sdk-release-request/issues/4586) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | Attention to inconsistent tag | 09-27 | 10-27 |  |
+| 1 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 3 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-26 | 10-27 |  |
 | 4 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 09-26 | 10-27 |  |
 | 5 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-26 | 10-27 |  |
