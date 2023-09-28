@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36962](https://github.com/Azure/azure-sdk-for-java/issues/36962)|[QUERY] Data factory list pipeline api does not have 'state' and 'onInactiveMarkAs' properties on Activity|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft|new comment|2023-09-27|
+|1|[#36962](https://github.com/Azure/azure-sdk-for-java/issues/36962)|[QUERY] Data factory list pipeline api does not have 'state' and 'onInactiveMarkAs' properties on Activity|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2023-09-27|
 |2|[#36954](https://github.com/Azure/azure-sdk-for-java/issues/36954)|[BUG] Could not retrieve vm by vmId(uuid) instead of resource id.|question, Compute - VM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao||2023-09-26|
 |3|[#36866](https://github.com/Azure/azure-sdk-for-java/issues/36866)|[QUERY] Possibility to define name for the node resource group for AKS|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-20|
 |4|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |5|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |6|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
-|7|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring|XiaofeiCao, saragluna, weidongxu-microsoft||2023-09-13|
+|7|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring|saragluna, weidongxu-microsoft, XiaofeiCao||2023-09-13|
 |8|[#36660](https://github.com/Azure/azure-sdk-for-java/issues/36660)|Switch `VirtualMachines.listByVirtualMachineScaleSet` implementation|Mgmt, Mgmt - Track 2, MQ|XiaofeiCao||2023-09-07|
 |9|[#36646](https://github.com/Azure/azure-sdk-for-java/issues/36646)|[BUG] mgmt, investigate why publish doc fails on storagemover and voiceservices|Mgmt, Docs, MQ|XiaofeiCao||2023-09-06|
 |10|[#36619](https://github.com/Azure/azure-sdk-for-java/issues/36619)|[BUG]VM generation error obtaining image through sdk|question, Compute - VM, Mgmt, customer-reported|XiaofeiCao||2023-09-01|
