@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4593](https://github.com/Azure/sdk-release-request/issues/4593) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 09-28 | 10-27 |  |
+| 1 | [#4593](https://github.com/Azure/sdk-release-request/issues/4593) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 | new comment. | 09-28 | 10-27 |  |
 | 2 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 3 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-26 | 10-27 |  |
 | 4 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 09-26 | 10-27 |  |
