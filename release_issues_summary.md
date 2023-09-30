@@ -21,7 +21,8 @@
 | 19 | 'Release for RecoveryServicesBackup 2023-04-01'  |  |  | [#4479](https://github.com/Azure/sdk-release-request/issues/4479)  |  | 08-30 | 09-05 |  |
 | 20 | 'Python SDK release for SQL - 2023-02-01'  |  |  | [#4474](https://github.com/Azure/sdk-release-request/issues/4474)  |  | 08-29 |  |  |
 | 21 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  | [#4351](https://github.com/Azure/sdk-release-request/issues/4351)  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/Java/ |
-| 22 | 'Azure Compute DiskRP 2023-04-02'  |  | [#4585](https://github.com/Azure/sdk-release-request/issues/4585)  |  |  | 09-27 | 10-27 |  |
-| 23 | 'Release for IOPS  - 2023-03-01-preview'  |  | [#4566](https://github.com/Azure/sdk-release-request/issues/4566)  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
-| 24 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
-| 25 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
+| 22 | 'Release for Container Service - 2023-08-02-preview'  |  | [#4596](https://github.com/Azure/sdk-release-request/issues/4596)  |  | [#4595](https://github.com/Azure/sdk-release-request/issues/4595)  | 09-29 |  |  |
+| 23 | 'Azure Compute DiskRP 2023-04-02'  |  | [#4585](https://github.com/Azure/sdk-release-request/issues/4585)  |  |  | 09-27 | 10-27 |  |
+| 24 | 'Release for IOPS  - 2023-03-01-preview'  |  | [#4566](https://github.com/Azure/sdk-release-request/issues/4566)  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
+| 25 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
+| 26 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
