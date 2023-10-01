@@ -7,7 +7,7 @@
 |5|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |6|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |7|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
-|8|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring|weidongxu-microsoft, saragluna, XiaofeiCao||2023-09-13|
+|8|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring|saragluna, XiaofeiCao, weidongxu-microsoft||2023-09-13|
 |9|[#36660](https://github.com/Azure/azure-sdk-for-java/issues/36660)|Switch `VirtualMachines.listByVirtualMachineScaleSet` implementation|Mgmt, Mgmt - Track 2, MQ|XiaofeiCao||2023-09-07|
 |10|[#36646](https://github.com/Azure/azure-sdk-for-java/issues/36646)|[BUG] mgmt, investigate why publish doc fails on storagemover and voiceservices|Mgmt, Docs, MQ|XiaofeiCao||2023-09-06|
 |11|[#36619](https://github.com/Azure/azure-sdk-for-java/issues/36619)|[BUG]VM generation error obtaining image through sdk|question, Compute - VM, Mgmt, customer-reported, needs-author-feedback|XiaofeiCao||2023-09-01|
