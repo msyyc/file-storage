@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 | Attention to inconsistent tag | 10-02 | 10-27 |  |
-| 2 | [#4597](https://github.com/Azure/sdk-release-request/issues/4597) | gouthamMN | azure-mgmt-redhatopenshift | ChenxiJiang333 | Attention to inconsistent tag MultiAPI | 10-02 | 10-27 |  |
+| 2 | [#4597](https://github.com/Azure/sdk-release-request/issues/4597) | gouthamMN | azure-mgmt-redhatopenshift | ChenxiJiang333 | new comment. Attention to inconsistent tag MultiAPI | 10-02 | 10-27 |  |
 | 3 | [#4593](https://github.com/Azure/sdk-release-request/issues/4593) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 | new comment. | 09-28 | 10-27 |  |
 | 4 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 5 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-26 | 10-27 |  |
