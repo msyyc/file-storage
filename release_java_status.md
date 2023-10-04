@@ -9,7 +9,7 @@
 | 7 | [#4576](https://github.com/Azure/sdk-release-request/issues/4576) | GargParth |  | haolingdong-msft |  | 09-26 | 10-27 |  |
 | 8 | [#4571](https://github.com/Azure/sdk-release-request/issues/4571) | niteshvijay1995 |  | haolingdong-msft | new comment. Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 9 | [#4559](https://github.com/Azure/sdk-release-request/issues/4559) | yifanz7 |  | haolingdong-msft | new issue. | 09-25 | 10-27 |  |
-| 10 | [#4553](https://github.com/Azure/sdk-release-request/issues/4553) | AdrianSibajaRetana |  | haolingdong-msft | Attention to inconsistent tag | 09-22 | 10-27 |  |
+| 10 | [#4553](https://github.com/Azure/sdk-release-request/issues/4553) | AdrianSibajaRetana |  | haolingdong-msft | new comment. Attention to inconsistent tag | 09-22 | 10-27 |  |
 | 11 | [#4548](https://github.com/Azure/sdk-release-request/issues/4548) | subbartt |  | XiaofeiCao | new issue. | 09-22 | 10-27 |  |
 | 12 | [#4543](https://github.com/Azure/sdk-release-request/issues/4543) | audunn |  | weidongxu-microsoft | Attention to inconsistent tag | 09-21 | 10-27 |  |
 | 13 | [#4540](https://github.com/Azure/sdk-release-request/issues/4540) | yashjain4 |  | XiaofeiCao | new issue. | 09-21 | 10-27 |  |
