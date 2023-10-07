@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4615](https://github.com/Azure/sdk-release-request/issues/4615) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 | multi readme link! | 10-07 | 10-27 |  |
-| 2 | [#4612](https://github.com/Azure/sdk-release-request/issues/4612) | bjqian | azure-mgmt-signalr | ChenxiJiang333 | multi readme link! | 10-07 | 10-27 |  |
+| 1 | [#4615](https://github.com/Azure/sdk-release-request/issues/4615) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 |  | 10-07 | 10-27 |  |
+| 2 | [#4612](https://github.com/Azure/sdk-release-request/issues/4612) | bjqian | azure-mgmt-signalr | ChenxiJiang333 |  | 10-07 | 10-27 |  |
 | 3 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
 | 4 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 | Attention to inconsistent tag | 10-03 | 10-27 |  |
 | 5 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 |  | 10-02 | 10-27 |  |
