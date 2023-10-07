@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4616](https://github.com/Azure/sdk-release-request/issues/4616) | bjqian |  | XiaofeiCao |  | 10-07 |  | 0 |
-| 2 | [#4613](https://github.com/Azure/sdk-release-request/issues/4613) | bjqian |  | XiaofeiCao |  | 10-07 |  | 0 |
+| 1 | [#4616](https://github.com/Azure/sdk-release-request/issues/4616) | bjqian |  | XiaofeiCao | multi readme link! | 10-07 | 10-27 |  |
+| 2 | [#4613](https://github.com/Azure/sdk-release-request/issues/4613) | bjqian |  | XiaofeiCao | multi readme link! | 10-07 | 10-27 |  |
 | 3 | [#4610](https://github.com/Azure/sdk-release-request/issues/4610) | vikotha |  | weidongxu-microsoft | new issue. | 10-06 | 10-27 |  |
 | 4 | [#4603](https://github.com/Azure/sdk-release-request/issues/4603) | mattmsft |  | XiaofeiCao | new comment. Attention to inconsistent tag | 10-03 | 10-27 |  |
 | 5 | [#4600](https://github.com/Azure/sdk-release-request/issues/4600) | alexandraavendano |  | XiaofeiCao |  | 10-02 | 10-27 |  |
