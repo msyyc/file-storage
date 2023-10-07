@@ -5,7 +5,6 @@
 | 3 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
 | 4 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 | Attention to inconsistent tag | 10-03 | 10-27 |  |
 | 5 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 |  | 10-02 | 10-27 |  |
-| 6 | [#4597](https://github.com/Azure/sdk-release-request/issues/4597) | gouthamMN | azure-mgmt-redhatopenshift | ChenxiJiang333 |  | 10-02 | 10-27 |  |
 | 7 | [#4593](https://github.com/Azure/sdk-release-request/issues/4593) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 8 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 9 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-26 | 10-27 |  |
