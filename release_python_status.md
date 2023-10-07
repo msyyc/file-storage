@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 | new issue. | 10-06 | 10-27 |  |
+| 1 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
 | 2 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 | new comment. Attention to inconsistent tag | 10-03 | 10-27 |  |
 | 3 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 |  | 10-02 | 10-27 |  |
 | 4 | [#4597](https://github.com/Azure/sdk-release-request/issues/4597) | gouthamMN | azure-mgmt-redhatopenshift | ChenxiJiang333 | new comment. MultiAPI | 10-02 | 10-27 |  |
