@@ -12,7 +12,7 @@
 | 10 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 11 | [#4561](https://github.com/Azure/sdk-release-request/issues/4561) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 09-25 | 10-27 |  |
 | 12 | [#4547](https://github.com/Azure/sdk-release-request/issues/4547) | subbartt | azure-mgmt-connectedvmware | ChenxiJiang333 |  | 09-22 | 10-27 |  |
-| 13 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag | 09-21 | 10-27 |  |
+| 13 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-21 | 10-27 |  |
 | 14 | [#4539](https://github.com/Azure/sdk-release-request/issues/4539) | yashjain4 | azure-mgmt-resourcemover | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 15 | [#4535](https://github.com/Azure/sdk-release-request/issues/4535) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 16 | [#4529](https://github.com/Azure/sdk-release-request/issues/4529) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 09-20 | 10-27 |  |
