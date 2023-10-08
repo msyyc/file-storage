@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#21687](https://github.com/Azure/azure-sdk-for-go/issues/21687)|Fakes for networking were deleted in commit baac183ffa684d94f697f0fc6f480e02cfb00f3d|question, Mgmt, customer-reported|jhendrixMSFT, Alancere|new comment|2023-10-04|
-|2|[#21682](https://github.com/Azure/azure-sdk-for-go/issues/21682)|[Question] Get instanceView when listing all VMs|question, Compute - VM, Mgmt, customer-reported|josefree, lirenhe|new issue|2023-10-03|
+|1|[#21687](https://github.com/Azure/azure-sdk-for-go/issues/21687)|Fakes for networking were deleted in commit baac183ffa684d94f697f0fc6f480e02cfb00f3d|question, Mgmt, customer-reported|Alancere, jhendrixMSFT|new comment|2023-10-04|
+|2|[#21682](https://github.com/Azure/azure-sdk-for-go/issues/21682)|[Question] Get instanceView when listing all VMs|question, Compute - VM, Mgmt, customer-reported|lirenhe, josefree|new issue|2023-10-03|
 |3|[#21592](https://github.com/Azure/azure-sdk-for-go/issues/21592)|Add networkProfile data in hybrid compute machineProperties |question, Compute, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new issue|2023-09-20|
 |4|[#21572](https://github.com/Azure/azure-sdk-for-go/issues/21572)|Latency in create / update of recordset in DNS zone|question, Mgmt, customer-reported|Alancere||2023-09-18|
 |5|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|Alancere, tadelesh|new issue|2023-09-06|
@@ -12,7 +12,7 @@
 |10|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|Alancere||2022-11-14|
 |11|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
 |12|[#18590](https://github.com/Azure/azure-sdk-for-go/issues/18590)|Unable to expand planInformation on Reservation Order|bug, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-14|
-|13|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|tadelesh, lirenhe|new comment|2022-05-05|
+|13|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, tadelesh|new comment|2022-05-05|
 |14|[#17783](https://github.com/Azure/azure-sdk-for-go/issues/17783)|New API version: 2022-02-03 for desktopvirtualization|Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere||2022-04-29|
 |15|[#17591](https://github.com/Azure/azure-sdk-for-go/issues/17591)|DscConfigurationClient.GetContent is broken since `2020-01-13-preview/automation` API version|bug, Automation, Service Attention, Mgmt, customer-reported, needs-team-attention, Previous Versions|ArcturusZhang|new comment|2022-04-14|
 |16|[#17520](https://github.com/Azure/azure-sdk-for-go/issues/17520)|Unsupported api-version for armservicebus ListKeys() method|bug, Service Bus, Mgmt, customer-reported, needs-team-attention|Alancere||2022-04-11|
