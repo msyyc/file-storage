@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4620](https://github.com/Azure/sdk-release-request/issues/4620) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 | new issue. | 10-08 | 10-27 |  |
+| 1 | [#4620](https://github.com/Azure/sdk-release-request/issues/4620) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 |  | 10-08 | 10-27 |  |
 | 2 | [#4615](https://github.com/Azure/sdk-release-request/issues/4615) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 |  | 10-07 | 10-27 |  |
 | 3 | [#4612](https://github.com/Azure/sdk-release-request/issues/4612) | bjqian | azure-mgmt-signalr | ChenxiJiang333 |  | 10-07 | 10-27 |  |
 | 4 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
