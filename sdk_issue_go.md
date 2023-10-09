@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#21682](https://github.com/Azure/azure-sdk-for-go/issues/21682)|[Question] Get instanceView when listing all VMs|question, Compute - VM, Mgmt, customer-reported|josefree, lirenhe|new issue|2023-10-03|
+|1|[#21682](https://github.com/Azure/azure-sdk-for-go/issues/21682)|[Question] Get instanceView when listing all VMs|question, Compute - VM, Mgmt, customer-reported|lirenhe, josefree|new issue|2023-10-03|
 |2|[#21592](https://github.com/Azure/azure-sdk-for-go/issues/21592)|Add networkProfile data in hybrid compute machineProperties |question, Compute, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new issue|2023-09-20|
 |3|[#21572](https://github.com/Azure/azure-sdk-for-go/issues/21572)|Latency in create / update of recordset in DNS zone|question, Mgmt, customer-reported|Alancere||2023-09-18|
 |4|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|tadelesh, Alancere|new issue|2023-09-06|
