@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#21687](https://github.com/Azure/azure-sdk-for-go/issues/21687)|Fakes for networking were deleted in commit baac183ffa684d94f697f0fc6f480e02cfb00f3d|question, Mgmt, customer-reported|jhendrixMSFT, Alancere|new comment|2023-10-04|
-|2|[#21682](https://github.com/Azure/azure-sdk-for-go/issues/21682)|[Question] Get instanceView when listing all VMs|question, Compute - VM, Mgmt, customer-reported|lirenhe, josefree|new issue|2023-10-03|
+|2|[#21682](https://github.com/Azure/azure-sdk-for-go/issues/21682)|[Question] Get instanceView when listing all VMs|question, Compute - VM, Mgmt, customer-reported|josefree, lirenhe|new issue|2023-10-03|
 |3|[#21592](https://github.com/Azure/azure-sdk-for-go/issues/21592)|Add networkProfile data in hybrid compute machineProperties |question, Compute, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new issue|2023-09-20|
 |4|[#21572](https://github.com/Azure/azure-sdk-for-go/issues/21572)|Latency in create / update of recordset in DNS zone|question, Mgmt, customer-reported|Alancere||2023-09-18|
 |5|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|tadelesh, Alancere|new issue|2023-09-06|
