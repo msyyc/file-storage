@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | 'Release for Maintenance - 2023-09-01-preview'  | [#4627](https://github.com/Azure/sdk-release-request/issues/4627)  |  |  |  | 10-09 | 10-27 |  |
+| 1 | 'Release for Maintenance - 2023-09-01-preview'  | [#4627](https://github.com/Azure/sdk-release-request/issues/4627)  |  |  |  | 10-09 | 10-27 | Hold on by Python/ |
 | 2 | 'Release for Kusto 2023-08-15'  | [#4624](https://github.com/Azure/sdk-release-request/issues/4624)  | [#4623](https://github.com/Azure/sdk-release-request/issues/4623)  | [#4625](https://github.com/Azure/sdk-release-request/issues/4625)  | [#4626](https://github.com/Azure/sdk-release-request/issues/4626)  | 10-09 | 10-27 |  |
 | 3 | 'Release for Azure Cdn - 2023-05-01'  | [#4620](https://github.com/Azure/sdk-release-request/issues/4620)  | [#4622](https://github.com/Azure/sdk-release-request/issues/4622)  | [#4621](https://github.com/Azure/sdk-release-request/issues/4621)  | [#4619](https://github.com/Azure/sdk-release-request/issues/4619)  | 10-08 | 10-27 |  |
 | 4 | 'Release for Azure Web PubSub 2023-08-01-preview'  | [#4615](https://github.com/Azure/sdk-release-request/issues/4615)  | [#4617](https://github.com/Azure/sdk-release-request/issues/4617)  | [#4616](https://github.com/Azure/sdk-release-request/issues/4616)  | [#4618](https://github.com/Azure/sdk-release-request/issues/4618)  | 10-07 | 10-27 |  |
