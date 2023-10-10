@@ -6,7 +6,7 @@
 | 4 | [#4615](https://github.com/Azure/sdk-release-request/issues/4615) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 |  | 10-07 | 10-27 |  |
 | 5 | [#4612](https://github.com/Azure/sdk-release-request/issues/4612) | bjqian | azure-mgmt-signalr | ChenxiJiang333 |  | 10-07 | 10-27 |  |
 | 6 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
-| 7 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 | new comment. | 10-03 | 10-27 |  |
+| 7 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 |  | 10-03 | 10-27 |  |
 | 8 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 |  | 10-02 | 10-27 |  |
 | 9 | [#4593](https://github.com/Azure/sdk-release-request/issues/4593) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 10 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
