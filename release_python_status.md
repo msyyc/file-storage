@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4627](https://github.com/Azure/sdk-release-request/issues/4627) | adana-popescu |  | ChenxiJiang333 | duplicated issue  <br> new comment. HoldOn | 10-09 | 10-27 |  |
+| 1 | [#4627](https://github.com/Azure/sdk-release-request/issues/4627) | adana-popescu |  | ChenxiJiang333 | duplicated issue  <br> | 10-09 | 10-27 |  |
 | 2 | [#4624](https://github.com/Azure/sdk-release-request/issues/4624) | michaelshikh07 | azure-mgmt-kusto | ChenxiJiang333 |  | 10-09 | 10-27 |  |
 | 3 | [#4620](https://github.com/Azure/sdk-release-request/issues/4620) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 |  | 10-08 | 10-27 |  |
 | 4 | [#4615](https://github.com/Azure/sdk-release-request/issues/4615) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 |  | 10-07 | 10-27 |  |
