@@ -33,5 +33,5 @@
 | 31 | 'Release for Container Service - 2023-08-02-preview'  |  | [#4596](https://github.com/Azure/sdk-release-request/issues/4596)  |  | [#4595](https://github.com/Azure/sdk-release-request/issues/4595)  | 09-29 | 10-27 |  |
 | 32 | 'Release for IOPS  - 2023-03-01-preview'  |  | [#4566](https://github.com/Azure/sdk-release-request/issues/4566)  |  |  | 09-25 | 10-27 |  |
 | 33 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
-| 34 | 'Release for IOPS  - package-flexibleserver-2023-03-01-preview'  |  |  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 | Hold on by JS/ |
+| 34 | 'Release for IOPS  - package-flexibleserver-2023-03-01-preview'  |  |  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
 | 35 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
