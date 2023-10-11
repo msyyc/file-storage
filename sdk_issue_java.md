@@ -1,12 +1,12 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#36954](https://github.com/Azure/azure-sdk-for-java/issues/36954)|[BUG] Could not retrieve vm by vmId(uuid) instead of resource id.|question, Compute - VM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao||2023-09-26|
-|2|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|ClientClosedRequest for Async requests|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|2|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|ClientClosedRequest for Async requests|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |3|[#36866](https://github.com/Azure/azure-sdk-for-java/issues/36866)|[QUERY] Possibility to define name for the node resource group for AKS|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2023-09-20|
 |4|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |5|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |6|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
-|7|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring|saragluna, weidongxu-microsoft, XiaofeiCao||2023-09-13|
+|7|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring|weidongxu-microsoft, XiaofeiCao, saragluna||2023-09-13|
 |8|[#36660](https://github.com/Azure/azure-sdk-for-java/issues/36660)|Switch `VirtualMachines.listByVirtualMachineScaleSet` implementation|Mgmt, Mgmt - Track 2, MQ|XiaofeiCao||2023-09-07|
 |9|[#36646](https://github.com/Azure/azure-sdk-for-java/issues/36646)|[BUG] mgmt, investigate why publish doc fails on storagemover and voiceservices|Mgmt, Docs, MQ|XiaofeiCao||2023-09-06|
 |10|[#36619](https://github.com/Azure/azure-sdk-for-java/issues/36619)|[BUG]VM generation error obtaining image through sdk|question, Compute - VM, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|XiaofeiCao||2023-09-01|
@@ -14,7 +14,7 @@
 |12|[#36596](https://github.com/Azure/azure-sdk-for-java/issues/36596)|[FEATURE REQ] mgmt, update Javadoc of premium SDK, so that it pass Java 17 |Mgmt, MQ|XiaofeiCao||2023-08-30|
 |13|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
 |14|[#36506](https://github.com/Azure/azure-sdk-for-java/issues/36506)|[BUG] Incorrect handle of NextLink URL for resourcemanager.compute.fluent.VirtualMachinesClient with filter of virtualMachineScaleSet|question, bug, Compute - VM, Service Attention, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|XiaofeiCao||2023-08-24|
-|15|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, weidongxu-microsoft, XiaofeiCao||2023-08-22|
+|15|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, XiaofeiCao, weidongxu-microsoft||2023-08-22|
 |16|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |17|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
 |18|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
