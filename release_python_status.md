@@ -18,7 +18,7 @@
 | 16 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-21 | 10-27 |  |
 | 17 | [#4539](https://github.com/Azure/sdk-release-request/issues/4539) | yashjain4 | azure-mgmt-resourcemover | ChenxiJiang333 |  | 09-21 | 10-27 |  |
 | 18 | [#4535](https://github.com/Azure/sdk-release-request/issues/4535) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-21 | 10-27 |  |
-| 19 | [#4529](https://github.com/Azure/sdk-release-request/issues/4529) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 09-20 | 10-27 |  |
+| 19 | [#4529](https://github.com/Azure/sdk-release-request/issues/4529) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 | new comment. | 09-20 | 10-27 |  |
 | 20 | [#4522](https://github.com/Azure/sdk-release-request/issues/4522) | minhsuanlee | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | FirstBeta | 09-13 | 10-27 |  |
 | 21 | [#4512](https://github.com/Azure/sdk-release-request/issues/4512) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 09-08 | 10-27 |  |
 | 22 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | duplicated issue  <br> FirstBeta HoldOn | 08-31 | 09-22 |  |
