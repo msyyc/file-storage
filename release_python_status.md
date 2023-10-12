@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | new issue. | 10-12 | 10-27 |  |
+| 1 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 2 | [#4630](https://github.com/Azure/sdk-release-request/issues/4630) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 3 | [#4627](https://github.com/Azure/sdk-release-request/issues/4627) | adana-popescu |  | ChenxiJiang333 | duplicated issue  <br> | 10-09 | 10-27 |  |
 | 4 | [#4624](https://github.com/Azure/sdk-release-request/issues/4624) | michaelshikh07 | azure-mgmt-kusto | ChenxiJiang333 |  | 10-09 | 10-27 |  |
