@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4646](https://github.com/Azure/sdk-release-request/issues/4646) | evelyn-ys | azure-mgmt-keyvault | ChenxiJiang333 | new issue. MultiAPI | 10-13 | 10-27 |  |
+| 1 | [#4646](https://github.com/Azure/sdk-release-request/issues/4646) | evelyn-ys | azure-mgmt-keyvault | ChenxiJiang333 |  | 10-13 | 10-27 |  |
 | 2 | [#4640](https://github.com/Azure/sdk-release-request/issues/4640) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 3 | [#4639](https://github.com/Azure/sdk-release-request/issues/4639) | abhayohri | azure-mgmt-resourcehealth | ChenxiJiang333 | new issue. MultiAPI | 10-12 | 10-27 |  |
 | 4 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 10-12 | 10-27 |  |
