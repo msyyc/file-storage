@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#37156](https://github.com/Azure/azure-sdk-for-java/issues/37156)|[FEATURE REQ] mgmt function app, convenience API for creating function app with `managedEnvironmentId`|Mgmt, Mgmt - Track 2, needs-triage|XiaofeiCao||2023-10-12|
-|2|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|ClientClosedRequest for Async requests|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao||2023-09-21|
+|2|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|ClientClosedRequest for Async requests|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
 |3|[#36866](https://github.com/Azure/azure-sdk-for-java/issues/36866)|[QUERY] Possibility to define name for the node resource group for AKS|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2023-09-20|
 |4|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |5|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
