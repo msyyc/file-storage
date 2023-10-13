@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#32457](https://github.com/Azure/azure-sdk-for-python/issues/32457)|azure.mgmt.billing > invoices.list_by_billing_account does not work for EA Customers|question, Billing, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-10-12|
+|1|[#32457](https://github.com/Azure/azure-sdk-for-python/issues/32457)|azure.mgmt.billing > invoices.list_by_billing_account does not work for EA Customers|question, Billing, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-12|
 |2|[#32321](https://github.com/Azure/azure-sdk-for-python/issues/32321)|Azure Data factory Pipelines, created using git version control reposatory(Azure DevOps Git), are not fetched by azure-mgmt-datafactory library|bug, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-03|
 |3|[#31724](https://github.com/Azure/azure-sdk-for-python/issues/31724)|azure-mgmt-core needs linting updates for pylint version 2.15.8|Mgmt, Azure.Mgmt.Core, pylint|msyyc|new comment|2023-08-20|
 |4|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
