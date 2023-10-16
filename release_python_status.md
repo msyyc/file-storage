@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 | Attention to inconsistent tag | 10-13 | 11-24 |  |
 | 2 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
-| 3 | [#4646](https://github.com/Azure/sdk-release-request/issues/4646) | evelyn-ys | azure-mgmt-keyvault | ChenxiJiang333 |  | 10-13 | 10-27 |  |
+| 3 | [#4646](https://github.com/Azure/sdk-release-request/issues/4646) | evelyn-ys | azure-mgmt-keyvault | ChenxiJiang333 | new comment. | 10-13 | 10-27 |  |
 | 4 | [#4640](https://github.com/Azure/sdk-release-request/issues/4640) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 5 | [#4639](https://github.com/Azure/sdk-release-request/issues/4639) | abhayohri | azure-mgmt-resourcehealth | ChenxiJiang333 | new issue. MultiAPI | 10-12 | 10-27 |  |
 | 6 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 10-12 | 10-27 |  |
