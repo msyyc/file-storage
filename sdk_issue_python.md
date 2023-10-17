@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#32486](https://github.com/Azure/azure-sdk-for-python/issues/32486)|ContainerApps - list job executions filter usage|question, Service Attention, Mgmt, customer-reported|msyyc||2023-10-13|
+|1|[#32486](https://github.com/Azure/azure-sdk-for-python/issues/32486)|ContainerApps - list job executions filter usage|question, Service Attention, Mgmt, customer-reported|msyyc|new comment|2023-10-13|
 |2|[#32457](https://github.com/Azure/azure-sdk-for-python/issues/32457)|azure.mgmt.billing > invoices.list_by_billing_account does not work for EA Customers|question, Billing, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-12|
 |3|[#32321](https://github.com/Azure/azure-sdk-for-python/issues/32321)|Azure Data factory Pipelines, created using git version control reposatory(Azure DevOps Git), are not fetched by azure-mgmt-datafactory library|bug, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-03|
 |4|[#31724](https://github.com/Azure/azure-sdk-for-python/issues/31724)|azure-mgmt-core needs linting updates for pylint version 2.15.8|Mgmt, Azure.Mgmt.Core, pylint|msyyc|new comment|2023-08-20|
@@ -12,5 +12,5 @@
 |10|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |11|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |12|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, lmazuel, iscai-msft|new comment|2021-04-05|
+|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
 |14|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
