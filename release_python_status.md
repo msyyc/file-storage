@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4663](https://github.com/Azure/sdk-release-request/issues/4663) | zman-ms |  | ChenxiJiang333 | duplicated issue  <br> new issue. | 10-18 | 11-24 |  |
 | 2 | [#4659](https://github.com/Azure/sdk-release-request/issues/4659) | ahnj12 | azure-mgmt-quota | ChenxiJiang333 | Attention to inconsistent tag | 10-17 | 11-24 |  |
-| 3 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 | Attention to inconsistent tag | 10-13 | 11-24 |  |
+| 3 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 | new comment. Attention to inconsistent tag | 10-13 | 11-24 |  |
 | 4 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
 | 5 | [#4640](https://github.com/Azure/sdk-release-request/issues/4640) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 6 | [#4639](https://github.com/Azure/sdk-release-request/issues/4639) | abhayohri | azure-mgmt-resourcehealth | ChenxiJiang333 |  | 10-12 | 10-27 |  |
