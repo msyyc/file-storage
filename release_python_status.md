@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4667](https://github.com/Azure/sdk-release-request/issues/4667) | FumingZhang |  | ChenxiJiang333 | duplicated issue  <br> | 10-20 |  | 0 |
-| 2 | [#4663](https://github.com/Azure/sdk-release-request/issues/4663) | zman-ms |  | ChenxiJiang333 | duplicated issue  <br> new issue. | 10-18 | 11-24 |  |
+| 1 | [#4667](https://github.com/Azure/sdk-release-request/issues/4667) | FumingZhang |  | ChenxiJiang333 | duplicated issue  <br> new issue. | 10-20 | 11-24 |  |
+| 2 | [#4663](https://github.com/Azure/sdk-release-request/issues/4663) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 10-18 | 11-24 |  |
 | 3 | [#4659](https://github.com/Azure/sdk-release-request/issues/4659) | ahnj12 | azure-mgmt-quota | ChenxiJiang333 | Attention to inconsistent tag | 10-17 | 11-24 |  |
 | 4 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 | new comment. Attention to inconsistent tag | 10-13 | 11-24 |  |
 | 5 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
@@ -19,7 +19,7 @@
 | 17 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 |  | 10-02 | 10-27 |  |
 | 18 | [#4593](https://github.com/Azure/sdk-release-request/issues/4593) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 19 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
-| 20 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-26 | 10-27 |  |
+| 20 | [#4580](https://github.com/Azure/sdk-release-request/issues/4580) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 | duplicated issue  <br> | 09-26 | 10-27 |  |
 | 21 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 09-26 | 10-27 |  |
 | 22 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 |  | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 23 | [#4561](https://github.com/Azure/sdk-release-request/issues/4561) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 09-25 | 10-27 |  |
