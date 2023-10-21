@@ -3,9 +3,9 @@
 |1|[#21777](https://github.com/Azure/azure-sdk-for-go/issues/21777)|Connectivity check returning a nonexistent `ConnectionStatus` constant|question, Service Attention, Mgmt, customer-reported, Network - Virtual Network, needs-team-attention|Alancere||2023-10-16|
 |2|[#21592](https://github.com/Azure/azure-sdk-for-go/issues/21592)|Add networkProfile data in hybrid compute machineProperties |question, Compute, Mgmt, customer-reported, needs-author-feedback, feature-request|Alancere||2023-09-20|
 |3|[#21572](https://github.com/Azure/azure-sdk-for-go/issues/21572)|Latency in create / update of recordset in DNS zone|question, Mgmt, customer-reported, needs-author-feedback|Alancere||2023-09-18|
-|4|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|tadelesh, Alancere|new issue|2023-09-06|
+|4|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|Alancere, tadelesh|new issue|2023-09-06|
 |5|[#21394](https://github.com/Azure/azure-sdk-for-go/issues/21394)|Unable to get the `name` field for `privateEndpointConnections` when we call from `azure-sdk-for-go` or through REST API.|question, Machine Learning, Mgmt, customer-reported, needs-team-attention, needs-team-triage|lirenhe||2023-08-18|
-|6|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|tadelesh, Alancere|new comment|2023-07-26|
+|6|[#21266](https://github.com/Azure/azure-sdk-for-go/issues/21266)|Use fake to do the mock test for mgmt. plane|Mgmt, test-enhancement|Alancere, tadelesh|new comment|2023-07-26|
 |7|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |8|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
 |9|[#19564](https://github.com/Azure/azure-sdk-for-go/issues/19564)|Unable to create private DNS zone for redis private endpoint|question, Network, Mgmt, customer-reported, needs-team-attention|Alancere||2022-11-14|
