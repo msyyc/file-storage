@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resourcemover,yashjain4,ChenxiJiang333,2023-09-21,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4539,1.1.0,True
+azure-mgmt-containerservicefleet,zman-ms,ChenxiJiang333,2023-09-26,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4580,1.0.0b3,
+azure-mgmt-signalr,bjqian,ChenxiJiang333,2023-10-07,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4612,2.0.0b2,
+azure-mgmt-containerservicefleet,zman-ms,ChenxiJiang333,2023-10-18,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4663,1.0.0b3,
 azure-mgmt-keyvault,evelyn-ys,ChenxiJiang333,2023-10-13,2023-10-19,https://github.com/Azure/sdk-release-request/issues/4646,10.3.0,True
 azure-mgmt-redhatopenshift,gouthamMN,ChenxiJiang333,2023-10-02,2023-10-07,https://github.com/Azure/sdk-release-request/issues/4597,1.4.0,True
 azure-mgmt-compute,grizzlytheodore,ChenxiJiang333,2023-09-27,2023-09-28,https://github.com/Azure/sdk-release-request/issues/4586,30.3.0,True
