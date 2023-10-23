@@ -9,7 +9,6 @@
 | 7 | [#4639](https://github.com/Azure/sdk-release-request/issues/4639) | abhayohri | azure-mgmt-resourcehealth | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 8 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 9 | [#4620](https://github.com/Azure/sdk-release-request/issues/4620) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 |  | 10-08 | 10-27 |  |
-| 10 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
 | 11 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 | new comment. HoldOn | 10-03 | 10-27 |  |
 | 12 | [#4587](https://github.com/Azure/sdk-release-request/issues/4587) | yifanz7 | azure-mgmt-storagemover | ChenxiJiang333 |  | 09-28 | 10-27 |  |
 | 13 | [#4574](https://github.com/Azure/sdk-release-request/issues/4574) | GargParth |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 09-26 | 10-27 |  |

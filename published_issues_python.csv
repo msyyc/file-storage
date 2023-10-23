@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-datadog,vikotha,ChenxiJiang333,2023-10-06,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4608,2.1.0,True
 azure-mgmt-desktopvirtualization,alec-baird,ChenxiJiang333,2023-09-28,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4593,1.1.0,True
 azure-mgmt-baremetalinfrastructure,alexandraavendano,ChenxiJiang333,2023-10-02,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4602,1.1.0b2,
 azure-mgmt-kusto,michaelshikh07,ChenxiJiang333,2023-10-09,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4624,3.3.0,True
