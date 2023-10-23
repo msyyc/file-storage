@@ -9,11 +9,9 @@
 | 7 | [#4640](https://github.com/Azure/sdk-release-request/issues/4640) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 8 | [#4639](https://github.com/Azure/sdk-release-request/issues/4639) | abhayohri | azure-mgmt-resourcehealth | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 9 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 10-12 | 10-27 |  |
-| 10 | [#4630](https://github.com/Azure/sdk-release-request/issues/4630) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 10-12 | 10-27 |  |
 | 11 | [#4627](https://github.com/Azure/sdk-release-request/issues/4627) | adana-popescu | azure-mgmt-maintenance | ChenxiJiang333 |  | 10-09 | 10-27 |  |
 | 12 | [#4624](https://github.com/Azure/sdk-release-request/issues/4624) | michaelshikh07 | azure-mgmt-kusto | ChenxiJiang333 |  | 10-09 | 10-27 |  |
 | 13 | [#4620](https://github.com/Azure/sdk-release-request/issues/4620) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 |  | 10-08 | 10-27 |  |
-| 14 | [#4615](https://github.com/Azure/sdk-release-request/issues/4615) | bjqian | azure-mgmt-webpubsub | ChenxiJiang333 |  | 10-07 | 10-27 |  |
 | 15 | [#4608](https://github.com/Azure/sdk-release-request/issues/4608) | vikotha | azure-mgmt-datadog | ChenxiJiang333 |  | 10-06 | 10-27 |  |
 | 16 | [#4605](https://github.com/Azure/sdk-release-request/issues/4605) | mattmsft | azure-mgmt-search | ChenxiJiang333 | new comment. HoldOn | 10-03 | 10-27 |  |
 | 17 | [#4602](https://github.com/Azure/sdk-release-request/issues/4602) | alexandraavendano | azure-mgmt-baremetalinfrastructure | ChenxiJiang333 |  | 10-02 | 10-27 |  |
