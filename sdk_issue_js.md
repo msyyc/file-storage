@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27484](https://github.com/Azure/azure-sdk-for-js/issues/27484)|[arm-servicebus] - RestError: getaddrinfo ENOTFOUND management.azure.com |question, customer-reported, Mgmt|kazrael2119, qiaozha|new comment|2023-10-20|
+|1|[#27484](https://github.com/Azure/azure-sdk-for-js/issues/27484)|[arm-servicebus] - RestError: getaddrinfo ENOTFOUND management.azure.com |question, customer-reported, Mgmt|kazrael2119, qiaozha||2023-10-20|
 |2|[#27136](https://github.com/Azure/azure-sdk-for-js/issues/27136)|[Feature Request] Add support for REST API's in `Azure API Connections` service.|question, customer-reported, Mgmt, App Services, Service Attention, Logic App, needs-team-attention|MaryGao, kazrael2119||2023-09-15|
 |3|[#27068](https://github.com/Azure/azure-sdk-for-js/issues/27068)|[@azure/arm-desktopvirtualization] Nullable Properties|question, customer-reported, Mgmt, Service Attention, ARM, needs-team-attention|kazrael2119, qiaozha||2023-09-11|
 |4|[#27053](https://github.com/Azure/azure-sdk-for-js/issues/27053)|[mgmt] breaking change detection tool bug|Mgmt|MaryGao|new comment|2023-09-08|
@@ -18,7 +18,7 @@
 |16|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha||2023-01-03|
 |17|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |18|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
-|19|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|xboxeer, qiaozha||2022-07-29|
+|19|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha, xboxeer||2022-07-29|
 |20|[#21116](https://github.com/Azure/azure-sdk-for-js/issues/21116)|webApps.beginInstallSiteExtensionAndWait always returns a 400 error due to missing request body in the API spec|bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-03-30|
 |21|[#20570](https://github.com/Azure/azure-sdk-for-js/issues/20570)|[swagger] HTTP 400 error when trying to deploy app service to custom location|Mgmt, App Services, Service Attention, needs-team-attention|MaryGao, qiaozha|new comment|2022-02-28|
 |22|[#20249](https://github.com/Azure/azure-sdk-for-js/issues/20249)|@azure/arm-network: The response for creating a virtualNetwork doesn't contain the resource in its response|question, customer-reported, Mgmt, Service Attention, Network, needs-team-attention|qiaozha|new comment|2022-02-08|
