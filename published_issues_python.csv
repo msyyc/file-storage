@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-netapp,audunn,ChenxiJiang333,2023-09-08,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4512,11.0.0,True
+azure-mgmt-netapp,audunn,ChenxiJiang333,2023-09-21,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4544,11.0.0,True
 azure-mgmt-datadog,vikotha,ChenxiJiang333,2023-10-06,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4608,2.1.0,True
 azure-mgmt-desktopvirtualization,alec-baird,ChenxiJiang333,2023-09-28,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4593,1.1.0,True
 azure-mgmt-baremetalinfrastructure,alexandraavendano,ChenxiJiang333,2023-10-02,2023-10-23,https://github.com/Azure/sdk-release-request/issues/4602,1.1.0b2,
