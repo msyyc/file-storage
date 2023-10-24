@@ -35,11 +35,10 @@
 | 33 | 'Release for Container Service - 2023-08-02-preview'  |  | [#4596](https://github.com/Azure/sdk-release-request/issues/4596)  |  | [#4595](https://github.com/Azure/sdk-release-request/issues/4595)  | 09-29 | 10-27 |  |
 | 34 | 'Release for Desktop Virtualization - 2023-09-05 Stable'  |  | [#4591](https://github.com/Azure/sdk-release-request/issues/4591)  |  | [#4594](https://github.com/Azure/sdk-release-request/issues/4594)  | 09-28 | 10-27 |  |
 | 35 | 'Release for AKS Fleet 2023-08-15-preview'  |  | [#4578](https://github.com/Azure/sdk-release-request/issues/4578)  |  | [#4579](https://github.com/Azure/sdk-release-request/issues/4579)  | 09-26 | 10-27 |  |
-| 36 | 'Release for IOPS  - 2023-03-01-preview'  |  | [#4566](https://github.com/Azure/sdk-release-request/issues/4566)  |  |  | 09-25 | 10-27 |  |
-| 37 | 'Release resource mover SDK for the latest api version 2023-08-01'  |  | [#4538](https://github.com/Azure/sdk-release-request/issues/4538)  |  | [#4537](https://github.com/Azure/sdk-release-request/issues/4537)  | 09-21 | 10-27 |  |
-| 38 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
-| 39 | 'Release for NetAppFiles 2023-05-01'  |  | [#4511](https://github.com/Azure/sdk-release-request/issues/4511)  |  | [#4513](https://github.com/Azure/sdk-release-request/issues/4513)  | 09-08 | 10-27 |  |
-| 40 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
-| 41 | 'Release for IOPS  - package-flexibleserver-2023-03-01-preview'  |  |  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
-| 42 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
-| 43 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  |  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/ |
+| 36 | 'Release resource mover SDK for the latest api version 2023-08-01'  |  | [#4538](https://github.com/Azure/sdk-release-request/issues/4538)  |  | [#4537](https://github.com/Azure/sdk-release-request/issues/4537)  | 09-21 | 10-27 |  |
+| 37 | 'Release for Policy Overrides in GO '  |  | [#4532](https://github.com/Azure/sdk-release-request/issues/4532)  |  |  | 09-20 | 10-27 |  |
+| 38 | 'Release for NetAppFiles 2023-05-01'  |  | [#4511](https://github.com/Azure/sdk-release-request/issues/4511)  |  | [#4513](https://github.com/Azure/sdk-release-request/issues/4513)  | 09-08 | 10-27 |  |
+| 39 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
+| 40 | 'Release for IOPS  - package-flexibleserver-2023-03-01-preview'  |  |  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
+| 41 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
+| 42 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  |  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/ |
