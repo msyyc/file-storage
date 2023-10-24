@@ -18,7 +18,7 @@
 | 16 | [#4618](https://github.com/Azure/sdk-release-request/issues/4618) | bjqian |  | MaryGao | multi readme link! close to release date.  | 10-07 | 10-27 | 2 |
 | 17 | [#4611](https://github.com/Azure/sdk-release-request/issues/4611) | bjqian |  | MaryGao | multi readme link! close to release date.  | 10-07 | 10-27 | 2 |
 | 18 | [#4609](https://github.com/Azure/sdk-release-request/issues/4609) | vikotha |  | MaryGao | new comment. close to release date.  | 10-06 | 10-27 | 2 |
-| 19 | [#4604](https://github.com/Azure/sdk-release-request/issues/4604) | mattmsft |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 10-03 | 10-27 | 2 |
+| 19 | [#4604](https://github.com/Azure/sdk-release-request/issues/4604) | mattmsft |  | MaryGao | close to release date.  Attention to inconsistent tag | 10-03 | 10-27 | 2 |
 | 20 | [#4599](https://github.com/Azure/sdk-release-request/issues/4599) | alexandraavendano |  | MaryGao | close to release date.  | 10-02 | 10-27 | 2 |
 | 21 | [#4595](https://github.com/Azure/sdk-release-request/issues/4595) | FumingZhang |  | qiaozha | close to release date.  | 09-29 | 10-27 | 2 |
 | 22 | [#4594](https://github.com/Azure/sdk-release-request/issues/4594) | alec-baird |  | qiaozha | close to release date.  | 09-28 | 10-27 | 2 |
