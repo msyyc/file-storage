@@ -22,18 +22,14 @@
 | 20 | [#4598](https://github.com/Azure/sdk-release-request/issues/4598) | gouthamMN |  | Alancere | new comment. close to release date.  | 10-02 | 10-27 | 2 |
 | 21 | [#4596](https://github.com/Azure/sdk-release-request/issues/4596) | FumingZhang |  | Alancere | close to release date.  | 09-29 | 10-27 | 2 |
 | 22 | [#4591](https://github.com/Azure/sdk-release-request/issues/4591) | alec-baird |  | Alancere | new comment. close to release date.  | 09-28 | 10-27 | 2 |
-| 23 | [#4588](https://github.com/Azure/sdk-release-request/issues/4588) | yifanz7 |  | Alancere | close to release date.  | 09-28 | 10-27 | 2 |
-| 24 | [#4578](https://github.com/Azure/sdk-release-request/issues/4578) | zman-ms |  | Alancere | close to release date.  | 09-26 | 10-27 | 2 |
-| 25 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | close to release date.  Attention to inconsistent tag | 09-26 | 10-27 | 2 |
-| 26 | [#4560](https://github.com/Azure/sdk-release-request/issues/4560) | yifanz7 |  | Alancere | new comment. close to release date.  | 09-25 | 10-27 | 2 |
-| 27 | [#4550](https://github.com/Azure/sdk-release-request/issues/4550) | AdrianSibajaRetana |  | Alancere | new comment. close to release date.  | 09-22 | 10-27 | 2 |
-| 28 | [#4546](https://github.com/Azure/sdk-release-request/issues/4546) | subbartt |  | Alancere | new comment. close to release date.  | 09-22 | 10-27 | 2 |
-| 29 | [#4541](https://github.com/Azure/sdk-release-request/issues/4541) | audunn |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 09-21 | 10-27 | 2 |
-| 30 | [#4538](https://github.com/Azure/sdk-release-request/issues/4538) | yashjain4 |  | Alancere | close to release date.  | 09-21 | 10-27 | 2 |
-| 31 | [#4533](https://github.com/Azure/sdk-release-request/issues/4533) | FumingZhang |  | Alancere | close to release date.  | 09-21 | 10-27 | 2 |
-| 32 | [#4532](https://github.com/Azure/sdk-release-request/issues/4532) | jodi-boone |  | Alancere | new comment. close to release date.  | 09-20 | 10-27 | 2 |
-| 33 | [#4530](https://github.com/Azure/sdk-release-request/issues/4530) | sahilpwr |  | Alancere | new comment. close to release date.  | 09-20 | 10-27 | 2 |
-| 34 | [#4521](https://github.com/Azure/sdk-release-request/issues/4521) | minhsuanlee |  | Alancere | close to release date.  | 09-13 | 10-27 | 2 |
-| 35 | [#4511](https://github.com/Azure/sdk-release-request/issues/4511) | audunn |  | Alancere | new comment. close to release date.  | 09-08 | 10-27 | 2 |
-| 36 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. | 08-31 | 09-22 |  |
-| 37 | [#4457](https://github.com/Azure/sdk-release-request/issues/4457) | SushmithaVReddy |  | Alancere | Attention to inconsistent tag | 08-23 | 09-22 |  |
+| 23 | [#4578](https://github.com/Azure/sdk-release-request/issues/4578) | zman-ms |  | Alancere | close to release date.  | 09-26 | 10-27 | 2 |
+| 24 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | close to release date.  Attention to inconsistent tag | 09-26 | 10-27 | 2 |
+| 25 | [#4550](https://github.com/Azure/sdk-release-request/issues/4550) | AdrianSibajaRetana |  | Alancere | new comment. close to release date.  | 09-22 | 10-27 | 2 |
+| 26 | [#4541](https://github.com/Azure/sdk-release-request/issues/4541) | audunn |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 09-21 | 10-27 | 2 |
+| 27 | [#4533](https://github.com/Azure/sdk-release-request/issues/4533) | FumingZhang |  | Alancere | close to release date.  | 09-21 | 10-27 | 2 |
+| 28 | [#4532](https://github.com/Azure/sdk-release-request/issues/4532) | jodi-boone |  | Alancere | new comment. close to release date.  | 09-20 | 10-27 | 2 |
+| 29 | [#4530](https://github.com/Azure/sdk-release-request/issues/4530) | sahilpwr |  | Alancere | new comment. close to release date.  | 09-20 | 10-27 | 2 |
+| 30 | [#4521](https://github.com/Azure/sdk-release-request/issues/4521) | minhsuanlee |  | Alancere | close to release date.  | 09-13 | 10-27 | 2 |
+| 31 | [#4511](https://github.com/Azure/sdk-release-request/issues/4511) | audunn |  | Alancere | new comment. close to release date.  | 09-08 | 10-27 | 2 |
+| 32 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. | 08-31 | 09-22 |  |
+| 33 | [#4457](https://github.com/Azure/sdk-release-request/issues/4457) | SushmithaVReddy |  | Alancere | Attention to inconsistent tag | 08-23 | 09-22 |  |
