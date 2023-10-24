@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,FumingZhang,ChenxiJiang333,2023-09-21,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4535,27.0.0,True
+azure-mgmt-containerservice,FumingZhang,ChenxiJiang333,2023-10-20,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4667,27.0.0,True
 azure-mgmt-recoveryservicesdatareplication,minhsuanlee,ChenxiJiang333,2023-09-13,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4522,1.0.0b1,
 azure-mgmt-selfhelp,sahilpwr,ChenxiJiang333,2023-09-20,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4529,2.0.0b1,
 azure-mgmt-elasticsan,yifanz7,ChenxiJiang333,2023-09-25,2023-10-24,https://github.com/Azure/sdk-release-request/issues/4561,1.0.0b3,
