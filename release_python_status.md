@@ -9,7 +9,7 @@
 | 7 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 | new comment. Attention to inconsistent tag | 10-13 | 11-24 |  |
 | 8 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
 | 9 | [#4632](https://github.com/Azure/sdk-release-request/issues/4632) | pathuang-sia | azure-mgmt-azurestackhci | ChenxiJiang333 | close to release date.  | 10-12 | 10-27 | 1 |
-| 11 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 | azure-mgmt-cosmosdb | ChenxiJiang333 | close to release date.  Attention to inconsistent tag | 09-26 | 10-27 | 1 |
-| 13 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date.  Attention to inconsistent tag | 09-21 | 10-27 | 1 |
-| 14 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | FirstBeta HoldOn | 08-31 | 09-22 |  |
-| 15 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI HoldOn | 08-23 | 09-22 |  |
+| 10 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 | azure-mgmt-cosmosdb | ChenxiJiang333 | close to release date.  Attention to inconsistent tag | 09-26 | 10-27 | 1 |
+| 11 | [#4544](https://github.com/Azure/sdk-release-request/issues/4544) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date.  Attention to inconsistent tag | 09-21 | 10-27 | 1 |
+| 12 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | FirstBeta HoldOn | 08-31 | 09-22 |  |
+| 13 | [#4459](https://github.com/Azure/sdk-release-request/issues/4459) | SushmithaVReddy | azure-mgmt-web | ChenxiJiang333 | MultiAPI HoldOn | 08-23 | 09-22 |  |
