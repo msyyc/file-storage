@@ -17,26 +17,26 @@
 | 15 | 'Release for adding Dapr Config for Functions on ACA'  | [#4459](https://github.com/Azure/sdk-release-request/issues/4459)  | [#4457](https://github.com/Azure/sdk-release-request/issues/4457)  | [#4460](https://github.com/Azure/sdk-release-request/issues/4460)  | [#4458](https://github.com/Azure/sdk-release-request/issues/4458)  | 08-23 | 09-22 | Hold on by JS/Java/Go/Python/ |
 | 16 | 'Release for Keyvault 2023-07-01'  |  |  | [#4645](https://github.com/Azure/sdk-release-request/issues/4645)  | [#4644](https://github.com/Azure/sdk-release-request/issues/4644)  | 10-13 | 10-27 |  |
 | 17 | 'Release for Resource Health- 2023-10-01'  |  |  | [#4636](https://github.com/Azure/sdk-release-request/issues/4636)  | [#4638](https://github.com/Azure/sdk-release-request/issues/4638)  | 10-12 | 10-27 |  |
-| 18 | 'Release for Azure Cdn - 2023-05-01'  |  | [#4622](https://github.com/Azure/sdk-release-request/issues/4622)  | [#4621](https://github.com/Azure/sdk-release-request/issues/4621)  | [#4619](https://github.com/Azure/sdk-release-request/issues/4619)  | 10-08 | 10-27 |  |
+| 18 | 'Release for Azure Cdn - 2023-05-01'  |  |  | [#4621](https://github.com/Azure/sdk-release-request/issues/4621)  | [#4619](https://github.com/Azure/sdk-release-request/issues/4619)  | 10-08 | 10-27 |  |
 | 19 | 'Release for Azure Web PubSub 2023-08-01-preview'  |  |  | [#4616](https://github.com/Azure/sdk-release-request/issues/4616)  | [#4618](https://github.com/Azure/sdk-release-request/issues/4618)  | 10-07 | 10-27 |  |
 | 20 | 'Release for Azure Cosmos DB 09-15'  |  | [#4550](https://github.com/Azure/sdk-release-request/issues/4550)  | [#4553](https://github.com/Azure/sdk-release-request/issues/4553)  | [#4552](https://github.com/Azure/sdk-release-request/issues/4552)  | 09-22 | 10-27 | Hold on by JS/Java/ |
 | 21 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  | [#4599](https://github.com/Azure/sdk-release-request/issues/4599)  | 10-02 | 10-27 | Hold on by JS/ |
-| 22 | 'Release for Container Service - 2023-08-02-preview'  |  | [#4596](https://github.com/Azure/sdk-release-request/issues/4596)  |  | [#4595](https://github.com/Azure/sdk-release-request/issues/4595)  | 09-29 | 10-27 |  |
-| 23 | 'Release for NetAppFiles 2023-05-01'  |  | [#4511](https://github.com/Azure/sdk-release-request/issues/4511)  |  | [#4513](https://github.com/Azure/sdk-release-request/issues/4513)  | 09-08 | 10-27 |  |
-| 24 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
-| 25 | 'Release for Microsoft.DevCenter - 2023-10-01-preview'  |  |  |  | [#4641](https://github.com/Azure/sdk-release-request/issues/4641)  | 10-12 | 10-27 |  |
-| 26 | 'Release for Microsoft support RP - 2022-09-01-preview'  |  |  |  | [#4631](https://github.com/Azure/sdk-release-request/issues/4631)  | 10-12 | 10-27 |  |
-| 27 | 'Release for Kusto 2023-08-15'  |  |  |  | [#4626](https://github.com/Azure/sdk-release-request/issues/4626)  | 10-09 | 10-27 |  |
-| 28 | 'Release for Azure SignalR Service 2023-08-01-preview'  |  |  |  | [#4611](https://github.com/Azure/sdk-release-request/issues/4611)  | 10-07 | 10-27 |  |
-| 29 | 'Release for Microsoft.Datadog 2023-01-01'  |  |  |  | [#4609](https://github.com/Azure/sdk-release-request/issues/4609)  | 10-06 | 10-27 |  |
-| 30 | 'Release for Desktop Virtualization - 2023-09-05 Stable'  |  |  |  | [#4594](https://github.com/Azure/sdk-release-request/issues/4594)  | 09-28 | 10-27 |  |
-| 31 | 'Release for StorageMover 2023-10-01'  |  |  |  | [#4589](https://github.com/Azure/sdk-release-request/issues/4589)  | 09-28 | 10-27 |  |
-| 32 | 'Release for AKS Fleet 2023-08-15-preview'  |  |  |  | [#4579](https://github.com/Azure/sdk-release-request/issues/4579)  | 09-26 | 10-27 |  |
-| 33 | 'Release for IOPS  - package-flexibleserver-2023-03-01-preview'  |  |  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
-| 34 | 'Release for ElasticSan 2023-01-01'  |  |  |  | [#4558](https://github.com/Azure/sdk-release-request/issues/4558)  | 09-25 | 10-27 |  |
-| 35 | 'Release resource mover SDK for the latest api version 2023-08-01'  |  |  |  | [#4537](https://github.com/Azure/sdk-release-request/issues/4537)  | 09-21 | 10-27 |  |
-| 36 | 'Release for Container Service - 2023-08-01'  |  |  |  | [#4534](https://github.com/Azure/sdk-release-request/issues/4534)  | 09-21 | 10-27 |  |
-| 37 | 'Release for Microsoft.Help 2023-09-01-preview'  |  |  |  | [#4528](https://github.com/Azure/sdk-release-request/issues/4528)  | 09-20 | 10-27 |  |
-| 38 | 'Release for RecoveryServicesDataReplication - 2021-02-16-preview'  |  |  |  | [#4519](https://github.com/Azure/sdk-release-request/issues/4519)  | 09-13 | 10-27 |  |
-| 39 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
+| 22 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
+| 23 | 'Release for Microsoft.DevCenter - 2023-10-01-preview'  |  |  |  | [#4641](https://github.com/Azure/sdk-release-request/issues/4641)  | 10-12 | 10-27 |  |
+| 24 | 'Release for Microsoft support RP - 2022-09-01-preview'  |  |  |  | [#4631](https://github.com/Azure/sdk-release-request/issues/4631)  | 10-12 | 10-27 |  |
+| 25 | 'Release for Kusto 2023-08-15'  |  |  |  | [#4626](https://github.com/Azure/sdk-release-request/issues/4626)  | 10-09 | 10-27 |  |
+| 26 | 'Release for Azure SignalR Service 2023-08-01-preview'  |  |  |  | [#4611](https://github.com/Azure/sdk-release-request/issues/4611)  | 10-07 | 10-27 |  |
+| 27 | 'Release for Microsoft.Datadog 2023-01-01'  |  |  |  | [#4609](https://github.com/Azure/sdk-release-request/issues/4609)  | 10-06 | 10-27 |  |
+| 28 | 'Release for Container Service - 2023-08-02-preview'  |  |  |  | [#4595](https://github.com/Azure/sdk-release-request/issues/4595)  | 09-29 | 10-27 |  |
+| 29 | 'Release for Desktop Virtualization - 2023-09-05 Stable'  |  |  |  | [#4594](https://github.com/Azure/sdk-release-request/issues/4594)  | 09-28 | 10-27 |  |
+| 30 | 'Release for StorageMover 2023-10-01'  |  |  |  | [#4589](https://github.com/Azure/sdk-release-request/issues/4589)  | 09-28 | 10-27 |  |
+| 31 | 'Release for AKS Fleet 2023-08-15-preview'  |  |  |  | [#4579](https://github.com/Azure/sdk-release-request/issues/4579)  | 09-26 | 10-27 |  |
+| 32 | 'Release for IOPS  - package-flexibleserver-2023-03-01-preview'  |  |  |  | [#4568](https://github.com/Azure/sdk-release-request/issues/4568)  | 09-25 | 10-27 |  |
+| 33 | 'Release for ElasticSan 2023-01-01'  |  |  |  | [#4558](https://github.com/Azure/sdk-release-request/issues/4558)  | 09-25 | 10-27 |  |
+| 34 | 'Release resource mover SDK for the latest api version 2023-08-01'  |  |  |  | [#4537](https://github.com/Azure/sdk-release-request/issues/4537)  | 09-21 | 10-27 |  |
+| 35 | 'Release for Container Service - 2023-08-01'  |  |  |  | [#4534](https://github.com/Azure/sdk-release-request/issues/4534)  | 09-21 | 10-27 |  |
+| 36 | 'Release for Microsoft.Help 2023-09-01-preview'  |  |  |  | [#4528](https://github.com/Azure/sdk-release-request/issues/4528)  | 09-20 | 10-27 |  |
+| 37 | 'Release for RecoveryServicesDataReplication - 2021-02-16-preview'  |  |  |  | [#4519](https://github.com/Azure/sdk-release-request/issues/4519)  | 09-13 | 10-27 |  |
+| 38 | 'Release for preview/beta SDK for Playwright testing version 2023-10-01-preview'  |  |  |  | [#4518](https://github.com/Azure/sdk-release-request/issues/4518)  | 09-13 | 10-27 |  |
+| 39 | 'Release for NetAppFiles 2023-05-01'  |  |  |  | [#4513](https://github.com/Azure/sdk-release-request/issues/4513)  | 09-08 | 10-27 |  |
 | 40 | 'Release for Microsoft.AzureStackHCI 2022-12-15-preview'  |  |  |  | [#4352](https://github.com/Azure/sdk-release-request/issues/4352)  | 07-20 | 09-22 | Hold on by JS/ |
