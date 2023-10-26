@@ -10,14 +10,7 @@
 | 8 | [#4652](https://github.com/Azure/sdk-release-request/issues/4652) | pjw711 |  | qiaozha | new comment. Attention to inconsistent tag | 10-13 | 11-24 |  |
 | 9 | [#4650](https://github.com/Azure/sdk-release-request/issues/4650) | JeetendraJoshi-MSFT |  | qiaozha | new issue. | 10-13 | 11-24 |  |
 | 10 | [#4634](https://github.com/Azure/sdk-release-request/issues/4634) | pathuang-sia |  | qiaozha | close to release date.  | 10-12 | 10-27 | 0 |
-| 11 | [#4619](https://github.com/Azure/sdk-release-request/issues/4619) | t-bzhan |  | MaryGao | close to release date.  | 10-08 | 10-27 | 0 |
-| 12 | [#4618](https://github.com/Azure/sdk-release-request/issues/4618) | bjqian |  | MaryGao | multi readme link! close to release date.  | 10-07 | 10-27 | 0 |
-| 13 | [#4609](https://github.com/Azure/sdk-release-request/issues/4609) | vikotha |  | MaryGao | close to release date.  | 10-06 | 10-27 | 0 |
-| 14 | [#4599](https://github.com/Azure/sdk-release-request/issues/4599) | alexandraavendano |  | MaryGao | close to release date.  | 10-02 | 10-27 | 0 |
-| 15 | [#4572](https://github.com/Azure/sdk-release-request/issues/4572) | niteshvijay1995 |  | qiaozha | close to release date.  Attention to inconsistent tag | 09-26 | 10-27 | 0 |
-| 16 | [#4552](https://github.com/Azure/sdk-release-request/issues/4552) | AdrianSibajaRetana |  | MaryGao | close to release date.  Attention to inconsistent tag | 09-22 | 10-27 | 0 |
-| 17 | [#4549](https://github.com/Azure/sdk-release-request/issues/4549) | subbartt |  | MaryGao | close to release date.  | 09-22 | 10-27 | 0 |
-| 18 | [#4534](https://github.com/Azure/sdk-release-request/issues/4534) | FumingZhang |  | MaryGao | close to release date.  | 09-21 | 10-27 | 0 |
-| 19 | [#4528](https://github.com/Azure/sdk-release-request/issues/4528) | sahilpwr |  | MaryGao | close to release date.  | 09-20 | 10-27 | 0 |
-| 20 | [#4513](https://github.com/Azure/sdk-release-request/issues/4513) | audunn |  | MaryGao | close to release date.  | 09-08 | 10-27 | 0 |
-| 21 | [#4484](https://github.com/Azure/sdk-release-request/issues/4484) | aneesh-ponneth |  | qiaozha |  | 08-31 | 09-22 |  |
+| 11 | [#4599](https://github.com/Azure/sdk-release-request/issues/4599) | alexandraavendano |  | MaryGao | close to release date.  | 10-02 | 10-27 | 0 |
+| 12 | [#4572](https://github.com/Azure/sdk-release-request/issues/4572) | niteshvijay1995 |  | qiaozha | close to release date.  Attention to inconsistent tag | 09-26 | 10-27 | 0 |
+| 13 | [#4552](https://github.com/Azure/sdk-release-request/issues/4552) | AdrianSibajaRetana |  | MaryGao | close to release date.  Attention to inconsistent tag | 09-22 | 10-27 | 0 |
+| 14 | [#4484](https://github.com/Azure/sdk-release-request/issues/4484) | aneesh-ponneth |  | qiaozha |  | 08-31 | 09-22 |  |
