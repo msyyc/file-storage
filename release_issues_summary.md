@@ -19,7 +19,7 @@
 | 17 | 'Release for Microsoft.Search 2023-11-01'  |  |  | [#4603](https://github.com/Azure/sdk-release-request/issues/4603)  |  | 10-03 |  |  |
 | 18 | 'Release for Azure Cosmos DB 09-15'  |  | [#4550](https://github.com/Azure/sdk-release-request/issues/4550)  | [#4553](https://github.com/Azure/sdk-release-request/issues/4553)  | [#4552](https://github.com/Azure/sdk-release-request/issues/4552)  | 09-22 | 10-27 | Hold on by JS/Java/ |
 | 19 | 'Connected VMware 2023-10-01'  |  |  | [#4548](https://github.com/Azure/sdk-release-request/issues/4548)  | [#4549](https://github.com/Azure/sdk-release-request/issues/4549)  | 09-22 | 10-27 |  |
-| 20 | 'Release for NetAppFiles 2022-11-01-preview'  |  | [#4541](https://github.com/Azure/sdk-release-request/issues/4541)  | [#4543](https://github.com/Azure/sdk-release-request/issues/4543)  |  | 09-21 | 10-27 |  |
+| 20 | 'Release for NetAppFiles 2022-11-01-preview'  |  |  | [#4543](https://github.com/Azure/sdk-release-request/issues/4543)  |  | 09-21 | 10-27 |  |
 | 21 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  | [#4599](https://github.com/Azure/sdk-release-request/issues/4599)  | 10-02 | 10-27 | Hold on by JS/ |
 | 22 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
 | 23 | 'Release for Microsoft.Datadog 2023-01-01'  |  |  |  | [#4609](https://github.com/Azure/sdk-release-request/issues/4609)  | 10-06 | 10-27 |  |
