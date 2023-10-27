@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#21815](https://github.com/Azure/azure-sdk-for-go/issues/21815)|Missing `publicNetworkAccess` field on Azure SQL Server sdk api response  #21573|question, SQL, Mgmt, customer-reported, needs-team-attention|Alancere||2023-10-22|
 |2|[#21808](https://github.com/Azure/azure-sdk-for-go/issues/21808)|[Recovery Services] Vague error messages when creating protected item|question, Recovery Services Backup, Mgmt, customer-reported, needs-team-attention|lirenhe||2023-10-19|
-|3|[#21796](https://github.com/Azure/azure-sdk-for-go/issues/21796)|armmonitoring MetricsClient.ListAtSubscriptionScopePost report unexpected error.|question, Monitor, Mgmt, customer-reported, needs-team-attention|Alancere|new comment|2023-10-18|
+|3|[#21796](https://github.com/Azure/azure-sdk-for-go/issues/21796)|armmonitoring MetricsClient.ListAtSubscriptionScopePost report unexpected error.|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2023-10-18|
 |4|[#21777](https://github.com/Azure/azure-sdk-for-go/issues/21777)|Connectivity check returning a nonexistent `ConnectionStatus` constant|question, Service Attention, Mgmt, customer-reported, Network - Virtual Network, needs-team-attention|Alancere||2023-10-16|
 |5|[#21592](https://github.com/Azure/azure-sdk-for-go/issues/21592)|Add networkProfile data in hybrid compute machineProperties |question, Compute, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new comment|2023-09-20|
 |6|[#21572](https://github.com/Azure/azure-sdk-for-go/issues/21572)|Latency in create / update of recordset in DNS zone|question, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2023-09-18|
