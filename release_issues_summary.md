@@ -19,4 +19,3 @@
 | 17 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  | [#4599](https://github.com/Azure/sdk-release-request/issues/4599)  | 10-02 | 10-27 | Hold on by JS/Go/ |
 | 18 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
 | 19 | 'Release for AKS Fleet 2023-10-15 API'  |  |  |  | [#4662](https://github.com/Azure/sdk-release-request/issues/4662)  | 10-18 | 11-24 |  |
-| 20 | 'Release for Microsoft.AzureStackHCI 2023-09-01-preview'  |  |  |  | [#4634](https://github.com/Azure/sdk-release-request/issues/4634)  | 10-12 | 10-27 |  |
