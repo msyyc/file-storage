@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#32791](https://github.com/Azure/azure-sdk-for-python/issues/32791)|Logic Management Client workflow_runs.list operation mishandles `top` parameter|question, Logic App, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-10-27|
-|2|[#32772](https://github.com/Azure/azure-sdk-for-python/issues/32772)|Run custom startup scripts when provisioning an Azure VM via python SDK|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-10-26|
+|2|[#32772](https://github.com/Azure/azure-sdk-for-python/issues/32772)|Run custom startup scripts when provisioning an Azure VM via python SDK|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-26|
 |3|[#32730](https://github.com/Azure/azure-sdk-for-python/issues/32730)|Issue in Setting CMK encryption to azure net app volume|question, Client, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-25|
 |4|[#32639](https://github.com/Azure/azure-sdk-for-python/issues/32639)|azure-mgmt-core needs linting updates for pylint version 2.15.8|Mgmt, Azure.Mgmt.Core, pylint|msyyc|new issue|2023-10-22|
 |5|[#32457](https://github.com/Azure/azure-sdk-for-python/issues/32457)|azure.mgmt.billing > invoices.list_by_billing_account does not work for EA Customers|question, Billing, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2023-10-12|
