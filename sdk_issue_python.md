@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#32856](https://github.com/Azure/azure-sdk-for-python/issues/32856)|NoRegisteredProviderFound for creating diagnostic setting|bug, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, lzchen|new comment|2023-10-30|
+|1|[#32856](https://github.com/Azure/azure-sdk-for-python/issues/32856)|NoRegisteredProviderFound for creating diagnostic setting|bug, Service Attention, Mgmt, customer-reported, needs-team-attention|lzchen, msyyc|new comment|2023-10-30|
 |2|[#32791](https://github.com/Azure/azure-sdk-for-python/issues/32791)|Logic Management Client workflow_runs.list operation mishandles `top` parameter|question, Logic App, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2023-10-27|
 |3|[#32772](https://github.com/Azure/azure-sdk-for-python/issues/32772)|Run custom startup scripts when provisioning an Azure VM via python SDK|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-26|
 |4|[#32730](https://github.com/Azure/azure-sdk-for-python/issues/32730)|Issue in Setting CMK encryption to azure net app volume|question, Client, Mgmt, customer-reported, needs-team-attention|msyyc||2023-10-25|
@@ -14,5 +14,5 @@
 |12|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |13|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |14|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
+|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
 |16|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
