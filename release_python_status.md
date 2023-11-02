@@ -9,7 +9,7 @@
 | 7 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA | 10-23 | 11-24 |  |
 | 8 | [#4669](https://github.com/Azure/sdk-release-request/issues/4669) | osid29 | azure-mgmt-paloaltonetworksngfw | ChenxiJiang333 |  | 10-23 | 11-24 |  |
 | 9 | [#4667](https://github.com/Azure/sdk-release-request/issues/4667) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-20 | 11-24 |  |
-| 10 | [#4659](https://github.com/Azure/sdk-release-request/issues/4659) | ahnj12 | azure-mgmt-quota | ChenxiJiang333 | new comment. | 10-17 | 11-24 |  |
+| 10 | [#4659](https://github.com/Azure/sdk-release-request/issues/4659) | ahnj12 | azure-mgmt-quota | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 10-17 | 11-24 |  |
 | 11 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
 | 12 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
 | 13 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 | azure-mgmt-cosmosdb | ChenxiJiang333 | Attention to inconsistent tag | 09-26 | 10-27 |  |
