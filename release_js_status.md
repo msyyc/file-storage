@@ -7,7 +7,7 @@
 | 5 | [#4691](https://github.com/Azure/sdk-release-request/issues/4691) | tianxin-ms |  | qiaozha | new issue. | 10-27 | 11-24 |  |
 | 6 | [#4687](https://github.com/Azure/sdk-release-request/issues/4687) | MasterRyd3l |  | qiaozha | new issue. | 10-26 | 11-24 |  |
 | 7 | [#4684](https://github.com/Azure/sdk-release-request/issues/4684) | FumingZhang |  | qiaozha | new issue. | 10-26 | 11-24 |  |
-| 8 | [#4681](https://github.com/Azure/sdk-release-request/issues/4681) | DevArjun23 |  | qiaozha | new comment. | 10-24 | 11-24 |  |
+| 8 | [#4681](https://github.com/Azure/sdk-release-request/issues/4681) | DevArjun23 |  | qiaozha |  | 10-24 | 11-24 |  |
 | 9 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha |  | 10-23 | 11-24 |  |
 | 10 | [#4673](https://github.com/Azure/sdk-release-request/issues/4673) | tadelesh |  | qiaozha |  | 10-23 | 11-24 |  |
 | 11 | [#4672](https://github.com/Azure/sdk-release-request/issues/4672) | osid29 |  | qiaozha |  | 10-23 | 11-24 |  |

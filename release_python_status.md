@@ -6,7 +6,7 @@
 | 4 | [#4696](https://github.com/Azure/sdk-release-request/issues/4696) | DeepikaNMS | azure-mgmt-confluent | ChenxiJiang333 | new comment. | 10-30 | 11-24 |  |
 | 5 | [#4692](https://github.com/Azure/sdk-release-request/issues/4692) | tianxin-ms | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 10-27 | 11-24 |  |
 | 6 | [#4689](https://github.com/Azure/sdk-release-request/issues/4689) | MasterRyd3l | azure-mgmt-chaos | ChenxiJiang333 |  | 10-26 | 11-24 |  |
-| 7 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | new issue. FirstBeta HoldOn | 10-24 | 11-24 |  |
+| 7 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | FirstBeta HoldOn | 10-24 | 11-24 |  |
 | 8 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA | 10-23 | 11-24 |  |
 | 9 | [#4669](https://github.com/Azure/sdk-release-request/issues/4669) | osid29 | azure-mgmt-paloaltonetworksngfw | ChenxiJiang333 |  | 10-23 | 11-24 |  |
 | 10 | [#4667](https://github.com/Azure/sdk-release-request/issues/4667) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-20 | 11-24 |  |
