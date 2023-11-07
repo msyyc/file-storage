@@ -9,7 +9,7 @@
 | 7 | [#4701](https://github.com/Azure/sdk-release-request/issues/4701) | ambrahma |  | MaryGao | new comment. Attention to inconsistent tag | 10-30 | 11-24 |  |
 | 8 | [#4697](https://github.com/Azure/sdk-release-request/issues/4697) | DeepikaNMS |  | MaryGao | Attention to inconsistent tag | 10-30 | 11-24 |  |
 | 9 | [#4691](https://github.com/Azure/sdk-release-request/issues/4691) | tianxin-ms |  | qiaozha | new issue. | 10-27 | 11-24 |  |
-| 10 | [#4687](https://github.com/Azure/sdk-release-request/issues/4687) | MasterRyd3l |  | qiaozha | new issue. | 10-26 | 11-24 |  |
+| 10 | [#4687](https://github.com/Azure/sdk-release-request/issues/4687) | MasterRyd3l |  | qiaozha |  | 10-26 | 11-24 |  |
 | 11 | [#4684](https://github.com/Azure/sdk-release-request/issues/4684) | FumingZhang |  | qiaozha |  | 10-26 | 11-24 |  |
 | 12 | [#4681](https://github.com/Azure/sdk-release-request/issues/4681) | DevArjun23 |  | qiaozha |  | 10-24 | 11-24 |  |
 | 13 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha |  | 10-23 | 11-24 |  |
@@ -18,7 +18,7 @@
 | 16 | [#4668](https://github.com/Azure/sdk-release-request/issues/4668) | FumingZhang |  | MaryGao |  | 10-20 | 11-24 |  |
 | 17 | [#4662](https://github.com/Azure/sdk-release-request/issues/4662) | zman-ms |  | MaryGao |  | 10-18 | 11-24 |  |
 | 18 | [#4660](https://github.com/Azure/sdk-release-request/issues/4660) | ahnj12 |  | MaryGao |  | 10-17 | 11-24 |  |
-| 19 | [#4652](https://github.com/Azure/sdk-release-request/issues/4652) | pjw711 |  | qiaozha | new comment. | 10-13 | 11-24 |  |
+| 19 | [#4652](https://github.com/Azure/sdk-release-request/issues/4652) | pjw711 |  | qiaozha |  | 10-13 | 11-24 |  |
 | 20 | [#4650](https://github.com/Azure/sdk-release-request/issues/4650) | JeetendraJoshi-MSFT |  | qiaozha |  | 10-13 | 11-24 |  |
 | 21 | [#4599](https://github.com/Azure/sdk-release-request/issues/4599) | alexandraavendano |  | MaryGao |  | 10-02 | 10-27 |  |
 | 22 | [#4572](https://github.com/Azure/sdk-release-request/issues/4572) | niteshvijay1995 |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-27 |  |

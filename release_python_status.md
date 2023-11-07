@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4727](https://github.com/Azure/sdk-release-request/issues/4727) | Alancere | azure-mgmt-hybridcompute | ChenxiJiang333 | new issue. | 11-07 | 11-24 |  |
+| 1 | [#4727](https://github.com/Azure/sdk-release-request/issues/4727) | Alancere | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 11-07 | 11-24 |  |
 | 2 | [#4722](https://github.com/Azure/sdk-release-request/issues/4722) | limingu | azure-mgmt-nginx | ChenxiJiang333 |  | 11-06 | 11-24 |  |
 | 3 | [#4718](https://github.com/Azure/sdk-release-request/issues/4718) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 11-06 | 11-24 |  |
 | 4 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | new issue. MultiAPI | 11-06 | 11-24 |  |
 | 5 | [#4708](https://github.com/Azure/sdk-release-request/issues/4708) | raymondluo1 | azure-mgmt-containerregistry | ChenxiJiang333 |  | 11-03 | 11-24 |  |
 | 6 | [#4703](https://github.com/Azure/sdk-release-request/issues/4703) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 10-31 | 11-24 |  |
-| 7 | [#4699](https://github.com/Azure/sdk-release-request/issues/4699) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | new comment. | 10-30 | 11-24 |  |
+| 7 | [#4699](https://github.com/Azure/sdk-release-request/issues/4699) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 10-30 | 11-24 |  |
 | 8 | [#4696](https://github.com/Azure/sdk-release-request/issues/4696) | DeepikaNMS | azure-mgmt-confluent | ChenxiJiang333 | new comment. | 10-30 | 11-24 |  |
 | 9 | [#4692](https://github.com/Azure/sdk-release-request/issues/4692) | tianxin-ms | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 10-27 | 11-24 |  |
 | 10 | [#4689](https://github.com/Azure/sdk-release-request/issues/4689) | MasterRyd3l | azure-mgmt-chaos | ChenxiJiang333 |  | 10-26 | 11-24 |  |
