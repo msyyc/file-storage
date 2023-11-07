@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4721](https://github.com/Azure/sdk-release-request/issues/4721) | limingu |  | XiaofeiCao | new issue. | 11-06 | 11-24 |  |
-| 2 | [#4716](https://github.com/Azure/sdk-release-request/issues/4716) | malpaniHMC |  | haolingdong-msft | new issue. | 11-06 | 11-24 |  |
+| 1 | [#4725](https://github.com/Azure/sdk-release-request/issues/4725) | Alancere |  | weidongxu-microsoft | new issue. | 11-07 | 11-24 |  |
+| 2 | [#4721](https://github.com/Azure/sdk-release-request/issues/4721) | limingu |  | XiaofeiCao | new issue. | 11-06 | 11-24 |  |
 | 3 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new issue. | 11-06 | 11-24 |  |
 | 4 | [#4710](https://github.com/Azure/sdk-release-request/issues/4710) | malpaniHMC |  | weidongxu-microsoft |  | 11-03 | 11-24 |  |
 | 5 | [#4707](https://github.com/Azure/sdk-release-request/issues/4707) | raymondluo1 |  | XiaofeiCao | new issue. | 11-03 | 11-24 |  |
