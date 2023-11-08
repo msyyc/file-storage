@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4732](https://github.com/Azure/sdk-release-request/issues/4732) | gaagarwalMS |  | haolingdong-msft | new issue. | 11-08 | 11-24 |  |
-| 2 | [#4728](https://github.com/Azure/sdk-release-request/issues/4728) | FumingZhang |  | weidongxu-microsoft | new issue. | 11-08 | 11-24 |  |
+| 2 | [#4728](https://github.com/Azure/sdk-release-request/issues/4728) | FumingZhang |  | v-hongli1 |  | 11-08 |  | 0 |
 | 3 | [#4725](https://github.com/Azure/sdk-release-request/issues/4725) | Alancere |  | weidongxu-microsoft | new issue. | 11-07 | 11-24 |  |
 | 4 | [#4721](https://github.com/Azure/sdk-release-request/issues/4721) | limingu |  | XiaofeiCao | new issue. | 11-06 | 11-24 |  |
 | 5 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new issue. | 11-06 | 11-24 |  |
 | 6 | [#4710](https://github.com/Azure/sdk-release-request/issues/4710) | malpaniHMC |  | weidongxu-microsoft |  | 11-03 | 11-24 |  |
-| 7 | [#4707](https://github.com/Azure/sdk-release-request/issues/4707) | raymondluo1 |  | XiaofeiCao | new issue. | 11-03 | 11-24 |  |
+| 7 | [#4707](https://github.com/Azure/sdk-release-request/issues/4707) | raymondluo1 |  | v-hongli1 |  | 11-03 |  | 0 |
 | 8 | [#4704](https://github.com/Azure/sdk-release-request/issues/4704) | a-hamad |  | XiaofeiCao | Attention to inconsistent tag | 10-31 | 11-24 |  |
 | 9 | [#4700](https://github.com/Azure/sdk-release-request/issues/4700) | ambrahma |  | haolingdong-msft | new comment. Attention to inconsistent tag | 10-30 | 11-24 |  |
 | 10 | [#4695](https://github.com/Azure/sdk-release-request/issues/4695) | DeepikaNMS |  | weidongxu-microsoft | Attention to inconsistent tag | 10-30 | 11-24 |  |
