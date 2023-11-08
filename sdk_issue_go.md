@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#21878](https://github.com/Azure/azure-sdk-for-go/issues/21878)|Feature Request: No Attribute for isEnabled For Security Center(Microsoft Defender) Pricing in go sdk|Security, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new issue|2023-11-03|
+|1|[#21878](https://github.com/Azure/azure-sdk-for-go/issues/21878)|Feature Request: No Attribute for isEnabled For Security Center(Microsoft Defender) Pricing in go sdk|Security, Mgmt, customer-reported, needs-author-feedback, feature-request|Alancere||2023-11-03|
 |2|[#21877](https://github.com/Azure/azure-sdk-for-go/issues/21877)|Feature Request: No API For SQL server periodic recurring scan data|SQL, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new issue|2023-11-03|
 |3|[#21859](https://github.com/Azure/azure-sdk-for-go/issues/21859)|Armstorage client: FileShareItem is the same as FileShare struct in FileShareClients|question, Storage, Mgmt, customer-reported, needs-team-attention|Alancere|new comment|2023-11-01|
 |4|[#21815](https://github.com/Azure/azure-sdk-for-go/issues/21815)|Missing `publicNetworkAccess` field on Azure SQL Server sdk api response  #21573|question, SQL, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2023-10-22|
