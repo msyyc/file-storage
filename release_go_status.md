@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4731](https://github.com/Azure/sdk-release-request/issues/4731) | FumingZhang |  | Alancere |  | 11-08 |  | 0 |
+| 1 | [#4731](https://github.com/Azure/sdk-release-request/issues/4731) | FumingZhang |  | Alancere | new issue. | 11-08 | 11-24 |  |
 | 2 | [#4726](https://github.com/Azure/sdk-release-request/issues/4726) | Alancere |  | Alancere | new issue. | 11-07 | 11-24 |  |
 | 3 | [#4723](https://github.com/Azure/sdk-release-request/issues/4723) | limingu |  | Alancere | new issue. | 11-06 | 11-24 |  |
 | 4 | [#4719](https://github.com/Azure/sdk-release-request/issues/4719) | malpaniHMC |  | Alancere | new issue. | 11-06 | 11-24 |  |
