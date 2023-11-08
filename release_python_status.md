@@ -3,7 +3,7 @@
 | 1 | [#4730](https://github.com/Azure/sdk-release-request/issues/4730) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 11-08 | 11-24 |  |
 | 2 | [#4727](https://github.com/Azure/sdk-release-request/issues/4727) | Alancere | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 11-07 | 11-24 |  |
 | 3 | [#4722](https://github.com/Azure/sdk-release-request/issues/4722) | limingu | azure-mgmt-nginx | ChenxiJiang333 |  | 11-06 | 11-24 |  |
-| 4 | [#4718](https://github.com/Azure/sdk-release-request/issues/4718) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | new comment. FirstGA | 11-06 | 11-24 |  |
+| 4 | [#4718](https://github.com/Azure/sdk-release-request/issues/4718) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | FirstGA | 11-06 | 11-24 |  |
 | 5 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 11-06 | 11-24 |  |
 | 6 | [#4708](https://github.com/Azure/sdk-release-request/issues/4708) | raymondluo1 | azure-mgmt-containerregistry | ChenxiJiang333 |  | 11-03 | 11-24 |  |
 | 7 | [#4703](https://github.com/Azure/sdk-release-request/issues/4703) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 10-31 | 11-24 |  |
