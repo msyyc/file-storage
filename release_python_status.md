@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4737](https://github.com/Azure/sdk-release-request/issues/4737) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | new issue. | 11-08 | 11-24 |  |
+| 1 | [#4737](https://github.com/Azure/sdk-release-request/issues/4737) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 |  | 11-08 | 11-24 |  |
 | 2 | [#4734](https://github.com/Azure/sdk-release-request/issues/4734) | gaagarwalMS | azure-mgmt-networkanalytics | ChenxiJiang333 | FirstBeta | 11-08 | 11-24 |  |
 | 3 | [#4730](https://github.com/Azure/sdk-release-request/issues/4730) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 11-08 | 11-24 |  |
 | 4 | [#4727](https://github.com/Azure/sdk-release-request/issues/4727) | Alancere | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 11-07 | 11-24 |  |
