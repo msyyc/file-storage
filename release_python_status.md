@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4748](https://github.com/Azure/sdk-release-request/issues/4748) | yjsong11 | azure-mgmt-dashboard | ChenxiJiang333 | Attention to inconsistent tag | 11-09 | 11-24 |  |
+| 1 | [#4748](https://github.com/Azure/sdk-release-request/issues/4748) | yjsong11 | azure-mgmt-dashboard | ChenxiJiang333 |  | 11-09 | 11-24 |  |
 | 2 | [#4747](https://github.com/Azure/sdk-release-request/issues/4747) | Frey-Wang | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-09 | 11-24 |  |
 | 3 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 | new comment. Attention to inconsistent tag | 11-09 | 11-24 |  |
 | 4 | [#4737](https://github.com/Azure/sdk-release-request/issues/4737) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 |  | 11-08 | 11-24 |  |
