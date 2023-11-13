@@ -25,4 +25,3 @@
 | 23 | [#4649](https://github.com/Azure/sdk-release-request/issues/4649) | JeetendraJoshi-MSFT |  | weidongxu-microsoft | new issue. | 10-13 | 11-24 |  |
 | 24 | [#4553](https://github.com/Azure/sdk-release-request/issues/4553) | AdrianSibajaRetana |  | v-hongli1 |  | 09-22 |  | 0 |
 | 25 | [#4483](https://github.com/Azure/sdk-release-request/issues/4483) | aneesh-ponneth |  | XiaofeiCao |  | 08-31 | 09-22 |  |
-| 26 | [#4460](https://github.com/Azure/sdk-release-request/issues/4460) | SushmithaVReddy |  | weidongxu-microsoft | Attention to inconsistent tag | 08-23 | 09-22 |  |
