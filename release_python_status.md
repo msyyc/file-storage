@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4760](https://github.com/Azure/sdk-release-request/issues/4760) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag OnTime | 11-10 | 12-22 |  |
-| 2 | [#4757](https://github.com/Azure/sdk-release-request/issues/4757) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | Attention to inconsistent tag OnTime | 11-10 | 12-22 |  |
+| 2 | [#4757](https://github.com/Azure/sdk-release-request/issues/4757) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | Attention to inconsistent tag | 11-10 | 12-22 |  |
 | 3 | [#4755](https://github.com/Azure/sdk-release-request/issues/4755) | kamperiadis | azure-mgmt-web | ChenxiJiang333 | new issue. MultiAPI OnTime | 11-10 | 12-22 |  |
 | 4 | [#4752](https://github.com/Azure/sdk-release-request/issues/4752) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> MultiAPI HoldOn | 11-10 | 12-22 |  |
 | 5 | [#4748](https://github.com/Azure/sdk-release-request/issues/4748) | yjsong11 | azure-mgmt-dashboard | ChenxiJiang333 |  | 11-09 | 11-24 |  |
