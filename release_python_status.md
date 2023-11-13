@@ -3,8 +3,8 @@
 | 1 | [#4760](https://github.com/Azure/sdk-release-request/issues/4760) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 11-10 | 12-22 |  |
 | 2 | [#4757](https://github.com/Azure/sdk-release-request/issues/4757) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | Attention to inconsistent tag | 11-10 | 12-22 |  |
 | 3 | [#4755](https://github.com/Azure/sdk-release-request/issues/4755) | kamperiadis | azure-mgmt-web | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 11-10 | 12-22 |  |
-| 4 | [#4752](https://github.com/Azure/sdk-release-request/issues/4752) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 11-10 | 12-22 |  |
-| 5 | [#4748](https://github.com/Azure/sdk-release-request/issues/4748) | yjsong11 | azure-mgmt-dashboard | ChenxiJiang333 | new comment. | 11-09 | 11-24 |  |
+| 4 | [#4752](https://github.com/Azure/sdk-release-request/issues/4752) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> MultiAPI HoldOn | 11-10 | 12-22 |  |
+| 5 | [#4748](https://github.com/Azure/sdk-release-request/issues/4748) | yjsong11 | azure-mgmt-dashboard | ChenxiJiang333 |  | 11-09 | 11-24 |  |
 | 6 | [#4747](https://github.com/Azure/sdk-release-request/issues/4747) | Frey-Wang | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-09 | 11-24 |  |
 | 7 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 | new comment. Attention to inconsistent tag | 11-09 | 11-24 |  |
 | 8 | [#4737](https://github.com/Azure/sdk-release-request/issues/4737) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 |  | 11-08 | 11-24 |  |
@@ -18,7 +18,7 @@
 | 16 | [#4703](https://github.com/Azure/sdk-release-request/issues/4703) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 | duplicated issue  <br> | 10-31 | 11-24 |  |
 | 17 | [#4699](https://github.com/Azure/sdk-release-request/issues/4699) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 10-30 | 11-24 |  |
 | 18 | [#4696](https://github.com/Azure/sdk-release-request/issues/4696) | DeepikaNMS | azure-mgmt-confluent | ChenxiJiang333 | new comment. | 10-30 | 11-24 |  |
-| 19 | [#4692](https://github.com/Azure/sdk-release-request/issues/4692) | tianxin-ms | azure-mgmt-cognitiveservices | ChenxiJiang333 | new comment. | 10-27 | 11-24 |  |
+| 19 | [#4692](https://github.com/Azure/sdk-release-request/issues/4692) | tianxin-ms | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 10-27 | 11-24 |  |
 | 20 | [#4689](https://github.com/Azure/sdk-release-request/issues/4689) | MasterRyd3l | azure-mgmt-chaos | ChenxiJiang333 |  | 10-26 | 11-24 |  |
 | 21 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | FirstBeta HoldOn | 10-24 | 11-24 |  |
 | 22 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA | 10-23 | 11-24 |  |
