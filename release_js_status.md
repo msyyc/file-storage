@@ -7,7 +7,7 @@
 | 5 | [#4741](https://github.com/Azure/sdk-release-request/issues/4741) | matthohn-msft |  | qiaozha | Attention to inconsistent tag | 11-09 | 11-24 |  |
 | 6 | [#4739](https://github.com/Azure/sdk-release-request/issues/4739) | HariPrasadV |  | qiaozha |  | 11-08 | 11-24 |  |
 | 7 | [#4733](https://github.com/Azure/sdk-release-request/issues/4733) | gaagarwalMS |  | qiaozha | new comment. | 11-08 | 11-24 |  |
-| 8 | [#4729](https://github.com/Azure/sdk-release-request/issues/4729) | FumingZhang |  | qiaozha | new comment. | 11-08 | 11-24 |  |
+| 8 | [#4729](https://github.com/Azure/sdk-release-request/issues/4729) | FumingZhang |  | qiaozha | new comment. | 11-08 | 12-22 |  |
 | 9 | [#4724](https://github.com/Azure/sdk-release-request/issues/4724) | Alancere |  | qiaozha |  | 11-07 | 11-24 |  |
 | 10 | [#4720](https://github.com/Azure/sdk-release-request/issues/4720) | limingu |  | qiaozha | new comment. | 11-06 | 11-24 |  |
 | 11 | [#4712](https://github.com/Azure/sdk-release-request/issues/4712) | iwrinshow |  | qiaozha |  | 11-06 | 11-24 |  |
@@ -22,7 +22,7 @@
 | 20 | [#4681](https://github.com/Azure/sdk-release-request/issues/4681) | DevArjun23 |  | qiaozha |  | 10-24 | 11-24 |  |
 | 21 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha |  | 10-23 | 11-24 |  |
 | 22 | [#4673](https://github.com/Azure/sdk-release-request/issues/4673) | tadelesh |  | qiaozha |  | 10-23 | 11-24 |  |
-| 23 | [#4672](https://github.com/Azure/sdk-release-request/issues/4672) | osid29 |  | qiaozha | new comment. | 10-23 | 11-24 |  |
+| 23 | [#4672](https://github.com/Azure/sdk-release-request/issues/4672) | osid29 |  | qiaozha |  | 10-23 | 11-24 |  |
 | 24 | [#4668](https://github.com/Azure/sdk-release-request/issues/4668) | FumingZhang |  | MaryGao |  | 10-20 | 11-24 |  |
 | 25 | [#4662](https://github.com/Azure/sdk-release-request/issues/4662) | zman-ms |  | MaryGao |  | 10-18 | 11-24 |  |
 | 26 | [#4660](https://github.com/Azure/sdk-release-request/issues/4660) | ahnj12 |  | MaryGao |  | 10-17 | 11-24 |  |
