@@ -31,4 +31,3 @@
 | 29 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 30 | [#4550](https://github.com/Azure/sdk-release-request/issues/4550) | AdrianSibajaRetana |  | Alancere | new comment. | 09-22 | 10-27 |  |
 | 31 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. | 08-31 | 09-22 |  |
-| 32 | [#4457](https://github.com/Azure/sdk-release-request/issues/4457) | SushmithaVReddy |  | Alancere | Attention to inconsistent tag | 08-23 | 09-22 |  |
