@@ -7,7 +7,7 @@
 | 5 | [#4745](https://github.com/Azure/sdk-release-request/issues/4745) | Frey-Wang |  | Alancere | new issue. | 11-09 | 11-24 |  |
 | 6 | [#4742](https://github.com/Azure/sdk-release-request/issues/4742) | matthohn-msft |  | Alancere | new comment. Attention to inconsistent tag | 11-09 | 11-24 |  |
 | 7 | [#4738](https://github.com/Azure/sdk-release-request/issues/4738) | HariPrasadV |  | Alancere |  | 11-08 | 11-24 |  |
-| 8 | [#4735](https://github.com/Azure/sdk-release-request/issues/4735) | gaagarwalMS |  | Alancere |  | 11-08 | 11-24 |  |
+| 8 | [#4735](https://github.com/Azure/sdk-release-request/issues/4735) | gaagarwalMS |  | Alancere | new comment. | 11-08 | 11-24 |  |
 | 9 | [#4731](https://github.com/Azure/sdk-release-request/issues/4731) | FumingZhang |  | Alancere | new issue. | 11-08 | 11-24 |  |
 | 10 | [#4726](https://github.com/Azure/sdk-release-request/issues/4726) | Alancere |  | Alancere |  | 11-07 | 11-24 |  |
 | 11 | [#4723](https://github.com/Azure/sdk-release-request/issues/4723) | limingu |  | Alancere | new comment. | 11-06 | 11-24 |  |
