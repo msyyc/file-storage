@@ -11,7 +11,7 @@
 | 9 | [#4728](https://github.com/Azure/sdk-release-request/issues/4728) | FumingZhang |  | v-hongli1 |  | 11-08 |  | 0 |
 | 10 | [#4725](https://github.com/Azure/sdk-release-request/issues/4725) | Alancere |  | weidongxu-microsoft | new issue. | 11-07 | 11-24 |  |
 | 11 | [#4721](https://github.com/Azure/sdk-release-request/issues/4721) | limingu |  | XiaofeiCao | new issue. | 11-06 | 11-24 |  |
-| 12 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new issue. | 11-06 | 11-24 |  |
+| 12 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new issue. new comment. | 11-06 | 11-24 |  |
 | 13 | [#4710](https://github.com/Azure/sdk-release-request/issues/4710) | malpaniHMC |  | weidongxu-microsoft |  | 11-03 | 11-24 |  |
 | 14 | [#4704](https://github.com/Azure/sdk-release-request/issues/4704) | a-hamad |  | XiaofeiCao | Attention to inconsistent tag | 10-31 | 11-24 |  |
 | 15 | [#4700](https://github.com/Azure/sdk-release-request/issues/4700) | ambrahma |  | v-hongli1 |  | 10-30 |  | 0 |
