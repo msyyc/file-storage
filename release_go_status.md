@@ -29,5 +29,4 @@
 | 27 | [#4651](https://github.com/Azure/sdk-release-request/issues/4651) | JeetendraJoshi-MSFT |  | Alancere |  | 10-13 | 11-24 |  |
 | 28 | [#4601](https://github.com/Azure/sdk-release-request/issues/4601) | alexandraavendano |  | Alancere | new comment. | 10-02 | 10-27 |  |
 | 29 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | Attention to inconsistent tag | 09-26 | 10-27 |  |
-| 30 | [#4550](https://github.com/Azure/sdk-release-request/issues/4550) | AdrianSibajaRetana |  | Alancere | new comment. | 09-22 | 10-27 |  |
-| 31 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. | 08-31 | 09-22 |  |
+| 30 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. | 08-31 | 09-22 |  |
