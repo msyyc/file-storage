@@ -16,8 +16,7 @@
 | 14 | [#4686](https://github.com/Azure/sdk-release-request/issues/4686) | MasterRyd3l |  | XiaofeiCao | new issue. | 10-26 | 11-24 |  |
 | 15 | [#4682](https://github.com/Azure/sdk-release-request/issues/4682) | DevArjun23 |  | XiaofeiCao |  | 10-24 | 11-24 |  |
 | 16 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. | 10-23 | 11-24 |  |
-| 17 | [#4671](https://github.com/Azure/sdk-release-request/issues/4671) | osid29 |  | XiaofeiCao |  | 10-23 | 11-24 |  |
-| 18 | [#4657](https://github.com/Azure/sdk-release-request/issues/4657) | ahnj12 |  | haolingdong-msft | Attention to inconsistent tag | 10-17 | 11-24 |  |
-| 19 | [#4653](https://github.com/Azure/sdk-release-request/issues/4653) | pjw711 |  | haolingdong-msft | Attention to inconsistent tag | 10-13 | 11-24 |  |
-| 20 | [#4553](https://github.com/Azure/sdk-release-request/issues/4553) | AdrianSibajaRetana |  | v-hongli1 |  | 09-22 |  | 0 |
-| 21 | [#4483](https://github.com/Azure/sdk-release-request/issues/4483) | aneesh-ponneth |  | XiaofeiCao |  | 08-31 | 09-22 |  |
+| 17 | [#4657](https://github.com/Azure/sdk-release-request/issues/4657) | ahnj12 |  | haolingdong-msft | Attention to inconsistent tag | 10-17 | 11-24 |  |
+| 18 | [#4653](https://github.com/Azure/sdk-release-request/issues/4653) | pjw711 |  | haolingdong-msft | Attention to inconsistent tag | 10-13 | 11-24 |  |
+| 19 | [#4553](https://github.com/Azure/sdk-release-request/issues/4553) | AdrianSibajaRetana |  | v-hongli1 |  | 09-22 |  | 0 |
+| 20 | [#4483](https://github.com/Azure/sdk-release-request/issues/4483) | aneesh-ponneth |  | XiaofeiCao |  | 08-31 | 09-22 |  |
