@@ -3,7 +3,7 @@
 | 1 | [#4767](https://github.com/Azure/sdk-release-request/issues/4767) | FumingZhang |  | MaryGao | new issue. | 11-15 | 12-22 |  |
 | 2 | [#4762](https://github.com/Azure/sdk-release-request/issues/4762) | salambashir |  | MaryGao | Attention to inconsistent tag | 11-13 | 12-22 |  |
 | 3 | [#4758](https://github.com/Azure/sdk-release-request/issues/4758) | a-hamad |  | qiaozha | Attention to inconsistent tag | 11-10 | 12-22 |  |
-| 4 | [#4756](https://github.com/Azure/sdk-release-request/issues/4756) | kamperiadis |  | qiaozha | new issue. | 11-10 | 11-24 |  |
+| 4 | [#4756](https://github.com/Azure/sdk-release-request/issues/4756) | kamperiadis |  | qiaozha |  | 11-10 | 11-24 |  |
 | 5 | [#4750](https://github.com/Azure/sdk-release-request/issues/4750) | yjsong11 |  | qiaozha | new comment. | 11-09 | 11-24 |  |
 | 6 | [#4744](https://github.com/Azure/sdk-release-request/issues/4744) | Frey-Wang |  | qiaozha |  | 11-09 | 11-24 |  |
 | 7 | [#4741](https://github.com/Azure/sdk-release-request/issues/4741) | matthohn-msft |  | qiaozha |  | 11-09 | 11-24 |  |
