@@ -3,7 +3,6 @@
 | 1 | [#4770](https://github.com/Azure/sdk-release-request/issues/4770) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 11-16 | 12-22 |  |
 | 2 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI | 11-13 | 12-22 |  |
 | 3 | [#4760](https://github.com/Azure/sdk-release-request/issues/4760) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 11-10 | 12-22 |  |
-| 4 | [#4757](https://github.com/Azure/sdk-release-request/issues/4757) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | new comment. ForCLI | 11-10 | 12-22 |  |
 | 5 | [#4755](https://github.com/Azure/sdk-release-request/issues/4755) | kamperiadis | azure-mgmt-web | ChenxiJiang333 |  | 11-10 | 11-24 |  |
 | 6 | [#4748](https://github.com/Azure/sdk-release-request/issues/4748) | yjsong11 | azure-mgmt-dashboard | ChenxiJiang333 |  | 11-09 | 11-24 |  |
 | 7 | [#4747](https://github.com/Azure/sdk-release-request/issues/4747) | Frey-Wang | azure-mgmt-datafactory | ChenxiJiang333 |  | 11-09 | 11-24 |  |
