@@ -24,6 +24,6 @@
 | 22 | [#4667](https://github.com/Azure/sdk-release-request/issues/4667) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | duplicated issue  <br> | 10-20 | 11-24 |  |
 | 23 | [#4659](https://github.com/Azure/sdk-release-request/issues/4659) | ahnj12 | azure-mgmt-quota | ChenxiJiang333 |  | 10-17 | 11-24 |  |
 | 24 | [#4654](https://github.com/Azure/sdk-release-request/issues/4654) | pjw711 | azure-mgmt-hybridnetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
-| 25 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 10-13 | 11-24 |  |
+| 25 | [#4648](https://github.com/Azure/sdk-release-request/issues/4648) | JeetendraJoshi-MSFT | azure-mgmt-mobilenetwork | ChenxiJiang333 | new comment. | 10-13 | 11-24 |  |
 | 26 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 | azure-mgmt-cosmosdb | ChenxiJiang333 | Attention to inconsistent tag | 09-26 | 10-27 |  |
 | 27 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | FirstBeta HoldOn | 08-31 | 09-22 |  |
