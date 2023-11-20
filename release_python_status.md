@@ -12,7 +12,6 @@
 | 10 | [#4722](https://github.com/Azure/sdk-release-request/issues/4722) | limingu | azure-mgmt-nginx | ChenxiJiang333 |  | 11-06 | 11-24 |  |
 | 11 | [#4718](https://github.com/Azure/sdk-release-request/issues/4718) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | new comment. FirstGA | 11-06 | 11-24 |  |
 | 12 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | HoldOn | 11-06 | 11-24 |  |
-| 13 | [#4708](https://github.com/Azure/sdk-release-request/issues/4708) | raymondluo1 | azure-mgmt-containerregistry | ChenxiJiang333 | new comment. | 11-03 | 11-24 |  |
 | 14 | [#4699](https://github.com/Azure/sdk-release-request/issues/4699) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 10-30 | 11-24 |  |
 | 15 | [#4696](https://github.com/Azure/sdk-release-request/issues/4696) | DeepikaNMS | azure-mgmt-confluent | ChenxiJiang333 | new comment. | 10-30 | 11-24 |  |
 | 16 | [#4689](https://github.com/Azure/sdk-release-request/issues/4689) | MasterRyd3l | azure-mgmt-chaos | ChenxiJiang333 | FirstGA | 10-26 | 11-24 |  |
