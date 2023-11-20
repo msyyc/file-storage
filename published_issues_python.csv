@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-mobilenetwork,JeetendraJoshi-MSFT,ChenxiJiang333,2023-10-13,2023-11-20,https://github.com/Azure/sdk-release-request/issues/4648,3.1.0,True
+azure-mgmt-quota,ahnj12,ChenxiJiang333,2023-10-17,2023-11-20,https://github.com/Azure/sdk-release-request/issues/4659,1.1.0,True
 azure-mgmt-sql,MilanNz,ChenxiJiang333,2023-11-10,2023-11-17,https://github.com/Azure/sdk-release-request/issues/4757,4.0.0b13,
 azure-mgmt-containerservicefleet,zman-ms,ChenxiJiang333,2023-10-18,2023-10-30,https://github.com/Azure/sdk-release-request/issues/4663,1.0.0,True
 azure-mgmt-azurestackhci,pathuang-sia,ChenxiJiang333,2023-10-12,2023-10-28,https://github.com/Azure/sdk-release-request/issues/4632,8.0.0b3,
