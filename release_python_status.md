@@ -6,7 +6,7 @@
 | 4 | [#4747](https://github.com/Azure/sdk-release-request/issues/4747) | Frey-Wang | azure-mgmt-datafactory | ChenxiJiang333 | close to release date.  | 11-09 | 11-24 | 2 |
 | 5 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 | close to release date.  | 11-09 | 11-24 | 2 |
 | 6 | [#4737](https://github.com/Azure/sdk-release-request/issues/4737) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | close to release date.  HoldOn | 11-08 | 11-24 | 2 |
-| 7 | [#4734](https://github.com/Azure/sdk-release-request/issues/4734) | gaagarwalMS | azure-mgmt-networkanalytics | ChenxiJiang333 | new comment. close to release date.  FirstBeta | 11-08 | 11-24 | 2 |
+| 7 | [#4734](https://github.com/Azure/sdk-release-request/issues/4734) | gaagarwalMS | azure-mgmt-networkanalytics | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 11-08 | 11-24 | 2 |
 | 8 | [#4730](https://github.com/Azure/sdk-release-request/issues/4730) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | duplicated issue  <br> new issue. close to release date.  MultiAPI | 11-08 | 11-24 | 2 |
 | 9 | [#4727](https://github.com/Azure/sdk-release-request/issues/4727) | Alancere | azure-mgmt-hybridcompute | ChenxiJiang333 | close to release date.  | 11-07 | 11-24 | 2 |
 | 10 | [#4722](https://github.com/Azure/sdk-release-request/issues/4722) | limingu | azure-mgmt-nginx | ChenxiJiang333 | close to release date.  | 11-06 | 11-24 | 2 |
