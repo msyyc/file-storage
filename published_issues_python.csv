@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-hybridnetwork,pjw711,ChenxiJiang333,2023-10-13,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4654,2.0.0,True
+azure-mgmt-rdbms,ambrahma,ChenxiJiang333,2023-10-30,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4699,10.2.0b12,
+azure-mgmt-servicenetworking,malpaniHMC,ChenxiJiang333,2023-11-06,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4718,1.0.0,True
 azure-mgmt-nginx,limingu,ChenxiJiang333,2023-11-06,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4722,3.0.0,True
 azure-mgmt-datafactory,Frey-Wang,ChenxiJiang333,2023-11-09,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4747,4.0.0,True
 azure-mgmt-containerregistry,raymondluo1,ChenxiJiang333,2023-11-03,2023-11-20,https://github.com/Azure/sdk-release-request/issues/4708,10.3.0,True
