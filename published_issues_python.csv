@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-nginx,limingu,ChenxiJiang333,2023-11-06,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4722,3.0.0,True
+azure-mgmt-datafactory,Frey-Wang,ChenxiJiang333,2023-11-09,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4747,4.0.0,True
 azure-mgmt-containerregistry,raymondluo1,ChenxiJiang333,2023-11-03,2023-11-20,https://github.com/Azure/sdk-release-request/issues/4708,10.3.0,True
 azure-mgmt-web,kamperiadis,ChenxiJiang333,2023-11-10,2023-11-20,https://github.com/Azure/sdk-release-request/issues/4755,7.2.0,True
 azure-mgmt-dashboard,yjsong11,ChenxiJiang333,2023-11-09,2023-11-20,https://github.com/Azure/sdk-release-request/issues/4748,1.1.0,True
