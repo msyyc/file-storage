@@ -7,7 +7,7 @@
 | 5 | [#4760](https://github.com/Azure/sdk-release-request/issues/4760) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 11-10 | 12-22 |  |
 | 6 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 | close to release date.  HoldOn | 11-09 | 11-24 | 1 |
 | 7 | [#4737](https://github.com/Azure/sdk-release-request/issues/4737) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | close to release date.  HoldOn | 11-08 | 11-24 | 1 |
-| 8 | [#4734](https://github.com/Azure/sdk-release-request/issues/4734) | gaagarwalMS | azure-mgmt-networkanalytics | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 11-08 | 11-24 | 1 |
+| 8 | [#4734](https://github.com/Azure/sdk-release-request/issues/4734) | gaagarwalMS | azure-mgmt-networkanalytics | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 11-08 | 11-24 | 1 |
 | 9 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | close to release date.  HoldOn | 11-06 | 11-24 | 1 |
 | 10 | [#4689](https://github.com/Azure/sdk-release-request/issues/4689) | MasterRyd3l | azure-mgmt-chaos | ChenxiJiang333 | close to release date.  FirstGA | 10-26 | 11-24 | 1 |
 | 11 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 10-24 | 11-24 | 1 |
