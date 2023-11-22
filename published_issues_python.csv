@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-paloaltonetworksngfw,osid29,ChenxiJiang333,2023-10-23,2023-11-22,https://github.com/Azure/sdk-release-request/issues/4669,2.0.0b1,
 azure-mgmt-containerservice,FumingZhang,ChenxiJiang333,2023-11-08,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4730,28.0.0,True
 azure-mgmt-hybridcompute,Alancere,ChenxiJiang333,2023-11-07,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4727,9.0.0b1,
 azure-mgmt-confluent,DeepikaNMS,ChenxiJiang333,2023-10-30,2023-11-21,https://github.com/Azure/sdk-release-request/issues/4696,2.0.0,True
