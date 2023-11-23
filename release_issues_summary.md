@@ -31,9 +31,9 @@
 | 29 | 'Release stable version package-2023-08 for Microsoft.Confluent '  |  | [#4694](https://github.com/Azure/sdk-release-request/issues/4694)  |  | [#4697](https://github.com/Azure/sdk-release-request/issues/4697)  | 10-30 | 11-24 |  |
 | 30 | 'Release for Container Service - 2023-09-02-preview'  |  | [#4685](https://github.com/Azure/sdk-release-request/issues/4685)  |  | [#4684](https://github.com/Azure/sdk-release-request/issues/4684)  | 10-26 | 11-24 |  |
 | 31 | 'Release of PaloAltoNetworks.Cloudngfw version - 2023-09-01'  |  | [#4670](https://github.com/Azure/sdk-release-request/issues/4670)  |  | [#4672](https://github.com/Azure/sdk-release-request/issues/4672)  | 10-23 | 11-24 |  |
-| 32 | 'Release for Container Service - 2023-09-01'  |  | [#4666](https://github.com/Azure/sdk-release-request/issues/4666)  |  | [#4668](https://github.com/Azure/sdk-release-request/issues/4668)  | 10-20 | 11-24 |  |
-| 33 | 'Release for QuotaRP - 2023-02-01'  |  | [#4658](https://github.com/Azure/sdk-release-request/issues/4658)  |  | [#4660](https://github.com/Azure/sdk-release-request/issues/4660)  | 10-17 | 11-24 |  |
-| 34 | 'Release for Azure Hybrid Network - 2023-09-01'  |  | [#4655](https://github.com/Azure/sdk-release-request/issues/4655)  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
-| 35 | 'Release for Mobile Network - 2023-09'  |  | [#4651](https://github.com/Azure/sdk-release-request/issues/4651)  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
-| 36 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  | [#4599](https://github.com/Azure/sdk-release-request/issues/4599)  | 10-02 | 10-27 | Hold on by Go/ |
-| 37 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
+| 32 | 'Release for Azure Hybrid Network - 2023-09-01'  |  | [#4655](https://github.com/Azure/sdk-release-request/issues/4655)  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
+| 33 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  | [#4599](https://github.com/Azure/sdk-release-request/issues/4599)  | 10-02 | 10-27 | Hold on by Go/ |
+| 34 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
+| 35 | 'Release for Container Service - 2023-09-01'  |  |  |  | [#4668](https://github.com/Azure/sdk-release-request/issues/4668)  | 10-20 | 11-24 |  |
+| 36 | 'Release for QuotaRP - 2023-02-01'  |  |  |  | [#4660](https://github.com/Azure/sdk-release-request/issues/4660)  | 10-17 | 11-24 |  |
+| 37 | 'Release for Mobile Network - 2023-09'  |  |  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
