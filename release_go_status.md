@@ -16,7 +16,7 @@
 | 14 | [#4726](https://github.com/Azure/sdk-release-request/issues/4726) | Alancere |  | Alancere | close to release date.  | 11-07 | 11-24 | 0 |
 | 15 | [#4723](https://github.com/Azure/sdk-release-request/issues/4723) | limingu |  | Alancere | new comment. close to release date.  | 11-06 | 11-24 | 0 |
 | 16 | [#4719](https://github.com/Azure/sdk-release-request/issues/4719) | malpaniHMC |  | Alancere | close to release date.  | 11-06 | 11-24 | 0 |
-| 17 | [#4714](https://github.com/Azure/sdk-release-request/issues/4714) | iwrinshow |  | Alancere | close to release date.  | 11-06 | 11-24 | 0 |
+| 17 | [#4714](https://github.com/Azure/sdk-release-request/issues/4714) | iwrinshow |  | Alancere | new comment. close to release date.  | 11-06 | 11-24 | 0 |
 | 18 | [#4709](https://github.com/Azure/sdk-release-request/issues/4709) | raymondluo1 |  | Alancere | close to release date.  | 11-03 | 11-24 | 0 |
 | 19 | [#4705](https://github.com/Azure/sdk-release-request/issues/4705) | a-hamad |  | Alancere | close to release date.  | 10-31 | 11-24 | 0 |
 | 20 | [#4698](https://github.com/Azure/sdk-release-request/issues/4698) | ambrahma |  | Alancere | new comment. close to release date.  | 10-30 | 11-24 | 0 |
@@ -32,4 +32,3 @@
 | 30 | [#4651](https://github.com/Azure/sdk-release-request/issues/4651) | JeetendraJoshi-MSFT |  | Alancere | new comment. close to release date.  | 10-13 | 11-24 | 0 |
 | 31 | [#4601](https://github.com/Azure/sdk-release-request/issues/4601) | alexandraavendano |  | Alancere | new comment. | 10-02 | 10-27 |  |
 | 32 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | Attention to inconsistent tag | 09-26 | 10-27 |  |
-| 33 | [#4485](https://github.com/Azure/sdk-release-request/issues/4485) | aneesh-ponneth |  | Alancere | new issue. new comment. | 08-31 | 09-22 |  |
