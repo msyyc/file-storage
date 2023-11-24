@@ -8,7 +8,7 @@
 | 6 | 'Refresh SDKs for Azure Event Grid 2023-12-15-preview'  | [#4760](https://github.com/Azure/sdk-release-request/issues/4760)  | [#4759](https://github.com/Azure/sdk-release-request/issues/4759)  |  | [#4758](https://github.com/Azure/sdk-release-request/issues/4758)  | 11-10 | 12-22 |  |
 | 7 | 'Release for Azure.ResourceManager.Communication 1.2.0-beta.3'  | [#4743](https://github.com/Azure/sdk-release-request/issues/4743)  |  |  | [#4741](https://github.com/Azure/sdk-release-request/issues/4741)  | 11-09 | 11-24 | Hold on by JS/Python/ |
 | 8 | 'Release for Azure Operator Insights - 2023-11-15'  | [#4734](https://github.com/Azure/sdk-release-request/issues/4734)  |  | [#4732](https://github.com/Azure/sdk-release-request/issues/4732)  | [#4733](https://github.com/Azure/sdk-release-request/issues/4733)  | 11-08 | 11-24 | Hold on by JS/Python/ |
-| 9 | 'Release for HANA Snapshot 2023-06-01'  | [#4715](https://github.com/Azure/sdk-release-request/issues/4715)  | [#4714](https://github.com/Azure/sdk-release-request/issues/4714)  |  | [#4712](https://github.com/Azure/sdk-release-request/issues/4712)  | 11-06 | 11-24 | Hold on by Go/Python/ |
+| 9 | 'Release for HANA Snapshot 2023-06-01'  | [#4715](https://github.com/Azure/sdk-release-request/issues/4715)  | [#4714](https://github.com/Azure/sdk-release-request/issues/4714)  |  |  | 11-06 | 11-24 | Hold on by Go/Python/ |
 | 10 | 'AzureIntegrationSpaces-Microsoft.IntegrationSpaces-2023-11-14-preview'  | [#4683](https://github.com/Azure/sdk-release-request/issues/4683)  |  | [#4682](https://github.com/Azure/sdk-release-request/issues/4682)  | [#4681](https://github.com/Azure/sdk-release-request/issues/4681)  | 10-24 | 11-24 | Hold on by JS/Java/Python/ |
 | 11 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 11-24 | Hold on by JS/Java/Go/Python/ |
 | 12 | 'Release for CosmosDB 2023-09-15-preview'  | [#4569](https://github.com/Azure/sdk-release-request/issues/4569)  | [#4570](https://github.com/Azure/sdk-release-request/issues/4570)  |  | [#4572](https://github.com/Azure/sdk-release-request/issues/4572)  | 09-26 | 10-27 | Hold on by Go/ |
@@ -19,18 +19,10 @@
 | 17 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
 | 18 | 'Release for ServiceNetworking 2023-11-01'  |  | [#4719](https://github.com/Azure/sdk-release-request/issues/4719)  | [#4710](https://github.com/Azure/sdk-release-request/issues/4710)  | [#4711](https://github.com/Azure/sdk-release-request/issues/4711)  | 11-06 | 11-24 | Hold on by Go/ |
 | 19 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
-| 20 | 'Release for ADF - 2023-11-09'  |  | [#4745](https://github.com/Azure/sdk-release-request/issues/4745)  |  | [#4744](https://github.com/Azure/sdk-release-request/issues/4744)  | 11-09 | 11-24 |  |
-| 21 | 'Release of PaloAltoNetworks.Cloudngfw version - 2023-09-01'  |  | [#4670](https://github.com/Azure/sdk-release-request/issues/4670)  |  | [#4672](https://github.com/Azure/sdk-release-request/issues/4672)  | 10-23 | 11-24 |  |
+| 20 | 'Release for ADF - 2023-11-09'  |  | [#4745](https://github.com/Azure/sdk-release-request/issues/4745)  |  |  | 11-09 | 11-24 |  |
+| 21 | 'Release of PaloAltoNetworks.Cloudngfw version - 2023-09-01'  |  | [#4670](https://github.com/Azure/sdk-release-request/issues/4670)  |  |  | 10-23 | 11-24 |  |
 | 22 | 'Release for Azure Hybrid Network - 2023-09-01'  |  | [#4655](https://github.com/Azure/sdk-release-request/issues/4655)  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
-| 23 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  | [#4599](https://github.com/Azure/sdk-release-request/issues/4599)  | 10-02 | 10-27 | Hold on by Go/ |
-| 24 | 'Release for Microsoft.Dashboard - 2023-09-01'  |  |  |  | [#4750](https://github.com/Azure/sdk-release-request/issues/4750)  | 11-09 | 11-24 |  |
-| 25 | 'SDK Releases for Microsoft.HybridContainerService - 2023-11-15-preview'  |  |  |  | [#4739](https://github.com/Azure/sdk-release-request/issues/4739)  | 11-08 | 11-24 |  |
-| 26 | 'Release for Liftr NGINX service - 2023-04-01'  |  |  |  | [#4720](https://github.com/Azure/sdk-release-request/issues/4720)  | 11-06 | 11-24 |  |
-| 27 | 'Release for Azure Container Registry - 2023-11-01-preview'  |  |  |  | [#4706](https://github.com/Azure/sdk-release-request/issues/4706)  | 11-03 | 11-24 |  |
-| 28 | 'Release Azure Event Grid 2023-1215-preview'  |  |  |  | [#4702](https://github.com/Azure/sdk-release-request/issues/4702)  | 10-31 | 11-24 |  |
-| 29 | 'Release for PostgreSQL flexible servers - 2023-06-01-preview'  |  |  |  | [#4701](https://github.com/Azure/sdk-release-request/issues/4701)  | 10-30 | 11-24 |  |
-| 30 | 'Release stable version package-2023-08 for Microsoft.Confluent '  |  |  |  | [#4697](https://github.com/Azure/sdk-release-request/issues/4697)  | 10-30 | 11-24 |  |
-| 31 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
-| 32 | 'Release for Container Service - 2023-09-01'  |  |  |  | [#4668](https://github.com/Azure/sdk-release-request/issues/4668)  | 10-20 | 11-24 |  |
-| 33 | 'Release for QuotaRP - 2023-02-01'  |  |  |  | [#4660](https://github.com/Azure/sdk-release-request/issues/4660)  | 10-17 | 11-24 |  |
-| 34 | 'Release for Mobile Network - 2023-09'  |  |  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
+| 23 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 | Hold on by Go/ |
+| 24 | 'Release for PostgreSQL flexible servers - 2023-06-01-preview'  |  |  |  | [#4701](https://github.com/Azure/sdk-release-request/issues/4701)  | 10-30 | 11-24 |  |
+| 25 | 'Release for QuotaRP - 2023-02-01'  |  |  |  | [#4660](https://github.com/Azure/sdk-release-request/issues/4660)  | 10-17 | 11-24 |  |
+| 26 | 'Release for Mobile Network - 2023-09'  |  |  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
