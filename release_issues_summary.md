@@ -32,8 +32,7 @@
 | 30 | 'Release Azure Event Grid 2023-1215-preview'  |  |  |  | [#4702](https://github.com/Azure/sdk-release-request/issues/4702)  | 10-31 | 11-24 |  |
 | 31 | 'Release for PostgreSQL flexible servers - 2023-06-01-preview'  |  |  |  | [#4701](https://github.com/Azure/sdk-release-request/issues/4701)  | 10-30 | 11-24 |  |
 | 32 | 'Release stable version package-2023-08 for Microsoft.Confluent '  |  |  |  | [#4697](https://github.com/Azure/sdk-release-request/issues/4697)  | 10-30 | 11-24 |  |
-| 33 | 'Release for Container Service - 2023-09-02-preview'  |  |  |  | [#4684](https://github.com/Azure/sdk-release-request/issues/4684)  | 10-26 | 11-24 |  |
-| 34 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
-| 35 | 'Release for Container Service - 2023-09-01'  |  |  |  | [#4668](https://github.com/Azure/sdk-release-request/issues/4668)  | 10-20 | 11-24 |  |
-| 36 | 'Release for QuotaRP - 2023-02-01'  |  |  |  | [#4660](https://github.com/Azure/sdk-release-request/issues/4660)  | 10-17 | 11-24 |  |
-| 37 | 'Release for Mobile Network - 2023-09'  |  |  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
+| 33 | 'Release for databricks package-2023-05-01'  |  |  |  | [#4673](https://github.com/Azure/sdk-release-request/issues/4673)  | 10-23 | 11-24 |  |
+| 34 | 'Release for Container Service - 2023-09-01'  |  |  |  | [#4668](https://github.com/Azure/sdk-release-request/issues/4668)  | 10-20 | 11-24 |  |
+| 35 | 'Release for QuotaRP - 2023-02-01'  |  |  |  | [#4660](https://github.com/Azure/sdk-release-request/issues/4660)  | 10-17 | 11-24 |  |
+| 36 | 'Release for Mobile Network - 2023-09'  |  |  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
