@@ -7,7 +7,7 @@
 | 5 | [#4753](https://github.com/Azure/sdk-release-request/issues/4753) | kamperiadis |  | XiaofeiCao | new comment. close to release date.  | 11-10 | 11-24 | 0 |
 | 6 | [#4732](https://github.com/Azure/sdk-release-request/issues/4732) | gaagarwalMS |  | haolingdong-msft | new comment. close to release date.  | 11-08 | 11-24 | 0 |
 | 7 | [#4728](https://github.com/Azure/sdk-release-request/issues/4728) | FumingZhang |  | v-hongli1 |  | 11-08 |  | 0 |
-| 8 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new issue. new comment. close to release date.  | 11-06 | 11-24 | 0 |
+| 8 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | close to release date.  | 11-06 | 11-24 | 0 |
 | 9 | [#4710](https://github.com/Azure/sdk-release-request/issues/4710) | malpaniHMC |  | weidongxu-microsoft | close to release date.  | 11-03 | 11-24 | 0 |
 | 10 | [#4682](https://github.com/Azure/sdk-release-request/issues/4682) | DevArjun23 |  | XiaofeiCao | close to release date.  | 10-24 | 11-24 | 0 |
 | 11 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. close to release date.  | 10-23 | 11-24 | 0 |
