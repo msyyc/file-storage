@@ -14,12 +14,12 @@
 | 12 | 'Release for CosmosDB 2023-09-15-preview'  | [#4569](https://github.com/Azure/sdk-release-request/issues/4569)  | [#4570](https://github.com/Azure/sdk-release-request/issues/4570)  |  | [#4572](https://github.com/Azure/sdk-release-request/issues/4572)  | 09-26 | 10-27 | Hold on by Go/ |
 | 13 | 'edgemarketplace 2023-09-25'  | [#4486](https://github.com/Azure/sdk-release-request/issues/4486)  |  | [#4483](https://github.com/Azure/sdk-release-request/issues/4483)  |  | 08-31 | 09-22 | Hold on by Java/Python/ |
 | 14 | selfhelp 'Release update to 2023-09-01-preview SDK'  |  |  | [#4768](https://github.com/Azure/sdk-release-request/issues/4768)  |  | 11-16 | 12-22 |  |
-| 15 | 'Release for Container Service - 2023-10-01'  |  | [#4731](https://github.com/Azure/sdk-release-request/issues/4731)  | [#4728](https://github.com/Azure/sdk-release-request/issues/4728)  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 11-24 |  |
-| 16 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
-| 17 | 'Release for ServiceNetworking 2023-11-01'  |  | [#4719](https://github.com/Azure/sdk-release-request/issues/4719)  | [#4710](https://github.com/Azure/sdk-release-request/issues/4710)  | [#4711](https://github.com/Azure/sdk-release-request/issues/4711)  | 11-06 | 11-24 |  |
-| 18 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
-| 19 | 'Release for Microsoft.Web 2023-01-01'  |  | [#4754](https://github.com/Azure/sdk-release-request/issues/4754)  |  |  | 11-10 | 12-22 |  |
-| 20 | 'Release for ADF - 2023-11-09'  |  | [#4745](https://github.com/Azure/sdk-release-request/issues/4745)  |  |  | 11-09 | 11-24 |  |
+| 15 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
+| 16 | 'Release for ServiceNetworking 2023-11-01'  |  | [#4719](https://github.com/Azure/sdk-release-request/issues/4719)  | [#4710](https://github.com/Azure/sdk-release-request/issues/4710)  | [#4711](https://github.com/Azure/sdk-release-request/issues/4711)  | 11-06 | 11-24 |  |
+| 17 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
+| 18 | 'Release for Microsoft.Web 2023-01-01'  |  | [#4754](https://github.com/Azure/sdk-release-request/issues/4754)  |  |  | 11-10 | 12-22 |  |
+| 19 | 'Release for ADF - 2023-11-09'  |  | [#4745](https://github.com/Azure/sdk-release-request/issues/4745)  |  |  | 11-09 | 11-24 |  |
+| 20 | 'Release for Container Service - 2023-10-01'  |  | [#4731](https://github.com/Azure/sdk-release-request/issues/4731)  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 11-24 |  |
 | 21 | 'Release of PaloAltoNetworks.Cloudngfw version - 2023-09-01'  |  | [#4670](https://github.com/Azure/sdk-release-request/issues/4670)  |  |  | 10-23 | 11-24 |  |
 | 22 | 'Release for Azure Hybrid Network - 2023-09-01'  |  | [#4655](https://github.com/Azure/sdk-release-request/issues/4655)  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
 | 23 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 | Hold on by Go/ |
