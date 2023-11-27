@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#21927](https://github.com/Azure/azure-sdk-for-go/issues/21927)|Fix vulnerability issue for all mgmt. packages.|Mgmt|Alancere|new issue|2023-11-09|
-|2|[#21926](https://github.com/Azure/azure-sdk-for-go/issues/21926)|Refresh mgmt. package to add fake support|Mgmt|tadelesh, Alancere||2023-11-09|
+|2|[#21926](https://github.com/Azure/azure-sdk-for-go/issues/21926)|Refresh mgmt. package to add fake support|Mgmt|Alancere, tadelesh||2023-11-09|
 |3|[#21916](https://github.com/Azure/azure-sdk-for-go/issues/21916)|Question: How can I query the data transfer cost grouped by regions with Usage API?|question, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|Alancere|new issue|2023-11-08|
 |4|[#21877](https://github.com/Azure/azure-sdk-for-go/issues/21877)|Feature Request: No API For SQL server periodic recurring scan data|SQL, Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere||2023-11-03|
 |5|[#21859](https://github.com/Azure/azure-sdk-for-go/issues/21859)|Armstorage client: FileShareItem is the same as FileShare struct in FileShareClients|question, Storage, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2023-11-01|
@@ -9,7 +9,7 @@
 |7|[#21796](https://github.com/Azure/azure-sdk-for-go/issues/21796)|armmonitoring MetricsClient.ListAtSubscriptionScopePost report unexpected error.|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2023-10-18|
 |8|[#21777](https://github.com/Azure/azure-sdk-for-go/issues/21777)|Connectivity check returning a nonexistent `ConnectionStatus` constant|question, Service Attention, Mgmt, customer-reported, Network - Virtual Network, needs-team-attention|Alancere|new comment|2023-10-16|
 |9|[#21592](https://github.com/Azure/azure-sdk-for-go/issues/21592)|Add networkProfile data in hybrid compute machineProperties |question, Compute, Mgmt, customer-reported, needs-team-attention, feature-request|Alancere|new comment|2023-09-20|
-|10|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|tadelesh, Alancere|new issue|2023-09-06|
+|10|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|Alancere, tadelesh|new issue|2023-09-06|
 |11|[#21394](https://github.com/Azure/azure-sdk-for-go/issues/21394)|Unable to get the `name` field for `privateEndpointConnections` when we call from `azure-sdk-for-go` or through REST API.|question, Machine Learning, Mgmt, customer-reported, needs-team-attention, needs-team-triage|lirenhe||2023-08-18|
 |12|[#20338](https://github.com/Azure/azure-sdk-for-go/issues/20338)|[Mgmt Plane][Go] Unblock Track 1 to Track 2 migration|Mgmt|lirenhe|new comment|2023-03-06|
 |13|[#19666](https://github.com/Azure/azure-sdk-for-go/issues/19666)|PrivateDNS does not expose ResourceGroup|question, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2022-12-06|
@@ -34,6 +34,6 @@
 |32|[#7352](https://github.com/Azure/azure-sdk-for-go/issues/7352)|Azure Active Directory API Deprecated|question, AAD, Mgmt, customer-reported, ARM - RBAC, needs-team-attention, Graph.Microsoft|ArcturusZhang|new comment|2020-02-18|
 |33|[#6792](https://github.com/Azure/azure-sdk-for-go/issues/6792)|apimanagement client.ListComplete() returned empty list|bug, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2020-01-11|
 |34|[#6606](https://github.com/Azure/azure-sdk-for-go/issues/6606)|app configuration breaking change:  the api now returns the resource group name in the ID in lowercase now|bug, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang||2020-01-06|
-|35|[#5855](https://github.com/Azure/azure-sdk-for-go/issues/5855)|Eventhub Namespace Network Ruleset vnet rule Subnet ID returns ID with resource group name in lowercase|bug, Event Hubs, Service Attention, Mgmt, customer-reported|ArcturusZhang, v-Ajnava|new comment|2019-09-23|
+|35|[#5855](https://github.com/Azure/azure-sdk-for-go/issues/5855)|Eventhub Namespace Network Ruleset vnet rule Subnet ID returns ID with resource group name in lowercase|bug, Event Hubs, Service Attention, Mgmt, customer-reported|v-Ajnava, ArcturusZhang|new comment|2019-09-23|
 |36|[#4125](https://github.com/Azure/azure-sdk-for-go/issues/4125)|Azure IoT Hub device-2-cloud messages are not received by cloud|question, IoT, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2019-02-22|
 |37|[#3805](https://github.com/Azure/azure-sdk-for-go/issues/3805)|operationalinsights API returning all linked workspace service properties as lowercase|bug, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|ArcturusZhang|new comment|2019-01-05|
