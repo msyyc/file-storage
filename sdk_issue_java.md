@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft|new comment|2023-11-24|
-|2|[#37811](https://github.com/Azure/azure-sdk-for-java/issues/37811)|[BUG] Usage of ResourceManager with multiple subscriptions not possible|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-11-24|
+|1|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
+|2|[#37811](https://github.com/Azure/azure-sdk-for-java/issues/37811)|[BUG] Usage of ResourceManager with multiple subscriptions not possible|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-11-24|
 |3|[#37721](https://github.com/Azure/azure-sdk-for-java/issues/37721)|[FEATURE REQ] Need support for updating MinimumTLSversion of EventHubnamespace using azure-resourcemanager-eventhubs|Event Hubs, Mgmt, issue-addressed|v-hongli1, XiaofeiCao||2023-11-17|
 |4|[#37555](https://github.com/Azure/azure-sdk-for-java/issues/37555)|Deprecate azure-resourcemanager-videoanalyzer|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-11-08|
 |5|[#37436](https://github.com/Azure/azure-sdk-for-java/issues/37436)|[QUERY] How to create Storage Account with specific properties set ( ex :  allowCrossTenantReplication  )|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2023-10-27|
@@ -13,7 +13,7 @@
 |11|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |12|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |13|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
-|14|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring, graalvm, azure-spring-native|saragluna, weidongxu-microsoft, XiaofeiCao||2023-09-13|
+|14|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring, graalvm, azure-spring-native|weidongxu-microsoft, XiaofeiCao, saragluna||2023-09-13|
 |15|[#36660](https://github.com/Azure/azure-sdk-for-java/issues/36660)|Switch `VirtualMachines.listByVirtualMachineScaleSet` implementation|Mgmt, Mgmt - Track 2, MQ|XiaofeiCao||2023-09-07|
 |16|[#36646](https://github.com/Azure/azure-sdk-for-java/issues/36646)|[BUG] mgmt, investigate why publish doc fails on storagemover and voiceservices|Mgmt, Docs, MQ|XiaofeiCao||2023-09-06|
 |17|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
