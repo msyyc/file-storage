@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4782](https://github.com/Azure/sdk-release-request/issues/4782) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | new issue. MultiAPI | 11-27 | 12-22 |  |
+| 1 | [#4782](https://github.com/Azure/sdk-release-request/issues/4782) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | MultiAPI HoldOn | 11-27 | 12-22 |  |
 | 2 | [#4777](https://github.com/Azure/sdk-release-request/issues/4777) | CelinaJiangJXY | azure-mgmt-sql | ChenxiJiang333 | OnTime ForCLI | 11-22 | 12-22 |  |
 | 3 | [#4773](https://github.com/Azure/sdk-release-request/issues/4773) | mwesigwaguma | azure-mgmt-servicefabric | ChenxiJiang333 |  | 11-21 | 12-22 |  |
 | 4 | [#4772](https://github.com/Azure/sdk-release-request/issues/4772) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 11-21 | 12-22 |  |
