@@ -14,10 +14,10 @@
 | 12 | 'Release for CosmosDB 2023-09-15-preview'  | [#4569](https://github.com/Azure/sdk-release-request/issues/4569)  | [#4570](https://github.com/Azure/sdk-release-request/issues/4570)  |  | [#4572](https://github.com/Azure/sdk-release-request/issues/4572)  | 09-26 | 10-27 | Hold on by Go/ |
 | 13 | 'edgemarketplace 2023-09-25'  | [#4486](https://github.com/Azure/sdk-release-request/issues/4486)  |  | [#4483](https://github.com/Azure/sdk-release-request/issues/4483)  |  | 08-31 | 09-22 | Hold on by Java/Python/ |
 | 14 | selfhelp 'Release update to 2023-09-01-preview SDK'  |  |  | [#4768](https://github.com/Azure/sdk-release-request/issues/4768)  |  | 11-16 | 12-22 |  |
-| 15 | 'Release for Azure Operator Insights - 2023-11-15'  |  |  | [#4732](https://github.com/Azure/sdk-release-request/issues/4732)  | [#4733](https://github.com/Azure/sdk-release-request/issues/4733)  | 11-08 | 11-24 | Hold on by JS/ |
-| 16 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
-| 17 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
-| 18 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 | Hold on by Go/ |
+| 15 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
+| 16 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
+| 17 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 | Hold on by Go/ |
+| 18 | 'Release for Azure Operator Insights - 2023-11-15'  |  |  |  | [#4733](https://github.com/Azure/sdk-release-request/issues/4733)  | 11-08 | 11-24 | Hold on by JS/ |
 | 19 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
 | 20 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
 | 21 | 'Release for Mobile Network - 2023-09'  |  |  |  | [#4650](https://github.com/Azure/sdk-release-request/issues/4650)  | 10-13 | 11-24 | Hold on by JS/ |
