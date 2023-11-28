@@ -13,5 +13,4 @@
 | 11 | [#4681](https://github.com/Azure/sdk-release-request/issues/4681) | DevArjun23 |  | qiaozha |  | 10-24 | 01-26 |  |
 | 12 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. | 10-23 | 11-24 |  |
 | 13 | [#4652](https://github.com/Azure/sdk-release-request/issues/4652) | pjw711 |  | qiaozha |  | 10-13 | 11-24 |  |
-| 14 | [#4650](https://github.com/Azure/sdk-release-request/issues/4650) | JeetendraJoshi-MSFT |  | qiaozha |  | 10-13 | 11-24 |  |
-| 15 | [#4572](https://github.com/Azure/sdk-release-request/issues/4572) | niteshvijay1995 |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-27 |  |
+| 14 | [#4572](https://github.com/Azure/sdk-release-request/issues/4572) | niteshvijay1995 |  | qiaozha | Attention to inconsistent tag | 09-26 | 10-27 |  |
