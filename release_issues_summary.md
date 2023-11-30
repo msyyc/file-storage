@@ -21,7 +21,7 @@
 | 19 | '2023-08-01'  |  | [#4805](https://github.com/Azure/sdk-release-request/issues/4805)  | [#4807](https://github.com/Azure/sdk-release-request/issues/4807)  |  | 11-29 | 12-22 |  |
 | 20 | selfhelp 'Release update to 2023-09-01-preview SDK'  |  |  | [#4768](https://github.com/Azure/sdk-release-request/issues/4768)  |  | 11-16 | 12-22 |  |
 | 21 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
-| 22 | 'edgemarketplace 2023-09-25'  |  |  | [#4483](https://github.com/Azure/sdk-release-request/issues/4483)  |  | 08-31 | 09-22 | Hold on by Java/ |
+| 22 | 'edgemarketplace 2023-09-25'  |  |  | [#4483](https://github.com/Azure/sdk-release-request/issues/4483)  |  | 08-31 | 09-22 |  |
 | 23 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
 | 24 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 | Hold on by Go/ |
 | 25 | '2023-12-10'  |  |  |  | [#4806](https://github.com/Azure/sdk-release-request/issues/4806)  | 11-29 | 12-22 |  |
