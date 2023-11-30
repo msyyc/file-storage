@@ -25,6 +25,5 @@
 | 23 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
 | 24 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 | Hold on by Go/ |
 | 25 | '2023-12-10'  |  |  |  | [#4806](https://github.com/Azure/sdk-release-request/issues/4806)  | 11-29 | 12-22 |  |
-| 26 | 'Release for Azure Operator Insights - 2023-11-15'  |  |  |  | [#4733](https://github.com/Azure/sdk-release-request/issues/4733)  | 11-08 | 11-24 |  |
-| 27 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
-| 28 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
+| 26 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
+| 27 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 11-24 | Hold on by JS/ |
