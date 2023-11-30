@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | MultiAPI FirstBeta | 11-29 | 12-22 |  |
+| 1 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | new comment. MultiAPI FirstBeta | 11-29 | 12-22 |  |
 | 2 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
 | 3 | [#4799](https://github.com/Azure/sdk-release-request/issues/4799) | devlie | azure-mgmt-deviceupdate | ChenxiJiang333 |  | 11-29 | 12-22 |  |
 | 4 | [#4794](https://github.com/Azure/sdk-release-request/issues/4794) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 11-28 | 12-22 |  |
@@ -18,4 +18,3 @@
 | 16 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | FirstBeta HoldOn | 10-24 | 11-24 |  |
 | 17 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA HoldOn | 10-23 | 11-24 |  |
 | 18 | [#4569](https://github.com/Azure/sdk-release-request/issues/4569) | niteshvijay1995 | azure-mgmt-cosmosdb | ChenxiJiang333 | Attention to inconsistent tag | 09-26 | 10-27 |  |
-| 19 | [#4486](https://github.com/Azure/sdk-release-request/issues/4486) | aneesh-ponneth |  | ChenxiJiang333 | FirstBeta HoldOn | 08-31 | 09-22 |  |
