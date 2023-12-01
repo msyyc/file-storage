@@ -3,8 +3,8 @@
 | 1 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | new comment. MultiAPI FirstBeta | 11-29 | 12-22 |  |
 | 2 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
 | 3 | [#4799](https://github.com/Azure/sdk-release-request/issues/4799) | devlie | azure-mgmt-deviceupdate | ChenxiJiang333 |  | 11-29 | 12-22 |  |
-| 4 | [#4794](https://github.com/Azure/sdk-release-request/issues/4794) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag | 11-28 | 12-22 |  |
-| 5 | [#4789](https://github.com/Azure/sdk-release-request/issues/4789) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> | 11-28 | 12-22 |  |
+| 4 | [#4794](https://github.com/Azure/sdk-release-request/issues/4794) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag | 11-28 | 12-22 |  |
+| 5 | [#4789](https://github.com/Azure/sdk-release-request/issues/4789) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> new comment. | 11-28 | 12-22 |  |
 | 6 | [#4788](https://github.com/Azure/sdk-release-request/issues/4788) | asmitt | azure-mgmt-dataprotection | ChenxiJiang333 |  | 11-28 | 12-22 |  |
 | 7 | [#4782](https://github.com/Azure/sdk-release-request/issues/4782) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | MultiAPI HoldOn | 11-27 | 12-22 |  |
 | 8 | [#4777](https://github.com/Azure/sdk-release-request/issues/4777) | CelinaJiangJXY | azure-mgmt-sql | ChenxiJiang333 | OnTime ForCLI | 11-22 | 12-22 |  |
