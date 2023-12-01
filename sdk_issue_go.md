@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22071](https://github.com/Azure/azure-sdk-for-go/issues/22071)|List API for Reservation Recommendation is always returning empty result|question, Mgmt, customer-reported, needs-team-attention, Consumption - Query|Alancere|new issue|2023-11-30|
+|1|[#22071](https://github.com/Azure/azure-sdk-for-go/issues/22071)|List API for Reservation Recommendation is always returning empty result|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Consumption - Query|Alancere||2023-11-30|
 |2|[#21927](https://github.com/Azure/azure-sdk-for-go/issues/21927)|Fix vulnerability issue for all mgmt. packages.|Mgmt|Alancere|new issue|2023-11-09|
 |3|[#21926](https://github.com/Azure/azure-sdk-for-go/issues/21926)|Refresh mgmt. package to add fake support|Mgmt|Alancere, tadelesh||2023-11-09|
 |4|[#21916](https://github.com/Azure/azure-sdk-for-go/issues/21916)|Question: How can I query the data transfer cost grouped by regions with Usage API?|question, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|Alancere|new issue|2023-11-08|
