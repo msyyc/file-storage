@@ -12,7 +12,7 @@
 | 10 | [#4772](https://github.com/Azure/sdk-release-request/issues/4772) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new comment. | 11-21 | 12-22 |  |
 | 11 | [#4770](https://github.com/Azure/sdk-release-request/issues/4770) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 11-16 | 12-22 |  |
 | 12 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI HoldOn | 11-13 | 12-22 |  |
-| 13 | [#4760](https://github.com/Azure/sdk-release-request/issues/4760) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 11-10 | 12-22 |  |
+| 13 | [#4760](https://github.com/Azure/sdk-release-request/issues/4760) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 | new comment. | 11-10 | 12-22 |  |
 | 14 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 | new comment. HoldOn | 11-09 | 11-24 |  |
 | 15 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | HoldOn | 11-06 | 11-24 |  |
 | 16 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | FirstBeta HoldOn | 10-24 | 11-24 |  |
