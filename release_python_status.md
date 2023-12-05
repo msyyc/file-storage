@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 12-04 | 12-22 |  |
-| 2 | [#4811](https://github.com/Azure/sdk-release-request/issues/4811) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 | new issue. MultiAPI | 12-04 | 12-22 |  |
+| 2 | [#4811](https://github.com/Azure/sdk-release-request/issues/4811) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 | new issue. | 12-04 | 12-22 |  |
 | 3 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta | 11-29 | 12-22 |  |
 | 4 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
 | 5 | [#4799](https://github.com/Azure/sdk-release-request/issues/4799) | devlie | azure-mgmt-deviceupdate | ChenxiJiang333 |  | 11-29 | 12-22 |  |
