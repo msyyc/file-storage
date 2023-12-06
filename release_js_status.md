@@ -16,8 +16,8 @@
 | 14 | [#4767](https://github.com/Azure/sdk-release-request/issues/4767) | FumingZhang |  | MaryGao |  | 11-15 | 12-22 |  |
 | 15 | [#4762](https://github.com/Azure/sdk-release-request/issues/4762) | salambashir |  | MaryGao |  | 11-13 | 12-22 |  |
 | 16 | [#4758](https://github.com/Azure/sdk-release-request/issues/4758) | a-hamad |  | qiaozha | new comment. | 11-10 | 12-22 |  |
-| 17 | [#4741](https://github.com/Azure/sdk-release-request/issues/4741) | matthohn-msft |  | qiaozha |  | 11-09 | 11-24 |  |
+| 17 | [#4741](https://github.com/Azure/sdk-release-request/issues/4741) | matthohn-msft |  | qiaozha |  | 11-09 | 12-22 |  |
 | 18 | [#4729](https://github.com/Azure/sdk-release-request/issues/4729) | FumingZhang |  | qiaozha |  | 11-08 | 12-22 |  |
 | 19 | [#4681](https://github.com/Azure/sdk-release-request/issues/4681) | DevArjun23 |  | qiaozha |  | 10-24 | 01-26 |  |
-| 20 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha |  | 10-23 | 11-24 |  |
-| 21 | [#4652](https://github.com/Azure/sdk-release-request/issues/4652) | pjw711 |  | qiaozha |  | 10-13 | 11-24 |  |
+| 20 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. | 10-23 | 12-22 |  |
+| 21 | [#4652](https://github.com/Azure/sdk-release-request/issues/4652) | pjw711 |  | qiaozha |  | 10-13 | 12-22 |  |

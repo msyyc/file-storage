@@ -3,7 +3,7 @@
 | 1 | [#4820](https://github.com/Azure/sdk-release-request/issues/4820) | wiboris |  | Alancere |  | 12-05 | 12-22 |  |
 | 2 | [#4814](https://github.com/Azure/sdk-release-request/issues/4814) | audunn |  | Alancere |  | 12-04 | 12-22 |  |
 | 3 | [#4812](https://github.com/Azure/sdk-release-request/issues/4812) | Joanna-Yang-Art |  | Alancere |  | 12-04 | 12-22 |  |
-| 4 | [#4805](https://github.com/Azure/sdk-release-request/issues/4805) | aneesh-ponneth |  | Alancere |  | 11-29 | 12-22 |  |
+| 4 | [#4805](https://github.com/Azure/sdk-release-request/issues/4805) | aneesh-ponneth |  | Alancere | new comment. | 11-29 | 12-22 |  |
 | 5 | [#4804](https://github.com/Azure/sdk-release-request/issues/4804) | zdelacerda-microsoft |  | Alancere |  | 11-29 | 12-22 |  |
 | 6 | [#4800](https://github.com/Azure/sdk-release-request/issues/4800) | devlie |  | Alancere |  | 11-29 | 12-22 |  |
 | 7 | [#4796](https://github.com/Azure/sdk-release-request/issues/4796) | jnlycklama |  | Alancere |  | 11-28 | 12-22 |  |
@@ -17,6 +17,5 @@
 | 15 | [#4763](https://github.com/Azure/sdk-release-request/issues/4763) | salambashir |  | Alancere |  | 11-13 | 12-22 |  |
 | 16 | [#4759](https://github.com/Azure/sdk-release-request/issues/4759) | a-hamad |  | Alancere | new comment. | 11-10 | 12-22 |  |
 | 17 | [#4714](https://github.com/Azure/sdk-release-request/issues/4714) | iwrinshow |  | Alancere | new comment. | 11-06 | 11-24 |  |
-| 18 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. | 10-23 | 11-24 |  |
+| 18 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. | 10-23 | 12-22 |  |
 | 19 | [#4601](https://github.com/Azure/sdk-release-request/issues/4601) | alexandraavendano |  | Alancere | new comment. | 10-02 | 10-27 |  |
-| 20 | [#4570](https://github.com/Azure/sdk-release-request/issues/4570) | niteshvijay1995 |  | Alancere | Attention to inconsistent tag | 09-26 | 10-27 |  |
