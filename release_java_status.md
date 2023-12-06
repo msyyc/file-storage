@@ -3,7 +3,7 @@
 | 1 | [#4818](https://github.com/Azure/sdk-release-request/issues/4818) | wiboris |  | XiaofeiCao | new issue. | 12-05 | 12-22 |  |
 | 2 | [#4815](https://github.com/Azure/sdk-release-request/issues/4815) | audunn |  | XiaofeiCao | new issue. | 12-04 | 12-22 |  |
 | 3 | [#4810](https://github.com/Azure/sdk-release-request/issues/4810) | Joanna-Yang-Art |  | XiaofeiCao | new issue. | 12-04 | 12-22 |  |
-| 4 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. Attention to inconsistent tag | 11-29 | 12-22 |  |
+| 4 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao |  | 11-29 | 12-22 |  |
 | 5 | [#4801](https://github.com/Azure/sdk-release-request/issues/4801) | zdelacerda-microsoft |  | haolingdong-msft | new issue. new comment. | 11-29 | 12-22 |  |
 | 6 | [#4798](https://github.com/Azure/sdk-release-request/issues/4798) | devlie |  | weidongxu-microsoft | new issue. | 11-29 | 12-22 |  |
 | 7 | [#4793](https://github.com/Azure/sdk-release-request/issues/4793) | jnlycklama |  | XiaofeiCao | Attention to inconsistent tag | 11-28 | 12-22 |  |
