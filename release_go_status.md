@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4820](https://github.com/Azure/sdk-release-request/issues/4820) | wiboris |  | Alancere | new issue. | 12-05 | 12-22 |  |
+| 1 | [#4820](https://github.com/Azure/sdk-release-request/issues/4820) | wiboris |  | Alancere |  | 12-05 | 12-22 |  |
 | 2 | [#4814](https://github.com/Azure/sdk-release-request/issues/4814) | audunn |  | Alancere |  | 12-04 | 12-22 |  |
 | 3 | [#4812](https://github.com/Azure/sdk-release-request/issues/4812) | Joanna-Yang-Art |  | Alancere |  | 12-04 | 12-22 |  |
 | 4 | [#4805](https://github.com/Azure/sdk-release-request/issues/4805) | aneesh-ponneth |  | Alancere |  | 11-29 | 12-22 |  |
@@ -9,7 +9,7 @@
 | 7 | [#4796](https://github.com/Azure/sdk-release-request/issues/4796) | jnlycklama |  | Alancere |  | 11-28 | 12-22 |  |
 | 8 | [#4791](https://github.com/Azure/sdk-release-request/issues/4791) | jnlycklama |  | Alancere |  | 11-28 | 12-22 |  |
 | 9 | [#4786](https://github.com/Azure/sdk-release-request/issues/4786) | asmitt |  | Alancere | new comment. | 11-28 | 12-22 |  |
-| 10 | [#4784](https://github.com/Azure/sdk-release-request/issues/4784) | ambrahma |  | Alancere | new issue. | 11-27 | 12-22 |  |
+| 10 | [#4784](https://github.com/Azure/sdk-release-request/issues/4784) | ambrahma |  | Alancere |  | 11-27 | 12-22 |  |
 | 11 | [#4778](https://github.com/Azure/sdk-release-request/issues/4778) | CelinaJiangJXY |  | Alancere |  | 11-22 | 12-22 |  |
 | 12 | [#4776](https://github.com/Azure/sdk-release-request/issues/4776) | mwesigwaguma |  | Alancere |  | 11-21 | 12-22 |  |
 | 13 | [#4771](https://github.com/Azure/sdk-release-request/issues/4771) | sahilpwr |  | Alancere |  | 11-16 | 12-22 |  |
