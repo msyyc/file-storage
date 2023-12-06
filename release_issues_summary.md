@@ -23,7 +23,7 @@
 | 21 | selfhelp 'Release update to 2023-09-01-preview SDK'  |  |  | [#4768](https://github.com/Azure/sdk-release-request/issues/4768)  |  | 11-16 | 12-22 |  |
 | 22 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 |  |
 | 23 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
-| 24 | 'Refresh SDKs for Azure Event Grid 2023-12-15-preview'  |  | [#4759](https://github.com/Azure/sdk-release-request/issues/4759)  |  | [#4758](https://github.com/Azure/sdk-release-request/issues/4758)  | 11-10 | 12-22 |  |
-| 25 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 |  |
+| 24 | 'Release for BareMetalInstances'  |  | [#4601](https://github.com/Azure/sdk-release-request/issues/4601)  |  |  | 10-02 | 10-27 |  |
+| 25 | 'Refresh SDKs for Azure Event Grid 2023-12-15-preview'  |  |  |  | [#4758](https://github.com/Azure/sdk-release-request/issues/4758)  | 11-10 | 12-22 |  |
 | 26 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
 | 27 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 | Hold on by JS/ |
