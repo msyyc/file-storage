@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4823](https://github.com/Azure/sdk-release-request/issues/4823) | grizzlytheodore |  | Alancere | new issue. | 12-06 | 12-22 |  |
+| 1 | [#4823](https://github.com/Azure/sdk-release-request/issues/4823) | grizzlytheodore |  | Alancere |  | 12-06 | 12-22 |  |
 | 2 | [#4820](https://github.com/Azure/sdk-release-request/issues/4820) | wiboris |  | Alancere |  | 12-05 | 12-22 |  |
 | 3 | [#4814](https://github.com/Azure/sdk-release-request/issues/4814) | audunn |  | Alancere |  | 12-04 | 12-22 |  |
 | 4 | [#4812](https://github.com/Azure/sdk-release-request/issues/4812) | Joanna-Yang-Art |  | Alancere |  | 12-04 | 12-22 |  |
