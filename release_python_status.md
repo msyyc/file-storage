@@ -1,13 +1,13 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4817](https://github.com/Azure/sdk-release-request/issues/4817) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 12-05 | 12-22 |  |
-| 2 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 12-04 | 12-22 |  |
-| 3 | [#4811](https://github.com/Azure/sdk-release-request/issues/4811) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 |  | 12-04 | 12-22 |  |
-| 4 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta | 11-29 | 12-22 |  |
-| 5 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
-| 6 | [#4799](https://github.com/Azure/sdk-release-request/issues/4799) | devlie | azure-mgmt-deviceupdate | ChenxiJiang333 |  | 11-29 | 12-22 |  |
-| 7 | [#4794](https://github.com/Azure/sdk-release-request/issues/4794) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> new comment. HoldOn | 11-28 | 12-22 |  |
-| 8 | [#4789](https://github.com/Azure/sdk-release-request/issues/4789) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | duplicated issue  <br> new comment. HoldOn | 11-28 | 12-22 |  |
+| 1 | [#4824](https://github.com/Azure/sdk-release-request/issues/4824) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 12-06 | 12-22 |  |
+| 2 | [#4817](https://github.com/Azure/sdk-release-request/issues/4817) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 12-05 | 12-22 |  |
+| 3 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 12-04 | 12-22 |  |
+| 4 | [#4811](https://github.com/Azure/sdk-release-request/issues/4811) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 |  | 12-04 | 12-22 |  |
+| 5 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta | 11-29 | 12-22 |  |
+| 6 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
+| 7 | [#4799](https://github.com/Azure/sdk-release-request/issues/4799) | devlie | azure-mgmt-deviceupdate | ChenxiJiang333 |  | 11-29 | 12-22 |  |
+| 8 | [#4789](https://github.com/Azure/sdk-release-request/issues/4789) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | new comment. HoldOn | 11-28 | 12-22 |  |
 | 9 | [#4788](https://github.com/Azure/sdk-release-request/issues/4788) | asmitt | azure-mgmt-dataprotection | ChenxiJiang333 | HoldOn | 11-28 | 12-22 |  |
 | 10 | [#4782](https://github.com/Azure/sdk-release-request/issues/4782) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 11-27 | 12-22 |  |
 | 11 | [#4777](https://github.com/Azure/sdk-release-request/issues/4777) | CelinaJiangJXY | azure-mgmt-sql | ChenxiJiang333 | OnTime ForCLI | 11-22 | 12-22 |  |
