@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4821](https://github.com/Azure/sdk-release-request/issues/4821) | grizzlytheodore |  | haolingdong-msft | new issue. | 12-06 | 12-22 |  |
+| 1 | [#4821](https://github.com/Azure/sdk-release-request/issues/4821) | grizzlytheodore |  | v-hongli1 |  | 12-06 |  | 0 |
 | 2 | [#4818](https://github.com/Azure/sdk-release-request/issues/4818) | wiboris |  | XiaofeiCao | new issue. | 12-05 | 12-22 |  |
 | 3 | [#4815](https://github.com/Azure/sdk-release-request/issues/4815) | audunn |  | XiaofeiCao | new issue. | 12-04 | 12-22 |  |
-| 4 | [#4810](https://github.com/Azure/sdk-release-request/issues/4810) | Joanna-Yang-Art |  | XiaofeiCao | new issue. | 12-04 | 12-22 |  |
+| 4 | [#4810](https://github.com/Azure/sdk-release-request/issues/4810) | Joanna-Yang-Art |  | v-hongli1 |  | 12-04 |  | 0 |
 | 5 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. | 11-29 | 12-22 |  |
 | 6 | [#4801](https://github.com/Azure/sdk-release-request/issues/4801) | zdelacerda-microsoft |  | haolingdong-msft | new issue. new comment. | 11-29 | 12-22 |  |
 | 7 | [#4798](https://github.com/Azure/sdk-release-request/issues/4798) | devlie |  | weidongxu-microsoft | new issue. | 11-29 | 12-22 |  |
