@@ -1,11 +1,11 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27930](https://github.com/Azure/azure-sdk-for-js/issues/27930)|Azure Resource Management Datadog Sample Issue|Client, Mgmt, test-manual-pass, Data Dog|MaryGao, kazrael2119|new issue|2023-11-29|
+|1|[#27930](https://github.com/Azure/azure-sdk-for-js/issues/27930)|Azure Resource Management Datadog Sample Issue|Mgmt, test-manual-pass, Data Dog|MaryGao, kazrael2119|new issue|2023-11-29|
 |2|[#27929](https://github.com/Azure/azure-sdk-for-js/issues/27929)|Azure Resource Management NetApp Files Sample Issues|Client, Mgmt, test-manual-pass, netapp|MaryGao, kazrael2119|new issue|2023-11-29|
-|3|[#27928](https://github.com/Azure/azure-sdk-for-js/issues/27928)|Azure Resource Management Kusto Sample Issue|Client, Mgmt, test-manual-pass, Kusto|MaryGao, kazrael2119|new issue|2023-11-29|
-|4|[#27927](https://github.com/Azure/azure-sdk-for-js/issues/27927)|Azure Resource Management Content Delivery Network Sample Issue|Client, Mgmt, Network - CDN, test-manual-pass|MaryGao, kazrael2119|new comment|2023-11-29|
-|5|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Client, Mgmt, Service Attention, ARM, Resource Health, test-manual-pass|MaryGao, kazrael2119|new comment|2023-11-29|
-|6|[#27750](https://github.com/Azure/azure-sdk-for-js/issues/27750)|Handle compliance issue on NSP RP JavaScript SDKs|question, customer-reported, Mgmt, Event Hubs, needs-author-feedback|qiaozha, kazrael2119||2023-11-10|
+|3|[#27928](https://github.com/Azure/azure-sdk-for-js/issues/27928)|Azure Resource Management Kusto Sample Issue|Mgmt, test-manual-pass, Kusto|MaryGao, kazrael2119|new issue|2023-11-29|
+|4|[#27927](https://github.com/Azure/azure-sdk-for-js/issues/27927)|Azure Resource Management Content Delivery Network Sample Issue|Mgmt, Network - CDN, test-manual-pass|MaryGao, kazrael2119|new comment|2023-11-29|
+|5|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, ARM, Resource Health, test-manual-pass|MaryGao, kazrael2119|new comment|2023-11-29|
+|6|[#27750](https://github.com/Azure/azure-sdk-for-js/issues/27750)|Handle compliance issue on NSP RP JavaScript SDKs|question, customer-reported, Mgmt, Event Hubs, needs-team-attention|qiaozha, kazrael2119|new comment|2023-11-10|
 |7|[#27136](https://github.com/Azure/azure-sdk-for-js/issues/27136)|[Feature Request] Add support for REST API's in `Azure API Connections` service.|question, customer-reported, Mgmt, App Services, Service Attention, Logic App, needs-team-attention|MaryGao, kazrael2119||2023-09-15|
 |8|[#27068](https://github.com/Azure/azure-sdk-for-js/issues/27068)|[@azure/arm-desktopvirtualization] Nullable Properties|question, customer-reported, Mgmt, Service Attention, ARM, needs-team-attention|qiaozha, kazrael2119||2023-09-11|
 |9|[#27053](https://github.com/Azure/azure-sdk-for-js/issues/27053)|[mgmt] breaking change detection tool bug|Mgmt|MaryGao|new comment|2023-09-08|
