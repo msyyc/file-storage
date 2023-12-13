@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4832](https://github.com/Azure/sdk-release-request/issues/4832) | ddhamotharan | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 12-12 | 01-26 |  |
-| 2 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | HoldOn | 12-11 | 01-26 |  |
+| 2 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | FirstBeta HoldOn | 12-11 | 01-26 |  |
 | 3 | [#4824](https://github.com/Azure/sdk-release-request/issues/4824) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 12-06 | 12-22 |  |
 | 4 | [#4817](https://github.com/Azure/sdk-release-request/issues/4817) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 12-05 | 12-22 |  |
 | 5 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 12-04 | 12-22 |  |
