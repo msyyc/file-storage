@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | new issue. | 12-15 | 01-26 |  |
+| 1 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 |  | 12-15 | 01-26 |  |
 | 2 | [#4833](https://github.com/Azure/sdk-release-request/issues/4833) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-15 | 01-26 |  |
 | 3 | [#4832](https://github.com/Azure/sdk-release-request/issues/4832) | ddhamotharan | azure-mgmt-cosmosdb | ChenxiJiang333 | ForCLI | 12-12 | 01-26 |  |
 | 4 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | FirstBeta HoldOn | 12-11 | 01-26 |  |
