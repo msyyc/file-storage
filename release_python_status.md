@@ -3,7 +3,7 @@
 | 1 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta | 12-15 | 01-26 |  |
 | 2 | [#4833](https://github.com/Azure/sdk-release-request/issues/4833) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-15 | 01-26 |  |
 | 3 | [#4832](https://github.com/Azure/sdk-release-request/issues/4832) | ddhamotharan | azure-mgmt-cosmosdb | ChenxiJiang333 | ForCLI | 12-12 | 01-26 |  |
-| 4 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | FirstBeta HoldOn | 12-11 | 01-26 |  |
+| 4 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | new comment. FirstBeta HoldOn | 12-11 | 01-26 |  |
 | 5 | [#4824](https://github.com/Azure/sdk-release-request/issues/4824) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 12-06 | 12-22 |  |
 | 6 | [#4817](https://github.com/Azure/sdk-release-request/issues/4817) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 12-05 | 12-22 |  |
 | 7 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 12-04 | 12-22 |  |
