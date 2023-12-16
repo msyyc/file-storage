@@ -3,7 +3,7 @@
 | 1 | [#4835](https://github.com/Azure/sdk-release-request/issues/4835) | sunkun99 |  | MaryGao | new issue. | 12-15 | 01-26 |  |
 | 2 | [#4831](https://github.com/Azure/sdk-release-request/issues/4831) | ddhamotharan |  | MaryGao | new issue. | 12-12 | 01-26 |  |
 | 3 | [#4825](https://github.com/Azure/sdk-release-request/issues/4825) | iwrinshow |  | qiaozha |  | 12-08 | 01-26 |  |
-| 4 | [#4822](https://github.com/Azure/sdk-release-request/issues/4822) | grizzlytheodore |  | qiaozha |  | 12-06 | 12-22 |  |
+| 4 | [#4822](https://github.com/Azure/sdk-release-request/issues/4822) | grizzlytheodore |  | qiaozha | new comment. | 12-06 | 12-22 |  |
 | 5 | [#4819](https://github.com/Azure/sdk-release-request/issues/4819) | wiboris |  | qiaozha |  | 12-05 | 12-22 |  |
 | 6 | [#4816](https://github.com/Azure/sdk-release-request/issues/4816) | audunn |  | qiaozha |  | 12-04 | 12-22 |  |
 | 7 | [#4809](https://github.com/Azure/sdk-release-request/issues/4809) | Joanna-Yang-Art |  | qiaozha | new comment. | 12-04 | 12-22 |  |
