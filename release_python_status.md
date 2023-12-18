@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | new issue. | 12-18 | 01-26 |  |
+| 1 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 |  | 12-18 | 01-26 |  |
 | 2 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta | 12-15 | 01-26 |  |
 | 3 | [#4833](https://github.com/Azure/sdk-release-request/issues/4833) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-15 | 01-26 |  |
 | 4 | [#4832](https://github.com/Azure/sdk-release-request/issues/4832) | ddhamotharan | azure-mgmt-cosmosdb | ChenxiJiang333 | ForCLI | 12-12 | 01-26 |  |
@@ -17,7 +17,7 @@
 | 15 | [#4782](https://github.com/Azure/sdk-release-request/issues/4782) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 11-27 | 12-22 |  |
 | 16 | [#4777](https://github.com/Azure/sdk-release-request/issues/4777) | CelinaJiangJXY | azure-mgmt-sql | ChenxiJiang333 | OnTime ForCLI | 11-22 | 12-22 |  |
 | 17 | [#4773](https://github.com/Azure/sdk-release-request/issues/4773) | mwesigwaguma | azure-mgmt-servicefabric | ChenxiJiang333 |  | 11-21 | 12-22 |  |
-| 18 | [#4772](https://github.com/Azure/sdk-release-request/issues/4772) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new comment. | 11-21 | 12-22 |  |
+| 18 | [#4772](https://github.com/Azure/sdk-release-request/issues/4772) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | HoldOn | 11-21 | 12-22 |  |
 | 19 | [#4770](https://github.com/Azure/sdk-release-request/issues/4770) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 11-16 | 12-22 |  |
 | 20 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI HoldOn | 11-13 | 12-22 |  |
 | 21 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 | new comment. HoldOn | 11-09 | 12-22 |  |
