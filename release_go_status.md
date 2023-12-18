@@ -14,7 +14,7 @@
 | 12 | [#4791](https://github.com/Azure/sdk-release-request/issues/4791) | jnlycklama |  | Alancere |  | 11-28 | 12-22 |  |
 | 13 | [#4786](https://github.com/Azure/sdk-release-request/issues/4786) | asmitt |  | Alancere | new comment. | 11-28 | 12-22 |  |
 | 14 | [#4784](https://github.com/Azure/sdk-release-request/issues/4784) | ambrahma |  | Alancere |  | 11-27 | 12-22 |  |
-| 15 | [#4778](https://github.com/Azure/sdk-release-request/issues/4778) | CelinaJiangJXY |  | Alancere |  | 11-22 | 12-22 |  |
+| 15 | [#4778](https://github.com/Azure/sdk-release-request/issues/4778) | CelinaJiangJXY |  | Alancere | new comment. | 11-22 | 12-22 |  |
 | 16 | [#4776](https://github.com/Azure/sdk-release-request/issues/4776) | mwesigwaguma |  | Alancere |  | 11-21 | 12-22 |  |
 | 17 | [#4771](https://github.com/Azure/sdk-release-request/issues/4771) | sahilpwr |  | Alancere |  | 11-16 | 12-22 |  |
 | 18 | [#4766](https://github.com/Azure/sdk-release-request/issues/4766) | FumingZhang |  | Alancere |  | 11-15 | 12-22 |  |
