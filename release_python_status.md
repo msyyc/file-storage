@@ -7,7 +7,7 @@
 | 5 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | new comment. FirstBeta HoldOn | 12-11 | 01-26 |  |
 | 6 | [#4824](https://github.com/Azure/sdk-release-request/issues/4824) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 12-06 | 12-22 |  |
 | 7 | [#4817](https://github.com/Azure/sdk-release-request/issues/4817) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 12-05 | 12-22 |  |
-| 8 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 12-04 | 12-22 |  |
+| 8 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 | HoldOn | 12-04 | 12-22 |  |
 | 9 | [#4811](https://github.com/Azure/sdk-release-request/issues/4811) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 |  | 12-04 | 12-22 |  |
 | 10 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 12-22 |  |
 | 11 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
@@ -21,6 +21,6 @@
 | 19 | [#4770](https://github.com/Azure/sdk-release-request/issues/4770) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 11-16 | 12-22 |  |
 | 20 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI HoldOn | 11-13 | 12-22 |  |
 | 21 | [#4743](https://github.com/Azure/sdk-release-request/issues/4743) | matthohn-msft | azure-mgmt-communication | ChenxiJiang333 |  | 11-09 | 12-22 |  |
-| 22 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 11-06 | 11-24 |  |
+| 22 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 11-06 | 12-22 |  |
 | 23 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | FirstBeta HoldOn | 10-24 | 01-26 |  |
 | 24 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA HoldOn | 10-23 | 12-22 |  |
