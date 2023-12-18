@@ -27,6 +27,6 @@
 | 25 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 |  |
 | 26 | 'Release for Container Service - 2023-10-02-preview'  |  | [#4766](https://github.com/Azure/sdk-release-request/issues/4766)  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
 | 27 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
-| 28 | 'Release for Azure.ResourceManager.Communication 1.2.0-beta.3'  |  |  |  | [#4741](https://github.com/Azure/sdk-release-request/issues/4741)  | 11-09 | 12-22 | Hold on by JS/ |
+| 28 | 'Release for Azure.ResourceManager.Communication 1.2.0-beta.3'  |  |  |  | [#4741](https://github.com/Azure/sdk-release-request/issues/4741)  | 11-09 | 12-22 |  |
 | 29 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
 | 30 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 | Hold on by JS/ |
