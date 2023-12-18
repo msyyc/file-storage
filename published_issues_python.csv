@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,grizzlytheodore,ChenxiJiang333,2023-12-06,2023-12-18,https://github.com/Azure/sdk-release-request/issues/4824,30.4.0,True
 azure-mgmt-communication,matthohn-msft,ChenxiJiang333,2023-11-09,2023-12-18,https://github.com/Azure/sdk-release-request/issues/4743,2.1.0b2,
 azure-mgmt-batch,wiboris,ChenxiJiang333,2023-12-05,2023-12-18,https://github.com/Azure/sdk-release-request/issues/4817,17.2.0,True
 azure-mgmt-servicefabric,mwesigwaguma,ChenxiJiang333,2023-11-21,2023-12-18,https://github.com/Azure/sdk-release-request/issues/4773,2.1.0,True
