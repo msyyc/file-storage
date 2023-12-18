@@ -8,15 +8,9 @@
 | 6 | [#4824](https://github.com/Azure/sdk-release-request/issues/4824) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 12-06 | 12-22 |  |
 | 7 | [#4817](https://github.com/Azure/sdk-release-request/issues/4817) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 12-05 | 12-22 |  |
 | 8 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 | HoldOn | 12-04 | 12-22 |  |
-| 9 | [#4811](https://github.com/Azure/sdk-release-request/issues/4811) | Joanna-Yang-Art | azure-mgmt-network | ChenxiJiang333 |  | 12-04 | 12-22 |  |
 | 10 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 12-22 |  |
-| 11 | [#4803](https://github.com/Azure/sdk-release-request/issues/4803) | zdelacerda-microsoft | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 11-29 | 12-22 |  |
-| 12 | [#4799](https://github.com/Azure/sdk-release-request/issues/4799) | devlie | azure-mgmt-deviceupdate | ChenxiJiang333 |  | 11-29 | 12-22 |  |
 | 13 | [#4789](https://github.com/Azure/sdk-release-request/issues/4789) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 11-28 | 12-22 |  |
-| 14 | [#4788](https://github.com/Azure/sdk-release-request/issues/4788) | asmitt | azure-mgmt-dataprotection | ChenxiJiang333 |  | 11-28 | 12-22 |  |
-| 15 | [#4782](https://github.com/Azure/sdk-release-request/issues/4782) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 11-27 | 12-22 |  |
 | 16 | [#4777](https://github.com/Azure/sdk-release-request/issues/4777) | CelinaJiangJXY | azure-mgmt-sql | ChenxiJiang333 | OnTime ForCLI | 11-22 | 12-22 |  |
-| 17 | [#4773](https://github.com/Azure/sdk-release-request/issues/4773) | mwesigwaguma | azure-mgmt-servicefabric | ChenxiJiang333 |  | 11-21 | 12-22 |  |
 | 18 | [#4772](https://github.com/Azure/sdk-release-request/issues/4772) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | HoldOn | 11-21 | 12-22 |  |
 | 19 | [#4770](https://github.com/Azure/sdk-release-request/issues/4770) | sahilpwr | azure-mgmt-selfhelp | ChenxiJiang333 |  | 11-16 | 12-22 |  |
 | 20 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI HoldOn | 11-13 | 12-22 |  |
