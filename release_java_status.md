@@ -9,7 +9,7 @@
 | 7 | [#4815](https://github.com/Azure/sdk-release-request/issues/4815) | audunn |  | v-hongli1 |  | 12-04 |  | 0 |
 | 8 | [#4810](https://github.com/Azure/sdk-release-request/issues/4810) | Joanna-Yang-Art |  | v-hongli1 |  | 12-04 |  | 0 |
 | 9 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. close to release date.  | 11-29 | 12-22 | 2 |
-| 10 | [#4801](https://github.com/Azure/sdk-release-request/issues/4801) | zdelacerda-microsoft |  | haolingdong-msft | new issue. new comment. close to release date.  | 11-29 | 12-22 | 2 |
+| 10 | [#4801](https://github.com/Azure/sdk-release-request/issues/4801) | zdelacerda-microsoft |  | haolingdong-msft | close to release date.  | 11-29 | 12-22 | 2 |
 | 11 | [#4792](https://github.com/Azure/sdk-release-request/issues/4792) | jnlycklama |  | XiaofeiCao | close to release date.  | 11-28 | 12-22 | 2 |
 | 12 | [#4781](https://github.com/Azure/sdk-release-request/issues/4781) | ambrahma |  | haolingdong-msft | new issue. close to release date.  | 11-27 | 12-22 | 2 |
 | 13 | [#4780](https://github.com/Azure/sdk-release-request/issues/4780) | CelinaJiangJXY |  | XiaofeiCao | new issue. new comment. close to release date.  | 11-22 | 12-22 | 2 |
