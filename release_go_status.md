@@ -15,10 +15,7 @@
 | 13 | [#4786](https://github.com/Azure/sdk-release-request/issues/4786) | asmitt |  | Alancere | new comment. close to release date.  | 11-28 | 12-22 | 1 |
 | 14 | [#4784](https://github.com/Azure/sdk-release-request/issues/4784) | ambrahma |  | Alancere | close to release date.  | 11-27 | 12-22 | 1 |
 | 15 | [#4778](https://github.com/Azure/sdk-release-request/issues/4778) | CelinaJiangJXY |  | Alancere | new comment. close to release date.  | 11-22 | 12-22 | 1 |
-| 16 | [#4776](https://github.com/Azure/sdk-release-request/issues/4776) | mwesigwaguma |  | Alancere | close to release date.  | 11-21 | 12-22 | 1 |
-| 17 | [#4771](https://github.com/Azure/sdk-release-request/issues/4771) | sahilpwr |  | Alancere | close to release date.  | 11-16 | 12-22 | 1 |
-| 18 | [#4766](https://github.com/Azure/sdk-release-request/issues/4766) | FumingZhang |  | Alancere | close to release date.  | 11-15 | 12-22 | 1 |
-| 19 | [#4763](https://github.com/Azure/sdk-release-request/issues/4763) | salambashir |  | Alancere | new comment. | 11-13 | 01-26 |  |
-| 20 | [#4714](https://github.com/Azure/sdk-release-request/issues/4714) | iwrinshow |  | Alancere | new comment. | 11-06 | 11-24 |  |
-| 21 | [#4680](https://github.com/Azure/sdk-release-request/issues/4680) | DevArjun23 |  | Alancere | new comment. | 10-24 | 01-26 |  |
-| 22 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. close to release date.  | 10-23 | 12-22 | 1 |
+| 16 | [#4763](https://github.com/Azure/sdk-release-request/issues/4763) | salambashir |  | Alancere | new comment. | 11-13 | 01-26 |  |
+| 17 | [#4714](https://github.com/Azure/sdk-release-request/issues/4714) | iwrinshow |  | Alancere | new comment. | 11-06 | 11-24 |  |
+| 18 | [#4680](https://github.com/Azure/sdk-release-request/issues/4680) | DevArjun23 |  | Alancere | new comment. | 10-24 | 01-26 |  |
+| 19 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. close to release date.  | 10-23 | 12-22 | 1 |
