@@ -20,13 +20,12 @@
 | 18 | 'Network 2022-06-01'  |  | [#4812](https://github.com/Azure/sdk-release-request/issues/4812)  | [#4810](https://github.com/Azure/sdk-release-request/issues/4810)  | [#4809](https://github.com/Azure/sdk-release-request/issues/4809)  | 12-04 | 12-22 |  |
 | 19 | 'Release for Azure VM Image Builder - 2023-07-01'  |  | [#4804](https://github.com/Azure/sdk-release-request/issues/4804)  | [#4801](https://github.com/Azure/sdk-release-request/issues/4801)  | [#4802](https://github.com/Azure/sdk-release-request/issues/4802)  | 11-29 | 12-22 |  |
 | 20 | 'Rlease a fix for S360 for PostgreSQL flexible server - 2023-06-01-preview'  |  |  | [#4781](https://github.com/Azure/sdk-release-request/issues/4781)  | [#4783](https://github.com/Azure/sdk-release-request/issues/4783)  | 11-27 | 12-22 |  |
-| 21 | selfhelp 'Release update to 2023-09-01-preview SDK'  |  |  | [#4768](https://github.com/Azure/sdk-release-request/issues/4768)  |  | 11-16 | 12-22 |  |
-| 22 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
-| 23 | 'Release for Device Update for IoT Hub - 2023-07-01'  |  | [#4800](https://github.com/Azure/sdk-release-request/issues/4800)  |  | [#4797](https://github.com/Azure/sdk-release-request/issues/4797)  | 11-29 | 12-22 |  |
-| 24 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
-| 25 | 'Release for dataprotection - 2023-11-01'  |  |  |  | [#4787](https://github.com/Azure/sdk-release-request/issues/4787)  | 11-28 | 12-22 |  |
-| 26 | 'Release for Service Fabric 2021-06-01'  |  |  |  | [#4775](https://github.com/Azure/sdk-release-request/issues/4775)  | 11-21 | 12-22 |  |
-| 27 | 'Release for Container Service - 2023-10-02-preview'  |  |  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
-| 28 | 'Release for Azure.ResourceManager.Communication 1.2.0-beta.3'  |  |  |  | [#4741](https://github.com/Azure/sdk-release-request/issues/4741)  | 11-09 | 12-22 |  |
-| 29 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
-| 30 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 | Hold on by JS/ |
+| 21 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
+| 22 | 'Release for Device Update for IoT Hub - 2023-07-01'  |  | [#4800](https://github.com/Azure/sdk-release-request/issues/4800)  |  | [#4797](https://github.com/Azure/sdk-release-request/issues/4797)  | 11-29 | 12-22 |  |
+| 23 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
+| 24 | 'Release for dataprotection - 2023-11-01'  |  |  |  | [#4787](https://github.com/Azure/sdk-release-request/issues/4787)  | 11-28 | 12-22 |  |
+| 25 | 'Release for Service Fabric 2021-06-01'  |  |  |  | [#4775](https://github.com/Azure/sdk-release-request/issues/4775)  | 11-21 | 12-22 |  |
+| 26 | 'Release for Container Service - 2023-10-02-preview'  |  |  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
+| 27 | 'Release for Azure.ResourceManager.Communication 1.2.0-beta.3'  |  |  |  | [#4741](https://github.com/Azure/sdk-release-request/issues/4741)  | 11-09 | 12-22 |  |
+| 28 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
+| 29 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 | Hold on by JS/ |
