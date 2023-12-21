@@ -20,7 +20,7 @@
 | 18 | 'Release for Azure VM Image Builder - 2023-07-01'  |  |  | [#4801](https://github.com/Azure/sdk-release-request/issues/4801)  | [#4802](https://github.com/Azure/sdk-release-request/issues/4802)  | 11-29 | 12-22 | Hold on by Java/ |
 | 19 | 'Release for HealthcareApis 2023-11-01'  |  |  | [#4792](https://github.com/Azure/sdk-release-request/issues/4792)  | [#4790](https://github.com/Azure/sdk-release-request/issues/4790)  | 11-28 | 12-22 |  |
 | 20 | 'Rlease a fix for S360 for PostgreSQL flexible server - 2023-06-01-preview'  |  |  | [#4781](https://github.com/Azure/sdk-release-request/issues/4781)  | [#4783](https://github.com/Azure/sdk-release-request/issues/4783)  | 11-27 | 12-22 |  |
-| 21 | 'Release for LongTermRetentionPolicies and LongTermRetentionBackups - 2023-11-22 (ASAP)'  |  | [#4778](https://github.com/Azure/sdk-release-request/issues/4778)  | [#4780](https://github.com/Azure/sdk-release-request/issues/4780)  |  | 11-22 | 12-22 |  |
+| 21 | 'Release for LongTermRetentionPolicies and LongTermRetentionBackups - 2023-11-22 (ASAP)'  |  |  | [#4780](https://github.com/Azure/sdk-release-request/issues/4780)  |  | 11-22 | 12-22 |  |
 | 22 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
 | 23 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
 | 24 | 'Release for Device Update for IoT Hub - 2023-07-01'  |  |  |  | [#4797](https://github.com/Azure/sdk-release-request/issues/4797)  | 11-29 | 12-22 |  |
