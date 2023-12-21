@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4847](https://github.com/Azure/sdk-release-request/issues/4847) | FumingZhang |  | ChenxiJiang333 |  | 12-21 |  | 0 |
+| 1 | [#4847](https://github.com/Azure/sdk-release-request/issues/4847) | FumingZhang |  | ChenxiJiang333 | new issue. | 12-21 | 01-26 |  |
 | 2 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | Attention to inconsistent tag | 12-20 | 01-26 |  |
 | 3 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | FirstGA | 12-18 | 01-26 |  |
 | 4 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta | 12-15 | 01-26 |  |
