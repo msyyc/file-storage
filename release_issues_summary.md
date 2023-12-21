@@ -26,6 +26,5 @@
 | 24 | 'Release for Device Update for IoT Hub - 2023-07-01'  |  |  |  | [#4797](https://github.com/Azure/sdk-release-request/issues/4797)  | 11-29 | 12-22 |  |
 | 25 | 'Release for dataprotection - 2023-11-01'  |  |  |  | [#4787](https://github.com/Azure/sdk-release-request/issues/4787)  | 11-28 | 12-22 |  |
 | 26 | 'Release update to 2023-09-01-preview SDK'  |  |  |  | [#4769](https://github.com/Azure/sdk-release-request/issues/4769)  | 11-16 | 12-22 |  |
-| 27 | 'Release for Container Service - 2023-10-02-preview'  |  |  |  | [#4767](https://github.com/Azure/sdk-release-request/issues/4767)  | 11-15 | 12-22 |  |
-| 28 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 | Hold on by JS/ |
-| 29 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 | Hold on by JS/ |
+| 27 | 'Release for Container Service - 2023-10-01'  |  |  |  | [#4729](https://github.com/Azure/sdk-release-request/issues/4729)  | 11-08 | 12-22 |  |
+| 28 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 | Hold on by JS/ |
