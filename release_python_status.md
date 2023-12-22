@@ -6,7 +6,7 @@
 | 4 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta | 12-15 | 01-26 |  |
 | 5 | [#4833](https://github.com/Azure/sdk-release-request/issues/4833) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-15 | 01-26 |  |
 | 6 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | FirstBeta | 12-11 | 01-26 |  |
-| 7 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 | new comment. close to release date.  HoldOn | 12-04 | 12-22 | 0 |
+| 7 | [#4813](https://github.com/Azure/sdk-release-request/issues/4813) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date.  | 12-04 | 12-22 | 0 |
 | 8 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 02-23 |  |
 | 9 | [#4772](https://github.com/Azure/sdk-release-request/issues/4772) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | close to release date.  HoldOn | 11-21 | 12-22 | 0 |
 | 10 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI HoldOn | 11-13 | 01-26 |  |
