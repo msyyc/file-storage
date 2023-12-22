@@ -20,6 +20,4 @@
 | 18 | 'Release for LongTermRetentionPolicies and LongTermRetentionBackups - 2023-11-22 (ASAP)'  |  |  | [#4780](https://github.com/Azure/sdk-release-request/issues/4780)  |  | 11-22 | 12-22 |  |
 | 19 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 11-24 | Hold on by Java/ |
 | 20 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
-| 21 | 'Release for HealthcareApis 2023-11-01'  |  |  |  | [#4790](https://github.com/Azure/sdk-release-request/issues/4790)  | 11-28 | 12-22 |  |
-| 22 | 'Release for dataprotection - 2023-11-01'  |  |  |  | [#4787](https://github.com/Azure/sdk-release-request/issues/4787)  | 11-28 | 12-22 |  |
-| 23 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 |  |
+| 21 | 'Release for Azure Hybrid Network - 2023-09-01'  |  |  |  | [#4652](https://github.com/Azure/sdk-release-request/issues/4652)  | 10-13 | 12-22 |  |
