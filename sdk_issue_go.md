@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#22167](https://github.com/Azure/azure-sdk-for-go/issues/22167)|Getting 503 error when calling `(*runtime.Pager[armquota.ClientListResponse]).NextPage`|question, Mgmt, customer-reported, needs-team-attention, Quota|Alancere|new comment|2023-12-20|
-|2|[#22158](https://github.com/Azure/azure-sdk-for-go/issues/22158)|Bug(docs): `armconnectedvmware` docs example reference a non existing client|question, Mgmt, customer-reported, needs-team-attention|Alancere||2023-12-18|
+|2|[#22158](https://github.com/Azure/azure-sdk-for-go/issues/22158)|Bug(docs): `armconnectedvmware` docs example reference a non existing client|question, Mgmt, customer-reported, needs-team-attention|Alancere|new comment|2023-12-18|
 |3|[#22129](https://github.com/Azure/azure-sdk-for-go/issues/22129)|Retrieve Kubeconfigs for AKS clusters for a given subscription |question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2023-12-12|
 |4|[#22071](https://github.com/Azure/azure-sdk-for-go/issues/22071)|List API for Reservation Recommendation is always returning empty result|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Consumption - Query|Alancere||2023-11-30|
 |5|[#21916](https://github.com/Azure/azure-sdk-for-go/issues/21916)|Question: How can I query the data transfer cost grouped by regions with Usage API?|question, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|Alancere|new issue|2023-11-08|
