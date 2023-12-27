@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 12-26 | 01-26 |  |
 | 2 | [#4847](https://github.com/Azure/sdk-release-request/issues/4847) | FumingZhang |  | ChenxiJiang333 | HoldOn | 12-21 | 01-26 |  |
-| 3 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | new comment. Attention to inconsistent tag FirstBeta HoldOn | 12-20 | 01-26 |  |
+| 3 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | Attention to inconsistent tag FirstBeta HoldOn | 12-20 | 01-26 |  |
 | 4 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | FirstGA | 12-18 | 01-26 |  |
 | 5 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta | 12-15 | 01-26 |  |
 | 6 | [#4833](https://github.com/Azure/sdk-release-request/issues/4833) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-15 | 01-26 |  |
