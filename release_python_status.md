@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | duplicated issue  <br> new issue. | 12-27 | 01-26 |  |
+| 1 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | duplicated issue  <br> | 12-27 | 01-26 |  |
 | 2 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 12-26 | 01-26 |  |
 | 3 | [#4847](https://github.com/Azure/sdk-release-request/issues/4847) | FumingZhang |  | ChenxiJiang333 | HoldOn | 12-21 | 01-26 |  |
 | 4 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | Attention to inconsistent tag FirstBeta HoldOn | 12-20 | 01-26 |  |
