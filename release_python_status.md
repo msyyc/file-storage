@@ -4,7 +4,7 @@
 | 2 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-27 | 01-26 |  |
 | 3 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 12-26 | 01-26 |  |
 | 4 | [#4847](https://github.com/Azure/sdk-release-request/issues/4847) | FumingZhang |  | ChenxiJiang333 | HoldOn | 12-21 | 01-26 |  |
-| 5 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | new comment. FirstBeta HoldOn | 12-20 | 01-26 |  |
+| 5 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | FirstBeta HoldOn | 12-20 | 01-26 |  |
 | 6 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | FirstGA | 12-18 | 01-26 |  |
 | 7 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta | 12-15 | 01-26 |  |
 | 8 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | FirstBeta | 12-11 | 01-26 |  |
