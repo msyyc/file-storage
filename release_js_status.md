@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4862](https://github.com/Azure/sdk-release-request/issues/4862) | emmeliaAra |  | qiaozha | new comment. | 01-02 | 01-26 |  |
+| 1 | [#4862](https://github.com/Azure/sdk-release-request/issues/4862) | emmeliaAra |  | qiaozha |  | 01-02 | 01-26 |  |
 | 2 | [#4861](https://github.com/Azure/sdk-release-request/issues/4861) | Alancere |  | MaryGao | Attention to inconsistent tag | 12-27 | 01-26 |  |
 | 3 | [#4855](https://github.com/Azure/sdk-release-request/issues/4855) | ruowan |  | MaryGao |  | 12-27 | 01-26 |  |
 | 4 | [#4852](https://github.com/Azure/sdk-release-request/issues/4852) | haagha |  | MaryGao |  | 12-26 | 01-26 |  |
