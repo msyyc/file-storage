@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | new issue. | 01-09 | 01-26 |  |
+| 1 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 01-09 | 01-26 |  |
 | 2 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA | 01-08 | 01-26 |  |
 | 3 | [#4867](https://github.com/Azure/sdk-release-request/issues/4867) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | ForCLI | 01-08 | 01-26 |  |
 | 4 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 01-06 | 01-26 |  |
