@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | new issue. | 01-08 | 01-26 |  |
-| 2 | [#4867](https://github.com/Azure/sdk-release-request/issues/4867) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | new issue. | 01-08 | 01-26 |  |
+| 1 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 |  | 01-08 | 01-26 |  |
+| 2 | [#4867](https://github.com/Azure/sdk-release-request/issues/4867) | MilanNz | azure-mgmt-sql | ChenxiJiang333 |  | 01-08 | 01-26 |  |
 | 3 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 01-06 | 01-26 |  |
 | 4 | [#4859](https://github.com/Azure/sdk-release-request/issues/4859) | Alancere | azure-mgmt-streamanalytics | ChenxiJiang333 |  | 12-27 | 01-26 |  |
 | 5 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-27 | 01-26 |  |
