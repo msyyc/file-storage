@@ -2,8 +2,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4882](https://github.com/Azure/sdk-release-request/issues/4882) | yuwzho |  | MaryGao | new issue. | 01-10 | 01-26 |  |
 | 2 | [#4876](https://github.com/Azure/sdk-release-request/issues/4876) | vgs-msft |  | MaryGao | Attention to inconsistent tag | 01-09 | 01-26 |  |
-| 3 | [#4873](https://github.com/Azure/sdk-release-request/issues/4873) | yifanz7 |  | MaryGao | new issue. new comment. | 01-09 | 01-26 |  |
-| 4 | [#4870](https://github.com/Azure/sdk-release-request/issues/4870) | azaslonov |  | MaryGao | new issue. | 01-08 | 01-26 |  |
+| 3 | [#4873](https://github.com/Azure/sdk-release-request/issues/4873) | yifanz7 |  | MaryGao | new comment. | 01-09 | 01-26 |  |
+| 4 | [#4870](https://github.com/Azure/sdk-release-request/issues/4870) | azaslonov |  | MaryGao |  | 01-08 | 01-26 |  |
 | 5 | [#4866](https://github.com/Azure/sdk-release-request/issues/4866) | pjohari-ms |  | qiaozha |  | 01-06 | 01-26 |  |
 | 6 | [#4862](https://github.com/Azure/sdk-release-request/issues/4862) | emmeliaAra |  | qiaozha |  | 01-02 | 01-26 |  |
 | 7 | [#4861](https://github.com/Azure/sdk-release-request/issues/4861) | Alancere |  | MaryGao | Attention to inconsistent tag | 12-27 | 01-26 |  |
