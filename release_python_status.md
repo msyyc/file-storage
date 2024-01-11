@@ -1,15 +1,15 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4884](https://github.com/Azure/sdk-release-request/issues/4884) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag MultiAPI | 01-10 | 01-26 |  |
-| 2 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 | new issue. MultiAPI | 01-10 | 01-26 |  |
-| 3 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | Attention to inconsistent tag | 01-09 | 01-26 |  |
+| 2 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 |  | 01-10 | 01-26 |  |
+| 3 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. Attention to inconsistent tag | 01-09 | 01-26 |  |
 | 4 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | FirstGA | 01-09 | 01-26 |  |
 | 5 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA | 01-08 | 01-26 |  |
 | 6 | [#4867](https://github.com/Azure/sdk-release-request/issues/4867) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | new comment. ForCLI | 01-08 | 01-26 |  |
 | 7 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 01-06 | 01-26 |  |
 | 8 | [#4859](https://github.com/Azure/sdk-release-request/issues/4859) | Alancere | azure-mgmt-streamanalytics | ChenxiJiang333 |  | 12-27 | 01-26 |  |
 | 9 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-27 | 01-26 |  |
-| 10 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 12-26 | 01-26 |  |
+| 10 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 | new comment. | 12-26 | 01-26 |  |
 | 11 | [#4847](https://github.com/Azure/sdk-release-request/issues/4847) | FumingZhang |  | ChenxiJiang333 | HoldOn | 12-21 | 01-26 |  |
 | 12 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads | ChenxiJiang333 | FirstBeta HoldOn | 12-20 | 01-26 |  |
 | 13 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | FirstGA HoldOn | 12-18 | 01-26 |  |
