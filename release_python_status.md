@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4884](https://github.com/Azure/sdk-release-request/issues/4884) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag MultiAPI ForCLI | 01-10 | 01-26 |  |
+| 1 | [#4884](https://github.com/Azure/sdk-release-request/issues/4884) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new comment. MultiAPI ForCLI | 01-10 | 01-26 |  |
 | 2 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 |  | 01-10 | 01-26 |  |
 | 3 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | FirstBeta | 01-09 | 01-26 |  |
 | 4 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | FirstGA | 01-09 | 01-26 |  |
