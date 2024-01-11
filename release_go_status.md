@@ -18,4 +18,4 @@
 | 16 | [#4763](https://github.com/Azure/sdk-release-request/issues/4763) | salambashir |  | Alancere | new comment. | 11-13 | 01-26 |  |
 | 17 | [#4714](https://github.com/Azure/sdk-release-request/issues/4714) | iwrinshow |  | Alancere | new comment. | 11-06 | 01-26 |  |
 | 18 | [#4680](https://github.com/Azure/sdk-release-request/issues/4680) | DevArjun23 |  | Alancere | new comment. | 10-24 | 01-26 |  |
-| 19 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. | 10-23 | 12-22 |  |
+| 19 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. | 10-23 | 01-26 |  |

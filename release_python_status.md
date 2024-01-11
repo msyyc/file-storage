@@ -1,10 +1,10 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4884](https://github.com/Azure/sdk-release-request/issues/4884) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag MultiAPI | 01-10 | 01-26 |  |
+| 1 | [#4884](https://github.com/Azure/sdk-release-request/issues/4884) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag MultiAPI ForCLI | 01-10 | 01-26 |  |
 | 2 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 |  | 01-10 | 01-26 |  |
-| 3 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | Attention to inconsistent tag | 01-09 | 01-26 |  |
+| 3 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | FirstBeta | 01-09 | 01-26 |  |
 | 4 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | FirstGA | 01-09 | 01-26 |  |
-| 5 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA | 01-08 | 01-26 |  |
+| 5 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA HoldOn | 01-08 | 01-26 |  |
 | 6 | [#4867](https://github.com/Azure/sdk-release-request/issues/4867) | MilanNz | azure-mgmt-sql | ChenxiJiang333 | new comment. ForCLI | 01-08 | 01-26 |  |
 | 7 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 01-06 | 01-26 |  |
 | 8 | [#4859](https://github.com/Azure/sdk-release-request/issues/4859) | Alancere | azure-mgmt-streamanalytics | ChenxiJiang333 |  | 12-27 | 01-26 |  |
@@ -20,4 +20,4 @@
 | 18 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | MultiAPI HoldOn | 11-13 | 01-26 |  |
 | 19 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> | 11-06 | 01-26 |  |
 | 20 | [#4683](https://github.com/Azure/sdk-release-request/issues/4683) | DevArjun23 | azure-mgmt-azureintegrationspaces | ChenxiJiang333 | FirstBeta HoldOn | 10-24 | 01-26 |  |
-| 21 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA HoldOn | 10-23 | 12-22 |  |
+| 21 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. FirstGA HoldOn | 10-23 | 01-26 |  |
