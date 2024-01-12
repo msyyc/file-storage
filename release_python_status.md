@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4884](https://github.com/Azure/sdk-release-request/issues/4884) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | duplicated issue  <br> new comment. ForCLI | 01-10 | 01-26 |  |
-| 2 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 |  | 01-10 | 01-26 |  |
+| 2 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 | HoldOn | 01-10 | 01-26 |  |
 | 3 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. FirstBeta HoldOn | 01-09 | 01-26 |  |
 | 4 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | FirstGA HoldOn | 01-09 | 01-26 |  |
 | 5 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA HoldOn | 01-08 | 01-26 |  |
