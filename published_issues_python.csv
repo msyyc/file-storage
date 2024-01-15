@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-recoveryservicesbackup,iwrinshow,ChenxiJiang333,2023-11-06,2024-01-15,https://github.com/Azure/sdk-release-request/issues/4715,8.0.0,True
+azure-mgmt-recoveryservicesbackup,zubairabid,ChenxiJiang333,2024-01-10,2024-01-15,https://github.com/Azure/sdk-release-request/issues/4884,8.0.0,True
 azure-mgmt-sql,MilanNz,ChenxiJiang333,2024-01-08,2024-01-11,https://github.com/Azure/sdk-release-request/issues/4867,4.0.0b15,
 azure-mgmt-netapp,audunn,ChenxiJiang333,2023-12-04,2023-12-22,https://github.com/Azure/sdk-release-request/issues/4813,12.0.0b1,
 azure-mgmt-selfhelp,sahilpwr,ChenxiJiang333,2023-11-16,2023-12-20,https://github.com/Azure/sdk-release-request/issues/4770,2.0.0b2,
