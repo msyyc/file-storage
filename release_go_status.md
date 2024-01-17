@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  | Alancere | new issue. | 01-16 | 02-23 |  |
-| 2 | [#4886](https://github.com/Azure/sdk-release-request/issues/4886) | ShreyaAnand |  | Alancere | Attention to inconsistent tag | 01-15 | 02-23 |  |
+| 2 | [#4886](https://github.com/Azure/sdk-release-request/issues/4886) | ShreyaAnand |  | Alancere |  | 01-15 | 02-23 |  |
 | 3 | [#4880](https://github.com/Azure/sdk-release-request/issues/4880) | yuwzho |  | Alancere |  | 01-10 | 01-26 |  |
-| 4 | [#4877](https://github.com/Azure/sdk-release-request/issues/4877) | vgs-msft |  | Alancere | new comment. Attention to inconsistent tag | 01-09 | 01-26 |  |
+| 4 | [#4877](https://github.com/Azure/sdk-release-request/issues/4877) | vgs-msft |  | Alancere | Attention to inconsistent tag | 01-09 | 01-26 |  |
 | 5 | [#4872](https://github.com/Azure/sdk-release-request/issues/4872) | yifanz7 |  | Alancere |  | 01-09 | 01-26 |  |
 | 6 | [#4868](https://github.com/Azure/sdk-release-request/issues/4868) | azaslonov |  | Alancere | new issue. new comment. | 01-08 | 01-26 |  |
 | 7 | [#4864](https://github.com/Azure/sdk-release-request/issues/4864) | pjohari-ms |  | Alancere |  | 01-06 | 01-26 |  |
