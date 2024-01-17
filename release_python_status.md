@@ -7,7 +7,7 @@
 | 5 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. FirstBeta HoldOn | 01-09 | 01-26 |  |
 | 6 | [#4874](https://github.com/Azure/sdk-release-request/issues/4874) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | FirstGA HoldOn | 01-09 | 01-26 |  |
 | 7 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA HoldOn | 01-08 | 01-26 |  |
-| 8 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | new comment. | 01-06 | 01-26 |  |
+| 8 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | ForCLI | 01-06 | 01-26 |  |
 | 9 | [#4859](https://github.com/Azure/sdk-release-request/issues/4859) | Alancere | azure-mgmt-streamanalytics | ChenxiJiang333 |  | 12-27 | 01-26 |  |
 | 10 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-27 | 01-26 |  |
 | 11 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 12-26 | 01-26 |  |
