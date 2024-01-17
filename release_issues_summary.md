@@ -21,9 +21,10 @@
 | 19 | 'Release for Security (Microsoft Defender for Cloud) - 2022-12-01-preview'  | [#4765](https://github.com/Azure/sdk-release-request/issues/4765)  | [#4763](https://github.com/Azure/sdk-release-request/issues/4763)  | [#4764](https://github.com/Azure/sdk-release-request/issues/4764)  | [#4762](https://github.com/Azure/sdk-release-request/issues/4762)  | 11-13 | 01-26 | Hold on by JS/Java/Go/Python/ |
 | 20 | 'Release for HANA Snapshot 2023-06-01'  | [#4715](https://github.com/Azure/sdk-release-request/issues/4715)  | [#4714](https://github.com/Azure/sdk-release-request/issues/4714)  |  |  | 11-06 | 01-26 |  |
 | 21 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 01-26 | Hold on by JS/Java/Go/Python/ |
-| 22 | 'Release for Azure VM Image Builder - 2023-07-01'  |  |  | [#4801](https://github.com/Azure/sdk-release-request/issues/4801)  |  | 11-29 | 01-26 | Hold on by Java/ |
-| 23 | 'Rlease a fix for S360 for PostgreSQL flexible server - 2023-06-01-preview'  |  |  | [#4781](https://github.com/Azure/sdk-release-request/issues/4781)  |  | 11-27 | 12-22 |  |
-| 24 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 01-26 | Hold on by Java/ |
-| 25 | 'Release for CosmosDB Services - 2023-11-15'  |  | [#4830](https://github.com/Azure/sdk-release-request/issues/4830)  |  | [#4831](https://github.com/Azure/sdk-release-request/issues/4831)  | 12-12 | 01-26 |  |
-| 26 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
-| 27 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
+| 22 | 'Test script(Do not release)'  | [#2048](https://github.com/Azure/sdk-release-request/issues/2048)  |  |  |  | 09-29 | 10-13 |  |
+| 23 | 'Release for Azure VM Image Builder - 2023-07-01'  |  |  | [#4801](https://github.com/Azure/sdk-release-request/issues/4801)  |  | 11-29 | 01-26 | Hold on by Java/ |
+| 24 | 'Rlease a fix for S360 for PostgreSQL flexible server - 2023-06-01-preview'  |  |  | [#4781](https://github.com/Azure/sdk-release-request/issues/4781)  |  | 11-27 | 12-22 |  |
+| 25 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 01-26 | Hold on by Java/ |
+| 26 | 'Release for CosmosDB Services - 2023-11-15'  |  | [#4830](https://github.com/Azure/sdk-release-request/issues/4830)  |  | [#4831](https://github.com/Azure/sdk-release-request/issues/4831)  | 12-12 | 01-26 |  |
+| 27 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
+| 28 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |

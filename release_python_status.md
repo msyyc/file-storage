@@ -21,3 +21,4 @@
 | 19 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | new comment. MultiAPI HoldOn | 11-13 | 01-26 |  |
 | 20 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 11-06 | 01-26 |  |
 | 21 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. FirstGA HoldOn | 10-23 | 01-26 |  |
+| 22 | [#2048](https://github.com/Azure/sdk-release-request/issues/2048) | msyyc |  | ChenxiJiang333 | duplicated issue  <br> new version is 0.0.0, please check base branch! | 09-29 | 10-13 |  |
