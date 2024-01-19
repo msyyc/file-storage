@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4898](https://github.com/Azure/sdk-release-request/issues/4898) | msyyc | azure-mgmt-security | ChenxiJiang333 | duplicated issue  <br> new issue. | 01-19 | 02-23 |  |
+| 1 | [#4898](https://github.com/Azure/sdk-release-request/issues/4898) | msyyc | azure-mgmt-security | ChenxiJiang333 | duplicated issue  <br> | 01-19 | 02-23 |  |
 | 2 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag MultiAPI | 01-18 | 02-23 |  |
 | 3 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 |  | 01-16 |  | 0 |
 | 4 | [#4889](https://github.com/Azure/sdk-release-request/issues/4889) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 |  | 01-16 | 02-23 |  |
