@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-security,msyyc,ChenxiJiang333,2024-01-19,2024-01-19,https://github.com/Azure/sdk-release-request/issues/4898,6.0.0,True
 azure-mgmt-recoveryservicesbackup,iwrinshow,ChenxiJiang333,2023-11-06,2024-01-15,https://github.com/Azure/sdk-release-request/issues/4715,8.0.0,True
 azure-mgmt-recoveryservicesbackup,zubairabid,ChenxiJiang333,2024-01-10,2024-01-15,https://github.com/Azure/sdk-release-request/issues/4884,8.0.0,True
 azure-mgmt-sql,MilanNz,ChenxiJiang333,2024-01-08,2024-01-11,https://github.com/Azure/sdk-release-request/issues/4867,4.0.0b15,
