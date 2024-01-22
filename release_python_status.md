@@ -12,7 +12,6 @@
 | 10 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | ForCLI | 01-06 | 01-26 |  |
 | 11 | [#4859](https://github.com/Azure/sdk-release-request/issues/4859) | Alancere | azure-mgmt-streamanalytics | ChenxiJiang333 |  | 12-27 | 01-26 |  |
 | 12 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 12-27 | 01-26 |  |
-| 13 | [#4851](https://github.com/Azure/sdk-release-request/issues/4851) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 12-26 | 01-26 |  |
 | 14 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | FirstBeta HoldOn | 12-20 | 01-26 |  |
 | 15 | [#4838](https://github.com/Azure/sdk-release-request/issues/4838) | HariPrasadV | azure-mgmt-hybridcontainerservice | ChenxiJiang333 | FirstGA | 12-18 | 01-26 |  |
 | 16 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | FirstBeta HoldOn | 12-15 | 01-26 |  |
