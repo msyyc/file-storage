@@ -1,11 +1,11 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#33881](https://github.com/Azure/azure-sdk-for-python/issues/33881)|resource_group.create_or_update overrides other parameters not specified.|question, ARM, Mgmt, customer-reported, needs-team-attention|msyyc||2024-01-17|
+|1|[#33881](https://github.com/Azure/azure-sdk-for-python/issues/33881)|resource_group.create_or_update overrides other parameters not specified.|question, ARM, Mgmt, customer-reported, issue-addressed|msyyc||2024-01-17|
 |2|[#33688](https://github.com/Azure/azure-sdk-for-python/issues/33688)|list images python api call not listing the images present on the azure account.|question, Compute, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-01-03|
 |3|[#33582](https://github.com/Azure/azure-sdk-for-python/issues/33582)|azure-mgmt-core needs docstring updates for sphinx|Mgmt, Azure.Mgmt.Core, sphinx|msyyc|new issue|2023-12-17|
 |4|[#32639](https://github.com/Azure/azure-sdk-for-python/issues/32639)|azure-mgmt-core needs linting updates for pylint version 2.15.8|Mgmt, Azure.Mgmt.Core, pylint|msyyc|new issue|2023-10-22|
 |5|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|6|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|new comment|2022-06-07|
+|6|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|new comment|2022-06-07|
 |7|[#22714](https://github.com/Azure/azure-sdk-for-python/issues/22714)|[mgmt core] remove code redundancy in mgmt core polling|Mgmt, Azure.Mgmt.Core|msyyc|new issue|2022-01-21|
 |8|[#22465](https://github.com/Azure/azure-sdk-for-python/issues/22465)|[Article] End-user authentication - Python with Data Lake Storage Gen1 - Azure|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
 |9|[#22464](https://github.com/Azure/azure-sdk-for-python/issues/22464)|[Article] Manage an Azure Data Lake Storage Gen1 account with Python|Storage, Docs, Client, Mgmt, Data Lake Storage Gen1, Resources|msyyc, tasherif-msft|no reply > 7|2022-01-12|
