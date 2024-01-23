@@ -16,10 +16,9 @@
 | 14 | [#4848](https://github.com/Azure/sdk-release-request/issues/4848) | FumingZhang |  | v-hongli1 |  | 12-21 |  | 0 |
 | 15 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  | haolingdong-msft | close to release date.  Attention to inconsistent tag | 12-20 | 01-26 | 2 |
 | 16 | [#4840](https://github.com/Azure/sdk-release-request/issues/4840) | HariPrasadV |  | haolingdong-msft | close to release date.  | 12-18 | 01-26 | 2 |
-| 17 | [#4837](https://github.com/Azure/sdk-release-request/issues/4837) | sunkun99 |  | weidongxu-microsoft | close to release date.  | 12-15 | 01-26 | 2 |
-| 18 | [#4827](https://github.com/Azure/sdk-release-request/issues/4827) | emmeliaAra |  | XiaofeiCao | new issue. close to release date.  | 12-11 | 01-26 | 2 |
-| 19 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. | 11-29 | 02-23 |  |
-| 20 | [#4801](https://github.com/Azure/sdk-release-request/issues/4801) | zdelacerda-microsoft |  | haolingdong-msft | close to release date.  | 11-29 | 01-26 | 2 |
-| 21 | [#4764](https://github.com/Azure/sdk-release-request/issues/4764) | salambashir |  | XiaofeiCao | new comment. close to release date.  Attention to inconsistent tag | 11-13 | 01-26 | 2 |
-| 22 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new comment. close to release date.  | 11-06 | 01-26 | 2 |
-| 23 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. close to release date.  | 10-23 | 01-26 | 2 |
+| 17 | [#4827](https://github.com/Azure/sdk-release-request/issues/4827) | emmeliaAra |  | XiaofeiCao | new issue. close to release date.  | 12-11 | 01-26 | 2 |
+| 18 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. | 11-29 | 02-23 |  |
+| 19 | [#4801](https://github.com/Azure/sdk-release-request/issues/4801) | zdelacerda-microsoft |  | haolingdong-msft | close to release date.  | 11-29 | 01-26 | 2 |
+| 20 | [#4764](https://github.com/Azure/sdk-release-request/issues/4764) | salambashir |  | XiaofeiCao | new comment. close to release date.  Attention to inconsistent tag | 11-13 | 01-26 | 2 |
+| 21 | [#4713](https://github.com/Azure/sdk-release-request/issues/4713) | iwrinshow |  | weidongxu-microsoft | new comment. close to release date.  | 11-06 | 01-26 | 2 |
+| 22 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. close to release date.  | 10-23 | 01-26 | 2 |
