@@ -20,5 +20,5 @@
 | 18 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | close to release date.  FirstBeta | 12-11 | 01-26 | 2 |
 | 19 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 02-23 |  |
 | 20 | [#4765](https://github.com/Azure/sdk-release-request/issues/4765) | salambashir | azure-mgmt-security | ChenxiJiang333 | duplicated issue  <br> close to release date.  MultiAPI HoldOn | 11-13 | 01-26 | 2 |
-| 21 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | new comment. close to release date.  | 11-06 | 01-26 | 2 |
+| 21 | [#4715](https://github.com/Azure/sdk-release-request/issues/4715) | iwrinshow | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | close to release date.  | 11-06 | 01-26 | 2 |
 | 22 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. close to release date.  FirstGA HoldOn | 10-23 | 01-26 | 2 |
