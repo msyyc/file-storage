@@ -24,9 +24,8 @@
 | 22 | 'Release for Compute 2023-10-02'  |  | [#4853](https://github.com/Azure/sdk-release-request/issues/4853)  | [#4850](https://github.com/Azure/sdk-release-request/issues/4850)  | [#4852](https://github.com/Azure/sdk-release-request/issues/4852)  | 12-26 | 01-26 |  |
 | 23 | 'Release for Container Service - 2023-11-01'  |  | [#4846](https://github.com/Azure/sdk-release-request/issues/4846)  | [#4848](https://github.com/Azure/sdk-release-request/issues/4848)  | [#4849](https://github.com/Azure/sdk-release-request/issues/4849)  | 12-21 | 01-26 |  |
 | 24 | 'Release for Azure VM Image Builder - 2023-07-01'  |  |  | [#4801](https://github.com/Azure/sdk-release-request/issues/4801)  |  | 11-29 | 01-26 | Hold on by Java/ |
-| 25 | 'Rlease a fix for S360 for PostgreSQL flexible server - 2023-06-01-preview'  |  |  | [#4781](https://github.com/Azure/sdk-release-request/issues/4781)  |  | 11-27 | 12-22 |  |
-| 26 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 01-26 |  |
-| 27 | 'Release for StreamAnalytics 2021-10-01-preview'  |  | [#4858](https://github.com/Azure/sdk-release-request/issues/4858)  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
-| 28 | 'Release for CosmosDB Services - 2023-11-15'  |  | [#4830](https://github.com/Azure/sdk-release-request/issues/4830)  |  | [#4831](https://github.com/Azure/sdk-release-request/issues/4831)  | 12-12 | 01-26 |  |
-| 29 | 'Release for HANA Snapshot 2023-06-01'  |  | [#4714](https://github.com/Azure/sdk-release-request/issues/4714)  |  |  | 11-06 | 01-26 |  |
-| 30 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
+| 25 | recoveryservicesbackup 'Release for HANA Snapshot 2023-06-01'  |  |  | [#4713](https://github.com/Azure/sdk-release-request/issues/4713)  |  | 11-06 | 01-26 |  |
+| 26 | 'Release for StreamAnalytics 2021-10-01-preview'  |  | [#4858](https://github.com/Azure/sdk-release-request/issues/4858)  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
+| 27 | 'Release for CosmosDB Services - 2023-11-15'  |  | [#4830](https://github.com/Azure/sdk-release-request/issues/4830)  |  | [#4831](https://github.com/Azure/sdk-release-request/issues/4831)  | 12-12 | 01-26 |  |
+| 28 | 'Release for HANA Snapshot 2023-06-01'  |  | [#4714](https://github.com/Azure/sdk-release-request/issues/4714)  |  |  | 11-06 | 01-26 |  |
+| 29 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
