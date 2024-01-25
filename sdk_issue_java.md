@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft|new comment|2024-01-23|
+|1|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
 |2|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |3|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
 |4|[#37811](https://github.com/Azure/azure-sdk-for-java/issues/37811)|[BUG] Usage of ResourceManager with multiple subscriptions not possible|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2023-11-24|
