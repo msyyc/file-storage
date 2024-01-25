@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-hybridcontainerservice,HariPrasadV,ChenxiJiang333,2023-12-18,2024-01-25,https://github.com/Azure/sdk-release-request/issues/4838,1.0.0,True
+azure-mgmt-elasticsan,yifanz7,ChenxiJiang333,2024-01-09,2024-01-25,https://github.com/Azure/sdk-release-request/issues/4874,1.0.0,True
 azure-mgmt-recoveryservicesbackup,iwrinshow,ChenxiJiang333,2023-11-06,2024-01-24,https://github.com/Azure/sdk-release-request/issues/4715,9.0.0,True
 azure-mgmt-rdbms,xiaoxuqi-ms,ChenxiJiang333,2024-01-16,2024-01-23,https://github.com/Azure/sdk-release-request/issues/4889,10.2.0b14,
 azure-mgmt-streamanalytics,Alancere,ChenxiJiang333,2023-12-27,2024-01-22,https://github.com/Azure/sdk-release-request/issues/4859,2.0.0b2,
