@@ -11,11 +11,11 @@
 | 9 | [#4887](https://github.com/Azure/sdk-release-request/issues/4887) | ShreyaAnand | azure-mgmt-playwrighttesting | ChenxiJiang333 |  | 01-15 | 02-23 |  |
 | 10 | [#4881](https://github.com/Azure/sdk-release-request/issues/4881) | yuwzho | azure-mgmt-appplatform | ChenxiJiang333 | close to release date.  | 01-10 | 01-26 | 0 |
 | 11 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 01-09 | 01-26 | 0 |
-| 13 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | close to release date.  FirstGA HoldOn | 01-08 | 01-26 | 0 |
-| 14 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | close to release date.  ForCLI | 01-06 | 01-26 | 0 |
-| 15 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | close to release date.  | 12-27 | 01-26 | 0 |
-| 16 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 12-20 | 01-26 | 0 |
-| 18 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 12-15 | 01-26 | 0 |
-| 19 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | close to release date.  FirstBeta | 12-11 | 01-26 | 0 |
-| 20 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 02-23 |  |
-| 21 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. close to release date.  FirstGA HoldOn | 10-23 | 01-26 | 0 |
+| 12 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | close to release date.  FirstGA HoldOn | 01-08 | 01-26 | 0 |
+| 13 | [#4865](https://github.com/Azure/sdk-release-request/issues/4865) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | close to release date.  ForCLI | 01-06 | 01-26 | 0 |
+| 14 | [#4854](https://github.com/Azure/sdk-release-request/issues/4854) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | close to release date.  | 12-27 | 01-26 | 0 |
+| 15 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 12-20 | 01-26 | 0 |
+| 16 | [#4836](https://github.com/Azure/sdk-release-request/issues/4836) | sunkun99 | azure-mgmt-springappdiscovery | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 12-15 | 01-26 | 0 |
+| 17 | [#4828](https://github.com/Azure/sdk-release-request/issues/4828) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | close to release date.  FirstBeta | 12-11 | 01-26 | 0 |
+| 18 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 02-23 |  |
+| 19 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. close to release date.  FirstGA HoldOn | 10-23 | 01-26 | 0 |
