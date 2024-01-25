@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#33959](https://github.com/Azure/azure-sdk-for-python/issues/33959)|Python SDK serialization. Property case is not preserved.|question, Mgmt, customer-reported|msyyc||2024-01-23|
-|2|[#33957](https://github.com/Azure/azure-sdk-for-python/issues/33957)|Update azure.mgmt.securityinsight|question, Service Attention, Mgmt, customer-reported, needs-team-attention, SecurityInsights|msyyc|new comment|2024-01-23|
+|2|[#33957](https://github.com/Azure/azure-sdk-for-python/issues/33957)|Update azure.mgmt.securityinsight|question, Service Attention, Mgmt, customer-reported, needs-team-attention, SecurityInsights|msyyc||2024-01-23|
 |3|[#33881](https://github.com/Azure/azure-sdk-for-python/issues/33881)|resource_group.create_or_update overrides other parameters not specified.|question, ARM, Mgmt, customer-reported, issue-addressed|msyyc||2024-01-17|
 |4|[#33688](https://github.com/Azure/azure-sdk-for-python/issues/33688)|list images python api call not listing the images present on the azure account.|question, Compute, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-01-03|
 |5|[#33582](https://github.com/Azure/azure-sdk-for-python/issues/33582)|azure-mgmt-core needs docstring updates for sphinx|Mgmt, Azure.Mgmt.Core, sphinx|msyyc|new issue|2023-12-17|
@@ -14,5 +14,5 @@
 |12|[#22463](https://github.com/Azure/azure-sdk-for-python/issues/22463)|[Article] Create a Python runbook in Azure Automation|Docs, Compute, Mgmt, Resources|msyyc|no reply > 7|2022-01-12|
 |13|[#21373](https://github.com/Azure/azure-sdk-for-python/issues/21373)|Migrate to the new test proxy system|Mgmt, Epic, MQ|msyyc|no reply > 7|2021-10-22|
 |14|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
 |16|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
