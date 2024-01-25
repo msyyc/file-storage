@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4917](https://github.com/Azure/sdk-release-request/issues/4917) | htippanaboya | azure-mgmt-network | ChenxiJiang333 | new issue. MultiAPI | 01-24 | 02-23 |  |
+| 1 | [#4917](https://github.com/Azure/sdk-release-request/issues/4917) | htippanaboya | azure-mgmt-network | ChenxiJiang333 | new issue. | 01-24 | 02-23 |  |
 | 2 | [#4915](https://github.com/Azure/sdk-release-request/issues/4915) | gaagarwalMS | azure-mgmt-networkanalytics | ChenxiJiang333 | new issue. new comment. close to release date.  FirstGA | 01-23 | 01-26 | 0 |
 | 3 | [#4911](https://github.com/Azure/sdk-release-request/issues/4911) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 |  | 01-22 | 02-23 |  |
 | 4 | [#4907](https://github.com/Azure/sdk-release-request/issues/4907) | jantache-microsoft | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 01-22 | 02-23 |  |
