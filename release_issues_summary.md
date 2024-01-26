@@ -16,7 +16,6 @@
 | 14 | 'Edge marketplace extensions 2023-08-01'  | [#4808](https://github.com/Azure/sdk-release-request/issues/4808)  | [#4805](https://github.com/Azure/sdk-release-request/issues/4805)  | [#4807](https://github.com/Azure/sdk-release-request/issues/4807)  | [#4806](https://github.com/Azure/sdk-release-request/issues/4806)  | 11-29 | 02-23 | Hold on by JS/Java/Go/Python/ |
 | 15 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 01-26 | Hold on by JS/Java/Go/Python/ |
 | 16 | 'SDK Release for Network Analytics 2023-11-15'  |  |  |  | [#4912](https://github.com/Azure/sdk-release-request/issues/4912)  | 01-23 | 02-23 |  |
-| 17 | 'AppPlatform Spring - 2023-12-01'  |  |  |  | [#4882](https://github.com/Azure/sdk-release-request/issues/4882)  | 01-10 | 01-26 |  |
-| 18 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 01-26 | Hold on by JS/ |
-| 19 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
-| 20 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
+| 17 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 01-26 | Hold on by JS/ |
+| 18 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
+| 19 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
