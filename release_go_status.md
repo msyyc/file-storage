@@ -11,10 +11,9 @@
 | 9 | [#4877](https://github.com/Azure/sdk-release-request/issues/4877) | vgs-msft |  | Alancere | close to release date.  Attention to inconsistent tag | 01-09 | 01-26 | 0 |
 | 10 | [#4868](https://github.com/Azure/sdk-release-request/issues/4868) | azaslonov |  | Alancere | new issue. new comment. close to release date.  | 01-08 | 01-26 | 0 |
 | 11 | [#4864](https://github.com/Azure/sdk-release-request/issues/4864) | pjohari-ms |  | Alancere | close to release date.  | 01-06 | 01-26 | 0 |
-| 12 | [#4858](https://github.com/Azure/sdk-release-request/issues/4858) | Alancere |  | Alancere | close to release date.  | 12-27 | 01-26 | 0 |
-| 13 | [#4856](https://github.com/Azure/sdk-release-request/issues/4856) | ruowan |  | Alancere | close to release date.  | 12-27 | 01-26 | 0 |
-| 14 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 12-20 | 01-26 | 0 |
-| 15 | [#4834](https://github.com/Azure/sdk-release-request/issues/4834) | sunkun99 |  | Alancere | close to release date.  | 12-15 | 01-26 | 0 |
-| 16 | [#4826](https://github.com/Azure/sdk-release-request/issues/4826) | emmeliaAra |  | Alancere | close to release date.  | 12-11 | 01-26 | 0 |
-| 17 | [#4805](https://github.com/Azure/sdk-release-request/issues/4805) | aneesh-ponneth |  | Alancere | new comment. | 11-29 | 02-23 |  |
-| 18 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. close to release date.  | 10-23 | 01-26 | 0 |
+| 12 | [#4856](https://github.com/Azure/sdk-release-request/issues/4856) | ruowan |  | Alancere | close to release date.  | 12-27 | 01-26 | 0 |
+| 13 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 12-20 | 01-26 | 0 |
+| 14 | [#4834](https://github.com/Azure/sdk-release-request/issues/4834) | sunkun99 |  | Alancere | close to release date.  | 12-15 | 01-26 | 0 |
+| 15 | [#4826](https://github.com/Azure/sdk-release-request/issues/4826) | emmeliaAra |  | Alancere | close to release date.  | 12-11 | 01-26 | 0 |
+| 16 | [#4805](https://github.com/Azure/sdk-release-request/issues/4805) | aneesh-ponneth |  | Alancere | new comment. | 11-29 | 02-23 |  |
+| 17 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. close to release date.  | 10-23 | 01-26 | 0 |
