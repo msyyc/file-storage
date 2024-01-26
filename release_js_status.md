@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4919](https://github.com/Azure/sdk-release-request/issues/4919) | htippanaboya |  | MaryGao | new issue. | 01-24 | 02-23 |  |
-| 2 | [#4912](https://github.com/Azure/sdk-release-request/issues/4912) | gaagarwalMS |  | MaryGao | new issue. | 01-23 | 02-23 |  |
+| 2 | [#4912](https://github.com/Azure/sdk-release-request/issues/4912) | gaagarwalMS |  | MaryGao |  | 01-23 | 02-23 |  |
 | 3 | [#4908](https://github.com/Azure/sdk-release-request/issues/4908) | Aman-Jain-14 |  | MaryGao | new issue. | 01-22 | 02-23 |  |
 | 4 | [#4905](https://github.com/Azure/sdk-release-request/issues/4905) | jantache-microsoft |  | MaryGao | new issue. | 01-22 | 02-23 |  |
 | 5 | [#4900](https://github.com/Azure/sdk-release-request/issues/4900) | alluri02 |  | MaryGao | new issue. | 01-22 | 02-23 |  |
