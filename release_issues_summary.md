@@ -20,4 +20,3 @@
 | 18 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 01-26 | Hold on by JS/ |
 | 19 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
 | 20 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
-| 21 | 'SDK Releases for Microsoft.HybridContainerService - 2024-01-01'  |  |  |  | [#4841](https://github.com/Azure/sdk-release-request/issues/4841)  | 12-18 | 01-26 |  |
