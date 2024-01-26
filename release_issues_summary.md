@@ -19,9 +19,8 @@
 | 17 | 'Release for Compute 2023-10-02'  |  |  | [#4850](https://github.com/Azure/sdk-release-request/issues/4850)  |  | 12-26 |  |  |
 | 18 | 'Release for Container Service - 2023-11-01'  |  |  | [#4848](https://github.com/Azure/sdk-release-request/issues/4848)  | [#4849](https://github.com/Azure/sdk-release-request/issues/4849)  | 12-21 | 01-26 |  |
 | 19 | 'Cosmos DB - API release 2023-11-15-preview'  |  | [#4864](https://github.com/Azure/sdk-release-request/issues/4864)  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 01-26 | Hold on by JS/ |
-| 20 | 'Release for HardwareSecurityModules  - 2023-12-10-preview'  |  | [#4826](https://github.com/Azure/sdk-release-request/issues/4826)  |  |  | 12-11 | 01-26 |  |
-| 21 | 'SDK Release for Network Analytics 2023-11-15'  |  |  |  | [#4912](https://github.com/Azure/sdk-release-request/issues/4912)  | 01-23 | 02-23 |  |
-| 22 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
-| 23 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
-| 24 | 'SDK Releases for Microsoft.HybridContainerService - 2024-01-01'  |  |  |  | [#4841](https://github.com/Azure/sdk-release-request/issues/4841)  | 12-18 | 01-26 |  |
-| 25 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
+| 20 | 'SDK Release for Network Analytics 2023-11-15'  |  |  |  | [#4912](https://github.com/Azure/sdk-release-request/issues/4912)  | 01-23 | 02-23 |  |
+| 21 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
+| 22 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
+| 23 | 'SDK Releases for Microsoft.HybridContainerService - 2024-01-01'  |  |  |  | [#4841](https://github.com/Azure/sdk-release-request/issues/4841)  | 12-18 | 01-26 |  |
+| 24 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
