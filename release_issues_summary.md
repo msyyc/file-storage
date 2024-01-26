@@ -16,14 +16,12 @@
 | 14 | 'Edge marketplace extensions 2023-08-01'  | [#4808](https://github.com/Azure/sdk-release-request/issues/4808)  | [#4805](https://github.com/Azure/sdk-release-request/issues/4805)  | [#4807](https://github.com/Azure/sdk-release-request/issues/4807)  | [#4806](https://github.com/Azure/sdk-release-request/issues/4806)  | 11-29 | 02-23 | Hold on by JS/Java/Go/Python/ |
 | 15 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 01-26 | Hold on by JS/Java/Go/Python/ |
 | 16 | 'AppPlatform Spring - 2023-12-01'  |  | [#4880](https://github.com/Azure/sdk-release-request/issues/4880)  | [#4883](https://github.com/Azure/sdk-release-request/issues/4883)  | [#4882](https://github.com/Azure/sdk-release-request/issues/4882)  | 01-10 | 01-26 | Hold on by Java/ |
-| 17 | 'Release for Compute 2023-10-02'  |  |  | [#4850](https://github.com/Azure/sdk-release-request/issues/4850)  | [#4852](https://github.com/Azure/sdk-release-request/issues/4852)  | 12-26 | 01-26 |  |
+| 17 | 'Release for Compute 2023-10-02'  |  |  | [#4850](https://github.com/Azure/sdk-release-request/issues/4850)  |  | 12-26 |  |  |
 | 18 | 'Release for Container Service - 2023-11-01'  |  |  | [#4848](https://github.com/Azure/sdk-release-request/issues/4848)  | [#4849](https://github.com/Azure/sdk-release-request/issues/4849)  | 12-21 | 01-26 |  |
 | 19 | 'Cosmos DB - API release 2023-11-15-preview'  |  | [#4864](https://github.com/Azure/sdk-release-request/issues/4864)  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 01-26 | Hold on by JS/ |
 | 20 | 'Release for HardwareSecurityModules  - 2023-12-10-preview'  |  | [#4826](https://github.com/Azure/sdk-release-request/issues/4826)  |  |  | 12-11 | 01-26 |  |
 | 21 | 'SDK Release for Network Analytics 2023-11-15'  |  |  |  | [#4912](https://github.com/Azure/sdk-release-request/issues/4912)  | 01-23 | 02-23 |  |
-| 22 | 'Release for ElasticSan - 2023-01-01'  |  |  |  | [#4873](https://github.com/Azure/sdk-release-request/issues/4873)  | 01-09 | 01-26 |  |
-| 23 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
-| 24 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
-| 25 | 'SDK Releases for Microsoft.HybridContainerService - 2024-01-01'  |  |  |  | [#4841](https://github.com/Azure/sdk-release-request/issues/4841)  | 12-18 | 01-26 |  |
-| 26 | 'Release for CosmosDB Services - 2023-11-15'  |  |  |  | [#4831](https://github.com/Azure/sdk-release-request/issues/4831)  | 12-12 | 01-26 |  |
-| 27 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
+| 22 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
+| 23 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
+| 24 | 'SDK Releases for Microsoft.HybridContainerService - 2024-01-01'  |  |  |  | [#4841](https://github.com/Azure/sdk-release-request/issues/4841)  | 12-18 | 01-26 |  |
+| 25 | 'Release for HANA Snapshot 2023-06-01 updated version'  |  |  |  | [#4825](https://github.com/Azure/sdk-release-request/issues/4825)  | 12-08 | 01-26 |  |
