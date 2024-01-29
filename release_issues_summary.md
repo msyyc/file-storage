@@ -17,5 +17,4 @@
 | 15 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 01-26 | Hold on by JS/Java/Go/Python/ |
 | 16 | 'SDK Release for Network Analytics 2023-11-15'  |  |  |  | [#4912](https://github.com/Azure/sdk-release-request/issues/4912)  | 01-23 | 02-23 |  |
 | 17 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 01-26 | Hold on by JS/ |
-| 18 | 'Release for HardwareSecurityModules - 2023-12-10-preview'  |  |  |  | [#4862](https://github.com/Azure/sdk-release-request/issues/4862)  | 01-02 | 01-26 |  |
-| 19 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |
+| 18 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 01-26 | Hold on by JS/ |

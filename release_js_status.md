@@ -12,9 +12,8 @@
 | 10 | [#4876](https://github.com/Azure/sdk-release-request/issues/4876) | vgs-msft |  | MaryGao | new comment. Attention to inconsistent tag | 01-09 | 01-26 |  |
 | 11 | [#4870](https://github.com/Azure/sdk-release-request/issues/4870) | azaslonov |  | MaryGao |  | 01-08 | 01-26 |  |
 | 12 | [#4866](https://github.com/Azure/sdk-release-request/issues/4866) | pjohari-ms |  | qiaozha |  | 01-06 | 01-26 |  |
-| 13 | [#4862](https://github.com/Azure/sdk-release-request/issues/4862) | emmeliaAra |  | qiaozha |  | 01-02 | 01-26 |  |
-| 14 | [#4861](https://github.com/Azure/sdk-release-request/issues/4861) | Alancere |  | MaryGao | Attention to inconsistent tag | 12-27 | 01-26 |  |
-| 15 | [#4842](https://github.com/Azure/sdk-release-request/issues/4842) | adityashukla-msft |  | qiaozha | new comment. Attention to inconsistent tag | 12-20 | 01-26 |  |
-| 16 | [#4835](https://github.com/Azure/sdk-release-request/issues/4835) | sunkun99 |  | MaryGao | new comment. | 12-15 | 01-26 |  |
-| 17 | [#4806](https://github.com/Azure/sdk-release-request/issues/4806) | aneesh-ponneth |  | MaryGao | Attention to inconsistent tag | 11-29 | 02-23 |  |
-| 18 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. | 10-23 | 01-26 |  |
+| 13 | [#4861](https://github.com/Azure/sdk-release-request/issues/4861) | Alancere |  | MaryGao | Attention to inconsistent tag | 12-27 | 01-26 |  |
+| 14 | [#4842](https://github.com/Azure/sdk-release-request/issues/4842) | adityashukla-msft |  | qiaozha | new comment. Attention to inconsistent tag | 12-20 | 01-26 |  |
+| 15 | [#4835](https://github.com/Azure/sdk-release-request/issues/4835) | sunkun99 |  | MaryGao | new comment. | 12-15 | 01-26 |  |
+| 16 | [#4806](https://github.com/Azure/sdk-release-request/issues/4806) | aneesh-ponneth |  | MaryGao | Attention to inconsistent tag | 11-29 | 02-23 |  |
+| 17 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. | 10-23 | 01-26 |  |
