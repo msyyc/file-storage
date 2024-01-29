@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4916](https://github.com/Azure/sdk-release-request/issues/4916) | htippanaboya |  | XiaofeiCao | new issue. | 01-24 | 02-23 |  |
+| 1 | [#4916](https://github.com/Azure/sdk-release-request/issues/4916) | htippanaboya |  | v-hongli1 |  | 01-24 |  | 0 |
 | 2 | [#4910](https://github.com/Azure/sdk-release-request/issues/4910) | Aman-Jain-14 |  | XiaofeiCao | new issue. | 01-22 | 02-23 |  |
-| 3 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | XiaofeiCao | new issue. | 01-22 | 02-23 |  |
+| 3 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | v-hongli1 |  | 01-22 |  | 0 |
 | 4 | [#4901](https://github.com/Azure/sdk-release-request/issues/4901) | alluri02 |  | haolingdong-msft | new issue. | 01-22 | 02-23 |  |
 | 5 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
 | 6 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao |  | 01-16 | 02-23 |  |
