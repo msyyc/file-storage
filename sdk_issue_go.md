@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22172](https://github.com/Azure/azure-sdk-for-go/issues/22172)| I want to get the enterprise application name.|question, AAD, Service Attention, Mgmt, customer-reported, needs-author-feedback|Alancere||2023-12-22|
+|1|[#22172](https://github.com/Azure/azure-sdk-for-go/issues/22172)| I want to get the enterprise application name.|question, AAD, Service Attention, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2023-12-22|
 |2|[#22168](https://github.com/Azure/azure-sdk-for-go/issues/22168)|Not getting an option to mount volume for an azure container job at the time of start|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2023-12-21|
 |3|[#22167](https://github.com/Azure/azure-sdk-for-go/issues/22167)|Getting 503 error when calling `(*runtime.Pager[armquota.ClientListResponse]).NextPage`|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Quota|Alancere|new comment|2023-12-20|
 |4|[#22158](https://github.com/Azure/azure-sdk-for-go/issues/22158)|Bug(docs): `armconnectedvmware` docs example reference a non existing client|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Connected Kubernetes|Alancere|new comment|2023-12-18|
@@ -10,7 +10,7 @@
 |8|[#21808](https://github.com/Azure/azure-sdk-for-go/issues/21808)|[Recovery Services] Vague error messages when creating protected item|question, Recovery Services Backup, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2023-10-19|
 |9|[#21796](https://github.com/Azure/azure-sdk-for-go/issues/21796)|armmonitoring MetricsClient.ListAtSubscriptionScopePost report unexpected error.|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2023-10-18|
 |10|[#21777](https://github.com/Azure/azure-sdk-for-go/issues/21777)|Connectivity check returning a nonexistent `ConnectionStatus` constant|question, Service Attention, Mgmt, customer-reported, Network - Virtual Network, needs-team-attention|Alancere|new comment|2023-10-16|
-|11|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|Alancere, tadelesh|new issue|2023-09-06|
+|11|[#21501](https://github.com/Azure/azure-sdk-for-go/issues/21501)|Generation script use the wrong autorest core version|bug, Mgmt, EngSys|tadelesh, Alancere|new issue|2023-09-06|
 |12|[#21394](https://github.com/Azure/azure-sdk-for-go/issues/21394)|Unable to get the `name` field for `privateEndpointConnections` when we call from `azure-sdk-for-go` or through REST API.|question, Machine Learning, Mgmt, customer-reported, needs-team-attention, needs-team-triage|lirenhe||2023-08-18|
 |13|[#19407](https://github.com/Azure/azure-sdk-for-go/issues/19407)|StreamAnalytics - please support 2021-10-01-preview so we can use UserAssigned|question, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere|new comment|2022-10-23|
 |14|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
