@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#22307](https://github.com/Azure/azure-sdk-for-go/issues/22307)|Support v2 APIM Api|question, API Management, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
-|2|[#22306](https://github.com/Azure/azure-sdk-for-go/issues/22306)|armadvisor Generate() returns a value unusable by GetGenerateStatus() without further processing.|question, Advisor, Mgmt, customer-reported, needs-team-attention|Alancere|new issue|2024-01-29|
-|3|[#22305](https://github.com/Azure/azure-sdk-for-go/issues/22305)|armadvisor GetGenerateStatus hides relevant HTTP status information|question, Advisor, Mgmt, customer-reported, needs-team-attention|Alancere|new comment|2024-01-29|
+|2|[#22306](https://github.com/Azure/azure-sdk-for-go/issues/22306)|armadvisor Generate() returns a value unusable by GetGenerateStatus() without further processing.|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
+|3|[#22305](https://github.com/Azure/azure-sdk-for-go/issues/22305)|armadvisor GetGenerateStatus hides relevant HTTP status information|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
 |4|[#22279](https://github.com/Azure/azure-sdk-for-go/issues/22279)|armsubscriptions newListPager doesn't return all subscriptions |ARM, Mgmt, customer-reported, Subscription, needs-team-attention|Alancere||2024-01-20|
 |5|[#22172](https://github.com/Azure/azure-sdk-for-go/issues/22172)| I want to get the enterprise application name.|question, AAD, Service Attention, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2023-12-22|
 |6|[#22168](https://github.com/Azure/azure-sdk-for-go/issues/22168)|Not getting an option to mount volume for an azure container job at the time of start|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2023-12-21|
