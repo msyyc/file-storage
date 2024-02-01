@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22307](https://github.com/Azure/azure-sdk-for-go/issues/22307)|Support v2 APIM Api|question, API Management, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
+|1|[#22307](https://github.com/Azure/azure-sdk-for-go/issues/22307)|Support v2 APIM Api|question, API Management, Mgmt, customer-reported, needs-team-attention|Alancere|new comment|2024-01-29|
 |2|[#22306](https://github.com/Azure/azure-sdk-for-go/issues/22306)|armadvisor Generate() returns a value unusable by GetGenerateStatus() without further processing.|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
 |3|[#22305](https://github.com/Azure/azure-sdk-for-go/issues/22305)|armadvisor GetGenerateStatus hides relevant HTTP status information|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
 |4|[#22279](https://github.com/Azure/azure-sdk-for-go/issues/22279)|armsubscriptions newListPager doesn't return all subscriptions |ARM, Mgmt, customer-reported, Subscription, needs-team-attention|Alancere|new comment|2024-01-20|
@@ -18,6 +18,6 @@
 |16|[#21394](https://github.com/Azure/azure-sdk-for-go/issues/21394)|Unable to get the `name` field for `privateEndpointConnections` when we call from `azure-sdk-for-go` or through REST API.|question, Machine Learning, Mgmt, customer-reported, needs-team-attention, needs-team-triage|lirenhe||2023-08-18|
 |17|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
 |18|[#18590](https://github.com/Azure/azure-sdk-for-go/issues/18590)|Unable to expand planInformation on Reservation Order|bug, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-14|
-|19|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|tadelesh, lirenhe|new comment|2022-05-05|
+|19|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, tadelesh|new comment|2022-05-05|
 |20|[#7738](https://github.com/Azure/azure-sdk-for-go/issues/7738)|Microsoft.Network: `securityRule` resource group name not respecting case sensitivity |bug, Service Attention, Mgmt, customer-reported, Network - Virtual Network|ArcturusZhang|new comment|2020-02-29|
 |21|[#6441](https://github.com/Azure/azure-sdk-for-go/issues/6441)|AzureAD: Application Proxy and Single Sign On|AAD, Mgmt, customer-reported, feature-request|Alancere|new issue|2019-11-27|
