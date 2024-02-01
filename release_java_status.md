@@ -7,10 +7,10 @@
 | 5 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | v-hongli1 |  | 01-22 |  | 0 |
 | 6 | [#4901](https://github.com/Azure/sdk-release-request/issues/4901) | alluri02 |  | haolingdong-msft | new issue. | 01-22 | 02-23 |  |
 | 7 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
-| 8 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao |  | 01-16 | 02-23 |  |
+| 8 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao | new comment. | 01-16 | 02-23 |  |
 | 9 | [#4888](https://github.com/Azure/sdk-release-request/issues/4888) | ShreyaAnand |  | haolingdong-msft | Attention to inconsistent tag | 01-15 | 02-23 |  |
-| 10 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  | weidongxu-microsoft | Attention to inconsistent tag | 01-09 | 01-26 |  |
-| 11 | [#4869](https://github.com/Azure/sdk-release-request/issues/4869) | azaslonov |  | weidongxu-microsoft |  | 01-08 | 01-26 |  |
-| 12 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  | haolingdong-msft | Attention to inconsistent tag | 12-20 | 01-26 |  |
+| 10 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  | weidongxu-microsoft | new comment. Attention to inconsistent tag | 01-09 | 02-23 |  |
+| 11 | [#4869](https://github.com/Azure/sdk-release-request/issues/4869) | azaslonov |  | weidongxu-microsoft | new comment. | 01-08 | 02-23 |  |
+| 12 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  | haolingdong-msft | new comment. Attention to inconsistent tag | 12-20 | 01-26 |  |
 | 13 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. | 11-29 | 02-23 |  |
-| 14 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. | 10-23 | 01-26 |  |
+| 14 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. | 10-23 | 02-23 |  |
