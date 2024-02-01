@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 | new issue. | 01-31 | 02-23 |  |
+| 1 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 |  | 01-31 | 02-23 |  |
 | 2 | [#4928](https://github.com/Azure/sdk-release-request/issues/4928) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 01-31 | 02-23 |  |
 | 3 | [#4924](https://github.com/Azure/sdk-release-request/issues/4924) | Alancere | azure-mgmt-apimanagement | ChenxiJiang333 |  | 01-31 | 02-23 |  |
 | 4 | [#4921](https://github.com/Azure/sdk-release-request/issues/4921) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 01-26 | 02-23 |  |
