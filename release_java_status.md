@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4939](https://github.com/Azure/sdk-release-request/issues/4939) | banggaurav |  | weidongxu-microsoft | Attention to inconsistent tag | 02-01 | 02-23 |  |
 | 2 | [#4936](https://github.com/Azure/sdk-release-request/issues/4936) | yuc-Li |  | XiaofeiCao | new issue. | 02-01 | 02-23 |  |
-| 3 | [#4929](https://github.com/Azure/sdk-release-request/issues/4929) | 8Gitbrix |  | XiaofeiCao | new issue. | 01-31 | 02-23 |  |
+| 3 | [#4929](https://github.com/Azure/sdk-release-request/issues/4929) | 8Gitbrix |  | XiaofeiCao |  | 01-31 | 02-23 |  |
 | 4 | [#4916](https://github.com/Azure/sdk-release-request/issues/4916) | htippanaboya |  | v-hongli1 |  | 01-24 |  | 0 |
 | 5 | [#4910](https://github.com/Azure/sdk-release-request/issues/4910) | Aman-Jain-14 |  | XiaofeiCao | new issue. | 01-22 | 02-23 |  |
 | 6 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | v-hongli1 |  | 01-22 |  | 0 |
