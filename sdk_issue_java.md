@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#38488](https://github.com/Azure/azure-sdk-for-java/issues/38488)|[FEATURE REQ] Ability to create Container Registry with zone redundancy|question, ARM, Container Registry, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao|new comment|2024-01-25|
-|2|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
+|2|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
 |3|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |4|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
 |5|[#37811](https://github.com/Azure/azure-sdk-for-java/issues/37811)|[BUG] Usage of ResourceManager with multiple subscriptions not possible|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2023-11-24|
@@ -14,13 +14,13 @@
 |12|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |13|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |14|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
-|15|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring, graalvm, azure-spring-native|saragluna, XiaofeiCao, weidongxu-microsoft||2023-09-13|
+|15|[#36755](https://github.com/Azure/azure-sdk-for-java/issues/36755)|[FEATURE REQ] azure-resourcemanager-containerinstance Native Support|ARM, Mgmt, customer-reported, feature-request, needs-team-triage, azure-spring, graalvm, azure-spring-native|weidongxu-microsoft, saragluna, XiaofeiCao||2023-09-13|
 |16|[#36660](https://github.com/Azure/azure-sdk-for-java/issues/36660)|Switch `VirtualMachines.listByVirtualMachineScaleSet` implementation|Mgmt, Mgmt - Track 2, MQ|XiaofeiCao||2023-09-07|
 |17|[#36646](https://github.com/Azure/azure-sdk-for-java/issues/36646)|[BUG] mgmt, investigate why publish doc fails on storagemover and voiceservices|Mgmt, Docs, MQ|XiaofeiCao||2023-09-06|
 |18|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
 |19|[#36596](https://github.com/Azure/azure-sdk-for-java/issues/36596)|[FEATURE REQ] mgmt, update Javadoc of premium SDK, so that it pass Java 17 |Mgmt, MQ|XiaofeiCao||2023-08-30|
 |20|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
-|21|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|weidongxu-microsoft, v-hongli1, XiaofeiCao||2023-08-22|
+|21|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, weidongxu-microsoft, XiaofeiCao||2023-08-22|
 |22|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |23|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
 |24|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
