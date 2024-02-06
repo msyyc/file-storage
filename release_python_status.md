@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4940](https://github.com/Azure/sdk-release-request/issues/4940) | banggaurav | azure-mgmt-astro | ChenxiJiang333 | FirstBeta | 02-01 | 02-23 |  |
 | 2 | [#4934](https://github.com/Azure/sdk-release-request/issues/4934) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 |  | 02-01 | 02-23 |  |
-| 3 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 | new comment. FirstBeta | 01-31 | 02-23 |  |
+| 3 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 | FirstBeta | 01-31 | 02-23 |  |
 | 4 | [#4928](https://github.com/Azure/sdk-release-request/issues/4928) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 01-31 | 02-23 |  |
 | 5 | [#4921](https://github.com/Azure/sdk-release-request/issues/4921) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 01-26 | 02-23 |  |
 | 6 | [#4917](https://github.com/Azure/sdk-release-request/issues/4917) | htippanaboya | azure-mgmt-network | ChenxiJiang333 |  | 01-24 | 02-23 |  |
