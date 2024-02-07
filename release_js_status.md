@@ -7,7 +7,7 @@
 | 5 | [#4923](https://github.com/Azure/sdk-release-request/issues/4923) | ruowan |  | MaryGao |  | 01-26 | 02-23 |  |
 | 6 | [#4919](https://github.com/Azure/sdk-release-request/issues/4919) | htippanaboya |  | MaryGao | new comment. | 01-24 | 02-23 |  |
 | 7 | [#4908](https://github.com/Azure/sdk-release-request/issues/4908) | Aman-Jain-14 |  | MaryGao |  | 01-22 | 02-23 |  |
-| 8 | [#4905](https://github.com/Azure/sdk-release-request/issues/4905) | jantache-microsoft |  | MaryGao | new comment. | 01-22 | 02-23 |  |
+| 8 | [#4905](https://github.com/Azure/sdk-release-request/issues/4905) | jantache-microsoft |  | MaryGao |  | 01-22 | 02-23 |  |
 | 9 | [#4900](https://github.com/Azure/sdk-release-request/issues/4900) | alluri02 |  | MaryGao |  | 01-22 | 02-23 |  |
 | 10 | [#4897](https://github.com/Azure/sdk-release-request/issues/4897) | eliagrady |  | qiaozha | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
 | 11 | [#4890](https://github.com/Azure/sdk-release-request/issues/4890) | hmmorales |  | qiaozha | new comment. | 01-16 | 02-23 |  |
