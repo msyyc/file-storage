@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4944](https://github.com/Azure/sdk-release-request/issues/4944) | shrauta-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 | new issue. | 02-08 | 02-23 |  |
+| 1 | [#4944](https://github.com/Azure/sdk-release-request/issues/4944) | shrauta-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 02-08 | 02-23 |  |
 | 2 | [#4940](https://github.com/Azure/sdk-release-request/issues/4940) | banggaurav | azure-mgmt-astro | ChenxiJiang333 | new comment. FirstBeta | 02-01 | 02-23 |  |
 | 3 | [#4934](https://github.com/Azure/sdk-release-request/issues/4934) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 |  | 02-01 | 02-23 |  |
 | 4 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 | FirstBeta | 01-31 | 02-23 |  |
