@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new issue. | 02-17 | 03-22 |  |
+| 1 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 |  | 02-17 | 03-22 |  |
 | 2 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag | 02-16 | 03-22 |  |
 | 3 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 | Attention to inconsistent tag MultiAPI | 02-15 | 03-22 |  |
 | 4 | [#4944](https://github.com/Azure/sdk-release-request/issues/4944) | shrauta-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 02-08 | 02-23 |  |
