@@ -5,7 +5,7 @@
 | 3 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
 | 4 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 | MultiAPI | 02-15 | 03-22 |  |
 | 5 | [#4944](https://github.com/Azure/sdk-release-request/issues/4944) | shrauta-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 02-08 | 02-23 |  |
-| 6 | [#4940](https://github.com/Azure/sdk-release-request/issues/4940) | banggaurav | azure-mgmt-astro | ChenxiJiang333 | FirstBeta | 02-01 | 02-23 |  |
+| 6 | [#4940](https://github.com/Azure/sdk-release-request/issues/4940) | banggaurav | azure-mgmt-astro | ChenxiJiang333 | new comment. FirstBeta | 02-01 | 02-23 |  |
 | 7 | [#4934](https://github.com/Azure/sdk-release-request/issues/4934) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 | HoldOn | 02-01 | 02-23 |  |
 | 8 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 | FirstBeta | 01-31 | 02-23 |  |
 | 9 | [#4928](https://github.com/Azure/sdk-release-request/issues/4928) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 01-31 | 02-23 |  |
