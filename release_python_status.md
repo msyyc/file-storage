@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 02-19 | 03-22 |  |
-| 2 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | FirstGA | 02-17 | 03-22 |  |
+| 2 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA | 02-17 | 03-22 |  |
 | 3 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
 | 4 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 | MultiAPI | 02-15 | 03-22 |  |
 | 5 | [#4944](https://github.com/Azure/sdk-release-request/issues/4944) | shrauta-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 02-08 | 02-23 |  |
@@ -20,6 +20,6 @@
 | 18 | [#4887](https://github.com/Azure/sdk-release-request/issues/4887) | ShreyaAnand | azure-mgmt-playwrighttesting | ChenxiJiang333 |  | 01-15 | 02-23 |  |
 | 19 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. FirstBeta HoldOn | 01-09 | 02-23 |  |
 | 20 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | FirstGA HoldOn | 01-08 | 02-23 |  |
-| 21 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | FirstBeta HoldOn | 12-20 | 02-23 |  |
+| 21 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | new comment. FirstBeta HoldOn | 12-20 | 02-23 |  |
 | 22 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | FirstBeta HoldOn | 11-29 | 02-23 |  |
 | 23 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. FirstGA HoldOn | 10-23 | 02-23 |  |
