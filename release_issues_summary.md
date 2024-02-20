@@ -27,4 +27,3 @@
 | 25 | 'Release for Container Service - 2023-11-02-preview'  |  | [#4942](https://github.com/Azure/sdk-release-request/issues/4942)  |  | [#4941](https://github.com/Azure/sdk-release-request/issues/4941)  | 02-02 | 02-23 | Hold on by Go/ |
 | 26 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 02-23 | Hold on by JS/ |
 | 27 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 02-23 |  |
-| 28 | 'Release for SpringAppDiscovery - 2023-10-10'  |  |  |  | [#4835](https://github.com/Azure/sdk-release-request/issues/4835)  | 12-15 | 02-23 |  |

@@ -23,6 +23,5 @@
 | 21 | [#4866](https://github.com/Azure/sdk-release-request/issues/4866) | pjohari-ms |  | qiaozha | new comment. close to release date.  | 01-06 | 02-23 | 2 |
 | 22 | [#4861](https://github.com/Azure/sdk-release-request/issues/4861) | Alancere |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 12-27 | 02-23 | 2 |
 | 23 | [#4842](https://github.com/Azure/sdk-release-request/issues/4842) | adityashukla-msft |  | qiaozha | close to release date.  Attention to inconsistent tag | 12-20 | 02-23 | 2 |
-| 24 | [#4835](https://github.com/Azure/sdk-release-request/issues/4835) | sunkun99 |  | MaryGao | new comment. close to release date.  | 12-15 | 02-23 | 2 |
-| 25 | [#4806](https://github.com/Azure/sdk-release-request/issues/4806) | aneesh-ponneth |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 11-29 | 02-23 | 2 |
-| 26 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. close to release date.  | 10-23 | 02-23 | 2 |
+| 24 | [#4806](https://github.com/Azure/sdk-release-request/issues/4806) | aneesh-ponneth |  | MaryGao | new comment. close to release date.  Attention to inconsistent tag | 11-29 | 02-23 | 2 |
+| 25 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. close to release date.  | 10-23 | 02-23 | 2 |
