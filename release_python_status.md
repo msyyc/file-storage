@@ -4,7 +4,7 @@
 | 2 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 02-19 | 03-22 |  |
 | 3 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA | 02-17 | 03-22 |  |
 | 4 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
-| 5 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 | MultiAPI | 02-15 | 03-22 |  |
+| 5 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 |  | 02-15 | 03-22 |  |
 | 6 | [#4944](https://github.com/Azure/sdk-release-request/issues/4944) | shrauta-ms | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 | close to release date.  | 02-08 | 02-23 | 2 |
 | 7 | [#4940](https://github.com/Azure/sdk-release-request/issues/4940) | banggaurav | azure-mgmt-astro | ChenxiJiang333 | close to release date.  FirstBeta | 02-01 | 02-23 | 2 |
 | 8 | [#4934](https://github.com/Azure/sdk-release-request/issues/4934) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 | close to release date.  HoldOn | 02-01 | 02-23 | 2 |
