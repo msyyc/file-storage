@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4966](https://github.com/Azure/sdk-release-request/issues/4966) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 02-19 | 03-22 |  |
+| 1 | [#4966](https://github.com/Azure/sdk-release-request/issues/4966) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 02-19 | 03-22 |  |
 | 2 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 02-19 | 03-22 |  |
 | 3 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA | 02-17 | 03-22 |  |
 | 4 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
