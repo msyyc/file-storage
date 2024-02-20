@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4966](https://github.com/Azure/sdk-release-request/issues/4966) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 02-19 | 03-22 |  |
+| 1 | [#4966](https://github.com/Azure/sdk-release-request/issues/4966) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. ForCLI | 02-19 | 03-22 |  |
 | 2 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 02-19 | 03-22 |  |
 | 3 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA | 02-17 | 03-22 |  |
 | 4 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
@@ -14,13 +14,12 @@
 | 12 | [#4917](https://github.com/Azure/sdk-release-request/issues/4917) | htippanaboya | azure-mgmt-network | ChenxiJiang333 | close to release date.  | 01-24 | 02-23 | 2 |
 | 13 | [#4911](https://github.com/Azure/sdk-release-request/issues/4911) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 | close to release date.  | 01-22 | 02-23 | 2 |
 | 14 | [#4907](https://github.com/Azure/sdk-release-request/issues/4907) | jantache-microsoft | azure-mgmt-redisenterprise | ChenxiJiang333 | close to release date.  | 01-22 | 02-23 | 2 |
-| 15 | [#4902](https://github.com/Azure/sdk-release-request/issues/4902) | alluri02 | azure-mgmt-confluent | ChenxiJiang333 | close to release date.  new version is 0.0.0, please check base branch! HoldOn | 01-22 | 02-23 | 2 |
-| 16 | [#4899](https://github.com/Azure/sdk-release-request/issues/4899) | mwesigwaguma | azure-mgmt-servicefabric | ChenxiJiang333 | close to release date.  | 01-20 | 02-23 | 2 |
-| 17 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | close to release date.  Attention to inconsistent tag MultiAPI | 01-18 | 02-23 | 2 |
-| 18 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 |  | 01-16 |  | 0 |
-| 19 | [#4887](https://github.com/Azure/sdk-release-request/issues/4887) | ShreyaAnand | azure-mgmt-playwrighttesting | ChenxiJiang333 | close to release date.  | 01-15 | 02-23 | 2 |
-| 20 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 01-09 | 02-23 | 2 |
-| 21 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | close to release date.  FirstGA HoldOn | 01-08 | 02-23 | 2 |
-| 22 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 12-20 | 02-23 | 2 |
-| 23 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 11-29 | 02-23 | 2 |
-| 24 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. close to release date.  FirstGA HoldOn | 10-23 | 02-23 | 2 |
+| 15 | [#4899](https://github.com/Azure/sdk-release-request/issues/4899) | mwesigwaguma | azure-mgmt-servicefabric | ChenxiJiang333 | close to release date.  | 01-20 | 02-23 | 2 |
+| 16 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | close to release date.  Attention to inconsistent tag MultiAPI | 01-18 | 02-23 | 2 |
+| 17 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 |  | 01-16 |  | 0 |
+| 18 | [#4887](https://github.com/Azure/sdk-release-request/issues/4887) | ShreyaAnand | azure-mgmt-playwrighttesting | ChenxiJiang333 | close to release date.  | 01-15 | 02-23 | 2 |
+| 19 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 01-09 | 02-23 | 2 |
+| 20 | [#4871](https://github.com/Azure/sdk-release-request/issues/4871) | azaslonov | azure-mgmt-apicenter | ChenxiJiang333 | close to release date.  FirstGA HoldOn | 01-08 | 02-23 | 2 |
+| 21 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloads-sapvirtualinstance | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 12-20 | 02-23 | 2 |
+| 22 | [#4808](https://github.com/Azure/sdk-release-request/issues/4808) | aneesh-ponneth | azure-mgmt-edgemarketplace | ChenxiJiang333 | close to release date.  FirstBeta HoldOn | 11-29 | 02-23 | 2 |
+| 23 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. close to release date.  FirstGA HoldOn | 10-23 | 02-23 | 2 |
