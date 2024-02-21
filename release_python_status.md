@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4971](https://github.com/Azure/sdk-release-request/issues/4971) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 | Attention to inconsistent tag | 02-21 | 03-22 |  |
+| 1 | [#4971](https://github.com/Azure/sdk-release-request/issues/4971) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 02-21 | 03-22 |  |
 | 2 | [#4968](https://github.com/Azure/sdk-release-request/issues/4968) | khattartarun | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 02-20 | 03-22 |  |
 | 3 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 02-19 | 03-22 |  |
 | 4 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA | 02-17 | 03-22 |  |
