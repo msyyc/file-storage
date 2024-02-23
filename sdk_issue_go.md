@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22408](https://github.com/Azure/azure-sdk-for-go/issues/22408)|Getting the next page of the activity logs fails with invalid semicolon separator in query|Monitor, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-02-20|
+|1|[#22408](https://github.com/Azure/azure-sdk-for-go/issues/22408)|Getting the next page of the activity logs fails with invalid semicolon separator in query|Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-02-20|
 |2|[#22393](https://github.com/Azure/azure-sdk-for-go/issues/22393)|armalertsmanagement does not seem to correctly generate the scope when updating an alert. |question, Mgmt, customer-reported, needs-team-attention, Alerts Management|Alancere|new comment|2024-02-15|
 |3|[#22306](https://github.com/Azure/azure-sdk-for-go/issues/22306)|armadvisor Generate() returns a value unusable by GetGenerateStatus() without further processing.|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
 |4|[#22305](https://github.com/Azure/azure-sdk-for-go/issues/22305)|armadvisor GetGenerateStatus hides relevant HTTP status information|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
