@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4983](https://github.com/Azure/sdk-release-request/issues/4983) | Joeleniqs | azure-mgmt-communication | ChenxiJiang333 | Attention to inconsistent tag | 02-24 | 03-22 |  |
-| 2 | [#4979](https://github.com/Azure/sdk-release-request/issues/4979) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | new comment. | 02-22 | 03-22 |  |
+| 2 | [#4979](https://github.com/Azure/sdk-release-request/issues/4979) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 02-22 | 03-22 |  |
 | 3 | [#4971](https://github.com/Azure/sdk-release-request/issues/4971) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 02-21 | 03-22 |  |
-| 4 | [#4968](https://github.com/Azure/sdk-release-request/issues/4968) | khattartarun | azure-mgmt-mobilenetwork | ChenxiJiang333 | new comment. | 02-20 | 03-22 |  |
+| 4 | [#4968](https://github.com/Azure/sdk-release-request/issues/4968) | khattartarun | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 02-20 | 03-22 |  |
 | 5 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 | new comment. | 02-19 | 03-22 |  |
 | 6 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA HoldOn | 02-17 | 03-22 |  |
 | 7 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
