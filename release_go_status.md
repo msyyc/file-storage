@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#4985](https://github.com/Azure/sdk-release-request/issues/4985) | Alancere |  | Alancere | close to release date.  Attention to inconsistent tag | 02-26 | 03-01 | 2 |
-| 2 | [#4984](https://github.com/Azure/sdk-release-request/issues/4984) | Joeleniqs |  | Alancere | Attention to inconsistent tag | 02-24 | 03-22 |  |
+| 2 | [#4984](https://github.com/Azure/sdk-release-request/issues/4984) | Joeleniqs |  | Alancere |  | 02-24 | 03-22 |  |
 | 3 | [#4980](https://github.com/Azure/sdk-release-request/issues/4980) | carjackson-msft |  | Alancere | new issue. | 02-22 | 03-22 |  |
 | 4 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-21 | 03-22 |  |
 | 5 | [#4973](https://github.com/Azure/sdk-release-request/issues/4973) | RenzoPrettoMS |  | Alancere | Attention to inconsistent tag | 02-21 | 03-22 |  |

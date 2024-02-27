@@ -9,7 +9,7 @@
 | 7 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  | XiaofeiCao | new issue. new comment. | 02-17 | 03-22 |  |
 | 8 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  | XiaofeiCao | Attention to inconsistent tag | 02-16 | 03-22 |  |
 | 9 | [#4949](https://github.com/Azure/sdk-release-request/issues/4949) | Sandido |  | v-hongli1 |  | 02-15 |  | 0 |
-| 10 | [#4936](https://github.com/Azure/sdk-release-request/issues/4936) | yuc-Li |  | XiaofeiCao | new issue. | 02-01 | 02-23 |  |
+| 10 | [#4936](https://github.com/Azure/sdk-release-request/issues/4936) | yuc-Li |  | XiaofeiCao |  | 02-01 | 02-23 |  |
 | 11 | [#4929](https://github.com/Azure/sdk-release-request/issues/4929) | 8Gitbrix |  | XiaofeiCao | new comment. | 01-31 | 02-23 |  |
 | 12 | [#4916](https://github.com/Azure/sdk-release-request/issues/4916) | htippanaboya |  | v-hongli1 |  | 01-24 |  | 0 |
 | 13 | [#4910](https://github.com/Azure/sdk-release-request/issues/4910) | Aman-Jain-14 |  | XiaofeiCao | new issue. | 01-22 | 02-23 |  |
