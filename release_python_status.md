@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#4986](https://github.com/Azure/sdk-release-request/issues/4986) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 | MultiAPI | 02-26 | 03-22 |  |
+| 1 | [#4986](https://github.com/Azure/sdk-release-request/issues/4986) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 |  | 02-26 | 03-22 |  |
 | 2 | [#4983](https://github.com/Azure/sdk-release-request/issues/4983) | Joeleniqs | azure-mgmt-communication | ChenxiJiang333 |  | 02-24 | 03-22 |  |
 | 3 | [#4979](https://github.com/Azure/sdk-release-request/issues/4979) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 02-22 | 03-22 |  |
 | 4 | [#4971](https://github.com/Azure/sdk-release-request/issues/4971) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 02-21 | 03-22 |  |
