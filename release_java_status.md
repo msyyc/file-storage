@@ -6,7 +6,7 @@
 | 4 | [#4994](https://github.com/Azure/sdk-release-request/issues/4994) | senatol |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
 | 5 | [#4987](https://github.com/Azure/sdk-release-request/issues/4987) | ruowan |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
 | 6 | [#4982](https://github.com/Azure/sdk-release-request/issues/4982) | Joeleniqs |  | XiaofeiCao | Attention to inconsistent tag | 02-24 | 03-22 |  |
-| 7 | [#4977](https://github.com/Azure/sdk-release-request/issues/4977) | carjackson-msft |  | haolingdong-msft | new issue. | 02-22 | 03-22 |  |
+| 7 | [#4977](https://github.com/Azure/sdk-release-request/issues/4977) | carjackson-msft |  | v-hongli1 |  | 02-22 |  | 0 |
 | 8 | [#4972](https://github.com/Azure/sdk-release-request/issues/4972) | RenzoPrettoMS |  | haolingdong-msft | new comment. Attention to inconsistent tag | 02-21 | 03-22 |  |
 | 9 | [#4969](https://github.com/Azure/sdk-release-request/issues/4969) | khattartarun |  | weidongxu-microsoft | new issue. | 02-20 | 03-22 |  |
 | 10 | [#4965](https://github.com/Azure/sdk-release-request/issues/4965) | FumingZhang |  | v-hongli1 |  | 02-19 |  | 0 |
