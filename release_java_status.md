@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5004](https://github.com/Azure/sdk-release-request/issues/5004) | mattgotteiner |  | XiaofeiCao | new issue. | 02-27 | 03-22 |  |
-| 2 | [#5001](https://github.com/Azure/sdk-release-request/issues/5001) | jessHuh |  | weidongxu-microsoft |  | 02-27 |  | 0 |
+| 2 | [#5001](https://github.com/Azure/sdk-release-request/issues/5001) | jessHuh |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
 | 3 | [#4997](https://github.com/Azure/sdk-release-request/issues/4997) | 04diiguyi |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
 | 4 | [#4994](https://github.com/Azure/sdk-release-request/issues/4994) | senatol |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
 | 5 | [#4987](https://github.com/Azure/sdk-release-request/issues/4987) | ruowan |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |

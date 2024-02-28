@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5003](https://github.com/Azure/sdk-release-request/issues/5003) | mattgotteiner |  | Alancere | new issue. | 02-27 | 03-22 |  |
-| 2 | [#5002](https://github.com/Azure/sdk-release-request/issues/5002) | jessHuh |  | Alancere |  | 02-27 |  | 0 |
+| 2 | [#5002](https://github.com/Azure/sdk-release-request/issues/5002) | jessHuh |  | Alancere | new issue. | 02-27 | 03-22 |  |
 | 3 | [#4995](https://github.com/Azure/sdk-release-request/issues/4995) | 04diiguyi |  | Alancere | new issue. | 02-27 | 03-22 |  |
 | 4 | [#4991](https://github.com/Azure/sdk-release-request/issues/4991) | senatol |  | Alancere | new issue. | 02-27 | 03-22 |  |
 | 5 | [#4990](https://github.com/Azure/sdk-release-request/issues/4990) | ruowan |  | Alancere | new issue. | 02-27 | 03-22 |  |
