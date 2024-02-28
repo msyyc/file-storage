@@ -31,7 +31,6 @@
 | 29 | 'August API version for ASR'  |  |  |  | [#4943](https://github.com/Azure/sdk-release-request/issues/4943)  | 02-08 | 02-23 |  |
 | 30 | 'Release for Liftr-Asrtronomer - 2023-08-01'  |  |  |  | [#4937](https://github.com/Azure/sdk-release-request/issues/4937)  | 02-01 | 02-23 |  |
 | 31 | 'Release for Root Squash - 2024-02-01'  |  |  |  | [#4908](https://github.com/Azure/sdk-release-request/issues/4908)  | 01-22 | 02-23 |  |
-| 32 | 'Release for Microsoft Confluent 2023-08-22'  |  |  |  | [#4900](https://github.com/Azure/sdk-release-request/issues/4900)  | 01-22 | 02-23 | Hold on by JS/ |
-| 33 | 'API Center SDK - 2024-03-01'  |  |  |  | [#4870](https://github.com/Azure/sdk-release-request/issues/4870)  | 01-08 | 02-23 |  |
-| 34 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 02-23 | Hold on by JS/ |
-| 35 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 02-23 |  |
+| 32 | 'API Center SDK - 2024-03-01'  |  |  |  | [#4870](https://github.com/Azure/sdk-release-request/issues/4870)  | 01-08 | 02-23 |  |
+| 33 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 02-23 | Hold on by JS/ |
+| 34 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 02-23 |  |
