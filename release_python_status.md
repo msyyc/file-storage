@@ -14,7 +14,7 @@
 | 12 | [#4971](https://github.com/Azure/sdk-release-request/issues/4971) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 | new comment. | 02-21 | 03-22 |  |
 | 13 | [#4968](https://github.com/Azure/sdk-release-request/issues/4968) | khattartarun | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 02-20 | 03-22 |  |
 | 14 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 | new comment. | 02-19 | 03-22 |  |
-| 15 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. FirstGA HoldOn | 02-17 | 03-22 |  |
+| 15 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | FirstGA | 02-17 | 03-22 |  |
 | 16 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag HoldOn | 02-16 | 03-22 |  |
 | 17 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 |  | 02-15 | 03-22 |  |
 | 18 | [#4930](https://github.com/Azure/sdk-release-request/issues/4930) | 8Gitbrix | azure-mgmt-azurelargeinstance | ChenxiJiang333 | new comment. FirstBeta | 01-31 | 02-23 |  |
