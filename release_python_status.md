@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5014](https://github.com/Azure/sdk-release-request/issues/5014) | wiboris | azure-mgmt-batch | ChenxiJiang333 | new issue. | 02-29 | 03-22 |  |
+| 1 | [#5014](https://github.com/Azure/sdk-release-request/issues/5014) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 02-29 | 03-22 |  |
 | 2 | [#5011](https://github.com/Azure/sdk-release-request/issues/5011) | jamesfan1 | azure-mgmt-nginx | ChenxiJiang333 | Attention to inconsistent tag | 02-28 | 03-22 |  |
 | 3 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 |  | 02-28 | 03-22 |  |
 | 4 | [#5006](https://github.com/Azure/sdk-release-request/issues/5006) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | HoldOn | 02-27 | 03-22 |  |
