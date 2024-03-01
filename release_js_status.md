@@ -3,7 +3,7 @@
 | 1 | [#5018](https://github.com/Azure/sdk-release-request/issues/5018) | DeepikaNMS |  | qiaozha | new issue. | 02-29 | 03-22 |  |
 | 2 | [#5016](https://github.com/Azure/sdk-release-request/issues/5016) | wiboris |  | qiaozha | new issue. | 02-29 | 03-22 |  |
 | 3 | [#5012](https://github.com/Azure/sdk-release-request/issues/5012) | jamesfan1 |  | qiaozha | Attention to inconsistent tag | 02-28 | 03-22 |  |
-| 4 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha | new issue. | 02-28 | 03-22 |  |
+| 4 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha | new issue. new comment. | 02-28 | 03-22 |  |
 | 5 | [#5005](https://github.com/Azure/sdk-release-request/issues/5005) | mattgotteiner |  | qiaozha | new issue. | 02-27 | 03-22 |  |
 | 6 | [#4999](https://github.com/Azure/sdk-release-request/issues/4999) | jessHuh |  | qiaozha | new issue. | 02-27 | 03-22 |  |
 | 7 | [#4998](https://github.com/Azure/sdk-release-request/issues/4998) | 04diiguyi |  | qiaozha | new issue. | 02-27 | 03-22 |  |
