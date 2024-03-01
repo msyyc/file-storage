@@ -5,7 +5,7 @@
 | 3 | [#5011](https://github.com/Azure/sdk-release-request/issues/5011) | jamesfan1 | azure-mgmt-nginx | ChenxiJiang333 |  | 02-28 | 03-22 |  |
 | 4 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 |  | 02-28 | 03-22 |  |
 | 5 | [#5006](https://github.com/Azure/sdk-release-request/issues/5006) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | HoldOn | 02-27 | 03-22 |  |
-| 6 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 | new comment. | 02-27 | 03-22 |  |
+| 6 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 7 | [#4996](https://github.com/Azure/sdk-release-request/issues/4996) | 04diiguyi | azure-mgmt-quantum | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 8 | [#4992](https://github.com/Azure/sdk-release-request/issues/4992) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 9 | [#4988](https://github.com/Azure/sdk-release-request/issues/4988) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | duplicated issue  <br> | 02-27 | 03-22 |  |

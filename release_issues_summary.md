@@ -32,6 +32,5 @@
 | 30 | 'Release for Container Service - 2024-01-01'  |  | [#4963](https://github.com/Azure/sdk-release-request/issues/4963)  |  | [#4964](https://github.com/Azure/sdk-release-request/issues/4964)  | 02-19 | 03-22 | Hold on by JS/ |
 | 31 | 'Release for Container Service - 2023-11-02-preview'  |  | [#4942](https://github.com/Azure/sdk-release-request/issues/4942)  |  |  | 02-02 | 02-23 | Hold on by Go/ |
 | 32 | 'August API version for ASR'  |  |  |  | [#4943](https://github.com/Azure/sdk-release-request/issues/4943)  | 02-08 | 02-23 |  |
-| 33 | 'Release for Root Squash - 2024-02-01'  |  |  |  | [#4908](https://github.com/Azure/sdk-release-request/issues/4908)  | 01-22 | 02-23 |  |
-| 34 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 02-23 | Hold on by JS/ |
-| 35 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 02-23 |  |
+| 33 | 'Cosmos DB - API release 2023-11-15-preview'  |  |  |  | [#4866](https://github.com/Azure/sdk-release-request/issues/4866)  | 01-06 | 02-23 | Hold on by JS/ |
+| 34 | 'Release for StreamAnalytics 2021-10-01-preview'  |  |  |  | [#4861](https://github.com/Azure/sdk-release-request/issues/4861)  | 12-27 | 02-23 |  |
