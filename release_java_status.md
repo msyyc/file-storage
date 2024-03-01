@@ -12,17 +12,14 @@
 | 10 | [#4977](https://github.com/Azure/sdk-release-request/issues/4977) | carjackson-msft |  | v-hongli1 |  | 02-22 |  | 0 |
 | 11 | [#4972](https://github.com/Azure/sdk-release-request/issues/4972) | RenzoPrettoMS |  | haolingdong-msft | new comment. Attention to inconsistent tag | 02-21 | 03-22 |  |
 | 12 | [#4969](https://github.com/Azure/sdk-release-request/issues/4969) | khattartarun |  | weidongxu-microsoft | new issue. | 02-20 | 03-22 |  |
-| 13 | [#4965](https://github.com/Azure/sdk-release-request/issues/4965) | FumingZhang |  | v-hongli1 |  | 02-19 |  | 0 |
-| 14 | [#4962](https://github.com/Azure/sdk-release-request/issues/4962) | apoorvasingh130 |  | haolingdong-msft | new issue. new comment. | 02-19 | 03-22 |  |
-| 15 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  | XiaofeiCao | new issue. new comment. | 02-17 | 03-22 |  |
-| 16 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  | XiaofeiCao |  | 02-16 | 03-22 |  |
-| 17 | [#4949](https://github.com/Azure/sdk-release-request/issues/4949) | Sandido |  | v-hongli1 |  | 02-15 |  | 0 |
-| 18 | [#4936](https://github.com/Azure/sdk-release-request/issues/4936) | yuc-Li |  | XiaofeiCao |  | 02-01 | 02-23 |  |
-| 19 | [#4916](https://github.com/Azure/sdk-release-request/issues/4916) | htippanaboya |  | v-hongli1 |  | 01-24 |  | 0 |
-| 20 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | v-hongli1 |  | 01-22 |  | 0 |
-| 21 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
-| 22 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao | new comment. | 01-16 | 02-23 |  |
-| 23 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  | weidongxu-microsoft | new comment. Attention to inconsistent tag | 01-09 | 02-23 |  |
-| 24 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  | haolingdong-msft | Attention to inconsistent tag | 12-20 | 02-23 |  |
-| 25 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. | 11-29 | 02-23 |  |
-| 26 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. | 10-23 | 02-23 |  |
+| 13 | [#4962](https://github.com/Azure/sdk-release-request/issues/4962) | apoorvasingh130 |  | haolingdong-msft | new issue. new comment. | 02-19 | 03-22 |  |
+| 14 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  | XiaofeiCao | new issue. new comment. | 02-17 | 03-22 |  |
+| 15 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  | XiaofeiCao |  | 02-16 | 03-22 |  |
+| 16 | [#4936](https://github.com/Azure/sdk-release-request/issues/4936) | yuc-Li |  | XiaofeiCao | new comment. | 02-01 | 02-23 |  |
+| 17 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | v-hongli1 |  | 01-22 |  | 0 |
+| 18 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
+| 19 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao | new comment. | 01-16 | 02-23 |  |
+| 20 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  | weidongxu-microsoft | new comment. Attention to inconsistent tag | 01-09 | 02-23 |  |
+| 21 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  | haolingdong-msft | Attention to inconsistent tag | 12-20 | 02-23 |  |
+| 22 | [#4807](https://github.com/Azure/sdk-release-request/issues/4807) | aneesh-ponneth |  | XiaofeiCao | new comment. | 11-29 | 02-23 |  |
+| 23 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. | 10-23 | 02-23 |  |
