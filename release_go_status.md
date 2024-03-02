@@ -12,13 +12,13 @@
 | 10 | [#4984](https://github.com/Azure/sdk-release-request/issues/4984) | Joeleniqs |  | Alancere |  | 02-24 | 03-22 |  |
 | 11 | [#4980](https://github.com/Azure/sdk-release-request/issues/4980) | carjackson-msft |  | Alancere |  | 02-22 | 03-22 |  |
 | 12 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-21 | 03-22 |  |
-| 13 | [#4973](https://github.com/Azure/sdk-release-request/issues/4973) | RenzoPrettoMS |  | Alancere | new comment. | 02-21 | 03-22 |  |
+| 13 | [#4973](https://github.com/Azure/sdk-release-request/issues/4973) | RenzoPrettoMS |  | Alancere |  | 02-21 | 03-22 |  |
 | 14 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  | Alancere |  | 02-20 | 03-22 |  |
 | 15 | [#4963](https://github.com/Azure/sdk-release-request/issues/4963) | FumingZhang |  | Alancere |  | 02-19 | 03-22 |  |
 | 16 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  | Alancere |  | 02-19 | 03-22 |  |
 | 17 | [#4957](https://github.com/Azure/sdk-release-request/issues/4957) | eatkimchee |  | Alancere |  | 02-17 | 03-22 |  |
 | 18 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  | Alancere |  | 02-16 | 03-22 |  |
-| 19 | [#4950](https://github.com/Azure/sdk-release-request/issues/4950) | Sandido |  | Alancere | new comment. | 02-15 | 03-22 |  |
+| 19 | [#4950](https://github.com/Azure/sdk-release-request/issues/4950) | Sandido |  | Alancere |  | 02-15 | 03-22 |  |
 | 20 | [#4942](https://github.com/Azure/sdk-release-request/issues/4942) | FumingZhang |  | Alancere |  | 02-02 | 02-23 |  |
 | 21 | [#4935](https://github.com/Azure/sdk-release-request/issues/4935) | yuc-Li |  | Alancere | new comment. | 02-01 | 02-23 |  |
 | 22 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
