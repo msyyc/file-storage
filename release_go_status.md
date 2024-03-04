@@ -8,7 +8,7 @@
 | 6 | [#5002](https://github.com/Azure/sdk-release-request/issues/5002) | jessHuh |  | Alancere |  | 02-27 | 03-22 |  |
 | 7 | [#4995](https://github.com/Azure/sdk-release-request/issues/4995) | 04diiguyi |  | Alancere |  | 02-27 | 03-22 |  |
 | 8 | [#4991](https://github.com/Azure/sdk-release-request/issues/4991) | senatol |  | Alancere |  | 02-27 | 03-22 |  |
-| 9 | [#4990](https://github.com/Azure/sdk-release-request/issues/4990) | ruowan |  | Alancere | new issue. | 02-27 | 03-22 |  |
+| 9 | [#4990](https://github.com/Azure/sdk-release-request/issues/4990) | ruowan |  | Alancere |  | 02-27 | 03-22 |  |
 | 10 | [#4984](https://github.com/Azure/sdk-release-request/issues/4984) | Joeleniqs |  | Alancere |  | 02-24 | 03-22 |  |
 | 11 | [#4980](https://github.com/Azure/sdk-release-request/issues/4980) | carjackson-msft |  | Alancere |  | 02-22 | 03-22 |  |
 | 12 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  | Alancere | Attention to inconsistent tag | 02-21 | 03-22 |  |
