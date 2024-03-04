@@ -1,4 +1,10 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-playwrighttesting,ShreyaAnand,ChenxiJiang333,2024-01-15,2024-03-04,https://github.com/Azure/sdk-release-request/issues/4887,1.0.0b2,
+azure-mgmt-redisenterprise,jantache-microsoft,ChenxiJiang333,2024-01-22,2024-03-04,https://github.com/Azure/sdk-release-request/issues/4907,3.0.0,True
+azure-mgmt-datafactory,ruowan,ChenxiJiang333,2024-01-26,2024-03-04,https://github.com/Azure/sdk-release-request/issues/4921,6.0.0,True
+azure-mgmt-azurelargeinstance,8Gitbrix,ChenxiJiang333,2024-01-31,2024-03-04,https://github.com/Azure/sdk-release-request/issues/4930,1.0.0b1,
+azure-mgmt-chaos,RenzoPrettoMS,ChenxiJiang333,2024-02-21,2024-03-04,https://github.com/Azure/sdk-release-request/issues/4971,1.1.0,True
+azure-mgmt-rdbms,xiaoxuqi-ms,ChenxiJiang333,2024-02-26,2024-03-04,https://github.com/Azure/sdk-release-request/issues/4986,10.2.0b15,
 azure-mgmt-apicenter,azaslonov,ChenxiJiang333,2024-01-08,2024-02-22,https://github.com/Azure/sdk-release-request/issues/4871,1.0.0,True
 azure-mgmt-storagecache,Aman-Jain-14,ChenxiJiang333,2024-01-22,2024-02-22,https://github.com/Azure/sdk-release-request/issues/4911,1.6.0b1,
 azure-mgmt-servicefabric,mwesigwaguma,ChenxiJiang333,2024-01-20,2024-02-22,https://github.com/Azure/sdk-release-request/issues/4899,2.2.0b1,
