@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5021](https://github.com/Azure/sdk-release-request/issues/5021) | DeepikaNMS |  | haolingdong-msft | new issue. | 02-29 | 03-22 |  |
 | 2 | [#5017](https://github.com/Azure/sdk-release-request/issues/5017) | wiboris |  | XiaofeiCao | new issue. | 02-29 | 03-22 |  |
-| 3 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  | XiaofeiCao | new issue. new comment. | 02-28 | 03-22 |  |
+| 3 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  | XiaofeiCao |  | 02-28 | 03-22 |  |
 | 4 | [#5004](https://github.com/Azure/sdk-release-request/issues/5004) | mattgotteiner |  | XiaofeiCao | new issue. | 02-27 | 03-22 |  |
 | 5 | [#5001](https://github.com/Azure/sdk-release-request/issues/5001) | jessHuh |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
 | 6 | [#4997](https://github.com/Azure/sdk-release-request/issues/4997) | 04diiguyi |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
