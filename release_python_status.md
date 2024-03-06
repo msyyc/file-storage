@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5027](https://github.com/Azure/sdk-release-request/issues/5027) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 | new issue. | 03-05 | 03-22 |  |
+| 1 | [#5027](https://github.com/Azure/sdk-release-request/issues/5027) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-05 | 03-22 |  |
 | 2 | [#5023](https://github.com/Azure/sdk-release-request/issues/5023) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 03-04 | 03-22 |  |
 | 3 | [#5020](https://github.com/Azure/sdk-release-request/issues/5020) | DeepikaNMS | azure-mgmt-confluent | ChenxiJiang333 |  | 02-29 | 03-22 |  |
 | 4 | [#5014](https://github.com/Azure/sdk-release-request/issues/5014) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 02-29 | 03-22 |  |
