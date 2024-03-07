@@ -28,4 +28,3 @@
 | 26 | 'Release for Redis Enterprise: 2023-11-01'  |  |  | [#4906](https://github.com/Azure/sdk-release-request/issues/4906)  |  | 01-22 |  |  |
 | 27 | 'Release for Container Service - 2024-01-02-preview'  |  | [#4976](https://github.com/Azure/sdk-release-request/issues/4976)  |  | [#4975](https://github.com/Azure/sdk-release-request/issues/4975)  | 02-21 | 03-22 |  |
 | 28 | 'Release for Container Service - 2024-01-01'  |  | [#4963](https://github.com/Azure/sdk-release-request/issues/4963)  |  | [#4964](https://github.com/Azure/sdk-release-request/issues/4964)  | 02-19 | 03-22 | Hold on by JS/ |
-| 29 | 'Release for Container Service - 2023-11-02-preview'  |  | [#4942](https://github.com/Azure/sdk-release-request/issues/4942)  |  |  | 02-02 | 02-23 |  |
