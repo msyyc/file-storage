@@ -24,6 +24,6 @@
 | 22 | [#4947](https://github.com/Azure/sdk-release-request/issues/4947) | Sandido |  | qiaozha | new comment. Attention to inconsistent tag | 02-15 | 03-22 |  |
 | 23 | [#4897](https://github.com/Azure/sdk-release-request/issues/4897) | eliagrady |  | qiaozha | Attention to inconsistent tag | 01-18 | 02-23 |  |
 | 24 | [#4890](https://github.com/Azure/sdk-release-request/issues/4890) | hmmorales |  | qiaozha | new comment. | 01-16 | 03-22 |  |
-| 25 | [#4876](https://github.com/Azure/sdk-release-request/issues/4876) | vgs-msft |  | MaryGao | new comment. Attention to inconsistent tag | 01-09 | 02-23 |  |
+| 25 | [#4876](https://github.com/Azure/sdk-release-request/issues/4876) | vgs-msft |  | MaryGao | Attention to inconsistent tag | 01-09 | 02-23 |  |
 | 26 | [#4842](https://github.com/Azure/sdk-release-request/issues/4842) | adityashukla-msft |  | qiaozha | Attention to inconsistent tag | 12-20 | 02-23 |  |
 | 27 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | new comment. | 10-23 | 03-22 |  |
