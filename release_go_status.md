@@ -23,7 +23,6 @@
 | 21 | [#4957](https://github.com/Azure/sdk-release-request/issues/4957) | eatkimchee |  | Alancere |  | 02-17 | 03-22 |  |
 | 22 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  | Alancere | new comment. | 02-16 | 03-22 |  |
 | 23 | [#4950](https://github.com/Azure/sdk-release-request/issues/4950) | Sandido |  | Alancere |  | 02-15 | 03-22 |  |
-| 24 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere |  | 01-18 | 02-23 |  |
-| 25 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  | Alancere | new comment. Attention to inconsistent tag | 01-16 | 03-22 |  |
-| 26 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | Attention to inconsistent tag | 12-20 | 02-23 |  |
-| 27 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. | 10-23 | 03-22 |  |
+| 24 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  | Alancere | new comment. Attention to inconsistent tag | 01-16 | 03-22 |  |
+| 25 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | Attention to inconsistent tag | 12-20 | 02-23 |  |
+| 26 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  | Alancere | new comment. | 10-23 | 03-22 |  |
