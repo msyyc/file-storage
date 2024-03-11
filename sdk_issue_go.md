@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|API Management, Mgmt, customer-reported, needs-team-attention|lirenhe|new issue|2024-03-08|
+|1|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|API Management, Mgmt, customer-reported, needs-team-attention|Alancere|new issue|2024-03-08|
 |2|[#22464](https://github.com/Azure/azure-sdk-for-go/issues/22464)|ListTenants returns nil for DisplayName & Domains instead of its actual values|question, Service Attention, Mgmt, customer-reported, Subscription, needs-team-attention|Alancere||2024-02-27|
 |3|[#22408](https://github.com/Azure/azure-sdk-for-go/issues/22408)|Getting the next page of the activity logs fails with invalid semicolon separator in query|Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-02-20|
 |4|[#22306](https://github.com/Azure/azure-sdk-for-go/issues/22306)|armadvisor Generate() returns a value unusable by GetGenerateStatus() without further processing.|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
