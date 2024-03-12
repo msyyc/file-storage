@@ -13,7 +13,7 @@
 | 11 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 12 | [#4996](https://github.com/Azure/sdk-release-request/issues/4996) | 04diiguyi | azure-mgmt-quantum | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 13 | [#4992](https://github.com/Azure/sdk-release-request/issues/4992) | senatol | azure-mgmt-cosmosdbforpostgresql | ChenxiJiang333 |  | 02-27 | 03-22 |  |
-| 14 | [#4988](https://github.com/Azure/sdk-release-request/issues/4988) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | new issue. | 02-27 | 03-22 |  |
+| 14 | [#4988](https://github.com/Azure/sdk-release-request/issues/4988) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 15 | [#4983](https://github.com/Azure/sdk-release-request/issues/4983) | Joeleniqs | azure-mgmt-communication | ChenxiJiang333 |  | 02-24 | 03-22 |  |
 | 16 | [#4979](https://github.com/Azure/sdk-release-request/issues/4979) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 02-22 | 03-22 |  |
 | 17 | [#4968](https://github.com/Azure/sdk-release-request/issues/4968) | khattartarun | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 02-20 | 03-22 |  |
