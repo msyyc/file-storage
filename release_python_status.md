@@ -21,7 +21,7 @@
 | 19 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | FirstGA | 02-17 | 03-22 |  |
 | 20 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 02-16 | 03-22 |  |
 | 21 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 |  | 02-15 | 03-22 |  |
-| 22 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | new comment. MultiAPI | 01-18 | 02-23 |  |
+| 22 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | MultiAPI | 01-18 | 02-23 |  |
 | 23 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 | duplicated issue  <br> | 01-16 |  | 0 |
 | 24 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | FirstBeta | 01-09 | 02-23 |  |
 | 25 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstBeta HoldOn | 12-20 | 02-23 |  |
