@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5038](https://github.com/Azure/sdk-release-request/issues/5038) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | new issue. | 03-11 | 04-26 |  |
+| 1 | [#5038](https://github.com/Azure/sdk-release-request/issues/5038) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 |  | 03-11 | 04-26 |  |
 | 2 | [#5035](https://github.com/Azure/sdk-release-request/issues/5035) | wchigit | azure-mgmt-servicelinker | ChenxiJiang333 |  | 03-07 | 03-22 |  |
 | 3 | [#5032](https://github.com/Azure/sdk-release-request/issues/5032) | jasonurban1 |  | ChenxiJiang333 | duplicated issue  <br> | 03-06 | 03-22 |  |
 | 4 | [#5027](https://github.com/Azure/sdk-release-request/issues/5027) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-05 | 03-22 |  |
