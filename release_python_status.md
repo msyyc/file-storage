@@ -7,7 +7,7 @@
 | 5 | [#5023](https://github.com/Azure/sdk-release-request/issues/5023) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 03-04 | 03-22 |  |
 | 6 | [#5020](https://github.com/Azure/sdk-release-request/issues/5020) | DeepikaNMS | azure-mgmt-confluent | ChenxiJiang333 |  | 02-29 | 03-22 |  |
 | 7 | [#5014](https://github.com/Azure/sdk-release-request/issues/5014) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 02-29 | 03-22 |  |
-| 8 | [#5011](https://github.com/Azure/sdk-release-request/issues/5011) | jamesfan1 | azure-mgmt-nginx | ChenxiJiang333 |  | 02-28 | 03-22 |  |
+| 8 | [#5011](https://github.com/Azure/sdk-release-request/issues/5011) | jamesfan1 | azure-mgmt-nginx | ChenxiJiang333 | HoldOn | 02-28 | 03-22 |  |
 | 9 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | FirstBeta | 02-28 | 03-22 |  |
 | 10 | [#5006](https://github.com/Azure/sdk-release-request/issues/5006) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 11 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 |  | 02-27 | 03-22 |  |
