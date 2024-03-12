@@ -21,7 +21,7 @@
 | 19 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  | Alancere |  | 02-20 | 03-22 |  |
 | 20 | [#4963](https://github.com/Azure/sdk-release-request/issues/4963) | FumingZhang |  | Alancere |  | 02-19 | 03-22 |  |
 | 21 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  | Alancere | new comment. | 02-19 | 03-22 |  |
-| 22 | [#4957](https://github.com/Azure/sdk-release-request/issues/4957) | eatkimchee |  | Alancere |  | 02-17 | 03-22 |  |
+| 22 | [#4957](https://github.com/Azure/sdk-release-request/issues/4957) | eatkimchee |  | Alancere | new comment. | 02-17 | 03-22 |  |
 | 23 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  | Alancere | new comment. | 02-16 | 03-22 |  |
 | 24 | [#4950](https://github.com/Azure/sdk-release-request/issues/4950) | Sandido |  | Alancere |  | 02-15 | 03-22 |  |
 | 25 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  | Alancere | new comment. Attention to inconsistent tag | 01-16 | 03-22 |  |
