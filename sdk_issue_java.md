@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#39151](https://github.com/Azure/azure-sdk-for-java/issues/39151)|[QUERY] Will the BatchAccounts be supported in the AzureResourceManager?|question, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2024-03-11|
-|2|[#39123](https://github.com/Azure/azure-sdk-for-java/issues/39123)|[BUG] "No registered resource provider found for location 'eastus2' and API version '2018-01-01' for type 'storageAccounts/blobServices'|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2024-03-07|
+|2|[#39123](https://github.com/Azure/azure-sdk-for-java/issues/39123)|[BUG] "No registered resource provider found for location 'eastus2' and API version '2018-01-01' for type 'storageAccounts/blobServices'|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2024-03-07|
 |3|[#39094](https://github.com/Azure/azure-sdk-for-java/issues/39094)|mgmt core, add hybrid serialization model(baseclass stream-style-serialization, subclass jackson)|Mgmt, Azure.Core, Mgmt - Track 2|XiaofeiCao||2024-03-06|
 |4|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |5|[#38985](https://github.com/Azure/azure-sdk-for-java/issues/38985)|[FEATURE REQ] eng, move SDK automation out of eng/mgmt folder|Mgmt, EngSys, DPG|XiaofeiCao||2024-02-28|
