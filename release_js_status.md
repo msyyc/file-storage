@@ -3,8 +3,8 @@
 | 1 | [#5039](https://github.com/Azure/sdk-release-request/issues/5039) | jasonurban1 |  | qiaozha | new issue. | 03-11 | 04-26 |  |
 | 2 | [#5033](https://github.com/Azure/sdk-release-request/issues/5033) | jasonurban1 |  | MaryGao |  | 03-06 | 03-22 |  |
 | 3 | [#5026](https://github.com/Azure/sdk-release-request/issues/5026) | Juliehzl |  |  |  | 03-05 |  | 0 |
-| 4 | [#5022](https://github.com/Azure/sdk-release-request/issues/5022) | raghumunukutla |  | MaryGao | new issue. | 03-04 | 03-22 |  |
-| 5 | [#5018](https://github.com/Azure/sdk-release-request/issues/5018) | DeepikaNMS |  | qiaozha | new issue. | 02-29 | 03-22 |  |
+| 4 | [#5022](https://github.com/Azure/sdk-release-request/issues/5022) | raghumunukutla |  | MaryGao |  | 03-04 | 03-22 |  |
+| 5 | [#5018](https://github.com/Azure/sdk-release-request/issues/5018) | DeepikaNMS |  | qiaozha |  | 02-29 | 03-22 |  |
 | 6 | [#5016](https://github.com/Azure/sdk-release-request/issues/5016) | wiboris |  | qiaozha |  | 02-29 | 03-22 |  |
 | 7 | [#5012](https://github.com/Azure/sdk-release-request/issues/5012) | jamesfan1 |  | qiaozha |  | 02-28 | 03-22 |  |
 | 8 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha |  | 02-28 | 03-22 |  |
