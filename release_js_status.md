@@ -18,7 +18,7 @@
 | 16 | [#4975](https://github.com/Azure/sdk-release-request/issues/4975) | FumingZhang |  |  |  | 02-21 |  | 0 |
 | 17 | [#4974](https://github.com/Azure/sdk-release-request/issues/4974) | RenzoPrettoMS |  |  |  | 02-21 |  | 0 |
 | 18 | [#4970](https://github.com/Azure/sdk-release-request/issues/4970) | khattartarun |  |  |  | 02-20 |  | 0 |
-| 19 | [#4964](https://github.com/Azure/sdk-release-request/issues/4964) | FumingZhang |  |  |  | 02-19 |  | 0 |
+| 19 | [#4964](https://github.com/Azure/sdk-release-request/issues/4964) | FumingZhang |  | MaryGao |  | 02-19 | 03-22 |  |
 | 20 | [#4960](https://github.com/Azure/sdk-release-request/issues/4960) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
 | 21 | [#4955](https://github.com/Azure/sdk-release-request/issues/4955) | eatkimchee |  |  |  | 02-17 |  | 0 |
 | 22 | [#4953](https://github.com/Azure/sdk-release-request/issues/4953) | audunn |  |  |  | 02-16 |  | 0 |
@@ -27,4 +27,4 @@
 | 25 | [#4890](https://github.com/Azure/sdk-release-request/issues/4890) | hmmorales |  |  |  | 01-16 |  | 0 |
 | 26 | [#4876](https://github.com/Azure/sdk-release-request/issues/4876) | vgs-msft |  |  |  | 01-09 |  | 0 |
 | 27 | [#4842](https://github.com/Azure/sdk-release-request/issues/4842) | adityashukla-msft |  |  |  | 12-20 |  | 0 |
-| 28 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  |  |  | 10-23 |  | 0 |
+| 28 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha |  | 10-23 | 03-22 |  |
