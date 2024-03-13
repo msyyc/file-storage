@@ -1,25 +1,25 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5036](https://github.com/Azure/sdk-release-request/issues/5036) | jasonurban1 |  | XiaofeiCao | new issue. | 03-11 | 04-26 |  |
-| 2 | [#5030](https://github.com/Azure/sdk-release-request/issues/5030) | jasonurban1 |  | weidongxu-microsoft |  | 03-06 | 03-22 |  |
-| 3 | [#5029](https://github.com/Azure/sdk-release-request/issues/5029) | Juliehzl |  | haolingdong-msft | new issue. | 03-05 | 03-22 |  |
-| 4 | [#5024](https://github.com/Azure/sdk-release-request/issues/5024) | raghumunukutla |  | haolingdong-msft | new issue. | 03-04 | 03-22 |  |
-| 5 | [#5021](https://github.com/Azure/sdk-release-request/issues/5021) | DeepikaNMS |  | haolingdong-msft | new issue. | 02-29 | 03-22 |  |
-| 6 | [#5017](https://github.com/Azure/sdk-release-request/issues/5017) | wiboris |  | XiaofeiCao | new issue. | 02-29 | 03-22 |  |
-| 7 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  | XiaofeiCao |  | 02-28 | 03-22 |  |
-| 8 | [#5001](https://github.com/Azure/sdk-release-request/issues/5001) | jessHuh |  | v-hongli1 |  | 02-27 |  | 0 |
-| 9 | [#4997](https://github.com/Azure/sdk-release-request/issues/4997) | 04diiguyi |  | v-hongli1 |  | 02-27 |  | 0 |
-| 10 | [#4994](https://github.com/Azure/sdk-release-request/issues/4994) | senatol |  | v-hongli1 |  | 02-27 |  | 0 |
-| 11 | [#4987](https://github.com/Azure/sdk-release-request/issues/4987) | ruowan |  | weidongxu-microsoft | new issue. | 02-27 | 03-22 |  |
-| 12 | [#4982](https://github.com/Azure/sdk-release-request/issues/4982) | Joeleniqs |  | XiaofeiCao | Attention to inconsistent tag | 02-24 | 03-22 |  |
-| 13 | [#4972](https://github.com/Azure/sdk-release-request/issues/4972) | RenzoPrettoMS |  | v-hongli1 |  | 02-21 |  | 0 |
-| 14 | [#4969](https://github.com/Azure/sdk-release-request/issues/4969) | khattartarun |  | v-hongli1 |  | 02-20 |  | 0 |
-| 15 | [#4962](https://github.com/Azure/sdk-release-request/issues/4962) | apoorvasingh130 |  | v-hongli1 |  | 02-19 |  | 0 |
-| 16 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  | XiaofeiCao | new issue. new comment. | 02-17 | 03-22 |  |
-| 17 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  | XiaofeiCao |  | 02-16 | 03-22 |  |
-| 18 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  | v-hongli1 |  | 01-22 |  | 0 |
-| 19 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. Attention to inconsistent tag | 01-18 | 02-23 |  |
-| 20 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao | new comment. | 01-16 | 03-22 |  |
-| 21 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  | weidongxu-microsoft | Attention to inconsistent tag | 01-09 | 02-23 |  |
-| 22 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  | haolingdong-msft | Attention to inconsistent tag | 12-20 | 02-23 |  |
-| 23 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. | 10-23 | 03-22 |  |
+| 1 | [#5036](https://github.com/Azure/sdk-release-request/issues/5036) | jasonurban1 |  |  |  | 03-11 |  | 0 |
+| 2 | [#5030](https://github.com/Azure/sdk-release-request/issues/5030) | jasonurban1 |  |  |  | 03-06 |  | 0 |
+| 3 | [#5029](https://github.com/Azure/sdk-release-request/issues/5029) | Juliehzl |  |  |  | 03-05 |  | 0 |
+| 4 | [#5024](https://github.com/Azure/sdk-release-request/issues/5024) | raghumunukutla |  |  |  | 03-04 |  | 0 |
+| 5 | [#5021](https://github.com/Azure/sdk-release-request/issues/5021) | DeepikaNMS |  |  |  | 02-29 |  | 0 |
+| 6 | [#5017](https://github.com/Azure/sdk-release-request/issues/5017) | wiboris |  |  |  | 02-29 |  | 0 |
+| 7 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  |  |  | 02-28 |  | 0 |
+| 8 | [#5001](https://github.com/Azure/sdk-release-request/issues/5001) | jessHuh |  |  |  | 02-27 |  | 0 |
+| 9 | [#4997](https://github.com/Azure/sdk-release-request/issues/4997) | 04diiguyi |  |  |  | 02-27 |  | 0 |
+| 10 | [#4994](https://github.com/Azure/sdk-release-request/issues/4994) | senatol |  |  |  | 02-27 |  | 0 |
+| 11 | [#4987](https://github.com/Azure/sdk-release-request/issues/4987) | ruowan |  |  |  | 02-27 |  | 0 |
+| 12 | [#4982](https://github.com/Azure/sdk-release-request/issues/4982) | Joeleniqs |  |  |  | 02-24 |  | 0 |
+| 13 | [#4972](https://github.com/Azure/sdk-release-request/issues/4972) | RenzoPrettoMS |  |  |  | 02-21 |  | 0 |
+| 14 | [#4969](https://github.com/Azure/sdk-release-request/issues/4969) | khattartarun |  |  |  | 02-20 |  | 0 |
+| 15 | [#4962](https://github.com/Azure/sdk-release-request/issues/4962) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
+| 16 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  |  |  | 02-17 |  | 0 |
+| 17 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  |  |  | 02-16 |  | 0 |
+| 18 | [#4906](https://github.com/Azure/sdk-release-request/issues/4906) | jantache-microsoft |  |  |  | 01-22 |  | 0 |
+| 19 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  |  |  | 01-18 |  | 0 |
+| 20 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  |  |  | 01-16 |  | 0 |
+| 21 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  |  |  | 01-09 |  | 0 |
+| 22 | [#4845](https://github.com/Azure/sdk-release-request/issues/4845) | adityashukla-msft |  |  |  | 12-20 |  | 0 |
+| 23 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  |  |  | 10-23 |  | 0 |
