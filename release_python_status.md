@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 03-13 | 04-26 |  |
-| 2 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | new issue. ForCLI | 03-13 | 04-26 |  |
+| 2 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | ForCLI | 03-13 | 04-26 |  |
 | 3 | [#5038](https://github.com/Azure/sdk-release-request/issues/5038) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 |  | 03-11 | 04-26 |  |
 | 4 | [#5035](https://github.com/Azure/sdk-release-request/issues/5035) | wchigit | azure-mgmt-servicelinker | ChenxiJiang333 |  | 03-07 | 03-22 |  |
 | 5 | [#5027](https://github.com/Azure/sdk-release-request/issues/5027) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-05 | 03-22 |  |
@@ -24,6 +24,6 @@
 | 22 | [#4948](https://github.com/Azure/sdk-release-request/issues/4948) | Sandido | azure-mgmt-compute | ChenxiJiang333 |  | 02-15 | 03-22 |  |
 | 23 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | MultiAPI | 01-18 | 02-23 |  |
 | 24 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 |  | 01-16 |  | 0 |
-| 25 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | FirstBeta | 01-09 | 02-23 |  |
-| 26 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstBeta HoldOn | 12-20 | 02-23 |  |
+| 25 | [#4878](https://github.com/Azure/sdk-release-request/issues/4878) | vgs-msft | azure-mgmt-storageactions | ChenxiJiang333 | new comment. FirstBeta | 01-09 | 03-22 |  |
+| 26 | [#4844](https://github.com/Azure/sdk-release-request/issues/4844) | adityashukla-msft | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstBeta HoldOn | 12-20 | 03-22 |  |
 | 27 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | new comment. FirstGA HoldOn | 10-23 | 03-22 |  |
