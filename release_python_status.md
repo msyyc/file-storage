@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | new issue. | 03-13 | 04-26 |  |
+| 1 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 03-13 | 04-26 |  |
 | 2 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | Attention to inconsistent tag | 03-13 | 04-26 |  |
 | 3 | [#5038](https://github.com/Azure/sdk-release-request/issues/5038) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 |  | 03-11 | 04-26 |  |
 | 4 | [#5035](https://github.com/Azure/sdk-release-request/issues/5035) | wchigit | azure-mgmt-servicelinker | ChenxiJiang333 |  | 03-07 | 03-22 |  |
