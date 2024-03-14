@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#34747](https://github.com/Azure/azure-sdk-for-python/issues/34747)|Error - `The api-version query parameter (?api-version=) is required for all requests.`|question, Authorization, Mgmt, customer-reported|msyyc|new comment|2024-03-13|
+|1|[#34747](https://github.com/Azure/azure-sdk-for-python/issues/34747)|Error - `The api-version query parameter (?api-version=) is required for all requests.`|question, Authorization, Mgmt, customer-reported|msyyc||2024-03-13|
 |2|[#34653](https://github.com/Azure/azure-sdk-for-python/issues/34653)|Adding the principal_name to the RoleAssignment class|question, Authorization, Mgmt, customer-reported, needs-team-attention|msyyc||2024-03-06|
 |3|[#34595](https://github.com/Azure/azure-sdk-for-python/issues/34595)|Get content of azure runbook is not working|question, Automation, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-03-04|
 |4|[#34519](https://github.com/Azure/azure-sdk-for-python/issues/34519)|ContainerApp create private registry access not possible|question, Mgmt, customer-reported, needs-team-attention|msyyc||2024-02-28|
@@ -19,5 +19,5 @@
 |17|[#28911](https://github.com/Azure/azure-sdk-for-python/issues/28911)|Unable to filter by multiple provisioningState on deployment list|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|new comment|2023-02-20|
 |18|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|new comment|2022-06-07|
 |19|[#18217](https://github.com/Azure/azure-sdk-for-python/issues/18217)|The Peering Location for an Express Route Cross Connection ... cannot be modified from PL Name to .|bug, Network - ExpressRoute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2021-04-22|
-|20|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|20|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
 |21|[#5047](https://github.com/Azure/azure-sdk-for-python/issues/5047)|Need sample code for Storage Lifecycle Management|Docs, Mgmt|msyyc|new comment|2019-05-02|
