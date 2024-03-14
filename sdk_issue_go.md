@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22565](https://github.com/Azure/azure-sdk-for-go/issues/22565)|`compute/armcompute` - support for more OSDisk properties|question, Compute, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-03-11|
+|1|[#22565](https://github.com/Azure/azure-sdk-for-go/issues/22565)|`compute/armcompute` - support for more OSDisk properties|question, Compute, Mgmt, customer-reported, needs-author-feedback|lirenhe||2024-03-11|
 |2|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-03-08|
 |3|[#22464](https://github.com/Azure/azure-sdk-for-go/issues/22464)|ListTenants returns nil for DisplayName & Domains instead of its actual values|question, Service Attention, Mgmt, customer-reported, Subscription, needs-team-attention|Alancere||2024-02-27|
 |4|[#22408](https://github.com/Azure/azure-sdk-for-go/issues/22408)|Getting the next page of the activity logs fails with invalid semicolon separator in query|Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-02-20|
