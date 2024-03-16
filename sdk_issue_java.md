@@ -17,7 +17,7 @@
 |15|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |16|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |17|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|18|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
+|18|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
 |19|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |20|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |21|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
@@ -26,7 +26,7 @@
 |24|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
 |25|[#36596](https://github.com/Azure/azure-sdk-for-java/issues/36596)|[FEATURE REQ] mgmt, update Javadoc of premium SDK, so that it pass Java 17 / 21|Mgmt, MQ|XiaofeiCao||2023-08-30|
 |26|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
-|27|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|v-hongli1, XiaofeiCao, weidongxu-microsoft||2023-08-22|
+|27|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|weidongxu-microsoft, v-hongli1, XiaofeiCao||2023-08-22|
 |28|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |29|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
 |30|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
