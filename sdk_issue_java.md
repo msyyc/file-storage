@@ -17,7 +17,7 @@
 |15|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |16|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |17|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|18|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
+|18|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
 |19|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |20|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |21|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
@@ -26,7 +26,7 @@
 |24|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
 |25|[#36596](https://github.com/Azure/azure-sdk-for-java/issues/36596)|[FEATURE REQ] mgmt, update Javadoc of premium SDK, so that it pass Java 17 / 21|Mgmt, MQ|XiaofeiCao||2023-08-30|
 |26|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
-|27|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|XiaofeiCao, weidongxu-microsoft, v-hongli1||2023-08-22|
+|27|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|weidongxu-microsoft, XiaofeiCao, v-hongli1||2023-08-22|
 |28|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |29|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-08-14|
 |30|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
@@ -66,9 +66,6 @@
 |64|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
 |65|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
 |66|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-03-29|
-|67|[#24858](https://github.com/Azure/azure-sdk-for-java/issues/24858)|Update azure api overview related articles to Track2|Mgmt|XiaofeiCao||2021-10-18|
-|68|[#24825](https://github.com/Azure/azure-sdk-for-java/issues/24825)|Guidance on monitoring management SDK|Mgmt, Epic, planning|weidongxu-microsoft||2021-10-15|
-|69|[#22785](https://github.com/Azure/azure-sdk-for-java/issues/22785)|[BUG] ConsumptionManager.usageDetails fails with 400 Bad Request|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, needs-team-triage, Consumption - UsageDetailsAndExport|XiaofeiCao||2021-07-06|
-|70|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
-|71|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|XiaofeiCao||2021-02-26|
-|72|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
+|67|[#21503](https://github.com/Azure/azure-sdk-for-java/issues/21503)|Simplify ActiveDirectorySetting experience for AzureStackUser|Mgmt, Mgmt - Track 2|weidongxu-microsoft||2021-05-14|
+|68|[#19494](https://github.com/Azure/azure-sdk-for-java/issues/19494)|Compute List Images PagedFlux blockFirst is Listing All Pages|bug, Compute, Mgmt|XiaofeiCao||2021-02-26|
+|69|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
