@@ -5,7 +5,6 @@
 | 3 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 03-13 | 04-26 |  |
 | 4 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | ForCLI | 03-13 | 04-26 |  |
 | 5 | [#5035](https://github.com/Azure/sdk-release-request/issues/5035) | wchigit | azure-mgmt-servicelinker | ChenxiJiang333 | HoldOn | 03-07 | 03-22 |  |
-| 6 | [#5027](https://github.com/Azure/sdk-release-request/issues/5027) | Juliehzl | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-05 | 03-22 |  |
 | 7 | [#5023](https://github.com/Azure/sdk-release-request/issues/5023) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 03-04 | 03-22 |  |
 | 8 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | FirstBeta | 02-28 | 03-22 |  |
 | 9 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 |  | 02-27 | 03-22 |  |
