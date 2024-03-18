@@ -10,7 +10,7 @@
 | 8 | [#5012](https://github.com/Azure/sdk-release-request/issues/5012) | jamesfan1 |  | qiaozha |  | 02-28 | 03-22 |  |
 | 9 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha | new comment. | 02-28 | 03-22 |  |
 | 10 | [#5005](https://github.com/Azure/sdk-release-request/issues/5005) | mattgotteiner |  | qiaozha |  | 02-27 | 03-22 |  |
-| 11 | [#4999](https://github.com/Azure/sdk-release-request/issues/4999) | jessHuh |  | qiaozha | new comment. | 02-27 | 03-22 |  |
+| 11 | [#4999](https://github.com/Azure/sdk-release-request/issues/4999) | jessHuh |  | qiaozha |  | 02-27 | 03-22 |  |
 | 12 | [#4998](https://github.com/Azure/sdk-release-request/issues/4998) | 04diiguyi |  | qiaozha |  | 02-27 | 03-22 |  |
 | 13 | [#4993](https://github.com/Azure/sdk-release-request/issues/4993) | senatol |  | qiaozha |  | 02-27 | 03-22 |  |
 | 14 | [#4989](https://github.com/Azure/sdk-release-request/issues/4989) | ruowan |  | qiaozha |  | 02-27 | 03-22 |  |
