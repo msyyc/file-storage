@@ -11,10 +11,7 @@
 | 9 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 10 | [#4996](https://github.com/Azure/sdk-release-request/issues/4996) | 04diiguyi | azure-mgmt-quantum | ChenxiJiang333 |  | 02-27 | 03-22 |  |
 | 11 | [#4988](https://github.com/Azure/sdk-release-request/issues/4988) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 02-27 | 03-22 |  |
-| 12 | [#4983](https://github.com/Azure/sdk-release-request/issues/4983) | Joeleniqs | azure-mgmt-communication | ChenxiJiang333 |  | 02-24 | 03-22 |  |
 | 13 | [#4979](https://github.com/Azure/sdk-release-request/issues/4979) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 02-22 | 03-22 |  |
-| 14 | [#4968](https://github.com/Azure/sdk-release-request/issues/4968) | khattartarun | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 02-20 | 03-22 |  |
-| 15 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 | new comment. | 02-19 | 03-22 |  |
 | 16 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | FirstGA | 02-17 | 03-22 |  |
 | 17 | [#4952](https://github.com/Azure/sdk-release-request/issues/4952) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 02-16 | 03-22 |  |
 | 18 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | MultiAPI | 01-18 | 02-23 |  |

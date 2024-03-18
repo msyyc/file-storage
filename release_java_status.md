@@ -6,11 +6,11 @@
 | 4 | [#5029](https://github.com/Azure/sdk-release-request/issues/5029) | Juliehzl |  | haolingdong-msft | new issue. | 03-05 | 03-22 |  |
 | 5 | [#5024](https://github.com/Azure/sdk-release-request/issues/5024) | raghumunukutla |  | haolingdong-msft | new issue. | 03-04 | 03-22 |  |
 | 6 | [#5021](https://github.com/Azure/sdk-release-request/issues/5021) | DeepikaNMS |  | haolingdong-msft | new issue. | 02-29 | 03-22 |  |
-| 7 | [#5017](https://github.com/Azure/sdk-release-request/issues/5017) | wiboris |  | XiaofeiCao | new issue. | 02-29 | 03-22 |  |
+| 7 | [#5017](https://github.com/Azure/sdk-release-request/issues/5017) | wiboris |  | XiaofeiCao |  | 02-29 | 03-22 |  |
 | 8 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  | XiaofeiCao | new comment. | 02-28 | 03-22 |  |
 | 9 | [#4982](https://github.com/Azure/sdk-release-request/issues/4982) | Joeleniqs |  | XiaofeiCao | Attention to inconsistent tag | 02-24 | 03-22 |  |
 | 10 | [#4969](https://github.com/Azure/sdk-release-request/issues/4969) | khattartarun |  | v-hongli1 |  | 02-20 |  | 0 |
-| 11 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  | XiaofeiCao |  | 02-17 | 03-22 |  |
+| 11 | [#4956](https://github.com/Azure/sdk-release-request/issues/4956) | eatkimchee |  | XiaofeiCao | new comment. | 02-17 | 03-22 |  |
 | 12 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  | XiaofeiCao |  | 02-16 | 03-22 |  |
 | 13 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao | new comment. | 01-16 | 03-22 |  |
 | 14 | [#4879](https://github.com/Azure/sdk-release-request/issues/4879) | vgs-msft |  | weidongxu-microsoft | new comment. Attention to inconsistent tag | 01-09 | 03-22 |  |
