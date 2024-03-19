@@ -8,7 +8,7 @@
 | 6 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | ForCLI | 03-13 | 04-26 |  |
 | 7 | [#5035](https://github.com/Azure/sdk-release-request/issues/5035) | wchigit | azure-mgmt-servicelinker | ChenxiJiang333 | close to release date.  HoldOn | 03-07 | 03-22 | 2 |
 | 8 | [#5023](https://github.com/Azure/sdk-release-request/issues/5023) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 | close to release date.  | 03-04 | 03-22 | 2 |
-| 9 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | close to release date.  FirstBeta | 02-28 | 03-22 | 2 |
+| 9 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | new comment. close to release date.  FirstBeta | 02-28 | 03-22 | 2 |
 | 10 | [#5000](https://github.com/Azure/sdk-release-request/issues/5000) | jessHuh | azure-mgmt-notificationhubs | ChenxiJiang333 | close to release date.  | 02-27 | 03-22 | 2 |
 | 11 | [#4996](https://github.com/Azure/sdk-release-request/issues/4996) | 04diiguyi | azure-mgmt-quantum | ChenxiJiang333 | close to release date.  | 02-27 | 03-22 | 2 |
 | 12 | [#4959](https://github.com/Azure/sdk-release-request/issues/4959) | apoorvasingh130 | azure-mgmt-newrelicobservability | ChenxiJiang333 | new comment. close to release date.  | 02-19 | 03-22 | 2 |
