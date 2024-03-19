@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5057](https://github.com/Azure/sdk-release-request/issues/5057) | ChenxiJiang333 | azure-mgmt-apimanagement | ChenxiJiang333 | Attention to inconsistent tag | 03-19 | 04-26 |  |
+| 1 | [#5057](https://github.com/Azure/sdk-release-request/issues/5057) | ChenxiJiang333 | azure-mgmt-apimanagement | ChenxiJiang333 |  | 03-19 | 04-26 |  |
 | 2 | [#5054](https://github.com/Azure/sdk-release-request/issues/5054) | bxubxu |  | ChenxiJiang333 | duplicated issue  <br> | 03-18 |  | 0 |
 | 3 | [#5051](https://github.com/Azure/sdk-release-request/issues/5051) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 03-15 | 04-26 |  |
 | 4 | [#5046](https://github.com/Azure/sdk-release-request/issues/5046) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 |  | 03-15 | 04-26 |  |
