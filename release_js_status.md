@@ -20,7 +20,7 @@
 | 18 | [#4975](https://github.com/Azure/sdk-release-request/issues/4975) | FumingZhang |  | MaryGao | close to release date.  Attention to inconsistent tag | 02-21 | 03-22 | 2 |
 | 19 | [#4970](https://github.com/Azure/sdk-release-request/issues/4970) | khattartarun |  | MaryGao | close to release date.  | 02-20 | 03-22 | 2 |
 | 20 | [#4964](https://github.com/Azure/sdk-release-request/issues/4964) | FumingZhang |  | MaryGao | close to release date.  | 02-19 | 03-22 | 2 |
-| 21 | [#4960](https://github.com/Azure/sdk-release-request/issues/4960) | apoorvasingh130 |  | MaryGao | new comment. close to release date.  | 02-19 | 03-22 | 2 |
+| 21 | [#4960](https://github.com/Azure/sdk-release-request/issues/4960) | apoorvasingh130 |  | MaryGao | close to release date.  | 02-19 | 03-22 | 2 |
 | 22 | [#4955](https://github.com/Azure/sdk-release-request/issues/4955) | eatkimchee |  | qiaozha | new comment. close to release date.  | 02-17 | 03-22 | 2 |
 | 23 | [#4953](https://github.com/Azure/sdk-release-request/issues/4953) | audunn |  | qiaozha | new comment. close to release date.  | 02-16 | 03-22 | 2 |
 | 24 | [#4947](https://github.com/Azure/sdk-release-request/issues/4947) | Sandido |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 02-15 | 03-22 | 2 |
