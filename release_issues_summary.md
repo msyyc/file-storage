@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | 'Release for Api Management - regenerate-samples'  | [#5057](https://github.com/Azure/sdk-release-request/issues/5057)  |  |  |  | 03-19 | 04-26 |  |
+| 1 | 'Release for Api Management - regenerate-samples' (Only for Python)  | [#5057](https://github.com/Azure/sdk-release-request/issues/5057)  |  |  |  | 03-19 | 04-26 |  |
 | 2 | 'Release for Standby Pool - 2023-12-01-preview'  | [#5054](https://github.com/Azure/sdk-release-request/issues/5054)  | [#5056](https://github.com/Azure/sdk-release-request/issues/5056)  | [#5053](https://github.com/Azure/sdk-release-request/issues/5053)  | [#5055](https://github.com/Azure/sdk-release-request/issues/5055)  | 03-18 | 04-26 |  |
 | 3 | 'Release for AKS Fleet 2024-02-02-preview'  | [#5051](https://github.com/Azure/sdk-release-request/issues/5051)  | [#5049](https://github.com/Azure/sdk-release-request/issues/5049)  | [#5052](https://github.com/Azure/sdk-release-request/issues/5052)  | [#5050](https://github.com/Azure/sdk-release-request/issues/5050)  | 03-15 | 04-26 |  |
 | 4 | 'Release for PostgreSQL flexible servers - 2023-12-01-preview'  | [#5046](https://github.com/Azure/sdk-release-request/issues/5046)  | [#5048](https://github.com/Azure/sdk-release-request/issues/5048)  | [#5047](https://github.com/Azure/sdk-release-request/issues/5047)  | [#5045](https://github.com/Azure/sdk-release-request/issues/5045)  | 03-15 | 04-26 |  |
