@@ -24,10 +24,10 @@
 | 22 | 'Release for Batch Service - 2024-02-01'  |  | [#5015](https://github.com/Azure/sdk-release-request/issues/5015)  | [#5017](https://github.com/Azure/sdk-release-request/issues/5017)  | [#5016](https://github.com/Azure/sdk-release-request/issues/5016)  | 02-29 | 03-22 |  |
 | 23 | '2024-01-01-preview python sdk release'  |  | [#5013](https://github.com/Azure/sdk-release-request/issues/5013)  |  | [#5012](https://github.com/Azure/sdk-release-request/issues/5012)  | 02-28 | 03-22 |  |
 | 24 | 'Release for Search 2024-03-01-Preview'  |  | [#5003](https://github.com/Azure/sdk-release-request/issues/5003)  |  | [#5005](https://github.com/Azure/sdk-release-request/issues/5005)  | 02-27 | 03-22 |  |
-| 25 | 'Release for Azure Data Factory - 2018-06'  |  | [#4990](https://github.com/Azure/sdk-release-request/issues/4990)  |  | [#4989](https://github.com/Azure/sdk-release-request/issues/4989)  | 02-27 | 03-22 |  |
-| 26 | 'Release for Container Service - 2024-01-02-preview'  |  | [#4976](https://github.com/Azure/sdk-release-request/issues/4976)  |  | [#4975](https://github.com/Azure/sdk-release-request/issues/4975)  | 02-21 | 03-22 |  |
-| 27 | 'Request for SDKs for 2024-02-01 of MobileNetwork'  |  | [#4967](https://github.com/Azure/sdk-release-request/issues/4967)  |  | [#4970](https://github.com/Azure/sdk-release-request/issues/4970)  | 02-20 | 03-22 |  |
-| 28 | 'Release for Cosmos DB for PostgreSQL - 2023-03-02-preview'  |  |  |  | [#4993](https://github.com/Azure/sdk-release-request/issues/4993)  | 02-27 | 03-22 |  |
+| 25 | 'Release for Container Service - 2024-01-02-preview'  |  | [#4976](https://github.com/Azure/sdk-release-request/issues/4976)  |  | [#4975](https://github.com/Azure/sdk-release-request/issues/4975)  | 02-21 | 03-22 |  |
+| 26 | 'Request for SDKs for 2024-02-01 of MobileNetwork'  |  | [#4967](https://github.com/Azure/sdk-release-request/issues/4967)  |  | [#4970](https://github.com/Azure/sdk-release-request/issues/4970)  | 02-20 | 03-22 |  |
+| 27 | 'Release for Cosmos DB for PostgreSQL - 2023-03-02-preview'  |  |  |  | [#4993](https://github.com/Azure/sdk-release-request/issues/4993)  | 02-27 | 03-22 |  |
+| 28 | 'Release for Azure Data Factory - 2018-06'  |  |  |  | [#4989](https://github.com/Azure/sdk-release-request/issues/4989)  | 02-27 | 03-22 |  |
 | 29 | 'Release for communication services stable sdk - 2023-04-01'  |  |  |  | [#4981](https://github.com/Azure/sdk-release-request/issues/4981)  | 02-24 | 03-22 |  |
 | 30 | 'Release for CosmosDB - 2024-02-15-preview'  |  |  |  | [#4978](https://github.com/Azure/sdk-release-request/issues/4978)  | 02-22 | 03-22 |  |
 | 31 | 'Release for Container Service - 2024-01-01'  |  |  |  | [#4964](https://github.com/Azure/sdk-release-request/issues/4964)  | 02-19 | 03-22 | Hold on by JS/ |
