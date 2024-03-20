@@ -7,7 +7,7 @@
 | 5 | [#5048](https://github.com/Azure/sdk-release-request/issues/5048) | ambrahma |  | Alancere | Attention to inconsistent tag | 03-15 | 04-26 |  |
 | 6 | [#5044](https://github.com/Azure/sdk-release-request/issues/5044) | yaotongms |  | Alancere | new issue. | 03-13 | 04-26 |  |
 | 7 | [#5007](https://github.com/Azure/sdk-release-request/issues/5007) | gargankit-microsoft |  |  |  | 02-28 |  | 0 |
-| 8 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  |  |  | 02-21 |  | 0 |
+| 8 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  | Alancere | close to release date.  | 02-21 | 03-22 | 1 |
 | 9 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  |  |  | 02-20 |  | 0 |
 | 10 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
 | 11 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  |  |  | 02-16 |  | 0 |
