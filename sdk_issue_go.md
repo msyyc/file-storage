@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22606](https://github.com/Azure/azure-sdk-for-go/issues/22606)|PublicNetworkAccess property for SQL Server is turning out to be null|question, SQL, Mgmt, customer-reported, needs-team-triage, needs-author-feedback|Alancere||2024-03-18|
+|1|[#22606](https://github.com/Azure/azure-sdk-for-go/issues/22606)|PublicNetworkAccess property for SQL Server is turning out to be null|question, SQL, Mgmt, customer-reported, needs-author-feedback|Alancere||2024-03-18|
 |2|[#22599](https://github.com/Azure/azure-sdk-for-go/issues/22599)|Allow armcostmanagement's queries to group by RegionId|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|Alancere||2024-03-15|
 |3|[#22565](https://github.com/Azure/azure-sdk-for-go/issues/22565)|`compute/armcompute` - support for more OSDisk properties|question, Compute, Mgmt, customer-reported, needs-author-feedback|lirenhe||2024-03-11|
 |4|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-03-08|
@@ -19,4 +19,4 @@
 |17|[#21777](https://github.com/Azure/azure-sdk-for-go/issues/21777)|Connectivity check returning a nonexistent `ConnectionStatus` constant|question, Service Attention, Mgmt, customer-reported, Network - Virtual Network, needs-team-attention|Alancere|new comment|2023-10-16|
 |18|[#19149](https://github.com/Azure/azure-sdk-for-go/issues/19149)|More function on generic resources for `armresources` package|Mgmt, customer-reported, feature-request|ArcturusZhang|new comment|2022-09-19|
 |19|[#18590](https://github.com/Azure/azure-sdk-for-go/issues/18590)|Unable to expand planInformation on Reservation Order|bug, Reservations, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2022-07-14|
-|20|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|tadelesh, lirenhe|new comment|2022-05-05|
+|20|[#17809](https://github.com/Azure/azure-sdk-for-go/issues/17809)|CheckExistenceByID and CheckExistence always returning false with Get or GetByID confirming the resources exists|question, Resource Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, tadelesh|new comment|2022-05-05|
