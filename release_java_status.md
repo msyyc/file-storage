@@ -5,11 +5,11 @@
 | 3 | [#5052](https://github.com/Azure/sdk-release-request/issues/5052) | zman-ms |  | haolingdong-msft | new issue. | 03-15 | 04-26 |  |
 | 4 | [#5047](https://github.com/Azure/sdk-release-request/issues/5047) | ambrahma |  | weidongxu-microsoft | Attention to inconsistent tag | 03-15 | 04-26 |  |
 | 5 | [#5042](https://github.com/Azure/sdk-release-request/issues/5042) | yaotongms |  | haolingdong-msft | new issue. | 03-13 | 04-26 |  |
-| 6 | [#5029](https://github.com/Azure/sdk-release-request/issues/5029) | Juliehzl |  | haolingdong-msft | new issue. close to release date.  | 03-05 | 03-22 | 1 |
+| 6 | [#5029](https://github.com/Azure/sdk-release-request/issues/5029) | Juliehzl |  | v-hongli1 |  | 03-05 |  | 0 |
 | 7 | [#5024](https://github.com/Azure/sdk-release-request/issues/5024) | raghumunukutla |  | haolingdong-msft | new issue. close to release date.  | 03-04 | 03-22 | 1 |
-| 8 | [#5021](https://github.com/Azure/sdk-release-request/issues/5021) | DeepikaNMS |  | haolingdong-msft | new issue. close to release date.  | 02-29 | 03-22 | 1 |
+| 8 | [#5021](https://github.com/Azure/sdk-release-request/issues/5021) | DeepikaNMS |  | v-hongli1 |  | 02-29 |  | 0 |
 | 9 | [#5017](https://github.com/Azure/sdk-release-request/issues/5017) | wiboris |  | XiaofeiCao | close to release date.  | 02-29 | 03-22 | 1 |
-| 10 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  | XiaofeiCao | new comment. close to release date.  | 02-28 | 03-22 | 1 |
+| 10 | [#5009](https://github.com/Azure/sdk-release-request/issues/5009) | gargankit-microsoft |  | v-hongli1 |  | 02-28 |  | 0 |
 | 11 | [#4962](https://github.com/Azure/sdk-release-request/issues/4962) | apoorvasingh130 |  | v-hongli1 |  | 02-19 |  | 0 |
 | 12 | [#4954](https://github.com/Azure/sdk-release-request/issues/4954) | audunn |  | XiaofeiCao | new comment. close to release date.  | 02-16 | 03-22 | 1 |
 | 13 | [#4893](https://github.com/Azure/sdk-release-request/issues/4893) | hmmorales |  | XiaofeiCao | new comment. close to release date.  | 01-16 | 03-22 | 1 |
