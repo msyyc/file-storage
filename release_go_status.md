@@ -16,16 +16,10 @@
 | 14 | [#4995](https://github.com/Azure/sdk-release-request/issues/4995) | 04diiguyi |  |  |  | 02-27 |  | 0 |
 | 15 | [#4991](https://github.com/Azure/sdk-release-request/issues/4991) | senatol |  |  |  | 02-27 |  | 0 |
 | 16 | [#4990](https://github.com/Azure/sdk-release-request/issues/4990) | ruowan |  |  |  | 02-27 |  | 0 |
-| 17 | [#4984](https://github.com/Azure/sdk-release-request/issues/4984) | Joeleniqs |  |  |  | 02-24 |  | 0 |
-| 18 | [#4980](https://github.com/Azure/sdk-release-request/issues/4980) | carjackson-msft |  |  |  | 02-22 |  | 0 |
-| 19 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  |  |  | 02-21 |  | 0 |
-| 20 | [#4973](https://github.com/Azure/sdk-release-request/issues/4973) | RenzoPrettoMS |  |  |  | 02-21 |  | 0 |
-| 21 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  |  |  | 02-20 |  | 0 |
-| 22 | [#4963](https://github.com/Azure/sdk-release-request/issues/4963) | FumingZhang |  |  |  | 02-19 |  | 0 |
-| 23 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
-| 24 | [#4957](https://github.com/Azure/sdk-release-request/issues/4957) | eatkimchee |  | Alancere | new comment. close to release date.  | 02-17 | 03-22 | 1 |
-| 25 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  |  |  | 02-16 |  | 0 |
-| 26 | [#4950](https://github.com/Azure/sdk-release-request/issues/4950) | Sandido |  | Alancere | new comment. close to release date.  | 02-15 | 03-22 | 1 |
-| 27 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  |  |  | 01-16 |  | 0 |
-| 28 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 12-20 | 03-22 | 1 |
-| 29 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  |  |  | 10-23 |  | 0 |
+| 17 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  |  |  | 02-21 |  | 0 |
+| 18 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  |  |  | 02-20 |  | 0 |
+| 19 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
+| 20 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  |  |  | 02-16 |  | 0 |
+| 21 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  |  |  | 01-16 |  | 0 |
+| 22 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 12-20 | 03-22 | 1 |
+| 23 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  |  |  | 10-23 |  | 0 |
