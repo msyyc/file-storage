@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5060](https://github.com/Azure/sdk-release-request/issues/5060) | allegradomel | azure-mgmt-sphere | ChenxiJiang333 |  | 03-19 | 04-26 |  |
-| 2 | [#5058](https://github.com/Azure/sdk-release-request/issues/5058) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI ForCLI | 03-19 | 04-26 |  |
+| 2 | [#5058](https://github.com/Azure/sdk-release-request/issues/5058) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> MultiAPI HoldOn | 03-19 | 04-26 |  |
 | 3 | [#5054](https://github.com/Azure/sdk-release-request/issues/5054) | bxubxu |  | ChenxiJiang333 | duplicated issue  <br> | 03-18 |  | 0 |
 | 4 | [#5051](https://github.com/Azure/sdk-release-request/issues/5051) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 03-15 | 04-26 |  |
 | 5 | [#5046](https://github.com/Azure/sdk-release-request/issues/5046) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> | 03-15 | 04-26 |  |
