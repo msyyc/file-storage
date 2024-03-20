@@ -12,11 +12,10 @@
 | 10 | [#5013](https://github.com/Azure/sdk-release-request/issues/5013) | jamesfan1 |  |  |  | 02-28 |  | 0 |
 | 11 | [#5007](https://github.com/Azure/sdk-release-request/issues/5007) | gargankit-microsoft |  |  |  | 02-28 |  | 0 |
 | 12 | [#5003](https://github.com/Azure/sdk-release-request/issues/5003) | mattgotteiner |  |  |  | 02-27 |  | 0 |
-| 13 | [#5002](https://github.com/Azure/sdk-release-request/issues/5002) | jessHuh |  |  |  | 02-27 |  | 0 |
-| 14 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  |  |  | 02-21 |  | 0 |
-| 15 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  |  |  | 02-20 |  | 0 |
-| 16 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
-| 17 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  |  |  | 02-16 |  | 0 |
-| 18 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  |  |  | 01-16 |  | 0 |
-| 19 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 12-20 | 03-22 | 1 |
-| 20 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  |  |  | 10-23 |  | 0 |
+| 13 | [#4976](https://github.com/Azure/sdk-release-request/issues/4976) | FumingZhang |  |  |  | 02-21 |  | 0 |
+| 14 | [#4967](https://github.com/Azure/sdk-release-request/issues/4967) | khattartarun |  |  |  | 02-20 |  | 0 |
+| 15 | [#4961](https://github.com/Azure/sdk-release-request/issues/4961) | apoorvasingh130 |  |  |  | 02-19 |  | 0 |
+| 16 | [#4951](https://github.com/Azure/sdk-release-request/issues/4951) | audunn |  |  |  | 02-16 |  | 0 |
+| 17 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  |  |  | 01-16 |  | 0 |
+| 18 | [#4843](https://github.com/Azure/sdk-release-request/issues/4843) | adityashukla-msft |  | Alancere | new comment. close to release date.  Attention to inconsistent tag | 12-20 | 03-22 | 1 |
+| 19 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  |  |  | 10-23 |  | 0 |
