@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-workloadssapvirtualinstance,adityashukla-msft,ChenxiJiang333,2023-12-20,2024-03-21,https://github.com/Azure/sdk-release-request/issues/4844,1.0.0b1,
+azure-mgmt-storageactions,vgs-msft,ChenxiJiang333,2024-01-09,2024-03-21,https://github.com/Azure/sdk-release-request/issues/4878,1.0.0b1,
+azure-mgmt-notificationhubs,jessHuh,ChenxiJiang333,2024-02-27,2024-03-21,https://github.com/Azure/sdk-release-request/issues/5000,8.1.0b2,
 azure-mgmt-quantum,04diiguyi,ChenxiJiang333,2024-02-27,2024-03-21,https://github.com/Azure/sdk-release-request/issues/4996,1.0.0b5,
 azure-mgmt-support,raghumunukutla,ChenxiJiang333,2024-03-04,2024-03-21,https://github.com/Azure/sdk-release-request/issues/5023,6.1.0b3,
 azure-mgmt-servicelinker,wchigit,ChenxiJiang333,2024-03-07,2024-03-19,https://github.com/Azure/sdk-release-request/issues/5035,1.2.0b2,
