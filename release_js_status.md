@@ -11,7 +11,7 @@
 | 9 | [#5018](https://github.com/Azure/sdk-release-request/issues/5018) | DeepikaNMS |  | qiaozha | new comment. close to release date.  | 02-29 | 03-22 | 0 |
 | 10 | [#5016](https://github.com/Azure/sdk-release-request/issues/5016) | wiboris |  | qiaozha | new comment. close to release date.  | 02-29 | 03-22 | 0 |
 | 11 | [#5012](https://github.com/Azure/sdk-release-request/issues/5012) | jamesfan1 |  | qiaozha | close to release date.  | 02-28 | 03-22 | 0 |
-| 12 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha | new comment. close to release date.  | 02-28 | 03-22 | 0 |
+| 12 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha | close to release date.  | 02-28 | 03-22 | 0 |
 | 13 | [#5005](https://github.com/Azure/sdk-release-request/issues/5005) | mattgotteiner |  | qiaozha | close to release date.  | 02-27 | 03-22 | 0 |
 | 14 | [#4999](https://github.com/Azure/sdk-release-request/issues/4999) | jessHuh |  | qiaozha | new comment. close to release date.  | 02-27 | 03-22 | 0 |
 | 15 | [#4998](https://github.com/Azure/sdk-release-request/issues/4998) | 04diiguyi |  | qiaozha | close to release date.  | 02-27 | 03-22 | 0 |
