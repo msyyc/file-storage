@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-quantum,04diiguyi,ChenxiJiang333,2024-02-27,2024-03-21,https://github.com/Azure/sdk-release-request/issues/4996,1.0.0b5,
+azure-mgmt-support,raghumunukutla,ChenxiJiang333,2024-03-04,2024-03-21,https://github.com/Azure/sdk-release-request/issues/5023,6.1.0b3,
 azure-mgmt-servicelinker,wchigit,ChenxiJiang333,2024-03-07,2024-03-19,https://github.com/Azure/sdk-release-request/issues/5035,1.2.0b2,
 azure-mgmt-apimanagement,ChenxiJiang333,ChenxiJiang333,2024-03-19,2024-03-19,https://github.com/Azure/sdk-release-request/issues/5057,4.0.1,True
 azure-mgmt-cosmosdb,carjackson-msft,ChenxiJiang333,2024-02-22,2024-03-19,https://github.com/Azure/sdk-release-request/issues/4979,10.0.0b3,
