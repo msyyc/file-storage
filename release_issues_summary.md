@@ -17,9 +17,8 @@
 | 15 | 'Release for Batch Service - 2024-02-01'  |  |  | [#5017](https://github.com/Azure/sdk-release-request/issues/5017)  | [#5016](https://github.com/Azure/sdk-release-request/issues/5016)  | 02-29 | 03-22 |  |
 | 16 | 'Release for Liftr-Newrelic - 2024-01-01'  |  |  | [#4962](https://github.com/Azure/sdk-release-request/issues/4962)  |  | 02-19 |  |  |
 | 17 | 'Release for Microsoft.Workloads/sapVirtualInstances - 2023-10-01-preview'  |  | [#4843](https://github.com/Azure/sdk-release-request/issues/4843)  | [#4845](https://github.com/Azure/sdk-release-request/issues/4845)  |  | 12-20 | 03-22 | Hold on by Go/ |
-| 18 | 'Release for Microsoft Support - 2023-06-01-preview'  |  |  |  | [#5022](https://github.com/Azure/sdk-release-request/issues/5022)  | 03-04 | 03-22 |  |
-| 19 | 'Release for Cosmos DB for PostgreSQL - 2023-03-02-preview'  |  |  |  | [#4993](https://github.com/Azure/sdk-release-request/issues/4993)  | 02-27 | 03-22 |  |
-| 20 | 'Release for CosmosDB - 2024-02-15-preview'  |  |  |  | [#4978](https://github.com/Azure/sdk-release-request/issues/4978)  | 02-22 | 03-22 |  |
-| 21 | 'Request for SDKs for 2024-02-01 of MobileNetwork'  |  |  |  | [#4970](https://github.com/Azure/sdk-release-request/issues/4970)  | 02-20 | 03-22 |  |
-| 22 | 'Release for Container Service - 2024-01-01'  |  |  |  | [#4964](https://github.com/Azure/sdk-release-request/issues/4964)  | 02-19 | 03-22 |  |
-| 23 | 'Release for Azure Storage Actions - Management Plane SDK - Public Preview (01/22/24)'  |  |  |  | [#4876](https://github.com/Azure/sdk-release-request/issues/4876)  | 01-09 | 03-22 |  |
+| 18 | 'Release for Cosmos DB for PostgreSQL - 2023-03-02-preview'  |  |  |  | [#4993](https://github.com/Azure/sdk-release-request/issues/4993)  | 02-27 | 03-22 |  |
+| 19 | 'Release for CosmosDB - 2024-02-15-preview'  |  |  |  | [#4978](https://github.com/Azure/sdk-release-request/issues/4978)  | 02-22 | 03-22 |  |
+| 20 | 'Request for SDKs for 2024-02-01 of MobileNetwork'  |  |  |  | [#4970](https://github.com/Azure/sdk-release-request/issues/4970)  | 02-20 | 03-22 |  |
+| 21 | 'Release for Container Service - 2024-01-01'  |  |  |  | [#4964](https://github.com/Azure/sdk-release-request/issues/4964)  | 02-19 | 03-22 |  |
+| 22 | 'Release for Azure Storage Actions - Management Plane SDK - Public Preview (01/22/24)'  |  |  |  | [#4876](https://github.com/Azure/sdk-release-request/issues/4876)  | 01-09 | 03-22 |  |
