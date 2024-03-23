@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 | new issue. | 03-22 | 04-26 |  |
-| 2 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | new issue. | 03-22 | 04-26 |  |
+| 1 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
+| 2 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 |  | 03-22 | 04-26 |  |
 | 3 | [#5068](https://github.com/Azure/sdk-release-request/issues/5068) | haagha | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 03-21 | 04-26 |  |
 | 4 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 03-20 | 04-26 |  |
 | 5 | [#5060](https://github.com/Azure/sdk-release-request/issues/5060) | allegradomel | azure-mgmt-sphere | ChenxiJiang333 |  | 03-19 | 04-26 |  |
