@@ -5,7 +5,7 @@
 |3|[#39094](https://github.com/Azure/azure-sdk-for-java/issues/39094)|mgmt core, add hybrid serialization model(baseclass stream-style-serialization, subclass jackson)|Mgmt, Azure.Core, Mgmt - Track 2|XiaofeiCao||2024-03-06|
 |4|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |5|[#38985](https://github.com/Azure/azure-sdk-for-java/issues/38985)|[FEATURE REQ] eng, move SDK automation out of eng/mgmt folder|Mgmt, EngSys, DPG|XiaofeiCao||2024-02-28|
-|6|[#38836](https://github.com/Azure/azure-sdk-for-java/issues/38836)|In ContainerServiceManager, are some operations missing on KubernetesClusters?|question, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2024-02-19|
+|6|[#38836](https://github.com/Azure/azure-sdk-for-java/issues/38836)|In ContainerServiceManager, are some operations missing on KubernetesClusters?|question, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao|new comment|2024-02-19|
 |7|[#38806](https://github.com/Azure/azure-sdk-for-java/issues/38806)|[FEATURE REQ] DeleteOptions on Public Ip Address|ARM, Mgmt, customer-reported, feature-request, needs-team-attention|XiaofeiCao||2024-02-16|
 |8|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2, needs-triage|XiaofeiCao||2024-02-06|
 |9|[#38488](https://github.com/Azure/azure-sdk-for-java/issues/38488)|[FEATURE REQ] Ability to create Container Registry with zone redundancy|question, ARM, Container Registry, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1|new comment|2024-01-25|
@@ -16,7 +16,7 @@
 |14|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |15|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |16|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|17|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|17|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |18|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |19|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |20|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
@@ -25,7 +25,7 @@
 |23|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
 |24|[#36596](https://github.com/Azure/azure-sdk-for-java/issues/36596)|[FEATURE REQ] mgmt, update Javadoc of premium SDK, so that it pass Java 17 / 21|Mgmt, MQ|XiaofeiCao||2023-08-30|
 |25|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
-|26|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|weidongxu-microsoft, XiaofeiCao, v-hongli1||2023-08-22|
+|26|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|XiaofeiCao, v-hongli1, weidongxu-microsoft||2023-08-22|
 |27|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |28|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-08-14|
 |29|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
@@ -65,4 +65,3 @@
 |63|[#30116](https://github.com/Azure/azure-sdk-for-java/issues/30116)|[BUG] NPE when create application insights|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-07-25|
 |64|[#29186](https://github.com/Azure/azure-sdk-for-java/issues/29186)|[FEATURE REQ] sample on Spring Cloud Enterprise Tier|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-06-02|
 |65|[#27930](https://github.com/Azure/azure-sdk-for-java/issues/27930)|Querying ACR repositories and tag with managed identity|question, Container Registry, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2022-03-29|
-|66|[#940](https://github.com/Azure/azure-sdk-for-java/issues/940)|VM .withExistingPIP, .withExistingPrimaryNetwork, .withExistingNIC and other withExisting* should also accept a string resource ID|Mgmt, feature-request|XiaofeiCao||2016-07-06|
