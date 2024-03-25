@@ -9,9 +9,9 @@
 | 7 | [#5050](https://github.com/Azure/sdk-release-request/issues/5050) | zman-ms |  | qiaozha | new issue. | 03-15 | 04-26 |  |
 | 8 | [#5045](https://github.com/Azure/sdk-release-request/issues/5045) | ambrahma |  | qiaozha | Attention to inconsistent tag | 03-15 | 04-26 |  |
 | 9 | [#5043](https://github.com/Azure/sdk-release-request/issues/5043) | yaotongms |  | qiaozha | new issue. | 03-13 | 04-26 |  |
-| 10 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha | close to release date.  | 02-28 | 03-22 | -2 |
-| 11 | [#4993](https://github.com/Azure/sdk-release-request/issues/4993) | senatol |  | qiaozha | close to release date.  | 02-27 | 03-22 | -2 |
-| 12 | [#4964](https://github.com/Azure/sdk-release-request/issues/4964) | FumingZhang |  | MaryGao | close to release date.  | 02-19 | 03-22 | -2 |
-| 13 | [#4897](https://github.com/Azure/sdk-release-request/issues/4897) | eliagrady |  | qiaozha | new comment. close to release date.  Attention to inconsistent tag | 01-18 | 03-22 | -2 |
-| 14 | [#4890](https://github.com/Azure/sdk-release-request/issues/4890) | hmmorales |  | qiaozha | new comment. close to release date.  | 01-16 | 03-22 | -2 |
-| 15 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha | close to release date.  | 10-23 | 03-22 | -2 |
+| 10 | [#5010](https://github.com/Azure/sdk-release-request/issues/5010) | gargankit-microsoft |  | qiaozha |  | 02-28 | 03-22 |  |
+| 11 | [#4993](https://github.com/Azure/sdk-release-request/issues/4993) | senatol |  | qiaozha |  | 02-27 | 03-22 |  |
+| 12 | [#4964](https://github.com/Azure/sdk-release-request/issues/4964) | FumingZhang |  | MaryGao |  | 02-19 | 03-22 |  |
+| 13 | [#4897](https://github.com/Azure/sdk-release-request/issues/4897) | eliagrady |  | qiaozha | new comment. Attention to inconsistent tag | 01-18 | 03-22 |  |
+| 14 | [#4890](https://github.com/Azure/sdk-release-request/issues/4890) | hmmorales |  | qiaozha | new comment. | 01-16 | 03-22 |  |
+| 15 | [#4676](https://github.com/Azure/sdk-release-request/issues/4676) | hsurana06 |  | qiaozha |  | 10-23 | 03-22 |  |
