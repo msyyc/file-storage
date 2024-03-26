@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 03-25 | 04-26 |  |
 | 2 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
-| 3 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | new comment. FirstBeta | 03-22 | 04-26 |  |
+| 3 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta | 03-22 | 04-26 |  |
 | 4 | [#5068](https://github.com/Azure/sdk-release-request/issues/5068) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 03-21 | 04-26 |  |
 | 5 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 03-20 | 04-26 |  |
 | 6 | [#5060](https://github.com/Azure/sdk-release-request/issues/5060) | allegradomel | azure-mgmt-sphere | ChenxiJiang333 | close to release date.  FirstGA | 03-19 | 03-26 | 0 |
