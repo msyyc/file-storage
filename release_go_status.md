@@ -5,7 +5,7 @@
 | 3 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new issue. | 03-22 | 04-26 |  |
 | 4 | [#5070](https://github.com/Azure/sdk-release-request/issues/5070) | haagha |  | Alancere | new issue. | 03-21 | 04-26 |  |
 | 5 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere |  | 03-20 | 04-26 |  |
-| 6 | [#5062](https://github.com/Azure/sdk-release-request/issues/5062) | allegradomel |  | Alancere | new issue. new comment. close to release date.  | 03-19 | 03-26 | 0 |
+| 6 | [#5062](https://github.com/Azure/sdk-release-request/issues/5062) | allegradomel |  | Alancere | close to release date.  | 03-19 | 03-26 | 0 |
 | 7 | [#5056](https://github.com/Azure/sdk-release-request/issues/5056) | bxubxu |  | Alancere | new issue. | 03-18 | 04-26 |  |
 | 8 | [#5049](https://github.com/Azure/sdk-release-request/issues/5049) | zman-ms |  | Alancere | new issue. | 03-15 | 04-26 |  |
 | 9 | [#5048](https://github.com/Azure/sdk-release-request/issues/5048) | ambrahma |  | Alancere | Attention to inconsistent tag | 03-15 | 04-26 |  |
