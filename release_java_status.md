@@ -1,11 +1,11 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5090](https://github.com/Azure/sdk-release-request/issues/5090) | t-bzhan |  | XiaofeiCao | new issue. | 03-27 | 04-26 |  |
-| 2 | [#5083](https://github.com/Azure/sdk-release-request/issues/5083) | t-bzhan |  | weidongxu-microsoft | new issue. | 03-27 | 04-26 |  |
-| 3 | [#5082](https://github.com/Azure/sdk-release-request/issues/5082) | FumingZhang |  | haolingdong-msft | new issue. | 03-25 | 04-26 |  |
-| 4 | [#5077](https://github.com/Azure/sdk-release-request/issues/5077) | jnlycklama |  | haolingdong-msft | new issue. | 03-22 | 04-26 |  |
+| 2 | [#5083](https://github.com/Azure/sdk-release-request/issues/5083) | t-bzhan |  | v-hongli1 |  | 03-27 |  | 0 |
+| 3 | [#5082](https://github.com/Azure/sdk-release-request/issues/5082) | FumingZhang |  | v-hongli1 |  | 03-25 |  | 0 |
+| 4 | [#5077](https://github.com/Azure/sdk-release-request/issues/5077) | jnlycklama |  | v-hongli1 |  | 03-22 |  | 0 |
 | 5 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft |  | 03-22 | 04-26 |  |
-| 6 | [#5067](https://github.com/Azure/sdk-release-request/issues/5067) | haagha |  | haolingdong-msft | new issue. | 03-21 | 04-26 |  |
+| 6 | [#5067](https://github.com/Azure/sdk-release-request/issues/5067) | haagha |  | v-hongli1 |  | 03-21 |  | 0 |
 | 7 | [#5064](https://github.com/Azure/sdk-release-request/issues/5064) | alluri02 |  | haolingdong-msft |  | 03-20 | 04-26 |  |
 | 8 | [#5059](https://github.com/Azure/sdk-release-request/issues/5059) | allegradomel |  | XiaofeiCao | new issue. new comment. close to release date.  | 03-19 | 03-26 | -1 |
 | 9 | [#5053](https://github.com/Azure/sdk-release-request/issues/5053) | bxubxu |  | weidongxu-microsoft | new comment. | 03-18 | 04-26 |  |
