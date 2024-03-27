@@ -19,4 +19,5 @@
 | 17 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 03-22 | Hold on by JS/Java/Go/Python/ |
 | 18 | 'Release for Batch Service - 2024-02-01'  |  |  | [#5017](https://github.com/Azure/sdk-release-request/issues/5017)  |  | 02-29 | 03-22 |  |
 | 19 | 'Release for Liftr-Newrelic - 2024-01-01'  |  |  | [#4962](https://github.com/Azure/sdk-release-request/issues/4962)  |  | 02-19 |  |  |
-| 20 | 'Release for Cosmos DB for PostgreSQL - 2023-03-02-preview'  |  |  |  | [#4993](https://github.com/Azure/sdk-release-request/issues/4993)  | 02-27 | 03-22 | Hold on by JS/ |
+| 20 | 'Release for Container Service - 2024-02-02-preview'  |  | [#5092](https://github.com/Azure/sdk-release-request/issues/5092)  |  | [#5091](https://github.com/Azure/sdk-release-request/issues/5091)  | 03-27 | 04-26 |  |
+| 21 | 'Release for Cosmos DB for PostgreSQL - 2023-03-02-preview'  |  |  |  | [#4993](https://github.com/Azure/sdk-release-request/issues/4993)  | 02-27 | 03-22 | Hold on by JS/ |
