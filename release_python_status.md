@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5087](https://github.com/Azure/sdk-release-request/issues/5087) | t-bzhan | azure-mgmt-frontdoor | ChenxiJiang333 | new issue. | 03-27 | 04-26 |  |
 | 2 | [#5086](https://github.com/Azure/sdk-release-request/issues/5086) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 | new issue. | 03-27 | 04-26 |  |
-| 3 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 03-25 | 04-26 |  |
+| 3 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 03-25 | 04-26 |  |
 | 4 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
 | 5 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta | 03-22 | 04-26 |  |
 | 6 | [#5068](https://github.com/Azure/sdk-release-request/issues/5068) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 03-21 | 04-26 |  |
