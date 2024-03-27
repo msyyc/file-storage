@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5087](https://github.com/Azure/sdk-release-request/issues/5087) | t-bzhan | azure-mgmt-frontdoor | ChenxiJiang333 | new issue. | 03-27 | 04-26 |  |
 | 2 | [#5086](https://github.com/Azure/sdk-release-request/issues/5086) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 | new issue. | 03-27 | 04-26 |  |
-| 3 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 03-25 | 04-26 |  |
+| 3 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 03-25 | 04-26 |  |
 | 4 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
 | 5 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta | 03-22 | 04-26 |  |
 | 6 | [#5068](https://github.com/Azure/sdk-release-request/issues/5068) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 03-21 | 04-26 |  |
@@ -14,7 +14,6 @@
 | 12 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 03-13 | 04-26 |  |
 | 13 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | ForCLI | 03-13 | 04-26 |  |
 | 14 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | new comment. FirstBeta HoldOn | 02-28 | 04-01 |  |
-| 15 | [#4958](https://github.com/Azure/sdk-release-request/issues/4958) | eatkimchee | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | FirstGA | 02-17 | 03-22 |  |
 | 16 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | new comment. MultiAPI HoldOn | 01-18 | 03-22 |  |
 | 17 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 | duplicated issue  <br> | 01-16 |  | 0 |
 | 18 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA HoldOn | 10-23 | 03-22 |  |
