@@ -4,7 +4,7 @@
 | 2 | [#5083](https://github.com/Azure/sdk-release-request/issues/5083) | t-bzhan |  | v-hongli1 |  | 03-27 |  | 0 |
 | 3 | [#5082](https://github.com/Azure/sdk-release-request/issues/5082) | FumingZhang |  | v-hongli1 |  | 03-25 |  | 0 |
 | 4 | [#5077](https://github.com/Azure/sdk-release-request/issues/5077) | jnlycklama |  | v-hongli1 |  | 03-22 |  | 0 |
-| 5 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft |  | 03-22 | 04-26 |  |
+| 5 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. | 03-22 | 04-26 |  |
 | 6 | [#5067](https://github.com/Azure/sdk-release-request/issues/5067) | haagha |  | v-hongli1 |  | 03-21 |  | 0 |
 | 7 | [#5064](https://github.com/Azure/sdk-release-request/issues/5064) | alluri02 |  | haolingdong-msft |  | 03-20 | 04-26 |  |
 | 8 | [#5053](https://github.com/Azure/sdk-release-request/issues/5053) | bxubxu |  | weidongxu-microsoft | new comment. | 03-18 | 04-26 |  |
