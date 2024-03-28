@@ -8,7 +8,7 @@
 | 6 | [#5072](https://github.com/Azure/sdk-release-request/issues/5072) | jasonurban1 |  | MaryGao | new issue. | 03-22 | 04-26 |  |
 | 7 | [#5069](https://github.com/Azure/sdk-release-request/issues/5069) | haagha |  | MaryGao | new issue. | 03-21 | 04-26 |  |
 | 8 | [#5065](https://github.com/Azure/sdk-release-request/issues/5065) | alluri02 |  | MaryGao |  | 03-20 | 04-26 |  |
-| 9 | [#5055](https://github.com/Azure/sdk-release-request/issues/5055) | bxubxu |  | MaryGao | new issue. | 03-18 | 04-26 |  |
+| 9 | [#5055](https://github.com/Azure/sdk-release-request/issues/5055) | bxubxu |  | MaryGao | new issue. new comment. | 03-18 | 04-26 |  |
 | 10 | [#5050](https://github.com/Azure/sdk-release-request/issues/5050) | zman-ms |  | qiaozha | new issue. | 03-15 | 04-26 |  |
 | 11 | [#5045](https://github.com/Azure/sdk-release-request/issues/5045) | ambrahma |  | qiaozha | Attention to inconsistent tag | 03-15 | 04-26 |  |
 | 12 | [#5043](https://github.com/Azure/sdk-release-request/issues/5043) | yaotongms |  | qiaozha | new issue. | 03-13 | 04-26 |  |
