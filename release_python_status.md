@@ -13,7 +13,7 @@
 | 11 | [#5046](https://github.com/Azure/sdk-release-request/issues/5046) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> | 03-15 | 04-26 |  |
 | 12 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 03-13 | 04-26 |  |
 | 13 | [#5040](https://github.com/Azure/sdk-release-request/issues/5040) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | ForCLI | 03-13 | 04-26 |  |
-| 14 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | new comment. FirstBeta HoldOn | 02-28 | 04-01 |  |
+| 14 | [#5008](https://github.com/Azure/sdk-release-request/issues/5008) | gargankit-microsoft | azure-mgmt-migrationdiscoverysap | ChenxiJiang333 | new comment. close to release date.  FirstBeta HoldOn | 02-28 | 04-01 | 2 |
 | 15 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 | new comment. MultiAPI HoldOn | 01-18 | 03-22 |  |
 | 16 | [#4891](https://github.com/Azure/sdk-release-request/issues/4891) | hmmorales |  | ChenxiJiang333 | duplicated issue  <br> | 01-16 |  | 0 |
 | 17 | [#4677](https://github.com/Azure/sdk-release-request/issues/4677) | hsurana06 | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA HoldOn | 10-23 | 03-22 |  |
