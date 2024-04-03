@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5102](https://github.com/Azure/sdk-release-request/issues/5102) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 04-01 | 04-26 |  |
 | 2 | [#5098](https://github.com/Azure/sdk-release-request/issues/5098) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 04-01 | 04-26 |  |
-| 3 | [#5094](https://github.com/Azure/sdk-release-request/issues/5094) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 | OnTime | 03-29 | 04-26 |  |
+| 3 | [#5094](https://github.com/Azure/sdk-release-request/issues/5094) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 | OnTime | 03-29 | 04-07 |  |
 | 4 | [#5087](https://github.com/Azure/sdk-release-request/issues/5087) | t-bzhan | azure-mgmt-frontdoor | ChenxiJiang333 |  | 03-27 | 04-26 |  |
 | 5 | [#5086](https://github.com/Azure/sdk-release-request/issues/5086) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 | new comment. | 03-27 | 04-15 |  |
 | 6 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 03-25 | 04-26 |  |
