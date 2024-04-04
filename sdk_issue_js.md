@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|qiaozha, kazrael2119, josefree||2024-03-01|
+|1|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|kazrael2119, qiaozha, josefree||2024-03-01|
 |2|[#28125](https://github.com/Azure/azure-sdk-for-js/issues/28125)|Resource Management - Hybrid Compute Sample Issue|Mgmt, test-manual-pass|kazrael2119, qiaozha|new comment|2023-12-29|
 |3|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, ARM, Resource Health, test-manual-pass|kazrael2119, MaryGao|new comment|2023-11-29|
 |4|[#27750](https://github.com/Azure/azure-sdk-for-js/issues/27750)|Handle compliance issue on NSP RP JavaScript SDKs|question, customer-reported, Mgmt, Event Hubs, needs-team-attention|kazrael2119, qiaozha|new comment|2023-11-10|
@@ -18,4 +18,4 @@
 |16|[#24353](https://github.com/Azure/azure-sdk-for-js/issues/24353)|zip url deploy not working beginCreateZipDeploymentForStaticSiteAndWait|bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha||2023-01-03|
 |17|[#23516](https://github.com/Azure/azure-sdk-for-js/issues/23516)|【返回数据过大】Resource Skus - List|customer-reported, Mgmt, Service Attention, feature-request, ARM - Core, needs-team-attention|qiaozha|new comment|2022-10-14|
 |18|[#23318](https://github.com/Azure/azure-sdk-for-js/issues/23318)|Error while listing slot application settings  |bug, customer-reported, Mgmt, App Services, Service Attention, needs-team-attention|qiaozha|new comment|2022-09-26|
-|19|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|qiaozha, xboxeer||2022-07-29|
+|19|[#22754](https://github.com/Azure/azure-sdk-for-js/issues/22754)|Type `OperationsManagementModels.SolutionProperties` is incorrect|bug, customer-reported, Mgmt, Service Attention, Operations Management, needs-team-attention|xboxeer, qiaozha||2022-07-29|
