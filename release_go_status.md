@@ -13,10 +13,10 @@
 | 11 | [#5070](https://github.com/Azure/sdk-release-request/issues/5070) | haagha |  | Alancere |  | 03-21 | 04-26 |  |
 | 12 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere |  | 03-20 | 04-26 |  |
 | 13 | [#5056](https://github.com/Azure/sdk-release-request/issues/5056) | bxubxu |  | Alancere | new comment. | 03-18 | 04-26 |  |
-| 14 | [#5049](https://github.com/Azure/sdk-release-request/issues/5049) | zman-ms |  | Alancere | close to release date.  | 03-15 | 04-07 | 1 |
+| 14 | [#5049](https://github.com/Azure/sdk-release-request/issues/5049) | zman-ms |  | Alancere | close to release date.  | 03-15 | 04-07 | 0 |
 | 15 | [#5048](https://github.com/Azure/sdk-release-request/issues/5048) | ambrahma |  | Alancere |  | 03-15 | 04-26 |  |
 | 16 | [#5044](https://github.com/Azure/sdk-release-request/issues/5044) | yaotongms |  | Alancere |  | 03-13 | 04-26 |  |
-| 17 | [#5007](https://github.com/Azure/sdk-release-request/issues/5007) | gargankit-microsoft |  | Alancere | new comment. close to release date.  | 02-28 | 04-07 | 1 |
+| 17 | [#5007](https://github.com/Azure/sdk-release-request/issues/5007) | gargankit-microsoft |  | Alancere | new comment. close to release date.  | 02-28 | 04-07 | 0 |
 | 18 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere | new comment. | 01-18 | 04-26 |  |
 | 19 | [#4892](https://github.com/Azure/sdk-release-request/issues/4892) | hmmorales |  |  |  | 01-16 |  | 0 |
 | 20 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  |  |  | 10-23 |  | 0 |
