@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|qiaozha, kazrael2119, josefree||2024-03-01|
+|1|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|josefree, qiaozha, kazrael2119||2024-03-01|
 |2|[#28125](https://github.com/Azure/azure-sdk-for-js/issues/28125)|Resource Management - Hybrid Compute Sample Issue|Mgmt, test-manual-pass|qiaozha, kazrael2119|new comment|2023-12-29|
 |3|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, ARM, Resource Health, test-manual-pass|kazrael2119, MaryGao|new comment|2023-11-29|
 |4|[#27750](https://github.com/Azure/azure-sdk-for-js/issues/27750)|Handle compliance issue on NSP RP JavaScript SDKs|question, customer-reported, Mgmt, Event Hubs, needs-team-attention|qiaozha, kazrael2119|new comment|2023-11-10|
