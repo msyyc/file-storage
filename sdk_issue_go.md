@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22708](https://github.com/Azure/azure-sdk-for-go/issues/22708)|LimitObject not exposed in armquota package|question, Mgmt, customer-reported, needs-team-attention, Quota|lirenhe||2024-04-05|
+|1|[#22708](https://github.com/Azure/azure-sdk-for-go/issues/22708)|LimitObject not exposed in armquota package|question, Mgmt, customer-reported, needs-author-feedback, Quota|Alancere||2024-04-05|
 |2|[#22606](https://github.com/Azure/azure-sdk-for-go/issues/22606)|PublicNetworkAccess property for SQL Server is turning out to be null|question, SQL, Mgmt, customer-reported, needs-author-feedback|Alancere||2024-03-18|
 |3|[#22599](https://github.com/Azure/azure-sdk-for-go/issues/22599)|Allow armcostmanagement's queries to group by RegionId|question, Service Attention, Mgmt, customer-reported, needs-author-feedback, Cost Management - Query|Alancere|new comment|2024-03-15|
 |4|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|bug, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-03-08|
