@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-sql,jovancevic123,ChenxiJiang333,2024-03-13,2024-04-07,https://github.com/Azure/sdk-release-request/issues/5040,4.0.0b16,
+azure-mgmt-hdinsightcontainers,yuc-Li,ChenxiJiang333,2024-03-29,2024-04-07,https://github.com/Azure/sdk-release-request/issues/5094,1.0.0b2,
 azure-mgmt-containerservicefleet,zman-ms,ChenxiJiang333,2024-03-15,2024-04-03,https://github.com/Azure/sdk-release-request/issues/5051,1.1.0,True
 azure-mgmt-iotfirmwaredefense,eatkimchee,ChenxiJiang333,2024-02-17,2024-03-27,https://github.com/Azure/sdk-release-request/issues/4958,1.0.0,True
 azure-mgmt-sphere,allegradomel,ChenxiJiang333,2024-03-19,2024-03-26,https://github.com/Azure/sdk-release-request/issues/5060,1.0.0,True
