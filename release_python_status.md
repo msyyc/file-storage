@@ -5,7 +5,7 @@
 | 3 | [#5109](https://github.com/Azure/sdk-release-request/issues/5109) | davidemontanari |  | ChenxiJiang333 | duplicated issue  <br> | 04-03 |  | 0 |
 | 4 | [#5102](https://github.com/Azure/sdk-release-request/issues/5102) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 04-01 | 04-26 |  |
 | 5 | [#5098](https://github.com/Azure/sdk-release-request/issues/5098) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 04-01 | 04-26 |  |
-| 6 | [#5087](https://github.com/Azure/sdk-release-request/issues/5087) | t-bzhan | azure-mgmt-frontdoor | ChenxiJiang333 | new comment. | 03-27 | 04-15 |  |
+| 6 | [#5087](https://github.com/Azure/sdk-release-request/issues/5087) | t-bzhan | azure-mgmt-frontdoor | ChenxiJiang333 | HoldOn | 03-27 | 04-15 |  |
 | 7 | [#5086](https://github.com/Azure/sdk-release-request/issues/5086) | t-bzhan | azure-mgmt-cdn | ChenxiJiang333 | new comment. | 03-27 | 04-15 |  |
 | 8 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 03-25 | 04-26 |  |
 | 9 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
