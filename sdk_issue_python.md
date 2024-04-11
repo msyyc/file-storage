@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35139](https://github.com/Azure/azure-sdk-for-python/issues/35139)|azure vnet subnet usage data|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2024-04-10|
+|1|[#35139](https://github.com/Azure/azure-sdk-for-python/issues/35139)|azure vnet subnet usage data|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-04-10|
 |2|[#35034](https://github.com/Azure/azure-sdk-for-python/issues/35034)|grainparameter not accepted in client.benefit_utilization_summaries.list_by_savings_plan_id|question, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|msyyc||2024-04-02|
 |3|[#34982](https://github.com/Azure/azure-sdk-for-python/issues/34982)|Not able to get the restore point collection  got exception get() takes 3 positional arguments but 4 were given|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-28|
 |4|[#34653](https://github.com/Azure/azure-sdk-for-python/issues/34653)|Adding the principal_name to the RoleAssignment class|question, Authorization, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-06|
@@ -14,4 +14,4 @@
 |12|[#29574](https://github.com/Azure/azure-sdk-for-python/issues/29574)|web_apps.create_or_update_function_secret ommits required request property Properties|bug, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|msyyc|new comment|2023-03-24|
 |13|[#28911](https://github.com/Azure/azure-sdk-for-python/issues/28911)|Unable to filter by multiple provisioningState on deployment list|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|new comment|2023-02-20|
 |14|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|new comment|2022-06-07|
-|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc, iscai-msft|new comment|2021-04-05|
+|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
