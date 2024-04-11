@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5116](https://github.com/Azure/sdk-release-request/issues/5116) | musabbir |  | Alancere | new issue. | 04-08 | 04-26 |  |
+| 1 | [#5116](https://github.com/Azure/sdk-release-request/issues/5116) | musabbir |  | Alancere |  | 04-08 | 04-26 |  |
 | 2 | [#5112](https://github.com/Azure/sdk-release-request/issues/5112) | siddiavinashmsft |  | Alancere |  | 04-04 | 04-26 |  |
-| 3 | [#5106](https://github.com/Azure/sdk-release-request/issues/5106) | davidemontanari |  | Alancere | new issue. | 04-03 | 04-26 |  |
+| 3 | [#5106](https://github.com/Azure/sdk-release-request/issues/5106) | davidemontanari |  | Alancere |  | 04-03 | 04-26 |  |
 | 4 | [#5105](https://github.com/Azure/sdk-release-request/issues/5105) | nickdepinet |  | Alancere | new comment. | 04-01 | 04-26 |  |
 | 5 | [#5099](https://github.com/Azure/sdk-release-request/issues/5099) | ruowan |  | Alancere | multi readme link! | 04-01 | 04-26 |  |
 | 6 | [#5092](https://github.com/Azure/sdk-release-request/issues/5092) | FumingZhang |  | Alancere | Attention to inconsistent tag | 03-27 | 04-26 |  |
