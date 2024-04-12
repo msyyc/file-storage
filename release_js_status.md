@@ -12,7 +12,7 @@
 | 10 | [#5084](https://github.com/Azure/sdk-release-request/issues/5084) | t-bzhan |  | qiaozha | close to release date.  | 03-27 | 04-15 | 2 |
 | 11 | [#5080](https://github.com/Azure/sdk-release-request/issues/5080) | FumingZhang |  | qiaozha |  | 03-25 | 04-26 |  |
 | 12 | [#5078](https://github.com/Azure/sdk-release-request/issues/5078) | jnlycklama |  | MaryGao |  | 03-22 | 04-26 |  |
-| 13 | [#5072](https://github.com/Azure/sdk-release-request/issues/5072) | jasonurban1 |  | MaryGao |  | 03-22 | 04-26 |  |
+| 13 | [#5072](https://github.com/Azure/sdk-release-request/issues/5072) | jasonurban1 |  | MaryGao | new comment. | 03-22 | 04-26 |  |
 | 14 | [#5069](https://github.com/Azure/sdk-release-request/issues/5069) | haagha |  | MaryGao |  | 03-21 | 04-26 |  |
 | 15 | [#5065](https://github.com/Azure/sdk-release-request/issues/5065) | alluri02 |  | MaryGao |  | 03-20 | 04-26 |  |
 | 16 | [#5055](https://github.com/Azure/sdk-release-request/issues/5055) | bxubxu |  | MaryGao |  | 03-18 | 04-26 |  |
