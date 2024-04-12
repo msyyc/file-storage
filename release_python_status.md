@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5124](https://github.com/Azure/sdk-release-request/issues/5124) | rahuls-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 04-11 | 04-26 |  |
-| 2 | [#5123](https://github.com/Azure/sdk-release-request/issues/5123) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 04-11 | 04-26 |  |
-| 3 | [#5119](https://github.com/Azure/sdk-release-request/issues/5119) | zubairabid |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 04-10 | 04-26 |  |
+| 1 | [#5128](https://github.com/Azure/sdk-release-request/issues/5128) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | Attention to inconsistent tag | 04-12 | 05-24 |  |
+| 2 | [#5124](https://github.com/Azure/sdk-release-request/issues/5124) | rahuls-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 04-11 | 04-26 |  |
+| 3 | [#5123](https://github.com/Azure/sdk-release-request/issues/5123) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 04-11 | 04-26 |  |
 | 4 | [#5114](https://github.com/Azure/sdk-release-request/issues/5114) | musabbir | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 04-08 | 04-26 |  |
 | 5 | [#5111](https://github.com/Azure/sdk-release-request/issues/5111) | siddiavinashmsft | azure-mgmt-selfhelp | ChenxiJiang333 |  | 04-04 | 04-26 |  |
 | 6 | [#5109](https://github.com/Azure/sdk-release-request/issues/5109) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 |  | 04-03 | 04-26 |  |
