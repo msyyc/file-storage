@@ -10,7 +10,7 @@
 |8|[#38985](https://github.com/Azure/azure-sdk-for-java/issues/38985)|[FEATURE REQ] eng, move SDK automation out of eng/mgmt folder|Mgmt, EngSys, DPG|XiaofeiCao||2024-02-28|
 |9|[#38806](https://github.com/Azure/azure-sdk-for-java/issues/38806)|[FEATURE REQ] DeleteOptions on Public Ip Address|ARM, Mgmt, customer-reported, feature-request, needs-team-attention|XiaofeiCao||2024-02-16|
 |10|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2, needs-triage|XiaofeiCao||2024-02-06|
-|11|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
+|11|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
 |12|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |13|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-11-24|
 |14|[#37721](https://github.com/Azure/azure-sdk-for-java/issues/37721)|[FEATURE REQ] Need support for updating MinimumTLSversion of EventHubnamespace using azure-resourcemanager-eventhubs|Event Hubs, Mgmt, needs-team-attention|XiaofeiCao, v-hongli1||2023-11-17|
@@ -26,7 +26,7 @@
 |24|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
 |25|[#36596](https://github.com/Azure/azure-sdk-for-java/issues/36596)|[FEATURE REQ] mgmt, update Javadoc of premium SDK, so that it pass Java 17 / 21|Mgmt, MQ|XiaofeiCao||2023-08-30|
 |26|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
-|27|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|XiaofeiCao, weidongxu-microsoft, v-hongli1||2023-08-22|
+|27|[#36447](https://github.com/Azure/azure-sdk-for-java/issues/36447)|mgmt, fix samples for appservice|Mgmt, MQ|XiaofeiCao, v-hongli1, weidongxu-microsoft||2023-08-22|
 |28|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
 |29|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-08-14|
 |30|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
