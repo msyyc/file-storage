@@ -4,7 +4,7 @@
 | 2 | [#5123](https://github.com/Azure/sdk-release-request/issues/5123) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 04-11 | 04-26 |  |
 | 3 | [#5119](https://github.com/Azure/sdk-release-request/issues/5119) | zubairabid |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 04-10 | 04-26 |  |
 | 4 | [#5114](https://github.com/Azure/sdk-release-request/issues/5114) | musabbir | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 04-08 | 04-26 |  |
-| 5 | [#5111](https://github.com/Azure/sdk-release-request/issues/5111) | siddiavinashmsft | azure-mgmt-selfhelp | ChenxiJiang333 | new comment. | 04-04 | 04-26 |  |
+| 5 | [#5111](https://github.com/Azure/sdk-release-request/issues/5111) | siddiavinashmsft | azure-mgmt-selfhelp | ChenxiJiang333 |  | 04-04 | 04-26 |  |
 | 6 | [#5109](https://github.com/Azure/sdk-release-request/issues/5109) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 |  | 04-03 | 04-26 |  |
 | 7 | [#5102](https://github.com/Azure/sdk-release-request/issues/5102) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 04-01 | 04-26 |  |
 | 8 | [#5098](https://github.com/Azure/sdk-release-request/issues/5098) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 04-01 | 04-26 |  |
