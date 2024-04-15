@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5134](https://github.com/Azure/sdk-release-request/issues/5134) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | Attention to inconsistent tag MultiAPI | 04-12 | 05-24 |  |
-| 2 | [#5128](https://github.com/Azure/sdk-release-request/issues/5128) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | Attention to inconsistent tag | 04-12 | 05-24 |  |
+| 1 | [#5134](https://github.com/Azure/sdk-release-request/issues/5134) | zubairabid | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | new comment. Attention to inconsistent tag MultiAPI | 04-12 | 05-24 |  |
+| 2 | [#5128](https://github.com/Azure/sdk-release-request/issues/5128) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | new comment. Attention to inconsistent tag | 04-12 | 05-24 |  |
 | 3 | [#5124](https://github.com/Azure/sdk-release-request/issues/5124) | rahuls-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 04-11 | 04-26 |  |
 | 4 | [#5123](https://github.com/Azure/sdk-release-request/issues/5123) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 |  | 04-11 | 04-26 |  |
 | 5 | [#5114](https://github.com/Azure/sdk-release-request/issues/5114) | musabbir | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 04-08 | 04-26 |  |
