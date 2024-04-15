@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-cdn,t-bzhan,ChenxiJiang333,2024-03-27,2024-04-15,https://github.com/Azure/sdk-release-request/issues/5086,13.1.0,True
+azure-mgmt-frontdoor,t-bzhan,ChenxiJiang333,2024-03-27,2024-04-15,https://github.com/Azure/sdk-release-request/issues/5087,1.2.0,True
 azure-mgmt-migrationdiscoverysap,gargankit-microsoft,ChenxiJiang333,2024-02-28,2024-04-07,https://github.com/Azure/sdk-release-request/issues/5008,1.0.0b1,
 azure-mgmt-sql,jovancevic123,ChenxiJiang333,2024-03-13,2024-04-07,https://github.com/Azure/sdk-release-request/issues/5040,4.0.0b16,
 azure-mgmt-hdinsightcontainers,yuc-Li,ChenxiJiang333,2024-03-29,2024-04-07,https://github.com/Azure/sdk-release-request/issues/5094,1.0.0b2,
