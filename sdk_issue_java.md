@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
 |2|[#39711](https://github.com/Azure/azure-sdk-for-java/issues/39711)|[QUERY] Private DNS integration for Azure Private Endpoint|question, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2024-04-15|
-|3|[#39703](https://github.com/Azure/azure-sdk-for-java/issues/39703)|[BUG]responseFilter parameter not encoded correctly in cognitiveServicesWebSearch|question, Search, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-04-15|
+|3|[#39703](https://github.com/Azure/azure-sdk-for-java/issues/39703)|[BUG]responseFilter parameter not encoded correctly in cognitiveServicesWebSearch|question, Search, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-15|
 |4|[#39649](https://github.com/Azure/azure-sdk-for-java/issues/39649)|Typo "Azure CosmosDB"→"Azure Cosmos DB"|question, Cosmos, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-10|
 |5|[#39561](https://github.com/Azure/azure-sdk-for-java/issues/39561)|[QUERY] Why is scope not automatically set for requests to storage endpoint?|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft, XiaofeiCao||2024-04-05|
 |6|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
