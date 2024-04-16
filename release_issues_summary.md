@@ -23,4 +23,3 @@
 | 21 | 'Release for Microsoft.SCVMM - 2023-10-07'  | [#4677](https://github.com/Azure/sdk-release-request/issues/4677)  | [#4679](https://github.com/Azure/sdk-release-request/issues/4679)  | [#4678](https://github.com/Azure/sdk-release-request/issues/4678)  | [#4676](https://github.com/Azure/sdk-release-request/issues/4676)  | 10-23 | 04-26 | Hold on by JS/Java/Go/Python/ |
 | 22 | 'Release for Azure Cdn - 2024-02-01'  |  |  | [#5083](https://github.com/Azure/sdk-release-request/issues/5083)  |  | 03-27 |  |  |
 | 23 | 'Release for Container Service - 2024-02-02-preview'  |  | [#5092](https://github.com/Azure/sdk-release-request/issues/5092)  |  | [#5091](https://github.com/Azure/sdk-release-request/issues/5091)  | 03-27 | 04-26 |  |
-| 24 | 'Release for Azure FrontDoor - 2024-02-01'  |  |  |  | [#5089](https://github.com/Azure/sdk-release-request/issues/5089)  | 03-27 | 04-15 |  |
