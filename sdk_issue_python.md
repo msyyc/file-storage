@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35224](https://github.com/Azure/azure-sdk-for-python/issues/35224)|The list method does not return all subscripitoin information|question, Service Attention, Mgmt, customer-reported, Subscription, needs-team-attention|msyyc|new comment|2024-04-16|
+|1|[#35224](https://github.com/Azure/azure-sdk-for-python/issues/35224)|The list method does not return all subscripitoin information|question, Service Attention, Mgmt, customer-reported, Subscription, needs-team-attention|msyyc||2024-04-16|
 |2|[#35202](https://github.com/Azure/azure-sdk-for-python/issues/35202)|Trying to get my WAF mode (and more if possible) with the Python Azure SDK|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2024-04-15|
 |3|[#35169](https://github.com/Azure/azure-sdk-for-python/issues/35169)|Multiple "[Warning]  Datetime with no tzinfo will be considered UTC" |question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention, Resources|msyyc||2024-04-11|
 |4|[#34982](https://github.com/Azure/azure-sdk-for-python/issues/34982)|Not able to get the restore point collection  got exception get() takes 3 positional arguments but 4 were given|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-28|
