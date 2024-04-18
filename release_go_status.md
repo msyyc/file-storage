@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5137](https://github.com/Azure/sdk-release-request/issues/5137) | oolaoluwa |  | Alancere | Attention to inconsistent tag. | 04-16 | 05-24 |  |
-| 2 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere | Attention to inconsistent tag. | 04-12 | 05-24 |  |
-| 3 | [#5130](https://github.com/Azure/sdk-release-request/issues/5130) | zubairabid |  | Alancere | Attention to inconsistent tag. | 04-12 | 05-24 |  |
+| 2 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
+| 3 | [#5130](https://github.com/Azure/sdk-release-request/issues/5130) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
 | 4 | [#5127](https://github.com/Azure/sdk-release-request/issues/5127) | rahuls-microsoft |  | Alancere |  | 04-11 | 04-26 |  |
 | 5 | [#5120](https://github.com/Azure/sdk-release-request/issues/5120) | raghumunukutla |  | Alancere |  | 04-11 | 04-26 |  |
 | 6 | [#5116](https://github.com/Azure/sdk-release-request/issues/5116) | musabbir |  | Alancere | new comment. | 04-08 | 04-26 |  |
