@@ -16,7 +16,7 @@
 | 14 | [#5068](https://github.com/Azure/sdk-release-request/issues/5068) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 03-21 | 04-26 |  |
 | 15 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> HoldOn | 03-20 | 04-26 |  |
 | 16 | [#5058](https://github.com/Azure/sdk-release-request/issues/5058) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> MultiAPI HoldOn | 03-19 | 04-26 |  |
-| 17 | [#5054](https://github.com/Azure/sdk-release-request/issues/5054) | bxubxu | azure-mgmt-standbypool | ChenxiJiang333 | FirstBeta | 03-18 | 04-26 |  |
+| 17 | [#5054](https://github.com/Azure/sdk-release-request/issues/5054) | bxubxu | azure-mgmt-standbypool | ChenxiJiang333 | new comment. FirstBeta | 03-18 | 04-26 |  |
 | 18 | [#5046](https://github.com/Azure/sdk-release-request/issues/5046) | ambrahma | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> ForCLI | 03-15 | 04-26 |  |
 | 19 | [#5041](https://github.com/Azure/sdk-release-request/issues/5041) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | HoldOn | 03-13 | 04-26 |  |
 | 20 | [#4896](https://github.com/Azure/sdk-release-request/issues/4896) | eliagrady | azure-mgmt-security | ChenxiJiang333 |  | 01-18 | 04-26 |  |
