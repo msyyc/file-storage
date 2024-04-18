@@ -11,7 +11,7 @@
 | 9 | [#5104](https://github.com/Azure/sdk-release-request/issues/5104) | nickdepinet |  | v-hongli1 | HoldOn. | 04-01 | 04-26 |  |
 | 10 | [#5100](https://github.com/Azure/sdk-release-request/issues/5100) | ruowan |  | v-hongli1 | multi readme link! | 04-01 | 04-26 |  |
 | 11 | [#5082](https://github.com/Azure/sdk-release-request/issues/5082) | FumingZhang |  | v-hongli1 | new comment. | 03-25 | 04-26 |  |
-| 12 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. | 03-22 | 04-26 |  |
+| 12 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. | 03-22 | 05-24 |  |
 | 13 | [#5067](https://github.com/Azure/sdk-release-request/issues/5067) | haagha |  | v-hongli1 | new issue. | 03-21 | 04-26 |  |
 | 14 | [#5064](https://github.com/Azure/sdk-release-request/issues/5064) | alluri02 |  | haolingdong-msft | HoldOn. | 03-20 | 04-26 |  |
 | 15 | [#5053](https://github.com/Azure/sdk-release-request/issues/5053) | bxubxu |  | weidongxu-microsoft | new comment. FirstBeta. | 03-18 | 04-26 |  |
