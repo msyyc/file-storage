@@ -12,7 +12,7 @@
 | 10 | [#5098](https://github.com/Azure/sdk-release-request/issues/5098) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 04-01 | 04-26 |  |
 | 11 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | OnTime. | 03-25 | 04-26 |  |
 | 12 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
-| 13 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | new comment. FirstBeta. | 03-22 | 05-24 |  |
+| 13 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta. HoldOn. | 03-22 | 05-24 |  |
 | 14 | [#5068](https://github.com/Azure/sdk-release-request/issues/5068) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 03-21 | 04-26 |  |
 | 15 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 |  | ChenxiJiang333 |  | 03-20 |  | 0 |
 | 16 | [#5058](https://github.com/Azure/sdk-release-request/issues/5058) | xiaoxuqi-ms | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> | 03-19 | 04-26 |  |
