@@ -8,7 +8,7 @@
 | 6 | [#5114](https://github.com/Azure/sdk-release-request/issues/5114) | musabbir | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 04-08 | 04-26 |  |
 | 7 | [#5111](https://github.com/Azure/sdk-release-request/issues/5111) | siddiavinashmsft | azure-mgmt-selfhelp | ChenxiJiang333 |  | 04-04 | 04-26 |  |
 | 8 | [#5109](https://github.com/Azure/sdk-release-request/issues/5109) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-03 | 04-26 |  |
-| 9 | [#5102](https://github.com/Azure/sdk-release-request/issues/5102) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 |  | 04-01 | 04-26 |  |
+| 9 | [#5102](https://github.com/Azure/sdk-release-request/issues/5102) | nickdepinet | azure-mgmt-devcenter | ChenxiJiang333 | HoldOn. | 04-01 | 04-26 |  |
 | 10 | [#5098](https://github.com/Azure/sdk-release-request/issues/5098) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 04-01 | 04-26 |  |
 | 11 | [#5081](https://github.com/Azure/sdk-release-request/issues/5081) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. OnTime. | 03-25 | 04-26 |  |
 | 12 | [#5075](https://github.com/Azure/sdk-release-request/issues/5075) | jnlycklama | azure-mgmt-healthcareapis | ChenxiJiang333 |  | 03-22 | 04-26 |  |
