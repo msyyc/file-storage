@@ -1,4 +1,10 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-rdbms,ambrahma,ChenxiJiang333,2024-03-15,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5046,10.2.0b16,
+azure-mgmt-healthcareapis,jnlycklama,ChenxiJiang333,2024-03-22,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5075,2.1.0,True
+azure-mgmt-containerservice,FumingZhang,ChenxiJiang333,2024-03-25,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5081,30.0.0,True
+azure-mgmt-datafactory,ruowan,ChenxiJiang333,2024-04-01,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5098,7.0.0,True
+azure-mgmt-confidentialledger,musabbir,ChenxiJiang333,2024-04-08,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5114,2.0.0b4,
+azure-mgmt-recoveryservices,zubairabid,ChenxiJiang333,2024-04-12,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5128,3.0.0,True
 azure-mgmt-cdn,t-bzhan,ChenxiJiang333,2024-03-27,2024-04-15,https://github.com/Azure/sdk-release-request/issues/5086,13.1.0,True
 azure-mgmt-frontdoor,t-bzhan,ChenxiJiang333,2024-03-27,2024-04-15,https://github.com/Azure/sdk-release-request/issues/5087,1.2.0,True
 azure-mgmt-migrationdiscoverysap,gargankit-microsoft,ChenxiJiang333,2024-02-28,2024-04-07,https://github.com/Azure/sdk-release-request/issues/5008,1.0.0b1,
