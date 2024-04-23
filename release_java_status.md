@@ -9,7 +9,6 @@
 | 7 | [#5107](https://github.com/Azure/sdk-release-request/issues/5107) | davidemontanari |  | XiaofeiCao | close to release date. TypeSpec. | 04-03 | 04-26 | 2 |
 | 8 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. | 03-22 | 05-24 |  |
 | 9 | [#5064](https://github.com/Azure/sdk-release-request/issues/5064) | alluri02 |  | haolingdong-msft | close to release date. HoldOn. | 03-20 | 04-26 | 2 |
-| 10 | [#5053](https://github.com/Azure/sdk-release-request/issues/5053) | bxubxu |  | weidongxu-microsoft | new comment. close to release date. FirstBeta. TypeSpec. | 03-18 | 04-26 | 2 |
-| 11 | [#5042](https://github.com/Azure/sdk-release-request/issues/5042) | yaotongms |  | haolingdong-msft | close to release date. | 03-13 | 04-26 | 2 |
-| 12 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. close to release date. Attention to inconsistent tag. | 01-18 | 04-26 | 2 |
-| 13 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. close to release date. FirstGA. HoldOn. | 10-23 | 04-26 | 2 |
+| 10 | [#5042](https://github.com/Azure/sdk-release-request/issues/5042) | yaotongms |  | haolingdong-msft | close to release date. | 03-13 | 04-26 | 2 |
+| 11 | [#4895](https://github.com/Azure/sdk-release-request/issues/4895) | eliagrady |  | XiaofeiCao | new comment. close to release date. Attention to inconsistent tag. | 01-18 | 04-26 | 2 |
+| 12 | [#4678](https://github.com/Azure/sdk-release-request/issues/4678) | hsurana06 |  | haolingdong-msft | new comment. close to release date. FirstGA. HoldOn. | 10-23 | 04-26 | 2 |
