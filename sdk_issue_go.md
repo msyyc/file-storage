@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#22736](https://github.com/Azure/azure-sdk-for-go/issues/22736)|armeventhub namespaces client list pager responses have nil PrivateEndpointConnections|question, Event Hubs, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-04-10|
+|1|[#22736](https://github.com/Azure/azure-sdk-for-go/issues/22736)|armeventhub namespaces client list pager responses have nil PrivateEndpointConnections|question, Event Hubs, Mgmt, customer-reported, needs-author-feedback|lirenhe||2024-04-10|
 |2|[#22606](https://github.com/Azure/azure-sdk-for-go/issues/22606)|PublicNetworkAccess property for SQL Server is turning out to be null|question, SQL, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2024-03-18|
 |3|[#22599](https://github.com/Azure/azure-sdk-for-go/issues/22599)|Allow armcostmanagement's queries to group by RegionId|question, Service Attention, Mgmt, customer-reported, needs-author-feedback, no-recent-activity, Cost Management - Query|Alancere||2024-03-15|
 |4|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|bug, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-03-08|
