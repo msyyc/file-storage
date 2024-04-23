@@ -18,6 +18,7 @@
 | 16 | 'Release for Data Factory 2018-06-01'  |  | [#5099](https://github.com/Azure/sdk-release-request/issues/5099)  |  | [#5101](https://github.com/Azure/sdk-release-request/issues/5101)  | 04-01 | 04-26 |  |
 | 17 | 'Release for Container Service - 2024-02-02-preview'  |  | [#5092](https://github.com/Azure/sdk-release-request/issues/5092)  |  | [#5091](https://github.com/Azure/sdk-release-request/issues/5091)  | 03-27 | 04-26 |  |
 | 18 | 'Release for Container Service - 2024-02-01'  |  | [#5079](https://github.com/Azure/sdk-release-request/issues/5079)  |  | [#5080](https://github.com/Azure/sdk-release-request/issues/5080)  | 03-25 | 04-26 | Hold on by JS/ |
-| 19 | 'Release of Confidential Ledger package-preview-2023-06'  |  |  |  | [#5115](https://github.com/Azure/sdk-release-request/issues/5115)  | 04-08 | 04-26 |  |
-| 20 | 'Release for Microsoft.HealthcareApis 2024-03-31'  |  |  |  | [#5078](https://github.com/Azure/sdk-release-request/issues/5078)  | 03-22 | 04-26 |  |
-| 21 | 'Release for PostgreSQL flexible servers - 2023-12-01-preview'  |  |  |  | [#5045](https://github.com/Azure/sdk-release-request/issues/5045)  | 03-15 | 04-26 |  |
+| 19 | 'Release for Guest Configuration with 2022-01-25'  |  |  |  | [#5141](https://github.com/Azure/sdk-release-request/issues/5141)  | 04-23 | 05-24 |  |
+| 20 | 'Release of Confidential Ledger package-preview-2023-06'  |  |  |  | [#5115](https://github.com/Azure/sdk-release-request/issues/5115)  | 04-08 | 04-26 |  |
+| 21 | 'Release for Microsoft.HealthcareApis 2024-03-31'  |  |  |  | [#5078](https://github.com/Azure/sdk-release-request/issues/5078)  | 03-22 | 04-26 |  |
+| 22 | 'Release for PostgreSQL flexible servers - 2023-12-01-preview'  |  |  |  | [#5045](https://github.com/Azure/sdk-release-request/issues/5045)  | 03-15 | 04-26 |  |
