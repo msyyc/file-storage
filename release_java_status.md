@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5150](https://github.com/Azure/sdk-release-request/issues/5150) | xiaoxuqi-ms |  | XiaofeiCao | new issue. | 04-24 | 05-24 |  |
-| 2 | [#5148](https://github.com/Azure/sdk-release-request/issues/5148) | zman-ms |  | weidongxu-microsoft | new issue. | 04-24 | 05-24 |  |
-| 3 | [#5145](https://github.com/Azure/sdk-release-request/issues/5145) | rebecca337 |  | weidongxu-microsoft |  | 04-23 | 05-24 |  |
+| 1 | [#5150](https://github.com/Azure/sdk-release-request/issues/5150) | xiaoxuqi-ms |  | weidongxu-microsoft | new issue. | 04-24 | 05-24 |  |
+| 2 | [#5148](https://github.com/Azure/sdk-release-request/issues/5148) | zman-ms |  | haolingdong-msft | new issue. | 04-24 | 05-24 |  |
+| 3 | [#5145](https://github.com/Azure/sdk-release-request/issues/5145) | rebecca337 |  | haolingdong-msft |  | 04-23 | 05-24 |  |
 | 4 | [#5139](https://github.com/Azure/sdk-release-request/issues/5139) | oolaoluwa |  | XiaofeiCao | Attention to inconsistent tag. TypeSpec. | 04-16 | 05-24 |  |
 | 5 | [#5135](https://github.com/Azure/sdk-release-request/issues/5135) | zubairabid |  | haolingdong-msft | new comment. Attention to inconsistent tag. | 04-12 | 05-24 |  |
 | 6 | [#5129](https://github.com/Azure/sdk-release-request/issues/5129) | zubairabid |  | weidongxu-microsoft | Attention to inconsistent tag. | 04-12 | 05-24 |  |
