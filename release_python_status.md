@@ -3,7 +3,7 @@
 | 1 | [#5152](https://github.com/Azure/sdk-release-request/issues/5152) | xiaoxuqi-ms |  | ChenxiJiang333 | duplicated issue  <br> | 04-24 |  | 0 |
 | 2 | [#5147](https://github.com/Azure/sdk-release-request/issues/5147) | zman-ms |  | ChenxiJiang333 | duplicated issue  <br> | 04-24 |  | 0 |
 | 3 | [#5143](https://github.com/Azure/sdk-release-request/issues/5143) | rebecca337 |  | ChenxiJiang333 | duplicated issue  <br> | 04-23 |  | 0 |
-| 4 | [#5140](https://github.com/Azure/sdk-release-request/issues/5140) | oolaoluwa | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | new comment. Attention to inconsistent tag. HoldOn. | 04-16 | 05-24 |  |
+| 4 | [#5140](https://github.com/Azure/sdk-release-request/issues/5140) | oolaoluwa | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | Attention to inconsistent tag. FirstBeta. | 04-16 | 05-24 |  |
 | 5 | [#5124](https://github.com/Azure/sdk-release-request/issues/5124) | rahuls-microsoft | azure-mgmt-quota | ChenxiJiang333 | close to release date. | 04-11 | 04-26 | 1 |
 | 6 | [#5123](https://github.com/Azure/sdk-release-request/issues/5123) | raghumunukutla | azure-mgmt-support | ChenxiJiang333 | close to release date. | 04-11 | 04-26 | 1 |
 | 7 | [#5111](https://github.com/Azure/sdk-release-request/issues/5111) | siddiavinashmsft | azure-mgmt-selfhelp | ChenxiJiang333 | close to release date. | 04-04 | 04-26 | 1 |

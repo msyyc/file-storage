@@ -3,7 +3,7 @@
 | 1 | [#5153](https://github.com/Azure/sdk-release-request/issues/5153) | xiaoxuqi-ms |  | Alancere | new issue. | 04-24 | 05-24 |  |
 | 2 | [#5149](https://github.com/Azure/sdk-release-request/issues/5149) | zman-ms |  | Alancere | new issue. | 04-24 | 05-24 |  |
 | 3 | [#5142](https://github.com/Azure/sdk-release-request/issues/5142) | rebecca337 |  | Alancere | new issue. | 04-23 | 05-24 |  |
-| 4 | [#5137](https://github.com/Azure/sdk-release-request/issues/5137) | oolaoluwa |  | Alancere | new comment. Attention to inconsistent tag. | 04-16 | 05-24 |  |
+| 4 | [#5137](https://github.com/Azure/sdk-release-request/issues/5137) | oolaoluwa |  | Alancere | new comment. | 04-16 | 05-24 |  |
 | 5 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere | new comment. | 04-12 | 05-24 |  |
 | 6 | [#5130](https://github.com/Azure/sdk-release-request/issues/5130) | zubairabid |  | Alancere | new comment. | 04-12 | 05-24 |  |
 | 7 | [#5099](https://github.com/Azure/sdk-release-request/issues/5099) | ruowan |  | Alancere | multi readme link! close to release date. | 04-01 | 04-26 | 1 |
