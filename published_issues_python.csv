@@ -1,4 +1,11 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-hybridcompute,yaotongms,ChenxiJiang333,2024-03-13,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5041,9.0.0b2,
+azure-mgmt-standbypool,bxubxu,ChenxiJiang333,2024-03-18,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5054,1.0.0b1,
+azure-mgmt-devcenter,nickdepinet,ChenxiJiang333,2024-04-01,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5102,1.1.0,True
+azure-mgmt-deviceregistry,davidemontanari,ChenxiJiang333,2024-04-03,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5109,1.0.0b1,
+azure-mgmt-selfhelp,siddiavinashmsft,ChenxiJiang333,2024-04-04,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5111,2.0.0b3,
+azure-mgmt-support,raghumunukutla,ChenxiJiang333,2024-04-11,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5123,7.0.0,True
+azure-mgmt-quota,rahuls-microsoft,ChenxiJiang333,2024-04-11,2024-04-24,https://github.com/Azure/sdk-release-request/issues/5124,2.0.0b1,
 azure-mgmt-recoveryservicesbackup,zubairabid,ChenxiJiang333,2024-04-12,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5134,9.1.0,True
 azure-mgmt-rdbms,xiaoxuqi-ms,ChenxiJiang333,2024-03-19,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5058,10.2.0b16,
 azure-mgmt-rdbms,ambrahma,ChenxiJiang333,2024-03-15,2024-04-22,https://github.com/Azure/sdk-release-request/issues/5046,10.2.0b16,
