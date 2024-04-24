@@ -4,7 +4,7 @@
 | 2 | [#5151](https://github.com/Azure/sdk-release-request/issues/5151) | xiaoxuqi-ms |  | qiaozha | new issue. | 04-24 | 05-24 |  |
 | 3 | [#5146](https://github.com/Azure/sdk-release-request/issues/5146) | zman-ms |  | qiaozha | new issue. | 04-24 | 05-24 |  |
 | 4 | [#5144](https://github.com/Azure/sdk-release-request/issues/5144) | rebecca337 |  | qiaozha | new issue. | 04-23 | 05-24 |  |
-| 5 | [#5141](https://github.com/Azure/sdk-release-request/issues/5141) | kazrael2119 |  | qiaozha | new issue. | 04-23 | 05-24 |  |
+| 5 | [#5141](https://github.com/Azure/sdk-release-request/issues/5141) | kazrael2119 |  | qiaozha | Attention to inconsistent tag. | 04-23 | 05-24 |  |
 | 6 | [#5138](https://github.com/Azure/sdk-release-request/issues/5138) | oolaoluwa |  | MaryGao | new comment. Attention to inconsistent tag. | 04-16 | 05-24 |  |
 | 7 | [#5133](https://github.com/Azure/sdk-release-request/issues/5133) | zubairabid |  | qiaozha | new comment. Attention to inconsistent tag. | 04-12 | 05-24 |  |
 | 8 | [#5131](https://github.com/Azure/sdk-release-request/issues/5131) | zubairabid |  | qiaozha | new comment. Attention to inconsistent tag. | 04-12 | 05-24 |  |
