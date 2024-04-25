@@ -22,7 +22,7 @@
 | 20 | 'Release for Microsoft.DeviceRegistry - 2023-11-01-preview'  |  |  |  | [#5108](https://github.com/Azure/sdk-release-request/issues/5108)  | 04-03 | 04-26 |  |
 | 21 | 'Release for Microsoft.DevCenter - 2024-02-01'  |  |  |  | [#5103](https://github.com/Azure/sdk-release-request/issues/5103)  | 04-01 | 04-26 |  |
 | 22 | 'Release for Data Factory 2018-06-01'  |  |  |  | [#5101](https://github.com/Azure/sdk-release-request/issues/5101)  | 04-01 | 04-26 |  |
-| 23 | 'Release for Container Service - 2024-02-01'  |  |  |  | [#5080](https://github.com/Azure/sdk-release-request/issues/5080)  | 03-25 | 04-26 | Hold on by JS/ |
+| 23 | 'Release for Container Service - 2024-02-01'  |  |  |  | [#5080](https://github.com/Azure/sdk-release-request/issues/5080)  | 03-25 | 04-26 |  |
 | 24 | 'Release for Microsoft.HealthcareApis 2024-03-31'  |  |  |  | [#5078](https://github.com/Azure/sdk-release-request/issues/5078)  | 03-22 | 04-26 |  |
 | 25 | 'Release Compute 2024-03-01'  |  |  |  | [#5069](https://github.com/Azure/sdk-release-request/issues/5069)  | 03-21 | 04-26 |  |
 | 26 | 'Release for Standby Pool - 2023-12-01-preview'  |  |  |  | [#5055](https://github.com/Azure/sdk-release-request/issues/5055)  | 03-18 | 04-26 |  |
