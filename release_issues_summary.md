@@ -25,6 +25,5 @@
 | 23 | 'Release for Container Service - 2024-02-01'  |  |  |  | [#5080](https://github.com/Azure/sdk-release-request/issues/5080)  | 03-25 | 04-26 |  |
 | 24 | 'Release for Microsoft.HealthcareApis 2024-03-31'  |  |  |  | [#5078](https://github.com/Azure/sdk-release-request/issues/5078)  | 03-22 | 04-26 |  |
 | 25 | 'Release Compute 2024-03-01'  |  |  |  | [#5069](https://github.com/Azure/sdk-release-request/issues/5069)  | 03-21 | 04-26 |  |
-| 26 | 'Release for Standby Pool - 2023-12-01-preview'  |  |  |  | [#5055](https://github.com/Azure/sdk-release-request/issues/5055)  | 03-18 | 04-26 |  |
-| 27 | 'Release for PostgreSQL flexible servers - 2023-12-01-preview'  |  |  |  | [#5045](https://github.com/Azure/sdk-release-request/issues/5045)  | 03-15 | 04-26 |  |
-| 28 | 'Release for Hybrid Compute - 2023-10-03-preview'  |  |  |  | [#5043](https://github.com/Azure/sdk-release-request/issues/5043)  | 03-13 | 04-26 |  |
+| 26 | 'Release for PostgreSQL flexible servers - 2023-12-01-preview'  |  |  |  | [#5045](https://github.com/Azure/sdk-release-request/issues/5045)  | 03-15 | 04-26 |  |
+| 27 | 'Release for Hybrid Compute - 2023-10-03-preview'  |  |  |  | [#5043](https://github.com/Azure/sdk-release-request/issues/5043)  | 03-13 | 04-26 |  |
