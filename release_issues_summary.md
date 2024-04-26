@@ -15,9 +15,6 @@
 | 13 | 'Release for RecoveryServices - 2024-04-01'  |  | [#5130](https://github.com/Azure/sdk-release-request/issues/5130)  | [#5129](https://github.com/Azure/sdk-release-request/issues/5129)  | [#5131](https://github.com/Azure/sdk-release-request/issues/5131)  | 04-12 | 05-24 |  |
 | 14 | 'Release for Guest Configuration with 2022-01-25'  |  |  |  | [#5141](https://github.com/Azure/sdk-release-request/issues/5141)  | 04-23 | 05-24 |  |
 | 15 | 'Release for Help Rp 2024-03-01-Preview version'  |  |  |  | [#5110](https://github.com/Azure/sdk-release-request/issues/5110)  | 04-04 | 04-26 |  |
-| 16 | 'Release for Microsoft.DeviceRegistry - 2023-11-01-preview'  |  |  |  | [#5108](https://github.com/Azure/sdk-release-request/issues/5108)  | 04-03 | 04-26 |  |
-| 17 | 'Release for Microsoft.DevCenter - 2024-02-01'  |  |  |  | [#5103](https://github.com/Azure/sdk-release-request/issues/5103)  | 04-01 | 04-26 |  |
-| 18 | 'Release for Data Factory 2018-06-01'  |  |  |  | [#5101](https://github.com/Azure/sdk-release-request/issues/5101)  | 04-01 | 04-26 |  |
-| 19 | 'Release for Container Service - 2024-02-01'  |  |  |  | [#5080](https://github.com/Azure/sdk-release-request/issues/5080)  | 03-25 | 04-26 |  |
-| 20 | 'Release for Microsoft.HealthcareApis 2024-03-31'  |  |  |  | [#5078](https://github.com/Azure/sdk-release-request/issues/5078)  | 03-22 | 04-26 |  |
-| 21 | 'Release Compute 2024-03-01'  |  |  |  | [#5069](https://github.com/Azure/sdk-release-request/issues/5069)  | 03-21 | 04-26 |  |
+| 16 | 'Release for Data Factory 2018-06-01'  |  |  |  | [#5101](https://github.com/Azure/sdk-release-request/issues/5101)  | 04-01 | 04-26 |  |
+| 17 | 'Release for Container Service - 2024-02-01'  |  |  |  | [#5080](https://github.com/Azure/sdk-release-request/issues/5080)  | 03-25 | 04-26 |  |
+| 18 | 'Release Compute 2024-03-01'  |  |  |  | [#5069](https://github.com/Azure/sdk-release-request/issues/5069)  | 03-21 | 04-26 |  |
