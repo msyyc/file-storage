@@ -14,4 +14,3 @@
 | 12 | 'Release for RecoveryServicesBackup 2024-04-01'  |  | [#5132](https://github.com/Azure/sdk-release-request/issues/5132)  | [#5135](https://github.com/Azure/sdk-release-request/issues/5135)  | [#5133](https://github.com/Azure/sdk-release-request/issues/5133)  | 04-12 | 05-24 |  |
 | 13 | 'Release for RecoveryServices - 2024-04-01'  |  | [#5130](https://github.com/Azure/sdk-release-request/issues/5130)  | [#5129](https://github.com/Azure/sdk-release-request/issues/5129)  | [#5131](https://github.com/Azure/sdk-release-request/issues/5131)  | 04-12 | 05-24 |  |
 | 14 | 'Release for Guest Configuration with 2022-01-25'  |  |  |  | [#5141](https://github.com/Azure/sdk-release-request/issues/5141)  | 04-23 | 05-24 |  |
-| 15 | 'Release for Help Rp 2024-03-01-Preview version'  |  |  |  | [#5110](https://github.com/Azure/sdk-release-request/issues/5110)  | 04-04 | 04-26 |  |
