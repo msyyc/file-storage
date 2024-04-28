@@ -10,6 +10,6 @@
 | 8 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere | new comment. | 04-12 | 05-24 |  |
 | 9 | [#5130](https://github.com/Azure/sdk-release-request/issues/5130) | zubairabid |  | Alancere | new comment. | 04-12 | 05-24 |  |
 | 10 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. | 03-22 | 05-24 |  |
-| 11 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere | close to release date. HoldOn. | 03-20 | 04-26 | -1 |
-| 12 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere | new comment. close to release date. | 01-18 | 04-26 | -1 |
+| 11 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere | close to release date. HoldOn. | 03-20 | 04-26 | -2 |
+| 12 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere | new comment. close to release date. | 01-18 | 04-26 | -2 |
 | 13 | [#4679](https://github.com/Azure/sdk-release-request/issues/4679) | hsurana06 |  |  |  | 10-23 |  | 0 |
