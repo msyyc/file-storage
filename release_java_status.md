@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5164](https://github.com/Azure/sdk-release-request/issues/5164) | mohitagarwal-sql |  | v-hongli1 | new issue. | 04-24 | 05-24 |  |
 | 2 | [#5158](https://github.com/Azure/sdk-release-request/issues/5158) | rbandi124 |  | v-hongli1 | Attention to inconsistent tag. | 04-24 | 05-24 |  |
-| 3 | [#5150](https://github.com/Azure/sdk-release-request/issues/5150) | xiaoxuqi-ms |  | XiaofeiCao | new issue. | 04-24 | 05-24 |  |
+| 3 | [#5150](https://github.com/Azure/sdk-release-request/issues/5150) | xiaoxuqi-ms |  | weidongxu-microsoft |  | 04-24 | 05-24 |  |
 | 4 | [#5148](https://github.com/Azure/sdk-release-request/issues/5148) | zman-ms |  | v-hongli1 | new issue. | 04-24 | 05-24 |  |
 | 5 | [#5145](https://github.com/Azure/sdk-release-request/issues/5145) | rebecca337 |  | haolingdong-msft | new comment. | 04-23 | 05-24 |  |
 | 6 | [#5139](https://github.com/Azure/sdk-release-request/issues/5139) | oolaoluwa |  | XiaofeiCao | Attention to inconsistent tag. TypeSpec. | 04-16 | 05-24 |  |
