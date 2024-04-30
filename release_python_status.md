@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5169](https://github.com/Azure/sdk-release-request/issues/5169) | audunn | azure-mgmt-netapp | ChenxiJiang333 | new issue. | 04-29 | 05-24 |  |
+| 1 | [#5169](https://github.com/Azure/sdk-release-request/issues/5169) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-29 | 05-24 |  |
 | 2 | [#5162](https://github.com/Azure/sdk-release-request/issues/5162) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | HoldOn. new version is 0.0.0, please check base branch! | 04-24 | 05-24 |  |
 | 3 | [#5161](https://github.com/Azure/sdk-release-request/issues/5161) | rbandi124 | azure-mgmt-maintenance | ChenxiJiang333 |  | 04-24 | 05-24 |  |
 | 4 | [#5147](https://github.com/Azure/sdk-release-request/issues/5147) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 04-24 | 05-24 |  |
