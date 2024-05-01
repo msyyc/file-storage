@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | Attention to inconsistent tag. | 04-30 | 05-24 |  |
-| 2 | [#5173](https://github.com/Azure/sdk-release-request/issues/5173) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> new issue. | 04-30 | 05-24 |  |
+| 2 | [#5173](https://github.com/Azure/sdk-release-request/issues/5173) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> | 04-30 | 05-24 |  |
 | 3 | [#5169](https://github.com/Azure/sdk-release-request/issues/5169) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-29 | 05-24 |  |
 | 4 | [#5162](https://github.com/Azure/sdk-release-request/issues/5162) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> HoldOn. new version is 0.0.0, please check base branch! | 04-24 | 05-24 |  |
 | 5 | [#5161](https://github.com/Azure/sdk-release-request/issues/5161) | rbandi124 | azure-mgmt-maintenance | ChenxiJiang333 |  | 04-24 | 05-24 |  |
