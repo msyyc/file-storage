@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc|new comment|2024-04-25|
+|1|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft|new comment|2024-04-25|
 |2|[#35241](https://github.com/Azure/azure-sdk-for-python/issues/35241)|Parameters/Variables do not have descriptions|question, Mgmt, customer-reported, needs-team-attention, CognitiveServices|msyyc|no reply > 7|2024-04-17|
 |3|[#35202](https://github.com/Azure/azure-sdk-for-python/issues/35202)|Trying to get my WAF mode (and more if possible) with the Python Azure SDK|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2024-04-15|
 |4|[#34982](https://github.com/Azure/azure-sdk-for-python/issues/34982)|Not able to get the restore point collection  got exception get() takes 3 positional arguments but 4 were given|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-28|
@@ -14,4 +14,4 @@
 |12|[#29574](https://github.com/Azure/azure-sdk-for-python/issues/29574)|web_apps.create_or_update_function_secret ommits required request property Properties|bug, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|msyyc|new comment|2023-03-24|
 |13|[#28911](https://github.com/Azure/azure-sdk-for-python/issues/28911)|Unable to filter by multiple provisioningState on deployment list|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|new comment|2023-02-20|
 |14|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|new comment|2022-06-07|
-|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
+|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, lmazuel, iscai-msft|new comment|2021-04-05|
