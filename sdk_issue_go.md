@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#22813](https://github.com/Azure/azure-sdk-for-go/issues/22813)|[arm/network] Deletion of specific load balancing rules|question, Network - Load Balancer, Mgmt, customer-reported, needs-team-attention|lirenhe|new issue|2024-05-01|
-|2|[#22786](https://github.com/Azure/azure-sdk-for-go/issues/22786)|Upgrade armconsumption to version 2023-05-01|Service Attention, Mgmt, customer-reported, needs-author-feedback, feature-request|lirenhe||2024-04-26|
+|2|[#22786](https://github.com/Azure/azure-sdk-for-go/issues/22786)|Upgrade armconsumption to version 2023-05-01|Service Attention, Mgmt, customer-reported, needs-author-feedback, feature-request, no-recent-activity|lirenhe||2024-04-26|
 |3|[#22736](https://github.com/Azure/azure-sdk-for-go/issues/22736)|armeventhub namespaces client list pager responses have nil PrivateEndpointConnections|question, Event Hubs, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-04-10|
 |4|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|bug, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-03-08|
 |5|[#22464](https://github.com/Azure/azure-sdk-for-go/issues/22464)|ListTenants returns nil for DisplayName & Domains instead of its actual values|question, Service Attention, Mgmt, customer-reported, Subscription, needs-team-attention|Alancere|new comment|2024-02-27|
