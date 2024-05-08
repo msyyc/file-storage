@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resource,azure-sdk,ChenxiJiang333,2024-05-02,2024-05-08,https://github.com/Azure/sdk-release-request/issues/5182,23.1.1,True
 azure-mgmt-resource,azure-sdk,ChenxiJiang333,2024-05-02,2024-05-06,https://github.com/Azure/sdk-release-request/issues/5182,23.1.0,True
 azure-mgmt-eventgrid,a-hamad,ChenxiJiang333,2024-04-24,2024-04-29,https://github.com/Azure/sdk-release-request/issues/5155,10.3.0b4,
 azure-mgmt-compute,haagha,ChenxiJiang333,2024-03-21,2024-04-25,https://github.com/Azure/sdk-release-request/issues/5068,31.0.0,True
