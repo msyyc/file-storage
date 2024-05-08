@@ -10,7 +10,7 @@
 | 8 | [#5144](https://github.com/Azure/sdk-release-request/issues/5144) | rebecca337 |  | qiaozha | new issue. | 04-23 | 05-24 |  |
 | 9 | [#5138](https://github.com/Azure/sdk-release-request/issues/5138) | oolaoluwa |  | MaryGao | new comment. | 04-16 | 05-24 |  |
 | 10 | [#5133](https://github.com/Azure/sdk-release-request/issues/5133) | zubairabid |  | qiaozha | new comment. Attention to inconsistent tag. | 04-12 | 05-24 |  |
-| 11 | [#5131](https://github.com/Azure/sdk-release-request/issues/5131) | zubairabid |  | qiaozha | new comment. Attention to inconsistent tag. | 04-12 | 05-24 |  |
+| 11 | [#5131](https://github.com/Azure/sdk-release-request/issues/5131) | zubairabid |  | qiaozha | Attention to inconsistent tag. | 04-12 | 05-24 |  |
 | 12 | [#5072](https://github.com/Azure/sdk-release-request/issues/5072) | jasonurban1 |  | MaryGao | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
 | 13 | [#5065](https://github.com/Azure/sdk-release-request/issues/5065) | alluri02 |  | MaryGao | HoldOn. | 03-20 | 04-26 |  |
 | 14 | [#4897](https://github.com/Azure/sdk-release-request/issues/4897) | eliagrady |  | qiaozha | Attention to inconsistent tag. HoldOn. | 01-18 | 04-26 |  |
