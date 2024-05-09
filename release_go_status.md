@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | new issue. | 05-08 | 05-24 |  |
+| 1 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere |  | 05-08 | 05-24 |  |
 | 2 | [#5175](https://github.com/Azure/sdk-release-request/issues/5175) | dmonroym |  | Alancere |  | 04-30 | 05-24 |  |
 | 3 | [#5172](https://github.com/Azure/sdk-release-request/issues/5172) | mohitagarwal-sql |  | Alancere |  | 04-30 | 05-24 |  |
 | 4 | [#5167](https://github.com/Azure/sdk-release-request/issues/5167) | audunn |  | Alancere |  | 04-29 | 05-24 |  |

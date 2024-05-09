@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | new issue. | 05-08 | 05-24 |  |
+| 1 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 |  | 05-08 | 05-24 |  |
 | 2 | [#5183](https://github.com/Azure/sdk-release-request/issues/5183) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 | close to release date. | 05-07 | 05-08 | -1 |
 | 3 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-30 | 05-24 |  |
 | 4 | [#5173](https://github.com/Azure/sdk-release-request/issues/5173) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 04-30 | 05-24 |  |
