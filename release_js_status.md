@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5198](https://github.com/Azure/sdk-release-request/issues/5198) | azure-sdk |  | qiaozha |  | 05-09 | 05-24 |  |
-| 2 | [#5194](https://github.com/Azure/sdk-release-request/issues/5194) | azure-sdk |  | qiaozha | Attention to inconsistent tag. | 05-09 | fail to get. |  |
+| 2 | [#5194](https://github.com/Azure/sdk-release-request/issues/5194) | azure-sdk |  | qiaozha | new comment. Attention to inconsistent tag. | 05-09 | fail to get. |  |
 | 3 | [#5190](https://github.com/Azure/sdk-release-request/issues/5190) | azure-sdk |  | qiaozha | new issue. | 05-08 | 05-24 |  |
 | 4 | [#5176](https://github.com/Azure/sdk-release-request/issues/5176) | dmonroym |  | MaryGao | Attention to inconsistent tag. | 04-30 | 05-24 |  |
 | 5 | [#5170](https://github.com/Azure/sdk-release-request/issues/5170) | mohitagarwal-sql |  | MaryGao | new issue. | 04-30 | 05-24 |  |
