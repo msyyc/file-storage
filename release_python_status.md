@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5199](https://github.com/Azure/sdk-release-request/issues/5199) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 | new issue. | 05-09 | 05-24 |  |
+| 1 | [#5199](https://github.com/Azure/sdk-release-request/issues/5199) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 |  | 05-09 | 05-24 |  |
 | 2 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | Attention to inconsistent tag. | 05-09 | fail to get. |  |
 | 3 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | HoldOn. | 05-08 | 05-24 |  |
 | 4 | [#5183](https://github.com/Azure/sdk-release-request/issues/5183) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 |  | 05-07 | 05-24 |  |
