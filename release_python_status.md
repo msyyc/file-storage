@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5199](https://github.com/Azure/sdk-release-request/issues/5199) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 |  | 05-09 | 05-24 |  |
-| 2 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new comment. FirstBeta. | 05-09 | fail to get. |  |
+| 2 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | FirstBeta. | 05-09 | fail to get. |  |
 | 3 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | HoldOn. | 05-08 | 05-24 |  |
 | 4 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | HoldOn. | 04-30 | 05-24 |  |
 | 5 | [#5173](https://github.com/Azure/sdk-release-request/issues/5173) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 04-30 | 05-24 |  |
