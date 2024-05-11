@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#35573](https://github.com/Azure/azure-sdk-for-python/issues/35573)|How to assign Storage Blob Data Owner role to a user of a storage account|Storage, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, ChenxiJiang333||2024-05-10|
 |2|[#35532](https://github.com/Azure/azure-sdk-for-python/issues/35532)|While using "begin_create_or_update" getting error related to location property|question, Compute, Mgmt, customer-reported, issue-addressed|msyyc||2024-05-08|
-|3|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc||2024-04-25|
+|3|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft||2024-04-25|
 |4|[#35241](https://github.com/Azure/azure-sdk-for-python/issues/35241)|Parameters/Variables do not have descriptions|question, Mgmt, customer-reported, needs-team-attention, CognitiveServices|msyyc|no reply > 7|2024-04-17|
 |5|[#35202](https://github.com/Azure/azure-sdk-for-python/issues/35202)|Trying to get my WAF mode (and more if possible) with the Python Azure SDK|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-04-15|
 |6|[#34982](https://github.com/Azure/azure-sdk-for-python/issues/34982)|Not able to get the restore point collection  got exception get() takes 3 positional arguments but 4 were given|question, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-03-28|
