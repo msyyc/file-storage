@@ -1,9 +1,9 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#40144](https://github.com/Azure/azure-sdk-for-java/issues/40144)|[FEATURE REQ] mgmt, Java SDK PolicyDefinition - Mode and Metadata|Mgmt, Policy|weidongxu-microsoft||2024-05-14|
-|2|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
+|2|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-author-feedback|weidongxu-microsoft||2024-05-08|
 |3|[#40055](https://github.com/Azure/azure-sdk-for-java/issues/40055)|Connection reset by peer|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft, XiaofeiCao||2024-05-06|
-|4|[#40001](https://github.com/Azure/azure-sdk-for-java/issues/40001)|Unexpected character ('<' (code 60))|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-02|
+|4|[#40001](https://github.com/Azure/azure-sdk-for-java/issues/40001)|Unexpected character ('<' (code 60))|question, ARM, Mgmt, customer-reported, needs-author-feedback|weidongxu-microsoft||2024-05-02|
 |5|[#39947](https://github.com/Azure/azure-sdk-for-java/issues/39947)|[FEATURE REQ] mgmt appplatform, support artifact blob upload|Mgmt|XiaofeiCao||2024-04-28|
 |6|[#39932](https://github.com/Azure/azure-sdk-for-java/issues/39932)|[BUG] Region class missing "Israel Central" region which is supported azure geographic region|Mgmt, customer-reported, feature-request|weidongxu-microsoft, XiaofeiCao||2024-04-26|
 |7|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
@@ -17,7 +17,7 @@
 |15|[#38985](https://github.com/Azure/azure-sdk-for-java/issues/38985)|[FEATURE REQ] eng, move SDK automation out of eng/mgmt folder|Mgmt, EngSys, DPG|XiaofeiCao||2024-02-28|
 |16|[#38806](https://github.com/Azure/azure-sdk-for-java/issues/38806)|[FEATURE REQ] DeleteOptions on Public Ip Address|ARM, Mgmt, customer-reported, feature-request, needs-team-attention|XiaofeiCao||2024-02-16|
 |17|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2, needs-triage|XiaofeiCao||2024-02-06|
-|18|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
+|18|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
 |19|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |20|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
 |21|[#37721](https://github.com/Azure/azure-sdk-for-java/issues/37721)|[FEATURE REQ] Need support for updating MinimumTLSversion of EventHubnamespace using azure-resourcemanager-eventhubs|Event Hubs, Mgmt, needs-team-attention|v-hongli1, XiaofeiCao||2023-11-17|
