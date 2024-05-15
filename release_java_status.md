@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5209](https://github.com/Azure/sdk-release-request/issues/5209) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 05-15 | 06-21 |  |
-| 2 | [#5205](https://github.com/Azure/sdk-release-request/issues/5205) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 05-15 | 06-21 |  |
+| 1 | [#5209](https://github.com/Azure/sdk-release-request/issues/5209) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 05-15 | 06-21 |  |
+| 2 | [#5205](https://github.com/Azure/sdk-release-request/issues/5205) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 05-15 | 06-21 |  |
 | 3 | [#5201](https://github.com/Azure/sdk-release-request/issues/5201) | azure-sdk |  | v-hongli1 | new issue. new comment. | 05-14 | 06-21 |  |
 | 4 | [#5197](https://github.com/Azure/sdk-release-request/issues/5197) | azure-sdk |  | weidongxu-microsoft | new issue. | 05-09 | 05-24 |  |
 | 5 | [#5193](https://github.com/Azure/sdk-release-request/issues/5193) | azure-sdk |  | haolingdong-msft | new comment. Attention to inconsistent tag. TypeSpec. | 05-09 | fail to get. |  |
