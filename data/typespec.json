@@ -1,5 +1,5 @@
 {
-  "python": ["azure-mgmt-deviceregistry"],
+  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure"],
   "js": [],
   "go": [],
   "java": [] 
