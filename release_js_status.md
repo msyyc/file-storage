@@ -3,7 +3,7 @@
 | 1 | [#5210](https://github.com/Azure/sdk-release-request/issues/5210) | azure-sdk |  | MaryGao | Attention to inconsistent tag. | 05-15 | 06-21 |  |
 | 2 | [#5206](https://github.com/Azure/sdk-release-request/issues/5206) | azure-sdk |  | MaryGao | Attention to inconsistent tag. | 05-15 | 06-21 |  |
 | 3 | [#5202](https://github.com/Azure/sdk-release-request/issues/5202) | azure-sdk |  | MaryGao | new issue. | 05-14 | 06-21 |  |
-| 4 | [#5194](https://github.com/Azure/sdk-release-request/issues/5194) | azure-sdk |  | qiaozha | new comment. Attention to inconsistent tag. FirstBeta. | 05-09 | fail to get. |  |
+| 4 | [#5194](https://github.com/Azure/sdk-release-request/issues/5194) | azure-sdk |  | qiaozha | Attention to inconsistent tag. FirstBeta. | 05-09 | fail to get. |  |
 | 5 | [#5190](https://github.com/Azure/sdk-release-request/issues/5190) | azure-sdk |  | qiaozha |  | 05-08 | 05-24 |  |
 | 6 | [#5176](https://github.com/Azure/sdk-release-request/issues/5176) | dmonroym |  | MaryGao | Attention to inconsistent tag. HoldOn. | 04-30 | 05-24 |  |
 | 7 | [#5170](https://github.com/Azure/sdk-release-request/issues/5170) | mohitagarwal-sql |  | MaryGao | HoldOn. | 04-30 | 05-24 |  |
