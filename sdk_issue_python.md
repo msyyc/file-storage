@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#35598](https://github.com/Azure/azure-sdk-for-python/issues/35598)|azure vm password reset using python|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc||2024-05-13|
-|2|[#35573](https://github.com/Azure/azure-sdk-for-python/issues/35573)|How to assign Storage Blob Data Owner role to a user of a storage account|Storage, question, Service Attention, Mgmt, customer-reported, issue-addressed|msyyc, ChenxiJiang333||2024-05-10|
+|2|[#35573](https://github.com/Azure/azure-sdk-for-python/issues/35573)|How to assign Storage Blob Data Owner role to a user of a storage account|Storage, question, Service Attention, Mgmt, customer-reported, issue-addressed|ChenxiJiang333, msyyc||2024-05-10|
 |3|[#35532](https://github.com/Azure/azure-sdk-for-python/issues/35532)|While using "begin_create_or_update" getting error related to location property|question, Compute, Mgmt, customer-reported, issue-addressed|msyyc||2024-05-08|
 |4|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft|no reply > 7|2024-04-25|
 |5|[#35241](https://github.com/Azure/azure-sdk-for-python/issues/35241)|Parameters/Variables do not have descriptions|question, Mgmt, customer-reported, needs-team-attention, CognitiveServices|msyyc|no reply > 7|2024-04-17|
@@ -16,5 +16,5 @@
 |14|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
 |15|[#29574](https://github.com/Azure/azure-sdk-for-python/issues/29574)|web_apps.create_or_update_function_secret ommits required request property Properties|bug, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|msyyc|new comment|2023-03-24|
 |16|[#28911](https://github.com/Azure/azure-sdk-for-python/issues/28911)|Unable to filter by multiple provisioningState on deployment list|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|new comment|2023-02-20|
-|17|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|msyyc, BigCat20196|new comment|2022-06-07|
-|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
+|17|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|new comment|2022-06-07|
+|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc, iscai-msft|new comment|2021-04-05|
