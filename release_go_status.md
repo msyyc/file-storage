@@ -10,7 +10,7 @@
 | 8 | [#5172](https://github.com/Azure/sdk-release-request/issues/5172) | mohitagarwal-sql |  | Alancere |  | 04-30 | 05-24 |  |
 | 9 | [#5167](https://github.com/Azure/sdk-release-request/issues/5167) | audunn |  | Alancere | new comment. | 04-29 | 05-24 |  |
 | 10 | [#5159](https://github.com/Azure/sdk-release-request/issues/5159) | rbandi124 |  | Alancere |  | 04-24 | 05-24 |  |
-| 11 | [#5149](https://github.com/Azure/sdk-release-request/issues/5149) | zman-ms |  | Alancere | HoldOn. | 04-24 | 05-24 |  |
+| 11 | [#5149](https://github.com/Azure/sdk-release-request/issues/5149) | zman-ms |  | Alancere |  | 04-24 | 05-24 |  |
 | 12 | [#5142](https://github.com/Azure/sdk-release-request/issues/5142) | rebecca337 |  | Alancere |  | 04-23 | 05-24 |  |
 | 13 | [#5137](https://github.com/Azure/sdk-release-request/issues/5137) | oolaoluwa |  | Alancere | FirstBeta. | 04-16 | 05-24 |  |
 | 14 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
