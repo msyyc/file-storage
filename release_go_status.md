@@ -4,7 +4,7 @@
 | 2 | [#5204](https://github.com/Azure/sdk-release-request/issues/5204) | azure-sdk |  | Alancere | Attention to inconsistent tag. | 05-15 | 06-21 |  |
 | 3 | [#5200](https://github.com/Azure/sdk-release-request/issues/5200) | azure-sdk |  | Alancere | new issue. | 05-14 | 06-21 |  |
 | 4 | [#5196](https://github.com/Azure/sdk-release-request/issues/5196) | azure-sdk |  | Alancere |  | 05-09 | 05-24 |  |
-| 5 | [#5192](https://github.com/Azure/sdk-release-request/issues/5192) | azure-sdk |  | Alancere | FirstBeta. | 05-09 | fail to get. |  |
+| 5 | [#5192](https://github.com/Azure/sdk-release-request/issues/5192) | azure-sdk |  | Alancere | new comment. FirstBeta. HoldOn. | 05-09 | fail to get. |  |
 | 6 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | HoldOn. | 05-08 | 05-24 |  |
 | 7 | [#5175](https://github.com/Azure/sdk-release-request/issues/5175) | dmonroym |  | Alancere |  | 04-30 | 05-24 |  |
 | 8 | [#5172](https://github.com/Azure/sdk-release-request/issues/5172) | mohitagarwal-sql |  | Alancere |  | 04-30 | 05-24 |  |
@@ -15,6 +15,6 @@
 | 13 | [#5137](https://github.com/Azure/sdk-release-request/issues/5137) | oolaoluwa |  | Alancere | FirstBeta. | 04-16 | 05-24 |  |
 | 14 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
 | 15 | [#5130](https://github.com/Azure/sdk-release-request/issues/5130) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
-| 16 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. | 03-22 | 05-24 |  |
+| 16 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
 | 17 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere | new comment. HoldOn. | 03-20 | 05-24 |  |
 | 18 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere |  | 01-18 | 04-26 |  |
