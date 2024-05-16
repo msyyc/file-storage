@@ -16,5 +16,5 @@
 | 14 | [#5132](https://github.com/Azure/sdk-release-request/issues/5132) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
 | 15 | [#5130](https://github.com/Azure/sdk-release-request/issues/5130) | zubairabid |  | Alancere |  | 04-12 | 05-24 |  |
 | 16 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. | 03-22 | 05-24 |  |
-| 17 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere | HoldOn. | 03-20 | 05-24 |  |
+| 17 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere | new comment. HoldOn. | 03-20 | 05-24 |  |
 | 18 | [#4894](https://github.com/Azure/sdk-release-request/issues/4894) | eliagrady |  | Alancere |  | 01-18 | 04-26 |  |
