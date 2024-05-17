@@ -5,7 +5,7 @@
 | 3 | [#5200](https://github.com/Azure/sdk-release-request/issues/5200) | azure-sdk |  | Alancere | new issue. | 05-14 | 06-21 |  |
 | 4 | [#5196](https://github.com/Azure/sdk-release-request/issues/5196) | azure-sdk |  | Alancere |  | 05-09 | 05-24 |  |
 | 5 | [#5192](https://github.com/Azure/sdk-release-request/issues/5192) | azure-sdk |  | Alancere | new comment. FirstBeta. HoldOn. | 05-09 | fail to get. |  |
-| 6 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | HoldOn. | 05-08 | 05-24 |  |
+| 6 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | HoldOn. | 05-08 | 06-21 |  |
 | 7 | [#5175](https://github.com/Azure/sdk-release-request/issues/5175) | dmonroym |  | Alancere |  | 04-30 | 05-24 |  |
 | 8 | [#5172](https://github.com/Azure/sdk-release-request/issues/5172) | mohitagarwal-sql |  | Alancere |  | 04-30 | 05-24 |  |
 | 9 | [#5167](https://github.com/Azure/sdk-release-request/issues/5167) | audunn |  | Alancere | new comment. | 04-29 | 05-24 |  |
