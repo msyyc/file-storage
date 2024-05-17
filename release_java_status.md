@@ -4,7 +4,7 @@
 | 2 | [#5205](https://github.com/Azure/sdk-release-request/issues/5205) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 05-15 | 06-21 |  |
 | 3 | [#5201](https://github.com/Azure/sdk-release-request/issues/5201) | azure-sdk |  | v-hongli1 | new issue. new comment. | 05-14 | 06-21 |  |
 | 4 | [#5197](https://github.com/Azure/sdk-release-request/issues/5197) | azure-sdk |  | weidongxu-microsoft | new issue. | 05-09 | 05-24 |  |
-| 5 | [#5193](https://github.com/Azure/sdk-release-request/issues/5193) | azure-sdk |  | XiaofeiCao | Attention to inconsistent tag. TypeSpec. | 05-09 | fail to get. |  |
+| 5 | [#5193](https://github.com/Azure/sdk-release-request/issues/5193) | azure-sdk |  | XiaofeiCao | new comment. Attention to inconsistent tag. HoldOn. TypeSpec. | 05-09 | fail to get. |  |
 | 6 | [#5189](https://github.com/Azure/sdk-release-request/issues/5189) | azure-sdk |  | weidongxu-microsoft | HoldOn. | 05-08 | 06-21 |  |
 | 7 | [#5174](https://github.com/Azure/sdk-release-request/issues/5174) | dmonroym |  | v-hongli1 | Attention to inconsistent tag. | 04-30 | 05-24 |  |
 | 8 | [#5166](https://github.com/Azure/sdk-release-request/issues/5166) | audunn |  | XiaofeiCao | new issue. | 04-29 | 05-24 |  |
