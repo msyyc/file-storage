@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35573](https://github.com/Azure/azure-sdk-for-python/issues/35573)|How to assign Storage Blob Data Owner role to a user of a storage account|Storage, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, ChenxiJiang333||2024-05-10|
+|1|[#35573](https://github.com/Azure/azure-sdk-for-python/issues/35573)|How to assign Storage Blob Data Owner role to a user of a storage account|Storage, question, Service Attention, Mgmt, customer-reported, needs-team-attention|ChenxiJiang333, msyyc||2024-05-10|
 |2|[#35532](https://github.com/Azure/azure-sdk-for-python/issues/35532)|While using "begin_create_or_update" getting error related to location property|question, Compute, Mgmt, customer-reported, issue-addressed|msyyc||2024-05-08|
 |3|[#35436](https://github.com/Azure/azure-sdk-for-python/issues/35436)|get_instance_view function doesn't return statuses |question, Compute, Service Attention, Mgmt, customer-reported, issue-addressed|msyyc, lmazuel||2024-05-01|
 |4|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc|no reply > 7|2024-04-25|
