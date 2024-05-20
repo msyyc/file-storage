@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-security,eliagrady,ChenxiJiang333,2024-01-18,2024-05-20,https://github.com/Azure/sdk-release-request/issues/4896,7.0.0,True
 azure-mgmt-datafactory,msyyc,ChenxiJiang333,2024-05-07,2024-05-10,https://github.com/Azure/sdk-release-request/issues/5183,7.1.0,True
 azure-mgmt-resource,azure-sdk,ChenxiJiang333,2024-05-02,2024-05-08,https://github.com/Azure/sdk-release-request/issues/5182,23.1.1,True
 azure-mgmt-resource,azure-sdk,ChenxiJiang333,2024-05-02,2024-05-06,https://github.com/Azure/sdk-release-request/issues/5182,23.1.0,True
