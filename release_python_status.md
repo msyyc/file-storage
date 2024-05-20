@@ -6,9 +6,7 @@
 | 4 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new comment. FirstBeta. HoldOn. | 05-09 | fail to get. |  |
 | 5 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | HoldOn. | 05-08 | 06-21 |  |
 | 6 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | HoldOn. | 04-30 | 05-24 |  |
-| 7 | [#5173](https://github.com/Azure/sdk-release-request/issues/5173) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 04-30 | 05-24 |  |
 | 8 | [#5169](https://github.com/Azure/sdk-release-request/issues/5169) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-29 | 05-24 |  |
-| 9 | [#5161](https://github.com/Azure/sdk-release-request/issues/5161) | rbandi124 | azure-mgmt-maintenance | ChenxiJiang333 |  | 04-24 | 05-24 |  |
 | 10 | [#5147](https://github.com/Azure/sdk-release-request/issues/5147) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 04-24 | 05-24 |  |
 | 11 | [#5143](https://github.com/Azure/sdk-release-request/issues/5143) | rebecca337 | azure-mgmt-storagecache | ChenxiJiang333 |  | 04-23 | 05-24 |  |
 | 12 | [#5140](https://github.com/Azure/sdk-release-request/issues/5140) | oolaoluwa |  | ChenxiJiang333 | duplicated issue  <br> | 04-16 |  | 0 |
