@@ -17,7 +17,7 @@
 | 15 | Cosmos DB 2024-05-15 Stable SDK Release  |  | [#5204](https://github.com/Azure/sdk-release-request/issues/5204)  | [#5205](https://github.com/Azure/sdk-release-request/issues/5205)  | [#5206](https://github.com/Azure/sdk-release-request/issues/5206)  | 05-15 | 06-21 | Hold on by Java/ |
 | 16 | 'Release for RecoveryServicesBackup 2024-04-01'  |  |  | [#5135](https://github.com/Azure/sdk-release-request/issues/5135)  | [#5133](https://github.com/Azure/sdk-release-request/issues/5133)  | 04-12 | 05-24 |  |
 | 17 | Release for NGINXaaS for Azure 2024-01-01-preview  |  | [#5200](https://github.com/Azure/sdk-release-request/issues/5200)  |  | [#5202](https://github.com/Azure/sdk-release-request/issues/5202)  | 05-14 | 06-21 |  |
-| 18 | 'Release for Hyperscale FMv2 Progress Reporting changes'  |  | [#5172](https://github.com/Azure/sdk-release-request/issues/5172)  |  | [#5170](https://github.com/Azure/sdk-release-request/issues/5170)  | 04-30 | 05-24 |  |
-| 19 | 'Release for RecoveryServices - 2024-04-01'  |  | [#5130](https://github.com/Azure/sdk-release-request/issues/5130)  |  | [#5131](https://github.com/Azure/sdk-release-request/issues/5131)  | 04-12 | 05-24 |  |
+| 18 | 'Release for RecoveryServices - 2024-04-01'  |  | [#5130](https://github.com/Azure/sdk-release-request/issues/5130)  |  | [#5131](https://github.com/Azure/sdk-release-request/issues/5131)  | 04-12 | 05-24 |  |
+| 19 | 'Release for Hyperscale FMv2 Progress Reporting changes'  |  |  |  | [#5170](https://github.com/Azure/sdk-release-request/issues/5170)  | 04-30 | 05-24 |  |
 | 20 | 'Release for ScheduledEvents Acknowledge - 2023-10-01-preview'  |  |  |  | [#5160](https://github.com/Azure/sdk-release-request/issues/5160)  | 04-24 | 05-24 |  |
 | 21 | 'Release for Microsoft.DBForMySQL 2023-12-30'  |  |  |  | [#5151](https://github.com/Azure/sdk-release-request/issues/5151)  | 04-24 | 05-24 | Hold on by JS/ |
