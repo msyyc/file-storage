@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. | 05-21 | 06-21 |  |
+| 1 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | new comment. FirstBeta. | 05-21 | 06-21 |  |
 | 2 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | HoldOn. | 05-15 | 06-21 |  |
 | 3 | [#5199](https://github.com/Azure/sdk-release-request/issues/5199) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 | close to release date. HoldOn. | 05-09 | 05-24 | 1 |
 | 4 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new comment. FirstBeta. HoldOn. | 05-09 | fail to get. |  |
