@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5222](https://github.com/Azure/sdk-release-request/issues/5222) | azure-sdk | azure-mgmt-network | ChenxiJiang333 | new issue. new comment. MultiAPI | 05-22 | 05-28 |  |
+| 1 | [#5222](https://github.com/Azure/sdk-release-request/issues/5222) | azure-sdk | azure-mgmt-network | ChenxiJiang333 | new issue. new comment. | 05-22 | 05-28 |  |
 | 2 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. | 05-21 | 06-21 |  |
 | 3 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | HoldOn. | 05-15 | 06-21 |  |
 | 4 | [#5199](https://github.com/Azure/sdk-release-request/issues/5199) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 | close to release date. HoldOn. | 05-09 | 05-24 | 0 |
