@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-storagecache,rebecca337,ChenxiJiang333,2024-04-23,2024-05-23,https://github.com/Azure/sdk-release-request/issues/5143,2.0.0,True
+azure-mgmt-containerservicefleet,zman-ms,ChenxiJiang333,2024-04-24,2024-05-23,https://github.com/Azure/sdk-release-request/issues/5147,2.0.0,True
+azure-mgmt-netapp,audunn,ChenxiJiang333,2024-04-29,2024-05-23,https://github.com/Azure/sdk-release-request/issues/5169,13.0.0,True
 azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-05-15,2024-05-20,https://github.com/Azure/sdk-release-request/issues/5207,9.5.0,True
 azure-mgmt-maintenance,rbandi124,ChenxiJiang333,2024-04-24,2024-05-20,https://github.com/Azure/sdk-release-request/issues/5161,2.2.0b2,
 azure-mgmt-sql,mohitagarwal-sql,ChenxiJiang333,2024-04-30,2024-05-20,https://github.com/Azure/sdk-release-request/issues/5173,4.0.0b17,
