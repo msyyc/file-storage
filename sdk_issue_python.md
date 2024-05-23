@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#35573](https://github.com/Azure/azure-sdk-for-python/issues/35573)|How to assign Storage Blob Data Owner role to a user of a storage account|Storage, question, Service Attention, Mgmt, customer-reported, issue-addressed|ChenxiJiang333, msyyc||2024-05-10|
 |2|[#35436](https://github.com/Azure/azure-sdk-for-python/issues/35436)|get_instance_view function doesn't return statuses |question, Compute, Service Attention, Mgmt, customer-reported, issue-addressed|lmazuel, msyyc||2024-05-01|
-|3|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc|no reply > 7|2024-04-25|
+|3|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft|no reply > 7|2024-04-25|
 |4|[#34982](https://github.com/Azure/azure-sdk-for-python/issues/34982)|Not able to get the restore point collection  got exception get() takes 3 positional arguments but 4 were given|question, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-03-28|
 |5|[#34653](https://github.com/Azure/azure-sdk-for-python/issues/34653)|Adding the principal_name to the RoleAssignment class|question, Authorization, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-06|
 |6|[#34519](https://github.com/Azure/azure-sdk-for-python/issues/34519)|ContainerApp create private registry access not possible|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-28|
