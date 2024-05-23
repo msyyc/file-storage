@@ -22,4 +22,4 @@
 | 20 | 'Release for AKS Fleet 2024-04-01'  |  |  |  | [#5146](https://github.com/Azure/sdk-release-request/issues/5146)  | 04-24 | 05-24 |  |
 | 21 | 'Release for Microsoft.StorageCache - 2024-03-01'  |  |  |  | [#5144](https://github.com/Azure/sdk-release-request/issues/5144)  | 04-23 | 05-24 |  |
 | 22 | 'Release for RecoveryServices - 2024-04-01'  |  |  |  | [#5131](https://github.com/Azure/sdk-release-request/issues/5131)  | 04-12 | 05-24 |  |
-| 23 | 'Release for informatica package-2024-05-08'  |  |  |  | [#5065](https://github.com/Azure/sdk-release-request/issues/5065)  | 03-20 | 05-24 |  |
+| 23 | 'Release for informatica package-2024-05-08'  |  |  |  | [#5065](https://github.com/Azure/sdk-release-request/issues/5065)  | 03-20 | 05-24 | Hold on by JS/ |
