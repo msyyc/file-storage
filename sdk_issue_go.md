@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#22786](https://github.com/Azure/azure-sdk-for-go/issues/22786)|armconsumption.ModernReservationRecommendationProperties missing documented ResourceType field|Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2024-04-26|
-|2|[#22736](https://github.com/Azure/azure-sdk-for-go/issues/22736)|armeventhub namespaces client list pager responses have nil PrivateEndpointConnections|question, Event Hubs, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-04-10|
+|2|[#22736](https://github.com/Azure/azure-sdk-for-go/issues/22736)|armeventhub namespaces client list pager responses have nil PrivateEndpointConnections|question, Event Hubs, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-04-10|
 |3|[#22556](https://github.com/Azure/azure-sdk-for-go/issues/22556)|Api Export - Get : res.Value is nil|bug, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-03-08|
 |4|[#22464](https://github.com/Azure/azure-sdk-for-go/issues/22464)|ListTenants returns nil for DisplayName & Domains instead of its actual values|question, Service Attention, Mgmt, customer-reported, Subscription, needs-team-attention|Alancere|new comment|2024-02-27|
 |5|[#22306](https://github.com/Azure/azure-sdk-for-go/issues/22306)|armadvisor Generate() returns a value unusable by GetGenerateStatus() without further processing.|question, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-01-29|
