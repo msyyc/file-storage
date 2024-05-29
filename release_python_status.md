@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5230](https://github.com/Azure/sdk-release-request/issues/5230) | azure-sdk | azure-mgmt-hybridcompute | ChenxiJiang333 | HoldOn. ForCLI. | 05-23 | 06-21 |  |
-| 2 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. | 05-21 | 06-21 |  |
+| 2 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk |  | ChenxiJiang333 |  | 05-21 |  | 0 |
 | 3 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 05-15 | 06-21 |  |
 | 4 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | FirstBeta. OnTime. | 05-09 | fail to get. |  |
 | 5 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | HoldOn. | 05-08 | 06-21 |  |
