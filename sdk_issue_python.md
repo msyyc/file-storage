@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc|no reply > 7|2024-04-25|
+|1|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft|no reply > 7|2024-04-25|
 |2|[#34653](https://github.com/Azure/azure-sdk-for-python/issues/34653)|Adding the principal_name to the RoleAssignment class|question, Authorization, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-06|
 |3|[#34519](https://github.com/Azure/azure-sdk-for-python/issues/34519)|ContainerApp create private registry access not possible|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-28|
 |4|[#34445](https://github.com/Azure/azure-sdk-for-python/issues/34445)|azure-mgmt-appcontainers: ContainerAppsAPIClient.job_execution is missing some properties|Mgmt|msyyc|no reply > 7|2024-02-24|
@@ -11,4 +11,4 @@
 |9|[#29574](https://github.com/Azure/azure-sdk-for-python/issues/29574)|web_apps.create_or_update_function_secret ommits required request property Properties|bug, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|msyyc|new comment|2023-03-24|
 |10|[#28911](https://github.com/Azure/azure-sdk-for-python/issues/28911)|Unable to filter by multiple provisioningState on deployment list|bug, Service Attention, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|new comment|2023-02-20|
 |11|[#24740](https://github.com/Azure/azure-sdk-for-python/issues/24740)|CertificateCredential for AzureUSGovernment cloud|feature-request, Operations Management, Mgmt, needs-team-attention|BigCat20196, msyyc|new comment|2022-06-07|
-|12|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
+|12|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention|lmazuel, msyyc, iscai-msft|new comment|2021-04-05|
