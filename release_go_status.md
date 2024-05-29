@@ -8,6 +8,4 @@
 | 6 | [#5204](https://github.com/Azure/sdk-release-request/issues/5204) | azure-sdk |  | Alancere | Attention to inconsistent tag. | 05-15 | 06-21 |  |
 | 7 | [#5200](https://github.com/Azure/sdk-release-request/issues/5200) | azure-sdk |  | Alancere | new issue. | 05-14 | 06-21 |  |
 | 8 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | HoldOn. | 05-08 | 06-21 |  |
-| 9 | [#5137](https://github.com/Azure/sdk-release-request/issues/5137) | oolaoluwa |  | Alancere | new comment. FirstBeta. HoldOn. | 04-16 | 05-24 |  |
-| 10 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
-| 11 | [#5063](https://github.com/Azure/sdk-release-request/issues/5063) | alluri02 |  | Alancere | new comment. FirstBeta. HoldOn. | 03-20 | 05-24 |  |
+| 9 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
