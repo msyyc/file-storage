@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|2|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|weidongxu-microsoft, sandeep-sen|new comment|2024-05-17|
+|2|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|sandeep-sen, weidongxu-microsoft|new comment|2024-05-17|
 |3|[#40129](https://github.com/Azure/azure-sdk-for-java/issues/40129)|[BUG] java sdk with version 2.34.0 throws long running operations error|question, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|weidongxu-microsoft||2024-05-12|
 |4|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
 |5|[#40001](https://github.com/Azure/azure-sdk-for-java/issues/40001)|Unexpected character ('<' (code 60))|question, ARM, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|weidongxu-microsoft||2024-05-02|
@@ -9,7 +9,7 @@
 |7|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
 |8|[#39703](https://github.com/Azure/azure-sdk-for-java/issues/39703)|[BUG]responseFilter parameter not encoded correctly in cognitiveServicesWebSearch|question, Search, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-15|
 |9|[#39649](https://github.com/Azure/azure-sdk-for-java/issues/39649)|Typo "Azure CosmosDB"→"Azure Cosmos DB"|question, Cosmos, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-10|
-|10|[#39561](https://github.com/Azure/azure-sdk-for-java/issues/39561)|[QUERY] Why is scope not automatically set for requests to storage endpoint?|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft, XiaofeiCao||2024-04-05|
+|10|[#39561](https://github.com/Azure/azure-sdk-for-java/issues/39561)|[QUERY] Why is scope not automatically set for requests to storage endpoint?|question, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao, weidongxu-microsoft||2024-04-05|
 |11|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
 |12|[#39123](https://github.com/Azure/azure-sdk-for-java/issues/39123)|[BUG] "No registered resource provider found for location 'eastus2' and API version '2018-01-01' for type 'storageAccounts/blobServices'|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-07|
 |13|[#39094](https://github.com/Azure/azure-sdk-for-java/issues/39094)|mgmt core, add hybrid serialization model(baseclass stream-style-serialization, subclass jackson)|Mgmt, Azure.Core, Mgmt - Track 2|XiaofeiCao||2024-03-06|
@@ -24,7 +24,7 @@
 |22|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |23|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |24|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|25|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|25|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |26|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |27|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |28|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
