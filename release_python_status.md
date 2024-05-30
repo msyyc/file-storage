@@ -1,7 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5230](https://github.com/Azure/sdk-release-request/issues/5230) | azure-sdk | azure-mgmt-hybridcompute | ChenxiJiang333 | ForCLI. | 05-23 | 06-21 |  |
-| 2 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk |  | ChenxiJiang333 |  | 05-21 |  | 0 |
+| 2 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. | 05-21 | 06-21 |  |
 | 3 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 05-15 | 06-21 |  |
 | 4 | [#5207](https://github.com/Azure/sdk-release-request/issues/5207) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> OnTime. ForCLI. | 05-15 | 06-21 |  |
 | 5 | [#5195](https://github.com/Azure/sdk-release-request/issues/5195) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | FirstBeta. OnTime. | 05-09 | fail to get. |  |
