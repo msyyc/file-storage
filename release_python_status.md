@@ -9,4 +9,3 @@
 | 7 | [#5179](https://github.com/Azure/sdk-release-request/issues/5179) | Francisco-Gamino | azure-mgmt-web | ChenxiJiang333 | HoldOn. OnTime. MultiAPI | 05-02 | fail to get. |  |
 | 8 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | HoldOn. | 04-30 | 05-24 |  |
 | 9 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 03-22 | 05-24 |  |
-| 10 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 | azure-mgmt-informaticadatamanagement | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-20 | 05-24 |  |
