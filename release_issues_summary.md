@@ -13,4 +13,3 @@
 | 11 | 'Release for informatica 2023-08-20-preview'  |  |  | [#5064](https://github.com/Azure/sdk-release-request/issues/5064)  |  | 03-20 | 05-24 | Hold on by Java/ |
 | 12 | Release for NGINXaaS for Azure 2024-01-01-preview  |  | [#5200](https://github.com/Azure/sdk-release-request/issues/5200)  |  | [#5202](https://github.com/Azure/sdk-release-request/issues/5202)  | 05-14 | 06-21 |  |
 | 13 | 'Release for Microsoft.DBForMySQL 2023-12-30'  |  |  |  | [#5151](https://github.com/Azure/sdk-release-request/issues/5151)  | 04-24 | 05-24 | Hold on by JS/ |
-| 14 | 'Release for informatica package-2024-05-08'  |  |  |  | [#5065](https://github.com/Azure/sdk-release-request/issues/5065)  | 03-20 | 05-24 | Hold on by JS/ |
