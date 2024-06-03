@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5232](https://github.com/Azure/sdk-release-request/issues/5232) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 | new issue. | 06-03 | 06-24 |  |
+| 1 | [#5232](https://github.com/Azure/sdk-release-request/issues/5232) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 |  | 06-03 | 06-24 |  |
 | 2 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 |  |
 | 3 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 05-15 | 06-21 |  |
 | 4 | [#5207](https://github.com/Azure/sdk-release-request/issues/5207) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> OnTime. ForCLI. | 05-15 | 06-21 |  |
