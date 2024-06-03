@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | 'Release for Azure Database for MySQL - Flexible Server 2024-02-01-preview' (only for Python)  | [#5233](https://github.com/Azure/sdk-release-request/issues/5233)  |  |  |  | 06-03 | 06-07 |  |
+| 1 | 'Release for Microsoft.DBForMySQL 2024-02-01-preview' (only for Python)  | [#5233](https://github.com/Azure/sdk-release-request/issues/5233)  |  |  |  | 06-03 | 06-07 |  |
 | 2 | 'Release for Data Factory 2018-06-01' (only for Python)  | [#5232](https://github.com/Azure/sdk-release-request/issues/5232)  |  |  |  | 06-03 | 06-24 |  |
 | 3 | Release for MongoCluster 2024-03-01-preview  | [#5215](https://github.com/Azure/sdk-release-request/issues/5215)  | [#5212](https://github.com/Azure/sdk-release-request/issues/5212)  | [#5213](https://github.com/Azure/sdk-release-request/issues/5213)  | [#5214](https://github.com/Azure/sdk-release-request/issues/5214)  | 05-21 | 06-21 | Hold on by Python/ |
 | 4 | Cosmos DB 2024-05-15 Preview SDK Release  | [#5211](https://github.com/Azure/sdk-release-request/issues/5211)  | [#5208](https://github.com/Azure/sdk-release-request/issues/5208)  | [#5209](https://github.com/Azure/sdk-release-request/issues/5209)  | [#5210](https://github.com/Azure/sdk-release-request/issues/5210)  | 05-15 | 06-21 | Hold on by Java/ |
