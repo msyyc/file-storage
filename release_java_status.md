@@ -9,4 +9,3 @@
 | 7 | [#5178](https://github.com/Azure/sdk-release-request/issues/5178) | Francisco-Gamino |  | v-hongli1 | new comment. HoldOn. | 05-02 | fail to get. |  |
 | 8 | [#5174](https://github.com/Azure/sdk-release-request/issues/5174) | dmonroym |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 04-30 | 05-24 |  |
 | 9 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
-| 10 | [#5064](https://github.com/Azure/sdk-release-request/issues/5064) | alluri02 |  | XiaofeiCao | FirstBeta. HoldOn. | 03-20 | 05-24 |  |
