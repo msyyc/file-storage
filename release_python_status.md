@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5233](https://github.com/Azure/sdk-release-request/issues/5233) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | close to release date. OnTime. ForCLI. | 06-03 | 06-07 | 2 |
 | 2 | [#5232](https://github.com/Azure/sdk-release-request/issues/5232) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 |  | 06-03 | 06-24 |  |
-| 3 | [#5223](https://github.com/Azure/sdk-release-request/issues/5223) | yaotongms |  | ChenxiJiang333 |  | 05-23 |  | 0 |
 | 4 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 |  |
 | 5 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 05-15 | 06-21 |  |
 | 6 | [#5207](https://github.com/Azure/sdk-release-request/issues/5207) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> OnTime. ForCLI. | 05-15 | 06-21 |  |
