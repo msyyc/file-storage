@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5228](https://github.com/Azure/sdk-release-request/issues/5228) | azure-sdk |  | weidongxu-microsoft | new issue. | 05-23 | 06-21 |  |
+| 1 | [#5228](https://github.com/Azure/sdk-release-request/issues/5228) | azure-sdk |  | weidongxu-microsoft |  | 05-23 | 06-21 |  |
 | 2 | [#5220](https://github.com/Azure/sdk-release-request/issues/5220) | azure-sdk |  | v-hongli1 | new issue. | 05-22 | 06-21 |  |
 | 3 | [#5217](https://github.com/Azure/sdk-release-request/issues/5217) | azure-sdk |  | weidongxu-microsoft | Attention to inconsistent tag. | 05-21 | 06-21 |  |
 | 4 | [#5213](https://github.com/Azure/sdk-release-request/issues/5213) | azure-sdk |  | XiaofeiCao | new issue. new comment. FirstBeta. TypeSpec. | 05-21 | 06-21 |  |
