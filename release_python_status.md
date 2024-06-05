@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | new issue. | 06-04 | 06-21 |  |
-| 2 | [#5241](https://github.com/Azure/sdk-release-request/issues/5241) | azure-sdk | azure-mgmt-datafactory | ChenxiJiang333 | duplicated issue  <br> new issue. | 06-04 | fail to get. |  |
-| 3 | [#5237](https://github.com/Azure/sdk-release-request/issues/5237) | azure-sdk | azure-mgmt-mobilenetwork | ChenxiJiang333 | new issue. | 06-04 | 06-21 |  |
+| 2 | [#5241](https://github.com/Azure/sdk-release-request/issues/5241) | azure-sdk | azure-mgmt-datafactory | ChenxiJiang333 | duplicated issue  <br> | 06-04 | fail to get. |  |
+| 3 | [#5237](https://github.com/Azure/sdk-release-request/issues/5237) | azure-sdk | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 06-04 | 06-21 |  |
 | 4 | [#5233](https://github.com/Azure/sdk-release-request/issues/5233) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | close to release date. OnTime. ForCLI. | 06-03 | 06-07 | 1 |
 | 5 | [#5232](https://github.com/Azure/sdk-release-request/issues/5232) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 | duplicated issue  <br> | 06-03 | 06-24 |  |
 | 6 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 |  |
