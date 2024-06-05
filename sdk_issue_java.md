@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|2|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|weidongxu-microsoft, sandeep-sen||2024-05-17|
+|2|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|sandeep-sen, weidongxu-microsoft||2024-05-17|
 |3|[#40129](https://github.com/Azure/azure-sdk-for-java/issues/40129)|[BUG] java sdk with version 2.34.0 throws long running operations error|question, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|weidongxu-microsoft||2024-05-12|
 |4|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
 |5|[#39947](https://github.com/Azure/azure-sdk-for-java/issues/39947)|[FEATURE REQ] mgmt appplatform, support artifact blob upload|Mgmt|XiaofeiCao||2024-04-28|
@@ -15,7 +15,7 @@
 |13|[#38985](https://github.com/Azure/azure-sdk-for-java/issues/38985)|[FEATURE REQ] eng, move SDK automation out of eng/mgmt folder|Mgmt, EngSys, DPG|XiaofeiCao||2024-02-28|
 |14|[#38806](https://github.com/Azure/azure-sdk-for-java/issues/38806)|[FEATURE REQ] DeleteOptions on Public Ip Address|ARM, Mgmt, customer-reported, feature-request, needs-team-attention|XiaofeiCao||2024-02-16|
 |15|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2, needs-triage|XiaofeiCao||2024-02-06|
-|16|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
+|16|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
 |17|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |18|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
 |19|[#37721](https://github.com/Azure/azure-sdk-for-java/issues/37721)|[FEATURE REQ] Need support for updating MinimumTLSversion of EventHubnamespace using azure-resourcemanager-eventhubs|Event Hubs, Mgmt, needs-team-attention|v-hongli1, XiaofeiCao||2023-11-17|
