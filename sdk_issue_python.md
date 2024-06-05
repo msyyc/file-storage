@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#35801](https://github.com/Azure/azure-sdk-for-python/issues/35801)|cache_configuration cannot be set to Null (None in Python) to remove AFD Route Caching once turned on|question, Network - CDN, Service Attention, Mgmt, customer-reported, needs-author-feedback|msyyc||2024-05-29|
 |2|[#35423](https://github.com/Azure/azure-sdk-for-python/issues/35423)|Added “Resource visualizer” export functionality|question, Mgmt, customer-reported, needs-team-attention, Resources|msyyc||2024-04-30|
-|3|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft|no reply > 7|2024-04-25|
+|3|[#35364](https://github.com/Azure/azure-sdk-for-python/issues/35364)|bug: invalid escape sequence in documentation|question, Data Factory, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc|no reply > 7|2024-04-25|
 |4|[#34653](https://github.com/Azure/azure-sdk-for-python/issues/34653)|Adding the principal_name to the RoleAssignment class|question, Authorization, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-03-06|
 |5|[#34519](https://github.com/Azure/azure-sdk-for-python/issues/34519)|ContainerApp create private registry access not possible|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-28|
 |6|[#34445](https://github.com/Azure/azure-sdk-for-python/issues/34445)|azure-mgmt-appcontainers: ContainerAppsAPIClient.job_execution is missing some properties|Mgmt|msyyc|no reply > 7|2024-02-24|
