@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 | new issue. | 06-05 | 06-21 |  |
+| 1 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 |  | 06-05 | 06-21 |  |
 | 2 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 06-04 | 06-21 |  |
 | 3 | [#5237](https://github.com/Azure/sdk-release-request/issues/5237) | azure-sdk | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 06-04 | 06-21 |  |
 | 4 | [#5232](https://github.com/Azure/sdk-release-request/issues/5232) | msyyc | azure-mgmt-datafactory | ChenxiJiang333 | close to release date. OnTime. | 06-03 | 06-07 | 1 |
