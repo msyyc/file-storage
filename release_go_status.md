@@ -3,7 +3,7 @@
 | 1 | [#5242](https://github.com/Azure/sdk-release-request/issues/5242) | azure-sdk |  | Alancere |  | 06-04 | 06-21 |  |
 | 2 | [#5238](https://github.com/Azure/sdk-release-request/issues/5238) | azure-sdk |  | Alancere | new comment. close to release date. | 06-04 | 06-07 | 1 |
 | 3 | [#5234](https://github.com/Azure/sdk-release-request/issues/5234) | azure-sdk |  | Alancere | new issue. | 06-04 | 06-21 |  |
-| 4 | [#5225](https://github.com/Azure/sdk-release-request/issues/5225) | yaotongms |  | Alancere |  | 05-23 |  | 0 |
+| 4 | [#5225](https://github.com/Azure/sdk-release-request/issues/5225) | yaotongms |  | Alancere | new issue. | 05-23 | 05-31 |  |
 | 5 | [#5219](https://github.com/Azure/sdk-release-request/issues/5219) | azure-sdk |  | Alancere |  | 05-22 | 06-21 |  |
 | 6 | [#5216](https://github.com/Azure/sdk-release-request/issues/5216) | azure-sdk |  | Alancere | FirstGA. | 05-21 | 06-21 |  |
 | 7 | [#5212](https://github.com/Azure/sdk-release-request/issues/5212) | azure-sdk |  | Alancere | FirstBeta. | 05-21 | 06-21 |  |
