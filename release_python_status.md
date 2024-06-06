@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | azure-sdk | azure-mgmt-computefleet | ChenxiJiang333 | new issue. | 06-05 | 06-21 |  |
-| 2 | [#5253](https://github.com/Azure/sdk-release-request/issues/5253) | azure-sdk | azure-mgmt-imagebuilder | ChenxiJiang333 | new issue. | 06-05 | 06-21 |  |
+| 2 | [#5253](https://github.com/Azure/sdk-release-request/issues/5253) | azure-sdk | azure-mgmt-imagebuilder | ChenxiJiang333 |  | 06-05 | 06-21 |  |
 | 3 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 |  | 06-05 | 06-21 |  |
 | 4 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 06-04 | 06-21 |  |
 | 5 | [#5237](https://github.com/Azure/sdk-release-request/issues/5237) | azure-sdk | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 06-04 | 06-21 |  |
