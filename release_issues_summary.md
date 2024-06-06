@@ -18,5 +18,4 @@
 | 16 | Microsoft.Network 2023-11-01  |  | [#5219](https://github.com/Azure/sdk-release-request/issues/5219)  | [#5220](https://github.com/Azure/sdk-release-request/issues/5220)  | [#5221](https://github.com/Azure/sdk-release-request/issues/5221)  | 05-22 | 06-21 |  |
 | 17 | Release for Deployment Stacks - 2024-03-01  |  | [#5216](https://github.com/Azure/sdk-release-request/issues/5216)  | [#5217](https://github.com/Azure/sdk-release-request/issues/5217)  | [#5218](https://github.com/Azure/sdk-release-request/issues/5218)  | 05-21 | 06-21 |  |
 | 18 | Release for NGINXaaS for Azure 2024-01-01-preview  |  | [#5200](https://github.com/Azure/sdk-release-request/issues/5200)  |  | [#5202](https://github.com/Azure/sdk-release-request/issues/5202)  | 05-14 | 06-21 |  |
-| 19 | Release for Hybrid Compute 2024-03-31-preview  |  |  |  | [#5229](https://github.com/Azure/sdk-release-request/issues/5229)  | 05-23 | 06-21 |  |
-| 20 | 'Release for Microsoft.DBForMySQL 2023-12-30'  |  |  |  | [#5151](https://github.com/Azure/sdk-release-request/issues/5151)  | 04-24 | 05-24 |  |
+| 19 | 'Release for Microsoft.DBForMySQL 2023-12-30'  |  |  |  | [#5151](https://github.com/Azure/sdk-release-request/issues/5151)  | 04-24 | 05-24 |  |
