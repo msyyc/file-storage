@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|2|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|sandeep-sen, weidongxu-microsoft||2024-05-17|
+|2|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|weidongxu-microsoft, sandeep-sen||2024-05-17|
 |3|[#40129](https://github.com/Azure/azure-sdk-for-java/issues/40129)|[BUG] java sdk with version 2.34.0 throws long running operations error|question, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|weidongxu-microsoft||2024-05-12|
 |4|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
 |5|[#39947](https://github.com/Azure/azure-sdk-for-java/issues/39947)|[FEATURE REQ] mgmt appplatform, support artifact blob upload|Mgmt|XiaofeiCao||2024-04-28|
