@@ -1,5 +1,5 @@
 {
-  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure", "azure-mgmt-informaticadatamanagement", "azure-mgmt-mongocluster"],
+  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure", "azure-mgmt-informaticadatamanagement", "azure-mgmt-mongocluster", "azure-mgmt-appcomplianceautomation"],
   "js": [],
   "go": [],
   "java": [] 
