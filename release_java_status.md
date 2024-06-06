@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5255](https://github.com/Azure/sdk-release-request/issues/5255) | azure-sdk |  | haolingdong-msft | new issue. | 06-05 | 06-21 |  |
 | 2 | [#5251](https://github.com/Azure/sdk-release-request/issues/5251) | azure-sdk |  | v-hongli1 | new issue. | 06-05 | 06-21 |  |
-| 3 | [#5247](https://github.com/Azure/sdk-release-request/issues/5247) | azure-sdk |  | weidongxu-microsoft | new issue. | 06-05 | 06-21 |  |
+| 3 | [#5247](https://github.com/Azure/sdk-release-request/issues/5247) | azure-sdk |  | weidongxu-microsoft | TypeSpec. | 06-05 | 06-21 |  |
 | 4 | [#5243](https://github.com/Azure/sdk-release-request/issues/5243) | azure-sdk |  | v-hongli1 |  | 06-04 | 06-21 |  |
 | 5 | [#5239](https://github.com/Azure/sdk-release-request/issues/5239) | azure-sdk |  | haolingdong-msft | new issue. new comment. close to release date. | 06-04 | 06-07 | 0 |
 | 6 | [#5235](https://github.com/Azure/sdk-release-request/issues/5235) | azure-sdk |  | v-hongli1 | new issue. | 06-04 | 06-21 |  |
