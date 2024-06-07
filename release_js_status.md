@@ -7,7 +7,7 @@
 | 5 | [#5244](https://github.com/Azure/sdk-release-request/issues/5244) | azure-sdk |  | qiaozha | new issue. | 06-04 | 06-21 |  |
 | 6 | [#5240](https://github.com/Azure/sdk-release-request/issues/5240) | azure-sdk |  | qiaozha | new issue. new comment. close to release date. | 06-04 | 06-07 | 0 |
 | 7 | [#5236](https://github.com/Azure/sdk-release-request/issues/5236) | azure-sdk |  | qiaozha | new issue. | 06-04 | 06-21 |  |
-| 8 | [#5221](https://github.com/Azure/sdk-release-request/issues/5221) | azure-sdk |  | qiaozha | new issue. | 05-22 | 06-21 |  |
+| 8 | [#5221](https://github.com/Azure/sdk-release-request/issues/5221) | azure-sdk |  | qiaozha | new comment. | 05-22 | 06-21 |  |
 | 9 | [#5218](https://github.com/Azure/sdk-release-request/issues/5218) | azure-sdk |  | qiaozha | Attention to inconsistent tag. FirstGA. | 05-21 | 06-21 |  |
 | 10 | [#5214](https://github.com/Azure/sdk-release-request/issues/5214) | azure-sdk |  | qiaozha | FirstBeta. | 05-21 | 06-21 |  |
 | 11 | [#5210](https://github.com/Azure/sdk-release-request/issues/5210) | azure-sdk |  | MaryGao | Attention to inconsistent tag. | 05-15 | 06-21 |  |
