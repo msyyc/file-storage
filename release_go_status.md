@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5258](https://github.com/Azure/sdk-release-request/issues/5258) | azure-sdk |  | Alancere | new issue. | 06-06 | 06-21 |  |
+| 1 | [#5258](https://github.com/Azure/sdk-release-request/issues/5258) | azure-sdk |  | Alancere |  | 06-06 | 06-21 |  |
 | 2 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | azure-sdk |  | Alancere | new issue. | 06-05 | 06-21 |  |
-| 3 | [#5250](https://github.com/Azure/sdk-release-request/issues/5250) | azure-sdk |  | Alancere | new issue. | 06-05 | 06-21 |  |
+| 3 | [#5250](https://github.com/Azure/sdk-release-request/issues/5250) | azure-sdk |  | Alancere |  | 06-05 | 06-21 |  |
 | 4 | [#5246](https://github.com/Azure/sdk-release-request/issues/5246) | azure-sdk |  | Alancere | FirstGA. | 06-05 | 06-21 |  |
 | 5 | [#5242](https://github.com/Azure/sdk-release-request/issues/5242) | azure-sdk |  | Alancere |  | 06-04 | 06-21 |  |
 | 6 | [#5238](https://github.com/Azure/sdk-release-request/issues/5238) | azure-sdk |  | Alancere | new comment. close to release date. | 06-04 | 06-07 | 0 |
