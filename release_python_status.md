@@ -6,7 +6,7 @@
 | 4 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 06-05 | 06-21 |  |
 | 5 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 06-04 | 06-21 |  |
 | 6 | [#5237](https://github.com/Azure/sdk-release-request/issues/5237) | azure-sdk | azure-mgmt-mobilenetwork | ChenxiJiang333 |  | 06-04 | 06-21 |  |
-| 7 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 |  |
+| 7 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 |  |
 | 8 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 05-15 | 06-21 |  |
 | 9 | [#5207](https://github.com/Azure/sdk-release-request/issues/5207) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> OnTime. ForCLI. | 05-15 | 06-21 |  |
 | 10 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 |  | 05-08 | 06-21 |  |
