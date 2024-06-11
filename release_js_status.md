@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5268](https://github.com/Azure/sdk-release-request/issues/5268) | azure-sdk |  | MaryGao | new issue. | 06-11 | 07-26 |  |
+| 1 | [#5268](https://github.com/Azure/sdk-release-request/issues/5268) | azure-sdk |  | MaryGao | new issue. | 06-11 | 06-24 |  |
 | 2 | [#5264](https://github.com/Azure/sdk-release-request/issues/5264) | azure-sdk |  | MaryGao | new issue. | 06-11 | 06-21 |  |
 | 3 | [#5260](https://github.com/Azure/sdk-release-request/issues/5260) | azure-sdk |  | qiaozha | new issue. | 06-06 | 06-21 |  |
 | 4 | [#5256](https://github.com/Azure/sdk-release-request/issues/5256) | azure-sdk |  | qiaozha | new issue. | 06-05 | 06-21 |  |
