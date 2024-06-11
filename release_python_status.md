@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 | new issue. | 06-11 | 07-26 |  |
+| 1 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 |  | 06-11 | 06-21 |  |
 | 2 | [#5261](https://github.com/Azure/sdk-release-request/issues/5261) | azure-sdk | azure-mgmt-storage | ChenxiJiang333 |  | 06-06 | 06-21 |  |
 | 3 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | azure-sdk | azure-mgmt-computefleet | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 06-05 | 06-21 |  |
 | 4 | [#5253](https://github.com/Azure/sdk-release-request/issues/5253) | azure-sdk | azure-mgmt-imagebuilder | ChenxiJiang333 | HoldOn. | 06-05 | 06-21 |  |
