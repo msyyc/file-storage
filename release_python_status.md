@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5274](https://github.com/Azure/sdk-release-request/issues/5274) | ChenxiJiang333 | azure-mgmt-cdn | ChenxiJiang333 | new issue. | 06-12 | fail to get. |  |
+| 1 | [#5274](https://github.com/Azure/sdk-release-request/issues/5274) | ChenxiJiang333 | azure-mgmt-cdn | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 06-12 | fail to get. |  |
 | 2 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | TypeSpec. | 06-11 | 06-21 |  |
 | 3 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk |  | ChenxiJiang333 | duplicated issue  <br> | 06-11 |  | 0 |
 | 4 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 |  | 06-11 | 06-21 |  |
