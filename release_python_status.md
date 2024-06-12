@@ -1,11 +1,10 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5274](https://github.com/Azure/sdk-release-request/issues/5274) | ChenxiJiang333 | azure-mgmt-cdn | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 06-12 | fail to get. |  |
-| 2 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | TypeSpec. | 06-11 | 06-21 |  |
-| 3 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk | azure-mgmt-scvmm | ChenxiJiang333 | new issue. FirstGA. TypeSpec. | 06-11 | 06-24 |  |
+| 2 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new issue. new comment. TypeSpec. | 06-11 | 06-21 |  |
+| 3 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA. TypeSpec. | 06-11 | 06-24 |  |
 | 4 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 |  | 06-11 | 06-21 |  |
 | 5 | [#5261](https://github.com/Azure/sdk-release-request/issues/5261) | azure-sdk | azure-mgmt-storage | ChenxiJiang333 |  | 06-06 | 06-21 |  |
-| 6 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | azure-sdk | azure-mgmt-computefleet | ChenxiJiang333 | new comment. FirstBeta. HoldOn. ForCLI. TypeSpec. | 06-05 | 06-21 |  |
+| 6 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | azure-sdk | azure-mgmt-computefleet | ChenxiJiang333 | FirstBeta. HoldOn. ForCLI. TypeSpec. | 06-05 | 06-21 |  |
 | 7 | [#5253](https://github.com/Azure/sdk-release-request/issues/5253) | azure-sdk | azure-mgmt-imagebuilder | ChenxiJiang333 | HoldOn. | 06-05 | 06-21 |  |
 | 8 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 06-05 | 06-21 |  |
 | 9 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 06-04 | 06-21 |  |

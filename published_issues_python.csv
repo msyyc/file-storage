@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-cdn,ChenxiJiang333,ChenxiJiang333,2024-06-12,2024-06-12,https://github.com/Azure/sdk-release-request/issues/5274,13.1.1,True
 azure-mgmt-datafactory,msyyc,ChenxiJiang333,2024-06-03,2024-06-07,https://github.com/Azure/sdk-release-request/issues/5232,8.0.0,True
 azure-mgmt-rdbms,ChenxiJiang333,ChenxiJiang333,2024-06-03,2024-06-05,https://github.com/Azure/sdk-release-request/issues/5233,10.2.0b17,
 azure-mgmt-hybridcompute,yaotongms,ChenxiJiang333,2024-05-23,2024-06-04,https://github.com/Azure/sdk-release-request/issues/5223,9.0.0b3,
