@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new issue. new comment. | 06-11 | fail to get. |  |
+| 1 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 |  | 06-11 | fail to get. |  |
 | 2 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk |  | ChenxiJiang333 | duplicated issue  <br> | 06-11 |  | 0 |
 | 3 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 |  | 06-11 | 06-21 |  |
 | 4 | [#5261](https://github.com/Azure/sdk-release-request/issues/5261) | azure-sdk | azure-mgmt-storage | ChenxiJiang333 |  | 06-06 | 06-21 |  |
