@@ -6,7 +6,7 @@
 | 4 | [#5260](https://github.com/Azure/sdk-release-request/issues/5260) | azure-sdk |  | qiaozha | new issue. | 06-06 | 06-21 |  |
 | 5 | [#5256](https://github.com/Azure/sdk-release-request/issues/5256) | azure-sdk |  | qiaozha | new issue. | 06-05 | 06-21 |  |
 | 6 | [#5252](https://github.com/Azure/sdk-release-request/issues/5252) | azure-sdk |  | qiaozha | new issue. | 06-05 | 06-21 |  |
-| 7 | [#5248](https://github.com/Azure/sdk-release-request/issues/5248) | azure-sdk |  | qiaozha | new issue. FirstGA. | 06-05 | 06-21 |  |
+| 7 | [#5248](https://github.com/Azure/sdk-release-request/issues/5248) | azure-sdk |  | qiaozha | FirstGA. | 06-05 | 06-21 |  |
 | 8 | [#5244](https://github.com/Azure/sdk-release-request/issues/5244) | azure-sdk |  | qiaozha | HoldOn. | 06-04 | 06-21 |  |
 | 9 | [#5236](https://github.com/Azure/sdk-release-request/issues/5236) | azure-sdk |  | qiaozha |  | 06-04 | 06-21 |  |
 | 10 | [#5221](https://github.com/Azure/sdk-release-request/issues/5221) | azure-sdk |  | qiaozha | new comment. | 05-22 | 06-21 |  |
