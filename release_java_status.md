@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5271](https://github.com/Azure/sdk-release-request/issues/5271) | azure-sdk |  | haolingdong-msft |  | 06-11 | 06-21 |  |
-| 2 | [#5267](https://github.com/Azure/sdk-release-request/issues/5267) | azure-sdk |  | XiaofeiCao | new issue. TypeSpec. | 06-11 | 06-24 |  |
+| 1 | [#5271](https://github.com/Azure/sdk-release-request/issues/5271) | azure-sdk |  | haolingdong-msft | new comment. HoldOn. | 06-11 | 07-26 |  |
+| 2 | [#5267](https://github.com/Azure/sdk-release-request/issues/5267) | azure-sdk |  | XiaofeiCao | new issue. FirstGA. TypeSpec. | 06-11 | 06-24 |  |
 | 3 | [#5263](https://github.com/Azure/sdk-release-request/issues/5263) | azure-sdk |  | v-hongli1 | new issue. | 06-11 | 06-21 |  |
 | 4 | [#5259](https://github.com/Azure/sdk-release-request/issues/5259) | azure-sdk |  | v-hongli1 | new issue. | 06-06 | 06-21 |  |
 | 5 | [#5255](https://github.com/Azure/sdk-release-request/issues/5255) | azure-sdk |  | haolingdong-msft | HoldOn. TypeSpec. | 06-05 | 06-21 |  |
 | 6 | [#5251](https://github.com/Azure/sdk-release-request/issues/5251) | azure-sdk |  | v-hongli1 | new issue. | 06-05 | 06-21 |  |
-| 7 | [#5247](https://github.com/Azure/sdk-release-request/issues/5247) | azure-sdk |  | weidongxu-microsoft | TypeSpec. | 06-05 | 06-21 |  |
+| 7 | [#5247](https://github.com/Azure/sdk-release-request/issues/5247) | azure-sdk |  | weidongxu-microsoft | new comment. HoldOn. TypeSpec. | 06-05 | 06-27 |  |
 | 8 | [#5239](https://github.com/Azure/sdk-release-request/issues/5239) | azure-sdk |  | haolingdong-msft | new issue. new comment. | 06-04 | 06-07 |  |
 | 9 | [#5235](https://github.com/Azure/sdk-release-request/issues/5235) | azure-sdk |  | v-hongli1 | new issue. | 06-04 | 06-21 |  |
 | 10 | [#5224](https://github.com/Azure/sdk-release-request/issues/5224) | yaotongms |  | weidongxu-microsoft | new issue. | 05-23 | 05-31 |  |
