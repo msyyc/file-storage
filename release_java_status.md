@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5271](https://github.com/Azure/sdk-release-request/issues/5271) | azure-sdk |  | haolingdong-msft | new issue. new comment. | 06-11 | 07-26 |  |
+| 1 | [#5271](https://github.com/Azure/sdk-release-request/issues/5271) | azure-sdk |  | haolingdong-msft | new issue. new comment. | 06-11 | 06-21 |  |
 | 2 | [#5267](https://github.com/Azure/sdk-release-request/issues/5267) | azure-sdk |  | XiaofeiCao | new issue. TypeSpec. | 06-11 | 06-24 |  |
 | 3 | [#5263](https://github.com/Azure/sdk-release-request/issues/5263) | azure-sdk |  | v-hongli1 | new issue. | 06-11 | 06-21 |  |
 | 4 | [#5259](https://github.com/Azure/sdk-release-request/issues/5259) | azure-sdk |  | v-hongli1 | new issue. | 06-06 | 06-21 |  |
