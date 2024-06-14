@@ -4,7 +4,7 @@
 | 2 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA. TypeSpec. | 06-11 | 06-24 |  |
 | 3 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 |  | 06-11 | 06-21 |  |
 | 4 | [#5261](https://github.com/Azure/sdk-release-request/issues/5261) | azure-sdk | azure-mgmt-storage | ChenxiJiang333 |  | 06-06 | 06-21 |  |
-| 5 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | azure-sdk | azure-mgmt-computefleet | ChenxiJiang333 | new comment. FirstBeta. ForCLI. TypeSpec. | 06-05 | 06-21 |  |
+| 5 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | azure-sdk | azure-mgmt-computefleet | ChenxiJiang333 | FirstBeta. ForCLI. TypeSpec. | 06-05 | 06-21 |  |
 | 6 | [#5253](https://github.com/Azure/sdk-release-request/issues/5253) | azure-sdk | azure-mgmt-imagebuilder | ChenxiJiang333 | HoldOn. | 06-05 | 06-21 |  |
 | 7 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 06-05 | 06-27 |  |
 | 8 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 06-04 | 06-21 |  |
