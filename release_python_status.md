@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | azure-sdk | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |
-| 2 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new comment. HoldOn. | 06-11 | 07-26 |  |
+| 2 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new comment. | 06-11 | 06-21 |  |
 | 3 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk | azure-mgmt-scvmm | ChenxiJiang333 | FirstGA. TypeSpec. | 06-11 | 06-24 |  |
 | 4 | [#5265](https://github.com/Azure/sdk-release-request/issues/5265) | azure-sdk | azure-mgmt-storagemover | ChenxiJiang333 |  | 06-11 | 06-21 |  |
 | 5 | [#5261](https://github.com/Azure/sdk-release-request/issues/5261) | azure-sdk | azure-mgmt-storage | ChenxiJiang333 |  | 06-06 | 06-21 |  |
