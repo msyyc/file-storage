@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5275](https://github.com/Azure/sdk-release-request/issues/5275) | azure-sdk |  | Alancere | Attention to inconsistent tag. | 06-14 | 07-26 |  |
-| 2 | [#5270](https://github.com/Azure/sdk-release-request/issues/5270) | azure-sdk |  | Alancere | new comment. | 06-11 | 06-21 |  |
+| 2 | [#5270](https://github.com/Azure/sdk-release-request/issues/5270) | azure-sdk |  | Alancere | new comment. | 06-11 | 06-28 |  |
 | 3 | [#5266](https://github.com/Azure/sdk-release-request/issues/5266) | azure-sdk |  | Alancere | FirstGA. | 06-11 | 06-24 |  |
 | 4 | [#5262](https://github.com/Azure/sdk-release-request/issues/5262) | azure-sdk |  | Alancere |  | 06-11 | 06-21 |  |
 | 5 | [#5258](https://github.com/Azure/sdk-release-request/issues/5258) | azure-sdk |  | Alancere |  | 06-06 | 06-21 |  |

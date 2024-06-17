@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5277](https://github.com/Azure/sdk-release-request/issues/5277) | azure-sdk |  | MaryGao | Attention to inconsistent tag. | 06-14 | 07-26 |  |
-| 2 | [#5272](https://github.com/Azure/sdk-release-request/issues/5272) | azure-sdk |  | MaryGao | new issue. new comment. | 06-11 | 06-21 |  |
+| 2 | [#5272](https://github.com/Azure/sdk-release-request/issues/5272) | azure-sdk |  | MaryGao |  | 06-11 | 06-21 |  |
 | 3 | [#5268](https://github.com/Azure/sdk-release-request/issues/5268) | azure-sdk |  | MaryGao | FirstGA. | 06-11 | 06-24 |  |
 | 4 | [#5264](https://github.com/Azure/sdk-release-request/issues/5264) | azure-sdk |  | MaryGao |  | 06-11 | 06-21 |  |
 | 5 | [#5260](https://github.com/Azure/sdk-release-request/issues/5260) | azure-sdk |  | qiaozha |  | 06-06 | 06-21 |  |
