@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#36135](https://github.com/Azure/azure-sdk-for-python/issues/36135)|Documentation Question: Needing guidance on proper SDK usage for creating Frontdoor and WAF|question, Service Attention, Mgmt, customer-reported, Network - Front Door, needs-team-attention|msyyc|new comment|2024-06-18|
-|2|[#36129](https://github.com/Azure/azure-sdk-for-python/issues/36129)|Issue after creating a VM in azure availability zones with the help of python sdk/api call.|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc||2024-06-18|
+|2|[#36129](https://github.com/Azure/azure-sdk-for-python/issues/36129)|Issue after creating a VM in azure availability zones with the help of python sdk/api call.|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-06-18|
 |3|[#36105](https://github.com/Azure/azure-sdk-for-python/issues/36105)|PreTaxCost of VM outputting incorrectly/differently to Cost Analysis blade|question, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|msyyc|new comment|2024-06-17|
 |4|[#36021](https://github.com/Azure/azure-sdk-for-python/issues/36021)|Cannot paginate threat intelligence indicators (Sentinel)|question, Service Attention, Mgmt, customer-reported, needs-team-attention, SecurityInsights|ChenxiJiang333, msyyc|new comment|2024-06-11|
 |5|[#35996](https://github.com/Azure/azure-sdk-for-python/issues/35996)|SecurityCenter().security_contacts list bug|question, Security, Service Attention, Mgmt, customer-reported, issue-addressed|ChenxiJiang333, msyyc||2024-06-10|
