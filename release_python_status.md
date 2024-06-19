@@ -12,5 +12,5 @@
 | 10 | [#5211](https://github.com/Azure/sdk-release-request/issues/5211) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> close to release date. | 05-15 | 06-21 | 1 |
 | 11 | [#5207](https://github.com/Azure/sdk-release-request/issues/5207) | azure-sdk | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> close to release date. OnTime. ForCLI. | 05-15 | 06-21 | 1 |
 | 12 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | close to release date. | 05-08 | 06-21 | 1 |
-| 13 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | HoldOn. | 04-30 | 05-24 |  |
+| 13 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | new comment. HoldOn. | 04-30 | 05-24 |  |
 | 14 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 03-22 | 06-26 |  |
