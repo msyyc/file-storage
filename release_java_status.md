@@ -3,12 +3,12 @@
 | 1 | [#5280](https://github.com/Azure/sdk-release-request/issues/5280) | azure-sdk |  | v-hongli1 | new issue. | 06-18 | 06-28 |  |
 | 2 | [#5276](https://github.com/Azure/sdk-release-request/issues/5276) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 06-14 | 07-26 |  |
 | 3 | [#5271](https://github.com/Azure/sdk-release-request/issues/5271) | azure-sdk |  | haolingdong-msft | new comment. | 06-11 | 06-28 |  |
-| 4 | [#5267](https://github.com/Azure/sdk-release-request/issues/5267) | azure-sdk |  | XiaofeiCao | new issue. FirstGA. TypeSpec. | 06-11 | 06-24 |  |
+| 4 | [#5267](https://github.com/Azure/sdk-release-request/issues/5267) | azure-sdk |  | XiaofeiCao | new issue. FirstGA. | 06-11 | 06-24 |  |
 | 5 | [#5263](https://github.com/Azure/sdk-release-request/issues/5263) | azure-sdk |  | v-hongli1 | new issue. close to release date. | 06-11 | 06-21 | 1 |
 | 6 | [#5259](https://github.com/Azure/sdk-release-request/issues/5259) | azure-sdk |  | v-hongli1 | new issue. close to release date. | 06-06 | 06-21 | 1 |
 | 7 | [#5255](https://github.com/Azure/sdk-release-request/issues/5255) | azure-sdk |  | haolingdong-msft | new comment. close to release date. TypeSpec. | 06-05 | 06-21 | 1 |
 | 8 | [#5251](https://github.com/Azure/sdk-release-request/issues/5251) | azure-sdk |  | v-hongli1 | new issue. close to release date. | 06-05 | 06-21 | 1 |
-| 9 | [#5247](https://github.com/Azure/sdk-release-request/issues/5247) | azure-sdk |  | weidongxu-microsoft | new comment. HoldOn. TypeSpec. | 06-05 | 06-27 |  |
+| 9 | [#5247](https://github.com/Azure/sdk-release-request/issues/5247) | azure-sdk |  | weidongxu-microsoft | new comment. HoldOn. | 06-05 | 06-27 |  |
 | 10 | [#5239](https://github.com/Azure/sdk-release-request/issues/5239) | azure-sdk |  | haolingdong-msft | new issue. new comment. | 06-04 | 06-07 |  |
 | 11 | [#5235](https://github.com/Azure/sdk-release-request/issues/5235) | azure-sdk |  | v-hongli1 | new issue. close to release date. | 06-04 | 06-21 | 1 |
 | 12 | [#5220](https://github.com/Azure/sdk-release-request/issues/5220) | azure-sdk |  | v-hongli1 | new issue. close to release date. | 05-22 | 06-21 | 1 |
