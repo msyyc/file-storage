@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5282](https://github.com/Azure/sdk-release-request/issues/5282) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 |  | 06-18 | 06-28 |  |
+| 1 | [#5282](https://github.com/Azure/sdk-release-request/issues/5282) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 | new issue. | 06-18 | 06-28 |  |
 | 2 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | azure-sdk | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |
 | 3 | [#5273](https://github.com/Azure/sdk-release-request/issues/5273) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | TypeSpec. | 06-11 | 06-28 |  |
 | 4 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk | azure-mgmt-scvmm | ChenxiJiang333 | new issue. FirstGA. | 06-11 | 06-24 |  |
