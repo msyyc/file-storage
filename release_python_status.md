@@ -10,6 +10,6 @@
 | 8 | [#5249](https://github.com/Azure/sdk-release-request/issues/5249) | azure-sdk | azure-mgmt-appcomplianceautomation | ChenxiJiang333 | FirstGA. HoldOn. | 06-05 | 06-27 |  |
 | 9 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | azure-sdk | azure-mgmt-search | ChenxiJiang333 | close to release date. HoldOn. | 06-04 | 06-21 | 0 |
 | 10 | [#5215](https://github.com/Azure/sdk-release-request/issues/5215) | azure-sdk | azure-mgmt-mongocluster | ChenxiJiang333 | close to release date. FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 | 0 |
-| 12 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | close to release date. | 05-08 | 06-21 | 0 |
-| 13 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | new comment. HoldOn. | 04-30 | 05-24 |  |
-| 14 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 03-22 | 06-26 |  |
+| 11 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | azure-sdk | azure-mgmt-avs | ChenxiJiang333 | close to release date. | 05-08 | 06-21 | 0 |
+| 12 | [#5177](https://github.com/Azure/sdk-release-request/issues/5177) | dmonroym | azure-mgmt-redisenterprise | ChenxiJiang333 | new comment. HoldOn. | 04-30 | 05-24 |  |
+| 13 | [#5073](https://github.com/Azure/sdk-release-request/issues/5073) | jasonurban1 | azure-mgmt-edgezones | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 03-22 | 06-26 |  |
