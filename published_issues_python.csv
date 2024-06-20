@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-imagebuilder,azure-sdk,ChenxiJiang333,2024-06-05,2024-06-20,https://github.com/Azure/sdk-release-request/issues/5253,1.4.0,True
 azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-05-15,2024-06-20,https://github.com/Azure/sdk-release-request/issues/5207,9.5.1,True
 azure-mgmt-storagemover,azure-sdk,ChenxiJiang333,2024-06-11,2024-06-18,https://github.com/Azure/sdk-release-request/issues/5265,2.1.0,True
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2024-06-06,2024-06-18,https://github.com/Azure/sdk-release-request/issues/5261,21.2.0,True
