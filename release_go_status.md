@@ -7,10 +7,8 @@
 | 5 | [#5258](https://github.com/Azure/sdk-release-request/issues/5258) | azure-sdk |  | Alancere | new comment. close to release date. | 06-06 | 06-21 | 0 |
 | 6 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | azure-sdk |  | Alancere | close to release date. FirstBeta. | 06-05 | 06-21 | 0 |
 | 7 | [#5246](https://github.com/Azure/sdk-release-request/issues/5246) | azure-sdk |  | Alancere | new comment. FirstGA. HoldOn. | 06-05 | 06-27 |  |
-| 8 | [#5242](https://github.com/Azure/sdk-release-request/issues/5242) | azure-sdk |  | Alancere | close to release date. | 06-04 | 06-21 | 0 |
-| 9 | [#5219](https://github.com/Azure/sdk-release-request/issues/5219) | azure-sdk |  | Alancere | close to release date. | 05-22 | 06-21 | 0 |
-| 10 | [#5212](https://github.com/Azure/sdk-release-request/issues/5212) | azure-sdk |  | Alancere | close to release date. FirstBeta. HoldOn. | 05-21 | 06-21 | 0 |
-| 11 | [#5208](https://github.com/Azure/sdk-release-request/issues/5208) | azure-sdk |  | Alancere | close to release date. | 05-15 | 06-21 | 0 |
-| 12 | [#5204](https://github.com/Azure/sdk-release-request/issues/5204) | azure-sdk |  | Alancere | new comment. close to release date. Attention to inconsistent tag. | 05-15 | 06-21 | 0 |
-| 13 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | close to release date. | 05-08 | 06-21 | 0 |
-| 14 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
+| 8 | [#5212](https://github.com/Azure/sdk-release-request/issues/5212) | azure-sdk |  | Alancere | close to release date. FirstBeta. HoldOn. | 05-21 | 06-21 | 0 |
+| 9 | [#5208](https://github.com/Azure/sdk-release-request/issues/5208) | azure-sdk |  | Alancere | close to release date. | 05-15 | 06-21 | 0 |
+| 10 | [#5204](https://github.com/Azure/sdk-release-request/issues/5204) | azure-sdk |  | Alancere | new comment. close to release date. Attention to inconsistent tag. | 05-15 | 06-21 | 0 |
+| 11 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | azure-sdk |  | Alancere | close to release date. | 05-08 | 06-21 | 0 |
+| 12 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
