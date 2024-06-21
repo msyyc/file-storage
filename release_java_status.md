@@ -12,7 +12,7 @@
 | 10 | [#5239](https://github.com/Azure/sdk-release-request/issues/5239) | azure-sdk |  | haolingdong-msft | new issue. new comment. | 06-04 | 06-07 |  |
 | 11 | [#5220](https://github.com/Azure/sdk-release-request/issues/5220) | azure-sdk |  | v-hongli1 | new issue. close to release date. | 05-22 | 06-21 | 0 |
 | 12 | [#5217](https://github.com/Azure/sdk-release-request/issues/5217) | azure-sdk |  | weidongxu-microsoft | close to release date. Attention to inconsistent tag. | 05-21 | 06-21 | 0 |
-| 13 | [#5213](https://github.com/Azure/sdk-release-request/issues/5213) | azure-sdk |  | XiaofeiCao | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 05-21 | 06-21 | 0 |
+| 13 | [#5213](https://github.com/Azure/sdk-release-request/issues/5213) | azure-sdk |  | XiaofeiCao | close to release date. FirstBeta. HoldOn. TypeSpec. | 05-21 | 06-21 | 0 |
 | 14 | [#5205](https://github.com/Azure/sdk-release-request/issues/5205) | azure-sdk |  | v-hongli1 | new comment. close to release date. Attention to inconsistent tag. | 05-15 | 06-21 | 0 |
 | 15 | [#5189](https://github.com/Azure/sdk-release-request/issues/5189) | azure-sdk |  | weidongxu-microsoft | close to release date. HoldOn. | 05-08 | 06-21 | 0 |
 | 16 | [#5178](https://github.com/Azure/sdk-release-request/issues/5178) | Francisco-Gamino |  | v-hongli1 |  | 05-02 | fail to get. |  |
