@@ -3,7 +3,7 @@
 | 1 | [#5279](https://github.com/Azure/sdk-release-request/issues/5279) | azure-sdk |  | Alancere | new issue. | 06-18 | 06-28 |  |
 | 2 | [#5275](https://github.com/Azure/sdk-release-request/issues/5275) | azure-sdk |  | Alancere | Attention to inconsistent tag. | 06-14 | 07-26 |  |
 | 3 | [#5270](https://github.com/Azure/sdk-release-request/issues/5270) | azure-sdk |  | Alancere | new comment. | 06-11 | 06-28 |  |
-| 4 | [#5266](https://github.com/Azure/sdk-release-request/issues/5266) | azure-sdk |  | Alancere | new comment. FirstGA. | 06-11 | 06-24 |  |
+| 4 | [#5266](https://github.com/Azure/sdk-release-request/issues/5266) | azure-sdk |  | Alancere | new comment. close to release date. FirstGA. | 06-11 | 06-24 | 2 |
 | 5 | [#5262](https://github.com/Azure/sdk-release-request/issues/5262) | azure-sdk |  | Alancere | close to release date. | 06-11 | 06-21 | 0 |
 | 6 | [#5258](https://github.com/Azure/sdk-release-request/issues/5258) | azure-sdk |  | Alancere | new comment. close to release date. | 06-06 | 06-21 | 0 |
 | 7 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | azure-sdk |  | Alancere | close to release date. FirstBeta. | 06-05 | 06-21 | 0 |
