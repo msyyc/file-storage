@@ -17,6 +17,6 @@
 | 15 | Release for StorageMover - 2024-07-01  |  |  | [#5263](https://github.com/Azure/sdk-release-request/issues/5263)  | [#5264](https://github.com/Azure/sdk-release-request/issues/5264)  | 06-11 | 06-21 | Hold on by Java/ |
 | 16 | Microsoft.Network 2023-11-01  |  |  | [#5220](https://github.com/Azure/sdk-release-request/issues/5220)  |  | 05-22 | 06-21 |  |
 | 17 | Release for Deployment Stacks - 2024-03-01  |  |  | [#5217](https://github.com/Azure/sdk-release-request/issues/5217)  | [#5218](https://github.com/Azure/sdk-release-request/issues/5218)  | 05-21 | 06-21 |  |
-| 18 | Cosmos DB 2024-05-15 Stable SDK Release  |  | [#5204](https://github.com/Azure/sdk-release-request/issues/5204)  | [#5205](https://github.com/Azure/sdk-release-request/issues/5205)  | [#5206](https://github.com/Azure/sdk-release-request/issues/5206)  | 05-15 | 06-21 | Hold on by JS/ |
+| 18 | Cosmos DB 2024-05-15 Stable SDK Release  |  | [#5204](https://github.com/Azure/sdk-release-request/issues/5204)  | [#5205](https://github.com/Azure/sdk-release-request/issues/5205)  | [#5206](https://github.com/Azure/sdk-release-request/issues/5206)  | 05-15 | 06-21 |  |
 | 19 | 'Release for Microsoft.Web 2023-12-01'  |  |  | [#5178](https://github.com/Azure/sdk-release-request/issues/5178)  |  | 05-02 | fail to get. |  |
 | 20 | Cosmos DB 2024-05-15 Preview SDK Release  |  | [#5208](https://github.com/Azure/sdk-release-request/issues/5208)  |  |  | 05-15 | 06-21 |  |
