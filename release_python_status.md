@@ -1,6 +1,5 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5288](https://github.com/Azure/sdk-release-request/issues/5288) | ChenxiJiang333 | azure-mgmt-powerbiembedded | ChenxiJiang333 |  | 06-24 | fail to get. |  |
 | 2 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | FirstGA. | 06-21 | 07-25 |  |
 | 3 | [#5283](https://github.com/Azure/sdk-release-request/issues/5283) | azure-sdk | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 06-20 | 07-26 |  |
 | 4 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | azure-sdk | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |

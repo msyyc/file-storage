@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-powerbiembedded,ChenxiJiang333,ChenxiJiang333,2024-06-24,2024-06-24,https://github.com/Azure/sdk-release-request/issues/5288,3.0.0,True
 azure-mgmt-oracledatabase,azure-sdk,ChenxiJiang333,2024-06-11,2024-06-22,https://github.com/Azure/sdk-release-request/issues/5273,1.0.0b2,
 azure-mgmt-imagebuilder,azure-sdk,ChenxiJiang333,2024-06-05,2024-06-20,https://github.com/Azure/sdk-release-request/issues/5253,1.4.0,True
 azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-05-15,2024-06-20,https://github.com/Azure/sdk-release-request/issues/5207,9.5.1,True
