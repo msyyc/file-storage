@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 06-21 | 07-25 |  |
+| 1 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | FirstGA. | 06-21 | 07-25 |  |
 | 2 | [#5283](https://github.com/Azure/sdk-release-request/issues/5283) | azure-sdk | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 06-20 | 07-26 |  |
 | 3 | [#5282](https://github.com/Azure/sdk-release-request/issues/5282) | azure-sdk | azure-mgmt-selfhelp | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 06-18 | 06-28 |  |
 | 4 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | azure-sdk | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |
