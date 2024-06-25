@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5294](https://github.com/Azure/sdk-release-request/issues/5294) | azure-sdk | azure-mgmt-redis | ChenxiJiang333 | Attention to inconsistent tag. | 06-25 | 07-25 |  |
+| 1 | [#5294](https://github.com/Azure/sdk-release-request/issues/5294) | azure-sdk | azure-mgmt-redis | ChenxiJiang333 | new issue. | 06-25 | 07-25 |  |
 | 2 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | close to release date. FirstGA. | 06-21 | 06-28 | 2 |
 | 3 | [#5283](https://github.com/Azure/sdk-release-request/issues/5283) | azure-sdk | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 06-20 | 07-26 |  |
 | 4 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | azure-sdk | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |
