@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | FirstGA. | 06-21 | 07-25 |  |
+| 1 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | close to release date. FirstGA. | 06-21 | 06-28 | 2 |
 | 2 | [#5283](https://github.com/Azure/sdk-release-request/issues/5283) | azure-sdk | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 06-20 | 07-26 |  |
 | 3 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | azure-sdk | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |
 | 4 | [#5269](https://github.com/Azure/sdk-release-request/issues/5269) | azure-sdk | azure-mgmt-scvmm | ChenxiJiang333 | close to release date. FirstGA. | 06-11 | 06-24 | -1 |

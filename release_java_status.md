@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5285](https://github.com/Azure/sdk-release-request/issues/5285) | azure-sdk |  | XiaofeiCao | new issue. new comment. | 06-21 | 07-25 |  |
+| 1 | [#5285](https://github.com/Azure/sdk-release-request/issues/5285) | azure-sdk |  | XiaofeiCao | new issue. new comment. close to release date. FirstGA. | 06-21 | 06-28 | 2 |
 | 2 | [#5276](https://github.com/Azure/sdk-release-request/issues/5276) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 06-14 | 07-26 |  |
 | 3 | [#5271](https://github.com/Azure/sdk-release-request/issues/5271) | azure-sdk |  | haolingdong-msft | new comment. close to release date. | 06-11 | 06-28 | 2 |
 | 4 | [#5267](https://github.com/Azure/sdk-release-request/issues/5267) | azure-sdk |  | XiaofeiCao | new issue. new comment. close to release date. FirstGA. | 06-11 | 06-24 | -1 |
