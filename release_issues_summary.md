@@ -12,8 +12,7 @@
 | 10 | Release for MongoCluster 2024-03-01-preview  | [#5215](https://github.com/Azure/sdk-release-request/issues/5215)  | [#5212](https://github.com/Azure/sdk-release-request/issues/5212)  | [#5213](https://github.com/Azure/sdk-release-request/issues/5213)  | [#5214](https://github.com/Azure/sdk-release-request/issues/5214)  | 05-21 | 06-21 | Hold on by JS/Java/Go/Python/ |
 | 11 | Azure VMware Solution 2023-09-01  | [#5191](https://github.com/Azure/sdk-release-request/issues/5191)  |  |  |  | 05-08 | 06-21 |  |
 | 12 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  | [#5073](https://github.com/Azure/sdk-release-request/issues/5073)  | [#5074](https://github.com/Azure/sdk-release-request/issues/5074)  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  | [#5072](https://github.com/Azure/sdk-release-request/issues/5072)  | 03-22 | 06-26 | Hold on by JS/Java/Go/Python/ |
-| 13 | Release for Azure Arc enabled SCVMM - June 24  |  |  | [#5267](https://github.com/Azure/sdk-release-request/issues/5267)  |  | 06-11 | 06-24 |  |
-| 14 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
-| 15 | Release for Help Rp package-2024-03-01-preview - OperationIds fix for Post APIs  |  |  |  | [#5281](https://github.com/Azure/sdk-release-request/issues/5281)  | 06-18 | 06-28 |  |
-| 16 | Release of OracleDatabase SDK  |  |  |  | [#5272](https://github.com/Azure/sdk-release-request/issues/5272)  | 06-11 | 06-28 |  |
-| 17 | 'Release for Microsoft.Cache - 2024-03-01-preview'  |  |  |  | [#5176](https://github.com/Azure/sdk-release-request/issues/5176)  | 04-30 | 05-24 | Hold on by JS/ |
+| 13 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
+| 14 | Release for Help Rp package-2024-03-01-preview - OperationIds fix for Post APIs  |  |  |  | [#5281](https://github.com/Azure/sdk-release-request/issues/5281)  | 06-18 | 06-28 |  |
+| 15 | Release of OracleDatabase SDK  |  |  |  | [#5272](https://github.com/Azure/sdk-release-request/issues/5272)  | 06-11 | 06-28 |  |
+| 16 | 'Release for Microsoft.Cache - 2024-03-01-preview'  |  |  |  | [#5176](https://github.com/Azure/sdk-release-request/issues/5176)  | 04-30 | 05-24 | Hold on by JS/ |
