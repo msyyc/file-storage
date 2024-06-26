@@ -15,9 +15,7 @@
 | 13 | 'Release for Microsoft.Cache - 2024-03-01-preview'  | [#5177](https://github.com/Azure/sdk-release-request/issues/5177)  |  |  | [#5176](https://github.com/Azure/sdk-release-request/issues/5176)  | 04-30 | 05-24 | Hold on by JS/Python/ |
 | 14 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  | [#5073](https://github.com/Azure/sdk-release-request/issues/5073)  | [#5074](https://github.com/Azure/sdk-release-request/issues/5074)  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  | [#5072](https://github.com/Azure/sdk-release-request/issues/5072)  | 03-22 | 06-26 | Hold on by JS/Java/Go/Python/ |
 | 15 | Release of OracleDatabase SDK  |  | [#5270](https://github.com/Azure/sdk-release-request/issues/5270)  | [#5271](https://github.com/Azure/sdk-release-request/issues/5271)  | [#5272](https://github.com/Azure/sdk-release-request/issues/5272)  | 06-11 | 06-28 |  |
-| 16 | Microsoft.Network 2023-11-01  |  |  | [#5220](https://github.com/Azure/sdk-release-request/issues/5220)  |  | 05-22 | 06-21 |  |
-| 17 | Release for Deployment Stacks - 2024-03-01  |  |  | [#5217](https://github.com/Azure/sdk-release-request/issues/5217)  |  | 05-21 | 06-21 |  |
-| 18 | Cosmos DB 2024-05-15 Stable SDK Release  |  |  | [#5205](https://github.com/Azure/sdk-release-request/issues/5205)  | [#5206](https://github.com/Azure/sdk-release-request/issues/5206)  | 05-15 | 06-21 |  |
-| 19 | 'Release for Microsoft.Web 2023-12-01'  |  |  | [#5178](https://github.com/Azure/sdk-release-request/issues/5178)  |  | 05-02 | fail to get. |  |
-| 20 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
-| 21 | Release for Help Rp package-2024-03-01-preview - OperationIds fix for Post APIs  |  |  |  | [#5281](https://github.com/Azure/sdk-release-request/issues/5281)  | 06-18 | 06-28 |  |
+| 16 | 'Release for Microsoft.Web 2023-12-01'  |  |  | [#5178](https://github.com/Azure/sdk-release-request/issues/5178)  |  | 05-02 | fail to get. |  |
+| 17 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
+| 18 | Release for Help Rp package-2024-03-01-preview - OperationIds fix for Post APIs  |  |  |  | [#5281](https://github.com/Azure/sdk-release-request/issues/5281)  | 06-18 | 06-28 |  |
+| 19 | Cosmos DB 2024-05-15 Stable SDK Release  |  |  |  | [#5206](https://github.com/Azure/sdk-release-request/issues/5206)  | 05-15 | 06-21 |  |
