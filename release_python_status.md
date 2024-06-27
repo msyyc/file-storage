@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5302](https://github.com/Azure/sdk-release-request/issues/5302) | azure-sdk | azure-mgmt-compute | ChenxiJiang333 | new issue. | 06-26 | 07-26 |  |
+| 1 | [#5302](https://github.com/Azure/sdk-release-request/issues/5302) | azure-sdk | azure-mgmt-compute | ChenxiJiang333 |  | 06-26 | 07-26 |  |
 | 2 | [#5298](https://github.com/Azure/sdk-release-request/issues/5298) | azure-sdk | azure-mgmt-appcontainers | ChenxiJiang333 |  | 06-25 | 07-26 |  |
 | 3 | [#5294](https://github.com/Azure/sdk-release-request/issues/5294) | azure-sdk | azure-mgmt-redis | ChenxiJiang333 |  | 06-25 | 07-25 |  |
 | 4 | [#5287](https://github.com/Azure/sdk-release-request/issues/5287) | azure-sdk | azure-mgmt-oracledatabase | ChenxiJiang333 | close to release date. FirstGA. | 06-21 | 06-28 | 0 |
