@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-avs,azure-sdk,ChenxiJiang333,2024-05-08,2024-06-28,https://github.com/Azure/sdk-release-request/issues/5191,9.0.0b1,
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2024-06-06,2024-06-27,https://github.com/Azure/sdk-release-request/issues/5261,21.2.1,True
 azure-mgmt-appcomplianceautomation,azure-sdk,ChenxiJiang333,2024-06-05,2024-06-27,https://github.com/Azure/sdk-release-request/issues/5249,1.0.0,True
 azure-mgmt-redisenterprise,dmonroym,ChenxiJiang333,2024-04-30,2024-06-26,https://github.com/Azure/sdk-release-request/issues/5177,3.1.0b1,
