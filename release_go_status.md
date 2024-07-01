@@ -9,5 +9,5 @@
 | 7 | [#5284](https://github.com/Azure/sdk-release-request/issues/5284) | azure-sdk |  | Alancere | new comment. FirstGA. HoldOn. | 06-21 | 06-28 |  |
 | 8 | [#5275](https://github.com/Azure/sdk-release-request/issues/5275) | azure-sdk |  | Alancere |  | 06-14 | 07-26 |  |
 | 9 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | azure-sdk |  | Alancere | FirstBeta. | 06-05 | 06-21 |  |
-| 10 | [#5212](https://github.com/Azure/sdk-release-request/issues/5212) | azure-sdk |  | Alancere | FirstBeta. HoldOn. | 05-21 | 06-21 |  |
+| 10 | [#5212](https://github.com/Azure/sdk-release-request/issues/5212) | azure-sdk |  | Alancere | FirstBeta. | 05-21 | 06-21 |  |
 | 11 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. HoldOn. TypeSpec. | 03-22 | 05-24 |  |
