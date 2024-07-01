@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5310](https://github.com/Azure/sdk-release-request/issues/5310) | azure-sdk | azure-mgmt-netapp | ChenxiJiang333 |  | 06-27 | 07-26 |  |
-| 2 | [#5306](https://github.com/Azure/sdk-release-request/issues/5306) | azure-sdk | azure-mgmt-network | ChenxiJiang333 | new issue. MultiAPI | 06-27 | 07-25 |  |
+| 2 | [#5306](https://github.com/Azure/sdk-release-request/issues/5306) | azure-sdk | azure-mgmt-network | ChenxiJiang333 | new issue. | 06-27 | 07-25 |  |
 | 3 | [#5302](https://github.com/Azure/sdk-release-request/issues/5302) | azure-sdk | azure-mgmt-compute | ChenxiJiang333 |  | 06-26 | 07-26 |  |
 | 4 | [#5298](https://github.com/Azure/sdk-release-request/issues/5298) | azure-sdk | azure-mgmt-appcontainers | ChenxiJiang333 |  | 06-25 | 07-26 |  |
 | 5 | [#5294](https://github.com/Azure/sdk-release-request/issues/5294) | azure-sdk | azure-mgmt-redis | ChenxiJiang333 |  | 06-25 | 07-25 |  |
