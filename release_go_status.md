@@ -5,7 +5,7 @@
 | 3 | [#5303](https://github.com/Azure/sdk-release-request/issues/5303) | azure-sdk |  | Alancere | new comment. | 06-27 | 07-25 |  |
 | 4 | [#5299](https://github.com/Azure/sdk-release-request/issues/5299) | azure-sdk |  | Alancere |  | 06-26 | 07-26 |  |
 | 5 | [#5295](https://github.com/Azure/sdk-release-request/issues/5295) | azure-sdk |  | Alancere | Attention to inconsistent tag. | 06-25 | 07-26 |  |
-| 6 | [#5291](https://github.com/Azure/sdk-release-request/issues/5291) | azure-sdk |  | Alancere |  | 06-25 | 07-25 |  |
+| 6 | [#5291](https://github.com/Azure/sdk-release-request/issues/5291) | azure-sdk |  | Alancere | new comment. | 06-25 | 07-25 |  |
 | 7 | [#5289](https://github.com/Azure/sdk-release-request/issues/5289) | azure-sdk |  | Alancere |  | 06-25 | 07-25 |  |
 | 8 | [#5284](https://github.com/Azure/sdk-release-request/issues/5284) | azure-sdk |  | Alancere | new comment. FirstGA. HoldOn. | 06-21 | 06-28 |  |
 | 9 | [#5275](https://github.com/Azure/sdk-release-request/issues/5275) | azure-sdk |  | Alancere |  | 06-14 | 07-26 |  |
