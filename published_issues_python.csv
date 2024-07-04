@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-appplatform,ChenxiJiang333,ChenxiJiang333,2024-07-03,2024-07-04,https://github.com/Azure/sdk-release-request/issues/5316,9.1.0,True
 azure-mgmt-mongocluster,azure-sdk,ChenxiJiang333,2024-05-21,2024-07-03,https://github.com/Azure/sdk-release-request/issues/5215,1.0.0b1,
 azure-mgmt-avs,azure-sdk,ChenxiJiang333,2024-05-08,2024-06-28,https://github.com/Azure/sdk-release-request/issues/5191,9.0.0b1,
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2024-06-06,2024-06-27,https://github.com/Azure/sdk-release-request/issues/5261,21.2.1,True
