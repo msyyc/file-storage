@@ -7,7 +7,6 @@
 | 5 | [#5300](https://github.com/Azure/sdk-release-request/issues/5300) | azure-sdk |  | v-hongli1 |  | 06-26 | 07-26 |  |
 | 6 | [#5296](https://github.com/Azure/sdk-release-request/issues/5296) | azure-sdk |  | XiaofeiCao | Attention to inconsistent tag. | 06-25 | 07-26 |  |
 | 7 | [#5292](https://github.com/Azure/sdk-release-request/issues/5292) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 06-25 | 07-25 |  |
-| 8 | [#5285](https://github.com/Azure/sdk-release-request/issues/5285) | azure-sdk |  | XiaofeiCao | new comment. FirstGA. HoldOn. | 06-21 | 06-28 |  |
-| 9 | [#5276](https://github.com/Azure/sdk-release-request/issues/5276) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 06-14 | 07-26 |  |
-| 10 | [#5255](https://github.com/Azure/sdk-release-request/issues/5255) | azure-sdk |  | haolingdong-msft | TypeSpec. | 06-05 | 06-21 |  |
-| 11 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
+| 8 | [#5276](https://github.com/Azure/sdk-release-request/issues/5276) | azure-sdk |  | v-hongli1 | Attention to inconsistent tag. | 06-14 | 07-26 |  |
+| 9 | [#5255](https://github.com/Azure/sdk-release-request/issues/5255) | azure-sdk |  | haolingdong-msft | TypeSpec. | 06-05 | 06-21 |  |
+| 10 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
