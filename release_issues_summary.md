@@ -13,6 +13,5 @@
 | 11 | Release for Azure Container Apps - 2024-02-02-preview  |  |  | [#5315](https://github.com/Azure/sdk-release-request/issues/5315)  |  | 07-02 | 07-26 |  |
 | 12 | Release for container apps 2024-03-01  |  | [#5311](https://github.com/Azure/sdk-release-request/issues/5311)  | [#5312](https://github.com/Azure/sdk-release-request/issues/5312)  | [#5313](https://github.com/Azure/sdk-release-request/issues/5313)  | 07-01 | 07-25 |  |
 | 13 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
-| 14 | Oracle Database GA Release package-2023-09-01  |  |  |  | [#5286](https://github.com/Azure/sdk-release-request/issues/5286)  | 06-21 | 06-28 |  |
-| 15 | Release for MongoCluster 2024-03-01-preview  |  |  |  | [#5214](https://github.com/Azure/sdk-release-request/issues/5214)  | 05-21 | 06-28 |  |
-| 16 | 'Release for Microsoft.Cache - 2024-03-01-preview'  |  |  |  | [#5176](https://github.com/Azure/sdk-release-request/issues/5176)  | 04-30 | 05-24 | Hold on by JS/ |
+| 14 | Release for MongoCluster 2024-03-01-preview  |  |  |  | [#5214](https://github.com/Azure/sdk-release-request/issues/5214)  | 05-21 | 06-28 |  |
+| 15 | 'Release for Microsoft.Cache - 2024-03-01-preview'  |  |  |  | [#5176](https://github.com/Azure/sdk-release-request/issues/5176)  | 04-30 | 05-24 | Hold on by JS/ |
