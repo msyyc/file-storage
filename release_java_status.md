@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5325](https://github.com/Azure/sdk-release-request/issues/5325) | scorpion-ajay |  | XiaofeiCao | new issue. | 07-09 | 07-25 |  |
+| 1 | [#5325](https://github.com/Azure/sdk-release-request/issues/5325) | scorpion-ajay |  | XiaofeiCao | new issue. | 07-09 | 07-31 |  |
 | 2 | [#5321](https://github.com/Azure/sdk-release-request/issues/5321) | FumingZhang |  | v-hongli1 | Attention to inconsistent tag. | 07-05 | 07-25 |  |
 | 3 | [#5315](https://github.com/Azure/sdk-release-request/issues/5315) | jijohn14 |  | XiaofeiCao | new issue. | 07-02 | 07-26 |  |
 | 4 | [#5312](https://github.com/Azure/sdk-release-request/issues/5312) | Juliehzl |  | haolingdong-msft | Attention to inconsistent tag. | 07-01 | 07-25 |  |
