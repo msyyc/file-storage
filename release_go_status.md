@@ -10,4 +10,3 @@
 | 8 | [#5289](https://github.com/Azure/sdk-release-request/issues/5289) | FumingZhang |  | Alancere |  | 06-25 | 07-25 |  |
 | 9 | [#5275](https://github.com/Azure/sdk-release-request/issues/5275) | jeevan-gaikwad |  | Alancere |  | 06-14 | 07-26 |  |
 | 10 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | sahilarora92 |  | Alancere | FirstBeta. | 06-05 | 06-21 |  |
-| 11 | [#5074](https://github.com/Azure/sdk-release-request/issues/5074) | jasonurban1 |  | Alancere | new comment. FirstBeta. | 03-22 | 05-24 |  |
