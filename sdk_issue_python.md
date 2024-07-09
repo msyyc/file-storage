@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36366](https://github.com/Azure/azure-sdk-for-python/issues/36366)|CostManagementClient does not return tags associated with resource groups|question, Service Attention, Mgmt, customer-reported|msyyc|new comment|2024-07-05|
+|1|[#36366](https://github.com/Azure/azure-sdk-for-python/issues/36366)|CostManagementClient does not return tags associated with resource groups|question, Service Attention, Mgmt, customer-reported|msyyc||2024-07-05|
 |2|[#36233](https://github.com/Azure/azure-sdk-for-python/issues/36233)|yntaxWarning: invalid escape sequence - azure-mgmt-keyvault|question, KeyVault, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-06-25|
 |3|[#36232](https://github.com/Azure/azure-sdk-for-python/issues/36232)|SyntaxWarning: invalid escape sequence - azure-mgmt-network|question, Network, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-06-25|
 |4|[#36129](https://github.com/Azure/azure-sdk-for-python/issues/36129)|Issue after creating a VM in azure availability zones with the help of python sdk/api call.|question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc||2024-06-18|
@@ -12,4 +12,4 @@
 |10|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |11|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
 |12|[#29574](https://github.com/Azure/azure-sdk-for-python/issues/29574)|web_apps.create_or_update_function_secret ommits required request property Properties|bug, Service Attention, Mgmt, customer-reported, Web Apps, needs-team-attention|msyyc||2023-03-24|
-|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention|iscai-msft, lmazuel, msyyc|no reply > 7|2021-04-05|
+|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention|lmazuel, iscai-msft, msyyc|no reply > 7|2021-04-05|
