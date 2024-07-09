@@ -12,3 +12,4 @@
 | 10 | [#5276](https://github.com/Azure/sdk-release-request/issues/5276) | jeevan-gaikwad |  | v-hongli1 | Attention to inconsistent tag. | 06-14 | 07-26 |  |
 | 11 | [#5255](https://github.com/Azure/sdk-release-request/issues/5255) | sahilarora92 |  | haolingdong-msft | TypeSpec. | 06-05 | 06-21 |  |
 | 12 | [#5071](https://github.com/Azure/sdk-release-request/issues/5071) | jasonurban1 |  | haolingdong-msft | new comment. FirstBeta. HoldOn. | 03-22 | 05-24 |  |
+| 13 | [#5064](https://github.com/Azure/sdk-release-request/issues/5064) | alluri02 |  | XiaofeiCao | new comment. FirstGA. FirstBeta. | 03-20 | 07-15 |  |
