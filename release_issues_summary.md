@@ -18,4 +18,3 @@
 | 16 | Release for container apps 2024-03-01  |  | [#5311](https://github.com/Azure/sdk-release-request/issues/5311)  | [#5312](https://github.com/Azure/sdk-release-request/issues/5312)  | [#5313](https://github.com/Azure/sdk-release-request/issues/5313)  | 07-01 | 07-25 |  |
 | 17 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  | [#5072](https://github.com/Azure/sdk-release-request/issues/5072)  | 03-22 | 05-24 | Hold on by Java/ |
 | 18 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
-| 19 | 'Release for Microsoft.Cache - 2024-03-01-preview'  |  |  |  | [#5176](https://github.com/Azure/sdk-release-request/issues/5176)  | 04-30 | 05-24 |  |
