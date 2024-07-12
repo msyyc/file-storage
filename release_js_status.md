@@ -13,4 +13,4 @@
 | 11 | [#5256](https://github.com/Azure/sdk-release-request/issues/5256) | sahilarora92 |  | qiaozha | FirstBeta. HoldOn. | 06-05 | 06-28 |  |
 | 12 | [#5244](https://github.com/Azure/sdk-release-request/issues/5244) | mattgotteiner |  | qiaozha | HoldOn. | 06-04 | 06-21 |  |
 | 13 | [#5072](https://github.com/Azure/sdk-release-request/issues/5072) | jasonurban1 |  | MaryGao | FirstBeta. | 03-22 | 05-24 |  |
-| 14 | [#5065](https://github.com/Azure/sdk-release-request/issues/5065) | alluri02 |  | MaryGao | new comment. FirstGA. FirstBeta. | 03-20 | 07-15 |  |
+| 14 | [#5065](https://github.com/Azure/sdk-release-request/issues/5065) | alluri02 |  | MaryGao | new comment. close to release date. FirstGA. FirstBeta. | 03-20 | 07-15 | 2 |
