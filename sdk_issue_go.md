@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#23118](https://github.com/Azure/azure-sdk-for-go/issues/23118)|Support update container registry cache rule source repository and target repository|question, Container Registry, Service Attention, Mgmt|Alancere||2024-06-27|
-|2|[#23050](https://github.com/Azure/azure-sdk-for-go/issues/23050)|Virtual Machines Managed Identity Info is Missing|question, Compute - VM, Mgmt, customer-reported, needs-author-feedback|Alancere||2024-06-12|
+|2|[#23050](https://github.com/Azure/azure-sdk-for-go/issues/23050)|Virtual Machines Managed Identity Info is Missing|question, Compute - VM, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2024-06-12|
 |3|[#22812](https://github.com/Azure/azure-sdk-for-go/issues/22812)|Request to add Workflow trigger run support to send body for request.|question, Logic App, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-05-01|
 |4|[#22786](https://github.com/Azure/azure-sdk-for-go/issues/22786)|armconsumption.ModernReservationRecommendationProperties missing documented ResourceType field|Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2024-04-26|
 |5|[#22736](https://github.com/Azure/azure-sdk-for-go/issues/22736)|armeventhub namespaces client list pager responses have nil PrivateEndpointConnections|question, Event Hubs, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-04-10|
