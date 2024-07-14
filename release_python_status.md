@@ -12,4 +12,4 @@
 | 10 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | jeevan-gaikwad | azure-mgmt-dataprotection | ChenxiJiang333 |  | 06-14 | 07-26 |  |
 | 11 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | sahilarora92 | azure-mgmt-computefleet | ChenxiJiang333 | FirstBeta. HoldOn. ForCLI. TypeSpec. | 06-05 | 06-21 |  |
 | 12 | [#5245](https://github.com/Azure/sdk-release-request/issues/5245) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 06-04 | 06-21 |  |
-| 13 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 | azure-mgmt-informaticadatamanagement | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 03-20 | 07-15 | 1 |
+| 13 | [#5066](https://github.com/Azure/sdk-release-request/issues/5066) | alluri02 | azure-mgmt-informaticadatamanagement | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 03-20 | 07-15 | 0 |
