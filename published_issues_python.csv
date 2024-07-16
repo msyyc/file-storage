@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-sql,ChenxiJiang333,ChenxiJiang333,2024-07-11,2024-07-16,https://github.com/Azure/sdk-release-request/issues/5329,4.0.0b18,
 azure-mgmt-edgezones,jasonurban1,ChenxiJiang333,2024-03-22,2024-07-08,https://github.com/Azure/sdk-release-request/issues/5073,1.0.0b1,
 azure-mgmt-oracledatabase,azure-sdk,ChenxiJiang333,2024-06-21,2024-07-04,https://github.com/Azure/sdk-release-request/issues/5287,1.0.0,True
 azure-mgmt-appplatform,ChenxiJiang333,ChenxiJiang333,2024-07-03,2024-07-04,https://github.com/Azure/sdk-release-request/issues/5316,9.1.0,True
