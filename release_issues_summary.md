@@ -15,6 +15,6 @@
 | 13 | 'Release for informatica 2024-05-08'  | [#5066](https://github.com/Azure/sdk-release-request/issues/5066)  |  |  |  | 03-20 | 07-15 |  |
 | 14 | 'Release for EventHub Api-Version=2024-01-01'  |  |  | [#5317](https://github.com/Azure/sdk-release-request/issues/5317)  |  | 07-05 | 07-24 |  |
 | 15 | Release for Azure Container Apps - 2024-02-02-preview  |  |  | [#5315](https://github.com/Azure/sdk-release-request/issues/5315)  |  | 07-02 | 07-26 |  |
-| 16 | Release for container apps 2024-03-01  |  | [#5311](https://github.com/Azure/sdk-release-request/issues/5311)  | [#5312](https://github.com/Azure/sdk-release-request/issues/5312)  | [#5313](https://github.com/Azure/sdk-release-request/issues/5313)  | 07-01 | 07-25 |  |
+| 16 | Release for container apps 2024-03-01  |  | [#5311](https://github.com/Azure/sdk-release-request/issues/5311)  | [#5312](https://github.com/Azure/sdk-release-request/issues/5312)  |  | 07-01 | 07-25 |  |
 | 17 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  | [#5072](https://github.com/Azure/sdk-release-request/issues/5072)  | 03-22 | 05-24 | Hold on by Java/ |
 | 18 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
