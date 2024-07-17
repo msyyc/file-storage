@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5330](https://github.com/Azure/sdk-release-request/issues/5330) | ChenxiJiang333 | azure-mgmt-keyvault | ChenxiJiang333 |  | 07-16 | fail to get. |  |
 | 2 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 07-31 |  |
-| 3 | [#5323](https://github.com/Azure/sdk-release-request/issues/5323) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. close to release date. ForCLI. | 07-05 | 07-18 | 1 |
+| 3 | [#5323](https://github.com/Azure/sdk-release-request/issues/5323) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. close to release date. ForCLI. | 07-05 | 07-18 | 0 |
 | 4 | [#5310](https://github.com/Azure/sdk-release-request/issues/5310) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 06-27 | 07-26 |  |
 | 5 | [#5306](https://github.com/Azure/sdk-release-request/issues/5306) | GuptaVertika | azure-mgmt-network | ChenxiJiang333 |  | 06-27 | 07-25 |  |
 | 6 | [#5302](https://github.com/Azure/sdk-release-request/issues/5302) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 06-26 | 07-26 |  |
