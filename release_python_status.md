@@ -2,10 +2,10 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5366](https://github.com/Azure/sdk-release-request/issues/5366) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 07-18 | 08-23 |  |
 | 2 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 |  | 07-18 | 08-23 |  |
-| 3 | [#5338](https://github.com/Azure/sdk-release-request/issues/5338) | sudobrendan | azure-mgmt-redhatopenshift | ChenxiJiang333 | new issue. MultiAPI | 07-18 | 07-26 |  |
+| 3 | [#5338](https://github.com/Azure/sdk-release-request/issues/5338) | sudobrendan | azure-mgmt-redhatopenshift | ChenxiJiang333 |  | 07-18 | 07-26 |  |
 | 4 | [#5335](https://github.com/Azure/sdk-release-request/issues/5335) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | OnTime. | 07-18 | 07-23 |  |
 | 5 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 07-31 |  |
-| 6 | [#5323](https://github.com/Azure/sdk-release-request/issues/5323) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. close to release date. ForCLI. | 07-05 | 07-18 | 0 |
+| 6 | [#5323](https://github.com/Azure/sdk-release-request/issues/5323) | FumingZhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. close to release date. ForCLI. | 07-05 | 07-18 | -1 |
 | 7 | [#5319](https://github.com/Azure/sdk-release-request/issues/5319) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 |  | 07-05 | 07-24 |  |
 | 8 | [#5310](https://github.com/Azure/sdk-release-request/issues/5310) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 06-27 | 07-26 |  |
 | 9 | [#5306](https://github.com/Azure/sdk-release-request/issues/5306) | GuptaVertika | azure-mgmt-network | ChenxiJiang333 |  | 06-27 | 07-25 |  |
