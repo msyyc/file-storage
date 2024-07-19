@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5366](https://github.com/Azure/sdk-release-request/issues/5366) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. | 07-18 | 08-23 |  |
+| 1 | [#5366](https://github.com/Azure/sdk-release-request/issues/5366) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 07-18 | 08-23 |  |
 | 2 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 |  | 07-18 | 08-23 |  |
 | 3 | [#5338](https://github.com/Azure/sdk-release-request/issues/5338) | sudobrendan | azure-mgmt-redhatopenshift | ChenxiJiang333 |  | 07-18 | 07-26 |  |
 | 4 | [#5335](https://github.com/Azure/sdk-release-request/issues/5335) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | OnTime. | 07-18 | 07-23 |  |
