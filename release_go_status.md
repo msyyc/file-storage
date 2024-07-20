@@ -8,7 +8,7 @@
 | 6 | [#5340](https://github.com/Azure/sdk-release-request/issues/5340) | malpaniHMC |  | Alancere | new comment. Attention to inconsistent tag. | 07-18 | 08-23 |  |
 | 7 | [#5339](https://github.com/Azure/sdk-release-request/issues/5339) | yaotongms |  | Alancere | new issue. | 07-18 | 08-23 |  |
 | 8 | [#5337](https://github.com/Azure/sdk-release-request/issues/5337) | sudobrendan |  | Alancere | new issue. | 07-18 | 07-26 |  |
-| 9 | [#5334](https://github.com/Azure/sdk-release-request/issues/5334) | yaotongms |  | Alancere |  | 07-18 | 07-23 |  |
+| 9 | [#5334](https://github.com/Azure/sdk-release-request/issues/5334) | yaotongms |  | Alancere | close to release date. | 07-18 | 07-23 | 2 |
 | 10 | [#5328](https://github.com/Azure/sdk-release-request/issues/5328) | schaudhari6254888 |  | Alancere | new comment. | 07-10 | 07-24 |  |
 | 11 | [#5324](https://github.com/Azure/sdk-release-request/issues/5324) | scorpion-ajay |  | Alancere |  | 07-09 | 07-31 |  |
 | 12 | [#5320](https://github.com/Azure/sdk-release-request/issues/5320) | FumingZhang |  | Alancere | Attention to inconsistent tag. | 07-05 | 07-25 |  |
