@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2024-07-05,2024-07-22,https://github.com/Azure/sdk-release-request/issues/5323,31.0.0,True
 azure-mgmt-search,azure-sdk,ChenxiJiang333,2024-06-04,2024-07-22,https://github.com/Azure/sdk-release-request/issues/5245,9.2.0b2,
 azure-mgmt-keyvault,ChenxiJiang333,ChenxiJiang333,2024-07-16,2024-07-17,https://github.com/Azure/sdk-release-request/issues/5330,10.3.1,True
 azure-mgmt-informaticadatamanagement,alluri02,ChenxiJiang333,2024-03-20,2024-07-16,https://github.com/Azure/sdk-release-request/issues/5066,1.0.0,True
