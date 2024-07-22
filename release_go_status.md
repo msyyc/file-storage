@@ -5,7 +5,7 @@
 | 3 | [#5356](https://github.com/Azure/sdk-release-request/issues/5356) | yaotongms |  | Alancere | new issue. | 07-18 | 08-23 |  |
 | 4 | [#5345](https://github.com/Azure/sdk-release-request/issues/5345) | yaotongms |  | Alancere | Attention to inconsistent tag. | 07-18 | 08-23 |  |
 | 5 | [#5343](https://github.com/Azure/sdk-release-request/issues/5343) | yaotongms |  | Alancere | new issue. | 07-18 | 08-23 |  |
-| 6 | [#5340](https://github.com/Azure/sdk-release-request/issues/5340) | malpaniHMC |  | Alancere | new comment. Attention to inconsistent tag. | 07-18 | 08-23 |  |
+| 6 | [#5340](https://github.com/Azure/sdk-release-request/issues/5340) | malpaniHMC |  | Alancere | Attention to inconsistent tag. | 07-18 | 08-23 |  |
 | 7 | [#5339](https://github.com/Azure/sdk-release-request/issues/5339) | yaotongms |  | Alancere | new issue. | 07-18 | 08-23 |  |
 | 8 | [#5337](https://github.com/Azure/sdk-release-request/issues/5337) | sudobrendan |  | Alancere | new issue. | 07-18 | 07-26 |  |
 | 9 | [#5334](https://github.com/Azure/sdk-release-request/issues/5334) | yaotongms |  | Alancere | close to release date. | 07-18 | 07-23 | 0 |
