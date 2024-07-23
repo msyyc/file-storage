@@ -15,4 +15,4 @@
 | 13 | [#5291](https://github.com/Azure/sdk-release-request/issues/5291) | koderjoker |  | Alancere | new comment. close to release date. | 06-25 | 07-25 | 1 |
 | 14 | [#5289](https://github.com/Azure/sdk-release-request/issues/5289) | FumingZhang |  | Alancere | new comment. close to release date. | 06-25 | 07-25 | 1 |
 | 15 | [#5275](https://github.com/Azure/sdk-release-request/issues/5275) | jeevan-gaikwad |  | Alancere | new comment. close to release date. | 06-14 | 07-26 | 2 |
-| 16 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | sahilarora92 |  | Alancere | FirstBeta. HoldOn. | 06-05 | 06-21 |  |
+| 16 | [#5254](https://github.com/Azure/sdk-release-request/issues/5254) | sahilarora92 |  | Alancere | new comment. FirstBeta. | 06-05 | 06-21 |  |
