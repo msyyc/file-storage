@@ -12,4 +12,4 @@
 | 10 | [#5294](https://github.com/Azure/sdk-release-request/issues/5294) | koderjoker | azure-mgmt-redis | ChenxiJiang333 | close to release date. | 06-25 | 07-25 | 1 |
 | 11 | [#5283](https://github.com/Azure/sdk-release-request/issues/5283) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new comment. close to release date. HoldOn. | 06-20 | 07-26 | 2 |
 | 12 | [#5278](https://github.com/Azure/sdk-release-request/issues/5278) | jeevan-gaikwad | azure-mgmt-dataprotection | ChenxiJiang333 | new comment. close to release date. | 06-14 | 07-26 | 2 |
-| 13 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | sahilarora92 | azure-mgmt-computefleet | ChenxiJiang333 | FirstBeta. ForCLI. TypeSpec. | 06-05 | 06-21 |  |
+| 13 | [#5257](https://github.com/Azure/sdk-release-request/issues/5257) | sahilarora92 | azure-mgmt-computefleet | ChenxiJiang333 | FirstBeta. TypeSpec. | 06-05 | 06-21 |  |
