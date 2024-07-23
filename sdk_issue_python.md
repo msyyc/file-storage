@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36459](https://github.com/Azure/azure-sdk-for-python/issues/36459)|The latest azure.mgmt.rdbms returns publicNetworkAccess = Enabled whereas latest az cli returns publicNetworkAccess = Disabled|question, Mgmt, customer-reported, needs-team-attention, RDBMS|msyyc|new comment|2024-07-12|
+|1|[#36459](https://github.com/Azure/azure-sdk-for-python/issues/36459)|The latest azure.mgmt.rdbms returns publicNetworkAccess = Enabled whereas latest az cli returns publicNetworkAccess = Disabled|question, Mgmt, customer-reported, needs-team-attention, RDBMS|msyyc||2024-07-12|
 |2|[#36366](https://github.com/Azure/azure-sdk-for-python/issues/36366)|CostManagementClient does not return tags associated with resource groups|question, Service Attention, Mgmt, customer-reported|msyyc|no reply > 7|2024-07-05|
 |3|[#36233](https://github.com/Azure/azure-sdk-for-python/issues/36233)|yntaxWarning: invalid escape sequence - azure-mgmt-keyvault|question, KeyVault, Mgmt, customer-reported, issue-addressed|msyyc||2024-06-25|
 |4|[#36232](https://github.com/Azure/azure-sdk-for-python/issues/36232)|SyntaxWarning: invalid escape sequence - azure-mgmt-network|question, Network, Mgmt, customer-reported, needs-team-attention|msyyc||2024-06-25|
