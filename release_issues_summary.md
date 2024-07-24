@@ -17,7 +17,7 @@
 | 15 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 16 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
 | 17 | Release for ARO 2023-11-22  |  | [#5337](https://github.com/Azure/sdk-release-request/issues/5337)  |  |  | 07-18 | 07-26 |  |
-| 18 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  | [#5290](https://github.com/Azure/sdk-release-request/issues/5290)  | 06-25 | 07-25 |  |
+| 18 | Release for Container Service - 2024-04-02-preview  |  | [#5289](https://github.com/Azure/sdk-release-request/issues/5289)  |  |  | 06-25 | 07-25 |  |
 | 19 | Release for Microsoft.DataProtection/backupvault 2024-04-01  |  | [#5275](https://github.com/Azure/sdk-release-request/issues/5275)  |  | [#5277](https://github.com/Azure/sdk-release-request/issues/5277)  | 06-14 | 07-26 |  |
 | 20 | Release for Azure Fleet 2024-05-01-preview  |  | [#5254](https://github.com/Azure/sdk-release-request/issues/5254)  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-21 | Hold on by JS/ |
 | 21 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
