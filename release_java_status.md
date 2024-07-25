@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5374](https://github.com/Azure/sdk-release-request/issues/5374) | mwesigwaguma |  | weidongxu-microsoft | Attention to inconsistent tag. | 07-24 | 08-23 |  |
+| 1 | [#5374](https://github.com/Azure/sdk-release-request/issues/5374) | mwesigwaguma |  | weidongxu-microsoft | close to release date. Attention to inconsistent tag. | 07-24 | 07-26 | 0 |
 | 2 | [#5370](https://github.com/Azure/sdk-release-request/issues/5370) | priyjain358 |  | XiaofeiCao | new issue. | 07-24 | 08-22 |  |
-| 3 | [#5367](https://github.com/Azure/sdk-release-request/issues/5367) | gouthamMN |  | haolingdong-msft | new issue. | 07-23 | 08-23 |  |
+| 3 | [#5367](https://github.com/Azure/sdk-release-request/issues/5367) | gouthamMN |  | haolingdong-msft | new issue. close to release date. | 07-23 | 07-26 | 0 |
 | 4 | [#5364](https://github.com/Azure/sdk-release-request/issues/5364) | grizzlytheodore |  | v-hongli1 |  | 07-18 | 08-23 |  |
 | 5 | [#5342](https://github.com/Azure/sdk-release-request/issues/5342) | malpaniHMC |  | weidongxu-microsoft | Attention to inconsistent tag. | 07-18 | 08-23 |  |
 | 6 | [#5325](https://github.com/Azure/sdk-release-request/issues/5325) | scorpion-ajay |  | XiaofeiCao |  | 07-09 | 07-31 |  |
