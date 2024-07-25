@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5376](https://github.com/Azure/sdk-release-request/issues/5376) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 07-24 | 08-23 |  |
+| 1 | [#5376](https://github.com/Azure/sdk-release-request/issues/5376) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | duplicated issue  <br> new issue. | 07-24 | 08-23 |  |
 | 2 | [#5372](https://github.com/Azure/sdk-release-request/issues/5372) | priyjain358 | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 07-24 | 08-22 |  |
 | 3 | [#5366](https://github.com/Azure/sdk-release-request/issues/5366) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new comment. close to release date. | 07-18 | 07-26 | 0 |
 | 4 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 08-23 |  |
