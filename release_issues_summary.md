@@ -15,10 +15,9 @@
 | 13 | Release for Azure Cache for Redis - 2024-03-01  |  |  | [#5292](https://github.com/Azure/sdk-release-request/issues/5292)  | [#5293](https://github.com/Azure/sdk-release-request/issues/5293)  | 06-25 | 07-25 |  |
 | 14 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 15 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 16 | Release for ARO 2023-11-22  |  | [#5337](https://github.com/Azure/sdk-release-request/issues/5337)  |  |  | 07-18 | 07-26 |  |
-| 17 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
-| 18 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
-| 19 | Release for NetAppFiles - 2023-11-01  |  |  |  | [#5309](https://github.com/Azure/sdk-release-request/issues/5309)  | 06-27 | 07-26 |  |
-| 20 | Release for Microsoft.DataProtection/backupvault 2024-04-01  |  |  |  | [#5277](https://github.com/Azure/sdk-release-request/issues/5277)  | 06-14 | 07-26 |  |
-| 21 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
-| 22 | Release for Search - 2024-06-01-Preview  |  |  |  | [#5244](https://github.com/Azure/sdk-release-request/issues/5244)  | 06-04 | 06-21 |  |
+| 16 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
+| 17 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
+| 18 | Release for NetAppFiles - 2023-11-01  |  |  |  | [#5309](https://github.com/Azure/sdk-release-request/issues/5309)  | 06-27 | 07-26 |  |
+| 19 | Release for Microsoft.DataProtection/backupvault 2024-04-01  |  |  |  | [#5277](https://github.com/Azure/sdk-release-request/issues/5277)  | 06-14 | 07-26 |  |
+| 20 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
+| 21 | Release for Search - 2024-06-01-Preview  |  |  |  | [#5244](https://github.com/Azure/sdk-release-request/issues/5244)  | 06-04 | 06-21 |  |
