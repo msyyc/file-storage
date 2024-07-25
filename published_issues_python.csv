@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-servicefabricmanagedclusters,azure-sdk,ChenxiJiang333,2024-06-20,2024-07-25,https://github.com/Azure/sdk-release-request/issues/5283,2.0.0,True
+azure-mgmt-network,azure-sdk,ChenxiJiang333,2024-06-27,2024-07-25,https://github.com/Azure/sdk-release-request/issues/5306,26.0.0,True
+azure-mgmt-compute,azure-sdk,ChenxiJiang333,2024-07-18,2024-07-25,https://github.com/Azure/sdk-release-request/issues/5366,32.0.0,True
 azure-mgmt-computefleet,azure-sdk,ChenxiJiang333,2024-06-05,2024-07-24,https://github.com/Azure/sdk-release-request/issues/5257,1.0.0b1,
 azure-mgmt-dataprotection,azure-sdk,ChenxiJiang333,2024-06-14,2024-07-23,https://github.com/Azure/sdk-release-request/issues/5278,1.4.0,True
 azure-mgmt-redis,azure-sdk,ChenxiJiang333,2024-06-25,2024-07-23,https://github.com/Azure/sdk-release-request/issues/5294,14.4.0,True
