@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#23187](https://github.com/Azure/azure-sdk-for-go/issues/23187)|ARM Resource Health NewEmergingIssuesClient().NewListPager NextPage is failing to unmarshall armresourcehealth.EmergingIssue.RefreshTimestamp|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-07-13|
+|1|[#23187](https://github.com/Azure/azure-sdk-for-go/issues/23187)|ARM Resource Health NewEmergingIssuesClient().NewListPager NextPage is failing to unmarshall armresourcehealth.EmergingIssue.RefreshTimestamp|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-author-feedback|Alancere||2024-07-13|
 |2|[#23118](https://github.com/Azure/azure-sdk-for-go/issues/23118)|Support update container registry cache rule source repository and target repository|question, Container Registry, Service Attention, Mgmt|Alancere||2024-06-27|
 |3|[#23050](https://github.com/Azure/azure-sdk-for-go/issues/23050)|Virtual Machines Managed Identity Info is Missing|question, Compute - VM, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|Alancere||2024-06-12|
 |4|[#22812](https://github.com/Azure/azure-sdk-for-go/issues/22812)|Request to add Workflow trigger run support to send body for request.|question, Logic App, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-05-01|
