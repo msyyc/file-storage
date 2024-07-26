@@ -18,6 +18,5 @@
 | 16 | Microsoft.Network 2024-01-01  |  |  |  | [#5305](https://github.com/Azure/sdk-release-request/issues/5305)  | 06-27 | 07-25 |  |
 | 17 | Azure Compute release version 2024-03-01   |  |  |  | [#5301](https://github.com/Azure/sdk-release-request/issues/5301)  | 06-26 | 07-26 |  |
 | 18 | Release for Azure Cache for Redis - 2024-03-01  |  |  |  | [#5293](https://github.com/Azure/sdk-release-request/issues/5293)  | 06-25 | 07-25 |  |
-| 19 | Release for Microsoft.DataProtection/backupvault 2024-04-01  |  |  |  | [#5277](https://github.com/Azure/sdk-release-request/issues/5277)  | 06-14 | 07-26 |  |
-| 20 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
-| 21 | Release for Search - 2024-06-01-Preview  |  |  |  | [#5244](https://github.com/Azure/sdk-release-request/issues/5244)  | 06-04 | 06-21 |  |
+| 19 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
+| 20 | Release for Search - 2024-06-01-Preview  |  |  |  | [#5244](https://github.com/Azure/sdk-release-request/issues/5244)  | 06-04 | 06-21 |  |
