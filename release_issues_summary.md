@@ -11,8 +11,8 @@
 | 9 | Release for Compute DiskRP 2024-03-02  |  | [#5363](https://github.com/Azure/sdk-release-request/issues/5363)  |  | [#5365](https://github.com/Azure/sdk-release-request/issues/5365)  | 07-18 | 08-23 |  |
 | 10 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
 | 11 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 07-24 | Hold on by Go/ |
-| 12 | Release for Container Service - 2024-05-01  |  | [#5320](https://github.com/Azure/sdk-release-request/issues/5320)  |  | [#5322](https://github.com/Azure/sdk-release-request/issues/5322)  | 07-05 | 07-25 |  |
-| 13 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
+| 12 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
+| 13 | Release for Container Service - 2024-05-01  |  |  |  | [#5322](https://github.com/Azure/sdk-release-request/issues/5322)  | 07-05 | 07-25 |  |
 | 14 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
 | 15 | Release for NetAppFiles - 2023-11-01  |  |  |  | [#5309](https://github.com/Azure/sdk-release-request/issues/5309)  | 06-27 | 07-26 |  |
 | 16 | Microsoft.Network 2024-01-01  |  |  |  | [#5305](https://github.com/Azure/sdk-release-request/issues/5305)  | 06-27 | 07-25 |  |

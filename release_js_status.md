@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5375](https://github.com/Azure/sdk-release-request/issues/5375) | mwesigwaguma |  | MaryGao | new comment. close to release date. Attention to inconsistent tag. FirstBeta. | 07-24 | 07-26 | 0 |
+| 1 | [#5375](https://github.com/Azure/sdk-release-request/issues/5375) | mwesigwaguma |  | MaryGao | close to release date. Attention to inconsistent tag. FirstBeta. | 07-24 | 07-26 | 0 |
 | 2 | [#5371](https://github.com/Azure/sdk-release-request/issues/5371) | priyjain358 |  | MaryGao | new issue. | 07-24 | 08-22 |  |
 | 3 | [#5368](https://github.com/Azure/sdk-release-request/issues/5368) | gouthamMN |  | MaryGao | new issue. close to release date. FirstBeta. | 07-23 | 07-26 | 0 |
 | 4 | [#5365](https://github.com/Azure/sdk-release-request/issues/5365) | grizzlytheodore |  | qiaozha | new issue. | 07-18 | 08-23 |  |
