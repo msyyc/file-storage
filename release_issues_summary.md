@@ -7,17 +7,17 @@
 | 5 | Release for Azure Container Apps : 2024-03-01  | [#5298](https://github.com/Azure/sdk-release-request/issues/5298)  | [#5295](https://github.com/Azure/sdk-release-request/issues/5295)  | [#5296](https://github.com/Azure/sdk-release-request/issues/5296)  | [#5297](https://github.com/Azure/sdk-release-request/issues/5297)  | 06-25 | 07-26 | Hold on by JS/Java/Go/Python/ |
 | 6 | Service Fabric Managed Cluster - 2024-04  |  | [#5373](https://github.com/Azure/sdk-release-request/issues/5373)  | [#5374](https://github.com/Azure/sdk-release-request/issues/5374)  | [#5375](https://github.com/Azure/sdk-release-request/issues/5375)  | 07-24 | 07-26 |  |
 | 7 | ARO 2023-11-22  |  |  | [#5367](https://github.com/Azure/sdk-release-request/issues/5367)  | [#5368](https://github.com/Azure/sdk-release-request/issues/5368)  | 07-23 | 07-26 |  |
-| 8 | Release for Compute DiskRP 2024-03-02  |  | [#5363](https://github.com/Azure/sdk-release-request/issues/5363)  | [#5364](https://github.com/Azure/sdk-release-request/issues/5364)  | [#5365](https://github.com/Azure/sdk-release-request/issues/5365)  | 07-18 | 08-23 |  |
-| 9 | Release for Container Service - 2024-05-01  |  | [#5320](https://github.com/Azure/sdk-release-request/issues/5320)  | [#5321](https://github.com/Azure/sdk-release-request/issues/5321)  | [#5322](https://github.com/Azure/sdk-release-request/issues/5322)  | 07-05 | 07-25 |  |
-| 10 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  | [#5317](https://github.com/Azure/sdk-release-request/issues/5317)  |  | 07-10 | 07-24 | Hold on by Java/Go/ |
-| 11 | Microsoft.Network 2024-01-01  |  |  | [#5304](https://github.com/Azure/sdk-release-request/issues/5304)  | [#5305](https://github.com/Azure/sdk-release-request/issues/5305)  | 06-27 | 07-25 |  |
-| 12 | Azure Compute release version 2024-03-01   |  |  | [#5300](https://github.com/Azure/sdk-release-request/issues/5300)  | [#5301](https://github.com/Azure/sdk-release-request/issues/5301)  | 06-26 | 07-26 |  |
-| 13 | Release for Azure Cache for Redis - 2024-03-01  |  |  | [#5292](https://github.com/Azure/sdk-release-request/issues/5292)  | [#5293](https://github.com/Azure/sdk-release-request/issues/5293)  | 06-25 | 07-25 |  |
-| 14 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 15 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 16 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
-| 17 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
-| 18 | Release for NetAppFiles - 2023-11-01  |  |  |  | [#5309](https://github.com/Azure/sdk-release-request/issues/5309)  | 06-27 | 07-26 |  |
+| 8 | Release for Container Service - 2024-05-01  |  | [#5320](https://github.com/Azure/sdk-release-request/issues/5320)  | [#5321](https://github.com/Azure/sdk-release-request/issues/5321)  | [#5322](https://github.com/Azure/sdk-release-request/issues/5322)  | 07-05 | 07-25 |  |
+| 9 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
+| 10 | Release for Compute DiskRP 2024-03-02  |  | [#5363](https://github.com/Azure/sdk-release-request/issues/5363)  |  | [#5365](https://github.com/Azure/sdk-release-request/issues/5365)  | 07-18 | 08-23 |  |
+| 11 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
+| 12 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 07-24 | Hold on by Go/ |
+| 13 | Release for Hybrid Compute 2024-05-20-preview  |  |  |  | [#5333](https://github.com/Azure/sdk-release-request/issues/5333)  | 07-18 | 07-23 |  |
+| 14 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
+| 15 | Release for NetAppFiles - 2023-11-01  |  |  |  | [#5309](https://github.com/Azure/sdk-release-request/issues/5309)  | 06-27 | 07-26 |  |
+| 16 | Microsoft.Network 2024-01-01  |  |  |  | [#5305](https://github.com/Azure/sdk-release-request/issues/5305)  | 06-27 | 07-25 |  |
+| 17 | Azure Compute release version 2024-03-01   |  |  |  | [#5301](https://github.com/Azure/sdk-release-request/issues/5301)  | 06-26 | 07-26 |  |
+| 18 | Release for Azure Cache for Redis - 2024-03-01  |  |  |  | [#5293](https://github.com/Azure/sdk-release-request/issues/5293)  | 06-25 | 07-25 |  |
 | 19 | Release for Microsoft.DataProtection/backupvault 2024-04-01  |  |  |  | [#5277](https://github.com/Azure/sdk-release-request/issues/5277)  | 06-14 | 07-26 |  |
 | 20 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
 | 21 | Release for Search - 2024-06-01-Preview  |  |  |  | [#5244](https://github.com/Azure/sdk-release-request/issues/5244)  | 06-04 | 06-21 |  |
