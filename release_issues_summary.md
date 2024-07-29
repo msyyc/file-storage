@@ -13,5 +13,4 @@
 | 11 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
 | 12 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 07-24 | Hold on by Go/ |
 | 13 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
-| 14 | Microsoft.Network 2024-01-01  |  |  |  | [#5305](https://github.com/Azure/sdk-release-request/issues/5305)  | 06-27 | 07-25 |  |
-| 15 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
+| 14 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |

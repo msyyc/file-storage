@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5378](https://github.com/Azure/sdk-release-request/issues/5378) | saljain0101 |  | v-hongli1 | new issue. | 07-26 | 08-22 |  |
-| 2 | [#5374](https://github.com/Azure/sdk-release-request/issues/5374) | mwesigwaguma |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. FirstBeta. | 07-24 | 07-26 |  |
+| 2 | [#5374](https://github.com/Azure/sdk-release-request/issues/5374) | mwesigwaguma |  | weidongxu-microsoft | Attention to inconsistent tag. FirstBeta. | 07-24 | 07-26 |  |
 | 3 | [#5370](https://github.com/Azure/sdk-release-request/issues/5370) | priyjain358 |  | XiaofeiCao | new issue. | 07-24 | 08-22 |  |
 | 4 | [#5367](https://github.com/Azure/sdk-release-request/issues/5367) | gouthamMN |  | haolingdong-msft | new issue. FirstBeta. | 07-23 | 07-26 |  |
 | 5 | [#5342](https://github.com/Azure/sdk-release-request/issues/5342) | malpaniHMC |  | weidongxu-microsoft | Attention to inconsistent tag. | 07-18 | 08-23 |  |
