@@ -6,7 +6,7 @@
 | 4 | SDK Release for Qumulo API 2024-06-19  | [#5327](https://github.com/Azure/sdk-release-request/issues/5327)  | [#5324](https://github.com/Azure/sdk-release-request/issues/5324)  | [#5325](https://github.com/Azure/sdk-release-request/issues/5325)  |  | 07-09 | 07-31 |  |
 | 5 | 'Release for EventHub Api-Version=2024-01-01'   | [#5319](https://github.com/Azure/sdk-release-request/issues/5319)  |  |  |  | 07-05 | 07-24 | Hold on by Python/ |
 | 6 | Release for Azure Container Apps : 2024-03-01  | [#5298](https://github.com/Azure/sdk-release-request/issues/5298)  | [#5295](https://github.com/Azure/sdk-release-request/issues/5295)  | [#5296](https://github.com/Azure/sdk-release-request/issues/5296)  | [#5297](https://github.com/Azure/sdk-release-request/issues/5297)  | 06-25 | 07-26 | Hold on by JS/Java/Go/Python/ |
-| 7 | Service Fabric Managed Cluster - 2024-04  |  | [#5373](https://github.com/Azure/sdk-release-request/issues/5373)  | [#5374](https://github.com/Azure/sdk-release-request/issues/5374)  |  | 07-24 | 07-26 |  |
+| 7 | Service Fabric Managed Cluster - 2024-04  |  |  | [#5374](https://github.com/Azure/sdk-release-request/issues/5374)  |  | 07-24 | 07-26 |  |
 | 8 | ARO 2023-11-22  |  |  | [#5367](https://github.com/Azure/sdk-release-request/issues/5367)  |  | 07-23 | 07-26 |  |
 | 9 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 10 | Release for Compute DiskRP 2024-03-02  |  | [#5363](https://github.com/Azure/sdk-release-request/issues/5363)  |  | [#5365](https://github.com/Azure/sdk-release-request/issues/5365)  | 07-18 | 08-23 |  |
