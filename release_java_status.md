@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5386](https://github.com/Azure/sdk-release-request/issues/5386) | GrahamMThomas |  | weidongxu-microsoft | new issue. | 07-30 | 08-23 |  |
-| 2 | [#5382](https://github.com/Azure/sdk-release-request/issues/5382) | grizzlytheodore |  | XiaofeiCao | new issue. | 07-30 | 08-23 |  |
+| 2 | [#5382](https://github.com/Azure/sdk-release-request/issues/5382) | grizzlytheodore |  | v-hongli1 |  | 07-30 | 08-23 |  |
 | 3 | [#5378](https://github.com/Azure/sdk-release-request/issues/5378) | saljain0101 |  | v-hongli1 | new issue. | 07-26 | 08-22 |  |
 | 4 | [#5370](https://github.com/Azure/sdk-release-request/issues/5370) | priyjain358 |  | XiaofeiCao | new issue. | 07-24 | 08-22 |  |
 | 5 | [#5367](https://github.com/Azure/sdk-release-request/issues/5367) | gouthamMN |  | haolingdong-msft | new issue. FirstBeta. | 07-23 | 07-26 |  |
