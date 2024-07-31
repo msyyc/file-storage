@@ -8,10 +8,9 @@
 | 6 | SDK Release for Qumulo API 2024-06-19  | [#5327](https://github.com/Azure/sdk-release-request/issues/5327)  |  | [#5325](https://github.com/Azure/sdk-release-request/issues/5325)  |  | 07-09 | 07-31 |  |
 | 7 | 'Release for EventHub Api-Version=2024-01-01'   | [#5319](https://github.com/Azure/sdk-release-request/issues/5319)  |  |  |  | 07-05 | 07-24 | Hold on by Python/ |
 | 8 | Release for Azure Container Apps : 2024-03-01  | [#5298](https://github.com/Azure/sdk-release-request/issues/5298)  | [#5295](https://github.com/Azure/sdk-release-request/issues/5295)  | [#5296](https://github.com/Azure/sdk-release-request/issues/5296)  | [#5297](https://github.com/Azure/sdk-release-request/issues/5297)  | 06-25 | 07-26 | Hold on by JS/Java/Go/Python/ |
-| 9 | Service Fabric Managed Cluster - 2024-04  |  |  | [#5374](https://github.com/Azure/sdk-release-request/issues/5374)  |  | 07-24 | 07-26 |  |
-| 10 | ARO 2023-11-22  |  |  | [#5367](https://github.com/Azure/sdk-release-request/issues/5367)  |  | 07-23 | 07-26 |  |
-| 11 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 12 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 13 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 07-24 | Hold on by Go/ |
-| 14 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
-| 15 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
+| 9 | ARO 2023-11-22  |  |  | [#5367](https://github.com/Azure/sdk-release-request/issues/5367)  |  | 07-23 | 07-26 |  |
+| 10 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
+| 11 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
+| 12 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 07-24 | Hold on by Go/ |
+| 13 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
+| 14 | Release for Azure Fleet 2024-05-01-preview  |  |  |  | [#5256](https://github.com/Azure/sdk-release-request/issues/5256)  | 06-05 | 06-28 |  |
