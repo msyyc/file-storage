@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5388](https://github.com/Azure/sdk-release-request/issues/5388) | GrahamMThomas | azure-mgmt-healthdataaiservices | ChenxiJiang333 |  | 07-30 | 08-23 |  |
+| 1 | [#5388](https://github.com/Azure/sdk-release-request/issues/5388) | GrahamMThomas | azure-mgmt-healthdataaiservices | ChenxiJiang333 | FirstBeta. TypeSpec. | 07-30 | 08-23 |  |
 | 2 | [#5384](https://github.com/Azure/sdk-release-request/issues/5384) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. MultiAPI | 07-30 | 08-23 |  |
 | 3 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 |  | 07-26 | 08-22 |  |
 | 4 | [#5372](https://github.com/Azure/sdk-release-request/issues/5372) | priyjain358 | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 07-24 | 08-22 |  |
