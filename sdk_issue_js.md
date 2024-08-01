@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#30587](https://github.com/Azure/azure-sdk-for-js/issues/30587)|arm-machinelearning Workspace get is missing managedNetwork attribute|question, customer-reported, Mgmt, Service Attention, Machine Learning, needs-team-attention|kazrael2119, qiaozha||2024-07-31|
+|1|[#30587](https://github.com/Azure/azure-sdk-for-js/issues/30587)|arm-machinelearning Workspace get is missing managedNetwork attribute|question, customer-reported, Mgmt, Service Attention, Machine Learning, needs-team-attention|kazrael2119, qiaozha|new comment|2024-07-31|
 |2|[#30491](https://github.com/Azure/azure-sdk-for-js/issues/30491)|[arm-botservice] fix sanitizer and re-record test|Mgmt, Bot Service|kazrael2119, MaryGao||2024-07-22|
 |3|[#30441](https://github.com/Azure/azure-sdk-for-js/issues/30441)|List Microsoft.ServiceFabric/managedclusters API call|question, customer-reported, Mgmt, Service Attention, Service Fabric, needs-team-attention|kazrael2119, qiaozha|new comment|2024-07-17|
 |4|[#29948](https://github.com/Azure/azure-sdk-for-js/issues/29948)|costManagementClient.query.usage() returns wrong CAD unit instead of USD|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-07|
