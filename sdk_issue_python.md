@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#36625](https://github.com/Azure/azure-sdk-for-python/issues/36625)|The latest version of azure-mgmt-rdbms uses old API and doesn`t return properties.privateEndpointConnections field|question, Service Attention, Client, Mgmt, customer-reported, needs-team-attention|msyyc||2024-07-25|
-|2|[#36581](https://github.com/Azure/azure-sdk-for-python/issues/36581)|Not able to get the nodes list related to the particular AKS cluster|question, Mgmt, customer-reported, needs-author-feedback, Container Service|msyyc||2024-07-23|
+|2|[#36581](https://github.com/Azure/azure-sdk-for-python/issues/36581)|Not able to get the nodes list related to the particular AKS cluster|question, Mgmt, customer-reported, no-recent-activity, needs-author-feedback, Container Service|msyyc||2024-07-23|
 |3|[#36413](https://github.com/Azure/azure-sdk-for-python/issues/36413)|FOCUS specification Cost and Usage Report for all subscription types|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Consumption - UsageDetailsAndExport|msyyc||2024-07-10|
 |4|[#36366](https://github.com/Azure/azure-sdk-for-python/issues/36366)|CostManagementClient does not return tags associated with resource groups|question, Service Attention, Mgmt, customer-reported|msyyc|no reply > 7|2024-07-05|
 |5|[#36232](https://github.com/Azure/azure-sdk-for-python/issues/36232)|SyntaxWarning: invalid escape sequence - azure-mgmt-network|question, Network, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-06-25|
