@@ -20,7 +20,7 @@
 |18|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |19|[#38806](https://github.com/Azure/azure-sdk-for-java/issues/38806)|[FEATURE REQ] DeleteOptions on Public Ip Address|ARM, Mgmt, customer-reported, feature-request, needs-author-feedback, no-recent-activity|XiaofeiCao||2024-02-16|
 |20|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|21|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
+|21|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
 |22|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |23|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-11-24|
 |24|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
