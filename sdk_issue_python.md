@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36776](https://github.com/Azure/azure-sdk-for-python/issues/36776)|Need instructions for enabling diagnostic settings for Entra ID using MonitorManagementClient from azure.mgmt.monitor.|question, Service Attention, Mgmt, customer-reported, needs-author-feedback|msyyc, ChenxiJiang333||2024-08-06|
+|1|[#36776](https://github.com/Azure/azure-sdk-for-python/issues/36776)|Need instructions for enabling diagnostic settings for Entra ID using MonitorManagementClient from azure.mgmt.monitor.|question, Service Attention, Mgmt, customer-reported, needs-team-attention|ChenxiJiang333, msyyc|new comment|2024-08-06|
 |2|[#36772](https://github.com/Azure/azure-sdk-for-python/issues/36772)|Request Assistance for Providing Azure Storage Cost Recommendations via Azure SDK for Python or RestApi.|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Cost Management - UsageDetailsAndExport|msyyc|new comment|2024-08-06|
 |3|[#36761](https://github.com/Azure/azure-sdk-for-python/issues/36761)|Microsoft.Web/connections|question, Logic App, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2024-08-05|
 |4|[#36697](https://github.com/Azure/azure-sdk-for-python/issues/36697)|Programmatically generate the consent code  for credential manager for APIM |question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-07-31|
