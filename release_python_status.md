@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | HoldOn. | 08-07 | 08-22 |  |
+| 1 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | new issue. new comment. HoldOn. | 08-07 | 08-22 |  |
 | 2 | [#5396](https://github.com/Azure/sdk-release-request/issues/5396) | Francisco-Gamino | azure-mgmt-web | ChenxiJiang333 | new issue. new comment. MultiAPI | 08-01 | fail to get. |  |
 | 3 | [#5393](https://github.com/Azure/sdk-release-request/issues/5393) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 07-31 | 08-23 |  |
 | 4 | [#5388](https://github.com/Azure/sdk-release-request/issues/5388) | GrahamMThomas | azure-mgmt-healthdataaiservices | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 07-30 | 08-15 |  |
