@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5407](https://github.com/Azure/sdk-release-request/issues/5407) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. MultiAPI | 08-07 | fail to get. |  |
 | 2 | [#5406](https://github.com/Azure/sdk-release-request/issues/5406) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. MultiAPI | 08-07 | fail to get. |  |
-| 3 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> MultiAPI | 08-07 | fail to get. |  |
+| 3 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 4 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | HoldOn. | 08-07 | 08-22 |  |
 | 5 | [#5396](https://github.com/Azure/sdk-release-request/issues/5396) | Francisco-Gamino | azure-mgmt-web | ChenxiJiang333 | new issue. new comment. | 08-01 | fail to get. |  |
 | 6 | [#5393](https://github.com/Azure/sdk-release-request/issues/5393) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 07-31 | 08-23 |  |
