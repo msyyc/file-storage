@@ -7,7 +7,7 @@
 | 5 | [#5396](https://github.com/Azure/sdk-release-request/issues/5396) | Francisco-Gamino | azure-mgmt-web | ChenxiJiang333 |  | 08-01 | fail to get. |  |
 | 6 | [#5393](https://github.com/Azure/sdk-release-request/issues/5393) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 07-31 | 08-23 |  |
 | 7 | [#5388](https://github.com/Azure/sdk-release-request/issues/5388) | GrahamMThomas | azure-mgmt-healthdataaiservices | ChenxiJiang333 | FirstBeta. TypeSpec. | 07-30 | 08-15 |  |
-| 8 | [#5384](https://github.com/Azure/sdk-release-request/issues/5384) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 07-30 | 08-23 |  |
+| 8 | [#5384](https://github.com/Azure/sdk-release-request/issues/5384) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new comment. | 07-30 | 08-23 |  |
 | 9 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 |  | 07-26 | 08-22 |  |
 | 10 | [#5372](https://github.com/Azure/sdk-release-request/issues/5372) | priyjain358 | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 07-24 | 08-22 |  |
 | 11 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 08-23 |  |
