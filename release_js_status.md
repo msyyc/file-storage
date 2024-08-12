@@ -4,7 +4,7 @@
 | 2 | [#5410](https://github.com/Azure/sdk-release-request/issues/5410) | yuc-Li |  | MaryGao | new issue. | 08-08 | 08-22 |  |
 | 3 | [#5402](https://github.com/Azure/sdk-release-request/issues/5402) | yifanz7 |  | MaryGao | new issue. new comment. | 08-07 | 08-22 |  |
 | 4 | [#5398](https://github.com/Azure/sdk-release-request/issues/5398) | Francisco-Gamino |  | MaryGao |  | 08-01 | fail to get. |  |
-| 5 | [#5392](https://github.com/Azure/sdk-release-request/issues/5392) | audunn |  | qiaozha | new issue. | 07-31 | 08-23 |  |
+| 5 | [#5392](https://github.com/Azure/sdk-release-request/issues/5392) | audunn |  | qiaozha |  | 07-31 | 08-23 |  |
 | 6 | [#5387](https://github.com/Azure/sdk-release-request/issues/5387) | GrahamMThomas |  | qiaozha | close to release date. | 07-30 | 08-15 | 2 |
 | 7 | [#5383](https://github.com/Azure/sdk-release-request/issues/5383) | grizzlytheodore |  | qiaozha |  | 07-30 | 08-23 |  |
 | 8 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao |  | 07-26 | 08-22 |  |
