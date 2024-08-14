@@ -21,5 +21,5 @@
 | 19 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 20 | Release for Container Service - 2024-05-02-preview  |  | [#5357](https://github.com/Azure/sdk-release-request/issues/5357)  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
 | 21 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 07-24 | Hold on by Go/ |
-| 22 | Release for Azure Container Apps : 2024-03-01  |  | [#5295](https://github.com/Azure/sdk-release-request/issues/5295)  |  |  | 06-25 | 08-23 | Hold on by Go/ |
+| 22 | Release for Azure Container Apps : 2024-03-01  |  | [#5295](https://github.com/Azure/sdk-release-request/issues/5295)  |  |  | 06-25 | 08-23 |  |
 | 23 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 07-24 | Hold on by JS/ |
