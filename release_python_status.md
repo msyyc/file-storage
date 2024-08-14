@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5423](https://github.com/Azure/sdk-release-request/issues/5423) | ragovada | azure-mgmt-machinelearningservices | ChenxiJiang333 | Attention to inconsistent tag. | 08-13 | 09-27 |  |
+| 1 | [#5423](https://github.com/Azure/sdk-release-request/issues/5423) | ragovada | azure-mgmt-machinelearningservices | ChenxiJiang333 |  | 08-13 | 09-27 |  |
 | 2 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 3 | [#5415](https://github.com/Azure/sdk-release-request/issues/5415) | yuc-Li | azure-mgmt-hdinsight | ChenxiJiang333 |  | 08-08 | 08-22 |  |
 | 4 | [#5411](https://github.com/Azure/sdk-release-request/issues/5411) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 |  | 08-08 | 08-22 |  |
