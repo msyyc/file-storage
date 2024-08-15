@@ -14,5 +14,5 @@
 | 12 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 |  | 07-26 | 08-22 |  |
 | 13 | [#5372](https://github.com/Azure/sdk-release-request/issues/5372) | priyjain358 | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 07-24 | 08-22 |  |
 | 14 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 08-23 |  |
-| 15 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 07-31 |  |
-| 16 | [#5319](https://github.com/Azure/sdk-release-request/issues/5319) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 | new comment. HoldOn. | 07-05 | 07-24 |  |
+| 15 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 08-23 |  |
+| 16 | [#5319](https://github.com/Azure/sdk-release-request/issues/5319) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 | new comment. HoldOn. | 07-05 | 08-23 |  |
