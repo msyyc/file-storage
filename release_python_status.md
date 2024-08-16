@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 2 | [#5415](https://github.com/Azure/sdk-release-request/issues/5415) | yuc-Li | azure-mgmt-hdinsight | ChenxiJiang333 |  | 08-08 | 08-22 |  |
-| 3 | [#5411](https://github.com/Azure/sdk-release-request/issues/5411) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 | new issue. new comment. | 08-08 | 08-22 |  |
+| 3 | [#5411](https://github.com/Azure/sdk-release-request/issues/5411) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 |  | 08-08 | 08-22 |  |
 | 4 | [#5407](https://github.com/Azure/sdk-release-request/issues/5407) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. MultiAPI | 08-07 | fail to get. |  |
 | 5 | [#5406](https://github.com/Azure/sdk-release-request/issues/5406) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. MultiAPI | 08-07 | fail to get. |  |
 | 6 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
