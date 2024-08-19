@@ -4,7 +4,7 @@
 | 2 | [#5421](https://github.com/Azure/sdk-release-request/issues/5421) | ragovada |  | v-hongli1 | new comment. Attention to inconsistent tag. | 08-13 | 08-23 |  |
 | 3 | [#5417](https://github.com/Azure/sdk-release-request/issues/5417) | badeamarjieh |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 4 | [#5413](https://github.com/Azure/sdk-release-request/issues/5413) | yuc-Li |  | weidongxu-microsoft | new issue. close to release date. | 08-08 | 08-22 | 2 |
-| 5 | [#5409](https://github.com/Azure/sdk-release-request/issues/5409) | yuc-Li |  | haolingdong-msft | new comment. close to release date. HoldOn. | 08-08 | 08-22 | 2 |
+| 5 | [#5409](https://github.com/Azure/sdk-release-request/issues/5409) | yuc-Li |  | haolingdong-msft | new comment. close to release date. | 08-08 | 08-22 | 2 |
 | 6 | [#5401](https://github.com/Azure/sdk-release-request/issues/5401) | yifanz7 |  | haolingdong-msft | new issue. new comment. close to release date. HoldOn. | 08-07 | 08-22 | 2 |
 | 7 | [#5395](https://github.com/Azure/sdk-release-request/issues/5395) | Francisco-Gamino |  | weidongxu-microsoft |  | 08-01 | fail to get. |  |
 | 8 | [#5391](https://github.com/Azure/sdk-release-request/issues/5391) | audunn |  | v-hongli1 | new issue. | 07-31 | 08-23 |  |
