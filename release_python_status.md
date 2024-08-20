@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | TypeSpec. | 08-19 | 09-27 |  |
+| 1 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers |  | ChenxiJiang333 |  | 08-19 |  | 0 |
 | 2 | [#5428](https://github.com/Azure/sdk-release-request/issues/5428) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | close to release date. | 08-16 | 08-23 | 2 |
 | 3 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 4 | [#5415](https://github.com/Azure/sdk-release-request/issues/5415) | yuc-Li | azure-mgmt-hdinsight | ChenxiJiang333 | close to release date. | 08-08 | 08-22 | 1 |
