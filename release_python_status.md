@@ -10,7 +10,6 @@
 | 8 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | duplicated issue  <br> new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 9 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | close to release date. HoldOn. | 08-07 | 08-22 | 1 |
 | 10 | [#5396](https://github.com/Azure/sdk-release-request/issues/5396) | Francisco-Gamino | azure-mgmt-web | ChenxiJiang333 |  | 08-01 | fail to get. |  |
-| 11 | [#5393](https://github.com/Azure/sdk-release-request/issues/5393) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 07-31 | 08-23 | 2 |
 | 12 | [#5384](https://github.com/Azure/sdk-release-request/issues/5384) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | close to release date. | 07-30 | 08-23 | 2 |
 | 13 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 | close to release date. HoldOn. | 07-26 | 08-22 | 1 |
 | 14 | [#5372](https://github.com/Azure/sdk-release-request/issues/5372) | priyjain358 | azure-mgmt-azurestackhci | ChenxiJiang333 | close to release date. | 07-24 | 08-22 | 1 |
