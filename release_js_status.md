@@ -9,7 +9,7 @@
 | 7 | [#5402](https://github.com/Azure/sdk-release-request/issues/5402) | yifanz7 |  | MaryGao | new comment. close to release date. | 08-07 | 08-22 | 1 |
 | 8 | [#5392](https://github.com/Azure/sdk-release-request/issues/5392) | audunn |  | qiaozha | new comment. close to release date. | 07-31 | 08-23 | 2 |
 | 9 | [#5383](https://github.com/Azure/sdk-release-request/issues/5383) | grizzlytheodore |  | qiaozha | new comment. close to release date. | 07-30 | 08-23 | 2 |
-| 10 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao | close to release date. | 07-26 | 08-22 | 1 |
+| 10 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao | close to release date. HoldOn. | 07-26 | 08-22 | 1 |
 | 11 | [#5371](https://github.com/Azure/sdk-release-request/issues/5371) | priyjain358 |  | MaryGao | close to release date. | 07-24 | 08-22 | 1 |
 | 12 | [#5360](https://github.com/Azure/sdk-release-request/issues/5360) | FumingZhang |  | qiaozha | close to release date. Attention to inconsistent tag. | 07-18 | 08-22 | 1 |
 | 13 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | close to release date. Attention to inconsistent tag. HoldOn. | 07-18 | 08-23 | 2 |
