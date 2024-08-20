@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#23345](https://github.com/Azure/azure-sdk-for-go/issues/23345)|armoperationalinsights TablesClient does not support updating Table Plan|question, Mgmt, customer-reported|lirenhe|new issue|2024-08-16|
+|1|[#23345](https://github.com/Azure/azure-sdk-for-go/issues/23345)|armoperationalinsights TablesClient does not support updating Table Plan|question, Mgmt, customer-reported, needs-author-feedback|lirenhe||2024-08-16|
 |2|[#23342](https://github.com/Azure/azure-sdk-for-go/issues/23342)|ResourceSKUZoneDetails.UnmarshalJSON can't parse uppercase keys|question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention, needs-team-triage|Alancere||2024-08-16|
 |3|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-08-13|
 |4|[#23118](https://github.com/Azure/azure-sdk-for-go/issues/23118)|Support update container registry cache rule source repository and target repository|question, Container Registry, Service Attention, Mgmt|Alancere||2024-06-27|
