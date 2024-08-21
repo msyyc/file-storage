@@ -5,7 +5,7 @@
 | 3 | [#5421](https://github.com/Azure/sdk-release-request/issues/5421) | ragovada |  | v-hongli1 | close to release date. HoldOn. | 08-13 | 08-23 | 1 |
 | 4 | [#5417](https://github.com/Azure/sdk-release-request/issues/5417) | badeamarjieh |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 5 | [#5409](https://github.com/Azure/sdk-release-request/issues/5409) | yuc-Li |  | haolingdong-msft | new comment. close to release date. | 08-08 | 08-22 | 0 |
-| 6 | [#5401](https://github.com/Azure/sdk-release-request/issues/5401) | yifanz7 |  | haolingdong-msft | new issue. new comment. close to release date. HoldOn. | 08-07 | 08-22 | 0 |
+| 6 | [#5401](https://github.com/Azure/sdk-release-request/issues/5401) | yifanz7 |  | haolingdong-msft | new issue. new comment. HoldOn. | 08-07 | 09-27 |  |
 | 7 | [#5395](https://github.com/Azure/sdk-release-request/issues/5395) | Francisco-Gamino |  | weidongxu-microsoft |  | 08-01 | fail to get. |  |
 | 8 | [#5382](https://github.com/Azure/sdk-release-request/issues/5382) | grizzlytheodore |  | v-hongli1 | close to release date. HoldOn. | 07-30 | 08-23 | 1 |
 | 9 | [#5370](https://github.com/Azure/sdk-release-request/issues/5370) | priyjain358 |  | XiaofeiCao | new issue. new comment. close to release date. HoldOn. | 07-24 | 08-22 | 0 |
