@@ -8,11 +8,7 @@
 | 6 | [#5408](https://github.com/Azure/sdk-release-request/issues/5408) | yuc-Li |  | Alancere | close to release date. | 08-08 | 08-22 | 0 |
 | 7 | [#5400](https://github.com/Azure/sdk-release-request/issues/5400) | yifanz7 |  | Alancere | new comment. close to release date. HoldOn. | 08-07 | 08-22 | 0 |
 | 8 | [#5397](https://github.com/Azure/sdk-release-request/issues/5397) | Francisco-Gamino |  | Alancere |  | 08-01 | fail to get. |  |
-| 9 | [#5390](https://github.com/Azure/sdk-release-request/issues/5390) | audunn |  | Alancere | new comment. close to release date. | 07-31 | 08-23 | 1 |
-| 10 | [#5381](https://github.com/Azure/sdk-release-request/issues/5381) | grizzlytheodore |  | Alancere | new comment. close to release date. | 07-30 | 08-23 | 1 |
-| 11 | [#5377](https://github.com/Azure/sdk-release-request/issues/5377) | saljain0101 |  | Alancere | close to release date. HoldOn. | 07-26 | 08-22 | 0 |
-| 12 | [#5369](https://github.com/Azure/sdk-release-request/issues/5369) | priyjain358 |  | Alancere | close to release date. | 07-24 | 08-22 | 0 |
-| 13 | [#5357](https://github.com/Azure/sdk-release-request/issues/5357) | FumingZhang |  | Alancere | close to release date. | 07-18 | 08-22 | 0 |
-| 14 | [#5340](https://github.com/Azure/sdk-release-request/issues/5340) | malpaniHMC |  | Alancere | close to release date. | 07-18 | 08-23 | 1 |
-| 15 | [#5328](https://github.com/Azure/sdk-release-request/issues/5328) | schaudhari6254888 |  | Alancere | new comment. close to release date. HoldOn. | 07-10 | 08-23 | 1 |
-| 16 | [#5295](https://github.com/Azure/sdk-release-request/issues/5295) | jijohn14 |  | Alancere | new comment. close to release date. Attention to inconsistent tag. | 06-25 | 08-23 | 1 |
+| 9 | [#5377](https://github.com/Azure/sdk-release-request/issues/5377) | saljain0101 |  | Alancere | close to release date. HoldOn. | 07-26 | 08-22 | 0 |
+| 10 | [#5369](https://github.com/Azure/sdk-release-request/issues/5369) | priyjain358 |  | Alancere | close to release date. | 07-24 | 08-22 | 0 |
+| 11 | [#5328](https://github.com/Azure/sdk-release-request/issues/5328) | schaudhari6254888 |  | Alancere | new comment. close to release date. HoldOn. | 07-10 | 08-23 | 1 |
+| 12 | [#5295](https://github.com/Azure/sdk-release-request/issues/5295) | jijohn14 |  | Alancere | new comment. close to release date. Attention to inconsistent tag. | 06-25 | 08-23 | 1 |
