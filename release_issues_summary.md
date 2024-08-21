@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release for MongoCluster 2024-07-01  | [#5433](https://github.com/Azure/sdk-release-request/issues/5433)  | [#5430](https://github.com/Azure/sdk-release-request/issues/5430)  | [#5431](https://github.com/Azure/sdk-release-request/issues/5431)  | [#5432](https://github.com/Azure/sdk-release-request/issues/5432)  | 08-19 | 09-27 | Hold on by Python/ |
+| 1 | Release for MongoCluster 2024-07-01  | [#5433](https://github.com/Azure/sdk-release-request/issues/5433)  | [#5430](https://github.com/Azure/sdk-release-request/issues/5430)  | [#5431](https://github.com/Azure/sdk-release-request/issues/5431)  | [#5432](https://github.com/Azure/sdk-release-request/issues/5432)  | 08-19 | 09-27 | Hold on by JS/Python/ |
 | 2 | Release for Fabric 2023-11-01  | [#5419](https://github.com/Azure/sdk-release-request/issues/5419)  | [#5416](https://github.com/Azure/sdk-release-request/issues/5416)  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 09-26 |  |
 | 3 | Release for HDInsight - 2024-08-01-preview  | [#5415](https://github.com/Azure/sdk-release-request/issues/5415)  |  |  | [#5414](https://github.com/Azure/sdk-release-request/issues/5414)  | 08-08 | 08-22 | Hold on by JS/ |
 | 4 | Release for HDInsight on AKS - 2024-05-01-preview  | [#5411](https://github.com/Azure/sdk-release-request/issues/5411)  |  | [#5409](https://github.com/Azure/sdk-release-request/issues/5409)  | [#5410](https://github.com/Azure/sdk-release-request/issues/5410)  | 08-08 | 08-22 | Hold on by JS/ |
@@ -20,7 +20,6 @@
 | 18 | ARO 2023-11-22  |  |  | [#5367](https://github.com/Azure/sdk-release-request/issues/5367)  |  | 07-23 | 08-23 |  |
 | 19 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 20 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 | Hold on by Go/ |
-| 21 | Release for Azure Container Apps : 2024-03-01  |  | [#5295](https://github.com/Azure/sdk-release-request/issues/5295)  |  |  | 06-25 | 08-23 |  |
-| 22 | Release for NetAppFiles - 2024-03-01  |  |  |  | [#5392](https://github.com/Azure/sdk-release-request/issues/5392)  | 07-31 | 08-23 |  |
-| 23 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 24 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
+| 21 | Release for NetAppFiles - 2024-03-01  |  |  |  | [#5392](https://github.com/Azure/sdk-release-request/issues/5392)  | 07-31 | 08-23 |  |
+| 22 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
+| 23 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
