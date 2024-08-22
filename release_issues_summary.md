@@ -16,9 +16,10 @@
 | 14 | release-machinelearningservices-Microsoft.MachineLearningServices-2024-04-01  |  |  | [#5421](https://github.com/Azure/sdk-release-request/issues/5421)  | [#5422](https://github.com/Azure/sdk-release-request/issues/5422)  | 08-13 | 08-23 | Hold on by Java/ |
 | 15 | 'Release for Microsoft.Web 2023-12-01'  |  |  | [#5395](https://github.com/Azure/sdk-release-request/issues/5395)  |  | 08-01 | fail to get. |  |
 | 16 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 17 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 | Hold on by Go/ |
-| 18 | Release for Azure Data Factory 2018-06  |  |  |  | [#5427](https://github.com/Azure/sdk-release-request/issues/5427)  | 08-16 | 08-23 |  |
-| 19 | Release for HDInsight - 2024-08-01-preview  |  |  |  | [#5414](https://github.com/Azure/sdk-release-request/issues/5414)  | 08-08 | 08-22 | Hold on by JS/ |
-| 20 | Release for NetAppFiles - 2024-03-01  |  |  |  | [#5392](https://github.com/Azure/sdk-release-request/issues/5392)  | 07-31 | 08-23 |  |
-| 21 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 22 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
+| 17 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
+| 18 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 | Hold on by Go/ |
+| 19 | Release for Azure Data Factory 2018-06  |  |  |  | [#5427](https://github.com/Azure/sdk-release-request/issues/5427)  | 08-16 | 08-23 |  |
+| 20 | Release for HDInsight - 2024-08-01-preview  |  |  |  | [#5414](https://github.com/Azure/sdk-release-request/issues/5414)  | 08-08 | 08-22 | Hold on by JS/ |
+| 21 | Release for NetAppFiles - 2024-03-01  |  |  |  | [#5392](https://github.com/Azure/sdk-release-request/issues/5392)  | 07-31 | 08-23 |  |
+| 22 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
+| 23 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
