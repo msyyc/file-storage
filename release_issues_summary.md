@@ -9,7 +9,7 @@
 | 7 | 'Release for Postgresql Flexibleserver 2024-03-01-preview' (only for Python)  | [#5406](https://github.com/Azure/sdk-release-request/issues/5406)  |  |  |  | 08-07 | fail to get. |  |
 | 8 | 'Release for azure-mgmt-rdbms' (only for Python)  | [#5405](https://github.com/Azure/sdk-release-request/issues/5405)  |  |  |  | 08-07 | fail to get. |  |
 | 9 | Release for ElasticSan - 2024-05-01  | [#5403](https://github.com/Azure/sdk-release-request/issues/5403)  | [#5400](https://github.com/Azure/sdk-release-request/issues/5400)  | [#5401](https://github.com/Azure/sdk-release-request/issues/5401)  | [#5402](https://github.com/Azure/sdk-release-request/issues/5402)  | 08-07 | 09-27 | Hold on by JS/Java/Go/Python/ |
-| 10 | Release for Compute ComputeRP 2024-07-01  | [#5384](https://github.com/Azure/sdk-release-request/issues/5384)  |  | [#5382](https://github.com/Azure/sdk-release-request/issues/5382)  | [#5383](https://github.com/Azure/sdk-release-request/issues/5383)  | 07-30 | 08-23 |  |
+| 10 | Release for Compute ComputeRP 2024-07-01  | [#5384](https://github.com/Azure/sdk-release-request/issues/5384)  |  | [#5382](https://github.com/Azure/sdk-release-request/issues/5382)  |  | 07-30 | 08-23 |  |
 | 11 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  | [#5380](https://github.com/Azure/sdk-release-request/issues/5380)  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 08-22 | Hold on by JS/Go/Python/ |
 | 12 | Release for Azure Stack HCI - 2024-04-01  | [#5372](https://github.com/Azure/sdk-release-request/issues/5372)  |  | [#5370](https://github.com/Azure/sdk-release-request/issues/5370)  |  | 07-24 | 08-22 | Hold on by Java/ |
 | 13 | ServiceNetworking-2024-05-01-preview  | [#5350](https://github.com/Azure/sdk-release-request/issues/5350)  |  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 08-23 | Hold on by JS/Java/Python/ |
@@ -22,5 +22,4 @@
 | 20 | Release for Azure Data Factory 2018-06  |  |  |  | [#5427](https://github.com/Azure/sdk-release-request/issues/5427)  | 08-16 | 08-23 |  |
 | 21 | release-machinelearningservices-Microsoft.MachineLearningServices-2024-04-01  |  |  |  | [#5422](https://github.com/Azure/sdk-release-request/issues/5422)  | 08-13 | 08-23 |  |
 | 22 | Release for HDInsight - 2024-08-01-preview  |  |  |  | [#5414](https://github.com/Azure/sdk-release-request/issues/5414)  | 08-08 | 08-22 | Hold on by JS/ |
-| 23 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 24 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
+| 23 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
