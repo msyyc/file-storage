@@ -4,7 +4,7 @@
 | 2 | Release for Batch Service - 2024-07-01  | [#5439](https://github.com/Azure/sdk-release-request/issues/5439)  | [#5436](https://github.com/Azure/sdk-release-request/issues/5436)  | [#5437](https://github.com/Azure/sdk-release-request/issues/5437)  | [#5438](https://github.com/Azure/sdk-release-request/issues/5438)  | 08-22 | 09-27 |  |
 | 3 | Release for MongoCluster 2024-07-01  | [#5433](https://github.com/Azure/sdk-release-request/issues/5433)  | [#5430](https://github.com/Azure/sdk-release-request/issues/5430)  | [#5431](https://github.com/Azure/sdk-release-request/issues/5431)  | [#5432](https://github.com/Azure/sdk-release-request/issues/5432)  | 08-19 | 09-27 | Hold on by JS/Python/ |
 | 4 | Release for Fabric 2023-11-01  | [#5419](https://github.com/Azure/sdk-release-request/issues/5419)  | [#5416](https://github.com/Azure/sdk-release-request/issues/5416)  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 09-26 |  |
-| 5 | Release for HDInsight on AKS - 2024-05-01-preview  | [#5411](https://github.com/Azure/sdk-release-request/issues/5411)  |  |  | [#5410](https://github.com/Azure/sdk-release-request/issues/5410)  | 08-08 | 08-22 | Hold on by JS/ |
+| 5 | Release for HDInsight on AKS - 2024-05-01-preview  | [#5411](https://github.com/Azure/sdk-release-request/issues/5411)  |  |  |  | 08-08 | 08-22 |  |
 | 6 | 'Release for MySQL Flexibleserver 2024-02-01-preview' (only for Python)  | [#5407](https://github.com/Azure/sdk-release-request/issues/5407)  |  |  |  | 08-07 | fail to get. |  |
 | 7 | 'Release for Postgresql Flexibleserver 2024-03-01-preview' (only for Python)  | [#5406](https://github.com/Azure/sdk-release-request/issues/5406)  |  |  |  | 08-07 | fail to get. |  |
 | 8 | 'Release for azure-mgmt-rdbms' (only for Python)  | [#5405](https://github.com/Azure/sdk-release-request/issues/5405)  |  |  |  | 08-07 | fail to get. |  |
@@ -22,6 +22,5 @@
 | 20 | Release for Azure Data Factory 2018-06  |  |  |  | [#5427](https://github.com/Azure/sdk-release-request/issues/5427)  | 08-16 | 08-23 |  |
 | 21 | release-machinelearningservices-Microsoft.MachineLearningServices-2024-04-01  |  |  |  | [#5422](https://github.com/Azure/sdk-release-request/issues/5422)  | 08-13 | 08-23 |  |
 | 22 | Release for HDInsight - 2024-08-01-preview  |  |  |  | [#5414](https://github.com/Azure/sdk-release-request/issues/5414)  | 08-08 | 08-22 | Hold on by JS/ |
-| 23 | Release for NetAppFiles - 2024-03-01  |  |  |  | [#5392](https://github.com/Azure/sdk-release-request/issues/5392)  | 07-31 | 08-23 |  |
-| 24 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
-| 25 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
+| 23 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |
+| 24 | 'Release for EventHub Api-Version=2024-01-01  |  |  |  | [#5318](https://github.com/Azure/sdk-release-request/issues/5318)  | 07-05 | 08-23 | Hold on by JS/ |
