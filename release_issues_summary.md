@@ -15,12 +15,12 @@
 | 13 | ServiceNetworking-2024-05-01-preview  | [#5350](https://github.com/Azure/sdk-release-request/issues/5350)  |  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 08-23 | Hold on by JS/Java/Python/ |
 | 14 | SDK Release for Qumulo API 2024-06-19  | [#5327](https://github.com/Azure/sdk-release-request/issues/5327)  |  | [#5325](https://github.com/Azure/sdk-release-request/issues/5325)  |  | 07-09 | 08-23 |  |
 | 15 | 'Release for EventHub Api-Version=2024-01-01'   | [#5319](https://github.com/Azure/sdk-release-request/issues/5319)  |  |  |  | 07-05 | 08-23 | Hold on by Python/ |
-| 16 | release-machinelearningservices-Microsoft.MachineLearningServices-2024-04-01  |  |  | [#5421](https://github.com/Azure/sdk-release-request/issues/5421)  | [#5422](https://github.com/Azure/sdk-release-request/issues/5422)  | 08-13 | 08-23 | Hold on by Java/ |
-| 17 | 'Release for Microsoft.Web 2023-12-01'  |  |  | [#5395](https://github.com/Azure/sdk-release-request/issues/5395)  |  | 08-01 | fail to get. |  |
-| 18 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 19 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
-| 20 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 | Hold on by Go/ |
-| 21 | Release for Azure Data Factory 2018-06  |  |  |  | [#5427](https://github.com/Azure/sdk-release-request/issues/5427)  | 08-16 | 08-23 |  |
+| 16 | 'Release for Microsoft.Web 2023-12-01'  |  |  | [#5395](https://github.com/Azure/sdk-release-request/issues/5395)  |  | 08-01 | fail to get. |  |
+| 17 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
+| 18 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
+| 19 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 | Hold on by Go/ |
+| 20 | Release for Azure Data Factory 2018-06  |  |  |  | [#5427](https://github.com/Azure/sdk-release-request/issues/5427)  | 08-16 | 08-23 |  |
+| 21 | release-machinelearningservices-Microsoft.MachineLearningServices-2024-04-01  |  |  |  | [#5422](https://github.com/Azure/sdk-release-request/issues/5422)  | 08-13 | 08-23 |  |
 | 22 | Release for HDInsight - 2024-08-01-preview  |  |  |  | [#5414](https://github.com/Azure/sdk-release-request/issues/5414)  | 08-08 | 08-22 | Hold on by JS/ |
 | 23 | Release for NetAppFiles - 2024-03-01  |  |  |  | [#5392](https://github.com/Azure/sdk-release-request/issues/5392)  | 07-31 | 08-23 |  |
 | 24 | Release for Container Service - 2024-05-02-preview  |  |  |  | [#5360](https://github.com/Azure/sdk-release-request/issues/5360)  | 07-18 | 08-22 |  |

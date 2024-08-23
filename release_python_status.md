@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | Attention to inconsistent tag. | 08-22 | 09-27 |  |
-| 2 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 | new issue. | 08-22 | 09-27 |  |
+| 2 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
 | 3 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | HoldOn. TypeSpec. | 08-19 | 09-27 |  |
 | 4 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 5 | [#5411](https://github.com/Azure/sdk-release-request/issues/5411) | yuc-Li | azure-mgmt-hdinsightcontainers | ChenxiJiang333 | close to release date. | 08-08 | 08-22 | -1 |
