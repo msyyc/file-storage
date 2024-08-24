@@ -23,7 +23,7 @@
 |21|[#39094](https://github.com/Azure/azure-sdk-for-java/issues/39094)|mgmt core, add hybrid serialization model(baseclass stream-style-serialization, subclass jackson)|Mgmt, Azure.Core, Mgmt - Track 2|XiaofeiCao||2024-03-06|
 |22|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |23|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|24|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
+|24|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
 |25|[#38333](https://github.com/Azure/azure-sdk-for-java/issues/38333)|[FEATURE REQ] investigate enable stream serialization for mgmt|Mgmt|XiaofeiCao||2024-01-17|
 |26|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-11-24|
 |27|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
