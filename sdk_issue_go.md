@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#23345](https://github.com/Azure/azure-sdk-for-go/issues/23345)|armoperationalinsights TablesClient does not support updating Table Plan|question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-08-16|
-|2|[#23342](https://github.com/Azure/azure-sdk-for-go/issues/23342)|ResourceSKUZoneDetails.UnmarshalJSON can't parse uppercase keys|question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention, needs-team-triage|TravisCragg-MSFT, Alancere||2024-08-16|
-|3|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, Alancere||2024-08-13|
+|2|[#23342](https://github.com/Azure/azure-sdk-for-go/issues/23342)|ResourceSKUZoneDetails.UnmarshalJSON can't parse uppercase keys|question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention, needs-team-triage|Alancere, TravisCragg-MSFT||2024-08-16|
+|3|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere, lirenhe||2024-08-13|
 |4|[#23118](https://github.com/Azure/azure-sdk-for-go/issues/23118)|Support update container registry cache rule source repository and target repository|question, Container Registry, Service Attention, Mgmt|Alancere||2024-06-27|
 |5|[#22812](https://github.com/Azure/azure-sdk-for-go/issues/22812)|Request to add Workflow trigger run support to send body for request.|question, Logic App, Service Attention, Mgmt, customer-reported, needs-team-attention|Alancere||2024-05-01|
 |6|[#22786](https://github.com/Azure/azure-sdk-for-go/issues/22786)|armconsumption.ModernReservationRecommendationProperties missing documented ResourceType field|Service Attention, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2024-04-26|
