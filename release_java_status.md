@@ -3,7 +3,7 @@
 | 1 | [#5447](https://github.com/Azure/sdk-release-request/issues/5447) | zackliu |  | weidongxu-microsoft | multi readme link! | 08-26 | 09-26 |  |
 | 2 | [#5442](https://github.com/Azure/sdk-release-request/issues/5442) | mimckitt |  | XiaofeiCao | new comment. Attention to inconsistent tag. | 08-22 | 09-27 |  |
 | 3 | [#5437](https://github.com/Azure/sdk-release-request/issues/5437) | wiboris |  | haolingdong-msft | new issue. | 08-22 | 09-27 |  |
-| 4 | [#5431](https://github.com/Azure/sdk-release-request/issues/5431) | olivertowers |  | v-hongli1 | new issue. new comment. | 08-19 | 09-27 |  |
+| 4 | [#5431](https://github.com/Azure/sdk-release-request/issues/5431) | olivertowers |  | v-hongli1 | new issue. new comment. HoldOn. | 08-19 | 09-27 |  |
 | 5 | [#5417](https://github.com/Azure/sdk-release-request/issues/5417) | badeamarjieh |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 6 | [#5401](https://github.com/Azure/sdk-release-request/issues/5401) | yifanz7 |  | haolingdong-msft | new issue. new comment. HoldOn. | 08-07 | 09-27 |  |
 | 7 | [#5370](https://github.com/Azure/sdk-release-request/issues/5370) | priyjain358 |  | XiaofeiCao |  | 07-24 | 08-22 |  |
