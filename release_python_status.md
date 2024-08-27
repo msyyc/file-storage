@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
-| 2 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. | 08-22 | 09-27 |  |
+| 2 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
 | 3 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
-| 4 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | HoldOn. TypeSpec. | 08-19 | 09-27 |  |
+| 4 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
 | 5 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 6 | [#5407](https://github.com/Azure/sdk-release-request/issues/5407) | ChenxiJiang333 | azure-mgmt-mysqlflexibleservers | ChenxiJiang333 |  | 08-07 | fail to get. |  |
 | 7 | [#5406](https://github.com/Azure/sdk-release-request/issues/5406) | ChenxiJiang333 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 08-07 | fail to get. |  |
