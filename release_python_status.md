@@ -10,6 +10,6 @@
 | 8 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 9 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | new comment. HoldOn. | 08-07 | 09-27 |  |
 | 10 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 | HoldOn. | 07-26 | 08-22 |  |
-| 12 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 08-23 |  |
-| 13 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 08-23 |  |
-| 14 | [#5319](https://github.com/Azure/sdk-release-request/issues/5319) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 | HoldOn. | 07-05 | 08-23 |  |
+| 11 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 08-23 |  |
+| 12 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 08-23 |  |
+| 13 | [#5319](https://github.com/Azure/sdk-release-request/issues/5319) | schaudhari6254888 | azure-mgmt-eventhub | ChenxiJiang333 | HoldOn. | 07-05 | 08-23 |  |
