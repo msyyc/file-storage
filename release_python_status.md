@@ -5,8 +5,6 @@
 | 3 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
 | 4 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
 | 5 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
-| 6 | [#5407](https://github.com/Azure/sdk-release-request/issues/5407) | ChenxiJiang333 | azure-mgmt-mysqlflexibleservers | ChenxiJiang333 |  | 08-07 | fail to get. |  |
-| 7 | [#5406](https://github.com/Azure/sdk-release-request/issues/5406) | ChenxiJiang333 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 08-07 | fail to get. |  |
 | 8 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 9 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | new comment. HoldOn. | 08-07 | 09-27 |  |
 | 10 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 | HoldOn. | 07-26 | 08-22 |  |
