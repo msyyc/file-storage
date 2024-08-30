@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5450](https://github.com/Azure/sdk-release-request/issues/5450) | alec-baird |  | Alancere | Attention to inconsistent tag. | 08-30 | 09-27 |  |
+| 1 | [#5450](https://github.com/Azure/sdk-release-request/issues/5450) | alec-baird |  | Alancere | new comment. Attention to inconsistent tag. | 08-30 | 09-27 |  |
 | 2 | [#5446](https://github.com/Azure/sdk-release-request/issues/5446) | zackliu |  | Alancere | multi readme link! | 08-26 | 09-26 |  |
 | 3 | [#5441](https://github.com/Azure/sdk-release-request/issues/5441) | mimckitt |  | Alancere | new comment. Attention to inconsistent tag. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
 | 4 | [#5436](https://github.com/Azure/sdk-release-request/issues/5436) | wiboris |  | Alancere | new issue. | 08-22 | 09-27 |  |
