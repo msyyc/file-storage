@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 | Attention to inconsistent tag. | 08-30 | 09-27 |  |
+| 1 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 2 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 3 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
 | 4 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
