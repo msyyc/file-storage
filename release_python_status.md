@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5463](https://github.com/Azure/sdk-release-request/issues/5463) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. | 09-02 | 09-26 |  |
+| 1 | [#5463](https://github.com/Azure/sdk-release-request/issues/5463) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-02 | 09-26 |  |
 | 2 | [#5458](https://github.com/Azure/sdk-release-request/issues/5458) | us6193 | azure-mgmt-billing | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 3 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 4 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
