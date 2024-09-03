@@ -13,7 +13,7 @@
 | 11 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  | [#5380](https://github.com/Azure/sdk-release-request/issues/5380)  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 08-22 | Hold on by JS/Go/Python/ |
 | 12 | ServiceNetworking-2024-05-01-preview  | [#5350](https://github.com/Azure/sdk-release-request/issues/5350)  |  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 08-23 | Hold on by JS/Java/Python/ |
 | 13 | SDK Release for Qumulo API 2024-06-19  | [#5327](https://github.com/Azure/sdk-release-request/issues/5327)  |  | [#5325](https://github.com/Azure/sdk-release-request/issues/5325)  |  | 07-09 | 08-23 |  |
-| 14 | 'Release for EventHub Api-Version=2024-01-01'   | [#5319](https://github.com/Azure/sdk-release-request/issues/5319)  |  |  |  | 07-05 | 08-23 | Hold on by Python/ |
+| 14 | 'Release for EventHub Api-Version=2024-01-01'   | [#5319](https://github.com/Azure/sdk-release-request/issues/5319)  |  |  |  | 07-05 | 08-23 |  |
 | 15 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 16 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
 | 17 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 | Hold on by Go/ |
