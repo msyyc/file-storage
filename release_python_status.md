@@ -12,4 +12,3 @@
 | 10 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | HoldOn. | 08-07 | 09-27 |  |
 | 11 | [#5380](https://github.com/Azure/sdk-release-request/issues/5380) | saljain0101 | azure-mgmt-sql | ChenxiJiang333 | new comment. HoldOn. | 07-26 | 08-22 |  |
 | 12 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 08-23 |  |
-| 13 | [#5327](https://github.com/Azure/sdk-release-request/issues/5327) | scorpion-ajay | azure-mgmt-qumulo | ChenxiJiang333 |  | 07-09 | 08-23 |  |
