@@ -10,4 +10,4 @@
 | 8 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | new issue. new comment. | 08-12 | 09-26 |  |
 | 9 | [#5402](https://github.com/Azure/sdk-release-request/issues/5402) | yifanz7 |  | MaryGao | new comment. | 08-07 | 09-27 |  |
 | 10 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao | new comment. | 07-26 | 09-26 |  |
-| 11 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | new comment. Attention to inconsistent tag. HoldOn. | 07-18 | 09-26 |  |
+| 11 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | Attention to inconsistent tag. HoldOn. | 07-18 | 09-26 |  |
