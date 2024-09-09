@@ -8,7 +8,7 @@
 | 6 | [#5438](https://github.com/Azure/sdk-release-request/issues/5438) | wiboris |  | MaryGao | new issue. | 08-22 | 09-27 |  |
 | 7 | [#5434](https://github.com/Azure/sdk-release-request/issues/5434) | FumingZhang |  | MaryGao | new issue. new comment. | 08-22 | 09-26 |  |
 | 8 | [#5432](https://github.com/Azure/sdk-release-request/issues/5432) | olivertowers |  | MaryGao | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
-| 9 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | new issue. new comment. FirstBeta. | 08-12 | 09-26 |  |
+| 9 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | new issue. new comment. FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 10 | [#5402](https://github.com/Azure/sdk-release-request/issues/5402) | yifanz7 |  | MaryGao | new comment. | 08-07 | 09-27 |  |
 | 11 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao | new comment. | 07-26 | 09-26 |  |
 | 12 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | new comment. Attention to inconsistent tag. HoldOn. | 07-18 | 09-26 |  |
