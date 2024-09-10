@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5482](https://github.com/Azure/sdk-release-request/issues/5482) | ChenxiJiang333 | azure-mgmt-hdinsight | ChenxiJiang333 | new issue. | 09-10 | fail to get. |  |
+| 1 | [#5482](https://github.com/Azure/sdk-release-request/issues/5482) | ChenxiJiang333 | azure-mgmt-hdinsight | ChenxiJiang333 |  | 09-10 | fail to get. |  |
 | 2 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | Attention to inconsistent tag. HoldOn. MultiAPI | 09-10 | 09-26 |  |
 | 3 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 09-09 | 09-27 |  |
 | 4 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 09-09 | 09-23 |  |
