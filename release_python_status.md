@@ -1,13 +1,13 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 09-09 | 09-27 |  |
-| 2 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new comment. Attention to inconsistent tag. | 09-09 | 09-27 |  |
+| 2 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 3 | [#5467](https://github.com/Azure/sdk-release-request/issues/5467) | pranavpnair | azure-mgmt-privatedns | ChenxiJiang333 |  | 09-06 | 09-27 |  |
 | 4 | [#5463](https://github.com/Azure/sdk-release-request/issues/5463) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-02 | 09-26 |  |
 | 5 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 6 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 7 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
-| 8 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 | new comment. | 08-22 | 09-27 |  |
+| 8 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
 | 9 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
 | 10 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 11 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
