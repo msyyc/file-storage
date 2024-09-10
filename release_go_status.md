@@ -10,7 +10,7 @@
 | 8 | [#5446](https://github.com/Azure/sdk-release-request/issues/5446) | zackliu |  | Alancere | multi readme link! | 08-26 | 09-26 |  |
 | 9 | [#5441](https://github.com/Azure/sdk-release-request/issues/5441) | mimckitt |  | Alancere | new comment. Attention to inconsistent tag. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
 | 10 | [#5436](https://github.com/Azure/sdk-release-request/issues/5436) | wiboris |  | Alancere |  | 08-22 | 09-27 |  |
-| 11 | [#5435](https://github.com/Azure/sdk-release-request/issues/5435) | FumingZhang |  | Alancere |  | 08-22 | 09-26 |  |
+| 11 | [#5435](https://github.com/Azure/sdk-release-request/issues/5435) | FumingZhang |  | Alancere | new comment. | 08-22 | 09-26 |  |
 | 12 | [#5430](https://github.com/Azure/sdk-release-request/issues/5430) | olivertowers |  | Alancere | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
 | 13 | [#5416](https://github.com/Azure/sdk-release-request/issues/5416) | badeamarjieh |  | Alancere | new comment. FirstGA. | 08-12 | 09-26 |  |
 | 14 | [#5400](https://github.com/Azure/sdk-release-request/issues/5400) | yifanz7 |  | Alancere | new comment. HoldOn. | 08-07 | 09-27 |  |
