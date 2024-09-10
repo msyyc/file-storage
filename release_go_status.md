@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5473](https://github.com/Azure/sdk-release-request/issues/5473) | carjackson-msft |  | Alancere | new issue. | 09-09 | 09-27 |  |
+| 1 | [#5473](https://github.com/Azure/sdk-release-request/issues/5473) | carjackson-msft |  | Alancere |  | 09-09 | 09-27 |  |
 | 2 | [#5469](https://github.com/Azure/sdk-release-request/issues/5469) | carjackson-msft |  | Alancere | Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 3 | [#5464](https://github.com/Azure/sdk-release-request/issues/5464) | pranavpnair |  | Alancere |  | 09-06 | 09-27 |  |
 | 4 | [#5460](https://github.com/Azure/sdk-release-request/issues/5460) | fumingzhang |  | Alancere |  | 09-02 | 09-26 |  |
