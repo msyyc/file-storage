@@ -3,7 +3,7 @@
 | 1 | [#5477](https://github.com/Azure/sdk-release-request/issues/5477) | pkamboj_microsoft |  | Alancere | Attention to inconsistent tag. | 09-10 | 09-26 |  |
 | 2 | [#5473](https://github.com/Azure/sdk-release-request/issues/5473) | carjackson-msft |  | Alancere |  | 09-09 | 09-27 |  |
 | 3 | [#5469](https://github.com/Azure/sdk-release-request/issues/5469) | carjackson-msft |  | Alancere | Attention to inconsistent tag. | 09-09 | 09-27 |  |
-| 4 | [#5464](https://github.com/Azure/sdk-release-request/issues/5464) | pranavpnair |  | Alancere |  | 09-06 | 09-27 |  |
+| 4 | [#5464](https://github.com/Azure/sdk-release-request/issues/5464) | pranavpnair |  | Alancere | new comment. | 09-06 | 09-27 |  |
 | 5 | [#5460](https://github.com/Azure/sdk-release-request/issues/5460) | fumingzhang |  | Alancere |  | 09-02 | 09-26 |  |
 | 6 | [#5455](https://github.com/Azure/sdk-release-request/issues/5455) | us6193 |  | ArcturusZhang |  | 08-30 |  | 0 |
 | 7 | [#5450](https://github.com/Azure/sdk-release-request/issues/5450) | alec-baird |  | Alancere | new comment. Attention to inconsistent tag. | 08-30 | 09-27 |  |
