@@ -16,7 +16,8 @@
 | 14 | ServiceNetworking-2024-05-01-preview  | [#5350](https://github.com/Azure/sdk-release-request/issues/5350)  | [#5340](https://github.com/Azure/sdk-release-request/issues/5340)  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 09-26 | Hold on by JS/Java/Python/ |
 | 15 | Azure VMware Solution 2023-09-01  | [#5191](https://github.com/Azure/sdk-release-request/issues/5191)  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
 | 16 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 17 | Release for BillingRP - 2024-04-01  |  | [#5455](https://github.com/Azure/sdk-release-request/issues/5455)  |  |  | 08-30 |  |  |
-| 18 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
-| 19 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
-| 20 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 |  |  |
+| 17 | DevHub - 2024-05-01-preview  |  | [#5483](https://github.com/Azure/sdk-release-request/issues/5483)  |  |  | 09-12 | 09-26 |  |
+| 18 | Release for BillingRP - 2024-04-01  |  | [#5455](https://github.com/Azure/sdk-release-request/issues/5455)  |  |  | 08-30 |  |  |
+| 19 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
+| 20 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
+| 21 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 |  |  |
