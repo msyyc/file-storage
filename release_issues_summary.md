@@ -19,4 +19,4 @@
 | 17 | Release for BillingRP - 2024-04-01  |  | [#5455](https://github.com/Azure/sdk-release-request/issues/5455)  |  |  | 08-30 |  |  |
 | 18 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
 | 19 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
-| 20 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 |  |
+| 20 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 |  |  |
