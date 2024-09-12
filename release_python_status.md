@@ -2,9 +2,9 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-10 | 09-26 |  |
 | 2 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new issue. | 09-09 | 09-27 |  |
-| 3 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new comment. | 09-09 | 09-23 |  |
+| 3 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 09-09 | 09-23 |  |
 | 4 | [#5467](https://github.com/Azure/sdk-release-request/issues/5467) | pranavpnair | azure-mgmt-privatedns | ChenxiJiang333 |  | 09-06 | 09-27 |  |
-| 5 | [#5463](https://github.com/Azure/sdk-release-request/issues/5463) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 09-02 | 09-26 |  |
+| 5 | [#5463](https://github.com/Azure/sdk-release-request/issues/5463) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. OnTime. | 09-02 | 09-26 |  |
 | 6 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 7 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 8 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
