@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | Attention to inconsistent tag. MultiAPI | 09-10 | 09-26 |  |
+| 1 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | MultiAPI | 09-10 | 09-26 |  |
 | 2 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new issue. | 09-09 | 09-27 |  |
 | 3 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new comment. | 09-09 | 09-23 |  |
 | 4 | [#5467](https://github.com/Azure/sdk-release-request/issues/5467) | pranavpnair | azure-mgmt-privatedns | ChenxiJiang333 |  | 09-06 | 09-27 |  |
