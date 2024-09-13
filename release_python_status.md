@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-kubernetesruntime | ChenxiJiang333 | Attention to inconsistent tag. | 09-13 | 10-24 |  |
-| 2 | [#5489](https://github.com/Azure/sdk-release-request/issues/5489) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> new comment. TypeSpec. | 09-12 | 09-27 |  |
+| 1 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu |  | ChenxiJiang333 |  | 09-13 |  | 0 |
+| 2 | [#5489](https://github.com/Azure/sdk-release-request/issues/5489) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 09-12 | 09-27 |  |
 | 3 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-10 | 09-26 |  |
 | 4 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new issue. | 09-09 | 09-27 |  |
 | 5 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 09-09 | 09-23 |  |
