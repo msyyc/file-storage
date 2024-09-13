@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2024-09-02,2024-09-13,https://github.com/Azure/sdk-release-request/issues/5463,32.0.0,True
 azure-mgmt-hdinsight,ChenxiJiang333,ChenxiJiang333,2024-09-10,2024-09-10,https://github.com/Azure/sdk-release-request/issues/5482,9.1.0b1,
 azure-mgmt-sql,azure-sdk,ChenxiJiang333,2024-07-26,2024-09-09,https://github.com/Azure/sdk-release-request/issues/5380,4.0.0b19,
 azure-mgmt-billing,azure-sdk,ChenxiJiang333,2024-08-30,2024-09-05,https://github.com/Azure/sdk-release-request/issues/5458,7.0.0,True

@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5488](https://github.com/Azure/sdk-release-request/issues/5488) | olivertowers |  | qiaozha | Attention to inconsistent tag. | 09-12 | 09-27 |  |
 | 2 | [#5485](https://github.com/Azure/sdk-release-request/issues/5485) | fumingzhang |  | qiaozha | Attention to inconsistent tag. | 09-12 | 09-26 |  |
-| 3 | [#5479](https://github.com/Azure/sdk-release-request/issues/5479) | pkamboj_microsoft |  | qiaozha | Attention to inconsistent tag. | 09-10 | 09-26 |  |
+| 3 | [#5479](https://github.com/Azure/sdk-release-request/issues/5479) | pkamboj_microsoft |  | qiaozha | new comment. Attention to inconsistent tag. | 09-10 | 09-26 |  |
 | 4 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha | new issue. | 09-09 | 09-27 |  |
 | 5 | [#5471](https://github.com/Azure/sdk-release-request/issues/5471) | carjackson-msft |  | qiaozha | Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 6 | [#5466](https://github.com/Azure/sdk-release-request/issues/5466) | pranavpnair |  | MaryGao |  | 09-06 | 09-27 |  |

@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5487](https://github.com/Azure/sdk-release-request/issues/5487) | olivertowers |  | weidongxu-microsoft | Attention to inconsistent tag. | 09-12 | 09-27 |  |
-| 2 | [#5478](https://github.com/Azure/sdk-release-request/issues/5478) | pkamboj_microsoft |  | v-hongli1 | Attention to inconsistent tag. | 09-10 | 09-26 |  |
+| 2 | [#5478](https://github.com/Azure/sdk-release-request/issues/5478) | pkamboj_microsoft |  | v-hongli1 | new comment. Attention to inconsistent tag. | 09-10 | 09-26 |  |
 | 3 | [#5474](https://github.com/Azure/sdk-release-request/issues/5474) | carjackson-msft |  | v-hongli1 | new issue. | 09-09 | 09-27 |  |
 | 4 | [#5470](https://github.com/Azure/sdk-release-request/issues/5470) | carjackson-msft |  | v-hongli1 | Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 5 | [#5465](https://github.com/Azure/sdk-release-request/issues/5465) | pranavpnair |  | v-hongli1 | new issue. | 09-06 | 09-27 |  |
