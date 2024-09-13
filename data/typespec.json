@@ -1,5 +1,5 @@
 {
-  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure", "azure-mgmt-mongocluster", "azure-mgmt-computefleet", "azure-mgmt-containerorchestratorruntime"],
+  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure", "azure-mgmt-mongocluster", "azure-mgmt-computefleet", "azure-mgmt-containerorchestratorruntime", "azure-mgmt-standbypool", "azure-mgmt-fabric"],
   "js": [],
   "go": [],
   "java": [] 
