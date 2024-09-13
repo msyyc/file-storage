@@ -8,7 +8,7 @@
 | 6 | [#5463](https://github.com/Azure/sdk-release-request/issues/5463) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. OnTime. | 09-02 | 09-26 |  |
 | 7 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 8 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
-| 9 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
+| 9 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | FirstGA. TypeSpec. | 08-22 | 09-27 |  |
 | 10 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
 | 11 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
 | 12 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
