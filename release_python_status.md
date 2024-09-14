@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5503](https://github.com/Azure/sdk-release-request/issues/5503) | priyankarking | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 09-13 | 09-27 |  |
-| 2 | [#5498](https://github.com/Azure/sdk-release-request/issues/5498) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 |  | 09-13 | 09-27 |  |
-| 3 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu |  | ChenxiJiang333 |  | 09-13 |  | 0 |
+| 1 | [#5503](https://github.com/Azure/sdk-release-request/issues/5503) | priyankarking | azure-mgmt-redisenterprise | ChenxiJiang333 | HoldOn. | 09-13 | 09-27 |  |
+| 2 | [#5498](https://github.com/Azure/sdk-release-request/issues/5498) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 09-27 |  |
+| 3 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
 | 4 | [#5489](https://github.com/Azure/sdk-release-request/issues/5489) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> new comment. TypeSpec. | 09-12 | 09-27 |  |
 | 5 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-10 | 09-26 |  |
 | 6 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new issue. | 09-09 | 09-27 |  |
-| 7 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new comment. | 09-09 | 09-23 |  |
+| 7 | [#5472](https://github.com/Azure/sdk-release-request/issues/5472) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> | 09-09 | 09-20 |  |
 | 8 | [#5467](https://github.com/Azure/sdk-release-request/issues/5467) | pranavpnair | azure-mgmt-privatedns | ChenxiJiang333 |  | 09-06 | 09-27 |  |
 | 9 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
 | 10 | [#5449](https://github.com/Azure/sdk-release-request/issues/5449) | zackliu | azure-mgmt-webpubsub | ChenxiJiang333 |  | 08-26 | 09-26 |  |
