@@ -21,8 +21,8 @@
 | 19 | Release for Container Service - 2024-07-01  |  | [#5460](https://github.com/Azure/sdk-release-request/issues/5460)  | [#5461](https://github.com/Azure/sdk-release-request/issues/5461)  | [#5462](https://github.com/Azure/sdk-release-request/issues/5462)  | 09-02 | 09-26 |  |
 | 20 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 21 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  | [#5485](https://github.com/Azure/sdk-release-request/issues/5485)  | 09-12 | 09-26 |  |
-| 22 | DevHub - 2024-05-01-preview  |  | [#5483](https://github.com/Azure/sdk-release-request/issues/5483)  |  |  | 09-12 |  |  |
+| 22 | DevHub - 2024-05-01-preview  |  | [#5483](https://github.com/Azure/sdk-release-request/issues/5483)  |  |  | 09-12 | 09-26 |  |
 | 23 | Release for BillingRP - 2024-04-01  |  | [#5455](https://github.com/Azure/sdk-release-request/issues/5455)  |  |  | 08-30 |  |  |
 | 24 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  | [#5434](https://github.com/Azure/sdk-release-request/issues/5434)  | 08-22 | 09-26 |  |
 | 25 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
-| 26 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 |  |  |
+| 26 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 |  |
