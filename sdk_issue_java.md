@@ -68,4 +68,3 @@
 |66|[#31777](https://github.com/Azure/azure-sdk-for-java/issues/31777)|Option to override HttpLoggingPolicy.MAX_BODY_LOG_SIZE|ARM, Mgmt, customer-reported, feature-request|XiaofeiCao|new comment|2022-10-27|
 |67|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-10-10|
 |68|[#31208](https://github.com/Azure/azure-sdk-for-java/issues/31208)|[FEATURE REQ] mgmt Lite, know which service is popular, but we not generated for long|Mgmt, Mgmt - Track 2, planning|XiaofeiCao||2022-09-29|
-|69|[#30981](https://github.com/Azure/azure-sdk-for-java/issues/30981)|[BUG] com.azure.resourcemanager.AzureResourceManager.Authenticated.activeDirectoryUsers() are returning null|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-09-15|
