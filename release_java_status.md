@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5507](https://github.com/Azure/sdk-release-request/issues/5507) | jkore1911 |  | v-hongli1 | new issue. | 09-16 | 10-24 |  |
 | 2 | [#5501](https://github.com/Azure/sdk-release-request/issues/5501) | priyankarking |  | haolingdong-msft | new issue. | 09-13 | 09-27 |  |
-| 3 | [#5496](https://github.com/Azure/sdk-release-request/issues/5496) | NneOkeke |  | XiaofeiCao | new issue. new comment. | 09-13 | 09-27 |  |
+| 3 | [#5496](https://github.com/Azure/sdk-release-request/issues/5496) | NneOkeke |  | XiaofeiCao |  | 09-13 | 09-27 |  |
 | 4 | [#5492](https://github.com/Azure/sdk-release-request/issues/5492) | HE-Xinyu |  | v-hongli1 | Attention to inconsistent tag. | 09-13 | 10-24 |  |
 | 5 | [#5487](https://github.com/Azure/sdk-release-request/issues/5487) | olivertowers |  | weidongxu-microsoft | Attention to inconsistent tag. | 09-12 | 09-27 |  |
 | 6 | [#5478](https://github.com/Azure/sdk-release-request/issues/5478) | pkamboj_microsoft |  | v-hongli1 | new comment. Attention to inconsistent tag. | 09-10 | 09-26 |  |
