@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5509](https://github.com/Azure/sdk-release-request/issues/5509) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 |  | 09-16 | 10-24 |  |
 | 2 | [#5503](https://github.com/Azure/sdk-release-request/issues/5503) | priyankarking | azure-mgmt-redisenterprise | ChenxiJiang333 | HoldOn. | 09-13 | 09-27 |  |
-| 3 | [#5498](https://github.com/Azure/sdk-release-request/issues/5498) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 09-13 | 09-27 |  |
+| 3 | [#5498](https://github.com/Azure/sdk-release-request/issues/5498) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 09-27 |  |
 | 4 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
 | 5 | [#5489](https://github.com/Azure/sdk-release-request/issues/5489) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> new comment. TypeSpec. | 09-12 | 09-27 |  |
 | 6 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-10 | 09-26 |  |
