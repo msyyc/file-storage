@@ -12,16 +12,15 @@
 | 10 | [#5469](https://github.com/Azure/sdk-release-request/issues/5469) | carjackson-msft |  | Mitse1n | Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 11 | [#5464](https://github.com/Azure/sdk-release-request/issues/5464) | pranavpnair |  | Mitse1n | new comment. | 09-06 | 09-27 |  |
 | 12 | [#5460](https://github.com/Azure/sdk-release-request/issues/5460) | fumingzhang |  | Mitse1n |  | 09-02 | 09-26 |  |
-| 13 | [#5455](https://github.com/Azure/sdk-release-request/issues/5455) | us6193 |  | ArcturusZhang | FirstGA. | 08-30 | 09-09 |  |
-| 14 | [#5450](https://github.com/Azure/sdk-release-request/issues/5450) | alec-baird |  | Mitse1n | new comment. Attention to inconsistent tag. | 08-30 | 09-27 |  |
-| 15 | [#5446](https://github.com/Azure/sdk-release-request/issues/5446) | zackliu |  | Mitse1n | multi readme link! | 08-26 | 09-26 |  |
-| 16 | [#5441](https://github.com/Azure/sdk-release-request/issues/5441) | mimckitt |  | Mitse1n | new comment. Attention to inconsistent tag. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
-| 17 | [#5436](https://github.com/Azure/sdk-release-request/issues/5436) | wiboris |  | Mitse1n |  | 08-22 | 09-27 |  |
-| 18 | [#5435](https://github.com/Azure/sdk-release-request/issues/5435) | FumingZhang |  | Mitse1n | new comment. | 08-22 | 09-26 |  |
-| 19 | [#5430](https://github.com/Azure/sdk-release-request/issues/5430) | olivertowers |  | Mitse1n | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
-| 20 | [#5416](https://github.com/Azure/sdk-release-request/issues/5416) | badeamarjieh |  | Mitse1n | new comment. FirstGA. | 08-12 | 09-26 |  |
-| 21 | [#5400](https://github.com/Azure/sdk-release-request/issues/5400) | yifanz7 |  | Mitse1n | new comment. | 08-07 | 09-27 |  |
-| 22 | [#5377](https://github.com/Azure/sdk-release-request/issues/5377) | saljain0101 |  | Mitse1n | new comment. | 07-26 | 09-26 |  |
-| 23 | [#5340](https://github.com/Azure/sdk-release-request/issues/5340) | malpaniHMC |  | Mitse1n | new comment. | 07-18 | 08-23 |  |
-| 24 | [#5328](https://github.com/Azure/sdk-release-request/issues/5328) | schaudhari6254888 |  | Mitse1n | new issue. new comment. | 07-10 | 08-23 |  |
-| 25 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | cataggar |  | Mitse1n | new comment. | 05-08 | 09-26 |  |
+| 13 | [#5450](https://github.com/Azure/sdk-release-request/issues/5450) | alec-baird |  | Mitse1n | new comment. Attention to inconsistent tag. | 08-30 | 09-27 |  |
+| 14 | [#5446](https://github.com/Azure/sdk-release-request/issues/5446) | zackliu |  | Mitse1n | multi readme link! | 08-26 | 09-26 |  |
+| 15 | [#5441](https://github.com/Azure/sdk-release-request/issues/5441) | mimckitt |  | Mitse1n | new comment. Attention to inconsistent tag. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 |  |
+| 16 | [#5436](https://github.com/Azure/sdk-release-request/issues/5436) | wiboris |  | Mitse1n |  | 08-22 | 09-27 |  |
+| 17 | [#5435](https://github.com/Azure/sdk-release-request/issues/5435) | FumingZhang |  | Mitse1n | new comment. | 08-22 | 09-26 |  |
+| 18 | [#5430](https://github.com/Azure/sdk-release-request/issues/5430) | olivertowers |  | Mitse1n | FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
+| 19 | [#5416](https://github.com/Azure/sdk-release-request/issues/5416) | badeamarjieh |  | Mitse1n | new comment. FirstGA. | 08-12 | 09-26 |  |
+| 20 | [#5400](https://github.com/Azure/sdk-release-request/issues/5400) | yifanz7 |  | Mitse1n | new comment. | 08-07 | 09-27 |  |
+| 21 | [#5377](https://github.com/Azure/sdk-release-request/issues/5377) | saljain0101 |  | Mitse1n | new comment. | 07-26 | 09-26 |  |
+| 22 | [#5340](https://github.com/Azure/sdk-release-request/issues/5340) | malpaniHMC |  | Mitse1n | new comment. | 07-18 | 08-23 |  |
+| 23 | [#5328](https://github.com/Azure/sdk-release-request/issues/5328) | schaudhari6254888 |  | Mitse1n | new issue. new comment. | 07-10 | 08-23 |  |
+| 24 | [#5188](https://github.com/Azure/sdk-release-request/issues/5188) | cataggar |  | Mitse1n | new comment. | 05-08 | 09-26 |  |
