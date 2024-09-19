@@ -14,7 +14,7 @@
 | 12 | [#5444](https://github.com/Azure/sdk-release-request/issues/5444) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | FirstGA. TypeSpec. | 08-22 | 09-27 |  |
 | 13 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 |  | 08-22 | 09-27 |  |
 | 14 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 |  |
-| 15 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
+| 15 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstBeta. TypeSpec. | 08-12 | 09-26 |  |
 | 16 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 17 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 08-07 | 09-27 |  |
 | 18 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 09-26 |  |
