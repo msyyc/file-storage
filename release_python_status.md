@@ -19,4 +19,4 @@
 | 17 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 18 | [#5403](https://github.com/Azure/sdk-release-request/issues/5403) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 08-07 | 09-27 |  |
 | 19 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | HoldOn. | 07-18 | 09-26 |  |
-| 20 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | cataggar | azure-mgmt-avs | ChenxiJiang333 | new comment. HoldOn. | 05-08 | 09-26 |  |
+| 20 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | cataggar | azure-mgmt-avs | ChenxiJiang333 | HoldOn. | 05-08 | 09-26 |  |
