@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5513](https://github.com/Azure/sdk-release-request/issues/5513) | mmorrison57 |  | haolingdong-msft |  | 09-18 |  | 0 |
+| 1 | [#5513](https://github.com/Azure/sdk-release-request/issues/5513) | mmorrison57 |  | haolingdong-msft | new issue. | 09-18 | 10-25 |  |
 | 2 | [#5507](https://github.com/Azure/sdk-release-request/issues/5507) | jkore1911 |  | v-hongli1 | new issue. | 09-16 | 10-24 |  |
 | 3 | [#5501](https://github.com/Azure/sdk-release-request/issues/5501) | priyankarking |  | haolingdong-msft | new issue. | 09-13 | 09-27 |  |
 | 4 | [#5496](https://github.com/Azure/sdk-release-request/issues/5496) | NneOkeke |  | XiaofeiCao | new comment. | 09-13 | 09-27 |  |
