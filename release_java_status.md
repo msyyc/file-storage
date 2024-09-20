@@ -6,7 +6,7 @@
 | 4 | [#5496](https://github.com/Azure/sdk-release-request/issues/5496) | NneOkeke |  | XiaofeiCao | FirstBeta. | 09-13 | 09-27 |  |
 | 5 | [#5492](https://github.com/Azure/sdk-release-request/issues/5492) | HE-Xinyu |  | v-hongli1 | Attention to inconsistent tag. | 09-13 | 10-24 |  |
 | 6 | [#5487](https://github.com/Azure/sdk-release-request/issues/5487) | olivertowers |  | weidongxu-microsoft | Attention to inconsistent tag. | 09-12 | 09-27 |  |
-| 7 | [#5478](https://github.com/Azure/sdk-release-request/issues/5478) | pkamboj_microsoft |  | v-hongli1 | new comment. Attention to inconsistent tag. | 09-10 | 09-26 |  |
+| 7 | [#5478](https://github.com/Azure/sdk-release-request/issues/5478) | pkamboj_microsoft |  | v-hongli1 | new comment. | 09-10 | 09-26 |  |
 | 8 | [#5470](https://github.com/Azure/sdk-release-request/issues/5470) | carjackson-msft |  | v-hongli1 | Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 9 | [#5465](https://github.com/Azure/sdk-release-request/issues/5465) | pranavpnair |  | v-hongli1 | new issue. | 09-06 | 09-27 |  |
 | 10 | [#5461](https://github.com/Azure/sdk-release-request/issues/5461) | fumingzhang |  | v-hongli1 | new issue. | 09-02 | 09-26 |  |

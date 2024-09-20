@@ -8,7 +8,7 @@
 | 6 | [#5486](https://github.com/Azure/sdk-release-request/issues/5486) | olivertowers |  | Mitse1n | Attention to inconsistent tag. | 09-12 | 09-27 |  |
 | 7 | [#5484](https://github.com/Azure/sdk-release-request/issues/5484) | fumingzhang |  | Mitse1n | Attention to inconsistent tag. | 09-12 | 09-26 |  |
 | 8 | [#5483](https://github.com/Azure/sdk-release-request/issues/5483) | qfai |  | Mitse1n |  | 09-12 | 09-26 |  |
-| 9 | [#5477](https://github.com/Azure/sdk-release-request/issues/5477) | pkamboj_microsoft |  | Mitse1n | new comment. Attention to inconsistent tag. | 09-10 | 09-26 |  |
+| 9 | [#5477](https://github.com/Azure/sdk-release-request/issues/5477) | pkamboj_microsoft |  | Mitse1n | new comment. | 09-10 | 09-26 |  |
 | 10 | [#5473](https://github.com/Azure/sdk-release-request/issues/5473) | carjackson-msft |  | Mitse1n |  | 09-09 | 09-27 |  |
 | 11 | [#5469](https://github.com/Azure/sdk-release-request/issues/5469) | carjackson-msft |  | Mitse1n | Attention to inconsistent tag. | 09-09 | 09-27 |  |
 | 12 | [#5464](https://github.com/Azure/sdk-release-request/issues/5464) | pranavpnair |  | Mitse1n | new comment. | 09-06 | 09-27 |  |
