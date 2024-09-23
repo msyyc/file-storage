@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-elasticsan,azure-sdk,ChenxiJiang333,2024-08-07,2024-09-23,https://github.com/Azure/sdk-release-request/issues/5403,1.1.0,True
+azure-mgmt-privatedns,azure-sdk,ChenxiJiang333,2024-09-06,2024-09-23,https://github.com/Azure/sdk-release-request/issues/5467,1.2.0,True
 azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-09-09,2024-09-19,https://github.com/Azure/sdk-release-request/issues/5472,9.6.0,True
 azure-mgmt-cosmosdb,azure-sdk,ChenxiJiang333,2024-09-09,2024-09-19,https://github.com/Azure/sdk-release-request/issues/5476,9.6.0,True
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2024-09-02,2024-09-13,https://github.com/Azure/sdk-release-request/issues/5463,32.0.0,True
