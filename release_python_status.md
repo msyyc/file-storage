@@ -5,7 +5,7 @@
 | 3 | [#5503](https://github.com/Azure/sdk-release-request/issues/5503) | priyankarking | azure-mgmt-redisenterprise | ChenxiJiang333 | new comment. HoldOn. | 09-13 | 09-27 |  |
 | 4 | [#5498](https://github.com/Azure/sdk-release-request/issues/5498) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 09-27 |  |
 | 5 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
-| 6 | [#5489](https://github.com/Azure/sdk-release-request/issues/5489) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> new comment. TypeSpec. | 09-12 | 09-27 |  |
+| 6 | [#5489](https://github.com/Azure/sdk-release-request/issues/5489) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 09-12 | 09-27 |  |
 | 7 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | close to release date. | 09-10 | 09-26 | 2 |
 | 8 | [#5476](https://github.com/Azure/sdk-release-request/issues/5476) | carjackson-msft | azure-mgmt-cosmosdb | ChenxiJiang333 |  | 09-09 | 09-27 |  |
 | 9 | [#5453](https://github.com/Azure/sdk-release-request/issues/5453) | alec-baird | azure-mgmt-desktopvirtualization | ChenxiJiang333 |  | 08-30 | 09-27 |  |
