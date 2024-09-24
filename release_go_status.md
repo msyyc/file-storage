@@ -17,7 +17,7 @@
 | 15 | [#5460](https://github.com/Azure/sdk-release-request/issues/5460) | fumingzhang |  | Mitse1n | close to release date. | 09-02 | 09-26 | 1 |
 | 16 | [#5450](https://github.com/Azure/sdk-release-request/issues/5450) | alec-baird |  | Mitse1n | new comment. close to release date. Attention to inconsistent tag. | 08-30 | 09-27 | 2 |
 | 17 | [#5446](https://github.com/Azure/sdk-release-request/issues/5446) | zackliu |  | Mitse1n | multi readme link! close to release date. | 08-26 | 09-26 | 1 |
-| 18 | [#5441](https://github.com/Azure/sdk-release-request/issues/5441) | mimckitt |  | Mitse1n | new comment. close to release date. Attention to inconsistent tag. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 | 2 |
+| 18 | [#5441](https://github.com/Azure/sdk-release-request/issues/5441) | mimckitt |  | Mitse1n | new comment. close to release date. Attention to inconsistent tag. FirstGA. TypeSpec. | 08-22 | 09-27 | 2 |
 | 19 | [#5436](https://github.com/Azure/sdk-release-request/issues/5436) | wiboris |  | Mitse1n | close to release date. | 08-22 | 09-27 | 2 |
 | 20 | [#5435](https://github.com/Azure/sdk-release-request/issues/5435) | FumingZhang |  | Mitse1n | new comment. close to release date. | 08-22 | 09-26 | 1 |
 | 21 | [#5430](https://github.com/Azure/sdk-release-request/issues/5430) | olivertowers |  | Mitse1n | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 | 2 |
