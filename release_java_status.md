@@ -6,7 +6,7 @@
 | 4 | [#5507](https://github.com/Azure/sdk-release-request/issues/5507) | jkore1911 |  | v-hongli1 | new issue. | 09-16 | 10-24 |  |
 | 5 | [#5501](https://github.com/Azure/sdk-release-request/issues/5501) | priyankarking |  | haolingdong-msft | new issue. close to release date. | 09-13 | 09-27 | 2 |
 | 6 | [#5496](https://github.com/Azure/sdk-release-request/issues/5496) | NneOkeke |  | XiaofeiCao | close to release date. FirstBeta. | 09-13 | 09-27 | 2 |
-| 7 | [#5492](https://github.com/Azure/sdk-release-request/issues/5492) | HE-Xinyu |  | v-hongli1 | Attention to inconsistent tag. | 09-13 | 10-24 |  |
+| 7 | [#5492](https://github.com/Azure/sdk-release-request/issues/5492) | HE-Xinyu |  | v-hongli1 | new comment. | 09-13 | 10-24 |  |
 | 8 | [#5478](https://github.com/Azure/sdk-release-request/issues/5478) | pkamboj_microsoft |  | v-hongli1 | new comment. close to release date. | 09-10 | 09-26 | 1 |
 | 9 | [#5470](https://github.com/Azure/sdk-release-request/issues/5470) | carjackson-msft |  | v-hongli1 | close to release date. Attention to inconsistent tag. | 09-09 | 09-27 | 2 |
 | 10 | [#5465](https://github.com/Azure/sdk-release-request/issues/5465) | pranavpnair |  | v-hongli1 | new issue. close to release date. | 09-06 | 09-27 | 2 |

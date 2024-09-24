@@ -6,7 +6,7 @@
 | 4 | [#5506](https://github.com/Azure/sdk-release-request/issues/5506) | jkore1911 |  | Mitse1n | new issue. | 09-16 | 10-24 |  |
 | 5 | [#5500](https://github.com/Azure/sdk-release-request/issues/5500) | priyankarking |  | Mitse1n | close to release date. | 09-13 | 09-27 | 2 |
 | 6 | [#5495](https://github.com/Azure/sdk-release-request/issues/5495) | NneOkeke |  | Mitse1n | close to release date. FirstBeta. | 09-13 | 09-27 | 2 |
-| 7 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | Attention to inconsistent tag. | 09-13 | 10-24 |  |
+| 7 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | new comment. | 09-13 | 10-24 |  |
 | 8 | [#5486](https://github.com/Azure/sdk-release-request/issues/5486) | olivertowers |  | Mitse1n | close to release date. Attention to inconsistent tag. | 09-12 | 09-27 | 2 |
 | 9 | [#5484](https://github.com/Azure/sdk-release-request/issues/5484) | fumingzhang |  | Mitse1n | close to release date. Attention to inconsistent tag. | 09-12 | 09-26 | 1 |
 | 10 | [#5483](https://github.com/Azure/sdk-release-request/issues/5483) | qfai |  | Mitse1n | close to release date. | 09-12 | 09-26 | 1 |
