@@ -18,10 +18,9 @@
 | 16 | [#5448](https://github.com/Azure/sdk-release-request/issues/5448) | zackliu |  | qiaozha | multi readme link! close to release date. | 08-26 | 09-26 | 1 |
 | 17 | [#5443](https://github.com/Azure/sdk-release-request/issues/5443) | mimckitt |  | MaryGao | new comment. close to release date. Attention to inconsistent tag. FirstGA. HoldOn. TypeSpec. | 08-22 | 09-27 | 2 |
 | 18 | [#5438](https://github.com/Azure/sdk-release-request/issues/5438) | wiboris |  | MaryGao | new comment. close to release date. | 08-22 | 09-27 | 2 |
-| 19 | [#5434](https://github.com/Azure/sdk-release-request/issues/5434) | FumingZhang |  | MaryGao | new comment. close to release date. | 08-22 | 09-26 | 1 |
-| 20 | [#5432](https://github.com/Azure/sdk-release-request/issues/5432) | olivertowers |  | MaryGao | close to release date. FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 | 2 |
-| 21 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | new comment. close to release date. FirstBeta. TypeSpec. | 08-12 | 09-26 | 1 |
-| 22 | [#5402](https://github.com/Azure/sdk-release-request/issues/5402) | yifanz7 |  | MaryGao | new comment. close to release date. | 08-07 | 09-27 | 2 |
-| 23 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao | new comment. close to release date. | 07-26 | 09-26 | 1 |
-| 24 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | new comment. close to release date. Attention to inconsistent tag. HoldOn. | 07-18 | 09-26 | 1 |
-| 25 | [#5190](https://github.com/Azure/sdk-release-request/issues/5190) | cataggar |  | qiaozha | new comment. | 05-08 | 06-25 |  |
+| 19 | [#5432](https://github.com/Azure/sdk-release-request/issues/5432) | olivertowers |  | MaryGao | close to release date. FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 | 2 |
+| 20 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | new comment. close to release date. FirstBeta. TypeSpec. | 08-12 | 09-26 | 1 |
+| 21 | [#5402](https://github.com/Azure/sdk-release-request/issues/5402) | yifanz7 |  | MaryGao | new comment. close to release date. | 08-07 | 09-27 | 2 |
+| 22 | [#5379](https://github.com/Azure/sdk-release-request/issues/5379) | saljain0101 |  | MaryGao | new comment. close to release date. | 07-26 | 09-26 | 1 |
+| 23 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | new comment. close to release date. Attention to inconsistent tag. HoldOn. | 07-18 | 09-26 | 1 |
+| 24 | [#5190](https://github.com/Azure/sdk-release-request/issues/5190) | cataggar |  | qiaozha | new comment. | 05-08 | 06-25 |  |
