@@ -14,4 +14,3 @@
 | 12 | [#5439](https://github.com/Azure/sdk-release-request/issues/5439) | wiboris | azure-mgmt-batch | ChenxiJiang333 | close to release date. | 08-22 | 09-27 | 1 |
 | 13 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
 | 14 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | close to release date. HoldOn. | 07-18 | 09-26 | 0 |
-| 15 | [#5191](https://github.com/Azure/sdk-release-request/issues/5191) | cataggar | azure-mgmt-avs | ChenxiJiang333 | close to release date. | 05-08 | 09-26 | 0 |
