@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-batch,azure-sdk,ChenxiJiang333,2024-08-22,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5439,18.0.0,True
+azure-mgmt-standbypool,azure-sdk,ChenxiJiang333,2024-08-22,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5444,1.0.0,True
 azure-mgmt-avs,azure-sdk,ChenxiJiang333,2024-05-08,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5191,9.0.0,True
 azure-mgmt-fabric,azure-sdk,ChenxiJiang333,2024-08-12,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5419,1.0.0b1,
 azure-mgmt-webpubsub,azure-sdk,ChenxiJiang333,2024-08-26,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5449,2.0.0,True
