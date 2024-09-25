@@ -10,6 +10,6 @@
 | 8 | [#5498](https://github.com/Azure/sdk-release-request/issues/5498) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | close to release date. FirstBeta. HoldOn. TypeSpec. | 09-13 | 09-27 | 1 |
 | 9 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
 | 10 | [#5480](https://github.com/Azure/sdk-release-request/issues/5480) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | close to release date. | 09-10 | 09-26 | 0 |
-| 12 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 | 1 |
-| 13 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
-| 14 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | close to release date. HoldOn. | 07-18 | 09-26 | 0 |
+| 11 | [#5433](https://github.com/Azure/sdk-release-request/issues/5433) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 08-19 | 09-27 | 1 |
+| 12 | [#5405](https://github.com/Azure/sdk-release-request/issues/5405) | ChenxiJiang333 | azure-mgmt-rdbms | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 08-07 | fail to get. |  |
+| 13 | [#5350](https://github.com/Azure/sdk-release-request/issues/5350) | malpaniHMC | azure-mgmt-servicenetworking | ChenxiJiang333 | close to release date. HoldOn. | 07-18 | 09-26 | 0 |
