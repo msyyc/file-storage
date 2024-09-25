@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-fabric,azure-sdk,ChenxiJiang333,2024-08-12,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5419,1.0.0b1,
+azure-mgmt-webpubsub,azure-sdk,ChenxiJiang333,2024-08-26,2024-09-25,https://github.com/Azure/sdk-release-request/issues/5449,2.0.0,True
 azure-mgmt-mongocluster,azure-sdk,ChenxiJiang333,2024-08-19,2024-09-24,https://github.com/Azure/sdk-release-request/issues/5433,1.0.0b2,
 azure-mgmt-desktopvirtualization,azure-sdk,ChenxiJiang333,2024-08-30,2024-09-24,https://github.com/Azure/sdk-release-request/issues/5453,2.0.0,True
 azure-mgmt-mongocluster,azure-sdk,ChenxiJiang333,2024-09-12,2024-09-24,https://github.com/Azure/sdk-release-request/issues/5489,1.0.0b2,
