@@ -22,12 +22,12 @@
 | 20 | Release for Standby Pools 2024-03-01  |  | [#5441](https://github.com/Azure/sdk-release-request/issues/5441)  | [#5442](https://github.com/Azure/sdk-release-request/issues/5442)  | [#5443](https://github.com/Azure/sdk-release-request/issues/5443)  | 08-22 | 09-27 | Hold on by JS/ |
 | 21 | Release for Batch Service - 2024-07-01  |  | [#5436](https://github.com/Azure/sdk-release-request/issues/5436)  | [#5437](https://github.com/Azure/sdk-release-request/issues/5437)  | [#5438](https://github.com/Azure/sdk-release-request/issues/5438)  | 08-22 | 09-27 |  |
 | 22 | Release for Fabric 2023-11-01  |  | [#5416](https://github.com/Azure/sdk-release-request/issues/5416)  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 09-26 |  |
-| 23 | Release for ElasticSan - 2024-05-01  |  | [#5400](https://github.com/Azure/sdk-release-request/issues/5400)  | [#5401](https://github.com/Azure/sdk-release-request/issues/5401)  | [#5402](https://github.com/Azure/sdk-release-request/issues/5402)  | 08-07 | 09-27 |  |
-| 24 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 25 | Release for MongoCluster 2024-06-01-preview  |  | [#5486](https://github.com/Azure/sdk-release-request/issues/5486)  |  | [#5488](https://github.com/Azure/sdk-release-request/issues/5488)  | 09-12 | 09-27 |  |
-| 26 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  | [#5485](https://github.com/Azure/sdk-release-request/issues/5485)  | 09-12 | 09-26 |  |
-| 27 | DevHub - 2024-05-01-preview  |  | [#5483](https://github.com/Azure/sdk-release-request/issues/5483)  |  |  | 09-12 | 09-26 |  |
-| 28 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  |  | 08-22 | 09-26 |  |
+| 23 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
+| 24 | Release for MongoCluster 2024-06-01-preview  |  | [#5486](https://github.com/Azure/sdk-release-request/issues/5486)  |  | [#5488](https://github.com/Azure/sdk-release-request/issues/5488)  | 09-12 | 09-27 |  |
+| 25 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  | [#5485](https://github.com/Azure/sdk-release-request/issues/5485)  | 09-12 | 09-26 |  |
+| 26 | DevHub - 2024-05-01-preview  |  | [#5483](https://github.com/Azure/sdk-release-request/issues/5483)  |  |  | 09-12 | 09-26 |  |
+| 27 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  |  | 08-22 | 09-26 |  |
+| 28 | Release for ElasticSan - 2024-05-01  |  | [#5400](https://github.com/Azure/sdk-release-request/issues/5400)  |  | [#5402](https://github.com/Azure/sdk-release-request/issues/5402)  | 08-07 | 09-27 |  |
 | 29 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
 | 30 | 'Release for EventHub Api-Version=2024-01-01'  |  | [#5328](https://github.com/Azure/sdk-release-request/issues/5328)  |  |  | 07-10 | 08-23 |  |
 | 31 | Azure VMware Solution 2023-09-01  |  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
