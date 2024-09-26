@@ -21,7 +21,7 @@
 | 19 | Release for Batch Service - 2024-07-01  |  | [#5436](https://github.com/Azure/sdk-release-request/issues/5436)  | [#5437](https://github.com/Azure/sdk-release-request/issues/5437)  | [#5438](https://github.com/Azure/sdk-release-request/issues/5438)  | 08-22 | 09-27 |  |
 | 20 | Release for Fabric 2023-11-01  |  | [#5416](https://github.com/Azure/sdk-release-request/issues/5416)  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 09-26 |  |
 | 21 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 22 | Release for MongoCluster 2024-06-01-preview  |  | [#5486](https://github.com/Azure/sdk-release-request/issues/5486)  |  | [#5488](https://github.com/Azure/sdk-release-request/issues/5488)  | 09-12 | 09-27 |  |
+| 22 | Release for MongoCluster 2024-06-01-preview  |  | [#5486](https://github.com/Azure/sdk-release-request/issues/5486)  |  |  | 09-12 | 09-27 |  |
 | 23 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  | [#5485](https://github.com/Azure/sdk-release-request/issues/5485)  | 09-12 | 09-26 |  |
 | 24 | DevHub - 2024-05-01-preview  |  | [#5483](https://github.com/Azure/sdk-release-request/issues/5483)  |  |  | 09-12 | 09-26 |  |
 | 25 | CosmosDB RP API 2024-09-01-preview Version  |  | [#5473](https://github.com/Azure/sdk-release-request/issues/5473)  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 |  |
