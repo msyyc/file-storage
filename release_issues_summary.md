@@ -28,5 +28,3 @@
 | 26 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  |  | 08-22 | 09-26 |  |
 | 27 | Azure VMware Solution 2023-09-01  |  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
 | 28 | Release for DesktopVirtualization - 2024-04-03  |  |  |  | [#5452](https://github.com/Azure/sdk-release-request/issues/5452)  | 08-30 | 09-27 |  |
-| 29 | Release for ElasticSan - 2024-05-01  |  |  |  | [#5402](https://github.com/Azure/sdk-release-request/issues/5402)  | 08-07 | 09-27 |  |
-| 30 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  |  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
