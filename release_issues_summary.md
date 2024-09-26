@@ -27,7 +27,7 @@
 | 25 | CosmosDB RP API 2024-09-01-preview Version  |  | [#5473](https://github.com/Azure/sdk-release-request/issues/5473)  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 |  |
 | 26 | Release for Standby Pools 2024-03-01  |  | [#5441](https://github.com/Azure/sdk-release-request/issues/5441)  |  | [#5443](https://github.com/Azure/sdk-release-request/issues/5443)  | 08-22 | 09-27 | Hold on by JS/ |
 | 27 | Release for Container Service - 2024-06-02-preview  |  | [#5435](https://github.com/Azure/sdk-release-request/issues/5435)  |  |  | 08-22 | 09-26 |  |
-| 28 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  | [#5377](https://github.com/Azure/sdk-release-request/issues/5377)  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
-| 29 | Azure VMware Solution 2023-09-01  |  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
-| 30 | Release for DesktopVirtualization - 2024-04-03  |  |  |  | [#5452](https://github.com/Azure/sdk-release-request/issues/5452)  | 08-30 | 09-27 |  |
-| 31 | Release for ElasticSan - 2024-05-01  |  |  |  | [#5402](https://github.com/Azure/sdk-release-request/issues/5402)  | 08-07 | 09-27 |  |
+| 28 | Azure VMware Solution 2023-09-01  |  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
+| 29 | Release for DesktopVirtualization - 2024-04-03  |  |  |  | [#5452](https://github.com/Azure/sdk-release-request/issues/5452)  | 08-30 | 09-27 |  |
+| 30 | Release for ElasticSan - 2024-05-01  |  |  |  | [#5402](https://github.com/Azure/sdk-release-request/issues/5402)  | 08-07 | 09-27 |  |
+| 31 | FailoverGroup and ReplicationLink 2023-05-01-preview SDK Release  |  |  |  | [#5379](https://github.com/Azure/sdk-release-request/issues/5379)  | 07-26 | 09-26 |  |
