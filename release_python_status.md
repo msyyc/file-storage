@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5535](https://github.com/Azure/sdk-release-request/issues/5535) | shahjoy_microsoftgithub.com | azure-mgmt-resource | ChenxiJiang333 | MultiAPI | 09-25 | 10-25 |  |
+| 1 | [#5535](https://github.com/Azure/sdk-release-request/issues/5535) | shahjoy_microsoftgithub.com | azure-mgmt-resource | ChenxiJiang333 | new comment. MultiAPI | 09-25 | 10-25 |  |
 | 2 | [#5531](https://github.com/Azure/sdk-release-request/issues/5531) | xiaoxuqi-msgithub.com | azure-mgmt-mysqlflexibleservers | ChenxiJiang333 | close to release date. | 09-25 | 09-27 | 0 |
 | 3 | [#5529](https://github.com/Azure/sdk-release-request/issues/5529) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 |  | 09-25 | 10-25 |  |
 | 4 | [#5523](https://github.com/Azure/sdk-release-request/issues/5523) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 09-24 | 10-24 |  |
