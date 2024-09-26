@@ -1,5 +1,5 @@
 {
-  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure", "azure-mgmt-mongocluster", "azure-mgmt-computefleet", "azure-mgmt-containerorchestratorruntime", "azure-mgmt-standbypool", "azure-mgmt-fabric", "azure-mgmt-healthdataaiservices", "azure-mgmt-iotoperations"],
+  "python": ["azure-mgmt-edgezones", "azure-mgmt-devopsinfrastructure", "azure-mgmt-mongocluster", "azure-mgmt-computefleet", "azure-mgmt-containerorchestratorruntime", "azure-mgmt-standbypool", "azure-mgmt-fabric", "azure-mgmt-healthdataaiservices", "azure-mgmt-iotoperations", "azure-mgmt-trustedsigning"],
   "js": [],
   "go": [],
   "java": [] 
