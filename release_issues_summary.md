@@ -22,7 +22,6 @@
 | 20 | Release for MongoCluster 2024-06-01-preview  |  | [#5486](https://github.com/Azure/sdk-release-request/issues/5486)  |  |  | 09-12 | 09-27 |  |
 | 21 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  | [#5485](https://github.com/Azure/sdk-release-request/issues/5485)  | 09-12 | 09-26 |  |
 | 22 | CosmosDB RP API 2024-09-01-preview Version  |  | [#5473](https://github.com/Azure/sdk-release-request/issues/5473)  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 |  |
-| 23 | Release for Standby Pools 2024-03-01  |  | [#5441](https://github.com/Azure/sdk-release-request/issues/5441)  |  |  | 08-22 | 09-27 |  |
-| 24 | Azure VMware Solution 2023-09-01  |  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
-| 25 | Release for DesktopVirtualization - 2024-04-03  |  |  |  | [#5452](https://github.com/Azure/sdk-release-request/issues/5452)  | 08-30 | 09-27 |  |
-| 26 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 |  |
+| 23 | Azure VMware Solution 2023-09-01  |  | [#5188](https://github.com/Azure/sdk-release-request/issues/5188)  |  | [#5190](https://github.com/Azure/sdk-release-request/issues/5190)  | 05-08 | 09-26 |  |
+| 24 | Release for DesktopVirtualization - 2024-04-03  |  |  |  | [#5452](https://github.com/Azure/sdk-release-request/issues/5452)  | 08-30 | 09-27 |  |
+| 25 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 |  |
