@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5542](https://github.com/Azure/sdk-release-request/issues/5542) | ashutak84 |  | XiaofeiCao | new issue. close to release date. | 09-27 | 09-29 | 1 |
+| 1 | [#5542](https://github.com/Azure/sdk-release-request/issues/5542) | ashutak84 |  | weidongxu-microsoft | new issue. new comment. close to release date. FirstBeta. | 09-27 | 09-29 | 1 |
 | 2 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new issue. new comment. | 09-27 | 10-24 |  |
 | 3 | [#5533](https://github.com/Azure/sdk-release-request/issues/5533) | shahjoy_microsoftgithub.com |  | weidongxu-microsoft | Attention to inconsistent tag. | 09-25 | 10-25 |  |
 | 4 | [#5527](https://github.com/Azure/sdk-release-request/issues/5527) | djr-jsr |  | haolingdong-msft | new issue. | 09-25 | 10-25 |  |
