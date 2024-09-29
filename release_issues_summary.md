@@ -17,7 +17,6 @@
 | 15 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 16 | Release to Trusted Signing 2024-02-05-preview  |  | [#5541](https://github.com/Azure/sdk-release-request/issues/5541)  |  | [#5543](https://github.com/Azure/sdk-release-request/issues/5543)  | 09-27 | 09-29 |  |
 | 17 | Release for Computeschedule - 2024-08-15  |  | [#5495](https://github.com/Azure/sdk-release-request/issues/5495)  |  |  | 09-13 | 09-27 | Hold on by Go/ |
-| 18 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  |  | 09-12 | 09-26 |  |
-| 19 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
-| 20 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 | Hold on by JS/ |
-| 21 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 | Hold on by JS/ |
+| 18 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
+| 19 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 | Hold on by JS/ |
+| 20 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 | Hold on by JS/ |

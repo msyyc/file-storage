@@ -12,4 +12,3 @@
 | 10 | [#5500](https://github.com/Azure/sdk-release-request/issues/5500) | priyankarking |  | Mitse1n | new comment. close to release date. HoldOn. | 09-13 | 09-27 | -2 |
 | 11 | [#5495](https://github.com/Azure/sdk-release-request/issues/5495) | NneOkeke |  | Mitse1n | new comment. close to release date. FirstBeta. HoldOn. | 09-13 | 09-27 | -2 |
 | 12 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | new comment. | 09-13 | 10-24 |  |
-| 13 | [#5484](https://github.com/Azure/sdk-release-request/issues/5484) | fumingzhang |  | Mitse1n | Attention to inconsistent tag. | 09-12 | 09-26 |  |
