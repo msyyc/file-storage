@@ -13,10 +13,10 @@
 | 11 | Release for Container Orchestrator Runtime - 2024-03-01  | [#5494](https://github.com/Azure/sdk-release-request/issues/5494)  | [#5491](https://github.com/Azure/sdk-release-request/issues/5491)  | [#5492](https://github.com/Azure/sdk-release-request/issues/5492)  | [#5493](https://github.com/Azure/sdk-release-request/issues/5493)  | 09-13 | 10-24 |  |
 | 12 | 'Release for azure-mgmt-rdbms' (only for Python)  | [#5405](https://github.com/Azure/sdk-release-request/issues/5405)  |  |  |  | 08-07 | fail to get. |  |
 | 13 | ServiceNetworking-2024-05-01-preview  | [#5350](https://github.com/Azure/sdk-release-request/issues/5350)  |  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 09-26 | Hold on by JS/Java/Python/ |
-| 14 | Release for Fabric 2023-11-01  |  |  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  | [#5418](https://github.com/Azure/sdk-release-request/issues/5418)  | 08-12 | 09-26 |  |
+| 14 | Release for Fabric 2023-11-01  |  |  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  |  | 08-12 | 09-26 |  |
 | 15 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
 | 16 | Release for Computeschedule - 2024-08-15  |  | [#5495](https://github.com/Azure/sdk-release-request/issues/5495)  |  |  | 09-13 | 09-27 |  |
-| 17 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  | [#5485](https://github.com/Azure/sdk-release-request/issues/5485)  | 09-12 | 09-26 |  |
+| 17 | Release for Container Service - 2024-07-02-preview  |  | [#5484](https://github.com/Azure/sdk-release-request/issues/5484)  |  |  | 09-12 | 09-26 |  |
 | 18 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 |  |
 | 19 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 |  |
 | 20 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 |  |
