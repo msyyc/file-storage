@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5550](https://github.com/Azure/sdk-release-request/issues/5550) | brycechen1849 | azure-mgmt-servicelinker | ChenxiJiang333 | new issue. | 09-29 | 10-24 |  |
+| 1 | [#5550](https://github.com/Azure/sdk-release-request/issues/5550) | brycechen1849 | azure-mgmt-servicelinker | ChenxiJiang333 |  | 09-29 | 10-11 |  |
 | 2 | [#5545](https://github.com/Azure/sdk-release-request/issues/5545) | albertofori | azure-mgmt-appconfiguration | ChenxiJiang333 | new issue. MultiAPI | 09-28 | 10-25 |  |
 | 3 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | HoldOn. | 09-27 | 10-24 |  |
 | 4 | [#5535](https://github.com/Azure/sdk-release-request/issues/5535) | shahjoy_microsoftgithub.com | azure-mgmt-resource | ChenxiJiang333 | new comment. MultiAPI | 09-25 | 10-25 |  |

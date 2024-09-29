@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5549](https://github.com/Azure/sdk-release-request/issues/5549) | brycechen1849 |  | qiaozha | new issue. | 09-29 | 10-24 |  |
-| 2 | [#5543](https://github.com/Azure/sdk-release-request/issues/5543) | ashutak84 |  | qiaozha | new issue. new comment. close to release date. FirstBeta. | 09-27 | 09-29 | 0 |
+| 1 | [#5549](https://github.com/Azure/sdk-release-request/issues/5549) | brycechen1849 |  | qiaozha | new issue. | 09-29 | 10-11 |  |
+| 2 | [#5543](https://github.com/Azure/sdk-release-request/issues/5543) | ashutak84 |  | qiaozha | close to release date. FirstBeta. | 09-27 | 09-29 | 0 |
 | 3 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | qiaozha | new issue. new comment. | 09-27 | 10-24 |  |
 | 4 | [#5534](https://github.com/Azure/sdk-release-request/issues/5534) | shahjoy_microsoftgithub.com |  | qiaozha | Attention to inconsistent tag. | 09-25 | 10-25 |  |
 | 5 | [#5528](https://github.com/Azure/sdk-release-request/issues/5528) | djr-jsr |  | qiaozha | new issue. | 09-25 | 10-25 |  |
