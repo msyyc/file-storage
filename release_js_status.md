@@ -14,4 +14,3 @@
 | 12 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha | HoldOn. | 09-09 | 09-27 |  |
 | 13 | [#5471](https://github.com/Azure/sdk-release-request/issues/5471) | carjackson-msft |  | qiaozha | Attention to inconsistent tag. HoldOn. | 09-09 | 09-27 |  |
 | 14 | [#5448](https://github.com/Azure/sdk-release-request/issues/5448) | zackliu |  | qiaozha | multi readme link! HoldOn. | 08-26 | 09-26 |  |
-| 15 | [#5346](https://github.com/Azure/sdk-release-request/issues/5346) | malpaniHMC |  | qiaozha | new comment. Attention to inconsistent tag. | 07-18 | 09-26 |  |
