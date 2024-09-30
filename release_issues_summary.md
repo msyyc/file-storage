@@ -12,11 +12,10 @@
 | 10 | Release for MicrosoftCache.RedisEnterprise - 2024-09-01  | [#5503](https://github.com/Azure/sdk-release-request/issues/5503)  | [#5500](https://github.com/Azure/sdk-release-request/issues/5500)  | [#5501](https://github.com/Azure/sdk-release-request/issues/5501)  | [#5502](https://github.com/Azure/sdk-release-request/issues/5502)  | 09-13 | 09-27 | Hold on by JS/Java/Go/Python/ |
 | 11 | Release for Container Orchestrator Runtime - 2024-03-01  | [#5494](https://github.com/Azure/sdk-release-request/issues/5494)  | [#5491](https://github.com/Azure/sdk-release-request/issues/5491)  | [#5492](https://github.com/Azure/sdk-release-request/issues/5492)  | [#5493](https://github.com/Azure/sdk-release-request/issues/5493)  | 09-13 | 10-24 |  |
 | 12 | 'Release for azure-mgmt-rdbms' (only for Python)  | [#5405](https://github.com/Azure/sdk-release-request/issues/5405)  |  |  |  | 08-07 | fail to get. |  |
-| 13 | ServiceNetworking-2024-05-01-preview  | [#5350](https://github.com/Azure/sdk-release-request/issues/5350)  |  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 09-26 |  |
-| 14 | Release for Fabric 2023-11-01  |  |  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  |  | 08-12 | 09-26 |  |
+| 13 | Release for Fabric 2023-11-01  |  |  | [#5417](https://github.com/Azure/sdk-release-request/issues/5417)  |  | 08-12 | 09-26 |  |
+| 14 | ServiceNetworking-2024-05-01-preview  |  |  | [#5342](https://github.com/Azure/sdk-release-request/issues/5342)  | [#5346](https://github.com/Azure/sdk-release-request/issues/5346)  | 07-18 | 09-26 |  |
 | 15 | 'Release for Microsoft EdgeZones 2024-04-01-preview'  |  |  | [#5071](https://github.com/Azure/sdk-release-request/issues/5071)  |  | 03-22 | 05-24 | Hold on by Java/ |
-| 16 | Release to Trusted Signing 2024-02-05-preview  |  | [#5541](https://github.com/Azure/sdk-release-request/issues/5541)  |  | [#5543](https://github.com/Azure/sdk-release-request/issues/5543)  | 09-27 | 09-29 |  |
-| 17 | Release for Computeschedule - 2024-08-15  |  | [#5495](https://github.com/Azure/sdk-release-request/issues/5495)  |  |  | 09-13 | 09-27 | Hold on by Go/ |
-| 18 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
-| 19 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 | Hold on by JS/ |
-| 20 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 | Hold on by JS/ |
+| 16 | Release to Trusted Signing 2024-02-05-preview  |  |  |  | [#5543](https://github.com/Azure/sdk-release-request/issues/5543)  | 09-27 | 09-29 |  |
+| 17 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
+| 18 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 | Hold on by JS/ |
+| 19 | Release for Web PubSub - 2024-03-01  |  |  |  | [#5448](https://github.com/Azure/sdk-release-request/issues/5448)  | 08-26 | 09-26 | Hold on by JS/ |
