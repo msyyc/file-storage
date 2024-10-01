@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5547](https://github.com/Azure/sdk-release-request/issues/5547) | brycechen1849 |  | Mitse1n | new issue. | 09-29 | 10-11 |  |
 | 2 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | Mitse1n | new issue. new comment. | 09-27 | 10-24 |  |
-| 3 | [#5532](https://github.com/Azure/sdk-release-request/issues/5532) | shahjoy_microsoftgithub.com |  | Mitse1n | new comment. Attention to inconsistent tag. | 09-25 | 10-25 |  |
+| 3 | [#5532](https://github.com/Azure/sdk-release-request/issues/5532) | shahjoy_microsoftgithub.com |  | Mitse1n | new comment. | 09-25 | 10-25 |  |
 | 4 | [#5526](https://github.com/Azure/sdk-release-request/issues/5526) | djr-jsr |  | Mitse1n | new issue. | 09-25 | 10-25 |  |
 | 5 | [#5524](https://github.com/Azure/sdk-release-request/issues/5524) | fumingzhang |  | Mitse1n | new issue. | 09-24 | 10-24 |  |
 | 6 | [#5517](https://github.com/Azure/sdk-release-request/issues/5517) | zman-ms |  | Mitse1n | new issue. | 09-24 | 10-25 |  |
