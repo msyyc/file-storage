@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5561](https://github.com/Azure/sdk-release-request/issues/5561) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 10-02 | 10-25 |  |
-| 2 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 | new issue. | 10-02 | 10-24 |  |
+| 2 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 10-24 |  |
 | 3 | [#5555](https://github.com/Azure/sdk-release-request/issues/5555) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
 | 4 | [#5550](https://github.com/Azure/sdk-release-request/issues/5550) | brycechen1849 | azure-mgmt-servicelinker | ChenxiJiang333 |  | 09-29 | 10-11 |  |
 | 5 | [#5545](https://github.com/Azure/sdk-release-request/issues/5545) | albertofori | azure-mgmt-appconfiguration | ChenxiJiang333 | new issue. MultiAPI | 09-28 | 10-25 |  |
