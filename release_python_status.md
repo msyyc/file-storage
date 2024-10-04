@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5567](https://github.com/Azure/sdk-release-request/issues/5567) | jrathore-msft | azure-mgmt-containerinstance | ChenxiJiang333 | new issue. | 10-04 | 10-25 |  |
+| 1 | [#5567](https://github.com/Azure/sdk-release-request/issues/5567) | jrathore-msft | azure-mgmt-containerinstance | ChenxiJiang333 |  | 10-04 | 10-25 |  |
 | 2 | [#5563](https://github.com/Azure/sdk-release-request/issues/5563) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 10-03 | 10-11 |  |
 | 3 | [#5561](https://github.com/Azure/sdk-release-request/issues/5561) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 10-02 | 10-25 |  |
 | 4 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 10-24 |  |
