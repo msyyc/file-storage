@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5569](https://github.com/Azure/sdk-release-request/issues/5569) | jrathore-msft |  | Mitse1n | Attention to inconsistent tag. | 10-04 | 10-25 |  |
-| 2 | [#5564](https://github.com/Azure/sdk-release-request/issues/5564) | jrathore-msft |  | Mitse1n | new issue. | 10-04 | 10-25 |  |
+| 2 | [#5564](https://github.com/Azure/sdk-release-request/issues/5564) | jrathore-msft |  | Mitse1n |  | 10-04 | 10-25 |  |
 | 3 | [#5558](https://github.com/Azure/sdk-release-request/issues/5558) | djr-jsr |  | Mitse1n |  | 10-02 | 10-25 |  |
 | 4 | [#5552](https://github.com/Azure/sdk-release-request/issues/5552) | mwesigwaguma |  | Mitse1n | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
 | 5 | [#5547](https://github.com/Azure/sdk-release-request/issues/5547) | brycechen1849 |  | Mitse1n |  | 09-29 | 10-11 |  |
