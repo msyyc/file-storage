@@ -6,7 +6,7 @@
 | 4 | [#5553](https://github.com/Azure/sdk-release-request/issues/5553) | mwesigwaguma |  | v-hongli1 | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
 | 5 | [#5548](https://github.com/Azure/sdk-release-request/issues/5548) | brycechen1849 |  | weidongxu-microsoft |  | 09-29 | 10-11 |  |
 | 6 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new issue. new comment. | 09-27 | 10-24 |  |
-| 7 | [#5533](https://github.com/Azure/sdk-release-request/issues/5533) | shahjoy_microsoftgithub.com |  | weidongxu-microsoft | Attention to inconsistent tag. | 09-25 | 10-25 |  |
+| 7 | [#5533](https://github.com/Azure/sdk-release-request/issues/5533) | shahjoy_microsoftgithub.com |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. | 09-25 | 10-25 |  |
 | 8 | [#5527](https://github.com/Azure/sdk-release-request/issues/5527) | djr-jsr |  | haolingdong-msft | new issue. | 09-25 | 10-25 |  |
 | 9 | [#5521](https://github.com/Azure/sdk-release-request/issues/5521) | fumingzhang |  | haolingdong-msft | new issue. | 09-24 | 10-24 |  |
 | 10 | [#5518](https://github.com/Azure/sdk-release-request/issues/5518) | zman-ms |  | weidongxu-microsoft | new issue. | 09-24 | 10-25 |  |
