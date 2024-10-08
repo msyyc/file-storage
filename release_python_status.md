@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales |  | ChenxiJiang333 |  | 10-07 |  | 0 |
+| 1 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 10-07 | 10-25 |  |
 | 2 | [#5567](https://github.com/Azure/sdk-release-request/issues/5567) | jrathore-msft | azure-mgmt-containerinstance | ChenxiJiang333 |  | 10-04 | 10-25 |  |
 | 3 | [#5563](https://github.com/Azure/sdk-release-request/issues/5563) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | close to release date. | 10-03 | 10-11 | 2 |
 | 4 | [#5561](https://github.com/Azure/sdk-release-request/issues/5561) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 | duplicated issue  <br> | 10-02 | 10-25 |  |
@@ -13,7 +13,7 @@
 | 11 | [#5529](https://github.com/Azure/sdk-release-request/issues/5529) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 | duplicated issue  <br> | 09-25 | 10-25 |  |
 | 12 | [#5523](https://github.com/Azure/sdk-release-request/issues/5523) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | OnTime. | 09-24 | 10-24 |  |
 | 13 | [#5520](https://github.com/Azure/sdk-release-request/issues/5520) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-24 | 10-25 |  |
-| 14 | [#5515](https://github.com/Azure/sdk-release-request/issues/5515) | mmorrison57 | azure-mgmt-iotoperations | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-18 | 10-25 |  |
+| 14 | [#5515](https://github.com/Azure/sdk-release-request/issues/5515) | mmorrison57 | azure-mgmt-iotoperations | ChenxiJiang333 | duplicated issue  <br> FirstBeta. TypeSpec. | 09-18 | 10-25 |  |
 | 15 | [#5509](https://github.com/Azure/sdk-release-request/issues/5509) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 |  | 09-16 | 10-24 |  |
 | 16 | [#5503](https://github.com/Azure/sdk-release-request/issues/5503) | priyankarking | azure-mgmt-redisenterprise | ChenxiJiang333 | new comment. HoldOn. | 09-13 | 09-27 |  |
 | 17 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
