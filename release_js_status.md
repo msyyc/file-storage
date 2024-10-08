@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5576](https://github.com/Azure/sdk-release-request/issues/5576) | hmmorales |  | qiaozha | new issue. | 10-07 | 10-25 |  |
-| 2 | [#5571](https://github.com/Azure/sdk-release-request/issues/5571) | jrathore-msft |  | MaryGao | Attention to inconsistent tag. | 10-04 | 10-25 |  |
+| 2 | [#5571](https://github.com/Azure/sdk-release-request/issues/5571) | jrathore-msft |  | MaryGao | new comment. Attention to inconsistent tag. | 10-04 | 10-25 |  |
 | 3 | [#5566](https://github.com/Azure/sdk-release-request/issues/5566) | jrathore-msft |  | MaryGao | new issue. | 10-04 | 10-25 |  |
 | 4 | [#5560](https://github.com/Azure/sdk-release-request/issues/5560) | djr-jsr |  | MaryGao | new issue. | 10-02 | 10-25 |  |
 | 5 | [#5554](https://github.com/Azure/sdk-release-request/issues/5554) | mwesigwaguma |  | MaryGao | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
@@ -16,5 +16,5 @@
 | 14 | [#5502](https://github.com/Azure/sdk-release-request/issues/5502) | priyankarking |  | qiaozha | new comment. HoldOn. | 09-13 | 09-27 |  |
 | 15 | [#5493](https://github.com/Azure/sdk-release-request/issues/5493) | HE-Xinyu |  | qiaozha | new comment. | 09-13 | 10-24 |  |
 | 16 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha | HoldOn. | 09-09 | 09-27 |  |
-| 17 | [#5471](https://github.com/Azure/sdk-release-request/issues/5471) | carjackson-msft |  | qiaozha | Attention to inconsistent tag. HoldOn. | 09-09 | 09-27 |  |
+| 17 | [#5471](https://github.com/Azure/sdk-release-request/issues/5471) | carjackson-msft |  | qiaozha | new comment. Attention to inconsistent tag. HoldOn. | 09-09 | 09-27 |  |
 | 18 | [#5448](https://github.com/Azure/sdk-release-request/issues/5448) | zackliu |  | qiaozha | multi readme link! HoldOn. | 08-26 | 09-26 |  |
