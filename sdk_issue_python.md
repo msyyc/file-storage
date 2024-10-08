@@ -1,9 +1,9 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#37740](https://github.com/Azure/azure-sdk-for-python/issues/37740)|Resource Graph list call returns inconsistent casing for the Resource Group in the 'id' field|question, Mgmt, customer-reported|msyyc|new comment|2024-10-07|
-|2|[#37736](https://github.com/Azure/azure-sdk-for-python/issues/37736)|Getting default subscription|question, Mgmt, customer-reported|msyyc|new comment|2024-10-06|
-|3|[#37664](https://github.com/Azure/azure-sdk-for-python/issues/37664)|Backup Client Restores .result() is always Null, not able to retrieve JobID|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-10-01|
-|4|[#37646](https://github.com/Azure/azure-sdk-for-python/issues/37646)|Deserialize data error|question, Mgmt, customer-reported|msyyc|new comment|2024-09-30|
+|1|[#37740](https://github.com/Azure/azure-sdk-for-python/issues/37740)|Resource Graph list call returns inconsistent casing for the Resource Group in the 'id' field|question, Mgmt, customer-reported|msyyc||2024-10-07|
+|2|[#37736](https://github.com/Azure/azure-sdk-for-python/issues/37736)|Getting default subscription|question, Mgmt, customer-reported|msyyc||2024-10-06|
+|3|[#37664](https://github.com/Azure/azure-sdk-for-python/issues/37664)|Backup Client Restores .result() is always Null, not able to retrieve JobID|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2024-10-01|
+|4|[#37646](https://github.com/Azure/azure-sdk-for-python/issues/37646)|Deserialize data error|question, Mgmt, customer-reported|msyyc||2024-09-30|
 |5|[#37545](https://github.com/Azure/azure-sdk-for-python/issues/37545)|Making aio requests results on a "Event loop is closed" exception|question, Compute, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-09-24|
 |6|[#37406](https://github.com/Azure/azure-sdk-for-python/issues/37406)|[Storage] StorageManagementClient.storage_task_assignments.begin_create(...) fail with date-time format not aligned with server request.|Storage, Service Attention, Mgmt, needs-team-attention|msyyc|new comment|2024-09-14|
 |7|[#36761](https://github.com/Azure/azure-sdk-for-python/issues/36761)|Microsoft.Web/connections|question, Logic App, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-08-05|
