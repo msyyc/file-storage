@@ -5,7 +5,7 @@
 | 3 | [#5563](https://github.com/Azure/sdk-release-request/issues/5563) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | close to release date. | 10-03 | 10-11 | 2 |
 | 4 | [#5561](https://github.com/Azure/sdk-release-request/issues/5561) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 10-02 | 10-25 |  |
 | 5 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 10-24 |  |
-| 6 | [#5555](https://github.com/Azure/sdk-release-request/issues/5555) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new comment. | 10-01 | 10-25 |  |
+| 6 | [#5555](https://github.com/Azure/sdk-release-request/issues/5555) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 10-01 | 10-25 |  |
 | 7 | [#5550](https://github.com/Azure/sdk-release-request/issues/5550) | brycechen1849 | azure-mgmt-servicelinker | ChenxiJiang333 | close to release date. OnTime. | 09-29 | 10-11 | 2 |
 | 8 | [#5545](https://github.com/Azure/sdk-release-request/issues/5545) | albertofori | azure-mgmt-appconfiguration | ChenxiJiang333 | new issue. MultiAPI | 09-28 | 10-25 |  |
 | 9 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | HoldOn. | 09-27 | 10-24 |  |
