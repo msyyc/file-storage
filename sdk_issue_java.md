@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#42133](https://github.com/Azure/azure-sdk-for-java/issues/42133)|[BUG] azure-resourcemanager-network throws json exception beginning with 2.42.0|question, Mgmt, Azure.Core, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-09-30|
+|1|[#42133](https://github.com/Azure/azure-sdk-for-java/issues/42133)|[BUG] azure-resourcemanager-network throws json exception beginning with 2.42.0|question, Mgmt, Azure.Core, customer-reported, needs-team-attention|XiaofeiCao||2024-09-30|
 |2|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |3|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |4|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
