@@ -13,5 +13,6 @@
 | 11 | [#5517](https://github.com/Azure/sdk-release-request/issues/5517) | zman-ms |  | Mitse1n |  | 09-24 | 10-25 |  |
 | 12 | [#5512](https://github.com/Azure/sdk-release-request/issues/5512) | mmorrison57 |  | Mitse1n | new issue. | 09-18 | 10-25 |  |
 | 13 | [#5506](https://github.com/Azure/sdk-release-request/issues/5506) | jkore1911 |  | Mitse1n | FirstGA. | 09-16 | 10-24 |  |
-| 14 | [#5500](https://github.com/Azure/sdk-release-request/issues/5500) | priyankarking |  | Mitse1n | new comment. HoldOn. | 09-13 | 09-27 |  |
+| 14 | [#5500](https://github.com/Azure/sdk-release-request/issues/5500) | priyankarking |  | Mitse1n | new comment. HoldOn. | 09-13 | 10-25 |  |
 | 15 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | FirstGA. | 09-13 | 10-24 |  |
+| 16 | [#5416](https://github.com/Azure/sdk-release-request/issues/5416) | badeamarjieh |  | Mitse1n | new comment. FirstBeta. | 08-12 | 10-25 |  |

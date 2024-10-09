@@ -12,7 +12,8 @@
 | 10 | [#5519](https://github.com/Azure/sdk-release-request/issues/5519) | zman-ms |  | qiaozha | new issue. | 09-24 | 10-25 |  |
 | 11 | [#5514](https://github.com/Azure/sdk-release-request/issues/5514) | mmorrison57 |  | MaryGao | new issue. | 09-18 | 10-25 |  |
 | 12 | [#5508](https://github.com/Azure/sdk-release-request/issues/5508) | jkore1911 |  | MaryGao | new issue. | 09-16 | 10-24 |  |
-| 13 | [#5502](https://github.com/Azure/sdk-release-request/issues/5502) | priyankarking |  | qiaozha | HoldOn. | 09-13 | 09-27 |  |
+| 13 | [#5502](https://github.com/Azure/sdk-release-request/issues/5502) | priyankarking |  | qiaozha | new comment. HoldOn. | 09-13 | 10-25 |  |
 | 14 | [#5493](https://github.com/Azure/sdk-release-request/issues/5493) | HE-Xinyu |  | qiaozha | new comment. | 09-13 | 10-24 |  |
 | 15 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha | HoldOn. | 09-09 | 09-27 |  |
 | 16 | [#5471](https://github.com/Azure/sdk-release-request/issues/5471) | carjackson-msft |  | qiaozha | new comment. Attention to inconsistent tag. HoldOn. | 09-09 | 09-27 |  |
+| 17 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | new comment. FirstBeta. TypeSpec. | 08-12 | 10-25 |  |
