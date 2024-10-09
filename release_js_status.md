@@ -5,7 +5,7 @@
 | 3 | [#5566](https://github.com/Azure/sdk-release-request/issues/5566) | jrathore-msft |  | MaryGao | new issue. | 10-04 | 10-25 |  |
 | 4 | [#5560](https://github.com/Azure/sdk-release-request/issues/5560) | djr-jsr |  | MaryGao | new issue. | 10-02 | 10-25 |  |
 | 5 | [#5554](https://github.com/Azure/sdk-release-request/issues/5554) | mwesigwaguma |  | MaryGao | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
-| 6 | [#5549](https://github.com/Azure/sdk-release-request/issues/5549) | brycechen1849 |  | qiaozha | new issue. close to release date. | 09-29 | 10-11 | 2 |
+| 6 | [#5549](https://github.com/Azure/sdk-release-request/issues/5549) | brycechen1849 |  | qiaozha | new issue. close to release date. | 09-29 | 10-11 | 1 |
 | 7 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | qiaozha | new issue. new comment. | 09-27 | 10-24 |  |
 | 8 | [#5534](https://github.com/Azure/sdk-release-request/issues/5534) | shahjoy_microsoftgithub.com |  | qiaozha | new comment. Attention to inconsistent tag. | 09-25 | 10-25 |  |
 | 9 | [#5528](https://github.com/Azure/sdk-release-request/issues/5528) | djr-jsr |  | qiaozha | new issue. | 09-25 | 10-25 |  |
