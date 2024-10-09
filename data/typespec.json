@@ -9,7 +9,8 @@
     "azure-mgmt-fabric",
     "azure-mgmt-healthdataaiservices",
     "azure-mgmt-iotoperations",
-    "azure-mgmt-trustedsigning"
+    "azure-mgmt-trustedsigning",
+    "azure-mgmt-workloadssapvirtualinstance"
   ],
   "js": [],
   "go": [],
