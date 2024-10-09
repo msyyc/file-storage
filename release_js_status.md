@@ -9,7 +9,7 @@
 | 7 | [#5534](https://github.com/Azure/sdk-release-request/issues/5534) | shahjoy_microsoftgithub.com |  | qiaozha | new comment. Attention to inconsistent tag. | 09-25 | 10-25 |  |
 | 8 | [#5528](https://github.com/Azure/sdk-release-request/issues/5528) | djr-jsr |  | qiaozha | new issue. | 09-25 | 10-25 |  |
 | 9 | [#5522](https://github.com/Azure/sdk-release-request/issues/5522) | fumingzhang |  | qiaozha | new issue. | 09-24 | 10-24 |  |
-| 10 | [#5519](https://github.com/Azure/sdk-release-request/issues/5519) | zman-ms |  | qiaozha | new issue. | 09-24 | 10-25 |  |
+| 10 | [#5519](https://github.com/Azure/sdk-release-request/issues/5519) | zman-ms |  | qiaozha | new issue. TypeSpec. | 09-24 | 10-25 |  |
 | 11 | [#5514](https://github.com/Azure/sdk-release-request/issues/5514) | mmorrison57 |  | MaryGao | new issue. | 09-18 | 10-25 |  |
 | 12 | [#5508](https://github.com/Azure/sdk-release-request/issues/5508) | jkore1911 |  | MaryGao | new issue. | 09-16 | 10-24 |  |
 | 13 | [#5502](https://github.com/Azure/sdk-release-request/issues/5502) | priyankarking |  | qiaozha | new comment. HoldOn. | 09-13 | 10-25 |  |
