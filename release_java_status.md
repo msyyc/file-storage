@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5585](https://github.com/Azure/sdk-release-request/issues/5585) | jijohn14 |  | v-hongli1 | new issue. | 10-10 | 10-25 |  |
-| 2 | [#5580](https://github.com/Azure/sdk-release-request/issues/5580) | yaotongms |  | haolingdong-msft | Attention to inconsistent tag. | 10-09 | 10-14 |  |
+| 2 | [#5580](https://github.com/Azure/sdk-release-request/issues/5580) | yaotongms |  | haolingdong-msft | Attention to inconsistent tag. FirstGA. | 10-09 | 10-14 |  |
 | 3 | [#5575](https://github.com/Azure/sdk-release-request/issues/5575) | hmmorales |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 10-07 | 10-25 |  |
 | 4 | [#5553](https://github.com/Azure/sdk-release-request/issues/5553) | mwesigwaguma |  | v-hongli1 | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
 | 5 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new issue. new comment. | 09-27 | 10-24 |  |
