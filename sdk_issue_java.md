@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#42133](https://github.com/Azure/azure-sdk-for-java/issues/42133)|[BUG] azure-resourcemanager-network throws json exception beginning with 2.42.0|question, Mgmt, Azure.Core, customer-reported, needs-team-attention|XiaofeiCao||2024-09-30|
+|1|[#42242](https://github.com/Azure/azure-sdk-for-java/issues/42242)|[QUERY] Add data disk with write accelerator enabled|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-10-09|
 |2|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |3|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |4|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
@@ -67,4 +67,3 @@
 |65|[#32205](https://github.com/Azure/azure-sdk-for-java/issues/32205)|[FEATURE REQ] mgmt compute, support Confidential VM|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-11-17|
 |66|[#32128](https://github.com/Azure/azure-sdk-for-java/issues/32128)|[QUERY] Get Azure Virtual Hub Effective Routes via Java SDK|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Network - Virtual WAN|weidongxu-microsoft|new comment|2022-11-14|
 |67|[#31777](https://github.com/Azure/azure-sdk-for-java/issues/31777)|Option to override HttpLoggingPolicy.MAX_BODY_LOG_SIZE|ARM, Mgmt, customer-reported, feature-request|XiaofeiCao|new comment|2022-10-27|
-|68|[#31357](https://github.com/Azure/azure-sdk-for-java/issues/31357)|[QUERY] How to get Region/Location specific Network Security Group (Using Java SDK version 1.36).|question, Network, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2022-10-10|
