@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 | new issue. | 10-10 | 10-25 |  |
+| 1 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 |  | 10-10 | 10-25 |  |
 | 2 | [#5582](https://github.com/Azure/sdk-release-request/issues/5582) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | Attention to inconsistent tag. | 10-09 | 10-25 |  |
 | 3 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | duplicated issue  <br> new issue. new comment. TypeSpec. | 10-07 | 10-25 |  |
 | 4 | [#5567](https://github.com/Azure/sdk-release-request/issues/5567) | jrathore-msft | azure-mgmt-containerinstance | ChenxiJiang333 |  | 10-04 | 10-25 |  |
