@@ -6,7 +6,6 @@
 | 4 | [#5582](https://github.com/Azure/sdk-release-request/issues/5582) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | close to release date. OnTime. | 10-09 | 10-14 | 2 |
 | 5 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 10-07 | 10-25 |  |
 | 6 | [#5567](https://github.com/Azure/sdk-release-request/issues/5567) | jrathore-msft | azure-mgmt-containerinstance | ChenxiJiang333 |  | 10-04 | 10-25 |  |
-| 7 | [#5563](https://github.com/Azure/sdk-release-request/issues/5563) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | close to release date. OnTime. | 10-03 | 10-11 | 0 |
 | 8 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 10-24 |  |
 | 9 | [#5555](https://github.com/Azure/sdk-release-request/issues/5555) | mwesigwaguma | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 |  | 10-01 | 10-25 |  |
 | 10 | [#5545](https://github.com/Azure/sdk-release-request/issues/5545) | albertofori | azure-mgmt-appconfiguration | ChenxiJiang333 |  | 09-28 | 10-25 |  |
