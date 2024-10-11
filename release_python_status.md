@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 10-10 | 10-25 |  |
-| 2 | [#5592](https://github.com/Azure/sdk-release-request/issues/5592) | rahuls-microsoftgithub.com | azure-mgmt-computefleet | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 10-10 | 10-25 |  |
+| 1 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 10-10 | 10-25 |  |
+| 2 | [#5592](https://github.com/Azure/sdk-release-request/issues/5592) | rahuls-microsoftgithub.com | azure-mgmt-computefleet | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 10-10 | 10-25 |  |
 | 3 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 |  | 10-10 | 10-25 |  |
 | 4 | [#5582](https://github.com/Azure/sdk-release-request/issues/5582) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | close to release date. OnTime. | 10-09 | 10-14 | 2 |
 | 5 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 10-07 | 10-25 |  |
