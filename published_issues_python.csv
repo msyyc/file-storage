@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-rdbms,ChenxiJiang333,ChenxiJiang333,2024-08-07,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5405,10.2.0b18,
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2024-09-24,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5523,32.1.0,True
+azure-mgmt-servicelinker,azure-sdk,ChenxiJiang333,2024-09-29,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5550,1.2.0b3,
 azure-mgmt-fabric,azure-sdk,ChenxiJiang333,2024-08-12,2024-10-09,https://github.com/Azure/sdk-release-request/issues/5419,1.0.0b1,
 azure-mgmt-servicenetworking,azure-sdk,ChenxiJiang333,2024-07-18,2024-09-29,https://github.com/Azure/sdk-release-request/issues/5350,1.1.0b1,
 azure-mgmt-trustedsigning,azure-sdk,ChenxiJiang333,2024-09-27,2024-09-29,https://github.com/Azure/sdk-release-request/issues/5544,1.0.0b1,
