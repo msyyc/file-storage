@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5602](https://github.com/Azure/sdk-release-request/issues/5602) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 | new issue. | 10-11 | 10-24 |  |
+| 1 | [#5602](https://github.com/Azure/sdk-release-request/issues/5602) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 10-11 | 10-24 |  |
 | 2 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | TypeSpec. | 10-10 | 10-25 |  |
 | 3 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 |  | 10-10 | 10-25 |  |
 | 4 | [#5582](https://github.com/Azure/sdk-release-request/issues/5582) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | close to release date. OnTime. | 10-09 | 10-14 | 2 |
