@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-hybridcompute,azure-sdk,ChenxiJiang333,2024-10-09,2024-10-14,https://github.com/Azure/sdk-release-request/issues/5582,9.0.0,True
 azure-mgmt-postgresqlflexibleservers,nasc17,ChenxiJiang333,2024-10-03,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5563,1.0.0,True
 azure-mgmt-rdbms,ChenxiJiang333,ChenxiJiang333,2024-08-07,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5405,10.2.0b18,
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2024-09-24,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5523,32.1.0,True
