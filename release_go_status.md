@@ -11,7 +11,7 @@
 | 9 | [#5564](https://github.com/Azure/sdk-release-request/issues/5564) | jrathore-msft |  | Mitse1n |  | 10-04 | 10-25 |  |
 | 10 | [#5558](https://github.com/Azure/sdk-release-request/issues/5558) | djr-jsr |  | Mitse1n |  | 10-02 | 10-25 |  |
 | 11 | [#5552](https://github.com/Azure/sdk-release-request/issues/5552) | mwesigwaguma |  | Mitse1n | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
-| 12 | [#5547](https://github.com/Azure/sdk-release-request/issues/5547) | brycechen1849 |  | Mitse1n | close to release date. | 09-29 | 10-11 | -2 |
+| 12 | [#5547](https://github.com/Azure/sdk-release-request/issues/5547) | brycechen1849 |  | Mitse1n |  | 09-29 | 10-11 |  |
 | 13 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | Mitse1n | FirstGA. | 09-27 | 10-24 |  |
 | 14 | [#5532](https://github.com/Azure/sdk-release-request/issues/5532) | shahjoy_microsoftgithub.com |  | Mitse1n | new comment. | 09-25 | 10-25 |  |
 | 15 | [#5526](https://github.com/Azure/sdk-release-request/issues/5526) | djr-jsr |  | Mitse1n |  | 09-25 | 10-25 |  |
