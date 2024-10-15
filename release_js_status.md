@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5616](https://github.com/Azure/sdk-release-request/issues/5616) | FireDefend |  | MaryGao |  | 10-15 |  | 0 |
+| 1 | [#5616](https://github.com/Azure/sdk-release-request/issues/5616) | FireDefend |  | MaryGao | new issue. | 10-15 | 11-21 |  |
 | 2 | [#5611](https://github.com/Azure/sdk-release-request/issues/5611) | audunn |  | MaryGao | new issue. new comment. | 10-14 | 11-22 |  |
 | 3 | [#5606](https://github.com/Azure/sdk-release-request/issues/5606) | jamesvoongms |  | qiaozha | new issue. | 10-11 | 10-25 |  |
 | 4 | [#5601](https://github.com/Azure/sdk-release-request/issues/5601) | yifanz7 |  | qiaozha | new issue. | 10-11 | 10-24 |  |
