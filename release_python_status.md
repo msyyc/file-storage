@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5612](https://github.com/Azure/sdk-release-request/issues/5612) | audunn | azure-mgmt-netapp | ChenxiJiang333 | new issue. new comment. | 10-14 | 11-22 |  |
+| 1 | [#5612](https://github.com/Azure/sdk-release-request/issues/5612) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 10-14 | 11-22 |  |
 | 2 | [#5607](https://github.com/Azure/sdk-release-request/issues/5607) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 10-11 | 10-25 |  |
 | 3 | [#5602](https://github.com/Azure/sdk-release-request/issues/5602) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 10-11 | 10-24 |  |
 | 4 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | TypeSpec. | 10-10 | 10-25 |  |
