@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5615](https://github.com/Azure/sdk-release-request/issues/5615) | FireDefend |  | v-hongli1 | new issue. | 10-15 | 11-21 |  |
+| 1 | [#5615](https://github.com/Azure/sdk-release-request/issues/5615) | FireDefend |  | v-hongli1 | new issue. new comment. FirstBeta. | 10-15 | 10-25 |  |
 | 2 | [#5610](https://github.com/Azure/sdk-release-request/issues/5610) | audunn |  | weidongxu-microsoft | new issue. new comment. | 10-14 | 11-22 |  |
 | 3 | [#5605](https://github.com/Azure/sdk-release-request/issues/5605) | jamesvoongms |  | haolingdong-msft | new issue. | 10-11 | 10-25 |  |
 | 4 | [#5600](https://github.com/Azure/sdk-release-request/issues/5600) | yifanz7 |  | XiaofeiCao | new issue. | 10-11 | 10-24 |  |
