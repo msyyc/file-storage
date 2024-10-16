@@ -16,6 +16,5 @@
 | 14 | [#5529](https://github.com/Azure/sdk-release-request/issues/5529) | djr-jsr | azure-mgmt-dns | ChenxiJiang333 |  | 09-25 | 10-25 |  |
 | 15 | [#5520](https://github.com/Azure/sdk-release-request/issues/5520) | zman-ms | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 09-24 | 10-25 |  |
 | 16 | [#5509](https://github.com/Azure/sdk-release-request/issues/5509) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 |  | 09-16 | 10-24 |  |
-| 17 | [#5503](https://github.com/Azure/sdk-release-request/issues/5503) | priyankarking | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 09-13 | 10-25 |  |
 | 18 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
 | 19 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstGA. TypeSpec. | 08-12 | 10-25 |  |
