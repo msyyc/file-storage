@@ -16,4 +16,3 @@
 | 14 | [#5507](https://github.com/Azure/sdk-release-request/issues/5507) | jkore1911 |  | v-hongli1 | FirstGA. | 09-16 | 10-24 |  |
 | 15 | [#5501](https://github.com/Azure/sdk-release-request/issues/5501) | priyankarking |  | haolingdong-msft | new comment. | 09-13 | 10-25 |  |
 | 16 | [#5492](https://github.com/Azure/sdk-release-request/issues/5492) | HE-Xinyu |  | v-hongli1 | FirstBeta. TypeSpec. | 09-13 | 10-24 |  |
-| 17 | [#5417](https://github.com/Azure/sdk-release-request/issues/5417) | badeamarjieh |  | weidongxu-microsoft | new comment. FirstGA. FirstBeta. TypeSpec. | 08-12 | 10-25 |  |
