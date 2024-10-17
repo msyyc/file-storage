@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5622](https://github.com/Azure/sdk-release-request/issues/5622) | elizatargithub7 | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | new issue. TypeSpec. | 10-16 | 11-22 |  |
+| 1 | [#5622](https://github.com/Azure/sdk-release-request/issues/5622) | elizatargithub7 | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | TypeSpec. | 10-16 | 11-22 |  |
 | 2 | [#5617](https://github.com/Azure/sdk-release-request/issues/5617) | FireDefend |  | ChenxiJiang333 |  | 10-15 |  | 0 |
 | 3 | [#5612](https://github.com/Azure/sdk-release-request/issues/5612) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 10-14 | 10-25 |  |
 | 4 | [#5607](https://github.com/Azure/sdk-release-request/issues/5607) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 | HoldOn. | 10-11 | 10-25 |  |
