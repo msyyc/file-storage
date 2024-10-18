@@ -14,7 +14,7 @@
 |12|[#40619](https://github.com/Azure/azure-sdk-for-java/issues/40619)|Azure Json / Azure Xml - Stream style migration (management libraries)|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-06-13|
 |13|[#40553](https://github.com/Azure/azure-sdk-for-java/issues/40553)|Azure Resource Manager Creation is stuck in kubernetes cluster environment|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-06-07|
 |14|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|15|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|sandeep-sen, weidongxu-microsoft||2024-05-17|
+|15|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs|weidongxu-microsoft, sandeep-sen||2024-05-17|
 |16|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
 |17|[#39947](https://github.com/Azure/azure-sdk-for-java/issues/39947)|[FEATURE REQ] mgmt appplatform, support artifact blob upload|Mgmt|XiaofeiCao||2024-04-28|
 |18|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
