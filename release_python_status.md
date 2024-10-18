@@ -5,7 +5,7 @@
 | 3 | [#5612](https://github.com/Azure/sdk-release-request/issues/5612) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 10-14 | 10-25 |  |
 | 4 | [#5607](https://github.com/Azure/sdk-release-request/issues/5607) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 | HoldOn. | 10-11 | 10-25 |  |
 | 5 | [#5602](https://github.com/Azure/sdk-release-request/issues/5602) | yifanz7 | azure-mgmt-elasticsan | ChenxiJiang333 |  | 10-11 | 10-24 |  |
-| 6 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | TypeSpec. | 10-10 | 10-25 |  |
+| 6 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | new comment. TypeSpec. | 10-10 | 10-25 |  |
 | 7 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 | HoldOn. | 10-10 | 10-25 |  |
 | 8 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-07 | 10-25 |  |
 | 9 | [#5567](https://github.com/Azure/sdk-release-request/issues/5567) | jrathore-msft | azure-mgmt-containerinstance | ChenxiJiang333 | HoldOn. | 10-04 | 10-25 |  |

@@ -5,7 +5,7 @@
 | 3 | [#5610](https://github.com/Azure/sdk-release-request/issues/5610) | audunn |  | weidongxu-microsoft | new issue. new comment. | 10-14 | 11-22 |  |
 | 4 | [#5605](https://github.com/Azure/sdk-release-request/issues/5605) | jamesvoongms |  | haolingdong-msft | new issue. | 10-11 | 10-25 |  |
 | 5 | [#5600](https://github.com/Azure/sdk-release-request/issues/5600) | yifanz7 |  | XiaofeiCao | new issue. | 10-11 | 10-24 |  |
-| 6 | [#5595](https://github.com/Azure/sdk-release-request/issues/5595) | rahuls-microsoft |  | haolingdong-msft | new issue. TypeSpec. | 10-10 | 10-25 |  |
+| 6 | [#5595](https://github.com/Azure/sdk-release-request/issues/5595) | rahuls-microsoft |  | haolingdong-msft | new issue. new comment. TypeSpec. | 10-10 | 10-25 |  |
 | 7 | [#5575](https://github.com/Azure/sdk-release-request/issues/5575) | hmmorales |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 10-07 | 10-25 |  |
 | 8 | [#5553](https://github.com/Azure/sdk-release-request/issues/5553) | mwesigwaguma |  | v-hongli1 | new comment. Attention to inconsistent tag. | 10-01 | 10-25 |  |
 | 9 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. TypeSpec. | 09-27 | 10-24 |  |

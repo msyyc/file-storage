@@ -5,7 +5,7 @@
 | 3 | [#5609](https://github.com/Azure/sdk-release-request/issues/5609) | audunn |  | Mitse1n | new issue. new comment. | 10-14 | 11-22 |  |
 | 4 | [#5604](https://github.com/Azure/sdk-release-request/issues/5604) | jamesvoongms |  | Mitse1n | new issue. | 10-11 | 10-25 |  |
 | 5 | [#5599](https://github.com/Azure/sdk-release-request/issues/5599) | yifanz7 |  | Mitse1n | new issue. | 10-11 | 10-24 |  |
-| 6 | [#5594](https://github.com/Azure/sdk-release-request/issues/5594) | rahuls-microsoft |  | Mitse1n | new issue. | 10-10 | 10-25 |  |
+| 6 | [#5594](https://github.com/Azure/sdk-release-request/issues/5594) | rahuls-microsoft |  | Mitse1n | new issue. new comment. | 10-10 | 10-25 |  |
 | 7 | [#5589](https://github.com/Azure/sdk-release-request/issues/5589) | rahuls-microsoftgithub.com |  | Mitse1n | new issue. | 10-10 | 10-25 |  |
 | 8 | [#5584](https://github.com/Azure/sdk-release-request/issues/5584) | jijohn14 |  | Mitse1n | new issue. | 10-10 | 10-25 |  |
 | 9 | [#5574](https://github.com/Azure/sdk-release-request/issues/5574) | hmmorales |  | Mitse1n | new issue. new comment. FirstBeta. | 10-07 | 10-25 |  |
