@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservicefleet,azure-sdk,ChenxiJiang333,2024-09-24,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5520,2.1.0,True
+azure-mgmt-dns,azure-sdk,ChenxiJiang333,2024-09-25,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5529,8.2.0,True
+azure-mgmt-appconfiguration,azure-sdk,ChenxiJiang333,2024-09-28,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5545,3.1.0,True
+azure-mgmt-servicefabricmanagedclusters,azure-sdk,ChenxiJiang333,2024-10-01,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5555,2.1.0b1,
 azure-mgmt-redisenterprise,azure-sdk,ChenxiJiang333,2024-09-13,2024-10-16,https://github.com/Azure/sdk-release-request/issues/5503,3.1.0b2,
 azure-mgmt-hybridcompute,azure-sdk,ChenxiJiang333,2024-10-09,2024-10-14,https://github.com/Azure/sdk-release-request/issues/5582,9.0.0,True
 azure-mgmt-postgresqlflexibleservers,nasc17,ChenxiJiang333,2024-10-03,2024-10-11,https://github.com/Azure/sdk-release-request/issues/5563,1.0.0,True
