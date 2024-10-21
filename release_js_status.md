@@ -3,7 +3,7 @@
 | 1 | [#5621](https://github.com/Azure/sdk-release-request/issues/5621) | elizatargithub7 |  | MaryGao | new issue. | 10-16 | 11-22 |  |
 | 2 | [#5616](https://github.com/Azure/sdk-release-request/issues/5616) | FireDefend |  | MaryGao | FirstBeta. HoldOn. TypeSpec. | 10-15 | 10-25 |  |
 | 3 | [#5611](https://github.com/Azure/sdk-release-request/issues/5611) | audunn |  | MaryGao | new issue. new comment. | 10-14 | 10-25 |  |
-| 4 | [#5606](https://github.com/Azure/sdk-release-request/issues/5606) | jamesvoongms |  | qiaozha | new issue. | 10-11 | 10-25 |  |
+| 4 | [#5606](https://github.com/Azure/sdk-release-request/issues/5606) | jamesvoongms |  | qiaozha |  | 10-11 | 10-25 |  |
 | 5 | [#5601](https://github.com/Azure/sdk-release-request/issues/5601) | yifanz7 |  | qiaozha | close to release date. | 10-11 | 10-24 | 2 |
 | 6 | [#5596](https://github.com/Azure/sdk-release-request/issues/5596) | rahuls-microsoft |  | qiaozha | new issue. new comment. FirstGA. TypeSpec. | 10-10 | 10-25 |  |
 | 7 | [#5586](https://github.com/Azure/sdk-release-request/issues/5586) | jijohn14 |  | qiaozha | HoldOn. | 10-10 | 10-25 |  |
