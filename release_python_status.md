@@ -7,9 +7,9 @@
 | 5 | [#5597](https://github.com/Azure/sdk-release-request/issues/5597) | rahuls-microsoft | azure-mgmt-computefleet | ChenxiJiang333 | FirstGA. TypeSpec. | 10-10 | 10-25 |  |
 | 6 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 | HoldOn. | 10-10 | 10-25 |  |
 | 7 | [#5577](https://github.com/Azure/sdk-release-request/issues/5577) | hmmorales | azure-mgmt-iotoperations | ChenxiJiang333 | FirstBeta. TypeSpec. | 10-07 | 10-25 |  |
-| 9 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 11-05 |  |
-| 10 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 | 2 |
-| 11 | [#5535](https://github.com/Azure/sdk-release-request/issues/5535) | shahjoy_microsoftgithub.com | azure-mgmt-resource | ChenxiJiang333 | FirstBeta. | 09-25 | 10-25 |  |
-| 12 | [#5509](https://github.com/Azure/sdk-release-request/issues/5509) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 | close to release date. | 09-16 | 10-24 | 2 |
-| 13 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 09-13 | 10-24 | 2 |
-| 14 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstGA. TypeSpec. | 08-12 | 10-25 |  |
+| 8 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 11-05 |  |
+| 9 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 | 2 |
+| 10 | [#5535](https://github.com/Azure/sdk-release-request/issues/5535) | shahjoy_microsoftgithub.com | azure-mgmt-resource | ChenxiJiang333 | FirstBeta. | 09-25 | 10-25 |  |
+| 11 | [#5509](https://github.com/Azure/sdk-release-request/issues/5509) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 | close to release date. | 09-16 | 10-24 | 2 |
+| 12 | [#5494](https://github.com/Azure/sdk-release-request/issues/5494) | HE-Xinyu | azure-mgmt-containerorchestratorruntime | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 09-13 | 10-24 | 2 |
+| 13 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | FirstGA. TypeSpec. | 08-12 | 10-25 |  |
