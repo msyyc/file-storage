@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-elasticsan,azure-sdk,ChenxiJiang333,2024-10-11,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5602,1.2.0b1,
 azure-mgmt-containerservicefleet,azure-sdk,ChenxiJiang333,2024-09-24,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5520,2.1.0,True
 azure-mgmt-dns,azure-sdk,ChenxiJiang333,2024-09-25,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5529,8.2.0,True
 azure-mgmt-appconfiguration,azure-sdk,ChenxiJiang333,2024-09-28,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5545,3.1.0,True
