@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5620](https://github.com/Azure/sdk-release-request/issues/5620) | elizatargithub7 |  | XiaofeiCao | new issue. FirstGA. TypeSpec. | 10-16 | 11-22 |  |
 | 2 | [#5615](https://github.com/Azure/sdk-release-request/issues/5615) | FireDefend |  | v-hongli1 | FirstBeta. HoldOn. TypeSpec. | 10-15 | 10-25 |  |
-| 3 | [#5610](https://github.com/Azure/sdk-release-request/issues/5610) | audunn |  | weidongxu-microsoft | new issue. new comment. | 10-14 | 11-22 |  |
+| 3 | [#5610](https://github.com/Azure/sdk-release-request/issues/5610) | audunn |  | weidongxu-microsoft | new issue. new comment. | 10-14 | 10-25 |  |
 | 4 | [#5605](https://github.com/Azure/sdk-release-request/issues/5605) | jamesvoongms |  | haolingdong-msft | new issue. | 10-11 | 10-25 |  |
 | 5 | [#5600](https://github.com/Azure/sdk-release-request/issues/5600) | yifanz7 |  | XiaofeiCao | new issue. close to release date. | 10-11 | 10-24 | 2 |
 | 6 | [#5595](https://github.com/Azure/sdk-release-request/issues/5595) | rahuls-microsoft |  | haolingdong-msft | new issue. new comment. TypeSpec. | 10-10 | 10-25 |  |

@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5619](https://github.com/Azure/sdk-release-request/issues/5619) | elizatargithub7 |  | Mitse1n | new issue. | 10-16 | 11-22 |  |
 | 2 | [#5614](https://github.com/Azure/sdk-release-request/issues/5614) | FireDefend |  | Mitse1n | new issue. new comment. FirstBeta. | 10-15 | 10-25 |  |
-| 3 | [#5609](https://github.com/Azure/sdk-release-request/issues/5609) | audunn |  | Mitse1n | new issue. new comment. | 10-14 | 11-22 |  |
+| 3 | [#5609](https://github.com/Azure/sdk-release-request/issues/5609) | audunn |  | Mitse1n | new issue. new comment. | 10-14 | 10-25 |  |
 | 4 | [#5604](https://github.com/Azure/sdk-release-request/issues/5604) | jamesvoongms |  | Mitse1n | new issue. | 10-11 | 10-25 |  |
 | 5 | [#5599](https://github.com/Azure/sdk-release-request/issues/5599) | yifanz7 |  | Mitse1n | new issue. close to release date. | 10-11 | 10-24 | 2 |
 | 6 | [#5594](https://github.com/Azure/sdk-release-request/issues/5594) | rahuls-microsoft |  | Mitse1n | new issue. new comment. | 10-10 | 10-25 |  |
