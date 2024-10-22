@@ -19,7 +19,7 @@
 | 17 | Release for ACI 2024-05-01-preview API  |  | [#5569](https://github.com/Azure/sdk-release-request/issues/5569)  |  | [#5571](https://github.com/Azure/sdk-release-request/issues/5571)  | 10-04 | 10-25 |  |
 | 18 | Release for Azure DNS Public Zones - 2023-07-01-preview  |  | [#5558](https://github.com/Azure/sdk-release-request/issues/5558)  |  | [#5528](https://github.com/Azure/sdk-release-request/issues/5528)  | 10-02 | 10-25 |  |
 | 19 | ServiceFabric - 2024-04  |  | [#5552](https://github.com/Azure/sdk-release-request/issues/5552)  |  | [#5554](https://github.com/Azure/sdk-release-request/issues/5554)  | 10-01 | 10-25 |  |
-| 20 | Release for Service Linker 24-07-01-preview  |  | [#5547](https://github.com/Azure/sdk-release-request/issues/5547)  |  | [#5549](https://github.com/Azure/sdk-release-request/issues/5549)  | 09-29 | 10-11 |  |
-| 21 | Release for AKS Fleet 2024-05-02-preview API  |  | [#5517](https://github.com/Azure/sdk-release-request/issues/5517)  |  | [#5519](https://github.com/Azure/sdk-release-request/issues/5519)  | 09-24 | 10-25 |  |
+| 20 | Release for AKS Fleet 2024-05-02-preview API  |  | [#5517](https://github.com/Azure/sdk-release-request/issues/5517)  |  | [#5519](https://github.com/Azure/sdk-release-request/issues/5519)  | 09-24 | 10-25 |  |
+| 21 | Release for Service Linker 24-07-01-preview  |  |  |  | [#5549](https://github.com/Azure/sdk-release-request/issues/5549)  | 09-29 | 10-11 |  |
 | 22 | CosmosDB RP API 2024-09-01-preview Version  |  |  |  | [#5475](https://github.com/Azure/sdk-release-request/issues/5475)  | 09-09 | 09-27 | Hold on by JS/ |
 | 23 | CosmosDB RP API 2024-08-15 Version  |  |  |  | [#5471](https://github.com/Azure/sdk-release-request/issues/5471)  | 09-09 | 09-27 | Hold on by JS/ |
