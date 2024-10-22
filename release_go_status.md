@@ -12,7 +12,7 @@
 | 10 | [#5569](https://github.com/Azure/sdk-release-request/issues/5569) | jrathore-msft |  | Mitse1n | new comment. close to release date. Attention to inconsistent tag. | 10-04 | 10-25 | 2 |
 | 11 | [#5558](https://github.com/Azure/sdk-release-request/issues/5558) | djr-jsr |  | Mitse1n | close to release date. | 10-02 | 10-25 | 2 |
 | 12 | [#5552](https://github.com/Azure/sdk-release-request/issues/5552) | mwesigwaguma |  | Mitse1n | new comment. close to release date. Attention to inconsistent tag. | 10-01 | 10-25 | 2 |
-| 13 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | Mitse1n | close to release date. FirstGA. | 09-27 | 10-24 | 1 |
+| 13 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | Mitse1n | close to release date. FirstGA. TypeSpec. | 09-27 | 10-24 | 1 |
 | 14 | [#5532](https://github.com/Azure/sdk-release-request/issues/5532) | shahjoy_microsoftgithub.com |  | Mitse1n | new comment. close to release date. FirstBeta. | 09-25 | 10-25 | 2 |
 | 15 | [#5524](https://github.com/Azure/sdk-release-request/issues/5524) | fumingzhang |  | Mitse1n | close to release date. | 09-24 | 10-24 | 1 |
 | 16 | [#5517](https://github.com/Azure/sdk-release-request/issues/5517) | zman-ms |  | Mitse1n | close to release date. | 09-24 | 10-25 | 2 |
