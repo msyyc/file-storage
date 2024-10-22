@@ -17,5 +17,5 @@
 | 15 | [#5524](https://github.com/Azure/sdk-release-request/issues/5524) | fumingzhang |  | Mitse1n | close to release date. | 09-24 | 10-24 | 1 |
 | 16 | [#5517](https://github.com/Azure/sdk-release-request/issues/5517) | zman-ms |  | Mitse1n | close to release date. | 09-24 | 10-25 | 2 |
 | 17 | [#5506](https://github.com/Azure/sdk-release-request/issues/5506) | jkore1911 |  | Mitse1n | close to release date. FirstGA. | 09-16 | 10-24 | 1 |
-| 18 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | close to release date. FirstBeta. TypeSpec. | 09-13 | 10-24 | 1 |
+| 18 | [#5491](https://github.com/Azure/sdk-release-request/issues/5491) | HE-Xinyu |  | Mitse1n | new comment. close to release date. FirstBeta. TypeSpec. | 09-13 | 10-24 | 1 |
 | 19 | [#5416](https://github.com/Azure/sdk-release-request/issues/5416) | badeamarjieh |  | Mitse1n | new comment. close to release date. FirstGA. FirstBeta. | 08-12 | 10-25 | 2 |
