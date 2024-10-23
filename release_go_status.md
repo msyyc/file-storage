@@ -6,7 +6,7 @@
 | 4 | [#5614](https://github.com/Azure/sdk-release-request/issues/5614) | FireDefend |  | Mitse1n | new issue. new comment. close to release date. FirstBeta. | 10-15 | 10-25 | 1 |
 | 5 | [#5609](https://github.com/Azure/sdk-release-request/issues/5609) | audunn |  | Mitse1n | new issue. new comment. close to release date. | 10-14 | 10-25 | 1 |
 | 6 | [#5604](https://github.com/Azure/sdk-release-request/issues/5604) | jamesvoongms |  | Mitse1n | new issue. close to release date. | 10-11 | 10-25 | 1 |
-| 7 | [#5599](https://github.com/Azure/sdk-release-request/issues/5599) | yifanz7 |  | Mitse1n | new issue. close to release date. | 10-11 | 10-24 | 0 |
+| 7 | [#5599](https://github.com/Azure/sdk-release-request/issues/5599) | yifanz7 |  | Mitse1n | new issue. new comment. close to release date. | 10-11 | 10-24 | 0 |
 | 8 | [#5589](https://github.com/Azure/sdk-release-request/issues/5589) | rahuls-microsoftgithub.com |  | Mitse1n | new issue. close to release date. | 10-10 | 10-25 | 1 |
 | 9 | [#5584](https://github.com/Azure/sdk-release-request/issues/5584) | jijohn14 |  | Mitse1n | new issue. close to release date. | 10-10 | 10-25 | 1 |
 | 10 | [#5574](https://github.com/Azure/sdk-release-request/issues/5574) | hmmorales |  | Mitse1n | new issue. new comment. close to release date. FirstBeta. | 10-07 | 10-25 | 1 |
