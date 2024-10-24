@@ -21,7 +21,7 @@
 | 19 | [#5522](https://github.com/Azure/sdk-release-request/issues/5522) | fumingzhang |  | qiaozha | close to release date. | 09-24 | 10-24 | 0 |
 | 20 | [#5519](https://github.com/Azure/sdk-release-request/issues/5519) | zman-ms |  | qiaozha | close to release date. TypeSpec. | 09-24 | 10-25 | 0 |
 | 21 | [#5508](https://github.com/Azure/sdk-release-request/issues/5508) | jkore1911 |  | MaryGao | close to release date. FirstGA. | 09-16 | 10-24 | 0 |
-| 22 | [#5493](https://github.com/Azure/sdk-release-request/issues/5493) | HE-Xinyu |  | qiaozha | close to release date. FirstBeta. HoldOn. TypeSpec. | 09-13 | 10-24 | 0 |
+| 22 | [#5493](https://github.com/Azure/sdk-release-request/issues/5493) | HE-Xinyu |  | qiaozha | close to release date. FirstBeta. TypeSpec. | 09-13 | 10-24 | 0 |
 | 23 | [#5475](https://github.com/Azure/sdk-release-request/issues/5475) | carjackson-msft |  | qiaozha | HoldOn. | 09-09 | 09-27 |  |
 | 24 | [#5471](https://github.com/Azure/sdk-release-request/issues/5471) | carjackson-msft |  | qiaozha | Attention to inconsistent tag. HoldOn. | 09-09 | 09-27 |  |
 | 25 | [#5418](https://github.com/Azure/sdk-release-request/issues/5418) | badeamarjieh |  | qiaozha | close to release date. FirstGA. FirstBeta. TypeSpec. | 08-12 | 10-25 | 0 |
