@@ -6,7 +6,7 @@
 | 4 | [#5626](https://github.com/Azure/sdk-release-request/issues/5626) | emmeliaAra |  | qiaozha | Attention to inconsistent tag. | 10-22 | 11-22 |  |
 | 5 | [#5621](https://github.com/Azure/sdk-release-request/issues/5621) | elizatargithub7 |  | MaryGao | new issue. | 10-16 | 11-22 |  |
 | 6 | [#5616](https://github.com/Azure/sdk-release-request/issues/5616) | FireDefend |  | MaryGao | close to release date. FirstBeta. HoldOn. TypeSpec. | 10-15 | 10-25 | 0 |
-| 7 | [#5611](https://github.com/Azure/sdk-release-request/issues/5611) | audunn |  | MaryGao | close to release date. HoldOn. | 10-14 | 10-25 | 0 |
+| 7 | [#5611](https://github.com/Azure/sdk-release-request/issues/5611) | audunn |  | MaryGao | close to release date. | 10-14 | 10-25 | 0 |
 | 8 | [#5606](https://github.com/Azure/sdk-release-request/issues/5606) | jamesvoongms |  | qiaozha | close to release date. | 10-11 | 10-25 | 0 |
 | 9 | [#5601](https://github.com/Azure/sdk-release-request/issues/5601) | yifanz7 |  | qiaozha | new comment. close to release date. | 10-11 | 10-24 | 0 |
 | 10 | [#5596](https://github.com/Azure/sdk-release-request/issues/5596) | rahuls-microsoft |  | qiaozha | new comment. close to release date. FirstGA. TypeSpec. | 10-10 | 10-25 | 0 |

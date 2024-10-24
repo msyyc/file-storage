@@ -15,7 +15,7 @@
 | 13 | New Public Preview Version for new DNS Resolver Version with feature DNS Security Policy  |  | [#5604](https://github.com/Azure/sdk-release-request/issues/5604)  |  | [#5606](https://github.com/Azure/sdk-release-request/issues/5606)  | 10-11 | 10-25 |  |
 | 14 | Release for AIO - 2024-09-15-preview  |  | [#5574](https://github.com/Azure/sdk-release-request/issues/5574)  |  | [#5576](https://github.com/Azure/sdk-release-request/issues/5576)  | 10-07 | 10-25 |  |
 | 15 | Release for Container Orchestrator Runtime - 2024-03-01  |  | [#5491](https://github.com/Azure/sdk-release-request/issues/5491)  |  | [#5493](https://github.com/Azure/sdk-release-request/issues/5493)  | 09-13 | 10-24 | Hold on by JS/ |
-| 16 | Release for NetAppFiles - 2024-07-01  |  |  |  | [#5611](https://github.com/Azure/sdk-release-request/issues/5611)  | 10-14 | 10-25 | Hold on by JS/ |
+| 16 | Release for NetAppFiles - 2024-07-01  |  |  |  | [#5611](https://github.com/Azure/sdk-release-request/issues/5611)  | 10-14 | 10-25 |  |
 | 17 | Release for ElasticSan - 2024-06-01-preview  |  |  |  | [#5601](https://github.com/Azure/sdk-release-request/issues/5601)  | 10-11 | 10-24 |  |
 | 18 | Azure Compute Fleet 2024-11-01  |  |  |  | [#5596](https://github.com/Azure/sdk-release-request/issues/5596)  | 10-10 | 10-25 |  |
 | 19 | Release for ACI 2024-05-01-preview API  |  |  |  | [#5571](https://github.com/Azure/sdk-release-request/issues/5571)  | 10-04 | 10-25 |  |
