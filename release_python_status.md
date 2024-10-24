@@ -6,8 +6,7 @@
 | 4 | [#5622](https://github.com/Azure/sdk-release-request/issues/5622) | elizatargithub7 | azure-mgmt-devopsinfrastructure | ChenxiJiang333 | TypeSpec. | 10-16 | 11-22 |  |
 | 5 | [#5617](https://github.com/Azure/sdk-release-request/issues/5617) | FireDefend |  | ChenxiJiang333 | duplicated issue  <br> | 10-15 |  | 0 |
 | 6 | [#5612](https://github.com/Azure/sdk-release-request/issues/5612) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 10-14 | 10-25 | 0 |
-| 8 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 | close to release date. HoldOn. | 10-10 | 10-25 | 0 |
-| 10 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 11-05 |  |
-| 11 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 | 0 |
-| 12 | [#5535](https://github.com/Azure/sdk-release-request/issues/5535) | shahjoy_microsoftgithub.com | azure-mgmt-resource | ChenxiJiang333 | close to release date. FirstBeta. | 09-25 | 10-25 | 0 |
-| 15 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 08-12 | 10-25 | 0 |
+| 7 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 | close to release date. HoldOn. | 10-10 | 10-25 | 0 |
+| 8 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 11-05 |  |
+| 9 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 | 0 |
+| 11 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 08-12 | 10-25 | 0 |
