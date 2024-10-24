@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerorchestratorruntime,azure-sdk,ChenxiJiang333,2024-09-13,2024-10-24,https://github.com/Azure/sdk-release-request/issues/5494,1.0.0b1,
+azure-mgmt-elastic,azure-sdk,ChenxiJiang333,2024-09-16,2024-10-24,https://github.com/Azure/sdk-release-request/issues/5509,1.1.0b4,
+azure-mgmt-iotoperations,azure-sdk,ChenxiJiang333,2024-10-07,2024-10-24,https://github.com/Azure/sdk-release-request/issues/5577,1.0.0b1,
+azure-mgmt-dnsresolver,azure-sdk,ChenxiJiang333,2024-10-11,2024-10-24,https://github.com/Azure/sdk-release-request/issues/5607,1.1.0b2,
 azure-mgmt-computefleet,azure-sdk,ChenxiJiang333,2024-10-10,2024-10-23,https://github.com/Azure/sdk-release-request/issues/5597,1.0.0,True
 azure-mgmt-containerinstance,azure-sdk,ChenxiJiang333,2024-10-04,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5567,10.2.0b1,
 azure-mgmt-elasticsan,azure-sdk,ChenxiJiang333,2024-10-11,2024-10-21,https://github.com/Azure/sdk-release-request/issues/5602,1.2.0b1,
