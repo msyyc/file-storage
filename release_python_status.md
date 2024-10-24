@@ -9,4 +9,3 @@
 | 7 | [#5587](https://github.com/Azure/sdk-release-request/issues/5587) | jijohn14 | azure-mgmt-appcontainers | ChenxiJiang333 | close to release date. HoldOn. | 10-10 | 10-25 | 0 |
 | 8 | [#5557](https://github.com/Azure/sdk-release-request/issues/5557) | jovancevic123 | azure-mgmt-sql | ChenxiJiang333 |  | 10-02 | 11-05 |  |
 | 9 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 10-24 | 0 |
-| 11 | [#5419](https://github.com/Azure/sdk-release-request/issues/5419) | badeamarjieh | azure-mgmt-fabric | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 08-12 | 10-25 | 0 |
