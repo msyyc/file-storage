@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#38101](https://github.com/Azure/azure-sdk-for-python/issues/38101)|azure.mgmt.servicefabric Returns Blank for Requesting all Services on current API Version|question, Service Fabric, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-10-25|
+|1|[#38101](https://github.com/Azure/azure-sdk-for-python/issues/38101)|azure.mgmt.servicefabric Returns Blank for Requesting all Services on current API Version|question, Service Fabric, Mgmt, customer-reported, needs-team-attention|msyyc||2024-10-25|
 |2|[#38030](https://github.com/Azure/azure-sdk-for-python/issues/38030)|New Attach/Detach data disks APIs support for VMs and VMSS|feature-request, question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc||2024-10-22|
 |3|[#37954](https://github.com/Azure/azure-sdk-for-python/issues/37954)|Get more detailed exception message from HttpResponseError|question, Compute, Mgmt, needs-team-attention|msyyc|new comment|2024-10-17|
 |4|[#37901](https://github.com/Azure/azure-sdk-for-python/issues/37901)|azure.mgmt.eventhub.models.EHNamespace.disable_local_auth not recognized by mypy|question, Event Hubs, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-10-15|
@@ -12,4 +12,4 @@
 |10|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |11|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |12|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
