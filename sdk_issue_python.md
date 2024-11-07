@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#38373](https://github.com/Azure/azure-sdk-for-python/issues/38373)|The latest version of "azure-mgmt-eventgrid" doesnt return "properties.minimumTlsVersionAllowed" in api response|question, Event Grid, Mgmt, customer-reported, needs-team-attention|msyyc||2024-11-06|
-|2|[#38347](https://github.com/Azure/azure-sdk-for-python/issues/38347)|Cannot update vault with python's azure.mgmt.recoveryservices|question, Mgmt, customer-reported, needs-team-attention, Recovery Services|msyyc|new comment|2024-11-05|
+|2|[#38347](https://github.com/Azure/azure-sdk-for-python/issues/38347)|Cannot update vault with python's azure.mgmt.recoveryservices|question, Mgmt, customer-reported, needs-team-attention, Recovery Services|msyyc||2024-11-05|
 |3|[#38252](https://github.com/Azure/azure-sdk-for-python/issues/38252)|Azure monitor's list metrics for cpu_percent always returns 0.0 for sql database resources|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2024-10-31|
 |4|[#38154](https://github.com/Azure/azure-sdk-for-python/issues/38154)|Mount method for sdkv2 is not working|question, Compute, Mgmt, customer-reported, needs-team-attention|msyyc||2024-10-29|
 |5|[#38030](https://github.com/Azure/azure-sdk-for-python/issues/38030)|New Attach/Detach data disks APIs support for VMs and VMSS|feature-request, question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-10-22|
@@ -14,4 +14,4 @@
 |12|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |13|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |14|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, msyyc, iscai-msft||2021-04-05|
+|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc||2021-04-05|
