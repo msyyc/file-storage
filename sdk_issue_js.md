@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#31670](https://github.com/Azure/azure-sdk-for-js/issues/31670)|Create documentation for partners on generating management SDKs using MPG|Mgmt|qiaozha|new issue|2024-11-07|
-|2|[#31566](https://github.com/Azure/azure-sdk-for-js/issues/31566)|APIM cannot retrieve policy using JavaScript SDK|question, customer-reported, Mgmt, Service Attention, API Management, needs-author-feedback|qiaozha||2024-10-28|
+|2|[#31566](https://github.com/Azure/azure-sdk-for-js/issues/31566)|APIM cannot retrieve policy using JavaScript SDK|question, customer-reported, Mgmt, Service Attention, API Management, needs-author-feedback, no-recent-activity|qiaozha||2024-10-28|
 |3|[#30441](https://github.com/Azure/azure-sdk-for-js/issues/30441)|List Microsoft.ServiceFabric/managedclusters API call|question, customer-reported, Mgmt, Service Attention, Service Fabric, needs-author-feedback|kazrael2119, qiaozha||2024-07-17|
 |4|[#29948](https://github.com/Azure/azure-sdk-for-js/issues/29948)|costManagementClient.query.usage() returns wrong CAD unit instead of USD|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-07|
 |5|[#29917](https://github.com/Azure/azure-sdk-for-js/issues/29917)|Creating app service plan with custom locations doesn't sent extendedLocation and returns error.|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-05|
