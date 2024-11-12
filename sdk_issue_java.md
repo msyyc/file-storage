@@ -1,20 +1,20 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft|new issue|2024-11-07|
+|1|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft||2024-11-07|
 |2|[#42291](https://github.com/Azure/azure-sdk-for-java/issues/42291)|mgmt live test, how to pass in password for Azure Services that need it?|Mgmt, Mgmt-EngSys|XiaofeiCao||2024-10-11|
 |3|[#42285](https://github.com/Azure/azure-sdk-for-java/issues/42285)|Can't remove null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-10-11|
 |4|[#42242](https://github.com/Azure/azure-sdk-for-java/issues/42242)|[QUERY] Add data disk with write accelerator enabled|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-10-09|
 |5|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |6|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |7|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|8|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
+|8|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
 |9|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |10|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |11|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |12|[#40619](https://github.com/Azure/azure-sdk-for-java/issues/40619)|Azure Json / Azure Xml - Stream style migration (management libraries)|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-06-13|
 |13|[#40553](https://github.com/Azure/azure-sdk-for-java/issues/40553)|Azure Resource Manager Creation is stuck in kubernetes cluster environment|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-06-07|
 |14|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|15|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs, issue-addressed|sandeep-sen, weidongxu-microsoft||2024-05-17|
+|15|[#40237](https://github.com/Azure/azure-sdk-for-java/issues/40237)|Legacy flag for the Java SDK|question, Mgmt, customer-reported, Docs, issue-addressed|weidongxu-microsoft, sandeep-sen||2024-05-17|
 |16|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
 |17|[#39947](https://github.com/Azure/azure-sdk-for-java/issues/39947)|[FEATURE REQ] mgmt appplatform, support artifact blob upload|Mgmt|XiaofeiCao||2024-04-28|
 |18|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
