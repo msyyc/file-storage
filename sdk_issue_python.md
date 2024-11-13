@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#38477](https://github.com/Azure/azure-sdk-for-python/issues/38477)|azure-mgmt-postgresqlflexibleservers 1.1.0b1 : Why is list_by_server for tuning options failing|PostgreSQL, Mgmt|msyyc|new issue|2024-11-12|
+|1|[#38477](https://github.com/Azure/azure-sdk-for-python/issues/38477)|azure-mgmt-postgresqlflexibleservers 1.1.0b1 : Why is list_by_server for tuning options failing|PostgreSQL, Mgmt|msyyc||2024-11-12|
 |2|[#38385](https://github.com/Azure/azure-sdk-for-python/issues/38385)|Create documentation for partners on generating management SDKs using MPG|Mgmt|msyyc|new issue|2024-11-07|
 |3|[#38373](https://github.com/Azure/azure-sdk-for-python/issues/38373)|The latest version of "azure-mgmt-eventgrid" doesnt return "properties.minimumTlsVersionAllowed" in api response|question, Event Grid, Mgmt, customer-reported, issue-addressed|msyyc||2024-11-06|
 |4|[#38355](https://github.com/Azure/azure-sdk-for-python/issues/38355)|Does azure-mgmt-sql uses updated sql api versions?|question, SQL, Service Attention, Mgmt, customer-reported, needs-author-feedback|msyyc||2024-11-06|
@@ -16,4 +16,4 @@
 |14|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |15|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |16|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|17|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, lmazuel, iscai-msft||2021-04-05|
+|17|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, iscai-msft, lmazuel||2021-04-05|
