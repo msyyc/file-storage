@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#38385](https://github.com/Azure/azure-sdk-for-python/issues/38385)|Create documentation for partners on generating management SDKs using MPG|Mgmt|msyyc|new issue|2024-11-07|
-|2|[#38355](https://github.com/Azure/azure-sdk-for-python/issues/38355)|Does azure-mgmt-sql uses updated sql api versions?|question, SQL, Service Attention, Mgmt, customer-reported, needs-author-feedback|msyyc||2024-11-06|
-|3|[#38252](https://github.com/Azure/azure-sdk-for-python/issues/38252)|Azure monitor's list metrics for cpu_percent always returns 0.0 for sql database resources|question, Monitor, Service Attention, Mgmt, customer-reported, needs-author-feedback|msyyc||2024-10-31|
+|2|[#38355](https://github.com/Azure/azure-sdk-for-python/issues/38355)|Does azure-mgmt-sql uses updated sql api versions?|question, SQL, Service Attention, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-11-06|
+|3|[#38252](https://github.com/Azure/azure-sdk-for-python/issues/38252)|Azure monitor's list metrics for cpu_percent always returns 0.0 for sql database resources|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-10-31|
 |4|[#38030](https://github.com/Azure/azure-sdk-for-python/issues/38030)|New Attach/Detach data disks APIs support for VMs and VMSS|feature-request, question, Compute - VM, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-10-22|
 |5|[#37954](https://github.com/Azure/azure-sdk-for-python/issues/37954)|Get more detailed exception message from HttpResponseError|question, Compute, Mgmt, needs-team-attention|msyyc|new comment|2024-10-17|
 |6|[#37901](https://github.com/Azure/azure-sdk-for-python/issues/37901)|azure.mgmt.eventhub.models.EHNamespace.disable_local_auth not recognized by mypy|question, Event Hubs, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-10-15|
