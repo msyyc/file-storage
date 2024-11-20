@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#42935](https://github.com/Azure/azure-sdk-for-java/issues/42935)|Add Mock Test Case To Verify CAE Support In Mgmt SDK|Mgmt, issue-addressed|XiaofeiCao||2024-11-14|
+|1|[#43020](https://github.com/Azure/azure-sdk-for-java/issues/43020)|[QUERY]  Pagination PageSize Issues with iterableByPage|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-11-19|
 |2|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft||2024-11-07|
 |3|[#42291](https://github.com/Azure/azure-sdk-for-java/issues/42291)|mgmt live test, how to pass in password for Azure Services that need it?|Mgmt, Mgmt-EngSys|XiaofeiCao||2024-10-11|
 |4|[#42285](https://github.com/Azure/azure-sdk-for-java/issues/42285)|Can't remove null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-10-11|
@@ -8,7 +8,7 @@
 |6|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |7|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |8|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|9|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|9|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |10|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |11|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |12|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
@@ -30,7 +30,7 @@
 |28|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |29|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |30|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|31|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|31|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |32|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |33|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |34|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
