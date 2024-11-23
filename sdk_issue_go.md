@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#23741](https://github.com/Azure/azure-sdk-for-go/issues/23741)|ManagedDevices.CreateDevice returns  No OData route exists|question, IoT, Mgmt, customer-reported, needs-team-attention|jliusan, lirenhe||2024-11-13|
+|1|[#23741](https://github.com/Azure/azure-sdk-for-go/issues/23741)|ManagedDevices.CreateDevice returns  No OData route exists|question, IoT, Mgmt, customer-reported, needs-team-attention|lirenhe, jliusan||2024-11-13|
 |2|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |3|[#23506](https://github.com/Azure/azure-sdk-for-go/issues/23506)|Upgrade API Management package to latest REST API 2024-05-01 or higher|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-26|
 |4|[#23479](https://github.com/Azure/azure-sdk-for-go/issues/23479)|App Service module "The api-version '2023-12-01' is invalid." error|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-23|
