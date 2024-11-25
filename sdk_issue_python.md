@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#38653](https://github.com/Azure/azure-sdk-for-python/issues/38653)|New version for azure.mgmt.azurearcdata package|question, Mgmt, customer-reported, needs-team-attention, Arc Data|msyyc|new comment|2024-11-22|
-|2|[#38651](https://github.com/Azure/azure-sdk-for-python/issues/38651)|connectedvmware: ConnectedVMwareMgmtClient.virtual_machine_instances.begin_create_or_update fails to create a new VM|question, Mgmt, customer-reported, needs-team-attention, Connected VMware|msyyc|new comment|2024-11-22|
+|1|[#38653](https://github.com/Azure/azure-sdk-for-python/issues/38653)|New version for azure.mgmt.azurearcdata package|question, Mgmt, customer-reported, needs-team-attention, Arc Data|msyyc||2024-11-22|
+|2|[#38651](https://github.com/Azure/azure-sdk-for-python/issues/38651)|connectedvmware: ConnectedVMwareMgmtClient.virtual_machine_instances.begin_create_or_update fails to create a new VM|question, Mgmt, customer-reported, needs-team-attention, Connected VMware|msyyc||2024-11-22|
 |3|[#38620](https://github.com/Azure/azure-sdk-for-python/issues/38620)|Compare python SDK for compute TypeSpec migration|Compute, Mgmt, needs-team-attention|msyyc||2024-11-20|
 |4|[#38385](https://github.com/Azure/azure-sdk-for-python/issues/38385)|Create documentation for partners on generating management SDKs using MPG|Mgmt|msyyc|new issue|2024-11-07|
 |5|[#38355](https://github.com/Azure/azure-sdk-for-python/issues/38355)|Does azure-mgmt-sql uses updated sql api versions?|question, SQL, Service Attention, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-11-06|
