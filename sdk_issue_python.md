@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#38738](https://github.com/Azure/azure-sdk-for-python/issues/38738)|Metrictype -- appallingly incomplete documentation|Docs, question, Mgmt, customer-reported, needs-team-attention, Consumption|msyyc|new comment|2024-12-02|
-|2|[#38653](https://github.com/Azure/azure-sdk-for-python/issues/38653)|New version for azure.mgmt.azurearcdata package|question, Mgmt, customer-reported, needs-team-attention, Arc Data|msyyc||2024-11-22|
+|2|[#38653](https://github.com/Azure/azure-sdk-for-python/issues/38653)|New version for azure.mgmt.azurearcdata package|question, Mgmt, customer-reported, needs-team-attention, Arc Data|msyyc|no reply > 7|2024-11-22|
 |3|[#38651](https://github.com/Azure/azure-sdk-for-python/issues/38651)|connectedvmware: ConnectedVMwareMgmtClient.virtual_machine_instances.begin_create_or_update fails to create a new VM|question, Mgmt, customer-reported, needs-author-feedback, Connected VMware|msyyc||2024-11-22|
 |4|[#38633](https://github.com/Azure/azure-sdk-for-python/issues/38633)|azure-mgmt-synapse source distribution on PyPI does not contain license file|question, Service Attention, Mgmt, customer-reported, Synapse, needs-team-attention|msyyc||2024-11-21|
 |5|[#38620](https://github.com/Azure/azure-sdk-for-python/issues/38620)|Compare python SDK for compute TypeSpec migration|Compute, Mgmt, needs-team-attention|msyyc|no reply > 7|2024-11-20|
@@ -15,4 +15,4 @@
 |13|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |14|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |15|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc|no reply > 7|2021-04-05|
+|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, msyyc, lmazuel|no reply > 7|2021-04-05|
