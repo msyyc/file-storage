@@ -69,4 +69,3 @@
 |67|[#33056](https://github.com/Azure/azure-sdk-for-java/issues/33056)|[BUG] UndeliverableException when creating resource group and network security group in heavy load|question, ARM, Service Attention, Mgmt, customer-reported, pillar-reliability, needs-team-attention|XiaofeiCao|new comment|2023-01-18|
 |68|[#32822](https://github.com/Azure/azure-sdk-for-java/issues/32822)|[BUG] Deserialization failed for azure-resourcemanager-security's listing security contacts|question, Security, Service Attention, Mgmt, customer-reported|XiaofeiCao||2023-01-09|
 |69|[#32624](https://github.com/Azure/azure-sdk-for-java/issues/32624)|[FEATURE REQ] mgmt container instance, support container update|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-16|
-|70|[#32566](https://github.com/Azure/azure-sdk-for-java/issues/32566)|[FEATURE REQ] mgmt Network Application Gateway, convenience layer for WAF policy for WAF_V2|Mgmt, Mgmt - Track 2|XiaofeiCao||2022-12-12|
