@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#43325](https://github.com/Azure/azure-sdk-for-java/issues/43325)|[MGMT] re-check old mgmt libraries, release GA lib for any of missed lib that has stable api-versions|Mgmt|weidongxu-microsoft||2024-12-11|
-|2|[#43122](https://github.com/Azure/azure-sdk-for-java/issues/43122)|[FEATURE REQ] Add dataSecurityMode to AzureDatabricksLinkedService|ARM, Mgmt, customer-reported, feature-request, Data Bricks, needs-team-attention|XiaofeiCao||2024-11-27|
+|2|[#43122](https://github.com/Azure/azure-sdk-for-java/issues/43122)|[FEATURE REQ] Add dataSecurityMode to AzureDatabricksLinkedService|ARM, Mgmt, customer-reported, feature-request, Data Bricks, needs-team-attention|XiaofeiCao|new comment|2024-11-27|
 |3|[#43029](https://github.com/Azure/azure-sdk-for-java/issues/43029)|[BUG] Unsupported DateTime format "6/1/2023 12:00:00 AM +00:00"|question, ARM, Billing, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-11-20|
 |4|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft||2024-11-07|
 |5|[#42291](https://github.com/Azure/azure-sdk-for-java/issues/42291)|mgmt live test, how to pass in password for Azure Services that need it?|Mgmt, Mgmt-EngSys|XiaofeiCao||2024-10-11|
@@ -11,7 +11,7 @@
 |9|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |10|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |11|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|12|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|12|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |13|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |14|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |15|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
@@ -28,13 +28,13 @@
 |26|[#39094](https://github.com/Azure/azure-sdk-for-java/issues/39094)|mgmt core, add hybrid serialization model(baseclass stream-style-serialization, subclass jackson)|Mgmt, Azure.Core, Mgmt - Track 2|XiaofeiCao||2024-03-06|
 |27|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |28|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|29|[#38569](https://github.com/Azure/azure-sdk-for-java/issues/38569)|Migrate JSON serialization to azure-json|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2024-01-31|
-|30|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
+|29|[#38569](https://github.com/Azure/azure-sdk-for-java/issues/38569)|Migrate JSON serialization to azure-json|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2024-01-31|
+|30|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
 |31|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
 |32|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |33|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |34|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|35|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
+|35|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
 |36|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |37|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |38|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
