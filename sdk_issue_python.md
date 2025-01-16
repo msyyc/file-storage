@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#39090](https://github.com/Azure/azure-sdk-for-python/issues/39090)|azure-identity support for azure-mgmt-datalake-analytics|question, Data Lake Analytics, Mgmt, customer-reported, needs-author-feedback|msyyc||2025-01-08|
+|1|[#39090](https://github.com/Azure/azure-sdk-for-python/issues/39090)|azure-identity support for azure-mgmt-datalake-analytics|question, Data Lake Analytics, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2025-01-08|
 |2|[#38816](https://github.com/Azure/azure-sdk-for-python/issues/38816)|Release new API version of Microsoft.Resources|feature-request, Mgmt, Resources|msyyc|no reply > 7|2024-12-10|
 |3|[#38782](https://github.com/Azure/azure-sdk-for-python/issues/38782)|Python SDK to enable Replication on VM|question, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2024-12-05|
 |4|[#38738](https://github.com/Azure/azure-sdk-for-python/issues/38738)|Metrictype -- appallingly incomplete documentation|Docs, question, Mgmt, customer-reported, needs-team-attention, Consumption|msyyc|new comment|2024-12-02|
@@ -15,4 +15,4 @@
 |13|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |14|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |15|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
+|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
