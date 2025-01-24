@@ -14,7 +14,7 @@
 | 12 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 01-25 | Hold on by JS/Java/Go/Python/ |
 | 13 | release for Azure Data Explorer service 2024-04-13  |  | [#5848](https://github.com/Azure/sdk-release-request/issues/5848)  | [#5849](https://github.com/Azure/sdk-release-request/issues/5849)  | [#5850](https://github.com/Azure/sdk-release-request/issues/5850)  | 01-23 | 01-24 |  |
 | 14 | Azure Compute CloudService 2024-11-04   |  |  | [#5797](https://github.com/Azure/sdk-release-request/issues/5797)  |  | 01-06 | 01-24 |  |
-| 15 | Release for Azure Redis - 2024-11-01  |  |  | [#5785](https://github.com/Azure/sdk-release-request/issues/5785)  | [#5786](https://github.com/Azure/sdk-release-request/issues/5786)  | 12-16 | 01-23 |  |
+| 15 | Release for Azure Redis - 2024-11-01  |  |  | [#5785](https://github.com/Azure/sdk-release-request/issues/5785)  |  | 12-16 | 01-23 |  |
 | 16 | Release for Quota 2024-12-18-preview  |  |  |  | [#5825](https://github.com/Azure/sdk-release-request/issues/5825)  | 01-15 | 01-24 |  |
 | 17 | Release for Computeschedule - 2024-10-01  |  |  |  | [#5808](https://github.com/Azure/sdk-release-request/issues/5808)  | 01-09 | 01-24 |  |
 | 18 | App Services (DNL GA)  |  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 | Hold on by JS/ |
