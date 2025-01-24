@@ -1,7 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5851](https://github.com/Azure/sdk-release-request/issues/5851) | guyhirPublic | azure-mgmt-kusto | ChenxiJiang333 | new comment. close to release date. | 01-23 | 01-24 | 0 |
-| 2 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 01-23 | 01-24 | 0 |
+| 2 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | close to release date. FirstBeta. HoldOn. TypeSpec. | 01-23 | 01-24 | 0 |
 | 3 | [#5841](https://github.com/Azure/sdk-release-request/issues/5841) | avirupcha | azure-mgmt-network | ChenxiJiang333 |  | 01-23 | 02-28 |  |
 | 4 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 | FirstBeta. TypeSpec. | 01-23 | 02-28 |  |
 | 5 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
