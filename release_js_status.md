@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5850](https://github.com/Azure/sdk-release-request/issues/5850) | guyhirPublic |  | MaryGao | new issue. | 01-23 | 12-26 |  |
-| 2 | [#5845](https://github.com/Azure/sdk-release-request/issues/5845) | adityareddy305 |  | MaryGao | new issue. new comment. FirstBeta. TypeSpec. | 01-23 | 01-24 |  |
+| 1 | [#5850](https://github.com/Azure/sdk-release-request/issues/5850) | guyhirPublic |  | MaryGao | new issue. new comment. | 01-23 | 01-24 |  |
+| 2 | [#5845](https://github.com/Azure/sdk-release-request/issues/5845) | adityareddy305 |  | MaryGao | new issue. new comment. close to release date. FirstBeta. TypeSpec. | 01-23 | 01-24 | 0 |
 | 3 | [#5840](https://github.com/Azure/sdk-release-request/issues/5840) | avirupcha |  | MaryGao | new issue. | 01-23 | 02-28 |  |
 | 4 | [#5835](https://github.com/Azure/sdk-release-request/issues/5835) | Renyx1219 |  | MaryGao | new issue. | 01-23 | 02-28 |  |
 | 5 | [#5830](https://github.com/Azure/sdk-release-request/issues/5830) | mbashtovayamicrosoft.com |  | qiaozha | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
