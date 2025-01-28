@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#39387](https://github.com/Azure/azure-sdk-for-python/issues/39387)|cognitiveservices model for property is marked as read-only blocking functionality|bug, Cognitive Services, Mgmt, customer-reported, needs-team-attention|msyyc||2025-01-24|
+|1|[#39387](https://github.com/Azure/azure-sdk-for-python/issues/39387)|cognitiveservices model for property is marked as read-only blocking functionality|bug, Cognitive Services, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-01-24|
 |2|[#39297](https://github.com/Azure/azure-sdk-for-python/issues/39297)|azure-mgmt-core needs linting updates for pylint version 3.2.7|Mgmt, Azure.Core, pylint|msyyc|new issue|2025-01-19|
 |3|[#39242](https://github.com/Azure/azure-sdk-for-python/issues/39242)|Unable to pass Cost Managment pagination next link url .|bug, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|msyyc||2025-01-17|
 |4|[#39090](https://github.com/Azure/azure-sdk-for-python/issues/39090)|azure-identity support for azure-mgmt-datalake-analytics|question, Data Lake Analytics, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-01-08|
