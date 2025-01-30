@@ -10,6 +10,6 @@
 | 8 | [#5794](https://github.com/Azure/sdk-release-request/issues/5794) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 12-26 | 01-24 |  |
 | 9 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw | azure-mgmt-pineconevectordb | ChenxiJiang333 | FirstBeta. TypeSpec. | 12-11 | 02-28 |  |
 | 10 | [#5772](https://github.com/Azure/sdk-release-request/issues/5772) | savaradh | azure-mgmt-containerregistry | ChenxiJiang333 | HoldOn. | 12-09 | 01-25 |  |
-| 11 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-15 | 02-21 |  |
+| 11 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 02-21 |  |
 | 12 | [#5627](https://github.com/Azure/sdk-release-request/issues/5627) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | HoldOn. | 10-22 | 12-27 |  |
 | 13 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 09-27 | 01-25 |  |
