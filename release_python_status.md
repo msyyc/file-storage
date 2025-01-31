@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 | new issue. | 01-30 | 02-28 |  |
+| 1 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 01-30 | 02-28 |  |
 | 2 | [#5856](https://github.com/Azure/sdk-release-request/issues/5856) | virginiaho-ms | azure-mgmt-applicationinsights | ChenxiJiang333 | new issue. MultiAPI | 01-28 | 02-28 |  |
 | 3 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 01-23 | 01-24 |  |
 | 4 | [#5841](https://github.com/Azure/sdk-release-request/issues/5841) | avirupcha | azure-mgmt-network | ChenxiJiang333 |  | 01-23 | 02-28 |  |
