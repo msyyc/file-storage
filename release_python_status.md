@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 |  | 02-03 | 02-27 |  |
+| 1 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 | new comment. | 02-03 | 02-27 |  |
 | 2 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 01-31 | 02-28 |  |
 | 3 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 01-30 | 02-28 |  |
 | 4 | [#5856](https://github.com/Azure/sdk-release-request/issues/5856) | virginiaho-ms | azure-mgmt-applicationinsights | ChenxiJiang333 | new issue. MultiAPI | 01-28 | 02-28 |  |
