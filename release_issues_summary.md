@@ -18,5 +18,5 @@
 | 16 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 02-21 | Hold on by JS/Java/Go/Python/ |
 | 17 | 'Release for EventHub Api-Version=2024-05-01-preview'  |  |  | [#5804](https://github.com/Azure/sdk-release-request/issues/5804)  | [#5803](https://github.com/Azure/sdk-release-request/issues/5803)  | 01-08 | 01-30 |  |
 | 18 | Release for Application Gateway for Containers - 2025 - 01 - 01  |  |  | [#5792](https://github.com/Azure/sdk-release-request/issues/5792)  | [#5793](https://github.com/Azure/sdk-release-request/issues/5793)  | 12-26 | 01-24 |  |
-| 19 | Release for PineconeVectorDB - 2025-01-31  |  |  | [#5775](https://github.com/Azure/sdk-release-request/issues/5775)  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 01-24 |  |
+| 19 | Release for PineconeVectorDB - 2025-01-31  |  |  |  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 01-24 |  |
 | 20 | App Services (DNL GA)  |  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 | Hold on by JS/ |
