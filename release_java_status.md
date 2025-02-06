@@ -3,7 +3,7 @@
 | 1 | [#5873](https://github.com/Azure/sdk-release-request/issues/5873) | fumingzhang |  | weidongxu-microsoft | new issue. | 02-05 | 02-27 |  |
 | 2 | [#5869](https://github.com/Azure/sdk-release-request/issues/5869) | SpencerOfwiti |  | XiaofeiCao | new issue. | 02-03 | 02-27 |  |
 | 3 | [#5864](https://github.com/Azure/sdk-release-request/issues/5864) | tejasm-microsoft |  | weidongxu-microsoft | new issue. | 01-31 | 02-28 |  |
-| 4 | [#5859](https://github.com/Azure/sdk-release-request/issues/5859) | audunn |  | v-hongli1 | new issue. | 01-30 | 02-28 |  |
+| 4 | [#5859](https://github.com/Azure/sdk-release-request/issues/5859) | audunn |  | v-hongli1 | new issue. new comment. | 01-30 | 02-28 |  |
 | 5 | [#5854](https://github.com/Azure/sdk-release-request/issues/5854) | virginiaho-ms |  | v-hongli1 |  | 01-28 | 02-28 |  |
 | 6 | [#5844](https://github.com/Azure/sdk-release-request/issues/5844) | adityareddy305 |  | weidongxu-microsoft | new issue. new comment. FirstBeta. TypeSpec. | 01-23 | 01-24 |  |
 | 7 | [#5839](https://github.com/Azure/sdk-release-request/issues/5839) | avirupcha |  | XiaofeiCao | new issue. | 01-23 | 02-28 |  |

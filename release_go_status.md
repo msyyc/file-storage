@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5872](https://github.com/Azure/sdk-release-request/issues/5872) | fumingzhang |  | jliusan | new issue. | 02-05 | 02-27 |  |
-| 2 | [#5868](https://github.com/Azure/sdk-release-request/issues/5868) | SpencerOfwiti |  | jliusan |  | 02-03 | 02-27 |  |
+| 2 | [#5868](https://github.com/Azure/sdk-release-request/issues/5868) | SpencerOfwiti |  | jliusan | new comment. | 02-03 | 02-27 |  |
 | 3 | [#5863](https://github.com/Azure/sdk-release-request/issues/5863) | tejasm-microsoft |  | jliusan |  | 01-31 | 02-28 |  |
-| 4 | [#5858](https://github.com/Azure/sdk-release-request/issues/5858) | audunn |  | jliusan |  | 01-30 | 02-28 |  |
+| 4 | [#5858](https://github.com/Azure/sdk-release-request/issues/5858) | audunn |  | jliusan | new comment. | 01-30 | 02-28 |  |
 | 5 | [#5853](https://github.com/Azure/sdk-release-request/issues/5853) | virginiaho-ms |  | jliusan |  | 01-28 | 02-28 |  |
 | 6 | [#5843](https://github.com/Azure/sdk-release-request/issues/5843) | adityareddy305 |  | jliusan | new issue. new comment. FirstBeta. | 01-23 | 01-24 |  |
 | 7 | [#5838](https://github.com/Azure/sdk-release-request/issues/5838) | avirupcha |  | jliusan |  | 01-23 | 02-28 |  |
