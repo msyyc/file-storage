@@ -18,5 +18,4 @@
 | 16 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  | [#5839](https://github.com/Azure/sdk-release-request/issues/5839)  | [#5840](https://github.com/Azure/sdk-release-request/issues/5840)  | 01-23 | 02-28 |  |
 | 17 | 'Release for EventHub Api-Version=2024-05-01-preview'  |  |  | [#5804](https://github.com/Azure/sdk-release-request/issues/5804)  | [#5803](https://github.com/Azure/sdk-release-request/issues/5803)  | 01-08 | 01-30 | Hold on by JS/ |
 | 18 | Release for Application Gateway for Containers - 2025 - 01 - 01  |  |  |  | [#5793](https://github.com/Azure/sdk-release-request/issues/5793)  | 12-26 | 01-24 |  |
-| 19 | Release for PineconeVectorDB - 2025-01-31  |  |  |  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 01-24 |  |
-| 20 | App Services (DNL GA)  |  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 | Hold on by JS/ |
+| 19 | App Services (DNL GA)  |  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 | Hold on by JS/ |
