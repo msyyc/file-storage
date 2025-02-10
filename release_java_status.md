@@ -8,7 +8,7 @@
 | 6 | [#5854](https://github.com/Azure/sdk-release-request/issues/5854) | virginiaho-ms |  | v-hongli1 |  | 01-28 | 02-28 |  |
 | 7 | [#5844](https://github.com/Azure/sdk-release-request/issues/5844) | adityareddy305 |  | weidongxu-microsoft | new issue. new comment. FirstBeta. HoldOn. TypeSpec. | 01-23 | 02-21 |  |
 | 8 | [#5839](https://github.com/Azure/sdk-release-request/issues/5839) | avirupcha |  | XiaofeiCao | new issue. | 01-23 | 02-28 |  |
-| 9 | [#5834](https://github.com/Azure/sdk-release-request/issues/5834) | Renyx1219 |  | v-hongli1 | new issue. | 01-23 | 02-28 |  |
+| 9 | [#5834](https://github.com/Azure/sdk-release-request/issues/5834) | Renyx1219 |  | v-hongli1 |  | 01-23 | 02-28 |  |
 | 10 | [#5829](https://github.com/Azure/sdk-release-request/issues/5829) | mbashtovayamicrosoft.com |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
 | 11 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | v-hongli1 |  | 01-13 | 02-28 |  |
 | 12 | [#5812](https://github.com/Azure/sdk-release-request/issues/5812) | alexmahonic |  | v-hongli1 | HoldOn. | 01-10 | 01-24 |  |
