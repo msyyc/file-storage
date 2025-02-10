@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5877](https://github.com/Azure/sdk-release-request/issues/5877) | davidemontanari |  | jliusan | new issue. | 02-06 | 02-28 |  |
+| 1 | [#5877](https://github.com/Azure/sdk-release-request/issues/5877) | davidemontanari |  | jliusan | new issue. TypeSpec. | 02-06 | 02-28 |  |
 | 2 | [#5872](https://github.com/Azure/sdk-release-request/issues/5872) | fumingzhang |  | jliusan |  | 02-05 | 02-27 |  |
 | 3 | [#5868](https://github.com/Azure/sdk-release-request/issues/5868) | SpencerOfwiti |  | jliusan | new comment. | 02-03 | 02-27 |  |
 | 4 | [#5863](https://github.com/Azure/sdk-release-request/issues/5863) | tejasm-microsoft |  | jliusan |  | 01-31 | 02-28 |  |
