@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 02-06 | 02-28 |  |
-| 2 | [#5875](https://github.com/Azure/sdk-release-request/issues/5875) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 02-05 | 02-27 |  |
+| 2 | [#5875](https://github.com/Azure/sdk-release-request/issues/5875) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 02-05 | 02-27 |  |
 | 3 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 |  | 02-03 | 02-27 |  |
 | 4 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 01-31 | 02-28 |  |
 | 5 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 01-30 | 02-28 |  |
