@@ -11,7 +11,7 @@
 | 9 | [#5840](https://github.com/Azure/sdk-release-request/issues/5840) | avirupcha |  | MaryGao | new issue. | 01-23 | 02-28 |  |
 | 10 | [#5835](https://github.com/Azure/sdk-release-request/issues/5835) | Renyx1219 |  | MaryGao | new issue. | 01-23 | 02-28 |  |
 | 11 | [#5830](https://github.com/Azure/sdk-release-request/issues/5830) | mbashtovayamicrosoft.com |  | qiaozha | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
-| 12 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha |  | 01-13 | 02-28 |  |
+| 12 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | HoldOn. | 01-13 | 02-28 |  |
 | 13 | [#5813](https://github.com/Azure/sdk-release-request/issues/5813) | alexmahonic |  | MaryGao | HoldOn. | 01-10 | 01-24 |  |
 | 14 | [#5803](https://github.com/Azure/sdk-release-request/issues/5803) | schaudhari6254888 |  | MaryGao | HoldOn. | 01-08 | 01-30 |  |
 | 15 | [#5793](https://github.com/Azure/sdk-release-request/issues/5793) | cdxu-147 |  | MaryGao |  | 12-26 | 01-24 |  |
