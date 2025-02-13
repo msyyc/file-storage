@@ -18,4 +18,4 @@
 | 16 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 02-21 | Hold on by JS/Java/Go/Python/ |
 | 17 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  | [#5839](https://github.com/Azure/sdk-release-request/issues/5839)  | [#5840](https://github.com/Azure/sdk-release-request/issues/5840)  | 01-23 | 02-28 |  |
 | 18 | 'Release for EventHub Api-Version=2024-05-01-preview'  |  |  | [#5804](https://github.com/Azure/sdk-release-request/issues/5804)  | [#5803](https://github.com/Azure/sdk-release-request/issues/5803)  | 01-08 | 01-30 | Hold on by JS/ |
-| 19 | App Services (DNL GA)  |  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 | Hold on by JS/ |
+| 19 | App Services (DNL GA)  |  |  |  | [#5710](https://github.com/Azure/sdk-release-request/issues/5710)  | 11-11 | 01-25 |  |
