@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 | Attention to inconsistent tag. MultiAPI | 02-12 | 02-28 |  |
+| 1 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 | new issue. Attention to inconsistent tag. MultiAPI | 02-12 | 02-28 |  |
 | 2 | [#5885](https://github.com/Azure/sdk-release-request/issues/5885) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 02-11 | 02-27 |  |
 | 3 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 02-06 | 02-28 |  |
 | 4 | [#5875](https://github.com/Azure/sdk-release-request/issues/5875) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 02-05 | 02-27 |  |
