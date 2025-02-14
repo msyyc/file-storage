@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#44060](https://github.com/Azure/azure-sdk-for-java/issues/44060)|[FEATURE REQ] Provide a method to consume Service Health Active Events|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft|new comment|2025-02-06|
+|1|[#44060](https://github.com/Azure/azure-sdk-for-java/issues/44060)|[FEATURE REQ] Provide a method to consume Service Health Active Events|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2025-02-06|
 |2|[#44030](https://github.com/Azure/azure-sdk-for-java/issues/44030)|[FEATURE REQ] mgmt sync stack, sync policies in azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-02-05|
 |3|[#43927](https://github.com/Azure/azure-sdk-for-java/issues/43927)|[BUG] Facing java.time.format.DateTimeParseException when listing emerging issues from ResourceHealthManager|question, Resource Health, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-01-24|
 |4|[#43781](https://github.com/Azure/azure-sdk-for-java/issues/43781)|[FEATURE REQ] mgmt sync-stack, SDK support|ARM, Mgmt, Mgmt - Track 2, needs-team-attention|XiaofeiCao||2025-01-14|
@@ -13,7 +13,7 @@
 |11|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |12|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |13|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|14|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|14|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |15|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |16|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |17|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
