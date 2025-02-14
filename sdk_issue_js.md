@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, Machine Learning, needs-team-attention|MaryGao||2025-01-07|
-|2|[#32353](https://github.com/Azure/azure-sdk-for-js/issues/32353)|Interface JitNetworkAccessPolicyInitiatePort is missing the property allowedSourceAddressPrefixes|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2024-12-24|
+|2|[#32353](https://github.com/Azure/azure-sdk-for-js/issues/32353)|Interface JitNetworkAccessPolicyInitiatePort is missing the property allowedSourceAddressPrefixes|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha|new comment|2024-12-24|
 |3|[#32184](https://github.com/Azure/azure-sdk-for-js/issues/32184)|Migrate mgmt pacakge to esm|Mgmt|kazrael2119, qiaozha|new comment|2024-12-12|
 |4|[#32007](https://github.com/Azure/azure-sdk-for-js/issues/32007)|Compare JS SDK for compute TypeSpec migration|Mgmt, Compute, needs-team-attention|kazrael2119, qiaozha|new comment|2024-12-02|
 |5|[#29948](https://github.com/Azure/azure-sdk-for-js/issues/29948)|costManagementClient.query.usage() returns wrong CAD unit instead of USD|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-07|
@@ -12,7 +12,7 @@
 |10|[#29469](https://github.com/Azure/azure-sdk-for-js/issues/29469)|SDK does not provide means of getting Next Page of Subscription Aliases|question, customer-reported, Mgmt, Service Attention, Subscription, needs-team-attention, no-recent-activity|kazrael2119, qiaozha||2024-04-26|
 |11|[#29328](https://github.com/Azure/azure-sdk-for-js/issues/29328)|[@azure/arm-machinelearning] Unable to create Job due to bad validation|question, customer-reported, Mgmt, Machine Learning, needs-team-attention|kazrael2119, qiaozha|new comment|2024-04-16|
 |12|[#29235](https://github.com/Azure/azure-sdk-for-js/issues/29235)|Event grid client requests returned 502 ProviderError|question, customer-reported, Mgmt, Service Attention, Event Grid, needs-team-attention|kazrael2119, qiaozha||2024-04-09|
-|13|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|qiaozha, kazrael2119, josefree||2024-03-01|
+|13|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|kazrael2119, qiaozha, josefree||2024-03-01|
 |14|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, Resource Health, test-manual-pass|MaryGao, kazrael2119||2023-11-29|
 |15|[#27136](https://github.com/Azure/azure-sdk-for-js/issues/27136)|[Feature Request] Add support for REST API's in `Azure API Connections` service.|question, customer-reported, Mgmt, App Services, Service Attention, Logic App, needs-team-attention|MaryGao, kazrael2119||2023-09-15|
 |16|[#27068](https://github.com/Azure/azure-sdk-for-js/issues/27068)|[@azure/arm-desktopvirtualization] Nullable Properties|question, customer-reported, Mgmt, Service Attention, ARM, needs-team-attention|kazrael2119, qiaozha|new comment|2023-09-11|
