@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5891](https://github.com/Azure/sdk-release-request/issues/5891) | linyudoa |  | jliusan | new issue. | 02-14 | 02-27 |  |
+| 1 | [#5891](https://github.com/Azure/sdk-release-request/issues/5891) | linyudoa |  | jliusan |  | 02-14 | 02-27 |  |
 | 2 | [#5886](https://github.com/Azure/sdk-release-request/issues/5886) | jeskew |  | jliusan | Attention to inconsistent tag. | 02-12 | 02-28 |  |
 | 3 | [#5882](https://github.com/Azure/sdk-release-request/issues/5882) | blueww |  | jliusan |  | 02-11 | 02-27 |  |
 | 4 | [#5877](https://github.com/Azure/sdk-release-request/issues/5877) | davidemontanari |  | jliusan | new issue. TypeSpec. | 02-06 | 02-28 |  |
