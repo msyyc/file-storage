@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5897](https://github.com/Azure/sdk-release-request/issues/5897) | ChenxiJiang333 | azure-mgmt-databoxedge | ChenxiJiang333 | Attention to inconsistent tag. MultiAPI | 02-19 | fail to get. |  |
+| 1 | [#5897](https://github.com/Azure/sdk-release-request/issues/5897) | ChenxiJiang333 | azure-mgmt-databoxedge | ChenxiJiang333 | Attention to inconsistent tag. | 02-19 | fail to get. |  |
 | 2 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 3 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 |  | 02-12 | 02-28 |  |
 | 4 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 02-06 | 02-28 |  |
