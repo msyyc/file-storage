@@ -7,9 +7,9 @@
 | 5 | [#5875](https://github.com/Azure/sdk-release-request/issues/5875) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. close to release date. | 02-05 | 02-17 | -2 |
 | 6 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 |  | 02-03 | 02-27 |  |
 | 7 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 01-31 | 02-28 |  |
-| 8 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 | new comment. | 01-30 | 02-28 |  |
+| 8 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 01-30 | 02-28 |  |
 | 9 | [#5856](https://github.com/Azure/sdk-release-request/issues/5856) | virginiaho-ms | azure-mgmt-applicationinsights | ChenxiJiang333 |  | 01-28 | 02-28 |  |
-| 10 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | new comment. close to release date. FirstBeta. HoldOn. TypeSpec. | 01-23 | 02-21 | 1 |
+| 10 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | new comment. close to release date. FirstBeta. TypeSpec. | 01-23 | 02-21 | 1 |
 | 11 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 | FirstBeta. TypeSpec. | 01-23 | 02-28 |  |
 | 12 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
 | 13 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
