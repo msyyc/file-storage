@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerregistry,azure-sdk,ChenxiJiang333,2024-12-09,2025-02-19,https://github.com/Azure/sdk-release-request/issues/5772,11.0.0,True
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-02-05,2025-02-19,https://github.com/Azure/sdk-release-request/issues/5875,34.1.0,True
 azure-mgmt-monitor,ChenxiJiang333,ChenxiJiang333,2025-02-05,2025-02-08,https://github.com/Azure/sdk-release-request/issues/5876,7.0.0b1,
 azure-mgmt-hardwaresecuritymodules,azure-sdk,ChenxiJiang333,2024-10-22,2025-02-06,https://github.com/Azure/sdk-release-request/issues/5627,1.0.0b2,
