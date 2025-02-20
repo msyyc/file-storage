@@ -5,7 +5,7 @@
 | 3 | [#5884](https://github.com/Azure/sdk-release-request/issues/5884) | blueww |  | qiaozha |  | 02-11 | 02-27 |  |
 | 4 | [#5879](https://github.com/Azure/sdk-release-request/issues/5879) | davidemontanari |  | MaryGao | FirstGA. TypeSpec. | 02-06 | 02-28 |  |
 | 5 | [#5874](https://github.com/Azure/sdk-release-request/issues/5874) | fumingzhang |  | MaryGao | new comment. | 02-05 | 02-27 |  |
-| 6 | [#5870](https://github.com/Azure/sdk-release-request/issues/5870) | SpencerOfwiti |  | MaryGao | new issue. | 02-03 | 02-27 |  |
+| 6 | [#5870](https://github.com/Azure/sdk-release-request/issues/5870) | SpencerOfwiti |  | MaryGao |  | 02-03 | 02-27 |  |
 | 7 | [#5865](https://github.com/Azure/sdk-release-request/issues/5865) | tejasm-microsoft |  | qiaozha |  | 01-31 | 02-28 |  |
 | 8 | [#5860](https://github.com/Azure/sdk-release-request/issues/5860) | audunn |  | qiaozha |  | 01-30 | 02-28 |  |
 | 9 | [#5855](https://github.com/Azure/sdk-release-request/issues/5855) | virginiaho-ms |  | qiaozha | HoldOn. | 01-28 | 02-28 |  |
