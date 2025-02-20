@@ -13,5 +13,5 @@
 | 11 | [#5829](https://github.com/Azure/sdk-release-request/issues/5829) | mbashtovayamicrosoft.com |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. | 01-15 | 02-28 |  |
 | 12 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | v-hongli1 | new comment. HoldOn. | 01-13 | 02-28 |  |
 | 13 | [#5812](https://github.com/Azure/sdk-release-request/issues/5812) | alexmahonic |  | v-hongli1 | HoldOn. | 01-10 | 01-24 |  |
-| 14 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft | new comment. close to release date. FirstBeta. TypeSpec. | 11-15 | 02-21 | 1 |
-| 15 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 02-21 | 1 |
+| 14 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft | new comment. close to release date. FirstBeta. TypeSpec. | 11-15 | 02-21 | 0 |
+| 15 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 02-21 | 0 |

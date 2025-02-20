@@ -8,10 +8,10 @@
 | 6 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 01-31 | 02-28 |  |
 | 7 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 01-30 | 02-28 |  |
 | 8 | [#5856](https://github.com/Azure/sdk-release-request/issues/5856) | virginiaho-ms | azure-mgmt-applicationinsights | ChenxiJiang333 |  | 01-28 | 02-28 |  |
-| 9 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 01-23 | 02-21 | 1 |
+| 9 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 01-23 | 02-21 | 0 |
 | 10 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 | FirstBeta. TypeSpec. | 01-23 | 02-28 |  |
 | 11 | [#5831](https://github.com/Azure/sdk-release-request/issues/5831) | mbashtovayamicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 01-15 | 02-28 |  |
 | 12 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
 | 13 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | TypeSpec. | 01-10 | 01-24 |  |
 | 14 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
-| 15 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 02-21 | 1 |
+| 15 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 02-21 | 0 |
