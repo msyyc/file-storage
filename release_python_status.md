@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
-| 2 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 |  | 02-12 | 02-28 |  |
+| 2 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew |  | ChenxiJiang333 |  | 02-12 |  | 0 |
 | 3 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 02-06 | 02-28 |  |
 | 4 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 |  | 02-03 | 02-27 |  |
 | 5 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 01-31 | 02-28 |  |
