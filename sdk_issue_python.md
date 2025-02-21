@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#39807](https://github.com/Azure/azure-sdk-for-python/issues/39807)|Data Deserialization Error When Polling Backend Health for Load Balancing Rules|bug, Network, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-02-20|
+|1|[#39807](https://github.com/Azure/azure-sdk-for-python/issues/39807)|Data Deserialization Error When Polling Backend Health for Load Balancing Rules|bug, Network, Mgmt, customer-reported, needs-team-attention|msyyc||2025-02-20|
 |2|[#39737](https://github.com/Azure/azure-sdk-for-python/issues/39737)|LogicManagementClient.workflow_runs.list(RESOURCE_GROUP, LOGIC_APP_NAME, filter=filter_query) filter being appended during subsequent requests|question, Logic App, Mgmt, customer-reported, needs-author-feedback|msyyc||2025-02-14|
 |3|[#39500](https://github.com/Azure/azure-sdk-for-python/issues/39500)|Response does not contain "minimumTlsVersion" parameter from Azure Front Door Classic.|question, Mgmt, customer-reported, Network - Front Door, needs-team-attention|msyyc||2025-01-31|
 |4|[#39297](https://github.com/Azure/azure-sdk-for-python/issues/39297)|azure-mgmt-core needs linting updates for pylint version 3.2.7|Mgmt, Azure.Core, pylint|msyyc|new issue|2025-01-19|
