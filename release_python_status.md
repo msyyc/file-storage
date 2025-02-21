@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5898](https://github.com/Azure/sdk-release-request/issues/5898) | ChenxiJiang333 | azure-mgmt-containerregistry | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 02-21 | fail to get. |  |
+| 1 | [#5898](https://github.com/Azure/sdk-release-request/issues/5898) | ChenxiJiang333 | azure-mgmt-containerregistry | ChenxiJiang333 |  | 02-21 | fail to get. |  |
 | 2 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 3 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 |  | 02-12 | 02-28 |  |
 | 4 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | TypeSpec. | 02-06 | 02-28 |  |
@@ -14,4 +14,4 @@
 | 12 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
 | 13 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | HoldOn. TypeSpec. | 01-10 | 02-28 |  |
 | 14 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
-| 15 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 02-21 | 0 |
+| 15 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 03-23 |  |
