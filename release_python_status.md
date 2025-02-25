@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5902](https://github.com/Azure/sdk-release-request/issues/5902) | cherrett | azure-mgmt-keyvault | ChenxiJiang333 | new issue. MultiAPI | 02-24 | 03-28 |  |
+| 1 | [#5902](https://github.com/Azure/sdk-release-request/issues/5902) | cherrett | azure-mgmt-keyvault | ChenxiJiang333 |  | 02-24 | 03-28 |  |
 | 2 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 3 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 | close to release date. | 02-12 | 02-28 | 2 |
 | 4 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | close to release date. TypeSpec. | 02-06 | 02-28 | 2 |
