@@ -18,5 +18,6 @@
 | 16 | Release for Storage - 2024-01-01  |  | [#5882](https://github.com/Azure/sdk-release-request/issues/5882)  | [#5883](https://github.com/Azure/sdk-release-request/issues/5883)  | [#5884](https://github.com/Azure/sdk-release-request/issues/5884)  | 02-11 | 02-27 | Hold on by Go/ |
 | 17 | Release for Container Service - 2024-10-01  |  | [#5872](https://github.com/Azure/sdk-release-request/issues/5872)  | [#5873](https://github.com/Azure/sdk-release-request/issues/5873)  | [#5874](https://github.com/Azure/sdk-release-request/issues/5874)  | 02-05 | 02-27 |  |
 | 18 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  | [#5839](https://github.com/Azure/sdk-release-request/issues/5839)  | [#5840](https://github.com/Azure/sdk-release-request/issues/5840)  | 01-23 | 02-28 | Hold on by JS/Java/ |
-| 19 | Relase Go SDK for new version 2024-10-01-preview for Microsoft.DBForMySQL  |  | [#5891](https://github.com/Azure/sdk-release-request/issues/5891)  |  |  | 02-14 | 02-27 |  |
-| 20 | Release for azure container registry - 2024-11-preview  |  |  |  | [#5771](https://github.com/Azure/sdk-release-request/issues/5771)  | 12-09 | 02-21 |  |
+| 19 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
+| 20 | Relase Go SDK for new version 2024-10-01-preview for Microsoft.DBForMySQL  |  | [#5891](https://github.com/Azure/sdk-release-request/issues/5891)  |  |  | 02-14 | 02-27 |  |
+| 21 | Release for azure container registry - 2024-11-preview  |  |  |  | [#5771](https://github.com/Azure/sdk-release-request/issues/5771)  | 12-09 | 02-21 |  |
