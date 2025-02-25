@@ -4,7 +4,7 @@
 | 2 | [#5892](https://github.com/Azure/sdk-release-request/issues/5892) | a-hamad |  | jliusan | new issue. | 02-18 | 03-28 |  |
 | 3 | [#5891](https://github.com/Azure/sdk-release-request/issues/5891) | linyudoa |  | jliusan | close to release date. | 02-14 | 02-27 | 1 |
 | 4 | [#5886](https://github.com/Azure/sdk-release-request/issues/5886) | jeskew |  | jliusan | close to release date. Attention to inconsistent tag. | 02-12 | 02-28 | 2 |
-| 5 | [#5882](https://github.com/Azure/sdk-release-request/issues/5882) | blueww |  | jliusan | close to release date. | 02-11 | 02-27 | 1 |
+| 5 | [#5882](https://github.com/Azure/sdk-release-request/issues/5882) | blueww |  | jliusan | new comment. close to release date. HoldOn. | 02-11 | 02-27 | 1 |
 | 6 | [#5872](https://github.com/Azure/sdk-release-request/issues/5872) | fumingzhang |  | jliusan | close to release date. | 02-05 | 02-27 | 1 |
 | 7 | [#5868](https://github.com/Azure/sdk-release-request/issues/5868) | SpencerOfwiti |  | jliusan | new comment. close to release date. | 02-03 | 02-27 | 1 |
 | 8 | [#5863](https://github.com/Azure/sdk-release-request/issues/5863) | tejasm-microsoft |  | jliusan | close to release date. HoldOn. | 01-31 | 02-28 | 2 |
