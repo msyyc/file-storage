@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-networkcloud,azure-sdk,ChenxiJiang333,2025-01-15,2025-02-26,https://github.com/Azure/sdk-release-request/issues/5831,2.0.0,True
+azure-mgmt-resource,azure-sdk,ChenxiJiang333,2025-02-12,2025-02-26,https://github.com/Azure/sdk-release-request/issues/5889,23.3.0,True
 azure-mgmt-containerregistry,ChenxiJiang333,ChenxiJiang333,2025-02-21,2025-02-24,https://github.com/Azure/sdk-release-request/issues/5898,12.0.0,True
 azure-mgmt-databoxedge,ChenxiJiang333,ChenxiJiang333,2025-02-19,2025-02-20,https://github.com/Azure/sdk-release-request/issues/5897,2.0.0,True
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2025-02-11,2025-02-19,https://github.com/Azure/sdk-release-request/issues/5885,22.1.0,True
