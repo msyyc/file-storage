@@ -4,7 +4,7 @@
 | 2 | [#5902](https://github.com/Azure/sdk-release-request/issues/5902) | cherrett | azure-mgmt-keyvault | ChenxiJiang333 |  | 02-24 | 03-28 |  |
 | 3 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 4 | [#5889](https://github.com/Azure/sdk-release-request/issues/5889) | jeskew | azure-mgmt-resource | ChenxiJiang333 | close to release date. | 02-12 | 02-28 | 1 |
-| 5 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | close to release date. TypeSpec. | 02-06 | 02-28 | 1 |
+| 5 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 02-06 | 02-28 | 1 |
 | 6 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 | close to release date. | 02-03 | 02-27 | 0 |
 | 7 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | close to release date. | 01-31 | 02-28 | 1 |
 | 8 | [#5861](https://github.com/Azure/sdk-release-request/issues/5861) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 01-30 | 02-28 | 1 |
