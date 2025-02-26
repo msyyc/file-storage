@@ -4,8 +4,6 @@
 | 2 | [#5902](https://github.com/Azure/sdk-release-request/issues/5902) | cherrett | azure-mgmt-keyvault | ChenxiJiang333 |  | 02-24 | 03-28 |  |
 | 3 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 4 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 02-06 | 02-28 | 1 |
-| 5 | [#5871](https://github.com/Azure/sdk-release-request/issues/5871) | SpencerOfwiti | azure-mgmt-nginx | ChenxiJiang333 | close to release date. | 02-03 | 02-27 | 0 |
-| 6 | [#5866](https://github.com/Azure/sdk-release-request/issues/5866) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | close to release date. | 01-31 | 02-28 | 1 |
 | 7 | [#5856](https://github.com/Azure/sdk-release-request/issues/5856) | virginiaho-ms | azure-mgmt-applicationinsights | ChenxiJiang333 | close to release date. HoldOn. | 01-28 | 02-28 | 1 |
 | 8 | [#5846](https://github.com/Azure/sdk-release-request/issues/5846) | adityareddy305 | azure-mgmt-impactreporting | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 01-23 | 02-21 |  |
 | 9 | [#5836](https://github.com/Azure/sdk-release-request/issues/5836) | Renyx1219 | azure-mgmt-databasewatcher | ChenxiJiang333 | new comment. close to release date. FirstBeta. TypeSpec. | 01-23 | 02-28 | 1 |
