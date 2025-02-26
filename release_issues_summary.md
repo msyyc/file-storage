@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release for Azure Migrate Assessment 2023-03-15(Beta)  | [#5909](https://github.com/Azure/sdk-release-request/issues/5909)  | [#5906](https://github.com/Azure/sdk-release-request/issues/5906)  | [#5907](https://github.com/Azure/sdk-release-request/issues/5907)  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
+| 1 | Release for Azure Migrate Assessment 2023-03-15(Beta)  | [#5909](https://github.com/Azure/sdk-release-request/issues/5909)  | [#5906](https://github.com/Azure/sdk-release-request/issues/5906)  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
 | 2 | Release for Azure Key Vault / Azure Managed HSM 2024-11-01  | [#5902](https://github.com/Azure/sdk-release-request/issues/5902)  | [#5899](https://github.com/Azure/sdk-release-request/issues/5899)  | [#5900](https://github.com/Azure/sdk-release-request/issues/5900)  | [#5901](https://github.com/Azure/sdk-release-request/issues/5901)  | 02-24 | 03-28 |  |
 | 3 | Release for Event Grid Resource Provider - 2025-02-15  | [#5895](https://github.com/Azure/sdk-release-request/issues/5895)  | [#5892](https://github.com/Azure/sdk-release-request/issues/5892)  | [#5893](https://github.com/Azure/sdk-release-request/issues/5893)  | [#5894](https://github.com/Azure/sdk-release-request/issues/5894)  | 02-18 | 03-28 |  |
 | 4 | Release for Microsoft.DeviceRegistry - 2024-11-01  | [#5880](https://github.com/Azure/sdk-release-request/issues/5880)  |  |  | [#5879](https://github.com/Azure/sdk-release-request/issues/5879)  | 02-06 | 02-28 |  |
@@ -16,7 +16,7 @@
 | 14 | Release for Container Service - 2024-10-01  |  |  | [#5873](https://github.com/Azure/sdk-release-request/issues/5873)  | [#5874](https://github.com/Azure/sdk-release-request/issues/5874)  | 02-05 | 02-27 |  |
 | 15 | Release for Nginx - 2024-11-01-preview  |  | [#5868](https://github.com/Azure/sdk-release-request/issues/5868)  | [#5869](https://github.com/Azure/sdk-release-request/issues/5869)  | [#5870](https://github.com/Azure/sdk-release-request/issues/5870)  | 02-03 | 02-27 |  |
 | 16 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
-| 17 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  | [#5840](https://github.com/Azure/sdk-release-request/issues/5840)  | 01-23 | 02-28 | Hold on by JS/ |
+| 17 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  |  | 01-23 | 02-28 |  |
 | 18 | Release for Quota 2025-03-01 stable  |  |  |  | [#5865](https://github.com/Azure/sdk-release-request/issues/5865)  | 01-31 | 02-28 |  |
 | 19 | Release for NetAppFiles - 2024-09-01  |  |  |  | [#5860](https://github.com/Azure/sdk-release-request/issues/5860)  | 01-30 | 02-28 |  |
 | 20 | Release for NetworkCloud 2024-07-01  |  |  |  | [#5830](https://github.com/Azure/sdk-release-request/issues/5830)  | 01-15 | 02-28 |  |

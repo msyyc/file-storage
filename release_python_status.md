@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5909](https://github.com/Azure/sdk-release-request/issues/5909) | srilipta-swain |  | ChenxiJiang333 |  | 02-25 |  | 0 |
+| 1 | [#5909](https://github.com/Azure/sdk-release-request/issues/5909) | srilipta-swain | azure-mgmt-migrationassessment | ChenxiJiang333 |  | 02-25 | 03-27 |  |
 | 2 | [#5902](https://github.com/Azure/sdk-release-request/issues/5902) | cherrett | azure-mgmt-keyvault | ChenxiJiang333 |  | 02-24 | 03-28 |  |
 | 3 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 4 | [#5880](https://github.com/Azure/sdk-release-request/issues/5880) | davidemontanari | azure-mgmt-deviceregistry | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 02-06 | 02-28 | 1 |
