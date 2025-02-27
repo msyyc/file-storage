@@ -5,7 +5,7 @@
 | 3 | [#5901](https://github.com/Azure/sdk-release-request/issues/5901) | cherrett |  | qiaozha | new issue. | 02-24 | 03-28 |  |
 | 4 | [#5894](https://github.com/Azure/sdk-release-request/issues/5894) | a-hamad |  | MaryGao | new issue. | 02-18 | 03-28 |  |
 | 5 | [#5888](https://github.com/Azure/sdk-release-request/issues/5888) | jeskew |  | qiaozha | close to release date. Attention to inconsistent tag. | 02-12 | 02-28 | 0 |
-| 6 | [#5884](https://github.com/Azure/sdk-release-request/issues/5884) | blueww |  | qiaozha | new comment. close to release date. | 02-11 | 02-27 | 0 |
+| 6 | [#5884](https://github.com/Azure/sdk-release-request/issues/5884) | blueww |  | qiaozha | close to release date. | 02-11 | 02-27 | 0 |
 | 7 | [#5879](https://github.com/Azure/sdk-release-request/issues/5879) | davidemontanari |  | MaryGao | close to release date. FirstGA. TypeSpec. | 02-06 | 02-28 | 0 |
 | 8 | [#5874](https://github.com/Azure/sdk-release-request/issues/5874) | fumingzhang |  | MaryGao | new comment. close to release date. | 02-05 | 02-27 | 0 |
 | 9 | [#5870](https://github.com/Azure/sdk-release-request/issues/5870) | SpencerOfwiti |  | MaryGao | close to release date. | 02-03 | 02-27 | 0 |
