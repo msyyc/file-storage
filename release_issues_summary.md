@@ -13,9 +13,9 @@
 | 11 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 03-23 | Hold on by JS/Java/Go/Python/ |
 | 12 | Release for Azure Resources - 2024-11-01  |  |  | [#5887](https://github.com/Azure/sdk-release-request/issues/5887)  | [#5888](https://github.com/Azure/sdk-release-request/issues/5888)  | 02-12 | 02-28 |  |
 | 13 | Release for Container Service - 2024-10-01  |  |  | [#5873](https://github.com/Azure/sdk-release-request/issues/5873)  | [#5874](https://github.com/Azure/sdk-release-request/issues/5874)  | 02-05 | 02-27 |  |
-| 14 | Release for Nginx - 2024-11-01-preview  |  |  | [#5869](https://github.com/Azure/sdk-release-request/issues/5869)  | [#5870](https://github.com/Azure/sdk-release-request/issues/5870)  | 02-03 | 02-27 |  |
-| 15 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
-| 16 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  |  | 01-23 | 02-28 |  |
+| 14 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
+| 15 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  |  | 01-23 | 02-28 |  |
+| 16 | Release for Nginx - 2024-11-01-preview  |  |  |  | [#5870](https://github.com/Azure/sdk-release-request/issues/5870)  | 02-03 | 02-27 |  |
 | 17 | Release for Quota 2025-03-01 stable  |  |  |  | [#5865](https://github.com/Azure/sdk-release-request/issues/5865)  | 01-31 | 02-28 |  |
 | 18 | Release for NetAppFiles - 2024-09-01  |  |  |  | [#5860](https://github.com/Azure/sdk-release-request/issues/5860)  | 01-30 | 02-28 |  |
 | 19 | Release sdk for impactrtreporting release plan 1416  |  |  |  | [#5845](https://github.com/Azure/sdk-release-request/issues/5845)  | 01-23 | 02-21 |  |
