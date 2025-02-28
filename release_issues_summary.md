@@ -11,10 +11,7 @@
 | 9 | Release for Hybrid Connectivity - Public Preview  | [#5814](https://github.com/Azure/sdk-release-request/issues/5814)  |  |  | [#5813](https://github.com/Azure/sdk-release-request/issues/5813)  | 01-10 | 02-28 | Hold on by JS/Python/ |
 | 10 | Beta Release for Durable Task Scheduler November 2024  | [#5725](https://github.com/Azure/sdk-release-request/issues/5725)  | [#5722](https://github.com/Azure/sdk-release-request/issues/5722)  | [#5723](https://github.com/Azure/sdk-release-request/issues/5723)  | [#5724](https://github.com/Azure/sdk-release-request/issues/5724)  | 11-15 | 03-23 | Hold on by Go/ |
 | 11 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 03-23 | Hold on by JS/Java/Go/Python/ |
-| 12 | Release for Azure Resources - 2024-11-01  |  |  | [#5887](https://github.com/Azure/sdk-release-request/issues/5887)  | [#5888](https://github.com/Azure/sdk-release-request/issues/5888)  | 02-12 | 02-28 |  |
+| 12 | Release for Azure Resources - 2024-11-01  |  |  | [#5887](https://github.com/Azure/sdk-release-request/issues/5887)  |  | 02-12 | 02-28 |  |
 | 13 | Release for Container Service - 2024-10-01  |  |  | [#5873](https://github.com/Azure/sdk-release-request/issues/5873)  |  | 02-05 | 02-27 |  |
 | 14 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
 | 15 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  |  | 01-23 | 02-28 |  |
-| 16 | Release for Quota 2025-03-01 stable  |  |  |  | [#5865](https://github.com/Azure/sdk-release-request/issues/5865)  | 01-31 | 02-28 |  |
-| 17 | Release for NetAppFiles - 2024-09-01  |  |  |  | [#5860](https://github.com/Azure/sdk-release-request/issues/5860)  | 01-30 | 02-28 |  |
-| 18 | Release for NetworkCloud 2024-07-01  |  |  |  | [#5830](https://github.com/Azure/sdk-release-request/issues/5830)  | 01-15 | 02-28 |  |
