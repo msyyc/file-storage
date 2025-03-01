@@ -1,4 +1,7 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-databasewatcher,azure-sdk,ChenxiJiang333,2025-01-23,2025-03-01,https://github.com/Azure/sdk-release-request/issues/5836,1.0.0b1,
+azure-mgmt-deviceregistry,azure-sdk,ChenxiJiang333,2025-02-06,2025-03-01,https://github.com/Azure/sdk-release-request/issues/5880,1.0.0,True
+azure-mgmt-migrationassessment,azure-sdk,ChenxiJiang333,2025-02-25,2025-03-01,https://github.com/Azure/sdk-release-request/issues/5909,1.0.0b1,
 azure-mgmt-impactreporting,azure-sdk,ChenxiJiang333,2025-01-23,2025-02-27,https://github.com/Azure/sdk-release-request/issues/5846,1.0.0b1,
 azure-mgmt-quota,azure-sdk,ChenxiJiang333,2025-01-31,2025-02-26,https://github.com/Azure/sdk-release-request/issues/5866,2.0.0,True
 azure-mgmt-nginx,azure-sdk,ChenxiJiang333,2025-02-03,2025-02-26,https://github.com/Azure/sdk-release-request/issues/5871,3.1.0b2,
