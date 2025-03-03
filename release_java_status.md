@@ -4,6 +4,6 @@
 | 2 | [#5900](https://github.com/Azure/sdk-release-request/issues/5900) | cherrett |  | v-hongli1 | new issue. | 02-24 | 03-28 |  |
 | 3 | [#5893](https://github.com/Azure/sdk-release-request/issues/5893) | a-hamad |  | v-hongli1 | new issue. | 02-18 | 03-28 |  |
 | 4 | [#5883](https://github.com/Azure/sdk-release-request/issues/5883) | blueww |  | v-hongli1 | new issue. new comment. | 02-11 | 02-27 |  |
-| 5 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | v-hongli1 | close to release date. HoldOn. | 01-13 | 02-28 | -2 |
+| 5 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | v-hongli1 | HoldOn. | 01-13 | 02-28 |  |
 | 6 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
 | 7 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 03-23 |  |
