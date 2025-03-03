@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi |  | ChenxiJiang333 |  | 02-28 |  | 0 |
+| 1 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
 | 2 | [#5902](https://github.com/Azure/sdk-release-request/issues/5902) | cherrett | azure-mgmt-keyvault | ChenxiJiang333 |  | 02-24 | 03-28 |  |
 | 3 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 4 | [#5856](https://github.com/Azure/sdk-release-request/issues/5856) | virginiaho-ms | azure-mgmt-applicationinsights | ChenxiJiang333 | HoldOn. | 01-28 | 02-28 |  |
