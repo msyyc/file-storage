@@ -20,7 +20,9 @@
     "azure-mgmt-computeschedule",
     "azure-mgmt-servicenetworking",
     "azure-mgmt-databasewatcher",
-    "azure-mgmt-impactreporting"
+    "azure-mgmt-impactreporting",
+    "azure-mgmt-durabletask",
+    "azure-mgmt-agricultureplatform"
   ],
   "js": [],
   "go": [],
