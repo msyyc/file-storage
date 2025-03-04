@@ -10,4 +10,3 @@
 | 8 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 03-23 | Hold on by JS/Java/Go/Python/ |
 | 9 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  | [#5906](https://github.com/Azure/sdk-release-request/issues/5906)  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
 | 10 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
-| 11 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  |  | 01-23 | 02-28 |  |
