@@ -11,4 +11,3 @@
 | 9 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  | [#5906](https://github.com/Azure/sdk-release-request/issues/5906)  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
 | 10 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
 | 11 | Release for VTAP 2025-01-22  |  | [#5838](https://github.com/Azure/sdk-release-request/issues/5838)  |  |  | 01-23 | 02-28 |  |
-| 12 | Release for Storage - 2024-01-01  |  |  |  | [#5884](https://github.com/Azure/sdk-release-request/issues/5884)  | 02-11 | 02-27 |  |
