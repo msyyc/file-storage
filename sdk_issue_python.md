@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#39947](https://github.com/Azure/azure-sdk-for-python/issues/39947)|Not able to create azure net app volume of size 50GiB using azure python function|bug, Mgmt, customer-reported, Functions, needs-team-attention|msyyc|new issue|2025-03-05|
+|1|[#39947](https://github.com/Azure/azure-sdk-for-python/issues/39947)|Not able to create azure net app volume of size 50GiB using azure python function|bug, Mgmt, customer-reported, Functions, needs-team-attention|msyyc||2025-03-05|
 |2|[#39933](https://github.com/Azure/azure-sdk-for-python/issues/39933)|Unable to list billing accounts using the Azure SDK for python|bug, Billing, Mgmt, customer-reported, needs-team-attention|msyyc||2025-03-04|
 |3|[#39737](https://github.com/Azure/azure-sdk-for-python/issues/39737)|LogicManagementClient.workflow_runs.list(RESOURCE_GROUP, LOGIC_APP_NAME, filter=filter_query) filter being appended during subsequent requests|question, Logic App, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2025-02-14|
 |4|[#39297](https://github.com/Azure/azure-sdk-for-python/issues/39297)|azure-mgmt-core needs linting updates for pylint version 3.2.7|Mgmt, Azure.Core, pylint|msyyc|new issue|2025-01-19|
@@ -17,4 +17,4 @@
 |15|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |16|[#34096](https://github.com/Azure/azure-sdk-for-python/issues/34096)|"Operation returned an invalid status: Not Acceptable" issue raised while using generatedetailedCost report from azure.mgmt.costmanagement SDK|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|msyyc|new comment|2024-02-01|
 |17|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
+|18|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
