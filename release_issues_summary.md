@@ -9,5 +9,5 @@
 | 7 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 03-23 | Hold on by JS/Java/Go/Python/ |
 | 8 | 'Update Release for PostgreSQL flexible servers GA API version 2024-08-01'  |  | [#5916](https://github.com/Azure/sdk-release-request/issues/5916)  |  |  | 03-06 | 03-10 |  |
 | 9 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
-| 10 | Release for componentProactiveDetection_API casing update  |  | [#5853](https://github.com/Azure/sdk-release-request/issues/5853)  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 | Hold on by JS/ |
-| 11 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  |  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
+| 10 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  |  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
+| 11 | Release for componentProactiveDetection_API casing update  |  |  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 | Hold on by JS/ |
