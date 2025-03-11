@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5933](https://github.com/Azure/sdk-release-request/issues/5933) | aggarwalsw |  | v-hongli1 | new issue. | 03-11 | 03-27 |  |
-| 2 | [#5928](https://github.com/Azure/sdk-release-request/issues/5928) | aggarwalsw |  | weidongxu-microsoft |  | 03-11 | 03-27 |  |
+| 2 | [#5928](https://github.com/Azure/sdk-release-request/issues/5928) | aggarwalsw |  | weidongxu-microsoft | new comment. | 03-11 | 03-27 |  |
 | 3 | [#5923](https://github.com/Azure/sdk-release-request/issues/5923) | grizzlytheodore |  | v-hongli1 | new issue. | 03-10 | 03-28 |  |
 | 4 | [#5918](https://github.com/Azure/sdk-release-request/issues/5918) | GovardhanaDK |  | XiaofeiCao | new issue. | 03-07 | 03-27 |  |
 | 5 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
