@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5937](https://github.com/Azure/sdk-release-request/issues/5937) | debalinaroy | azure-mgmt-sql | ChenxiJiang333 | new issue. | 03-12 | 03-27 |  |
+| 1 | [#5937](https://github.com/Azure/sdk-release-request/issues/5937) | debalinaroy | azure-mgmt-sql | ChenxiJiang333 |  | 03-12 | 03-27 |  |
 | 2 | [#5935](https://github.com/Azure/sdk-release-request/issues/5935) | aggarwalsw | azure-mgmt-arizeaiobservabilityeval | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
 | 3 | [#5930](https://github.com/Azure/sdk-release-request/issues/5930) | aggarwalsw | azure-mgmt-weightsandbiases | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
 | 4 | [#5925](https://github.com/Azure/sdk-release-request/issues/5925) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 03-10 | 03-28 |  |
