@@ -10,5 +10,6 @@
 | 8 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 9 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
 | 10 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | HoldOn. TypeSpec. | 01-10 | 02-28 |  |
-| 11 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
-| 12 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 03-23 |  |
+| 11 | [#5777](https://github.com/Azure/sdk-release-request/issues/5777) | aggarwalsw | azure-mgmt-pineconevectordb | ChenxiJiang333 | new comment. TypeSpec. | 12-11 | 03-24 |  |
+| 12 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
+| 13 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 03-23 |  |
