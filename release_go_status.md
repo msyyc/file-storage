@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5932](https://github.com/Azure/sdk-release-request/issues/5932) | aggarwalsw |  | jliusan | new issue. | 03-11 | 03-27 |  |
 | 2 | [#5927](https://github.com/Azure/sdk-release-request/issues/5927) | aggarwalsw |  | jliusan | new issue. | 03-11 | 03-27 |  |
-| 3 | [#5922](https://github.com/Azure/sdk-release-request/issues/5922) | grizzlytheodore |  | jliusan | new issue. | 03-10 | 03-28 |  |
+| 3 | [#5922](https://github.com/Azure/sdk-release-request/issues/5922) | grizzlytheodore |  | jliusan |  | 03-10 | 03-28 |  |
 | 4 | [#5917](https://github.com/Azure/sdk-release-request/issues/5917) | GovardhanaDK |  | jliusan |  | 03-07 | 03-27 |  |
 | 5 | [#5916](https://github.com/Azure/sdk-release-request/issues/5916) | nasc17 |  | jliusan | close to release date. Attention to inconsistent tag. | 03-06 | 03-10 | -2 |
 | 6 | [#5911](https://github.com/Azure/sdk-release-request/issues/5911) | SiddarthaCherukumudi |  | jliusan | FirstBeta. | 02-28 | 03-27 |  |
