@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-keyvault,azure-sdk,ChenxiJiang333,2025-02-24,2025-03-13,https://github.com/Azure/sdk-release-request/issues/5902,11.0.0,True
 azure-mgmt-applicationinsights,azure-sdk,ChenxiJiang333,2025-01-28,2025-03-06,https://github.com/Azure/sdk-release-request/issues/5856,4.1.0,True
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2025-02-11,2025-03-01,https://github.com/Azure/sdk-release-request/issues/5885,22.1.1,True
 azure-mgmt-databasewatcher,azure-sdk,ChenxiJiang333,2025-01-23,2025-03-01,https://github.com/Azure/sdk-release-request/issues/5836,1.0.0b1,
