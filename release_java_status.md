@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5939](https://github.com/Azure/sdk-release-request/issues/5939) | fumingzhang |  | XiaofeiCao | Attention to inconsistent tag. | 03-13 | 03-27 |  |
+| 1 | [#5939](https://github.com/Azure/sdk-release-request/issues/5939) | fumingzhang |  | XiaofeiCao | new comment. Attention to inconsistent tag. | 03-13 | 03-27 |  |
 | 2 | [#5933](https://github.com/Azure/sdk-release-request/issues/5933) | aggarwalsw |  | v-hongli1 | new issue. | 03-11 | 03-27 |  |
 | 3 | [#5928](https://github.com/Azure/sdk-release-request/issues/5928) | aggarwalsw |  | weidongxu-microsoft | new comment. | 03-11 | 03-27 |  |
 | 4 | [#5923](https://github.com/Azure/sdk-release-request/issues/5923) | grizzlytheodore |  | v-hongli1 | new issue. | 03-10 | 03-28 |  |
@@ -9,6 +9,5 @@
 | 7 | [#5900](https://github.com/Azure/sdk-release-request/issues/5900) | cherrett |  | v-hongli1 | new issue. | 02-24 | 03-28 |  |
 | 8 | [#5893](https://github.com/Azure/sdk-release-request/issues/5893) | a-hamad |  | v-hongli1 | new issue. | 02-18 | 03-28 |  |
 | 9 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | v-hongli1 | HoldOn. | 01-13 | 02-28 |  |
-| 10 | [#5775](https://github.com/Azure/sdk-release-request/issues/5775) | aggarwalsw |  | weidongxu-microsoft | new comment. TypeSpec. | 12-11 | 03-24 |  |
-| 11 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
-| 12 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 03-23 |  |
+| 10 | [#5723](https://github.com/Azure/sdk-release-request/issues/5723) | berndverst |  | weidongxu-microsoft | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
+| 11 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 03-23 |  |
