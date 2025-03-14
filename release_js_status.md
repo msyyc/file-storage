@@ -7,7 +7,7 @@
 | 5 | [#5919](https://github.com/Azure/sdk-release-request/issues/5919) | GovardhanaDK |  | MaryGao | new issue. | 03-07 | 03-27 |  |
 | 6 | [#5913](https://github.com/Azure/sdk-release-request/issues/5913) | SiddarthaCherukumudi |  | qiaozha | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
 | 7 | [#5908](https://github.com/Azure/sdk-release-request/issues/5908) | srilipta-swain |  | qiaozha | multi readme link! | 02-25 | 03-27 |  |
-| 8 | [#5905](https://github.com/Azure/sdk-release-request/issues/5905) | fumingzhang |  | qiaozha | Attention to inconsistent tag. | 02-25 | 03-27 |  |
+| 8 | [#5905](https://github.com/Azure/sdk-release-request/issues/5905) | fumingzhang |  | qiaozha | new comment. Attention to inconsistent tag. | 02-25 | 03-27 |  |
 | 9 | [#5901](https://github.com/Azure/sdk-release-request/issues/5901) | cherrett |  | qiaozha |  | 02-24 | 03-28 |  |
 | 10 | [#5894](https://github.com/Azure/sdk-release-request/issues/5894) | a-hamad |  | MaryGao |  | 02-18 | 03-28 |  |
 | 11 | [#5855](https://github.com/Azure/sdk-release-request/issues/5855) | virginiaho-ms |  | qiaozha | HoldOn. | 01-28 | 02-28 |  |
