@@ -7,7 +7,6 @@
 | 5 | [#5935](https://github.com/Azure/sdk-release-request/issues/5935) | aggarwalsw | azure-mgmt-arizeaiobservabilityeval | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
 | 6 | [#5930](https://github.com/Azure/sdk-release-request/issues/5930) | aggarwalsw | azure-mgmt-weightsandbiases | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
 | 7 | [#5925](https://github.com/Azure/sdk-release-request/issues/5925) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 03-10 | 03-28 |  |
-| 8 | [#5920](https://github.com/Azure/sdk-release-request/issues/5920) | GovardhanaDK | azure-mgmt-databox | ChenxiJiang333 |  | 03-07 | 03-27 |  |
 | 9 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
 | 10 | [#5895](https://github.com/Azure/sdk-release-request/issues/5895) | a-hamad | azure-mgmt-eventgrid | ChenxiJiang333 |  | 02-18 | 03-28 |  |
 | 11 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 01-13 | 02-28 |  |
