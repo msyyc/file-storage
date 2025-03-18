@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#44667](https://github.com/Azure/azure-sdk-for-java/issues/44667)|404 Resource Not Found when creating express route cross connection private peering.|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2025-03-17|
+|1|[#44667](https://github.com/Azure/azure-sdk-for-java/issues/44667)|404 Resource Not Found when creating express route cross connection private peering.|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2025-03-17|
 |2|[#44452](https://github.com/Azure/azure-sdk-for-java/issues/44452)|[QUERY] PrivateDnsZonePropertiesFormat recordSets setter or readonly?|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-02-28|
 |3|[#44264](https://github.com/Azure/azure-sdk-for-java/issues/44264)|[FEATURE REQ] azure-core-v2 for mgmt SDK|ARM, Mgmt, ARM - Core, Azure.Core.V2|XiaofeiCao||2025-02-19|
 |4|[#44030](https://github.com/Azure/azure-sdk-for-java/issues/44030)|[FEATURE REQ] mgmt sync stack, sync policies in azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-02-05|
