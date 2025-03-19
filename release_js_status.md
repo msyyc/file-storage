@@ -14,7 +14,7 @@
 | 12 | [#5901](https://github.com/Azure/sdk-release-request/issues/5901) | cherrett |  | qiaozha |  | 02-24 | 03-28 |  |
 | 13 | [#5894](https://github.com/Azure/sdk-release-request/issues/5894) | a-hamad |  | MaryGao |  | 02-18 | 03-28 |  |
 | 14 | [#5855](https://github.com/Azure/sdk-release-request/issues/5855) | virginiaho-ms |  | qiaozha | HoldOn. | 01-28 | 02-28 |  |
-| 15 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | HoldOn. | 01-13 | 02-28 |  |
+| 15 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | new comment. HoldOn. | 01-13 | 02-28 |  |
 | 16 | [#5813](https://github.com/Azure/sdk-release-request/issues/5813) | alexmahonic |  | MaryGao | HoldOn. | 01-10 | 02-28 |  |
 | 17 | [#5776](https://github.com/Azure/sdk-release-request/issues/5776) | aggarwalsw |  | MaryGao | new comment. TypeSpec. | 12-11 | 03-24 |  |
 | 18 | [#5724](https://github.com/Azure/sdk-release-request/issues/5724) | berndverst |  | MaryGao | new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
