@@ -22,4 +22,4 @@
 | 20 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
 | 21 | Azure Compute ComputeRP 2025-02-01  |  |  |  | [#5924](https://github.com/Azure/sdk-release-request/issues/5924)  | 03-10 | 03-28 |  |
 | 22 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  |  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
-| 23 | Release for componentProactiveDetection_API casing update  |  |  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 | Hold on by JS/ |
+| 23 | Release for componentProactiveDetection_API casing update  |  |  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 |  |
