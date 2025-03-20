@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#40094](https://github.com/Azure/azure-sdk-for-python/issues/40094)|ApplicationInsightsManagementClient.web_test.create_or_update: "System.NullReferenceException"|bug, Mgmt, customer-reported, Monitor - ApplicationInsights, needs-team-attention|msyyc||2025-03-17|
-|2|[#39947](https://github.com/Azure/azure-sdk-for-python/issues/39947)|Not able to create azure net app volume of size 50GiB using azure python function|bug, Mgmt, customer-reported, Functions, needs-author-feedback|msyyc||2025-03-05|
+|2|[#39947](https://github.com/Azure/azure-sdk-for-python/issues/39947)|Not able to create azure net app volume of size 50GiB using azure python function|bug, Mgmt, customer-reported, Functions, no-recent-activity, needs-author-feedback|msyyc||2025-03-05|
 |3|[#39297](https://github.com/Azure/azure-sdk-for-python/issues/39297)|azure-mgmt-core needs linting updates for pylint version 3.2.7|Mgmt, Azure.Core, pylint|msyyc|new issue|2025-01-19|
 |4|[#38816](https://github.com/Azure/azure-sdk-for-python/issues/38816)|Release new API version of Microsoft.Resources|feature-request, Mgmt, Resources|msyyc|no reply > 7|2024-12-10|
 |5|[#38738](https://github.com/Azure/azure-sdk-for-python/issues/38738)|Metrictype -- appallingly incomplete documentation|Docs, question, Mgmt, customer-reported, needs-team-attention, Consumption|msyyc|new comment|2024-12-02|
@@ -16,4 +16,4 @@
 |14|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |15|[#34096](https://github.com/Azure/azure-sdk-for-python/issues/34096)|"Operation returned an invalid status: Not Acceptable" issue raised while using generatedetailedCost report from azure.mgmt.costmanagement SDK|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Cost Management - Query|msyyc|new comment|2024-02-01|
 |16|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|17|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|17|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
