@@ -4,7 +4,7 @@
 | 2 | [#5949](https://github.com/Azure/sdk-release-request/issues/5949) | nehakulkarni123 |  | weidongxu-microsoft | Attention to inconsistent tag. | 03-18 | 03-28 |  |
 | 3 | [#5944](https://github.com/Azure/sdk-release-request/issues/5944) | JalenMcG |  | weidongxu-microsoft | Attention to inconsistent tag. | 03-14 | 03-28 |  |
 | 4 | [#5939](https://github.com/Azure/sdk-release-request/issues/5939) | fumingzhang |  | v-hongli1 | new comment. | 03-13 | 03-27 |  |
-| 5 | [#5933](https://github.com/Azure/sdk-release-request/issues/5933) | aggarwalsw |  | v-hongli1 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
+| 5 | [#5933](https://github.com/Azure/sdk-release-request/issues/5933) | aggarwalsw |  | v-hongli1 | FirstBeta. HoldOn. TypeSpec. | 03-11 | 03-27 |  |
 | 6 | [#5928](https://github.com/Azure/sdk-release-request/issues/5928) | aggarwalsw |  | weidongxu-microsoft | new comment. FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
 | 7 | [#5923](https://github.com/Azure/sdk-release-request/issues/5923) | grizzlytheodore |  | v-hongli1 | new issue. | 03-10 | 03-28 |  |
 | 8 | [#5918](https://github.com/Azure/sdk-release-request/issues/5918) | GovardhanaDK |  | XiaofeiCao | new issue. | 03-07 | 03-27 |  |
