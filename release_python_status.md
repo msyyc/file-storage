@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#5956](https://github.com/Azure/sdk-release-request/issues/5956) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 03-18 | 04-24 |  |
-| 2 | [#5951](https://github.com/Azure/sdk-release-request/issues/5951) | nehakulkarni123 | azure-mgmt-resource | ChenxiJiang333 | new comment. | 03-18 | 03-28 |  |
+| 2 | [#5951](https://github.com/Azure/sdk-release-request/issues/5951) | nehakulkarni123 | azure-mgmt-resource | ChenxiJiang333 | new version is 0.0.0, please check base branch! | 03-18 | 03-28 |  |
 | 3 | [#5946](https://github.com/Azure/sdk-release-request/issues/5946) | JalenMcG | azure-mgmt-hybridkubernetes | ChenxiJiang333 |  | 03-14 | 03-28 |  |
 | 4 | [#5937](https://github.com/Azure/sdk-release-request/issues/5937) | debalinaroy | azure-mgmt-sql | ChenxiJiang333 |  | 03-12 | 03-27 |  |
 | 5 | [#5935](https://github.com/Azure/sdk-release-request/issues/5935) | aggarwalsw | azure-mgmt-arizeaiobservabilityeval | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
