@@ -18,7 +18,7 @@
 | 16 | Release for Databox. V2 sku GA. 2025-02-01 api version  |  |  | [#5918](https://github.com/Azure/sdk-release-request/issues/5918)  | [#5919](https://github.com/Azure/sdk-release-request/issues/5919)  | 03-07 | 03-27 |  |
 | 17 | Release for Azure Key Vault / Azure Managed HSM 2024-11-01  |  | [#5899](https://github.com/Azure/sdk-release-request/issues/5899)  | [#5900](https://github.com/Azure/sdk-release-request/issues/5900)  | [#5901](https://github.com/Azure/sdk-release-request/issues/5901)  | 02-24 | 03-28 |  |
 | 18 | 'Update Release for PostgreSQL flexible servers GA API version 2024-08-01'  |  | [#5916](https://github.com/Azure/sdk-release-request/issues/5916)  |  |  | 03-06 | 03-10 |  |
-| 19 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  | [#5905](https://github.com/Azure/sdk-release-request/issues/5905)  | 02-25 | 03-27 |  |
+| 19 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  |  | 02-25 | 03-27 |  |
 | 20 | Release for Event Grid Resource Provider - 2025-02-15  |  | [#5892](https://github.com/Azure/sdk-release-request/issues/5892)  |  | [#5894](https://github.com/Azure/sdk-release-request/issues/5894)  | 02-18 | 03-28 |  |
 | 21 | Release for PineconeVectorDB - 2025-01-31  |  | [#5774](https://github.com/Azure/sdk-release-request/issues/5774)  |  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 03-24 |  |
 | 22 | Azure Compute ComputeRP 2024-11-01  |  |  |  | [#5924](https://github.com/Azure/sdk-release-request/issues/5924)  | 03-10 | 03-28 |  |
