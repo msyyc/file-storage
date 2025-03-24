@@ -22,7 +22,8 @@
     "azure-mgmt-databasewatcher",
     "azure-mgmt-impactreporting",
     "azure-mgmt-durabletask",
-    "azure-mgmt-agricultureplatform"
+    "azure-mgmt-agricultureplatform",
+    "azure-mgmt-dependencymap"
   ],
   "js": [],
   "go": [],
