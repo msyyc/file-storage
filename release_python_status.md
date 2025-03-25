@@ -11,5 +11,4 @@
 | 9 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 02-28 | 03-27 | 1 |
 | 10 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new comment. close to release date. HoldOn. | 01-13 | 03-28 | 2 |
 | 11 | [#5814](https://github.com/Azure/sdk-release-request/issues/5814) | alexmahonic | azure-mgmt-hybridconnectivity | ChenxiJiang333 | HoldOn. TypeSpec. | 01-10 | 02-28 |  |
-| 12 | [#5725](https://github.com/Azure/sdk-release-request/issues/5725) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | new comment. close to release date. FirstBeta. TypeSpec. | 11-15 | 03-23 | -2 |
 | 13 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |

@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-durabletask,azure-sdk,ChenxiJiang333,2024-11-15,2025-03-25,https://github.com/Azure/sdk-release-request/issues/5725,1.0.0b1,
 azure-mgmt-pineconevectordb,azure-sdk,ChenxiJiang333,2024-12-11,2025-03-24,https://github.com/Azure/sdk-release-request/issues/5777,1.0.0b2,
 azure-mgmt-eventgrid,azure-sdk,ChenxiJiang333,2025-02-18,2025-03-24,https://github.com/Azure/sdk-release-request/issues/5895,10.4.0,True
 azure-mgmt-compute,azure-sdk,ChenxiJiang333,2025-03-10,2025-03-24,https://github.com/Azure/sdk-release-request/issues/5925,34.1.0,True
