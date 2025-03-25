@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-21 | 04-24 |  |
+| 1 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 03-21 | 04-24 |  |
 | 2 | [#5956](https://github.com/Azure/sdk-release-request/issues/5956) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 03-18 | 04-24 |  |
 | 3 | [#5951](https://github.com/Azure/sdk-release-request/issues/5951) | nehakulkarni123 | azure-mgmt-resource | ChenxiJiang333 | close to release date. HoldOn. | 03-18 | 03-28 | 2 |
 | 4 | [#5946](https://github.com/Azure/sdk-release-request/issues/5946) | JalenMcG | azure-mgmt-hybridkubernetes | ChenxiJiang333 | close to release date. | 03-14 | 03-28 | 2 |
