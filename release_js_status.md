@@ -15,7 +15,7 @@
 | 13 | [#5894](https://github.com/Azure/sdk-release-request/issues/5894) | a-hamad |  | MaryGao | close to release date. | 02-18 | 03-28 | 1 |
 | 14 | [#5855](https://github.com/Azure/sdk-release-request/issues/5855) | virginiaho-ms |  | qiaozha |  | 01-28 | 02-28 |  |
 | 15 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | new comment. close to release date. HoldOn. | 01-13 | 03-28 | 1 |
-| 16 | [#5813](https://github.com/Azure/sdk-release-request/issues/5813) | alexmahonic |  | MaryGao | HoldOn. | 01-10 | 02-28 |  |
+| 16 | [#5813](https://github.com/Azure/sdk-release-request/issues/5813) | alexmahonic |  | MaryGao |  | 01-10 | 02-28 |  |
 | 17 | [#5776](https://github.com/Azure/sdk-release-request/issues/5776) | aggarwalsw |  | MaryGao | close to release date. TypeSpec. | 12-11 | 03-24 | -2 |
 | 18 | [#5724](https://github.com/Azure/sdk-release-request/issues/5724) | berndverst |  | MaryGao | FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
 | 19 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
