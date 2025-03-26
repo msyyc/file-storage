@@ -8,9 +8,7 @@
 | 6 | [#5922](https://github.com/Azure/sdk-release-request/issues/5922) | grizzlytheodore |  | jliusan | close to release date. | 03-10 | 03-28 | 1 |
 | 7 | [#5911](https://github.com/Azure/sdk-release-request/issues/5911) | SiddarthaCherukumudi |  | jliusan | close to release date. FirstBeta. TypeSpec. | 02-28 | 03-27 | 0 |
 | 8 | [#5904](https://github.com/Azure/sdk-release-request/issues/5904) | fumingzhang |  | jliusan | new comment. close to release date. Attention to inconsistent tag. | 02-25 | 03-27 | 0 |
-| 9 | [#5899](https://github.com/Azure/sdk-release-request/issues/5899) | cherrett |  | jliusan | new comment. close to release date. | 02-24 | 03-28 | 1 |
-| 10 | [#5892](https://github.com/Azure/sdk-release-request/issues/5892) | a-hamad |  | jliusan | close to release date. | 02-18 | 03-28 | 1 |
-| 11 | [#5817](https://github.com/Azure/sdk-release-request/issues/5817) | mattgotteiner |  | jliusan | new comment. close to release date. HoldOn. | 01-13 | 03-28 | 1 |
-| 12 | [#5774](https://github.com/Azure/sdk-release-request/issues/5774) | aggarwalsw |  | jliusan | close to release date. | 12-11 | 03-24 | -2 |
-| 13 | [#5722](https://github.com/Azure/sdk-release-request/issues/5722) | berndverst |  | jliusan | new issue. new comment. FirstBeta. TypeSpec. | 11-15 | 03-23 |  |
-| 14 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
+| 9 | [#5892](https://github.com/Azure/sdk-release-request/issues/5892) | a-hamad |  | jliusan | close to release date. | 02-18 | 03-28 | 1 |
+| 10 | [#5817](https://github.com/Azure/sdk-release-request/issues/5817) | mattgotteiner |  | jliusan | new comment. close to release date. HoldOn. | 01-13 | 03-28 | 1 |
+| 11 | [#5774](https://github.com/Azure/sdk-release-request/issues/5774) | aggarwalsw |  | jliusan | close to release date. | 12-11 | 03-24 | -2 |
+| 12 | [#5537](https://github.com/Azure/sdk-release-request/issues/5537) | jaskisin |  | jliusan | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
