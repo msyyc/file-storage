@@ -12,13 +12,13 @@
 | 10 | Release for Hybrid Connectivity - Public Preview  | [#5814](https://github.com/Azure/sdk-release-request/issues/5814)  |  |  | [#5813](https://github.com/Azure/sdk-release-request/issues/5813)  | 01-10 | 02-28 | Hold on by JS/Python/ |
 | 11 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by JS/Java/Go/Python/ |
 | 12 | Release for Container Service - 2025-01-01  |  | [#5938](https://github.com/Azure/sdk-release-request/issues/5938)  | [#5939](https://github.com/Azure/sdk-release-request/issues/5939)  | [#5940](https://github.com/Azure/sdk-release-request/issues/5940)  | 03-13 | 03-27 |  |
-| 13 | Azure Compute ComputeRP 2024-11-01   |  | [#5922](https://github.com/Azure/sdk-release-request/issues/5922)  | [#5923](https://github.com/Azure/sdk-release-request/issues/5923)  |  | 03-10 | 03-28 |  |
+| 13 | Azure Compute ComputeRP 2024-11-01   |  |  | [#5923](https://github.com/Azure/sdk-release-request/issues/5923)  |  | 03-10 | 03-28 |  |
 | 14 | Release for Databox. V2 sku GA. 2025-02-01 api version  |  |  | [#5918](https://github.com/Azure/sdk-release-request/issues/5918)  | [#5919](https://github.com/Azure/sdk-release-request/issues/5919)  | 03-07 | 03-27 |  |
 | 15 | Release for Azure Key Vault / Azure Managed HSM 2024-11-01  |  |  | [#5900](https://github.com/Azure/sdk-release-request/issues/5900)  | [#5901](https://github.com/Azure/sdk-release-request/issues/5901)  | 02-24 | 03-28 |  |
 | 16 | Release for Container Service - 2024-10-02-preview  |  | [#5904](https://github.com/Azure/sdk-release-request/issues/5904)  |  |  | 02-25 | 03-27 |  |
-| 17 | Release for Event Grid Resource Provider - 2025-02-15  |  | [#5892](https://github.com/Azure/sdk-release-request/issues/5892)  |  | [#5894](https://github.com/Azure/sdk-release-request/issues/5894)  | 02-18 | 03-28 |  |
-| 18 | Release for PineconeVectorDB - 2025-01-31  |  | [#5774](https://github.com/Azure/sdk-release-request/issues/5774)  |  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 03-24 |  |
-| 19 | Azure Compute ComputeRP 2024-11-01  |  |  |  | [#5924](https://github.com/Azure/sdk-release-request/issues/5924)  | 03-10 | 03-28 |  |
-| 20 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  |  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
+| 17 | Release for PineconeVectorDB - 2025-01-31  |  | [#5774](https://github.com/Azure/sdk-release-request/issues/5774)  |  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 03-24 |  |
+| 18 | Azure Compute ComputeRP 2024-11-01  |  |  |  | [#5924](https://github.com/Azure/sdk-release-request/issues/5924)  | 03-10 | 03-28 |  |
+| 19 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  |  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
+| 20 | Release for Event Grid Resource Provider - 2025-02-15  |  |  |  | [#5894](https://github.com/Azure/sdk-release-request/issues/5894)  | 02-18 | 03-28 |  |
 | 21 | Release for componentProactiveDetection_API casing update  |  |  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 |  |
 | 22 | Beta Release for Durable Task Scheduler November 2024  |  |  |  | [#5724](https://github.com/Azure/sdk-release-request/issues/5724)  | 11-15 | 03-23 |  |
