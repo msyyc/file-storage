@@ -15,10 +15,5 @@
 | 13 | Release for PineconeVectorDB - 2025-01-31  |  | [#5774](https://github.com/Azure/sdk-release-request/issues/5774)  |  | [#5776](https://github.com/Azure/sdk-release-request/issues/5776)  | 12-11 | 03-24 |  |
 | 14 | Release for Microsoft.Kubernetes - 2024-12-01-preview  |  |  |  | [#5945](https://github.com/Azure/sdk-release-request/issues/5945)  | 03-14 | 03-28 |  |
 | 15 | Release for Container Service - 2025-01-01  |  |  |  | [#5940](https://github.com/Azure/sdk-release-request/issues/5940)  | 03-13 | 03-27 |  |
-| 16 | Azure Compute ComputeRP 2024-11-01  |  |  |  | [#5924](https://github.com/Azure/sdk-release-request/issues/5924)  | 03-10 | 03-28 |  |
-| 17 | Release for Databox. V2 sku GA. 2025-02-01 api version  |  |  |  | [#5919](https://github.com/Azure/sdk-release-request/issues/5919)  | 03-07 | 03-27 |  |
-| 18 | Release for Azure Migrate Assessment 2023-03-15(Beta)  |  |  |  | [#5908](https://github.com/Azure/sdk-release-request/issues/5908)  | 02-25 | 03-27 |  |
-| 19 | Release for Azure Key Vault / Azure Managed HSM 2024-11-01  |  |  |  | [#5901](https://github.com/Azure/sdk-release-request/issues/5901)  | 02-24 | 03-28 |  |
-| 20 | Release for Event Grid Resource Provider - 2025-02-15  |  |  |  | [#5894](https://github.com/Azure/sdk-release-request/issues/5894)  | 02-18 | 03-28 |  |
-| 21 | Release for componentProactiveDetection_API casing update  |  |  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 |  |
-| 22 | Beta Release for Durable Task Scheduler November 2024  |  |  |  | [#5724](https://github.com/Azure/sdk-release-request/issues/5724)  | 11-15 | 03-23 |  |
+| 16 | Release for componentProactiveDetection_API casing update  |  |  |  | [#5855](https://github.com/Azure/sdk-release-request/issues/5855)  | 01-28 | 02-28 |  |
+| 17 | Beta Release for Durable Task Scheduler November 2024  |  |  |  | [#5724](https://github.com/Azure/sdk-release-request/issues/5724)  | 11-15 | 03-23 |  |
