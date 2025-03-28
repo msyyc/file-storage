@@ -10,8 +10,7 @@
 | 8 | [#5933](https://github.com/Azure/sdk-release-request/issues/5933) | aggarwalsw |  | XiaofeiCao | close to release date. FirstBeta. HoldOn. TypeSpec. | 03-11 | 03-27 | -1 |
 | 9 | [#5928](https://github.com/Azure/sdk-release-request/issues/5928) | aggarwalsw |  | weidongxu-microsoft | new comment. close to release date. FirstBeta. TypeSpec. | 03-11 | 03-27 | -1 |
 | 10 | [#5923](https://github.com/Azure/sdk-release-request/issues/5923) | grizzlytheodore |  | v-hongli1 | new issue. close to release date. | 03-10 | 03-28 | 0 |
-| 11 | [#5918](https://github.com/Azure/sdk-release-request/issues/5918) | GovardhanaDK |  | XiaofeiCao | new issue. close to release date. | 03-07 | 03-27 | -1 |
-| 12 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | close to release date. FirstBeta. TypeSpec. | 02-28 | 03-27 | -1 |
-| 13 | [#5900](https://github.com/Azure/sdk-release-request/issues/5900) | cherrett |  | v-hongli1 | new issue. close to release date. | 02-24 | 03-28 | 0 |
-| 14 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | XiaofeiCao | close to release date. HoldOn. | 01-13 | 03-28 | 0 |
-| 15 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
+| 11 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | close to release date. FirstBeta. TypeSpec. | 02-28 | 03-27 | -1 |
+| 12 | [#5900](https://github.com/Azure/sdk-release-request/issues/5900) | cherrett |  | v-hongli1 | new issue. close to release date. | 02-24 | 03-28 | 0 |
+| 13 | [#5818](https://github.com/Azure/sdk-release-request/issues/5818) | mattgotteiner |  | XiaofeiCao | close to release date. HoldOn. | 01-13 | 03-28 | 0 |
+| 14 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
