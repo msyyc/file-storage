@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5972](https://github.com/Azure/sdk-release-request/issues/5972) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new issue. TypeSpec. | 03-28 | 04-25 |  |
+| 1 | [#5972](https://github.com/Azure/sdk-release-request/issues/5972) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | TypeSpec. | 03-28 | 04-25 |  |
 | 2 | [#5967](https://github.com/Azure/sdk-release-request/issues/5967) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-27 | 04-24 |  |
 | 3 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-21 | 04-24 |  |
 | 4 | [#5956](https://github.com/Azure/sdk-release-request/issues/5956) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 03-18 | 04-24 |  |
