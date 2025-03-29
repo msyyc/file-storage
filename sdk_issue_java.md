@@ -16,7 +16,7 @@
 |14|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |15|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |16|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|17|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|17|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |18|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |19|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |20|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
@@ -61,4 +61,3 @@
 |59|[#34338](https://github.com/Azure/azure-sdk-for-java/issues/34338)|[QUERY] How can I know if a resource is automatically created by Azure or by an user?|question, ARM, Mgmt, customer-reported|XiaofeiCao||2023-04-05|
 |60|[#34281](https://github.com/Azure/azure-sdk-for-java/issues/34281)|[FEATURE REQ] investigate, add code snippet to Javadoc of mgmt-plane|Mgmt|XiaofeiCao||2023-03-31|
 |61|[#34271](https://github.com/Azure/azure-sdk-for-java/issues/34271)|[BUG] PermissionScope.withPermissions can not add list|question, Storage, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao|new comment|2023-03-30|
-|62|[#34225](https://github.com/Azure/azure-sdk-for-java/issues/34225)|[FEATURE REQ] Expose a method for listing virtual images with more criteria than just the region|ARM, Mgmt, customer-reported, feature-request|XiaofeiCao, v-hongli1|new comment|2023-03-28|
