@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5981](https://github.com/Azure/sdk-release-request/issues/5981) | ChenxiJiang333 |  | ChenxiJiang333 |  | 04-01 |  | 0 |
+| 1 | [#5981](https://github.com/Azure/sdk-release-request/issues/5981) | ChenxiJiang333 | azure-mgmt-edgezones | ChenxiJiang333 | new issue. TypeSpec. | 04-01 | fail to get. |  |
 | 2 | [#5977](https://github.com/Azure/sdk-release-request/issues/5977) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 |  | 03-28 | 04-25 |  |
 | 3 | [#5972](https://github.com/Azure/sdk-release-request/issues/5972) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. TypeSpec. | 03-28 | 04-25 |  |
 | 4 | [#5967](https://github.com/Azure/sdk-release-request/issues/5967) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-27 | 04-24 |  |

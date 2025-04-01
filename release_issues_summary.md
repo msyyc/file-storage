@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | 'Release for Microsoft EdgeZones 2024-04-01-preview (only for python)'  | [#5981](https://github.com/Azure/sdk-release-request/issues/5981)  |  |  |  | 04-01 |  |  |
+| 1 | 'Release for Microsoft EdgeZones 2024-04-01-preview (only for python)'  | [#5981](https://github.com/Azure/sdk-release-request/issues/5981)  |  |  |  | 04-01 | fail to get. |  |
 | 2 | Release for ApiManagement - 2024-05-01  | [#5977](https://github.com/Azure/sdk-release-request/issues/5977)  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  | [#5975](https://github.com/Azure/sdk-release-request/issues/5975)  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
 | 3 | Release for Standby Pools 2025-03-01 SDK  | [#5972](https://github.com/Azure/sdk-release-request/issues/5972)  | [#5969](https://github.com/Azure/sdk-release-request/issues/5969)  | [#5970](https://github.com/Azure/sdk-release-request/issues/5970)  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 |  |
 | 4 | Release for Microsoft.App 2025-01-01  | [#5967](https://github.com/Azure/sdk-release-request/issues/5967)  | [#5964](https://github.com/Azure/sdk-release-request/issues/5964)  | [#5965](https://github.com/Azure/sdk-release-request/issues/5965)  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
