@@ -7,7 +7,6 @@
 | 5 | [#5967](https://github.com/Azure/sdk-release-request/issues/5967) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-27 | 04-24 |  |
 | 6 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-21 | 04-24 |  |
 | 7 | [#5956](https://github.com/Azure/sdk-release-request/issues/5956) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 03-18 | 04-24 |  |
-| 8 | [#5930](https://github.com/Azure/sdk-release-request/issues/5930) | aggarwalsw | azure-mgmt-weightsandbiases | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-11 | 03-27 |  |
 | 9 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
 | 10 | [#5820](https://github.com/Azure/sdk-release-request/issues/5820) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | HoldOn. | 01-13 | 03-28 |  |
 | 11 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
