@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5993](https://github.com/Azure/sdk-release-request/issues/5993) | blueww |  | MaryGao | Attention to inconsistent tag. | 04-02 | 04-24 |  |
+| 1 | [#5993](https://github.com/Azure/sdk-release-request/issues/5993) | blueww |  | MaryGao | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
 | 2 | [#5984](https://github.com/Azure/sdk-release-request/issues/5984) | annapankiewicz |  | MaryGao | Attention to inconsistent tag. | 04-01 | 04-25 |  |
 | 3 | [#5980](https://github.com/Azure/sdk-release-request/issues/5980) | fumingzhang |  | MaryGao | Attention to inconsistent tag. | 03-31 | 04-24 |  |
 | 4 | [#5976](https://github.com/Azure/sdk-release-request/issues/5976) | solankisamir |  | qiaozha | Attention to inconsistent tag. | 03-28 | 04-25 |  |
