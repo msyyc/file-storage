@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-03-26|
+|1|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-03-26|
 |2|[#39947](https://github.com/Azure/azure-sdk-for-python/issues/39947)|Not able to create azure net app volume of size 50GiB using azure python function|bug, Mgmt, customer-reported, Functions, no-recent-activity, needs-author-feedback|msyyc||2025-03-05|
 |3|[#39297](https://github.com/Azure/azure-sdk-for-python/issues/39297)|azure-mgmt-core needs linting updates for pylint version 3.2.7|Mgmt, Azure.Core, pylint|msyyc|new issue|2025-01-19|
 |4|[#38738](https://github.com/Azure/azure-sdk-for-python/issues/38738)|Metrictype -- appallingly incomplete documentation|Docs, question, Mgmt, customer-reported, needs-team-attention, Consumption|msyyc||2024-12-02|
