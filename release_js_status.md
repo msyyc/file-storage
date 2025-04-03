@@ -9,5 +9,5 @@
 | 7 | [#5960](https://github.com/Azure/sdk-release-request/issues/5960) | KarthikK123 |  | MaryGao | new issue. | 03-21 | 04-24 |  |
 | 8 | [#5955](https://github.com/Azure/sdk-release-request/issues/5955) | ruowan |  | MaryGao | new issue. | 03-18 | 04-24 |  |
 | 9 | [#5950](https://github.com/Azure/sdk-release-request/issues/5950) | nehakulkarni123 |  | MaryGao | Attention to inconsistent tag. HoldOn. | 03-18 | 03-28 |  |
-| 10 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | HoldOn. | 01-13 | 03-28 |  |
+| 10 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | new comment. HoldOn. | 01-13 | 03-28 |  |
 | 11 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
