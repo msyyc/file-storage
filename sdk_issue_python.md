@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#40339](https://github.com/Azure/azure-sdk-for-python/issues/40339)|Stop breaking API version on each release|question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention|iscai-msft, msyyc|new comment|2025-04-02|
+|1|[#40339](https://github.com/Azure/azure-sdk-for-python/issues/40339)|Stop breaking API version on each release|question, Compute, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc, iscai-msft||2025-04-02|
 |2|[#40293](https://github.com/Azure/azure-sdk-for-python/issues/40293)|list_keys returning none|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-03-31|
 |3|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-03-26|
 |4|[#39297](https://github.com/Azure/azure-sdk-for-python/issues/39297)|azure-mgmt-core needs linting updates for pylint version 3.2.7|Mgmt, Azure.Core, pylint|msyyc|new issue|2025-01-19|
@@ -11,4 +11,4 @@
 |9|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |10|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |11|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2023-08-09|
-|12|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|12|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, msyyc, iscai-msft|new comment|2021-04-05|
