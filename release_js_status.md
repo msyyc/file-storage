@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6009](https://github.com/Azure/sdk-release-request/issues/6009) | alluri02 |  | MaryGao |  | 04-03 |  | 0 |
+| 1 | [#6009](https://github.com/Azure/sdk-release-request/issues/6009) | alluri02 |  | MaryGao | new issue. | 04-03 | 04-25 |  |
 | 2 | [#6004](https://github.com/Azure/sdk-release-request/issues/6004) | EmmaZhu |  | MaryGao | new issue. | 04-03 | 04-24 |  |
 | 3 | [#5999](https://github.com/Azure/sdk-release-request/issues/5999) | blueww |  | MaryGao | new comment. multi readme link! | 04-03 | 04-24 |  |
 | 4 | [#5993](https://github.com/Azure/sdk-release-request/issues/5993) | blueww |  | MaryGao | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
