@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#5996](https://github.com/Azure/sdk-release-request/issues/5996) | ChenxiJiang333 | azure-mgmt-web | ChenxiJiang333 | new issue. MultiAPI | 04-03 | fail to get. |  |
+| 1 | [#5996](https://github.com/Azure/sdk-release-request/issues/5996) | ChenxiJiang333 | azure-mgmt-web | ChenxiJiang333 | new issue. | 04-03 | fail to get. |  |
 | 2 | [#5994](https://github.com/Azure/sdk-release-request/issues/5994) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | HoldOn. | 04-02 | 04-24 |  |
 | 3 | [#5987](https://github.com/Azure/sdk-release-request/issues/5987) | frantran | azure-mgmt-containerservicefleet | ChenxiJiang333 |  | 04-01 | fail to get. |  |
 | 4 | [#5985](https://github.com/Azure/sdk-release-request/issues/5985) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 04-01 | 04-25 |  |
