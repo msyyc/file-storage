@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6012](https://github.com/Azure/sdk-release-request/issues/6012) | audunn |  | jliusan | new issue. | 04-03 | 04-25 |  |
+| 1 | [#6012](https://github.com/Azure/sdk-release-request/issues/6012) | audunn |  | jliusan |  | 04-03 | 04-25 |  |
 | 2 | [#6007](https://github.com/Azure/sdk-release-request/issues/6007) | alluri02 |  | jliusan | new issue. | 04-03 | 04-25 |  |
-| 3 | [#6002](https://github.com/Azure/sdk-release-request/issues/6002) | EmmaZhu |  | jliusan | new issue. | 04-03 | 04-24 |  |
+| 3 | [#6002](https://github.com/Azure/sdk-release-request/issues/6002) | EmmaZhu |  | jliusan |  | 04-03 | 04-24 |  |
 | 4 | [#5997](https://github.com/Azure/sdk-release-request/issues/5997) | blueww |  | jliusan | new comment. multi readme link! | 04-03 | 04-24 |  |
 | 5 | [#5991](https://github.com/Azure/sdk-release-request/issues/5991) | blueww |  | jliusan | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
 | 6 | [#5989](https://github.com/Azure/sdk-release-request/issues/5989) | frantran |  | jliusan | Attention to inconsistent tag. | 04-01 | fail to get. |  |
