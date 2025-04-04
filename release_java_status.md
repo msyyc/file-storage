@@ -1,11 +1,11 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6008](https://github.com/Azure/sdk-release-request/issues/6008) | alluri02 |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
-| 2 | [#6003](https://github.com/Azure/sdk-release-request/issues/6003) | EmmaZhu |  | XiaofeiCao | new issue. | 04-03 | 04-24 |  |
-| 3 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | XiaofeiCao | new comment. multi readme link! | 04-03 | 04-24 |  |
-| 4 | [#5992](https://github.com/Azure/sdk-release-request/issues/5992) | blueww |  | v-hongli1 | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
-| 5 | [#5990](https://github.com/Azure/sdk-release-request/issues/5990) | frantran |  | weidongxu-microsoft | Attention to inconsistent tag. | 04-01 | fail to get. |  |
-| 6 | [#5983](https://github.com/Azure/sdk-release-request/issues/5983) | annapankiewicz |  | v-hongli1 | Attention to inconsistent tag. | 04-01 | 04-25 |  |
+| 1 | [#6013](https://github.com/Azure/sdk-release-request/issues/6013) | audunn |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
+| 2 | [#6008](https://github.com/Azure/sdk-release-request/issues/6008) | alluri02 |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
+| 3 | [#6003](https://github.com/Azure/sdk-release-request/issues/6003) | EmmaZhu |  | XiaofeiCao | new issue. | 04-03 | 04-24 |  |
+| 4 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | XiaofeiCao | new comment. multi readme link! | 04-03 | 04-24 |  |
+| 5 | [#5992](https://github.com/Azure/sdk-release-request/issues/5992) | blueww |  | v-hongli1 | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
+| 6 | [#5983](https://github.com/Azure/sdk-release-request/issues/5983) | annapankiewicz |  | v-hongli1 | new comment. Attention to inconsistent tag. | 04-01 | 04-25 |  |
 | 7 | [#5975](https://github.com/Azure/sdk-release-request/issues/5975) | solankisamir |  | v-hongli1 | Attention to inconsistent tag. | 03-28 | 04-25 |  |
 | 8 | [#5970](https://github.com/Azure/sdk-release-request/issues/5970) | mimckitt |  | XiaofeiCao | new issue. new comment. | 03-28 | 04-25 |  |
 | 9 | [#5965](https://github.com/Azure/sdk-release-request/issues/5965) | najimicrosoft.com |  | weidongxu-microsoft | new issue. | 03-27 | 04-24 |  |
