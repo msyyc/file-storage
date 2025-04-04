@@ -5,7 +5,7 @@
 | 3 | [#6002](https://github.com/Azure/sdk-release-request/issues/6002) | EmmaZhu |  | jliusan |  | 04-03 | 04-24 |  |
 | 4 | [#5997](https://github.com/Azure/sdk-release-request/issues/5997) | blueww |  | jliusan | new comment. multi readme link! | 04-03 | 04-24 |  |
 | 5 | [#5991](https://github.com/Azure/sdk-release-request/issues/5991) | blueww |  | jliusan | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
-| 6 | [#5989](https://github.com/Azure/sdk-release-request/issues/5989) | frantran |  | jliusan | Attention to inconsistent tag. | 04-01 | fail to get. |  |
+| 6 | [#5989](https://github.com/Azure/sdk-release-request/issues/5989) | frantran |  | jliusan | new comment. Attention to inconsistent tag. | 04-01 | fail to get. |  |
 | 7 | [#5982](https://github.com/Azure/sdk-release-request/issues/5982) | annapankiewicz |  | jliusan | new comment. Attention to inconsistent tag. | 04-01 | 04-25 |  |
 | 8 | [#5979](https://github.com/Azure/sdk-release-request/issues/5979) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 03-31 | 04-24 |  |
 | 9 | [#5974](https://github.com/Azure/sdk-release-request/issues/5974) | solankisamir |  | jliusan | Attention to inconsistent tag. | 03-28 | 04-25 |  |
