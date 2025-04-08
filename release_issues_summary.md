@@ -17,4 +17,3 @@
 | 15 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by JS/Java/Go/Python/ |
 | 16 | [TypeSpec] Go SDK generate request for Azure Kubernetes Fleet Manager  |  | [#5989](https://github.com/Azure/sdk-release-request/issues/5989)  |  |  | 04-01 | fail to get. |  |
 | 17 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
-| 18 | Release for Search - 2025-02-01-Preview  |  |  |  | [#5819](https://github.com/Azure/sdk-release-request/issues/5819)  | 01-13 | 03-28 | Hold on by JS/ |

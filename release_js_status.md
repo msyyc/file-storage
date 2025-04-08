@@ -12,5 +12,4 @@
 | 10 | [#5966](https://github.com/Azure/sdk-release-request/issues/5966) | najimicrosoft.com |  | qiaozha | new issue. | 03-27 | 04-24 |  |
 | 11 | [#5960](https://github.com/Azure/sdk-release-request/issues/5960) | KarthikK123 |  | MaryGao | new issue. | 03-21 | 04-24 |  |
 | 12 | [#5955](https://github.com/Azure/sdk-release-request/issues/5955) | ruowan |  | MaryGao | new issue. | 03-18 | 04-24 |  |
-| 13 | [#5819](https://github.com/Azure/sdk-release-request/issues/5819) | mattgotteiner |  | qiaozha | new comment. HoldOn. | 01-13 | 03-28 |  |
-| 14 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
+| 13 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | new comment. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 |  |
