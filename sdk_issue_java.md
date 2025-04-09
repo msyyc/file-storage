@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#44896](https://github.com/Azure/azure-sdk-for-java/issues/44896)|[BUG] Authenticated.withDefaultSubscription() behavior change - Fails if the logged-in principal has access to more than 1 subscription|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-04-06|
-|2|[#44694](https://github.com/Azure/azure-sdk-for-java/issues/44694)|[QUERY] How to use nonstatic AzureEnvironment.AZURE in AzureProfile|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-03-18|
+|2|[#44694](https://github.com/Azure/azure-sdk-for-java/issues/44694)|[QUERY] How to use nonstatic AzureEnvironment.AZURE in AzureProfile|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2025-03-18|
 |3|[#44667](https://github.com/Azure/azure-sdk-for-java/issues/44667)|404 Resource Not Found when creating express route cross connection private peering.|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2025-03-17|
 |4|[#44452](https://github.com/Azure/azure-sdk-for-java/issues/44452)|[QUERY] PrivateDnsZonePropertiesFormat recordSets setter or readonly?|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-02-28|
 |5|[#44264](https://github.com/Azure/azure-sdk-for-java/issues/44264)|[FEATURE REQ] azure-core-v2 for mgmt SDK|ARM, Mgmt, ARM - Core, Azure.Core.V2|XiaofeiCao||2025-02-19|
