@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 | new issue. | 04-09 | 04-24 |  |
+| 1 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-09 | 04-24 |  |
 | 2 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 |  | 04-08 |  | 0 |
 | 3 | [#6024](https://github.com/Azure/sdk-release-request/issues/6024) | vikramkotturu | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 | new issue. new comment. MultiAPI | 04-08 | 04-24 |  |
 | 4 | [#6019](https://github.com/Azure/sdk-release-request/issues/6019) | ChenxiJiang333 | azure-mgmt-iothub | ChenxiJiang333 |  | 04-08 | fail to get. |  |
