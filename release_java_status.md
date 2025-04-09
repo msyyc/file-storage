@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6028](https://github.com/Azure/sdk-release-request/issues/6028) | smichtch |  | weidongxu-microsoft |  | 04-08 |  | 0 |
+| 1 | [#6028](https://github.com/Azure/sdk-release-request/issues/6028) | smichtch |  | weidongxu-microsoft |  | 04-08 | fail to get. |  |
 | 2 | [#6022](https://github.com/Azure/sdk-release-request/issues/6022) | vikramkotturu |  | weidongxu-microsoft | new issue. new comment. | 04-08 | 04-24 |  |
 | 3 | [#6013](https://github.com/Azure/sdk-release-request/issues/6013) | audunn |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
 | 4 | [#6008](https://github.com/Azure/sdk-release-request/issues/6008) | alluri02 |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
