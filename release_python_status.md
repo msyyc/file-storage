@@ -19,4 +19,4 @@
 | 17 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-21 | 04-24 |  |
 | 18 | [#5956](https://github.com/Azure/sdk-release-request/issues/5956) | ruowan | azure-mgmt-datafactory | ChenxiJiang333 |  | 03-18 | 04-24 |  |
 | 19 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
-| 20 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | new comment. FirstGA. TypeSpec. | 09-27 | 04-24 |  |
+| 20 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. TypeSpec. | 09-27 | 04-24 |  |
