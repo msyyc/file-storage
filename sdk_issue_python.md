@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#40403](https://github.com/Azure/azure-sdk-for-python/issues/40403)|Subscription Client is not throwing error in case of missing permissions to list the subscriptions but just throwing an empty list []|bug, Mgmt, customer-reported, needs-team-attention, Resources|msyyc||2025-04-07|
+|1|[#40403](https://github.com/Azure/azure-sdk-for-python/issues/40403)|Subscription Client is not throwing error in case of missing permissions to list the subscriptions but just throwing an empty list []|bug, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|new comment|2025-04-07|
 |2|[#40395](https://github.com/Azure/azure-sdk-for-python/issues/40395)|Allow Passing Azure Monitor Workspace ID to Manage Prometheus and Grafana Workspaces to manage Grafana|question, AKS, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-04-07|
 |3|[#40293](https://github.com/Azure/azure-sdk-for-python/issues/40293)|list_keys returning none|question, Authorization, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-03-31|
 |4|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-03-26|
@@ -12,4 +12,4 @@
 |10|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |11|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |12|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, msyyc, lmazuel|new comment|2021-04-05|
+|13|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, msyyc, iscai-msft|new comment|2021-04-05|
