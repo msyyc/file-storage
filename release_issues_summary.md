@@ -25,5 +25,4 @@
 | 23 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
 | 24 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
 | 25 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. |  |
-| 26 | [TypeSpec] Go SDK generate request for Azure Kubernetes Fleet Manager  |  | [#5989](https://github.com/Azure/sdk-release-request/issues/5989)  |  |  | 04-01 | fail to get. |  |
-| 27 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
+| 26 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
