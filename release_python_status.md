@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6052](https://github.com/Azure/sdk-release-request/issues/6052) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 04-11 | 04-24 |  |
+| 1 | [#6052](https://github.com/Azure/sdk-release-request/issues/6052) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 04-11 | 04-24 |  |
 | 2 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 | azure-mgmt-portalservicescopilot | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-10 | fail to get. |  |
-| 3 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 | new issue. MultiAPI | 04-10 | 04-25 |  |
+| 3 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-10 | 04-25 |  |
 | 4 | [#6037](https://github.com/Azure/sdk-release-request/issues/6037) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
 | 5 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-09 | 04-24 |  |
 | 6 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 | duplicated issue  <br> | 04-08 |  | 0 |
