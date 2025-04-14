@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | Release for Container Service - 2025-02-01  | [#6052](https://github.com/Azure/sdk-release-request/issues/6052)  | [#6049](https://github.com/Azure/sdk-release-request/issues/6049)  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 |  |
-| 2 | [TypeSpec] Python SDK generate request for Copilot in Azure  | [#6045](https://github.com/Azure/sdk-release-request/issues/6045)  |  |  |  | 04-10 |  |  |
+| 2 | [TypeSpec] Python SDK generate request for Copilot in Azure  | [#6045](https://github.com/Azure/sdk-release-request/issues/6045)  |  |  |  | 04-10 | fail to get. |  |
 | 3 | Release for azure container registry - 2025-03-preview  | [#6043](https://github.com/Azure/sdk-release-request/issues/6043)  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  | [#6041](https://github.com/Azure/sdk-release-request/issues/6041)  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
 | 4 | [TypeSpec] Python SDK generate request for Liftr-Lambdatest  | [#6037](https://github.com/Azure/sdk-release-request/issues/6037)  |  |  |  | 04-10 |  | Hold on by Python/ |
 | 5 | Release for Redis Enterprise - 2025-05-01  | [#6035](https://github.com/Azure/sdk-release-request/issues/6035)  | [#6032](https://github.com/Azure/sdk-release-request/issues/6032)  | [#6033](https://github.com/Azure/sdk-release-request/issues/6033)  | [#6034](https://github.com/Azure/sdk-release-request/issues/6034)  | 04-09 | 04-24 |  |

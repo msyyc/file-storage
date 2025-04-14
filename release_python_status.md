@@ -1,20 +1,20 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6052](https://github.com/Azure/sdk-release-request/issues/6052) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 04-11 | 04-24 |  |
-| 2 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
+| 2 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 | azure-mgmt-portalservicescopilot | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-10 | fail to get. |  |
 | 3 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 | new issue. MultiAPI | 04-10 | 04-25 |  |
 | 4 | [#6037](https://github.com/Azure/sdk-release-request/issues/6037) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
 | 5 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-09 | 04-24 |  |
 | 6 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 | duplicated issue  <br> | 04-08 |  | 0 |
 | 7 | [#6024](https://github.com/Azure/sdk-release-request/issues/6024) | vikramkotturu | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 04-08 | 04-24 |  |
 | 8 | [#6015](https://github.com/Azure/sdk-release-request/issues/6015) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-03 | 04-25 |  |
-| 9 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | TypeSpec. | 04-03 | 04-25 |  |
+| 9 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
 | 10 | [#6005](https://github.com/Azure/sdk-release-request/issues/6005) | EmmaZhu | azure-mgmt-elasticsan | ChenxiJiang333 |  | 04-03 | 04-24 |  |
 | 11 | [#6000](https://github.com/Azure/sdk-release-request/issues/6000) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 04-03 | 04-24 |  |
 | 12 | [#5996](https://github.com/Azure/sdk-release-request/issues/5996) | ChenxiJiang333 | azure-mgmt-web | ChenxiJiang333 |  | 04-03 | fail to get. |  |
 | 13 | [#5994](https://github.com/Azure/sdk-release-request/issues/5994) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | FirstGA. HoldOn. | 04-02 | 04-24 |  |
 | 14 | [#5985](https://github.com/Azure/sdk-release-request/issues/5985) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 04-01 | 04-25 |  |
-| 15 | [#5977](https://github.com/Azure/sdk-release-request/issues/5977) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 | new comment. | 03-28 | 04-25 |  |
+| 15 | [#5977](https://github.com/Azure/sdk-release-request/issues/5977) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 |  | 03-28 | 04-25 |  |
 | 16 | [#5972](https://github.com/Azure/sdk-release-request/issues/5972) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. TypeSpec. | 03-28 | 04-25 |  |
 | 17 | [#5967](https://github.com/Azure/sdk-release-request/issues/5967) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 03-27 | 04-24 |  |
 | 18 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | FirstBeta. TypeSpec. | 03-21 | 04-24 |  |
