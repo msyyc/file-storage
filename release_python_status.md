@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6052](https://github.com/Azure/sdk-release-request/issues/6052) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. new comment. MultiAPI | 04-11 | 04-24 |  |
+| 1 | [#6052](https://github.com/Azure/sdk-release-request/issues/6052) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | MultiAPI | 04-11 | 04-24 |  |
 | 2 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
 | 3 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 | new issue. MultiAPI | 04-10 | 04-25 |  |
 | 4 | [#6037](https://github.com/Azure/sdk-release-request/issues/6037) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
