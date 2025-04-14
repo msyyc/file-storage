@@ -23,7 +23,8 @@
     "azure-mgmt-impactreporting",
     "azure-mgmt-durabletask",
     "azure-mgmt-agricultureplatform",
-    "azure-mgmt-dependencymap"
+    "azure-mgmt-dependencymap",
+    "azure-mgmt-portalservicescopilot"
   ],
   "js": [],
   "go": [],
