@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Durable Task Scheduler  | [#6053](https://github.com/Azure/sdk-release-request/issues/6053)  |  |  |  | 04-14 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Durable Task Scheduler  | [#6053](https://github.com/Azure/sdk-release-request/issues/6053)  |  |  |  | 04-14 | fail to get. |  |
 | 2 | Release for Container Service - 2025-02-01  | [#6052](https://github.com/Azure/sdk-release-request/issues/6052)  | [#6049](https://github.com/Azure/sdk-release-request/issues/6049)  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 |  |
 | 3 | [TypeSpec] Python SDK generate request for Copilot in Azure  | [#6045](https://github.com/Azure/sdk-release-request/issues/6045)  |  |  |  | 04-10 | fail to get. |  |
 | 4 | Release for azure container registry - 2025-03-preview  | [#6043](https://github.com/Azure/sdk-release-request/issues/6043)  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  | [#6041](https://github.com/Azure/sdk-release-request/issues/6041)  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
