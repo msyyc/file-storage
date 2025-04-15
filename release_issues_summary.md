@@ -22,11 +22,10 @@
 | 20 | Release for Azure Data Factory 2018-06  | [#5956](https://github.com/Azure/sdk-release-request/issues/5956)  | [#5953](https://github.com/Azure/sdk-release-request/issues/5953)  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
 | 21 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 |  |
 | 22 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  | [#5538](https://github.com/Azure/sdk-release-request/issues/5538)  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by JS/Java/Go/ |
-| 23 | [TypeSpec] Java SDK generate request for Durable Task Scheduler  |  |  | [#6055](https://github.com/Azure/sdk-release-request/issues/6055)  |  | 04-14 | fail to get. |  |
-| 24 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
-| 25 | [TypeSpec] Java SDK generate request for Liftr-Lambdatest  |  |  | [#6038](https://github.com/Azure/sdk-release-request/issues/6038)  |  | 04-10 | fail to get. |  |
-| 26 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. | Hold on by Java/ |
-| 27 | [TypeSpec] Go SDK generate request for Durable Task Scheduler  |  | [#6056](https://github.com/Azure/sdk-release-request/issues/6056)  |  |  | 04-14 | fail to get. |  |
-| 28 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
-| 29 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
-| 30 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
+| 23 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
+| 24 | [TypeSpec] Java SDK generate request for Liftr-Lambdatest  |  |  | [#6038](https://github.com/Azure/sdk-release-request/issues/6038)  |  | 04-10 | fail to get. |  |
+| 25 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. | Hold on by Java/ |
+| 26 | [TypeSpec] Go SDK generate request for Durable Task Scheduler  |  | [#6056](https://github.com/Azure/sdk-release-request/issues/6056)  |  |  | 04-14 | fail to get. |  |
+| 27 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
+| 28 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
+| 29 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |

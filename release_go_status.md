@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6056](https://github.com/Azure/sdk-release-request/issues/6056) | berndverst |  | jliusan | Attention to inconsistent tag. | 04-14 | fail to get. |  |
+| 1 | [#6056](https://github.com/Azure/sdk-release-request/issues/6056) | berndverst |  | jliusan | new comment. Attention to inconsistent tag. | 04-14 | fail to get. |  |
 | 2 | [#6049](https://github.com/Azure/sdk-release-request/issues/6049) | fumingzhang |  | jliusan |  | 04-11 | 04-24 |  |
-| 3 | [#6046](https://github.com/Azure/sdk-release-request/issues/6046) | karanvsingh1 |  | jliusan | new comment. multi readme link! | 04-10 | fail to get. |  |
+| 3 | [#6046](https://github.com/Azure/sdk-release-request/issues/6046) | karanvsingh1 |  | jliusan | multi readme link! | 04-10 | fail to get. |  |
 | 4 | [#6040](https://github.com/Azure/sdk-release-request/issues/6040) | lizMSFT |  | jliusan | new issue. | 04-10 | 04-25 |  |
 | 5 | [#6032](https://github.com/Azure/sdk-release-request/issues/6032) | nikitagarg123 |  | jliusan | new issue. | 04-09 | 04-24 |  |
 | 6 | [#6029](https://github.com/Azure/sdk-release-request/issues/6029) | smichtch |  | jliusan | new comment. HoldOn. | 04-08 | fail to get. |  |
