@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6053](https://github.com/Azure/sdk-release-request/issues/6053) | berndverst |  | ChenxiJiang333 | duplicated issue  <br> | 04-14 |  | 0 |
 | 2 | [#6052](https://github.com/Azure/sdk-release-request/issues/6052) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 04-11 | 04-24 |  |
-| 3 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 | azure-mgmt-portalservicescopilot | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 04-10 | fail to get. |  |
+| 3 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 | azure-mgmt-portalservicescopilot | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-10 | fail to get. |  |
 | 4 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-10 | 04-25 |  |
 | 5 | [#6037](https://github.com/Azure/sdk-release-request/issues/6037) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
 | 6 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-09 | 04-24 |  |
