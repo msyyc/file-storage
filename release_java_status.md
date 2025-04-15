@@ -4,7 +4,7 @@
 | 2 | [#6050](https://github.com/Azure/sdk-release-request/issues/6050) | fumingzhang |  | v-hongli1 | new issue. | 04-11 | 04-24 |  |
 | 3 | [#6048](https://github.com/Azure/sdk-release-request/issues/6048) | karanvsingh1 |  | v-hongli1 | multi readme link! | 04-10 | fail to get. |  |
 | 4 | [#6041](https://github.com/Azure/sdk-release-request/issues/6041) | lizMSFT |  | v-hongli1 |  | 04-10 | 04-25 |  |
-| 5 | [#6038](https://github.com/Azure/sdk-release-request/issues/6038) | aggarwalsw |  | weidongxu-microsoft | new comment. HoldOn. | 04-10 | fail to get. |  |
+| 5 | [#6038](https://github.com/Azure/sdk-release-request/issues/6038) | aggarwalsw |  | weidongxu-microsoft | new comment. | 04-10 | fail to get. |  |
 | 6 | [#6033](https://github.com/Azure/sdk-release-request/issues/6033) | nikitagarg123 |  | v-hongli1 | new issue. | 04-09 | 04-24 |  |
 | 7 | [#6028](https://github.com/Azure/sdk-release-request/issues/6028) | smichtch |  | weidongxu-microsoft | new comment. HoldOn. | 04-08 | fail to get. |  |
 | 8 | [#6022](https://github.com/Azure/sdk-release-request/issues/6022) | vikramkotturu |  | weidongxu-microsoft | new issue. new comment. | 04-08 | 04-24 |  |
