@@ -24,7 +24,8 @@
     "azure-mgmt-durabletask",
     "azure-mgmt-agricultureplatform",
     "azure-mgmt-dependencymap",
-    "azure-mgmt-portalservicescopilot"
+    "azure-mgmt-portalservicescopilot",
+    "azure-mgmt-lambdatesthyperexecute"
   ],
   "js": [],
   "go": [],
