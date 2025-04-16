@@ -4,9 +4,9 @@
 | 2 | [#6053](https://github.com/Azure/sdk-release-request/issues/6053) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | TypeSpec. | 04-14 | fail to get. |  |
 | 3 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 | azure-mgmt-portalservicescopilot | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-10 | fail to get. |  |
 | 4 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-10 | 04-25 |  |
-| 5 | [#6037](https://github.com/Azure/sdk-release-request/issues/6037) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 04-10 |  | 0 |
+| 5 | [#6037](https://github.com/Azure/sdk-release-request/issues/6037) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 |  | 04-10 | fail to get. |  |
 | 6 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-09 | 04-24 |  |
-| 7 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 | duplicated issue  <br> | 04-08 |  | 0 |
+| 7 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 |  | 04-08 |  | 0 |
 | 8 | [#6024](https://github.com/Azure/sdk-release-request/issues/6024) | vikramkotturu | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 04-08 | 04-24 |  |
 | 9 | [#6015](https://github.com/Azure/sdk-release-request/issues/6015) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-03 | 04-25 |  |
 | 10 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
