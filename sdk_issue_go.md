@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#24274](https://github.com/Azure/azure-sdk-for-go/issues/24274)|armresources.DeploymentsClient Validate always returns "the operation failed or was cancelled" not the actual error|bug, Mgmt|lirenhe||2025-03-14|
 |2|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-02-12|
-|3|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|JiaqiZhang-Dev, lirenhe|new comment|2025-02-11|
+|3|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|lirenhe, JiaqiZhang-Dev|new comment|2025-02-11|
 |4|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |5|[#23506](https://github.com/Azure/azure-sdk-for-go/issues/23506)|Upgrade API Management package to latest REST API 2024-05-01 or higher|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-26|
 |6|[#23479](https://github.com/Azure/azure-sdk-for-go/issues/23479)|App Service module "The api-version '2023-12-01' is invalid." error|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-23|
