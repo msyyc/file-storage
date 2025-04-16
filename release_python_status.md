@@ -11,7 +11,7 @@
 | 9 | [#6015](https://github.com/Azure/sdk-release-request/issues/6015) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-03 | 04-25 |  |
 | 10 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
 | 11 | [#6005](https://github.com/Azure/sdk-release-request/issues/6005) | EmmaZhu | azure-mgmt-elasticsan | ChenxiJiang333 |  | 04-03 | 04-24 |  |
-| 12 | [#6000](https://github.com/Azure/sdk-release-request/issues/6000) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 04-03 | 04-24 |  |
+| 12 | [#6000](https://github.com/Azure/sdk-release-request/issues/6000) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 04-03 | 04-24 |  |
 | 13 | [#5994](https://github.com/Azure/sdk-release-request/issues/5994) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | FirstGA. HoldOn. | 04-02 | 04-24 |  |
 | 14 | [#5985](https://github.com/Azure/sdk-release-request/issues/5985) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 04-01 | 04-25 |  |
 | 15 | [#5977](https://github.com/Azure/sdk-release-request/issues/5977) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 |  | 03-28 | 04-25 |  |
