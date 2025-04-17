@@ -9,7 +9,7 @@
 | 7 | [#6033](https://github.com/Azure/sdk-release-request/issues/6033) | nikitagarg123 |  | v-hongli1 | new issue. | 04-09 | 04-24 |  |
 | 8 | [#6028](https://github.com/Azure/sdk-release-request/issues/6028) | smichtch |  | weidongxu-microsoft | new comment. HoldOn. | 04-08 | fail to get. |  |
 | 9 | [#6013](https://github.com/Azure/sdk-release-request/issues/6013) | audunn |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
-| 10 | [#6008](https://github.com/Azure/sdk-release-request/issues/6008) | alluri02 |  | XiaofeiCao | new issue. FirstGA. | 04-03 | 04-25 |  |
+| 10 | [#6008](https://github.com/Azure/sdk-release-request/issues/6008) | alluri02 |  | v-hongli1 | new issue. FirstGA. | 04-03 | 04-25 |  |
 | 11 | [#6003](https://github.com/Azure/sdk-release-request/issues/6003) | EmmaZhu |  | v-hongli1 | new issue. | 04-03 | 04-24 |  |
 | 12 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | v-hongli1 | new comment. multi readme link! | 04-03 | 04-24 |  |
 | 13 | [#5992](https://github.com/Azure/sdk-release-request/issues/5992) | blueww |  | v-hongli1 | Attention to inconsistent tag. | 04-02 | 04-24 |  |
