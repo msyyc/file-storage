@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6069](https://github.com/Azure/sdk-release-request/issues/6069) | rohan-sahini | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 | new issue. | 04-17 | 05-22 |  |
+| 1 | [#6069](https://github.com/Azure/sdk-release-request/issues/6069) | rohan-sahini | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 04-17 | 05-22 |  |
 | 2 | [#6064](https://github.com/Azure/sdk-release-request/issues/6064) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-16 | fail to get. |  |
 | 3 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-15 | 05-23 |  |
 | 4 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-10 | 04-25 |  |
