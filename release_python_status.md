@@ -1,12 +1,12 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6064](https://github.com/Azure/sdk-release-request/issues/6064) | liangchenmicrosoft |  | ChenxiJiang333 | duplicated issue  <br> | 04-16 |  | 0 |
+| 1 | [#6064](https://github.com/Azure/sdk-release-request/issues/6064) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-16 | fail to get. |  |
 | 2 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-15 | 05-23 |  |
 | 3 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-10 | 04-25 |  |
 | 4 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 04-09 | 04-24 |  |
-| 5 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 | duplicated issue  <br> | 04-08 |  | 0 |
+| 5 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 |  | 04-08 |  | 0 |
 | 6 | [#6024](https://github.com/Azure/sdk-release-request/issues/6024) | vikramkotturu | azure-mgmt-recoveryservicesbackup | ChenxiJiang333 |  | 04-08 | 04-24 |  |
-| 7 | [#6015](https://github.com/Azure/sdk-release-request/issues/6015) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> new comment. | 04-03 | 04-25 |  |
+| 7 | [#6015](https://github.com/Azure/sdk-release-request/issues/6015) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-03 | 04-25 |  |
 | 8 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
 | 9 | [#6005](https://github.com/Azure/sdk-release-request/issues/6005) | EmmaZhu | azure-mgmt-elasticsan | ChenxiJiang333 |  | 04-03 | 04-24 |  |
 | 10 | [#6000](https://github.com/Azure/sdk-release-request/issues/6000) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 04-03 | 04-24 |  |
