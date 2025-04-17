@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6062](https://github.com/Azure/sdk-release-request/issues/6062) | liangchenmicrosoft |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 04-16 | fail to get. |  |
+| 1 | [#6062](https://github.com/Azure/sdk-release-request/issues/6062) | liangchenmicrosoft |  | XiaofeiCao | new issue. Attention to inconsistent tag. FirstBeta. | 04-16 | fail to get. |  |
 | 2 | [#6058](https://github.com/Azure/sdk-release-request/issues/6058) | audunn |  | weidongxu-microsoft | new issue. | 04-15 | 05-23 |  |
 | 3 | [#6050](https://github.com/Azure/sdk-release-request/issues/6050) | fumingzhang |  | v-hongli1 | new issue. | 04-11 | 04-24 |  |
 | 4 | [#6048](https://github.com/Azure/sdk-release-request/issues/6048) | karanvsingh1 |  | v-hongli1 | multi readme link! | 04-10 | fail to get. |  |
