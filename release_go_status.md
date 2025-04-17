@@ -9,7 +9,7 @@
 | 7 | [#6040](https://github.com/Azure/sdk-release-request/issues/6040) | lizMSFT |  | jliusan | new issue. | 04-10 | 04-25 |  |
 | 8 | [#6032](https://github.com/Azure/sdk-release-request/issues/6032) | nikitagarg123 |  | jliusan | new issue. | 04-09 | 04-24 |  |
 | 9 | [#6029](https://github.com/Azure/sdk-release-request/issues/6029) | smichtch |  | jliusan | new comment. HoldOn. | 04-08 | fail to get. |  |
-| 10 | [#6021](https://github.com/Azure/sdk-release-request/issues/6021) | vikramkotturu |  | jliusan |  | 04-08 | 04-24 |  |
+| 10 | [#6021](https://github.com/Azure/sdk-release-request/issues/6021) | vikramkotturu |  | jliusan | new comment. | 04-08 | 04-24 |  |
 | 11 | [#6012](https://github.com/Azure/sdk-release-request/issues/6012) | audunn |  | jliusan |  | 04-03 | 04-25 |  |
 | 12 | [#6007](https://github.com/Azure/sdk-release-request/issues/6007) | alluri02 |  | jliusan | new issue. | 04-03 | 04-25 |  |
 | 13 | [#6002](https://github.com/Azure/sdk-release-request/issues/6002) | EmmaZhu |  | jliusan |  | 04-03 | 04-24 |  |
