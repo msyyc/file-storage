@@ -8,7 +8,7 @@
 | 6 | [#6023](https://github.com/Azure/sdk-release-request/issues/6023) | vikramkotturu |  | qiaozha | new issue. new comment. | 04-08 | 04-24 |  |
 | 7 | [#6014](https://github.com/Azure/sdk-release-request/issues/6014) | audunn |  | MaryGao | new issue. | 04-03 | 04-25 |  |
 | 8 | [#6009](https://github.com/Azure/sdk-release-request/issues/6009) | alluri02 |  | MaryGao | new issue. | 04-03 | 04-25 |  |
-| 9 | [#6004](https://github.com/Azure/sdk-release-request/issues/6004) | EmmaZhu |  | MaryGao | new issue. | 04-03 | 04-24 |  |
+| 9 | [#6004](https://github.com/Azure/sdk-release-request/issues/6004) | EmmaZhu |  | MaryGao |  | 04-03 | 04-24 |  |
 | 10 | [#5999](https://github.com/Azure/sdk-release-request/issues/5999) | blueww |  | MaryGao | multi readme link! | 04-03 | 04-24 |  |
 | 11 | [#5993](https://github.com/Azure/sdk-release-request/issues/5993) | blueww |  | MaryGao | Attention to inconsistent tag. | 04-02 | 04-24 |  |
 | 12 | [#5984](https://github.com/Azure/sdk-release-request/issues/5984) | annapankiewicz |  | MaryGao | Attention to inconsistent tag. | 04-01 | 04-25 |  |

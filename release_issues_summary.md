@@ -27,8 +27,7 @@
 | 25 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. | Hold on by Java/ |
 | 26 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
 | 27 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
-| 28 | [TypeSpec] Go SDK generate request for Durable Task Scheduler  |  | [#6056](https://github.com/Azure/sdk-release-request/issues/6056)  |  |  | 04-14 | fail to get. |  |
-| 29 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
-| 30 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
-| 31 | Release for RecoveryServices-Backup 2025-04-01  |  | [#6021](https://github.com/Azure/sdk-release-request/issues/6021)  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
-| 32 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
+| 28 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
+| 29 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
+| 30 | Release for RecoveryServices-Backup 2025-04-01  |  | [#6021](https://github.com/Azure/sdk-release-request/issues/6021)  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
+| 31 | Release for Container Service - 2025-01-02-preview  |  | [#5979](https://github.com/Azure/sdk-release-request/issues/5979)  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
