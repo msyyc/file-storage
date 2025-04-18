@@ -25,7 +25,9 @@
     "azure-mgmt-agricultureplatform",
     "azure-mgmt-dependencymap",
     "azure-mgmt-portalservicescopilot",
-    "azure-mgmt-lambdatesthyperexecute"
+    "azure-mgmt-lambdatesthyperexecute",
+    "azure-mgmt-carbonoptimization",
+    "azure-mgmt-programmableconnectivity"
   ],
   "js": [],
   "go": [],
