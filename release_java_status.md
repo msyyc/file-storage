@@ -15,6 +15,6 @@
 | 13 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | v-hongli1 | multi readme link! | 04-03 | 04-24 |  |
 | 14 | [#5983](https://github.com/Azure/sdk-release-request/issues/5983) | annapankiewicz |  | v-hongli1 | Attention to inconsistent tag. | 04-01 | 04-25 |  |
 | 15 | [#5975](https://github.com/Azure/sdk-release-request/issues/5975) | solankisamir |  | v-hongli1 | new comment. Attention to inconsistent tag. | 03-28 | 04-25 |  |
-| 16 | [#5970](https://github.com/Azure/sdk-release-request/issues/5970) | mimckitt |  | XiaofeiCao | new comment. | 03-28 | 04-25 |  |
+| 16 | [#5970](https://github.com/Azure/sdk-release-request/issues/5970) | mimckitt |  | XiaofeiCao |  | 03-28 | 04-25 |  |
 | 17 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
 | 18 | [#5538](https://github.com/Azure/sdk-release-request/issues/5538) | jaskisin |  | v-hongli1 | new comment. FirstGA. TypeSpec. | 09-27 | 04-24 |  |
