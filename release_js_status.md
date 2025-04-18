@@ -11,7 +11,7 @@
 | 9 | [#6004](https://github.com/Azure/sdk-release-request/issues/6004) | EmmaZhu |  | MaryGao | new issue. | 04-03 | 04-24 |  |
 | 10 | [#5999](https://github.com/Azure/sdk-release-request/issues/5999) | blueww |  | MaryGao | new comment. multi readme link! | 04-03 | 04-24 |  |
 | 11 | [#5993](https://github.com/Azure/sdk-release-request/issues/5993) | blueww |  | MaryGao | new comment. Attention to inconsistent tag. | 04-02 | 04-24 |  |
-| 12 | [#5984](https://github.com/Azure/sdk-release-request/issues/5984) | annapankiewicz |  | MaryGao | new comment. Attention to inconsistent tag. | 04-01 | 04-25 |  |
+| 12 | [#5984](https://github.com/Azure/sdk-release-request/issues/5984) | annapankiewicz |  | MaryGao | Attention to inconsistent tag. | 04-01 | 04-25 |  |
 | 13 | [#5980](https://github.com/Azure/sdk-release-request/issues/5980) | fumingzhang |  | MaryGao | Attention to inconsistent tag. | 03-31 | 04-24 |  |
 | 14 | [#5976](https://github.com/Azure/sdk-release-request/issues/5976) | solankisamir |  | qiaozha | Attention to inconsistent tag. | 03-28 | 04-25 |  |
 | 15 | [#5971](https://github.com/Azure/sdk-release-request/issues/5971) | mimckitt |  | qiaozha | HoldOn. | 03-28 | 04-25 |  |
