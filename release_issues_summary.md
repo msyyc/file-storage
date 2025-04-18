@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Azure Programmable Connectivity  | [#6074](https://github.com/Azure/sdk-release-request/issues/6074)  |  |  |  | 04-17 | fail to get. |  |
+| 1 | [TypeSpec] Python SDK generate request for Azure Programmable Connectivity  | [#6074](https://github.com/Azure/sdk-release-request/issues/6074)  |  |  |  | 04-17 |  |  |
 | 2 | Release for Azure Recovery Services site recovery April 2025  | [#6069](https://github.com/Azure/sdk-release-request/issues/6069)  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  | [#6067](https://github.com/Azure/sdk-release-request/issues/6067)  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 05-22 |  |
 | 3 | [TypeSpec] Python SDK generate request for Azure Carbon Optimization  | [#6064](https://github.com/Azure/sdk-release-request/issues/6064)  |  |  |  | 04-16 | fail to get. |  |
 | 4 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  | [#6057](https://github.com/Azure/sdk-release-request/issues/6057)  | [#6058](https://github.com/Azure/sdk-release-request/issues/6058)  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
