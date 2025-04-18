@@ -12,7 +12,7 @@
 | 10 | [#6013](https://github.com/Azure/sdk-release-request/issues/6013) | audunn |  | XiaofeiCao | new issue. | 04-03 | 04-25 |  |
 | 11 | [#6008](https://github.com/Azure/sdk-release-request/issues/6008) | alluri02 |  | v-hongli1 | new issue. FirstGA. | 04-03 | 04-25 |  |
 | 12 | [#6003](https://github.com/Azure/sdk-release-request/issues/6003) | EmmaZhu |  | v-hongli1 | new issue. | 04-03 | 04-24 |  |
-| 13 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | v-hongli1 | new comment. multi readme link! | 04-03 | 04-24 |  |
+| 13 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | v-hongli1 | multi readme link! | 04-03 | 04-24 |  |
 | 14 | [#5983](https://github.com/Azure/sdk-release-request/issues/5983) | annapankiewicz |  | v-hongli1 | Attention to inconsistent tag. | 04-01 | 04-25 |  |
 | 15 | [#5975](https://github.com/Azure/sdk-release-request/issues/5975) | solankisamir |  | v-hongli1 | new comment. Attention to inconsistent tag. | 03-28 | 04-25 |  |
 | 16 | [#5970](https://github.com/Azure/sdk-release-request/issues/5970) | mimckitt |  | XiaofeiCao | new comment. | 03-28 | 04-25 |  |
