@@ -1,4 +1,12 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-datafactory,azure-sdk,ChenxiJiang333,2025-03-18,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5956,9.2.0,True
+azure-mgmt-appcontainers,azure-sdk,ChenxiJiang333,2025-03-27,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5967,3.2.0,True
+azure-mgmt-networkcloud,azure-sdk,ChenxiJiang333,2025-04-01,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5985,2.1.0b1,
+azure-mgmt-storageactions,azure-sdk,ChenxiJiang333,2025-04-02,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5994,1.0.0b2,
+azure-mgmt-storage,azure-sdk,ChenxiJiang333,2025-04-03,2025-04-21,https://github.com/Azure/sdk-release-request/issues/6000,22.2.0,True
+azure-mgmt-elasticsan,azure-sdk,ChenxiJiang333,2025-04-03,2025-04-21,https://github.com/Azure/sdk-release-request/issues/6005,1.2.0b2,
+azure-mgmt-netapp,azure-sdk,ChenxiJiang333,2025-04-03,2025-04-21,https://github.com/Azure/sdk-release-request/issues/6015,13.5.0,True
+azure-mgmt-netapp,azure-sdk,ChenxiJiang333,2025-04-15,2025-04-21,https://github.com/Azure/sdk-release-request/issues/6060,13.5.0,True
 azure-mgmt-recoveryservicesbackup,azure-sdk,ChenxiJiang333,2025-04-08,2025-04-17,https://github.com/Azure/sdk-release-request/issues/6024,9.2.0,True
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-04-11,2025-04-15,https://github.com/Azure/sdk-release-request/issues/6052,35.0.0,True
 azure-mgmt-iothub,ChenxiJiang333,ChenxiJiang333,2025-04-08,2025-04-09,https://github.com/Azure/sdk-release-request/issues/6019,4.0.0,True
