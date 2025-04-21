@@ -5,7 +5,7 @@
 | 3 | [#6051](https://github.com/Azure/sdk-release-request/issues/6051) | fumingzhang |  | qiaozha | close to release date. HoldOn. | 04-11 | 04-24 | 2 |
 | 4 | [#6042](https://github.com/Azure/sdk-release-request/issues/6042) | lizMSFT |  | qiaozha | new issue. | 04-10 | 04-25 |  |
 | 5 | [#6034](https://github.com/Azure/sdk-release-request/issues/6034) | nikitagarg123 |  | qiaozha | new issue. close to release date. | 04-09 | 04-24 | 2 |
-| 6 | [#6023](https://github.com/Azure/sdk-release-request/issues/6023) | vikramkotturu |  | qiaozha | new issue. new comment. close to release date. | 04-08 | 04-24 | 2 |
+| 6 | [#6023](https://github.com/Azure/sdk-release-request/issues/6023) | vikramkotturu |  | qiaozha | close to release date. | 04-08 | 04-24 | 2 |
 | 7 | [#6014](https://github.com/Azure/sdk-release-request/issues/6014) | audunn |  | MaryGao |  | 04-03 | 04-25 |  |
 | 8 | [#6009](https://github.com/Azure/sdk-release-request/issues/6009) | alluri02 |  | MaryGao | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
 | 9 | [#6004](https://github.com/Azure/sdk-release-request/issues/6004) | EmmaZhu |  | MaryGao | close to release date. | 04-03 | 04-24 | 2 |
