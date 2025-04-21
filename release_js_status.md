@@ -3,7 +3,7 @@
 | 1 | [#6068](https://github.com/Azure/sdk-release-request/issues/6068) | rohan-sahini |  | MaryGao | new issue. | 04-17 | 05-22 |  |
 | 2 | [#6059](https://github.com/Azure/sdk-release-request/issues/6059) | audunn |  | MaryGao | new issue. | 04-15 | 05-23 |  |
 | 3 | [#6051](https://github.com/Azure/sdk-release-request/issues/6051) | fumingzhang |  | qiaozha | close to release date. HoldOn. | 04-11 | 04-24 | 2 |
-| 4 | [#6042](https://github.com/Azure/sdk-release-request/issues/6042) | lizMSFT |  | qiaozha | new issue. | 04-10 | 04-25 |  |
+| 4 | [#6042](https://github.com/Azure/sdk-release-request/issues/6042) | lizMSFT |  | qiaozha |  | 04-10 | 04-25 |  |
 | 5 | [#6034](https://github.com/Azure/sdk-release-request/issues/6034) | nikitagarg123 |  | qiaozha | close to release date. | 04-09 | 04-24 | 2 |
 | 6 | [#6023](https://github.com/Azure/sdk-release-request/issues/6023) | vikramkotturu |  | qiaozha | close to release date. | 04-08 | 04-24 | 2 |
 | 7 | [#6014](https://github.com/Azure/sdk-release-request/issues/6014) | audunn |  | MaryGao |  | 04-03 | 04-25 |  |
