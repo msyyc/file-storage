@@ -1,13 +1,13 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6077](https://github.com/Azure/sdk-release-request/issues/6077) | thedonluke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 04-18 | fail to get. |  |
+| 1 | [#6077](https://github.com/Azure/sdk-release-request/issues/6077) | thedonluke |  | ChenxiJiang333 | duplicated issue  <br> | 04-18 |  | 0 |
 | 2 | [#6074](https://github.com/Azure/sdk-release-request/issues/6074) | SallyAnneBennett | azure-mgmt-programmableconnectivity | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-17 | fail to get. |  |
 | 3 | [#6069](https://github.com/Azure/sdk-release-request/issues/6069) | rohan-sahini | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 04-17 | 05-22 |  |
 | 4 | [#6064](https://github.com/Azure/sdk-release-request/issues/6064) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-16 | fail to get. |  |
 | 5 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-15 | 05-23 |  |
 | 6 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-10 | 04-25 |  |
 | 7 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 | close to release date. | 04-09 | 04-24 | 2 |
-| 8 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 |  | 04-08 |  | 0 |
+| 8 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 | duplicated issue  <br> | 04-08 |  | 0 |
 | 9 | [#6015](https://github.com/Azure/sdk-release-request/issues/6015) | audunn | azure-mgmt-netapp | ChenxiJiang333 | duplicated issue  <br> | 04-03 | 04-25 |  |
 | 10 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
 | 11 | [#6005](https://github.com/Azure/sdk-release-request/issues/6005) | EmmaZhu | azure-mgmt-elasticsan | ChenxiJiang333 | close to release date. | 04-03 | 04-24 | 2 |
