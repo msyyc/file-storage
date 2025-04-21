@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6077](https://github.com/Azure/sdk-release-request/issues/6077)  |  |  |  | 04-18 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6077](https://github.com/Azure/sdk-release-request/issues/6077)  |  |  |  | 04-18 | fail to get. |  |
 | 2 | [TypeSpec] Python SDK generate request for Azure Programmable Connectivity  | [#6074](https://github.com/Azure/sdk-release-request/issues/6074)  |  |  |  | 04-17 | fail to get. |  |
 | 3 | Release for Azure Recovery Services site recovery April 2025  | [#6069](https://github.com/Azure/sdk-release-request/issues/6069)  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  | [#6067](https://github.com/Azure/sdk-release-request/issues/6067)  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 05-22 |  |
 | 4 | [TypeSpec] Python SDK generate request for Azure Carbon Optimization  | [#6064](https://github.com/Azure/sdk-release-request/issues/6064)  |  |  |  | 04-16 | fail to get. |  |
@@ -21,7 +21,7 @@
 | 19 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
 | 20 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. | Hold on by Java/ |
 | 21 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
-| 22 | Release for Network Cloud - 2024-10-01-preview  |  | [#5982](https://github.com/Azure/sdk-release-request/issues/5982)  | [#5983](https://github.com/Azure/sdk-release-request/issues/5983)  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
+| 22 | Release for Network Cloud - 2024-10-01-preview  |  |  | [#5983](https://github.com/Azure/sdk-release-request/issues/5983)  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
 | 23 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
 | 24 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
 | 25 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. | Hold on by Go/ |
