@@ -10,7 +10,7 @@
 | 8 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch |  | ChenxiJiang333 |  | 04-08 |  | 0 |
 | 9 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | FirstGA. TypeSpec. | 04-03 | 04-25 |  |
 | 10 | [#5977](https://github.com/Azure/sdk-release-request/issues/5977) | solankisamir | azure-mgmt-apimanagement | ChenxiJiang333 |  | 03-28 | 04-25 |  |
-| 11 | [#5972](https://github.com/Azure/sdk-release-request/issues/5972) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | TypeSpec. | 03-28 | 04-25 |  |
+| 11 | [#5972](https://github.com/Azure/sdk-release-request/issues/5972) | mimckitt | azure-mgmt-standbypool | ChenxiJiang333 | new comment. TypeSpec. | 03-28 | 04-25 |  |
 | 12 | [#5961](https://github.com/Azure/sdk-release-request/issues/5961) | KarthikK123 | azure-mgmt-dependencymap | ChenxiJiang333 | close to release date. FirstBeta. TypeSpec. | 03-21 | 04-24 | 2 |
 | 13 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
 | 14 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 09-27 | 04-24 | 2 |
