@@ -11,6 +11,5 @@
 | 9 | [#6033](https://github.com/Azure/sdk-release-request/issues/6033) | nikitagarg123 |  | v-hongli1 | close to release date. | 04-09 | 04-24 | 1 |
 | 10 | [#6028](https://github.com/Azure/sdk-release-request/issues/6028) | smichtch |  | weidongxu-microsoft |  | 04-08 | fail to get. |  |
 | 11 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | v-hongli1 | new comment. multi readme link! close to release date. | 04-03 | 04-24 | 1 |
-| 12 | [#5983](https://github.com/Azure/sdk-release-request/issues/5983) | annapankiewicz |  | v-hongli1 | new comment. close to release date. Attention to inconsistent tag. | 04-01 | 04-25 | 2 |
-| 13 | [#5975](https://github.com/Azure/sdk-release-request/issues/5975) | solankisamir |  | v-hongli1 | close to release date. Attention to inconsistent tag. | 03-28 | 04-25 | 2 |
-| 14 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
+| 12 | [#5975](https://github.com/Azure/sdk-release-request/issues/5975) | solankisamir |  | v-hongli1 | close to release date. Attention to inconsistent tag. | 03-28 | 04-25 | 2 |
+| 13 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
