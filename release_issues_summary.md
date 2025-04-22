@@ -20,7 +20,7 @@
 | 18 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. |  |
 | 19 | Release for Container Service - 2025-02-01  |  | [#6049](https://github.com/Azure/sdk-release-request/issues/6049)  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
 | 20 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
-| 21 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. | Hold on by Java/ |
+| 21 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
 | 22 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
 | 23 | Release for Network Cloud - 2024-10-01-preview  |  |  | [#5983](https://github.com/Azure/sdk-release-request/issues/5983)  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
 | 24 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
