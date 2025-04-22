@@ -6,7 +6,7 @@
 | 4 | [#6069](https://github.com/Azure/sdk-release-request/issues/6069) | rohan-sahini | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 04-17 | 05-22 |  |
 | 5 | [#6064](https://github.com/Azure/sdk-release-request/issues/6064) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 04-16 | fail to get. |  |
 | 6 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-15 | 05-23 |  |
-| 7 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 | new comment. close to release date. | 04-10 | 04-25 | 2 |
+| 7 | [#6043](https://github.com/Azure/sdk-release-request/issues/6043) | lizMSFT | azure-mgmt-containerregistry | ChenxiJiang333 | close to release date. | 04-10 | 04-25 | 2 |
 | 8 | [#6035](https://github.com/Azure/sdk-release-request/issues/6035) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 | close to release date. | 04-09 | 04-24 | 1 |
 | 9 | [#6027](https://github.com/Azure/sdk-release-request/issues/6027) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 04-08 | fail to get. |  |
 | 10 | [#6010](https://github.com/Azure/sdk-release-request/issues/6010) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | close to release date. FirstGA. TypeSpec. | 04-03 | 04-25 | 2 |
