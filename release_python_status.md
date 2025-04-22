@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6080](https://github.com/Azure/sdk-release-request/issues/6080) | ChenxiJiang333 | azure-mgmt-servicebus | ChenxiJiang333 | new issue. | 04-21 | fail to get. |  |
+| 1 | [#6080](https://github.com/Azure/sdk-release-request/issues/6080) | ChenxiJiang333 | azure-mgmt-servicebus | ChenxiJiang333 | new issue. MultiAPI | 04-21 | fail to get. |  |
 | 2 | [#6077](https://github.com/Azure/sdk-release-request/issues/6077) | thedonluke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | TypeSpec. | 04-18 | fail to get. |  |
 | 3 | [#6074](https://github.com/Azure/sdk-release-request/issues/6074) | SallyAnneBennett | azure-mgmt-programmableconnectivity | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-17 | fail to get. |  |
 | 4 | [#6069](https://github.com/Azure/sdk-release-request/issues/6069) | rohan-sahini | azure-mgmt-recoveryservicessiterecovery | ChenxiJiang333 |  | 04-17 | 05-22 |  |
