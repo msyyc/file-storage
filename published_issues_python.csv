@@ -1,4 +1,10 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-dependencymap,azure-sdk,ChenxiJiang333,2025-03-21,2025-04-22,https://github.com/Azure/sdk-release-request/issues/5961,1.0.0b1,
+azure-mgmt-standbypool,azure-sdk,ChenxiJiang333,2025-03-28,2025-04-22,https://github.com/Azure/sdk-release-request/issues/5972,2.0.0,True
+azure-mgmt-apimanagement,azure-sdk,ChenxiJiang333,2025-03-28,2025-04-22,https://github.com/Azure/sdk-release-request/issues/5977,5.0.0,True
+azure-mgmt-neonpostgres,azure-sdk,ChenxiJiang333,2025-04-03,2025-04-22,https://github.com/Azure/sdk-release-request/issues/6010,1.0.0,True
+azure-mgmt-redisenterprise,azure-sdk,ChenxiJiang333,2025-04-09,2025-04-22,https://github.com/Azure/sdk-release-request/issues/6035,3.1.0b3,
+azure-mgmt-containerregistry,azure-sdk,ChenxiJiang333,2025-04-10,2025-04-22,https://github.com/Azure/sdk-release-request/issues/6043,13.0.0,True
 azure-mgmt-datafactory,azure-sdk,ChenxiJiang333,2025-03-18,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5956,9.2.0,True
 azure-mgmt-appcontainers,azure-sdk,ChenxiJiang333,2025-03-27,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5967,3.2.0,True
 azure-mgmt-networkcloud,azure-sdk,ChenxiJiang333,2025-04-01,2025-04-21,https://github.com/Azure/sdk-release-request/issues/5985,2.1.0b1,
