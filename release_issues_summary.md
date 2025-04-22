@@ -17,7 +17,7 @@
 | 15 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by JS/Go/ |
 | 16 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
 | 17 | [TypeSpec] Java SDK generate request for Azure Programmable Connectivity  |  |  | [#6072](https://github.com/Azure/sdk-release-request/issues/6072)  |  | 04-17 | fail to get. |  |
-| 18 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. | Hold on by Java/ |
+| 18 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. |  |
 | 19 | Release for Container Service - 2025-02-01  |  | [#6049](https://github.com/Azure/sdk-release-request/issues/6049)  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
 | 20 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
 | 21 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. | Hold on by Java/ |
@@ -25,7 +25,7 @@
 | 23 | Release for Network Cloud - 2024-10-01-preview  |  |  | [#5983](https://github.com/Azure/sdk-release-request/issues/5983)  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
 | 24 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
 | 25 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
-| 26 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. | Hold on by Go/ |
+| 26 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
 | 27 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
 | 28 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
 | 29 | Release for StorageActions - 2023-01-01  |  | [#5991](https://github.com/Azure/sdk-release-request/issues/5991)  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
