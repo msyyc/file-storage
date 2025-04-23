@@ -1,37 +1,41 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Reduce package size for servicebus (only for python)  | [#6080](https://github.com/Azure/sdk-release-request/issues/6080)  |  |  |  | 04-21 | fail to get. |  |
-| 2 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6077](https://github.com/Azure/sdk-release-request/issues/6077)  |  |  |  | 04-18 | fail to get. |  |
-| 3 | [TypeSpec] Python SDK generate request for Azure Programmable Connectivity  | [#6074](https://github.com/Azure/sdk-release-request/issues/6074)  |  |  |  | 04-17 | fail to get. |  |
-| 4 | Release for Azure Recovery Services site recovery April 2025  | [#6069](https://github.com/Azure/sdk-release-request/issues/6069)  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  | [#6067](https://github.com/Azure/sdk-release-request/issues/6067)  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 05-22 |  |
-| 5 | [TypeSpec] Python SDK generate request for Azure Carbon Optimization  | [#6064](https://github.com/Azure/sdk-release-request/issues/6064)  |  |  |  | 04-16 | fail to get. |  |
-| 6 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  | [#6057](https://github.com/Azure/sdk-release-request/issues/6057)  | [#6058](https://github.com/Azure/sdk-release-request/issues/6058)  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
-| 7 | [TypeSpec] Python SDK generate request for Online Experimentation  | [#6027](https://github.com/Azure/sdk-release-request/issues/6027)  |  |  |  | 04-08 | fail to get. |  |
-| 8 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 |  |
-| 9 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by JS/Go/ |
-| 10 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
-| 11 | [TypeSpec] Java SDK generate request for Azure Programmable Connectivity  |  |  | [#6072](https://github.com/Azure/sdk-release-request/issues/6072)  |  | 04-17 | fail to get. |  |
-| 12 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. |  |
-| 13 | Release for Container Service - 2025-02-01  |  |  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
-| 14 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
-| 15 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  | [#6041](https://github.com/Azure/sdk-release-request/issues/6041)  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
-| 16 | Release for Redis Enterprise - 2025-05-01  |  | [#6032](https://github.com/Azure/sdk-release-request/issues/6032)  | [#6033](https://github.com/Azure/sdk-release-request/issues/6033)  | [#6034](https://github.com/Azure/sdk-release-request/issues/6034)  | 04-09 | 04-24 | Hold on by Java/ |
-| 17 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
-| 18 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
-| 19 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  | [#5975](https://github.com/Azure/sdk-release-request/issues/5975)  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
-| 20 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
-| 21 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
-| 22 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
-| 23 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
-| 24 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
-| 25 | Neon Postgres GA Release  |  | [#6007](https://github.com/Azure/sdk-release-request/issues/6007)  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
-| 26 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
-| 27 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
-| 28 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
-| 29 | Release for StorageActions - 2023-01-01  |  |  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
-| 30 | Release for Network Cloud - 2024-10-01-preview  |  |  |  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
-| 31 | Release for Container Service - 2025-01-02-preview  |  |  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
-| 32 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
-| 33 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
-| 34 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
-| 35 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
+| 1 | [TypeSpec] Python SDK generate request for Application Gateway for Containers  | [#6098](https://github.com/Azure/sdk-release-request/issues/6098)  |  |  |  | 04-23 | fail to get. |  |
+| 2 | Release for ContainerRegistry - 2025-04-01  | [#6093](https://github.com/Azure/sdk-release-request/issues/6093)  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 |  |
+| 3 | [TypeSpec] Python SDK generate request for Azure Carbon Optimization  | [#6064](https://github.com/Azure/sdk-release-request/issues/6064)  |  |  |  | 04-16 | fail to get. |  |
+| 4 | Microsoft.Resources/deployments 2025-03-01  | [#6084](https://github.com/Azure/sdk-release-request/issues/6084)  | [#6081](https://github.com/Azure/sdk-release-request/issues/6081)  | [#6082](https://github.com/Azure/sdk-release-request/issues/6082)  | [#6083](https://github.com/Azure/sdk-release-request/issues/6083)  | 04-22 | 05-23 |  |
+| 5 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6077](https://github.com/Azure/sdk-release-request/issues/6077)  |  |  |  | 04-18 | fail to get. |  |
+| 6 | [TypeSpec] Python SDK generate request for Azure Programmable Connectivity  | [#6074](https://github.com/Azure/sdk-release-request/issues/6074)  |  |  |  | 04-17 | fail to get. |  |
+| 7 | Release for Azure Recovery Services site recovery April 2025  | [#6069](https://github.com/Azure/sdk-release-request/issues/6069)  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  | [#6067](https://github.com/Azure/sdk-release-request/issues/6067)  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 05-22 |  |
+| 8 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  | [#6057](https://github.com/Azure/sdk-release-request/issues/6057)  | [#6058](https://github.com/Azure/sdk-release-request/issues/6058)  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
+| 9 | [TypeSpec] Python SDK generate request for Online Experimentation  | [#6027](https://github.com/Azure/sdk-release-request/issues/6027)  |  |  |  | 04-08 | fail to get. |  |
+| 10 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 |  |
+| 11 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by JS/Go/ |
+| 12 | [TypeSpec] Java SDK generate request for Application Gateway for Containers  |  |  | [#6096](https://github.com/Azure/sdk-release-request/issues/6096)  |  | 04-23 | fail to get. |  |
+| 13 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. |  |
+| 14 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
+| 15 | [TypeSpec] Java SDK generate request for Azure Programmable Connectivity  |  |  | [#6072](https://github.com/Azure/sdk-release-request/issues/6072)  |  | 04-17 | fail to get. |  |
+| 16 | Release for Container Service - 2025-02-01  |  |  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
+| 17 | [TypeSpec] Java SDK generate request for Copilot in Azure  |  |  | [#6048](https://github.com/Azure/sdk-release-request/issues/6048)  |  | 04-10 | fail to get. |  |
+| 18 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  | [#6041](https://github.com/Azure/sdk-release-request/issues/6041)  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
+| 19 | Release for Redis Enterprise - 2025-05-01  |  | [#6032](https://github.com/Azure/sdk-release-request/issues/6032)  | [#6033](https://github.com/Azure/sdk-release-request/issues/6033)  | [#6034](https://github.com/Azure/sdk-release-request/issues/6034)  | 04-09 | 04-24 | Hold on by Java/ |
+| 20 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
+| 21 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
+| 22 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  | [#5975](https://github.com/Azure/sdk-release-request/issues/5975)  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
+| 23 | [TypeSpec] Go SDK generate request for Application Gateway for Containers  |  | [#6095](https://github.com/Azure/sdk-release-request/issues/6095)  |  |  | 04-23 | fail to get. |  |
+| 24 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
+| 25 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
+| 26 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
+| 27 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
+| 28 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
+| 29 | Neon Postgres GA Release  |  | [#6007](https://github.com/Azure/sdk-release-request/issues/6007)  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
+| 30 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
+| 31 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
+| 32 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
+| 33 | Release for StorageActions - 2023-01-01  |  |  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
+| 34 | Release for Network Cloud - 2024-10-01-preview  |  |  |  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
+| 35 | Release for Container Service - 2025-01-02-preview  |  |  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
+| 36 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
+| 37 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
+| 38 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
+| 39 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
