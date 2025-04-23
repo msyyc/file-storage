@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|qiaozha||2025-04-17|
+|1|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|qiaozha|new comment|2025-04-17|
 |2|[#33912](https://github.com/Azure/azure-sdk-for-js/issues/33912)|Some tsp-location.yaml in the repo are using `repo: ../azure-rest-api-specs`|Mgmt|qiaozha|new comment|2025-04-17|
 |3|[#33035](https://github.com/Azure/azure-sdk-for-js/issues/33035)|SubscriptionClient.subscriptions.get SubscriptionNotFound Error is in the wrong format|bug, customer-reported, Mgmt, Subscription, needs-team-attention|qiaozha, kazrael2119||2025-02-13|
 |4|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, needs-team-attention|MaryGao||2025-01-07|
