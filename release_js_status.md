@@ -6,7 +6,7 @@
 | 4 | [#6059](https://github.com/Azure/sdk-release-request/issues/6059) | audunn |  | MaryGao | new issue. | 04-15 | 05-23 |  |
 | 5 | [#6051](https://github.com/Azure/sdk-release-request/issues/6051) | fumingzhang |  | qiaozha | close to release date. HoldOn. | 04-11 | 04-24 | 0 |
 | 6 | [#6042](https://github.com/Azure/sdk-release-request/issues/6042) | lizMSFT |  | qiaozha | close to release date. | 04-10 | 04-25 | 1 |
-| 7 | [#6034](https://github.com/Azure/sdk-release-request/issues/6034) | nikitagarg123 |  | qiaozha | new comment. close to release date. | 04-09 | 04-24 | 0 |
+| 7 | [#6034](https://github.com/Azure/sdk-release-request/issues/6034) | nikitagarg123 |  | qiaozha | close to release date. HoldOn. | 04-09 | 04-24 | 0 |
 | 8 | [#6023](https://github.com/Azure/sdk-release-request/issues/6023) | vikramkotturu |  | qiaozha | close to release date. | 04-08 | 04-24 | 0 |
 | 9 | [#6014](https://github.com/Azure/sdk-release-request/issues/6014) | audunn |  | MaryGao | new comment. close to release date. | 04-03 | 04-25 | 1 |
 | 10 | [#6009](https://github.com/Azure/sdk-release-request/issues/6009) | alluri02 |  | MaryGao | close to release date. FirstGA. TypeSpec. | 04-03 | 04-25 | 1 |
@@ -20,4 +20,4 @@
 | 18 | [#5966](https://github.com/Azure/sdk-release-request/issues/5966) | najimicrosoft.com |  | qiaozha | close to release date. | 03-27 | 04-24 | 0 |
 | 19 | [#5960](https://github.com/Azure/sdk-release-request/issues/5960) | KarthikK123 |  | MaryGao | close to release date. FirstBeta. TypeSpec. | 03-21 | 04-24 | 0 |
 | 20 | [#5955](https://github.com/Azure/sdk-release-request/issues/5955) | ruowan |  | MaryGao | close to release date. | 03-18 | 04-24 | 0 |
-| 21 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | close to release date. FirstGA. HoldOn. TypeSpec. | 09-27 | 04-24 | 0 |
+| 21 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | close to release date. FirstGA. TypeSpec. | 09-27 | 04-24 | 0 |
