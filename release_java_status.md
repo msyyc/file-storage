@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6096](https://github.com/Azure/sdk-release-request/issues/6096) | cdxu-147 |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 04-23 | fail to get. |  |
 | 2 | [#6091](https://github.com/Azure/sdk-release-request/issues/6091) | joshbauanch |  | v-hongli1 | new issue. | 04-22 | 05-23 |  |
-| 3 | [#6087](https://github.com/Azure/sdk-release-request/issues/6087) | liangchenmicrosoft |  | v-hongli1 |  | 04-22 |  | 0 |
+| 3 | [#6087](https://github.com/Azure/sdk-release-request/issues/6087) | liangchenmicrosoft |  | v-hongli1 | new issue. | 04-22 | fail to get. |  |
 | 4 | [#6082](https://github.com/Azure/sdk-release-request/issues/6082) | kalbert312 |  | v-hongli1 | Attention to inconsistent tag. | 04-22 | 05-23 |  |
 | 5 | [#6078](https://github.com/Azure/sdk-release-request/issues/6078) | thedonluke |  | v-hongli1 | Attention to inconsistent tag. | 04-18 | fail to get. |  |
 | 6 | [#6072](https://github.com/Azure/sdk-release-request/issues/6072) | SallyAnneBennett |  | weidongxu-microsoft | Attention to inconsistent tag. | 04-17 | fail to get. |  |
