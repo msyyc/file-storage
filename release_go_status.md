@@ -9,9 +9,9 @@
 | 7 | [#6066](https://github.com/Azure/sdk-release-request/issues/6066) | rohan-sahini |  | jliusan | new issue. close to release date. | 04-17 | 04-23 | 0 |
 | 8 | [#6063](https://github.com/Azure/sdk-release-request/issues/6063) | liangchenmicrosoft |  | jliusan | Attention to inconsistent tag. | 04-16 | fail to get. |  |
 | 9 | [#6057](https://github.com/Azure/sdk-release-request/issues/6057) | audunn |  | jliusan | new issue. | 04-15 | 05-23 |  |
-| 10 | [#6046](https://github.com/Azure/sdk-release-request/issues/6046) | karanvsingh1 |  | jliusan | new comment. multi readme link! | 04-10 | fail to get. |  |
+| 10 | [#6046](https://github.com/Azure/sdk-release-request/issues/6046) | karanvsingh1 |  | jliusan | multi readme link! | 04-10 | fail to get. |  |
 | 11 | [#6040](https://github.com/Azure/sdk-release-request/issues/6040) | lizMSFT |  | jliusan | new issue. close to release date. | 04-10 | 04-25 | 1 |
-| 12 | [#6032](https://github.com/Azure/sdk-release-request/issues/6032) | nikitagarg123 |  | jliusan | new issue. new comment. close to release date. | 04-09 | 04-24 | 0 |
+| 12 | [#6032](https://github.com/Azure/sdk-release-request/issues/6032) | nikitagarg123 |  | jliusan | close to release date. | 04-09 | 04-24 | 0 |
 | 13 | [#6029](https://github.com/Azure/sdk-release-request/issues/6029) | smichtch |  | jliusan | new comment. HoldOn. | 04-08 | fail to get. |  |
 | 14 | [#6007](https://github.com/Azure/sdk-release-request/issues/6007) | alluri02 |  | jliusan | new issue. close to release date. | 04-03 | 04-25 | 1 |
 | 15 | [#5974](https://github.com/Azure/sdk-release-request/issues/5974) | solankisamir |  | jliusan | new comment. close to release date. Attention to inconsistent tag. | 03-28 | 04-25 | 1 |
