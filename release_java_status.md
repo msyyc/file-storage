@@ -12,7 +12,7 @@
 | 10 | [#6050](https://github.com/Azure/sdk-release-request/issues/6050) | fumingzhang |  | v-hongli1 | new issue. close to release date. | 04-11 | 04-24 | 0 |
 | 11 | [#6048](https://github.com/Azure/sdk-release-request/issues/6048) | karanvsingh1 |  | v-hongli1 | multi readme link! | 04-10 | fail to get. |  |
 | 12 | [#6041](https://github.com/Azure/sdk-release-request/issues/6041) | lizMSFT |  | v-hongli1 | close to release date. | 04-10 | 04-25 | 1 |
-| 13 | [#6033](https://github.com/Azure/sdk-release-request/issues/6033) | nikitagarg123 |  | v-hongli1 | close to release date. HoldOn. | 04-09 | 04-24 | 0 |
+| 13 | [#6033](https://github.com/Azure/sdk-release-request/issues/6033) | nikitagarg123 |  | v-hongli1 | new comment. close to release date. HoldOn. | 04-09 | 04-24 | 0 |
 | 14 | [#6028](https://github.com/Azure/sdk-release-request/issues/6028) | smichtch |  | weidongxu-microsoft |  | 04-08 | fail to get. |  |
 | 15 | [#5998](https://github.com/Azure/sdk-release-request/issues/5998) | blueww |  | v-hongli1 | new comment. multi readme link! close to release date. | 04-03 | 04-24 | 0 |
 | 16 | [#5975](https://github.com/Azure/sdk-release-request/issues/5975) | solankisamir |  | v-hongli1 | close to release date. Attention to inconsistent tag. | 03-28 | 04-25 | 1 |

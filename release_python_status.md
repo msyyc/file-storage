@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6098](https://github.com/Azure/sdk-release-request/issues/6098) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | new issue. TypeSpec. | 04-23 | fail to get. |  |
+| 1 | [#6098](https://github.com/Azure/sdk-release-request/issues/6098) | cdxu-147 | azure-mgmt-servicenetworking | ChenxiJiang333 | TypeSpec. | 04-23 | fail to get. |  |
 | 2 | [#6093](https://github.com/Azure/sdk-release-request/issues/6093) | joshbauanch | azure-mgmt-containerregistry | ChenxiJiang333 |  | 04-22 | 05-23 |  |
 | 3 | [#6084](https://github.com/Azure/sdk-release-request/issues/6084) | kalbert312 | azure-mgmt-resource | ChenxiJiang333 | HoldOn. MultiAPI | 04-22 | 05-23 |  |
 | 4 | [#6077](https://github.com/Azure/sdk-release-request/issues/6077) | thedonluke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | TypeSpec. | 04-18 | fail to get. |  |
