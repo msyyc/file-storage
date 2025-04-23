@@ -16,15 +16,15 @@
 | 14 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
 | 15 | [TypeSpec] Java SDK generate request for Azure Programmable Connectivity  |  |  | [#6072](https://github.com/Azure/sdk-release-request/issues/6072)  |  | 04-17 | fail to get. |  |
 | 16 | Release for Container Service - 2025-02-01  |  |  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
-| 17 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  | [#6041](https://github.com/Azure/sdk-release-request/issues/6041)  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
-| 18 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
-| 19 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
-| 20 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  | [#5975](https://github.com/Azure/sdk-release-request/issues/5975)  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
-| 21 | [TypeSpec] Go SDK generate request for Application Gateway for Containers  |  | [#6095](https://github.com/Azure/sdk-release-request/issues/6095)  |  |  | 04-23 | fail to get. |  |
-| 22 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
-| 23 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
-| 24 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
-| 25 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 04-23 |  |
+| 17 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
+| 18 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
+| 19 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  | [#5975](https://github.com/Azure/sdk-release-request/issues/5975)  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
+| 20 | [TypeSpec] Go SDK generate request for Application Gateway for Containers  |  | [#6095](https://github.com/Azure/sdk-release-request/issues/6095)  |  |  | 04-23 | fail to get. |  |
+| 21 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
+| 22 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
+| 23 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
+| 24 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 04-23 |  |
+| 25 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  |  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
 | 26 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
 | 27 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
 | 28 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
