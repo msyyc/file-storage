@@ -25,16 +25,15 @@
 | 23 | [TypeSpec] Go SDK generate request for Azure Carbon Optimization  |  | [#6063](https://github.com/Azure/sdk-release-request/issues/6063)  |  |  | 04-16 | fail to get. |  |
 | 24 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
 | 25 | [TypeSpec] Go SDK generate request for Azure Programmable Connectivity  |  | [#6071](https://github.com/Azure/sdk-release-request/issues/6071)  |  |  | 04-17 | fail to get. |  |
-| 26 | [TypeSpec] Go SDK generate request for Copilot in Azure  |  | [#6046](https://github.com/Azure/sdk-release-request/issues/6046)  |  |  | 04-10 | fail to get. |  |
-| 27 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
-| 28 | Neon Postgres GA Release  |  | [#6007](https://github.com/Azure/sdk-release-request/issues/6007)  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
-| 29 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
-| 30 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
-| 31 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
-| 32 | Release for StorageActions - 2023-01-01  |  |  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
-| 33 | Release for Network Cloud - 2024-10-01-preview  |  |  |  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
-| 34 | Release for Container Service - 2025-01-02-preview  |  |  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
-| 35 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
-| 36 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
-| 37 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
-| 38 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
+| 26 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6029](https://github.com/Azure/sdk-release-request/issues/6029)  |  |  | 04-08 | fail to get. | Hold on by Go/ |
+| 27 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
+| 28 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
+| 29 | Neon Postgres GA Release  |  |  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
+| 30 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
+| 31 | Release for StorageActions - 2023-01-01  |  |  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
+| 32 | Release for Network Cloud - 2024-10-01-preview  |  |  |  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
+| 33 | Release for Container Service - 2025-01-02-preview  |  |  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
+| 34 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
+| 35 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
+| 36 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
+| 37 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
