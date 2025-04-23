@@ -6,7 +6,7 @@
 | 4 | [#6082](https://github.com/Azure/sdk-release-request/issues/6082) | kalbert312 |  | v-hongli1 | Attention to inconsistent tag. | 04-22 | 05-23 |  |
 | 5 | [#6078](https://github.com/Azure/sdk-release-request/issues/6078) | thedonluke |  | v-hongli1 | Attention to inconsistent tag. | 04-18 | fail to get. |  |
 | 6 | [#6072](https://github.com/Azure/sdk-release-request/issues/6072) | SallyAnneBennett |  | weidongxu-microsoft | Attention to inconsistent tag. | 04-17 | fail to get. |  |
-| 7 | [#6067](https://github.com/Azure/sdk-release-request/issues/6067) | rohan-sahini |  | weidongxu-microsoft | new issue. | 04-17 | 05-22 |  |
+| 7 | [#6067](https://github.com/Azure/sdk-release-request/issues/6067) | rohan-sahini |  | weidongxu-microsoft | new issue. close to release date. | 04-17 | 04-23 | 0 |
 | 8 | [#6062](https://github.com/Azure/sdk-release-request/issues/6062) | liangchenmicrosoft |  | XiaofeiCao | Attention to inconsistent tag. FirstBeta. | 04-16 | fail to get. |  |
 | 9 | [#6058](https://github.com/Azure/sdk-release-request/issues/6058) | audunn |  | weidongxu-microsoft | new issue. | 04-15 | 05-23 |  |
 | 10 | [#6050](https://github.com/Azure/sdk-release-request/issues/6050) | fumingzhang |  | v-hongli1 | new issue. close to release date. | 04-11 | 04-24 | 0 |
