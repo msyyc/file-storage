@@ -11,11 +11,11 @@
 | 9 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
 | 10 | Release for Container Service - 2025-02-01  |  |  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
 | 11 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
-| 12 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  | [#5975](https://github.com/Azure/sdk-release-request/issues/5975)  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
-| 13 | Release for Container Service - 2025-02-02-preview  |  | [#6099](https://github.com/Azure/sdk-release-request/issues/6099)  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 05-22 |  |
-| 14 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
-| 15 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 04-23 |  |
-| 16 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  |  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
+| 12 | Release for Container Service - 2025-02-02-preview  |  | [#6099](https://github.com/Azure/sdk-release-request/issues/6099)  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 05-22 |  |
+| 13 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
+| 14 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 04-23 |  |
+| 15 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  |  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
+| 16 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  |  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
 | 17 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
 | 18 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
 | 19 | Neon Postgres GA Release  |  |  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
