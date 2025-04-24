@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6096](https://github.com/Azure/sdk-release-request/issues/6096) | cdxu-147 |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 04-23 | fail to get. |  |
+| 1 | [#6096](https://github.com/Azure/sdk-release-request/issues/6096) | cdxu-147 |  | weidongxu-microsoft | Attention to inconsistent tag. | 04-23 | fail to get. |  |
 | 2 | [#6091](https://github.com/Azure/sdk-release-request/issues/6091) | joshbauanch |  | v-hongli1 | new issue. new comment. HoldOn. | 04-22 | 05-23 |  |
 | 3 | [#6082](https://github.com/Azure/sdk-release-request/issues/6082) | kalbert312 |  | weidongxu-microsoft | Attention to inconsistent tag. | 04-22 | 05-23 |  |
 | 4 | [#6078](https://github.com/Azure/sdk-release-request/issues/6078) | thedonluke |  | v-hongli1 | Attention to inconsistent tag. | 04-18 | fail to get. |  |
