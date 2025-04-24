@@ -7,9 +7,9 @@
 | 5 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 |  |
 | 6 | Release for Workloads SapVirtualInstances - 2024-09-01  | [#5540](https://github.com/Azure/sdk-release-request/issues/5540)  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  | [#5539](https://github.com/Azure/sdk-release-request/issues/5539)  | 09-27 | 04-24 | Hold on by Go/ |
 | 7 | [TypeSpec] Java SDK generate request for Application Gateway for Containers  |  |  | [#6096](https://github.com/Azure/sdk-release-request/issues/6096)  |  | 04-23 | fail to get. |  |
-| 8 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. |  |
-| 9 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
-| 10 | [TypeSpec] Java SDK generate request for Azure Programmable Connectivity  |  |  | [#6072](https://github.com/Azure/sdk-release-request/issues/6072)  |  | 04-17 | fail to get. |  |
+| 8 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
+| 9 | [TypeSpec] Java SDK generate request for Azure Programmable Connectivity  |  |  | [#6072](https://github.com/Azure/sdk-release-request/issues/6072)  |  | 04-17 | fail to get. |  |
+| 10 | [TypeSpec] Java SDK generate request for Azure Carbon Optimization  |  |  | [#6062](https://github.com/Azure/sdk-release-request/issues/6062)  |  | 04-16 | fail to get. |  |
 | 11 | Release for Container Service - 2025-02-01  |  |  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
 | 12 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6028](https://github.com/Azure/sdk-release-request/issues/6028)  |  | 04-08 | fail to get. |  |
 | 13 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
