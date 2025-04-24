@@ -22,7 +22,7 @@
 | 20 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
 | 21 | Release for StorageActions - 2023-01-01  |  |  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
 | 22 | Release for Network Cloud - 2024-10-01-preview  |  |  |  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
-| 23 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
+| 23 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 |  |
 | 24 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
 | 25 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
 | 26 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
