@@ -11,7 +11,7 @@
 | 9 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
 | 10 | Release for Container Service - 2025-02-01  |  |  | [#6050](https://github.com/Azure/sdk-release-request/issues/6050)  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
 | 11 | Release for Storage - 2024-01-01  |  |  | [#5998](https://github.com/Azure/sdk-release-request/issues/5998)  | [#5999](https://github.com/Azure/sdk-release-request/issues/5999)  | 04-03 | 04-24 |  |
-| 12 | Release for Container Service - 2025-02-02-preview  |  | [#6099](https://github.com/Azure/sdk-release-request/issues/6099)  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 05-22 |  |
+| 12 | Release for Container Service - 2025-02-02-preview  |  | [#6099](https://github.com/Azure/sdk-release-request/issues/6099)  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 04-24 |  |
 | 13 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
 | 14 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 04-23 |  |
 | 15 | Release for azure container registry - 2025-03-preview  |  | [#6040](https://github.com/Azure/sdk-release-request/issues/6040)  |  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
@@ -22,8 +22,7 @@
 | 20 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
 | 21 | Release for StorageActions - 2023-01-01  |  |  |  | [#5993](https://github.com/Azure/sdk-release-request/issues/5993)  | 04-02 | 04-24 |  |
 | 22 | Release for Network Cloud - 2024-10-01-preview  |  |  |  | [#5984](https://github.com/Azure/sdk-release-request/issues/5984)  | 04-01 | 04-25 |  |
-| 23 | Release for Container Service - 2025-01-02-preview  |  |  |  | [#5980](https://github.com/Azure/sdk-release-request/issues/5980)  | 03-31 | 04-24 |  |
-| 24 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
-| 25 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
-| 26 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
-| 27 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
+| 23 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 | Hold on by JS/ |
+| 24 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
+| 25 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
+| 26 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
