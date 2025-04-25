@@ -27,4 +27,3 @@
 | 25 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 |  |
 | 26 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
 | 27 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
-| 28 | Release for Azure Data Factory 2018-06  |  |  |  | [#5955](https://github.com/Azure/sdk-release-request/issues/5955)  | 03-18 | 04-24 |  |
