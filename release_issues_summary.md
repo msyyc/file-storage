@@ -12,15 +12,13 @@
 | 10 | [TypeSpec] Java SDK generate request for Application Gateway for Containers  |  |  | [#6096](https://github.com/Azure/sdk-release-request/issues/6096)  |  | 04-23 | fail to get. |  |
 | 11 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
 | 12 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
-| 13 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  | [#6068](https://github.com/Azure/sdk-release-request/issues/6068)  | 04-17 | 04-23 |  |
+| 13 | Release for Azure Recovery Services site recovery April 2025  |  | [#6066](https://github.com/Azure/sdk-release-request/issues/6066)  |  |  | 04-17 | 04-23 |  |
 | 14 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  |  | [#5976](https://github.com/Azure/sdk-release-request/issues/5976)  | 03-28 | 04-25 |  |
 | 15 | Release for Container Service - 2025-02-02-preview  |  |  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 04-23 |  |
 | 16 | Release for Container Service - 2025-02-01  |  |  |  | [#6051](https://github.com/Azure/sdk-release-request/issues/6051)  | 04-11 | 04-24 | Hold on by JS/ |
 | 17 | Release for azure container registry - 2025-03-preview  |  |  |  | [#6042](https://github.com/Azure/sdk-release-request/issues/6042)  | 04-10 | 04-25 |  |
 | 18 | Release for RecoveryServices-Backup 2025-04-01  |  |  |  | [#6023](https://github.com/Azure/sdk-release-request/issues/6023)  | 04-08 | 04-24 |  |
-| 19 | Release for NetAppFiles - 2025-01-01  |  |  |  | [#6014](https://github.com/Azure/sdk-release-request/issues/6014)  | 04-03 | 04-25 |  |
-| 20 | Neon Postgres GA Release  |  |  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
-| 21 | Release for ElasticSan - 2024-07-01-preview  |  |  |  | [#6004](https://github.com/Azure/sdk-release-request/issues/6004)  | 04-03 | 04-24 |  |
-| 22 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 |  |
-| 23 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
-| 24 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
+| 19 | Neon Postgres GA Release  |  |  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
+| 20 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 |  |
+| 21 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
+| 22 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |
