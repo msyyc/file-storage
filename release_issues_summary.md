@@ -21,4 +21,3 @@
 | 19 | Neon Postgres GA Release  |  |  |  | [#6009](https://github.com/Azure/sdk-release-request/issues/6009)  | 04-03 | 04-25 |  |
 | 20 | Release for Standby Pools 2025-03-01 SDK  |  |  |  | [#5971](https://github.com/Azure/sdk-release-request/issues/5971)  | 03-28 | 04-25 |  |
 | 21 | Release for Microsoft.App 2025-01-01  |  |  |  | [#5966](https://github.com/Azure/sdk-release-request/issues/5966)  | 03-27 | 04-24 |  |
-| 22 | Release for Dependency Map service  |  |  |  | [#5960](https://github.com/Azure/sdk-release-request/issues/5960)  | 03-21 | 04-24 |  |

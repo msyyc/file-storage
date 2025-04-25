@@ -12,5 +12,4 @@
 | 10 | [#5976](https://github.com/Azure/sdk-release-request/issues/5976) | solankisamir |  | qiaozha | close to release date. Attention to inconsistent tag. | 03-28 | 04-25 | 0 |
 | 11 | [#5971](https://github.com/Azure/sdk-release-request/issues/5971) | mimckitt |  | qiaozha | new comment. close to release date. | 03-28 | 04-25 | 0 |
 | 12 | [#5966](https://github.com/Azure/sdk-release-request/issues/5966) | najimicrosoft.com |  | qiaozha | close to release date. | 03-27 | 04-24 | -1 |
-| 13 | [#5960](https://github.com/Azure/sdk-release-request/issues/5960) | KarthikK123 |  | MaryGao | close to release date. FirstBeta. TypeSpec. | 03-21 | 04-24 | -1 |
-| 14 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | close to release date. FirstGA. TypeSpec. | 09-27 | 04-24 | -1 |
+| 13 | [#5539](https://github.com/Azure/sdk-release-request/issues/5539) | jaskisin |  | MaryGao | close to release date. FirstGA. TypeSpec. | 09-27 | 04-24 | -1 |
