@@ -12,5 +12,4 @@
 | 10 | [TypeSpec] Java SDK generate request for Application Gateway for Containers  |  |  | [#6096](https://github.com/Azure/sdk-release-request/issues/6096)  |  | 04-23 | fail to get. |  |
 | 11 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
 | 12 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
-| 13 | Release for ApiManagement - 2024-05-01  |  | [#5974](https://github.com/Azure/sdk-release-request/issues/5974)  |  |  | 03-28 | 04-25 |  |
-| 14 | Release for Container Service - 2025-02-02-preview  |  |  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 04-23 |  |
+| 13 | Release for Container Service - 2025-02-02-preview  |  |  |  | [#6100](https://github.com/Azure/sdk-release-request/issues/6100)  | 04-23 | 04-23 |  |
