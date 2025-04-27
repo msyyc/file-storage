@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new issue. | 04-27 | 05-23 |  |
+| 1 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 04-27 | 05-23 |  |
 | 2 | [#6102](https://github.com/Azure/sdk-release-request/issues/6102) | cjoprey |  | ChenxiJiang333 |  | 04-24 |  | 0 |
 | 3 | [#6093](https://github.com/Azure/sdk-release-request/issues/6093) | joshbauanch | azure-mgmt-containerregistry | ChenxiJiang333 | close to release date. OnTime. ForCLI. | 04-22 | 04-29 | 1 |
 | 4 | [#6084](https://github.com/Azure/sdk-release-request/issues/6084) | kalbert312 | azure-mgmt-resource | ChenxiJiang333 | HoldOn. | 04-22 | 05-23 |  |
