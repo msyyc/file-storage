@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [TypeSpec] Python SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  | [#6113](https://github.com/Azure/sdk-release-request/issues/6113)  |  |  |  | 04-29 | fail to get. |  |
-| 2 | [TypeSpec] Python SDK generate request for Azure VMware Solution  | [#6110](https://github.com/Azure/sdk-release-request/issues/6110)  |  |  |  | 04-29 | fail to get. |  |
+| 2 | [TypeSpec] Python SDK generate request for Azure VMware Solution  | [#6110](https://github.com/Azure/sdk-release-request/issues/6110)  |  |  |  | 04-29 |  |  |
 | 3 | Release for Search - 2025-05-01  | [#6107](https://github.com/Azure/sdk-release-request/issues/6107)  | [#6104](https://github.com/Azure/sdk-release-request/issues/6104)  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 05-23 |  |
 | 4 | [TypeSpec] Python SDK generate request for Secret Sync Controller Resource Provider  | [#6102](https://github.com/Azure/sdk-release-request/issues/6102)  |  |  |  | 04-24 | fail to get. |  |
 | 5 | Microsoft.Resources/deployments 2025-03-01  | [#6084](https://github.com/Azure/sdk-release-request/issues/6084)  | [#6081](https://github.com/Azure/sdk-release-request/issues/6081)  | [#6082](https://github.com/Azure/sdk-release-request/issues/6082)  | [#6083](https://github.com/Azure/sdk-release-request/issues/6083)  | 04-22 | 05-23 | Hold on by Python/ |
