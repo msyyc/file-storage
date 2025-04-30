@@ -29,7 +29,10 @@
     "azure-mgmt-carbonoptimization",
     "azure-mgmt-programmableconnectivity",
     "azure-mgmt-iotfirmwaredefense",
-    "azure-mgmt-onlineexperimentation"
+    "azure-mgmt-onlineexperimentation",
+    "azure-mgmt-recoveryservicesdatareplication",
+    "azure-mgmt-avs",
+    "azure-mgmt-secretsstoreextension"
   ],
   "js": [],
   "go": [],
