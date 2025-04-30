@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Dell OneFS Azure Native Service  | [#6117](https://github.com/Azure/sdk-release-request/issues/6117)  |  |  |  | 04-30 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Dell OneFS Azure Native Service  | [#6117](https://github.com/Azure/sdk-release-request/issues/6117)  |  |  |  | 04-30 | fail to get. |  |
 | 2 | [TypeSpec] Python SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  | [#6113](https://github.com/Azure/sdk-release-request/issues/6113)  |  |  |  | 04-29 | fail to get. |  |
 | 3 | [TypeSpec] Python SDK generate request for Azure VMware Solution  | [#6110](https://github.com/Azure/sdk-release-request/issues/6110)  |  |  |  | 04-29 |  |  |
 | 4 | Release for Search - 2025-05-01  | [#6107](https://github.com/Azure/sdk-release-request/issues/6107)  | [#6104](https://github.com/Azure/sdk-release-request/issues/6104)  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 05-23 |  |
