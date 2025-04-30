@@ -9,4 +9,3 @@
 | 7 | [#6077](https://github.com/Azure/sdk-release-request/issues/6077) | thedonluke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | HoldOn. TypeSpec. | 04-18 | fail to get. |  |
 | 8 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-15 | 05-23 |  |
 | 9 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
-| 10 | [#5540](https://github.com/Azure/sdk-release-request/issues/5540) | jaskisin | azure-mgmt-workloadssapvirtualinstance | ChenxiJiang333 | FirstGA. TypeSpec. | 09-27 | 04-24 |  |
