@@ -33,7 +33,8 @@
     "azure-mgmt-recoveryservicesdatareplication",
     "azure-mgmt-avs",
     "azure-mgmt-secretsstoreextension",
-    "azure-mgmt-dellstorage"
+    "azure-mgmt-dellstorage",
+    "azure-mgmt-lambdatesthyperexecute"
   ],
   "js": [],
   "go": [],
