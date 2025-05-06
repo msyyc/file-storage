@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
-|2|[#45081](https://github.com/Azure/azure-sdk-for-java/issues/45081)|[FEATURE REQ] Requesting SDK for  Configuring Backupvault in AKS|question, AKS, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao|new comment|2025-04-23|
+|2|[#45081](https://github.com/Azure/azure-sdk-for-java/issues/45081)|[FEATURE REQ] Requesting SDK for  Configuring Backupvault in AKS|question, AKS, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-23|
 |3|[#44984](https://github.com/Azure/azure-sdk-for-java/issues/44984)|[QUERY] Issues retrieving EncryptionSettingsCollection from Disk object|question, Compute, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-15|
 |4|[#44667](https://github.com/Azure/azure-sdk-for-java/issues/44667)|404 Resource Not Found when creating express route cross connection private peering.|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2025-03-17|
 |5|[#44452](https://github.com/Azure/azure-sdk-for-java/issues/44452)|[QUERY] PrivateDnsZonePropertiesFormat recordSets setter or readonly?|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-02-28|
@@ -17,7 +17,7 @@
 |15|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |16|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |17|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|18|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|18|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |19|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |20|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |21|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
