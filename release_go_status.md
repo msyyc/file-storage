@@ -5,7 +5,7 @@
 | 3 | [#6126](https://github.com/Azure/sdk-release-request/issues/6126) | RenzoPrettoMS |  | jliusan |  | 04-30 | 05-23 |  |
 | 4 | [#6121](https://github.com/Azure/sdk-release-request/issues/6121) | pjohari-ms |  | jliusan | Attention to inconsistent tag. | 04-30 | 05-23 |  |
 | 5 | [#6118](https://github.com/Azure/sdk-release-request/issues/6118) | Padmapriya-09 |  | jliusan | new comment. | 04-30 | fail to get. |  |
-| 6 | [#6114](https://github.com/Azure/sdk-release-request/issues/6114) | helen-afework |  | jliusan | new issue. Attention to inconsistent tag. | 04-29 | fail to get. |  |
+| 6 | [#6114](https://github.com/Azure/sdk-release-request/issues/6114) | helen-afework |  | jliusan | Attention to inconsistent tag. | 04-29 | fail to get. |  |
 | 7 | [#6111](https://github.com/Azure/sdk-release-request/issues/6111) | cataggar |  | jliusan | new issue. Attention to inconsistent tag. | 04-29 | fail to get. |  |
 | 8 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan |  | 04-27 | 05-23 |  |
 | 9 | [#6090](https://github.com/Azure/sdk-release-request/issues/6090) | joshbauanch |  | jliusan | HoldOn. | 04-22 | 05-23 |  |
