@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 | new issue. | 05-05 | 05-23 |  |
+| 1 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 05-05 | 05-23 |  |
 | 2 | [#6131](https://github.com/Azure/sdk-release-request/issues/6131) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> | 05-01 |  | 0 |
 | 3 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 04-30 | 05-23 |  |
 | 4 | [#6124](https://github.com/Azure/sdk-release-request/issues/6124) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | new comment. Attention to inconsistent tag. | 04-30 | 05-23 |  |
