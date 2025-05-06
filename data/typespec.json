@@ -32,7 +32,8 @@
     "azure-mgmt-onlineexperimentation",
     "azure-mgmt-recoveryservicesdatareplication",
     "azure-mgmt-avs",
-    "azure-mgmt-secretsstoreextension"
+    "azure-mgmt-secretsstoreextension",
+    "azure-mgmt-dellstorage"
   ],
   "js": [],
   "go": [],
