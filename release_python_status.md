@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-06 | fail to get. |  |
 | 2 | [#6146](https://github.com/Azure/sdk-release-request/issues/6146) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
-| 3 | [#6141](https://github.com/Azure/sdk-release-request/issues/6141) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
+| 3 | [#6141](https://github.com/Azure/sdk-release-request/issues/6141) | aggarwalsw | azure-mgmt-arizeaiobservabilityeval | ChenxiJiang333 | new issue. | 05-06 | fail to get. |  |
 | 4 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 05-05 | 05-23 |  |
 | 5 | [#6131](https://github.com/Azure/sdk-release-request/issues/6131) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> | 05-01 |  | 0 |
 | 6 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 04-30 | 05-23 |  |

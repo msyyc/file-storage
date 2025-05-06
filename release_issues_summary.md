@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [TypeSpec] Python SDK generate request for Liftr-Lambdatest  | [#6151](https://github.com/Azure/sdk-release-request/issues/6151)  |  |  |  | 05-06 | fail to get. |  |
 | 2 | [TypeSpec] Python SDK generate request for Liftr-WeightAndBiases  | [#6146](https://github.com/Azure/sdk-release-request/issues/6146)  |  |  |  | 05-06 |  |  |
-| 3 | [TypeSpec] Python SDK generate request for Liftr Arize  | [#6141](https://github.com/Azure/sdk-release-request/issues/6141)  |  |  |  | 05-06 |  |  |
+| 3 | [TypeSpec] Python SDK generate request for Liftr Arize  | [#6141](https://github.com/Azure/sdk-release-request/issues/6141)  |  |  |  | 05-06 | fail to get. |  |
 | 4 | SDK Release for API spec 2024-09-19-preview  | [#6138](https://github.com/Azure/sdk-release-request/issues/6138)  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  | [#6136](https://github.com/Azure/sdk-release-request/issues/6136)  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
 | 5 | [TypeSpec] Python SDK generate request for MongoDB Atlas  | [#6131](https://github.com/Azure/sdk-release-request/issues/6131)  |  |  |  | 05-01 |  |  |
 | 6 | Azure Chaos Studios - 2025-01-01  | [#6129](https://github.com/Azure/sdk-release-request/issues/6129)  | [#6126](https://github.com/Azure/sdk-release-request/issues/6126)  | [#6127](https://github.com/Azure/sdk-release-request/issues/6127)  | [#6128](https://github.com/Azure/sdk-release-request/issues/6128)  | 04-30 | 05-23 |  |
