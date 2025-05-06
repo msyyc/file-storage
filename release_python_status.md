@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
+| 1 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-06 | fail to get. |  |
 | 2 | [#6146](https://github.com/Azure/sdk-release-request/issues/6146) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
 | 3 | [#6141](https://github.com/Azure/sdk-release-request/issues/6141) | aggarwalsw |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
 | 4 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 05-05 | 05-23 |  |
