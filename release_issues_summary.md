@@ -18,7 +18,7 @@
 | 16 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6077](https://github.com/Azure/sdk-release-request/issues/6077)  |  |  |  | 04-18 | fail to get. | Hold on by Python/ |
 | 17 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  | [#6057](https://github.com/Azure/sdk-release-request/issues/6057)  | [#6058](https://github.com/Azure/sdk-release-request/issues/6058)  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
 | 18 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 19 | [TypeSpec] Java SDK generate request for Microsoft Planetary Computer Pro  |  |  | [#6156](https://github.com/Azure/sdk-release-request/issues/6156)  |  | 05-06 |  |  |
+| 19 | [TypeSpec] Java SDK generate request for Microsoft Planetary Computer Pro  |  |  | [#6156](https://github.com/Azure/sdk-release-request/issues/6156)  |  | 05-06 | fail to get. |  |
 | 20 | [TypeSpec] Java SDK generate request for Liftr-Lambdatest  |  |  | [#6148](https://github.com/Azure/sdk-release-request/issues/6148)  |  | 05-06 | fail to get. |  |
 | 21 | [TypeSpec] Java SDK generate request for Liftr-WeightAndBiases  |  |  | [#6147](https://github.com/Azure/sdk-release-request/issues/6147)  |  | 05-06 | fail to get. |  |
 | 22 | [TypeSpec] Java SDK generate request for Liftr Arize  |  |  | [#6142](https://github.com/Azure/sdk-release-request/issues/6142)  |  | 05-06 | fail to get. |  |
@@ -30,7 +30,7 @@
 | 28 | [TypeSpec] Java SDK generate request for Application Gateway for Containers  |  |  | [#6096](https://github.com/Azure/sdk-release-request/issues/6096)  |  | 04-23 | fail to get. |  |
 | 29 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
 | 30 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
-| 31 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 |  |  |
+| 31 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. |  |
 | 32 | [TypeSpec] Go SDK generate request for Liftr-Lambdatest  |  | [#6149](https://github.com/Azure/sdk-release-request/issues/6149)  |  |  | 05-06 | fail to get. |  |
 | 33 | [TypeSpec] Go SDK generate request for Liftr-WeightAndBiases  |  | [#6144](https://github.com/Azure/sdk-release-request/issues/6144)  |  |  | 05-06 | fail to get. |  |
 | 34 | [TypeSpec] Go SDK generate request for Liftr Arize  |  | [#6140](https://github.com/Azure/sdk-release-request/issues/6140)  |  |  | 05-06 | fail to get. |  |
