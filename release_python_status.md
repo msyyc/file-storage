@@ -17,4 +17,6 @@
 | 15 | [#6084](https://github.com/Azure/sdk-release-request/issues/6084) | kalbert312 | azure-mgmt-resource | ChenxiJiang333 | HoldOn. | 04-22 | 05-23 |  |
 | 16 | [#6077](https://github.com/Azure/sdk-release-request/issues/6077) | thedonluke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | HoldOn. TypeSpec. | 04-18 | fail to get. |  |
 | 17 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-15 | 05-23 |  |
-| 18 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
+| 18 | [#6053](https://github.com/Azure/sdk-release-request/issues/6053) | berndverst | azure-mgmt-durabletask | ChenxiJiang333 | TypeSpec. | 04-14 | fail to get. |  |
+| 19 | [#6045](https://github.com/Azure/sdk-release-request/issues/6045) | karanvsingh1 | azure-mgmt-portalservicescopilot | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-10 | fail to get. |  |
+| 20 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |

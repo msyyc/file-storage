@@ -17,28 +17,30 @@
 | 15 | Microsoft.Resources/deployments 2025-03-01  | [#6084](https://github.com/Azure/sdk-release-request/issues/6084)  | [#6081](https://github.com/Azure/sdk-release-request/issues/6081)  | [#6082](https://github.com/Azure/sdk-release-request/issues/6082)  | [#6083](https://github.com/Azure/sdk-release-request/issues/6083)  | 04-22 | 05-23 | Hold on by Python/ |
 | 16 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6077](https://github.com/Azure/sdk-release-request/issues/6077)  |  |  |  | 04-18 | fail to get. | Hold on by Python/ |
 | 17 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  | [#6057](https://github.com/Azure/sdk-release-request/issues/6057)  | [#6058](https://github.com/Azure/sdk-release-request/issues/6058)  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
-| 18 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 19 | [TypeSpec] Java SDK generate request for Azure Arc site manager  |  |  | [#6163](https://github.com/Azure/sdk-release-request/issues/6163)  |  | 05-07 | fail to get. |  |
-| 20 | [TypeSpec] Java SDK generate request for Microsoft Planetary Computer Pro  |  |  | [#6156](https://github.com/Azure/sdk-release-request/issues/6156)  |  | 05-06 | fail to get. |  |
-| 21 | [TypeSpec] Java SDK generate request for Liftr-Lambdatest  |  |  | [#6148](https://github.com/Azure/sdk-release-request/issues/6148)  |  | 05-06 | fail to get. |  |
-| 22 | [TypeSpec] Java SDK generate request for Liftr-WeightAndBiases  |  |  | [#6147](https://github.com/Azure/sdk-release-request/issues/6147)  |  | 05-06 | fail to get. |  |
-| 23 | [TypeSpec] Java SDK generate request for Liftr Arize  |  |  | [#6142](https://github.com/Azure/sdk-release-request/issues/6142)  |  | 05-06 | fail to get. |  |
-| 24 | [TypeSpec] Java SDK generate request for MongoDB Atlas  |  |  | [#6132](https://github.com/Azure/sdk-release-request/issues/6132)  |  | 05-01 | fail to get. |  |
-| 25 | Cosmos DB 2025-04-15 Stable SDK Release  |  | [#6121](https://github.com/Azure/sdk-release-request/issues/6121)  | [#6122](https://github.com/Azure/sdk-release-request/issues/6122)  | [#6123](https://github.com/Azure/sdk-release-request/issues/6123)  | 04-30 | 05-23 |  |
-| 26 | [TypeSpec] Java SDK generate request for Dell OneFS Azure Native Service  |  |  | [#6120](https://github.com/Azure/sdk-release-request/issues/6120)  |  | 04-30 | fail to get. |  |
-| 27 | [TypeSpec] Java SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  |  | [#6116](https://github.com/Azure/sdk-release-request/issues/6116)  |  | 04-29 | fail to get. |  |
-| 28 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. |  |
-| 29 | [TypeSpec] Java SDK generate request for Secret Sync Controller Resource Provider  |  |  | [#6103](https://github.com/Azure/sdk-release-request/issues/6103)  |  | 04-24 | fail to get. |  |
-| 30 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
-| 31 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
-| 32 | [TypeSpec] Go SDK generate request for Azure Arc site manager  |  | [#6161](https://github.com/Azure/sdk-release-request/issues/6161)  |  |  | 05-07 | fail to get. |  |
-| 33 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. |  |
-| 34 | [TypeSpec] Go SDK generate request for Liftr-Lambdatest  |  | [#6149](https://github.com/Azure/sdk-release-request/issues/6149)  |  |  | 05-06 | fail to get. |  |
-| 35 | [TypeSpec] Go SDK generate request for Liftr-WeightAndBiases  |  | [#6144](https://github.com/Azure/sdk-release-request/issues/6144)  |  |  | 05-06 | fail to get. |  |
-| 36 | [TypeSpec] Go SDK generate request for Liftr Arize  |  | [#6140](https://github.com/Azure/sdk-release-request/issues/6140)  |  |  | 05-06 | fail to get. |  |
-| 37 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6134](https://github.com/Azure/sdk-release-request/issues/6134)  |  |  | 05-01 | fail to get. |  |
-| 38 | [TypeSpec] Go SDK generate request for Dell OneFS Azure Native Service  |  | [#6118](https://github.com/Azure/sdk-release-request/issues/6118)  |  |  | 04-30 | fail to get. |  |
-| 39 | [TypeSpec] Go SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  | [#6114](https://github.com/Azure/sdk-release-request/issues/6114)  |  |  | 04-29 | fail to get. |  |
-| 40 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. |  |
-| 41 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
-| 42 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
+| 18 | [TypeSpec] Python SDK generate request for Durable Task Scheduler  | [#6053](https://github.com/Azure/sdk-release-request/issues/6053)  |  |  |  | 04-14 | fail to get. |  |
+| 19 | [TypeSpec] Python SDK generate request for Copilot in Azure  | [#6045](https://github.com/Azure/sdk-release-request/issues/6045)  |  |  |  | 04-10 | fail to get. |  |
+| 20 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
+| 21 | [TypeSpec] Java SDK generate request for Azure Arc site manager  |  |  | [#6163](https://github.com/Azure/sdk-release-request/issues/6163)  |  | 05-07 | fail to get. |  |
+| 22 | [TypeSpec] Java SDK generate request for Microsoft Planetary Computer Pro  |  |  | [#6156](https://github.com/Azure/sdk-release-request/issues/6156)  |  | 05-06 | fail to get. |  |
+| 23 | [TypeSpec] Java SDK generate request for Liftr-Lambdatest  |  |  | [#6148](https://github.com/Azure/sdk-release-request/issues/6148)  |  | 05-06 | fail to get. |  |
+| 24 | [TypeSpec] Java SDK generate request for Liftr-WeightAndBiases  |  |  | [#6147](https://github.com/Azure/sdk-release-request/issues/6147)  |  | 05-06 | fail to get. |  |
+| 25 | [TypeSpec] Java SDK generate request for Liftr Arize  |  |  | [#6142](https://github.com/Azure/sdk-release-request/issues/6142)  |  | 05-06 | fail to get. |  |
+| 26 | [TypeSpec] Java SDK generate request for MongoDB Atlas  |  |  | [#6132](https://github.com/Azure/sdk-release-request/issues/6132)  |  | 05-01 | fail to get. |  |
+| 27 | Cosmos DB 2025-04-15 Stable SDK Release  |  | [#6121](https://github.com/Azure/sdk-release-request/issues/6121)  | [#6122](https://github.com/Azure/sdk-release-request/issues/6122)  | [#6123](https://github.com/Azure/sdk-release-request/issues/6123)  | 04-30 | 05-23 |  |
+| 28 | [TypeSpec] Java SDK generate request for Dell OneFS Azure Native Service  |  |  | [#6120](https://github.com/Azure/sdk-release-request/issues/6120)  |  | 04-30 | fail to get. |  |
+| 29 | [TypeSpec] Java SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  |  | [#6116](https://github.com/Azure/sdk-release-request/issues/6116)  |  | 04-29 | fail to get. |  |
+| 30 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. |  |
+| 31 | [TypeSpec] Java SDK generate request for Secret Sync Controller Resource Provider  |  |  | [#6103](https://github.com/Azure/sdk-release-request/issues/6103)  |  | 04-24 | fail to get. |  |
+| 32 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
+| 33 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6078](https://github.com/Azure/sdk-release-request/issues/6078)  |  | 04-18 | fail to get. |  |
+| 34 | [TypeSpec] Go SDK generate request for Azure Arc site manager  |  | [#6161](https://github.com/Azure/sdk-release-request/issues/6161)  |  |  | 05-07 | fail to get. |  |
+| 35 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. |  |
+| 36 | [TypeSpec] Go SDK generate request for Liftr-Lambdatest  |  | [#6149](https://github.com/Azure/sdk-release-request/issues/6149)  |  |  | 05-06 | fail to get. |  |
+| 37 | [TypeSpec] Go SDK generate request for Liftr-WeightAndBiases  |  | [#6144](https://github.com/Azure/sdk-release-request/issues/6144)  |  |  | 05-06 | fail to get. |  |
+| 38 | [TypeSpec] Go SDK generate request for Liftr Arize  |  | [#6140](https://github.com/Azure/sdk-release-request/issues/6140)  |  |  | 05-06 | fail to get. |  |
+| 39 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6134](https://github.com/Azure/sdk-release-request/issues/6134)  |  |  | 05-01 | fail to get. |  |
+| 40 | [TypeSpec] Go SDK generate request for Dell OneFS Azure Native Service  |  | [#6118](https://github.com/Azure/sdk-release-request/issues/6118)  |  |  | 04-30 | fail to get. |  |
+| 41 | [TypeSpec] Go SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  | [#6114](https://github.com/Azure/sdk-release-request/issues/6114)  |  |  | 04-29 | fail to get. |  |
+| 42 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. |  |
+| 43 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6079](https://github.com/Azure/sdk-release-request/issues/6079)  |  |  | 04-18 | fail to get. |  |
+| 44 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
