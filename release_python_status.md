@@ -3,12 +3,12 @@
 | 1 | [#6159](https://github.com/Azure/sdk-release-request/issues/6159) | mandarinamdar |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
 | 2 | [#6155](https://github.com/Azure/sdk-release-request/issues/6155) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 05-06 | 05-23 |  |
 | 3 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | HoldOn. TypeSpec. | 05-06 | fail to get. |  |
-| 4 | [#6146](https://github.com/Azure/sdk-release-request/issues/6146) | aggarwalsw | azure-mgmt-weightsandbiases | ChenxiJiang333 | TypeSpec. | 05-06 | fail to get. |  |
+| 4 | [#6146](https://github.com/Azure/sdk-release-request/issues/6146) | aggarwalsw | azure-mgmt-weightsandbiases | ChenxiJiang333 | FirstGA. TypeSpec. | 05-06 | fail to get. |  |
 | 5 | [#6141](https://github.com/Azure/sdk-release-request/issues/6141) | aggarwalsw | azure-mgmt-arizeaiobservabilityeval | ChenxiJiang333 | new issue. TypeSpec. | 05-06 | fail to get. |  |
 | 6 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 05-05 | 05-23 |  |
 | 7 | [#6131](https://github.com/Azure/sdk-release-request/issues/6131) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> | 05-01 |  | 0 |
 | 8 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 04-30 | 05-23 |  |
-| 9 | [#6124](https://github.com/Azure/sdk-release-request/issues/6124) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | close to release date. OnTime. ForCLI. | 04-30 | 05-09 | 1 |
+| 9 | [#6124](https://github.com/Azure/sdk-release-request/issues/6124) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | new comment. close to release date. OnTime. ForCLI. | 04-30 | 05-09 | 1 |
 | 10 | [#6117](https://github.com/Azure/sdk-release-request/issues/6117) | Padmapriya-09 | azure-mgmt-dellstorage | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-30 | fail to get. |  |
 | 11 | [#6113](https://github.com/Azure/sdk-release-request/issues/6113) | helen-afework | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | new issue. TypeSpec. | 04-29 | fail to get. |  |
 | 12 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar |  | ChenxiJiang333 | duplicated issue  <br> | 04-29 |  | 0 |
