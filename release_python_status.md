@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6159](https://github.com/Azure/sdk-release-request/issues/6159) | mandarinamdar |  | ChenxiJiang333 | duplicated issue  <br> | 05-06 |  | 0 |
 | 2 | [#6155](https://github.com/Azure/sdk-release-request/issues/6155) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 05-06 | 05-23 |  |
-| 3 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-06 | fail to get. |  |
+| 3 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | HoldOn. TypeSpec. | 05-06 | fail to get. |  |
 | 4 | [#6146](https://github.com/Azure/sdk-release-request/issues/6146) | aggarwalsw | azure-mgmt-weightsandbiases | ChenxiJiang333 | TypeSpec. | 05-06 | fail to get. |  |
 | 5 | [#6141](https://github.com/Azure/sdk-release-request/issues/6141) | aggarwalsw | azure-mgmt-arizeaiobservabilityeval | ChenxiJiang333 | new issue. TypeSpec. | 05-06 | fail to get. |  |
 | 6 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 05-05 | 05-23 |  |
