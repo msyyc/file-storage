@@ -8,7 +8,7 @@
 | 6 | [#6142](https://github.com/Azure/sdk-release-request/issues/6142) | aggarwalsw |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 05-06 | fail to get. |  |
 | 7 | [#6136](https://github.com/Azure/sdk-release-request/issues/6136) | prathod09 |  | v-hongli1 | new issue. | 05-05 | 05-23 |  |
 | 8 | [#6132](https://github.com/Azure/sdk-release-request/issues/6132) | alluri02 |  | v-hongli1 | Attention to inconsistent tag. | 05-01 | fail to get. |  |
-| 9 | [#6127](https://github.com/Azure/sdk-release-request/issues/6127) | RenzoPrettoMS |  | v-hongli1 | new issue. | 04-30 | 05-23 |  |
+| 9 | [#6127](https://github.com/Azure/sdk-release-request/issues/6127) | RenzoPrettoMS |  | v-hongli1 | new issue. TypeSpec. | 04-30 | 05-23 |  |
 | 10 | [#6122](https://github.com/Azure/sdk-release-request/issues/6122) | pjohari-ms |  | v-hongli1 | Attention to inconsistent tag. | 04-30 | 05-23 |  |
 | 11 | [#6120](https://github.com/Azure/sdk-release-request/issues/6120) | Padmapriya-09 |  | XiaofeiCao | new comment. | 04-30 | fail to get. |  |
 | 12 | [#6116](https://github.com/Azure/sdk-release-request/issues/6116) | helen-afework |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 04-29 | fail to get. |  |

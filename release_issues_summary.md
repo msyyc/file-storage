@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Azure Arc site manager  | [#6160](https://github.com/Azure/sdk-release-request/issues/6160)  |  |  |  | 05-07 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Azure Arc site manager  | [#6160](https://github.com/Azure/sdk-release-request/issues/6160)  |  |  |  | 05-07 | fail to get. |  |
 | 2 | [TypeSpec] Python SDK generate request for Microsoft Planetary Computer Pro  | [#6159](https://github.com/Azure/sdk-release-request/issues/6159)  |  |  |  | 05-06 |  |  |
 | 3 | PosgreSQL Flexible Server API Preview V20250101  | [#6155](https://github.com/Azure/sdk-release-request/issues/6155)  | [#6152](https://github.com/Azure/sdk-release-request/issues/6152)  | [#6153](https://github.com/Azure/sdk-release-request/issues/6153)  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
 | 4 | [TypeSpec] Python SDK generate request for Liftr-Lambdatest  | [#6151](https://github.com/Azure/sdk-release-request/issues/6151)  |  |  |  | 05-06 | fail to get. | Hold on by Python/ |
