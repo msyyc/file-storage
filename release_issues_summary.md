@@ -3,7 +3,7 @@
 | 1 | [TypeSpec] Python SDK generate request for Microsoft Planetary Computer Pro  | [#6159](https://github.com/Azure/sdk-release-request/issues/6159)  |  |  |  | 05-06 |  |  |
 | 2 | PosgreSQL Flexible Server API Preview V20250101  | [#6155](https://github.com/Azure/sdk-release-request/issues/6155)  | [#6152](https://github.com/Azure/sdk-release-request/issues/6152)  | [#6153](https://github.com/Azure/sdk-release-request/issues/6153)  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
 | 3 | [TypeSpec] Python SDK generate request for Liftr-Lambdatest  | [#6151](https://github.com/Azure/sdk-release-request/issues/6151)  |  |  |  | 05-06 | fail to get. |  |
-| 4 | [TypeSpec] Python SDK generate request for Liftr-WeightAndBiases  | [#6146](https://github.com/Azure/sdk-release-request/issues/6146)  |  |  |  | 05-06 |  |  |
+| 4 | [TypeSpec] Python SDK generate request for Liftr-WeightAndBiases  | [#6146](https://github.com/Azure/sdk-release-request/issues/6146)  |  |  |  | 05-06 | fail to get. |  |
 | 5 | [TypeSpec] Python SDK generate request for Liftr Arize  | [#6141](https://github.com/Azure/sdk-release-request/issues/6141)  |  |  |  | 05-06 | fail to get. |  |
 | 6 | SDK Release for API spec 2024-09-19-preview  | [#6138](https://github.com/Azure/sdk-release-request/issues/6138)  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  | [#6136](https://github.com/Azure/sdk-release-request/issues/6136)  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
 | 7 | [TypeSpec] Python SDK generate request for MongoDB Atlas  | [#6131](https://github.com/Azure/sdk-release-request/issues/6131)  |  |  |  | 05-01 |  |  |
