@@ -10,7 +10,7 @@
 | 8 | [#6131](https://github.com/Azure/sdk-release-request/issues/6131) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> | 05-01 |  | 0 |
 | 9 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 04-30 | 05-23 |  |
 | 10 | [#6117](https://github.com/Azure/sdk-release-request/issues/6117) | Padmapriya-09 | azure-mgmt-dellstorage | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-30 | fail to get. |  |
-| 11 | [#6113](https://github.com/Azure/sdk-release-request/issues/6113) | helen-afework | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | new issue. TypeSpec. | 04-29 | fail to get. |  |
+| 11 | [#6113](https://github.com/Azure/sdk-release-request/issues/6113) | helen-afework | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | FirstGA. TypeSpec. | 04-29 | fail to get. |  |
 | 12 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar |  | ChenxiJiang333 | duplicated issue  <br> | 04-29 |  | 0 |
 | 13 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 04-27 | 05-23 |  |
 | 14 | [#6102](https://github.com/Azure/sdk-release-request/issues/6102) | cjoprey | azure-mgmt-secretsstoreextension | ChenxiJiang333 | FirstBeta. TypeSpec. | 04-24 | fail to get. |  |
