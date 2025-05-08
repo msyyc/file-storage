@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#40909](https://github.com/Azure/azure-sdk-for-python/issues/40909)|poller.result() throws Exception|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-05-06|
+|1|[#40909](https://github.com/Azure/azure-sdk-for-python/issues/40909)|poller.result() throws Exception|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-05-06|
 |2|[#40403](https://github.com/Azure/azure-sdk-for-python/issues/40403)|Subscription Client is not throwing error in case of missing permissions to list the subscriptions but just throwing an empty list []|bug, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|no reply > 7|2025-04-07|
 |3|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-03-26|
 |4|[#38978](https://github.com/Azure/azure-sdk-for-python/issues/38978)|[ADF] Issue with python SDK while retrieving pipeline with execute dataflow activity|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-12-23|
