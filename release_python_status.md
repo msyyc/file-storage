@@ -6,7 +6,7 @@
 | 4 | [#6155](https://github.com/Azure/sdk-release-request/issues/6155) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 05-06 | 05-23 |  |
 | 5 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | FirstGA. TypeSpec. | 05-06 | fail to get. |  |
 | 6 | [#6138](https://github.com/Azure/sdk-release-request/issues/6138) | prathod09 | azure-mgmt-confidentialledger | ChenxiJiang333 |  | 05-05 | 05-23 |  |
-| 7 | [#6131](https://github.com/Azure/sdk-release-request/issues/6131) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> | 05-01 |  | 0 |
+| 7 | [#6131](https://github.com/Azure/sdk-release-request/issues/6131) | alluri02 | azure-mgmt-mongodbatlas | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-01 | fail to get. |  |
 | 8 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 04-30 | 05-23 |  |
 | 9 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar |  | ChenxiJiang333 | duplicated issue  <br> | 04-29 |  | 0 |
 | 10 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 04-27 | 05-23 |  |
