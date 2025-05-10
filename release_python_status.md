@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 | new issue. | 05-09 | 05-23 |  |
-| 2 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | new issue. | 05-09 | 05-23 |  |
+| 1 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 |  | 05-09 | 05-23 |  |
+| 2 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 |  | 05-09 | 05-23 |  |
 | 3 | [#6169](https://github.com/Azure/sdk-release-request/issues/6169) | deepakmauryams |  | ChenxiJiang333 | duplicated issue  <br> | 05-09 |  | 0 |
 | 4 | [#6167](https://github.com/Azure/sdk-release-request/issues/6167) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensions | ChenxiJiang333 | FirstBeta. | 05-08 | 05-23 |  |
 | 5 | [#6160](https://github.com/Azure/sdk-release-request/issues/6160) | bsomeshekar | azure-mgmt-sitemanager | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-07 | fail to get. |  |

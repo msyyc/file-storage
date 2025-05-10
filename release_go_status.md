@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6178](https://github.com/Azure/sdk-release-request/issues/6178) | dipti-pai |  | jliusan | new issue. | 05-09 | 05-23 |  |
 | 2 | [#6173](https://github.com/Azure/sdk-release-request/issues/6173) | dipti-pai |  | jliusan | new issue. | 05-09 | 05-23 |  |
-| 3 | [#6170](https://github.com/Azure/sdk-release-request/issues/6170) | deepakmauryams |  | jliusan |  | 05-09 |  | 0 |
+| 3 | [#6170](https://github.com/Azure/sdk-release-request/issues/6170) | deepakmauryams |  | jliusan | new issue. | 05-09 | fail to get. |  |
 | 4 | [#6164](https://github.com/Azure/sdk-release-request/issues/6164) | dipti-pai |  | jliusan | new comment. Attention to inconsistent tag. | 05-08 | 05-23 |  |
 | 5 | [#6161](https://github.com/Azure/sdk-release-request/issues/6161) | bsomeshekar |  | jliusan | new comment. multi readme link! | 05-07 | fail to get. |  |
 | 6 | [#6157](https://github.com/Azure/sdk-release-request/issues/6157) | mandarinamdar |  | jliusan | new issue. | 05-06 | fail to get. |  |
