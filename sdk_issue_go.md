@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#24607](https://github.com/Azure/azure-sdk-for-go/issues/24607)|Missing fields for MonitorWorkspaceResource|question, Monitor, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new issue|2025-05-09|
 |2|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-02-12|
-|3|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|JiaqiZhang-Dev, lirenhe|new comment|2025-02-11|
+|3|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|lirenhe, JiaqiZhang-Dev|new comment|2025-02-11|
 |4|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |5|[#23669](https://github.com/Azure/azure-sdk-for-go/issues/23669)|Appcomplianceautomation report list pager returns 401|question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-10-29|
 |6|[#23506](https://github.com/Azure/azure-sdk-for-go/issues/23506)|Upgrade API Management package to latest REST API 2024-05-01 or higher|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-26|
