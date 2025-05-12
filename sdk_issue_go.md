@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#24607](https://github.com/Azure/azure-sdk-for-go/issues/24607)|Missing fields for MonitorWorkspaceResource|question, Monitor, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new issue|2025-05-09|
+|1|[#24607](https://github.com/Azure/azure-sdk-for-go/issues/24607)|Missing fields for MonitorWorkspaceResource|question, Monitor, Mgmt, customer-reported, needs-team-attention, feature-request|lirenhe|new comment|2025-05-09|
 |2|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-02-12|
 |3|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|lirenhe, JiaqiZhang-Dev|new comment|2025-02-11|
 |4|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
