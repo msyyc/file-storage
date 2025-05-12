@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6191](https://github.com/Azure/sdk-release-request/issues/6191) | fumingzhang |  | ChenxiJiang333 | duplicated issue  <br> | 05-12 |  | 0 |
+| 1 | [#6191](https://github.com/Azure/sdk-release-request/issues/6191) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. MultiAPI | 05-12 | 06-19 |  |
 | 2 | [#6186](https://github.com/Azure/sdk-release-request/issues/6186) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 05-10 | 05-23 |  |
 | 3 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 |  | 05-09 | 05-23 |  |
 | 4 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 |  | 05-09 | 05-23 |  |
