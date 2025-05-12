@@ -3,7 +3,7 @@
 | 1 | [#6184](https://github.com/Azure/sdk-release-request/issues/6184) | CarlOchs |  | XiaofeiCao | new issue. | 05-10 | 05-23 |  |
 | 2 | [#6179](https://github.com/Azure/sdk-release-request/issues/6179) | dipti-pai |  | v-hongli1 | new issue. | 05-09 | 05-23 |  |
 | 3 | [#6174](https://github.com/Azure/sdk-release-request/issues/6174) | dipti-pai |  | v-hongli1 | new issue. | 05-09 | 05-23 |  |
-| 4 | [#6171](https://github.com/Azure/sdk-release-request/issues/6171) | deepakmauryams |  | v-hongli1 | new issue. | 05-09 | fail to get. |  |
+| 4 | [#6171](https://github.com/Azure/sdk-release-request/issues/6171) | deepakmauryams |  | v-hongli1 |  | 05-09 | fail to get. |  |
 | 5 | [#6165](https://github.com/Azure/sdk-release-request/issues/6165) | dipti-pai |  | XiaofeiCao | Attention to inconsistent tag. | 05-08 | 05-23 |  |
 | 6 | [#6156](https://github.com/Azure/sdk-release-request/issues/6156) | mandarinamdar |  | XiaofeiCao | HoldOn. | 05-06 | fail to get. |  |
 | 7 | [#6153](https://github.com/Azure/sdk-release-request/issues/6153) | nasc17 |  | weidongxu-microsoft | new issue. | 05-06 | 05-23 |  |
