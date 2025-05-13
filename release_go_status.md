@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6202](https://github.com/Azure/sdk-release-request/issues/6202) | alluri02 |  | jliusan | new issue. Attention to inconsistent tag. | 05-13 | fail to get. |  |
+| 1 | [#6202](https://github.com/Azure/sdk-release-request/issues/6202) | alluri02 |  | jliusan | Attention to inconsistent tag. | 05-13 | fail to get. |  |
 | 2 | [#6197](https://github.com/Azure/sdk-release-request/issues/6197) | annapankiewicz |  | jliusan | new issue. | 05-12 | 06-20 |  |
 | 3 | [#6192](https://github.com/Azure/sdk-release-request/issues/6192) | yaotongms |  | jliusan | Attention to inconsistent tag. | 05-12 | 06-20 |  |
 | 4 | [#6188](https://github.com/Azure/sdk-release-request/issues/6188) | fumingzhang |  | jliusan | multi readme link! | 05-12 | 06-19 |  |
@@ -12,7 +12,7 @@
 | 10 | [#6161](https://github.com/Azure/sdk-release-request/issues/6161) | bsomeshekar |  | jliusan | multi readme link! | 05-07 | fail to get. |  |
 | 11 | [#6157](https://github.com/Azure/sdk-release-request/issues/6157) | mandarinamdar |  | jliusan | new issue. | 05-06 | fail to get. |  |
 | 12 | [#6152](https://github.com/Azure/sdk-release-request/issues/6152) | nasc17 |  | jliusan |  | 05-06 | 05-23 |  |
-| 13 | [#6149](https://github.com/Azure/sdk-release-request/issues/6149) | aggarwalsw |  | jliusan | new comment. Attention to inconsistent tag. | 05-06 | fail to get. |  |
+| 13 | [#6149](https://github.com/Azure/sdk-release-request/issues/6149) | aggarwalsw |  | jliusan | Attention to inconsistent tag. | 05-06 | fail to get. |  |
 | 14 | [#6144](https://github.com/Azure/sdk-release-request/issues/6144) | aggarwalsw |  | jliusan | Attention to inconsistent tag. | 05-06 | fail to get. |  |
 | 15 | [#6140](https://github.com/Azure/sdk-release-request/issues/6140) | aggarwalsw |  | jliusan | Attention to inconsistent tag. | 05-06 | fail to get. |  |
 | 16 | [#6135](https://github.com/Azure/sdk-release-request/issues/6135) | prathod09 |  | jliusan |  | 05-05 | 05-23 |  |
