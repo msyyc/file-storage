@@ -18,5 +18,5 @@
 | 16 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar |  | ChenxiJiang333 | duplicated issue  <br> | 04-29 |  | 0 |
 | 17 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 04-27 | 05-23 |  |
 | 18 | [#6084](https://github.com/Azure/sdk-release-request/issues/6084) | kalbert312 | azure-mgmt-resource | ChenxiJiang333 | HoldOn. | 04-22 | 05-23 |  |
-| 19 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 | new comment. | 04-15 | 05-23 |  |
+| 19 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-15 | 05-23 |  |
 | 20 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
