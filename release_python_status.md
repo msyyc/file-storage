@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6205](https://github.com/Azure/sdk-release-request/issues/6205) | alluri02 |  | ChenxiJiang333 | duplicated issue  <br> | 05-13 |  | 0 |
+| 1 | [#6205](https://github.com/Azure/sdk-release-request/issues/6205) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | new issue. TypeSpec. | 05-13 | fail to get. |  |
 | 2 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 3 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 05-12 | 06-20 |  |
-| 4 | [#6191](https://github.com/Azure/sdk-release-request/issues/6191) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. OnTime. ForCLI. | 05-12 | 06-19 |  |
+| 4 | [#6191](https://github.com/Azure/sdk-release-request/issues/6191) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | OnTime. ForCLI. | 05-12 | 06-19 |  |
 | 5 | [#6186](https://github.com/Azure/sdk-release-request/issues/6186) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 05-10 | 05-23 |  |
 | 6 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 |  | 05-09 | 05-23 |  |
 | 7 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 |  | 05-09 | 05-23 |  |
