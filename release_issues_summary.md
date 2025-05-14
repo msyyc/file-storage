@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release for Storage (only for python)  | [#6211](https://github.com/Azure/sdk-release-request/issues/6211)  |  |  |  | 05-14 |  |  |
+| 1 | Release for Storage (only for python)  | [#6211](https://github.com/Azure/sdk-release-request/issues/6211)  |  |  |  | 05-14 | fail to get. |  |
 | 2 | Release for Resources - 2025-04-01  | [#6209](https://github.com/Azure/sdk-release-request/issues/6209)  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
 | 3 | [TypeSpec] Python SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  | [#6205](https://github.com/Azure/sdk-release-request/issues/6205)  |  |  |  | 05-13 | fail to get. |  |
 | 4 | Release for Network Cloud - 2025-02-01 GA  | [#6200](https://github.com/Azure/sdk-release-request/issues/6200)  | [#6197](https://github.com/Azure/sdk-release-request/issues/6197)  | [#6198](https://github.com/Azure/sdk-release-request/issues/6198)  | [#6199](https://github.com/Azure/sdk-release-request/issues/6199)  | 05-12 | 06-20 |  |
