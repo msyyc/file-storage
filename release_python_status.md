@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. MultiAPI | 05-14 | 06-20 |  |
+| 1 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 05-14 | 06-20 |  |
 | 2 | [#6205](https://github.com/Azure/sdk-release-request/issues/6205) | alluri02 | azure-mgmt-neonpostgres | ChenxiJiang333 | TypeSpec. | 05-13 | fail to get. |  |
 | 3 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 4 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 05-12 | 06-20 |  |
