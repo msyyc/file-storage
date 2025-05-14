@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|weidongxu-microsoft, XiaofeiCao|new issue|2025-05-13|
+|1|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|XiaofeiCao, weidongxu-microsoft|new issue|2025-05-13|
 |2|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
 |3|[#45081](https://github.com/Azure/azure-sdk-for-java/issues/45081)|[FEATURE REQ] Requesting SDK for  Configuring Backupvault in AKS|question, AKS, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-23|
 |4|[#44984](https://github.com/Azure/azure-sdk-for-java/issues/44984)|[QUERY] Issues retrieving EncryptionSettingsCollection from Disk object|question, Compute, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-15|
@@ -37,7 +37,7 @@
 |35|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |36|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |37|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|38|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|38|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |39|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |40|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |41|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
