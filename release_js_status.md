@@ -3,7 +3,7 @@
 | 1 | [#6199](https://github.com/Azure/sdk-release-request/issues/6199) | annapankiewicz |  | MaryGao | new issue. | 05-12 | 06-20 |  |
 | 2 | [#6194](https://github.com/Azure/sdk-release-request/issues/6194) | yaotongms |  | MaryGao | Attention to inconsistent tag. | 05-12 | 06-20 |  |
 | 3 | [#6190](https://github.com/Azure/sdk-release-request/issues/6190) | fumingzhang |  | MaryGao | multi readme link! | 05-12 | 06-19 |  |
-| 4 | [#6185](https://github.com/Azure/sdk-release-request/issues/6185) | CarlOchs |  | qiaozha | new issue. | 05-10 | 05-23 |  |
+| 4 | [#6185](https://github.com/Azure/sdk-release-request/issues/6185) | CarlOchs |  | qiaozha | new issue. new comment. | 05-10 | 05-23 |  |
 | 5 | [#6180](https://github.com/Azure/sdk-release-request/issues/6180) | dipti-pai |  | qiaozha | new issue. | 05-09 | 05-23 |  |
 | 6 | [#6175](https://github.com/Azure/sdk-release-request/issues/6175) | dipti-pai |  | qiaozha | new issue. | 05-09 | 05-23 |  |
 | 7 | [#6166](https://github.com/Azure/sdk-release-request/issues/6166) | dipti-pai |  | qiaozha | Attention to inconsistent tag. | 05-08 | 05-23 |  |

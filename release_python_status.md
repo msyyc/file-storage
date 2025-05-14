@@ -4,7 +4,7 @@
 | 2 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 3 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 4 | [#6191](https://github.com/Azure/sdk-release-request/issues/6191) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | OnTime. ForCLI. | 05-12 | 06-19 |  |
-| 5 | [#6186](https://github.com/Azure/sdk-release-request/issues/6186) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 05-10 | 05-23 |  |
+| 5 | [#6186](https://github.com/Azure/sdk-release-request/issues/6186) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | new comment. | 05-10 | 05-23 |  |
 | 6 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 |  | 05-09 | 05-23 |  |
 | 7 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 |  | 05-09 | 05-23 |  |
 | 8 | [#6169](https://github.com/Azure/sdk-release-request/issues/6169) | deepakmauryams | azure-mgmt-purestorageblock | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-09 | fail to get. |  |

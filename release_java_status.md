@@ -4,7 +4,7 @@
 | 2 | [#6198](https://github.com/Azure/sdk-release-request/issues/6198) | annapankiewicz |  | v-hongli1 | new issue. | 05-12 | 06-20 |  |
 | 3 | [#6193](https://github.com/Azure/sdk-release-request/issues/6193) | yaotongms |  | weidongxu-microsoft | Attention to inconsistent tag. | 05-12 | 06-20 |  |
 | 4 | [#6189](https://github.com/Azure/sdk-release-request/issues/6189) | fumingzhang |  | v-hongli1 | multi readme link! | 05-12 | 06-19 |  |
-| 5 | [#6184](https://github.com/Azure/sdk-release-request/issues/6184) | CarlOchs |  | XiaofeiCao | new issue. | 05-10 | 05-23 |  |
+| 5 | [#6184](https://github.com/Azure/sdk-release-request/issues/6184) | CarlOchs |  | XiaofeiCao | new issue. new comment. | 05-10 | 05-23 |  |
 | 6 | [#6179](https://github.com/Azure/sdk-release-request/issues/6179) | dipti-pai |  | v-hongli1 | new issue. | 05-09 | 05-23 |  |
 | 7 | [#6174](https://github.com/Azure/sdk-release-request/issues/6174) | dipti-pai |  | v-hongli1 | new issue. | 05-09 | 05-23 |  |
 | 8 | [#6165](https://github.com/Azure/sdk-release-request/issues/6165) | dipti-pai |  | XiaofeiCao | Attention to inconsistent tag. | 05-08 | 05-23 |  |
