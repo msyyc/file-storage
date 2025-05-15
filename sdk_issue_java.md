@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#45335](https://github.com/Azure/azure-sdk-for-java/issues/45335)|Deprecate Azure Spring Apps mgmt. SDK for Java|Mgmt, needs-triage|XiaofeiCao||2025-05-15|
-|2|[#45324](https://github.com/Azure/azure-sdk-for-java/issues/45324)|Support for Creating PremiumV2_LRS Disks with Custom IOPS/Throughput in Compute SDK|question, ARM, Mgmt, customer-reported, Mgmt - Track 2|weidongxu-microsoft|new comment|2025-05-14|
+|2|[#45324](https://github.com/Azure/azure-sdk-for-java/issues/45324)|Support for Creating PremiumV2_LRS Disks with Custom IOPS/Throughput in Compute SDK|question, ARM, Mgmt, customer-reported, Mgmt - Track 2|weidongxu-microsoft||2025-05-14|
 |3|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|weidongxu-microsoft, XiaofeiCao|new issue|2025-05-13|
 |4|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
 |5|[#45081](https://github.com/Azure/azure-sdk-for-java/issues/45081)|[FEATURE REQ] Requesting SDK for  Configuring Backupvault in AKS|question, AKS, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-23|
