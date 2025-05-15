@@ -11,7 +11,7 @@
 | 9 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | FirstBeta. | 05-09 | 05-23 |  |
 | 10 | [#6169](https://github.com/Azure/sdk-release-request/issues/6169) | deepakmauryams | azure-mgmt-purestorageblock | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-09 | fail to get. |  |
 | 11 | [#6167](https://github.com/Azure/sdk-release-request/issues/6167) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensions | ChenxiJiang333 | FirstBeta. | 05-08 | 05-23 |  |
-| 12 | [#6160](https://github.com/Azure/sdk-release-request/issues/6160) | bsomeshekar | azure-mgmt-sitemanager | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 05-07 | fail to get. |  |
+| 12 | [#6160](https://github.com/Azure/sdk-release-request/issues/6160) | bsomeshekar | azure-mgmt-sitemanager | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-07 | fail to get. |  |
 | 13 | [#6159](https://github.com/Azure/sdk-release-request/issues/6159) | mandarinamdar |  | ChenxiJiang333 |  | 05-06 |  | 0 |
 | 14 | [#6155](https://github.com/Azure/sdk-release-request/issues/6155) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 05-06 | 05-23 |  |
 | 15 | [#6151](https://github.com/Azure/sdk-release-request/issues/6151) | aggarwalsw | azure-mgmt-lambdatesthyperexecute | ChenxiJiang333 | FirstGA. TypeSpec. | 05-06 | fail to get. |  |
