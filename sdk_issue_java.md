@@ -20,7 +20,7 @@
 |18|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |19|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |20|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|21|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|21|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |22|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |23|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |24|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
@@ -60,4 +60,3 @@
 |58|[#35242](https://github.com/Azure/azure-sdk-for-java/issues/35242)|[FEATURE REQ] mgmt WAF Policy, convenience layer for Geomatch custom rules|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
 |59|[#35241](https://github.com/Azure/azure-sdk-for-java/issues/35241)|[FEATURE REQ] mgmt WAF Policy, convenience layer for custom rules|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
 |60|[#35240](https://github.com/Azure/azure-sdk-for-java/issues/35240)|[FEATURE REQ] mgmt WAF policy, convenience layer for configuring Waf policy with managed rules and exclusion list|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
-|61|[#34995](https://github.com/Azure/azure-sdk-for-java/issues/34995)|mgmt, enable LIVE tests for all Lite generation packages|Mgmt|haolingdong-msft||2023-05-17|
