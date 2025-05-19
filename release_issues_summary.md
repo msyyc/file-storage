@@ -22,15 +22,9 @@
 | 20 | [TypeSpec] Java SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  |  | [#6116](https://github.com/Azure/sdk-release-request/issues/6116)  |  | 04-29 | fail to get. |  |
 | 21 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. | Hold on by Java/ |
 | 22 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
-| 23 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6202](https://github.com/Azure/sdk-release-request/issues/6202)  |  |  | 05-13 | fail to get. |  |
-| 24 | [TypeSpec] Go SDK generate request for Liftr Pure Storage Krypton Service  |  | [#6170](https://github.com/Azure/sdk-release-request/issues/6170)  |  |  | 05-09 | fail to get. |  |
-| 25 | [TypeSpec] Go SDK generate request for Azure Arc site manager  |  | [#6161](https://github.com/Azure/sdk-release-request/issues/6161)  |  |  | 05-07 | fail to get. |  |
-| 26 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. | Hold on by Go/ |
-| 27 | PosgreSQL Flexible Server API Preview V20250101  |  | [#6152](https://github.com/Azure/sdk-release-request/issues/6152)  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
-| 28 | [TypeSpec] Go SDK generate request for Liftr-Lambdatest  |  | [#6149](https://github.com/Azure/sdk-release-request/issues/6149)  |  |  | 05-06 | fail to get. |  |
-| 29 | [TypeSpec] Go SDK generate request for Liftr-WeightAndBiases  |  | [#6144](https://github.com/Azure/sdk-release-request/issues/6144)  |  |  | 05-06 | fail to get. |  |
-| 30 | [TypeSpec] Go SDK generate request for Liftr Arize  |  | [#6140](https://github.com/Azure/sdk-release-request/issues/6140)  |  |  | 05-06 | fail to get. |  |
-| 31 | SDK Release for API spec 2024-09-19-preview  |  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  |  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
-| 32 | [TypeSpec] Go SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  | [#6114](https://github.com/Azure/sdk-release-request/issues/6114)  |  |  | 04-29 | fail to get. |  |
-| 33 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
-| 34 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
+| 23 | [TypeSpec] Go SDK generate request for Liftr Pure Storage Krypton Service  |  | [#6170](https://github.com/Azure/sdk-release-request/issues/6170)  |  |  | 05-09 | fail to get. |  |
+| 24 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. | Hold on by Go/ |
+| 25 | PosgreSQL Flexible Server API Preview V20250101  |  | [#6152](https://github.com/Azure/sdk-release-request/issues/6152)  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
+| 26 | SDK Release for API spec 2024-09-19-preview  |  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  |  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
+| 27 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
+| 28 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
