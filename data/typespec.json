@@ -34,7 +34,11 @@
     "azure-mgmt-avs",
     "azure-mgmt-secretsstoreextension",
     "azure-mgmt-dellstorage",
-    "azure-mgmt-lambdatesthyperexecute"
+    "azure-mgmt-lambdatesthyperexecute",
+    "azure-mgmt-planetarycomputer",
+    "azure-mgmt-sitemanager",
+    "azure-mgmt-purestorageblock",
+    "azure-mgmt-mongodbatlas"
   ],
   "js": [],
   "go": [],
