@@ -9,7 +9,7 @@
 | 7 | [#6179](https://github.com/Azure/sdk-release-request/issues/6179) | dipti-pai |  | v-hongli1 | new issue. | 05-09 | 05-23 |  |
 | 8 | [#6174](https://github.com/Azure/sdk-release-request/issues/6174) | dipti-pai |  | v-hongli1 |  | 05-09 | 05-23 |  |
 | 9 | [#6165](https://github.com/Azure/sdk-release-request/issues/6165) | dipti-pai |  | XiaofeiCao | Attention to inconsistent tag. FirstBeta. | 05-08 | 05-23 |  |
-| 10 | [#6156](https://github.com/Azure/sdk-release-request/issues/6156) | mandarinamdar |  | XiaofeiCao | HoldOn. | 05-06 | fail to get. |  |
+| 10 | [#6156](https://github.com/Azure/sdk-release-request/issues/6156) | mandarinamdar |  | XiaofeiCao |  | 05-06 | fail to get. |  |
 | 11 | [#6122](https://github.com/Azure/sdk-release-request/issues/6122) | pjohari-ms |  | v-hongli1 | Attention to inconsistent tag. | 04-30 | 05-23 |  |
 | 12 | [#6116](https://github.com/Azure/sdk-release-request/issues/6116) | helen-afework |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 04-29 | fail to get. |  |
 | 13 | [#6109](https://github.com/Azure/sdk-release-request/issues/6109) | cataggar |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. HoldOn. | 04-29 | fail to get. |  |

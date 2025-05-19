@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | new issue. | 05-19 | 06-19 |  |
+| 1 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 05-19 | 06-19 |  |
 | 2 | [#6211](https://github.com/Azure/sdk-release-request/issues/6211) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 05-14 | fail to get. |  |
 | 3 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 05-14 | 06-20 |  |
 | 4 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
