@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-confidentialledger,azure-sdk,ChenxiJiang333,2025-05-05,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6138,2.0.0b5,
+azure-mgmt-postgresqlflexibleservers,azure-sdk,ChenxiJiang333,2025-05-06,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6155,1.2.0b1,
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-05-12,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6191,36.0.0,True
 azure-mgmt-servicenetworking,azure-sdk,ChenxiJiang333,2025-04-23,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6098,2.1.0b1,
 azure-mgmt-cognitiveservices,azure-sdk,ChenxiJiang333,2025-05-10,2025-05-15,https://github.com/Azure/sdk-release-request/issues/6186,13.7.0b1,
