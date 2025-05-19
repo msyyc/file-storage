@@ -7,7 +7,7 @@
 | 5 | [#6190](https://github.com/Azure/sdk-release-request/issues/6190) | fumingzhang |  | MaryGao | multi readme link! | 05-12 | 06-19 |  |
 | 6 | [#6185](https://github.com/Azure/sdk-release-request/issues/6185) | CarlOchs |  | qiaozha | new comment. | 05-10 | 05-23 |  |
 | 7 | [#6180](https://github.com/Azure/sdk-release-request/issues/6180) | dipti-pai |  | qiaozha | new issue. | 05-09 | 05-23 |  |
-| 8 | [#6175](https://github.com/Azure/sdk-release-request/issues/6175) | dipti-pai |  | qiaozha | new issue. | 05-09 | 05-23 |  |
+| 8 | [#6175](https://github.com/Azure/sdk-release-request/issues/6175) | dipti-pai |  | qiaozha | HoldOn. | 05-09 | 05-23 |  |
 | 9 | [#6166](https://github.com/Azure/sdk-release-request/issues/6166) | dipti-pai |  | qiaozha | Attention to inconsistent tag. FirstBeta. HoldOn. | 05-08 | 05-23 |  |
 | 10 | [#6154](https://github.com/Azure/sdk-release-request/issues/6154) | nasc17 |  | qiaozha |  | 05-06 | 05-23 |  |
 | 11 | [#6137](https://github.com/Azure/sdk-release-request/issues/6137) | prathod09 |  | qiaozha |  | 05-05 | 05-23 |  |
