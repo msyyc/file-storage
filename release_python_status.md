@@ -4,7 +4,6 @@
 | 2 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 05-14 | 06-20 |  |
 | 3 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 4 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 05-12 | 06-20 |  |
-| 5 | [#6191](https://github.com/Azure/sdk-release-request/issues/6191) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | OnTime. ForCLI. | 05-12 | 06-19 |  |
 | 6 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 | FirstBeta. | 05-09 | 05-23 |  |
 | 7 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | FirstBeta. | 05-09 | 05-23 |  |
 | 8 | [#6167](https://github.com/Azure/sdk-release-request/issues/6167) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensions | ChenxiJiang333 | FirstBeta. | 05-08 | 05-23 |  |

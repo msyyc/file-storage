@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-05-12,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6191,36.0.0,True
 azure-mgmt-servicenetworking,azure-sdk,ChenxiJiang333,2025-04-23,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6098,2.1.0b1,
 azure-mgmt-cognitiveservices,azure-sdk,ChenxiJiang333,2025-05-10,2025-05-15,https://github.com/Azure/sdk-release-request/issues/6186,13.7.0b1,
 azure-mgmt-containerservicefleet,azure-sdk,ChenxiJiang333,2025-04-01,2025-05-08,https://github.com/Azure/sdk-release-request/issues/5987,3.1.0,True
