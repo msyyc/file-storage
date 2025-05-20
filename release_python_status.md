@@ -5,13 +5,13 @@
 | 3 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 05-14 | 06-20 |  |
 | 4 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 5 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 05-12 | 06-20 |  |
-| 6 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 | FirstBeta. | 05-09 | 05-23 |  |
-| 7 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | FirstBeta. | 05-09 | 05-23 |  |
-| 8 | [#6167](https://github.com/Azure/sdk-release-request/issues/6167) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensions | ChenxiJiang333 | FirstBeta. | 05-08 | 05-23 |  |
+| 6 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 | close to release date. FirstBeta. | 05-09 | 05-23 | 2 |
+| 7 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | close to release date. FirstBeta. | 05-09 | 05-23 | 2 |
+| 8 | [#6167](https://github.com/Azure/sdk-release-request/issues/6167) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensions | ChenxiJiang333 | close to release date. FirstBeta. | 05-08 | 05-23 | 2 |
 | 9 | [#6159](https://github.com/Azure/sdk-release-request/issues/6159) | mandarinamdar | azure-mgmt-planetarycomputer | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-06 | fail to get. |  |
-| 10 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 |  | 04-30 | 05-23 |  |
+| 10 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 | close to release date. | 04-30 | 05-23 | 2 |
 | 11 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar | azure-mgmt-avs | ChenxiJiang333 | HoldOn. TypeSpec. | 04-29 | fail to get. |  |
-| 12 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 |  | 04-27 | 05-23 |  |
-| 13 | [#6084](https://github.com/Azure/sdk-release-request/issues/6084) | kalbert312 | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> | 04-22 | 05-23 |  |
-| 14 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 04-15 | 05-23 |  |
+| 12 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | close to release date. | 04-27 | 05-23 | 2 |
+| 13 | [#6084](https://github.com/Azure/sdk-release-request/issues/6084) | kalbert312 | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> close to release date. | 04-22 | 05-23 | 2 |
+| 14 | [#6060](https://github.com/Azure/sdk-release-request/issues/6060) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 04-15 | 05-23 | 2 |
 | 15 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
