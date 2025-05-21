@@ -9,7 +9,7 @@
 | 7 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 | close to release date. FirstBeta. | 05-09 | 05-23 | 1 |
 | 8 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | close to release date. FirstBeta. | 05-09 | 05-23 | 1 |
 | 9 | [#6167](https://github.com/Azure/sdk-release-request/issues/6167) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensions | ChenxiJiang333 | close to release date. FirstBeta. | 05-08 | 05-23 | 1 |
-| 10 | [#6159](https://github.com/Azure/sdk-release-request/issues/6159) | mandarinamdar | azure-mgmt-planetarycomputer | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-06 | fail to get. |  |
+| 10 | [#6159](https://github.com/Azure/sdk-release-request/issues/6159) | mandarinamdar | azure-mgmt-planetarycomputer | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 05-06 | fail to get. |  |
 | 11 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 | close to release date. | 04-30 | 05-23 | 1 |
 | 12 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar | azure-mgmt-avs | ChenxiJiang333 | HoldOn. TypeSpec. | 04-29 | fail to get. |  |
 | 13 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | close to release date. | 04-27 | 05-23 | 1 |
