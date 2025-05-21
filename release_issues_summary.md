@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Online Experimentation  | [#6217](https://github.com/Azure/sdk-release-request/issues/6217)  |  |  |  | 05-20 | fail to get. |  |
+| 1 | [TypeSpec] Python SDK generate request for Online Experimentation  | [#6217](https://github.com/Azure/sdk-release-request/issues/6217)  |  |  |  | 05-20 | fail to get. | Hold on by Python/ |
 | 2 | Microsoft.Network API Version 2024-07-01  | [#6215](https://github.com/Azure/sdk-release-request/issues/6215)  | [#6212](https://github.com/Azure/sdk-release-request/issues/6212)  | [#6213](https://github.com/Azure/sdk-release-request/issues/6213)  | [#6214](https://github.com/Azure/sdk-release-request/issues/6214)  | 05-19 | 06-19 |  |
 | 3 | Release for Storage (only for python)  | [#6211](https://github.com/Azure/sdk-release-request/issues/6211)  |  |  |  | 05-14 | fail to get. |  |
 | 4 | Release for Resources - 2025-04-01  | [#6209](https://github.com/Azure/sdk-release-request/issues/6209)  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
