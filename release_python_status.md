@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | new comment. TypeSpec. | 05-20 | fail to get. |  |
+| 1 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | TypeSpec. | 05-20 | fail to get. |  |
 | 2 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 05-19 | 06-19 |  |
 | 3 | [#6211](https://github.com/Azure/sdk-release-request/issues/6211) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 05-14 | fail to get. |  |
 | 4 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | new issue. MultiAPI | 05-14 | 06-20 |  |
