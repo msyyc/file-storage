@@ -27,7 +27,7 @@
 | 25 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
 | 26 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6218](https://github.com/Azure/sdk-release-request/issues/6218)  |  |  | 05-20 | fail to get. |  |
 | 27 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. | Hold on by Go/ |
-| 28 | PosgreSQL Flexible Server API Preview V20250101  |  | [#6152](https://github.com/Azure/sdk-release-request/issues/6152)  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
-| 29 | SDK Release for API spec 2024-09-19-preview  |  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  |  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
-| 30 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
-| 31 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
+| 28 | SDK Release for API spec 2024-09-19-preview  |  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  |  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
+| 29 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
+| 30 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
+| 31 | PosgreSQL Flexible Server API Preview V20250101  |  |  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
