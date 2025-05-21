@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Online Experimentation  | [#6217](https://github.com/Azure/sdk-release-request/issues/6217)  |  |  |  | 05-20 | fail to get. | Hold on by Python/ |
+| 1 | [TypeSpec] Python SDK generate request for Online Experimentation  | [#6217](https://github.com/Azure/sdk-release-request/issues/6217)  |  |  |  | 05-20 | fail to get. |  |
 | 2 | Microsoft.Network API Version 2024-07-01  | [#6215](https://github.com/Azure/sdk-release-request/issues/6215)  | [#6212](https://github.com/Azure/sdk-release-request/issues/6212)  | [#6213](https://github.com/Azure/sdk-release-request/issues/6213)  | [#6214](https://github.com/Azure/sdk-release-request/issues/6214)  | 05-19 | 06-19 |  |
 | 3 | Release for Storage (only for python)  | [#6211](https://github.com/Azure/sdk-release-request/issues/6211)  |  |  |  | 05-14 | fail to get. |  |
 | 4 | Release for Resources - 2025-04-01  | [#6209](https://github.com/Azure/sdk-release-request/issues/6209)  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
@@ -13,7 +13,7 @@
 | 11 | Azure Chaos Studios - 2025-01-01  | [#6129](https://github.com/Azure/sdk-release-request/issues/6129)  | [#6126](https://github.com/Azure/sdk-release-request/issues/6126)  |  | [#6128](https://github.com/Azure/sdk-release-request/issues/6128)  | 04-30 | 05-23 | Hold on by Go/ |
 | 12 | [TypeSpec] Python SDK generate request for Azure VMware Solution  | [#6110](https://github.com/Azure/sdk-release-request/issues/6110)  |  |  |  | 04-29 | fail to get. | Hold on by Python/ |
 | 13 | Release for Search - 2025-05-01  | [#6107](https://github.com/Azure/sdk-release-request/issues/6107)  | [#6104](https://github.com/Azure/sdk-release-request/issues/6104)  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 05-23 | Hold on by JS/Java/ |
-| 14 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  | [#6057](https://github.com/Azure/sdk-release-request/issues/6057)  |  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
+| 14 | Release for NetAppFiles - 2025-01-01-preview  | [#6060](https://github.com/Azure/sdk-release-request/issues/6060)  |  |  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
 | 15 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Go/ |
 | 16 | [TypeSpec] Java SDK generate request for Online Experimentation  |  |  | [#6216](https://github.com/Azure/sdk-release-request/issues/6216)  |  | 05-20 | fail to get. |  |
 | 17 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  | [#6189](https://github.com/Azure/sdk-release-request/issues/6189)  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
@@ -29,5 +29,4 @@
 | 27 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. | Hold on by Go/ |
 | 28 | SDK Release for API spec 2024-09-19-preview  |  | [#6135](https://github.com/Azure/sdk-release-request/issues/6135)  |  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
 | 29 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
-| 30 | Release for Workloads SapVirtualInstances - 2024-09-01  |  | [#5537](https://github.com/Azure/sdk-release-request/issues/5537)  |  |  | 09-27 | 04-24 | Hold on by Go/ |
-| 31 | PosgreSQL Flexible Server API Preview V20250101  |  |  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
+| 30 | PosgreSQL Flexible Server API Preview V20250101  |  |  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
