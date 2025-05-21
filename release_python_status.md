@@ -1,10 +1,10 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch |  | ChenxiJiang333 |  | 05-20 |  | 0 |
+| 1 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | new issue. TypeSpec. | 05-20 | fail to get. |  |
 | 2 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 05-19 | 06-19 |  |
 | 3 | [#6211](https://github.com/Azure/sdk-release-request/issues/6211) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 05-14 | fail to get. |  |
 | 4 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | duplicated issue  <br> new issue. MultiAPI | 05-14 | 06-20 |  |
-| 5 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 | new comment. | 05-12 | 06-20 |  |
+| 5 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 6 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | new comment. | 05-12 | 06-20 |  |
 | 7 | [#6181](https://github.com/Azure/sdk-release-request/issues/6181) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 | close to release date. FirstBeta. | 05-09 | 05-23 | 1 |
 | 8 | [#6176](https://github.com/Azure/sdk-release-request/issues/6176) | dipti-pai | azure-mgmt-kubernetesconfiguration-extensiontypes | ChenxiJiang333 | close to release date. FirstBeta. | 05-09 | 05-23 | 1 |
