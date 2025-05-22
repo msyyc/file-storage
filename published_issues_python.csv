@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-storage,ChenxiJiang333,ChenxiJiang333,2025-05-14,2025-05-22,https://github.com/Azure/sdk-release-request/issues/6211,23.0.0,True
 azure-mgmt-netapp,azure-sdk,ChenxiJiang333,2025-04-15,2025-05-22,https://github.com/Azure/sdk-release-request/issues/6060,14.0.0b1,
 azure-mgmt-resource,azure-sdk,ChenxiJiang333,2025-04-22,2025-05-21,https://github.com/Azure/sdk-release-request/issues/6084,23.4.0,True
 azure-mgmt-confidentialledger,azure-sdk,ChenxiJiang333,2025-05-05,2025-05-19,https://github.com/Azure/sdk-release-request/issues/6138,2.0.0b5,

@@ -4,7 +4,6 @@
 | 2 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 |  | 05-21 | 06-19 |  |
 | 3 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | TypeSpec. | 05-20 | fail to get. |  |
 | 4 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | OnTime. | 05-19 | 06-19 |  |
-| 5 | [#6211](https://github.com/Azure/sdk-release-request/issues/6211) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 05-14 | fail to get. |  |
 | 6 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | new issue. MultiAPI | 05-14 | 06-20 |  |
 | 7 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 8 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | new comment. | 05-12 | 06-20 |  |
