@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new issue. TypeSpec. | 05-21 | fail to get. |  |
+| 1 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | TypeSpec. | 05-21 | fail to get. |  |
 | 2 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 |  | 05-21 | 06-19 |  |
 | 3 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | TypeSpec. | 05-20 | fail to get. |  |
 | 4 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | OnTime. | 05-19 | 06-19 |  |
@@ -15,4 +15,4 @@
 | 13 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 | close to release date. | 04-30 | 05-23 | 0 |
 | 14 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar | azure-mgmt-avs | ChenxiJiang333 | HoldOn. TypeSpec. | 04-29 | fail to get. |  |
 | 15 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new comment. close to release date. HoldOn. | 04-27 | 05-23 | 0 |
-| 17 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
+| 16 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
