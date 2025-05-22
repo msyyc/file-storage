@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 |  | ChenxiJiang333 |  | 05-21 |  | 0 |
-| 2 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | new issue. | 05-21 | 06-19 |  |
+| 2 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 |  | 05-21 | 06-19 |  |
 | 3 | [#6217](https://github.com/Azure/sdk-release-request/issues/6217) | smichtch | azure-mgmt-onlineexperimentation | ChenxiJiang333 | TypeSpec. | 05-20 | fail to get. |  |
 | 4 | [#6215](https://github.com/Azure/sdk-release-request/issues/6215) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 05-19 | 06-19 |  |
 | 5 | [#6211](https://github.com/Azure/sdk-release-request/issues/6211) | ChenxiJiang333 | azure-mgmt-storage | ChenxiJiang333 |  | 05-14 | fail to get. |  |
