@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#45324](https://github.com/Azure/azure-sdk-for-java/issues/45324)|Support for Creating PremiumV2_LRS Disks with Custom IOPS/Throughput in Compute SDK|question, ARM, Mgmt, customer-reported, Mgmt - Track 2|weidongxu-microsoft||2025-05-14|
-|2|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|weidongxu-microsoft, XiaofeiCao||2025-05-13|
+|2|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|XiaofeiCao, weidongxu-microsoft||2025-05-13|
 |3|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
 |4|[#45081](https://github.com/Azure/azure-sdk-for-java/issues/45081)|[FEATURE REQ] Requesting SDK for  Configuring Backupvault in AKS|question, AKS, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-23|
 |5|[#44984](https://github.com/Azure/azure-sdk-for-java/issues/44984)|[QUERY] Issues retrieving EncryptionSettingsCollection from Disk object|question, Compute, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-15|
@@ -20,7 +20,7 @@
 |18|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |19|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |20|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|21|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|21|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |22|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |23|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |24|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
@@ -34,12 +34,12 @@
 |32|[#39123](https://github.com/Azure/azure-sdk-for-java/issues/39123)|[BUG] "No registered resource provider found for location 'eastus2' and API version '2018-01-01' for type 'storageAccounts/blobServices'|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-07|
 |33|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |34|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|35|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
+|35|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
 |36|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-11-24|
 |37|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |38|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |39|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|40|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|40|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |41|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |42|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |43|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
