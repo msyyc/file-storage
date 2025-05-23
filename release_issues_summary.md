@@ -20,9 +20,9 @@
 | 18 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. | Hold on by Java/ |
 | 19 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
 | 20 | Microsoft.Resources/deployments 2025-03-01  |  |  | [#6082](https://github.com/Azure/sdk-release-request/issues/6082)  | [#6083](https://github.com/Azure/sdk-release-request/issues/6083)  | 04-22 | 05-23 |  |
-| 21 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. |  |
-| 22 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6218](https://github.com/Azure/sdk-release-request/issues/6218)  |  |  | 05-20 | fail to get. |  |
-| 23 | [TypeSpec] Go SDK generate request for Microsoft Planetary Computer Pro  |  | [#6157](https://github.com/Azure/sdk-release-request/issues/6157)  |  |  | 05-06 | fail to get. |  |
+| 21 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
+| 22 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. |  |
+| 23 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6218](https://github.com/Azure/sdk-release-request/issues/6218)  |  |  | 05-20 | fail to get. |  |
 | 24 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
 | 25 | Cognitive Services - 2025-04-01 Preview  |  |  |  | [#6185](https://github.com/Azure/sdk-release-request/issues/6185)  | 05-10 | 05-23 |  |
 | 26 | PosgreSQL Flexible Server API Preview V20250101  |  |  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
