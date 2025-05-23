@@ -27,4 +27,3 @@
 | 25 | Cognitive Services - 2025-04-01 Preview  |  |  |  | [#6185](https://github.com/Azure/sdk-release-request/issues/6185)  | 05-10 | 05-23 |  |
 | 26 | PosgreSQL Flexible Server API Preview V20250101  |  |  |  | [#6154](https://github.com/Azure/sdk-release-request/issues/6154)  | 05-06 | 05-23 |  |
 | 27 | SDK Release for API spec 2024-09-19-preview  |  |  |  | [#6137](https://github.com/Azure/sdk-release-request/issues/6137)  | 05-05 | 05-23 |  |
-| 28 | Release for NetAppFiles - 2025-01-01-preview  |  |  |  | [#6059](https://github.com/Azure/sdk-release-request/issues/6059)  | 04-15 | 05-23 |  |
