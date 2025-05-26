@@ -15,7 +15,7 @@
 | 13 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
 | 14 | Microsoft.Network API Version 2024-07-01  |  |  | [#6213](https://github.com/Azure/sdk-release-request/issues/6213)  |  | 05-19 | 06-19 |  |
 | 15 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  | [#6189](https://github.com/Azure/sdk-release-request/issues/6189)  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
-| 16 | Release for Kubernetes Configuration Flux configuration version 2024-11-01  |  | [#6178](https://github.com/Azure/sdk-release-request/issues/6178)  | [#6179](https://github.com/Azure/sdk-release-request/issues/6179)  |  | 05-09 | 05-23 | Hold on by Java/ |
+| 16 | Release for Kubernetes Configuration Flux configuration version 2024-11-01  |  |  | [#6179](https://github.com/Azure/sdk-release-request/issues/6179)  |  | 05-09 | 05-23 | Hold on by Java/ |
 | 17 | Release for Kubernetes Configuration Extensions types version 2024-11-01-preview  |  |  | [#6174](https://github.com/Azure/sdk-release-request/issues/6174)  |  | 05-09 | 05-23 | Hold on by Java/ |
 | 18 | Release for Kubernetes Configuration Extensions version 2024-11-01  |  |  | [#6165](https://github.com/Azure/sdk-release-request/issues/6165)  |  | 05-08 | 05-23 |  |
 | 19 | Cosmos DB 2025-04-15 Stable SDK Release  |  |  | [#6122](https://github.com/Azure/sdk-release-request/issues/6122)  |  | 04-30 | 05-23 |  |
