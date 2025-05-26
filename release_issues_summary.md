@@ -24,6 +24,6 @@
 | 22 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  | [#6091](https://github.com/Azure/sdk-release-request/issues/6091)  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Java/Go/ |
 | 23 | Microsoft.Resources/deployments 2025-03-01  |  |  | [#6082](https://github.com/Azure/sdk-release-request/issues/6082)  |  | 04-22 | 05-23 |  |
 | 24 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
-| 25 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 |  |  |
+| 25 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. |  |
 | 26 | [TypeSpec] Go SDK generate request for Online Experimentation  |  | [#6218](https://github.com/Azure/sdk-release-request/issues/6218)  |  |  | 05-20 | fail to get. |  |
 | 27 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
