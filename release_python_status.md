@@ -5,7 +5,7 @@
 | 3 | [#6236](https://github.com/Azure/sdk-release-request/issues/6236) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | ForCLI. | 05-26 | 06-05 |  |
 | 4 | [#6231](https://github.com/Azure/sdk-release-request/issues/6231) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 |  | 05-23 | 06-20 |  |
 | 5 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | HoldOn. TypeSpec. | 05-21 | fail to get. |  |
-| 6 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> | 05-21 | 06-19 |  |
+| 6 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> HoldOn. | 05-21 | 06-19 |  |
 | 7 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | new issue. MultiAPI | 05-14 | 06-20 |  |
 | 8 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 9 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | new comment. | 05-12 | 06-20 |  |
