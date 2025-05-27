@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
-| 2 | [#6241](https://github.com/Azure/sdk-release-request/issues/6241) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> new issue. | 05-26 | 06-19 |  |
+| 2 | [#6241](https://github.com/Azure/sdk-release-request/issues/6241) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> | 05-26 | 06-19 |  |
 | 3 | [#6236](https://github.com/Azure/sdk-release-request/issues/6236) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | ForCLI. | 05-26 | 06-05 |  |
 | 4 | [#6231](https://github.com/Azure/sdk-release-request/issues/6231) | dipti-pai | azure-mgmt-kubernetesconfiguration-fluxconfigurations | ChenxiJiang333 |  | 05-23 | 06-20 |  |
 | 5 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | HoldOn. TypeSpec. | 05-21 | fail to get. |  |
