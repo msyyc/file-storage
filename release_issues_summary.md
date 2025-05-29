@@ -18,12 +18,11 @@
 | 16 | [TypeSpec] Java SDK generate request for vCore Cosmos DB for MongoDB  |  |  | [#6250](https://github.com/Azure/sdk-release-request/issues/6250)  |  | 05-28 | fail to get. |  |
 | 17 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
 | 18 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  | [#6189](https://github.com/Azure/sdk-release-request/issues/6189)  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
-| 19 | Release for Kubernetes Configuration Extensions types version 2024-11-01-preview  |  |  | [#6174](https://github.com/Azure/sdk-release-request/issues/6174)  |  | 05-09 | 05-23 |  |
-| 20 | [TypeSpec] Java SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  |  | [#6116](https://github.com/Azure/sdk-release-request/issues/6116)  |  | 04-29 | fail to get. |  |
-| 21 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. |  |
-| 22 | [TypeSpec] Go SDK generate request for vCore Cosmos DB for MongoDB  |  | [#6248](https://github.com/Azure/sdk-release-request/issues/6248)  |  |  | 05-28 | fail to get. |  |
-| 23 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
-| 24 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 25 | [TypeSpec] Go SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  | [#6114](https://github.com/Azure/sdk-release-request/issues/6114)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
-| 26 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
-| 27 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  |  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Go/ |
+| 19 | [TypeSpec] Java SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  |  | [#6116](https://github.com/Azure/sdk-release-request/issues/6116)  |  | 04-29 | fail to get. |  |
+| 20 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. |  |
+| 21 | [TypeSpec] Go SDK generate request for vCore Cosmos DB for MongoDB  |  | [#6248](https://github.com/Azure/sdk-release-request/issues/6248)  |  |  | 05-28 | fail to get. |  |
+| 22 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
+| 23 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
+| 24 | [TypeSpec] Go SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  | [#6114](https://github.com/Azure/sdk-release-request/issues/6114)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
+| 25 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. | Hold on by Go/ |
+| 26 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  |  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Go/ |
