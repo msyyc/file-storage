@@ -13,6 +13,6 @@
 | 11 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | new comment. | 05-12 | 06-20 |  |
 | 12 | [#6129](https://github.com/Azure/sdk-release-request/issues/6129) | RenzoPrettoMS | azure-mgmt-chaos | ChenxiJiang333 | HoldOn. | 04-30 | 05-23 |  |
 | 13 | [#6113](https://github.com/Azure/sdk-release-request/issues/6113) | helen-afework | azure-mgmt-recoveryservicesdatareplication | ChenxiJiang333 | FirstGA. HoldOn. TypeSpec. | 04-29 | fail to get. |  |
-| 14 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar | azure-mgmt-avs | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 04-29 | fail to get. |  |
+| 14 | [#6110](https://github.com/Azure/sdk-release-request/issues/6110) | cataggar | azure-mgmt-avs | ChenxiJiang333 | TypeSpec. | 04-29 | fail to get. |  |
 | 15 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new comment. HoldOn. | 04-27 | 05-23 |  |
 | 16 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
