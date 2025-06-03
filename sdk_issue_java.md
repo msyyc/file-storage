@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#45324](https://github.com/Azure/azure-sdk-for-java/issues/45324)|Support for Creating PremiumV2_LRS Disks with Custom IOPS/Throughput in Compute SDK|question, ARM, Mgmt, customer-reported, Mgmt - Track 2, issue-addressed|weidongxu-microsoft||2025-05-14|
-|2|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|weidongxu-microsoft, XiaofeiCao||2025-05-13|
+|2|[#45312](https://github.com/Azure/azure-sdk-for-java/issues/45312)|[Core] Update Azure Regions in Region|Mgmt|XiaofeiCao, weidongxu-microsoft||2025-05-13|
 |3|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
 |4|[#45081](https://github.com/Azure/azure-sdk-for-java/issues/45081)|[FEATURE REQ] Requesting SDK for  Configuring Backupvault in AKS|question, AKS, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-23|
 |5|[#44984](https://github.com/Azure/azure-sdk-for-java/issues/44984)|[QUERY] Issues retrieving EncryptionSettingsCollection from Disk object|question, Compute, Mgmt, customer-reported, Mgmt - Track 2|XiaofeiCao||2025-04-15|
@@ -38,7 +38,7 @@
 |36|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |37|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |38|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|39|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|39|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |40|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |41|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |42|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
@@ -54,8 +54,3 @@
 |52|[#35817](https://github.com/Azure/azure-sdk-for-java/issues/35817)|[BUG] Protectable Containers - List api doesn't work|question, Recovery Services Backup, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-07-11|
 |53|[#35478](https://github.com/Azure/azure-sdk-for-java/issues/35478)|[BUG] security cannot get securitySubAssessment  additionalData--Class has no fields|question, Security, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2023-06-15|
 |54|[#35316](https://github.com/Azure/azure-sdk-for-java/issues/35316)|[FEATURE REQ] LIVE test for mgmt GA Lite packages|Mgmt, Mgmt-EngSys|XiaofeiCao, v-hongli1||2023-06-06|
-|55|[#35244](https://github.com/Azure/azure-sdk-for-java/issues/35244)|[BUG] mgmt, investigate on occasional thread stuck|Mgmt, Mgmt - Track 2, backlog|XiaofeiCao||2023-06-01|
-|56|[#35243](https://github.com/Azure/azure-sdk-for-java/issues/35243)|[FEATURE REQ] mgmt WAF Policy, convenience layer for global, per-listener and per-site association|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
-|57|[#35242](https://github.com/Azure/azure-sdk-for-java/issues/35242)|[FEATURE REQ] mgmt WAF Policy, convenience layer for Geomatch custom rules|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
-|58|[#35241](https://github.com/Azure/azure-sdk-for-java/issues/35241)|[FEATURE REQ] mgmt WAF Policy, convenience layer for custom rules|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
-|59|[#35240](https://github.com/Azure/azure-sdk-for-java/issues/35240)|[FEATURE REQ] mgmt WAF policy, convenience layer for configuring Waf policy with managed rules and exclusion list|Network - Application Gateway, Mgmt, Mgmt - Track 2|XiaofeiCao||2023-06-01|
