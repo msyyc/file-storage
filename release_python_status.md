@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6257](https://github.com/Azure/sdk-release-request/issues/6257) | hjscherer | azure-mgmt-cloudhealth | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 05-30 | fail to get. |  |
+| 1 | [#6257](https://github.com/Azure/sdk-release-request/issues/6257) | hjscherer | azure-mgmt-cloudhealth | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 05-30 | fail to get. |  |
 | 2 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 | new issue. MultiAPI | 05-29 | 06-20 |  |
 | 3 | [#6249](https://github.com/Azure/sdk-release-request/issues/6249) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | TypeSpec. | 05-28 | fail to get. |  |
 | 4 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
