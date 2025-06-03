@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6257](https://github.com/Azure/sdk-release-request/issues/6257) | hjscherer | azure-mgmt-cloudhealth | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 05-30 | fail to get. |  |
-| 2 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 | new issue. MultiAPI | 05-29 | 06-20 |  |
+| 2 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 | new issue. | 05-29 | 06-20 |  |
 | 3 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
 | 4 | [#6241](https://github.com/Azure/sdk-release-request/issues/6241) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> | 05-26 | 06-19 |  |
 | 5 | [#6236](https://github.com/Azure/sdk-release-request/issues/6236) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | close to release date. ForCLI. | 05-26 | 06-04 | 0 |
