@@ -5,7 +5,7 @@
 | 3 | [#6249](https://github.com/Azure/sdk-release-request/issues/6249) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | TypeSpec. | 05-28 | fail to get. |  |
 | 4 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
 | 5 | [#6241](https://github.com/Azure/sdk-release-request/issues/6241) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> | 05-26 | 06-19 |  |
-| 6 | [#6236](https://github.com/Azure/sdk-release-request/issues/6236) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | close to release date. ForCLI. | 05-26 | 06-04 | 1 |
+| 6 | [#6236](https://github.com/Azure/sdk-release-request/issues/6236) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | close to release date. ForCLI. | 05-26 | 06-04 | 0 |
 | 7 | [#6231](https://github.com/Azure/sdk-release-request/issues/6231) | dipti-pai | azure-mgmt-kubernetesconfiguration-privatelinkscopes | ChenxiJiang333 |  | 05-23 | 06-20 |  |
 | 8 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | HoldOn. TypeSpec. | 05-21 | fail to get. |  |
 | 9 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> HoldOn. | 05-21 | 06-19 |  |
