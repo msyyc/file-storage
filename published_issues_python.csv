@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-sitemanager,azure-sdk,ChenxiJiang333,2025-05-07,2025-06-03,https://github.com/Azure/sdk-release-request/issues/6160,1.0.0b1,
 azure-mgmt-secretsstoreextension,azure-sdk,ChenxiJiang333,2025-04-24,2025-06-03,https://github.com/Azure/sdk-release-request/issues/6102,1.0.0b1,
 azure-mgmt-network,azure-sdk,ChenxiJiang333,2025-05-19,2025-05-23,https://github.com/Azure/sdk-release-request/issues/6215,29.0.0,True
 azure-mgmt-kubernetesconfiguration-extensions,azure-sdk,ChenxiJiang333,2025-05-08,2025-05-22,https://github.com/Azure/sdk-release-request/issues/6167,1.0.0b1,
