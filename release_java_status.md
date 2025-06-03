@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6258](https://github.com/Azure/sdk-release-request/issues/6258) | hjscherer |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 05-30 | fail to get. |  |
 | 2 | [#6253](https://github.com/Azure/sdk-release-request/issues/6253) | amberwang113 |  | v-hongli1 | new issue. | 05-29 | 06-20 |  |
-| 3 | [#6250](https://github.com/Azure/sdk-release-request/issues/6250) | olivertowers |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 05-28 | fail to get. |  |
+| 3 | [#6250](https://github.com/Azure/sdk-release-request/issues/6250) | olivertowers |  | XiaofeiCao | new issue. new comment. Attention to inconsistent tag. | 05-28 | fail to get. |  |
 | 4 | [#6244](https://github.com/Azure/sdk-release-request/issues/6244) | jamesvoongms |  | XiaofeiCao | new issue. | 05-27 | 06-20 |  |
 | 5 | [#6239](https://github.com/Azure/sdk-release-request/issues/6239) | ChristineWanjau |  | v-hongli1 | new comment. Attention to inconsistent tag. | 05-26 | 06-19 |  |
 | 6 | [#6234](https://github.com/Azure/sdk-release-request/issues/6234) | zubairabid |  | XiaofeiCao | new issue. | 05-26 | 06-19 |  |
