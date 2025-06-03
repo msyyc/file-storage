@@ -38,7 +38,8 @@
     "azure-mgmt-planetarycomputer",
     "azure-mgmt-sitemanager",
     "azure-mgmt-purestorageblock",
-    "azure-mgmt-mongodbatlas"
+    "azure-mgmt-mongodbatlas",
+    "azure-mgmt-cloudhealth"
   ],
   "js": [],
   "go": [],
