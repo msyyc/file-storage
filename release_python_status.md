@@ -3,7 +3,7 @@
 | 1 | [#6272](https://github.com/Azure/sdk-release-request/issues/6272) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. new comment. MultiAPI | 06-03 | 06-19 |  |
 | 2 | [#6268](https://github.com/Azure/sdk-release-request/issues/6268) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | new issue. Attention to inconsistent tag. TypeSpec. | 06-03 | fail to get. |  |
 | 3 | [#6262](https://github.com/Azure/sdk-release-request/issues/6262) | mihretkidane-OCI | azure-mgmt-oracledatabase | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 06-03 | fail to get. |  |
-| 4 | [#6257](https://github.com/Azure/sdk-release-request/issues/6257) | hjscherer | azure-mgmt-cloudhealth | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 05-30 | fail to get. |  |
+| 4 | [#6257](https://github.com/Azure/sdk-release-request/issues/6257) | hjscherer | azure-mgmt-cloudhealth | ChenxiJiang333 | FirstBeta. TypeSpec. | 05-30 | fail to get. |  |
 | 5 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 |  | 05-29 | 06-20 |  |
 | 6 | [#6249](https://github.com/Azure/sdk-release-request/issues/6249) | olivertowers | azure-mgmt-mongocluster | ChenxiJiang333 | new comment. TypeSpec. | 05-28 | fail to get. |  |
 | 7 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
