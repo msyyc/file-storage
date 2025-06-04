@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6269](https://github.com/Azure/sdk-release-request/issues/6269) | fumingzhang |  | jliusan | new issue. | 06-03 | 06-19 |  |
 | 2 | [#6266](https://github.com/Azure/sdk-release-request/issues/6266) | NneOkeke |  | jliusan | new issue. Attention to inconsistent tag. | 06-03 | fail to get. |  |
-| 3 | [#6264](https://github.com/Azure/sdk-release-request/issues/6264) | mihretkidane-OCI |  | jliusan | new issue. Attention to inconsistent tag. | 06-03 | fail to get. |  |
+| 3 | [#6264](https://github.com/Azure/sdk-release-request/issues/6264) | mihretkidane-OCI |  | jliusan | Attention to inconsistent tag. | 06-03 | fail to get. |  |
 | 4 | [#6260](https://github.com/Azure/sdk-release-request/issues/6260) | hjscherer |  | jliusan | new issue. Attention to inconsistent tag. | 05-30 | fail to get. |  |
 | 5 | [#6252](https://github.com/Azure/sdk-release-request/issues/6252) | amberwang113 |  | jliusan | new issue. | 05-29 | 06-20 |  |
 | 6 | [#6248](https://github.com/Azure/sdk-release-request/issues/6248) | olivertowers |  | jliusan | Attention to inconsistent tag. | 05-28 | fail to get. |  |
