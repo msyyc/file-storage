@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#41216](https://github.com/Azure/azure-sdk-for-python/issues/41216)|Incorrect links to `typing.Container` rather than `azure.mgmt.containerinstance.models.container`|Docs, question, Container Instances, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-05-20|
-|2|[#41108](https://github.com/Azure/azure-sdk-for-python/issues/41108)|Deprecate Azure Spring Apps mgmt. SDK for Python|App Services, Service Attention, Mgmt, needs-team-attention|msyyc|no reply > 7|2025-05-15|
+|2|[#41108](https://github.com/Azure/azure-sdk-for-python/issues/41108)|Deprecate Azure Spring Apps mgmt. SDK for Python|App Services, Service Attention, Mgmt, needs-team-attention|msyyc, Copilot|no reply > 7|2025-05-15|
 |3|[#40981](https://github.com/Azure/azure-sdk-for-python/issues/40981)|azure-mgmt-advisor source distribution does not contain license|bug, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-05-08|
 |4|[#40976](https://github.com/Azure/azure-sdk-for-python/issues/40976)|Verify Python SDK generation for common-types replacement|Mgmt|msyyc|new issue|2025-05-08|
 |5|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, issue-addressed|msyyc||2025-03-26|
