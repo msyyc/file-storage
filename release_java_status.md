@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6270](https://github.com/Azure/sdk-release-request/issues/6270) | fumingzhang |  | v-hongli1 | new issue. | 06-03 | 06-19 |  |
 | 2 | [#6265](https://github.com/Azure/sdk-release-request/issues/6265) | NneOkeke |  | v-hongli1 | new issue. Attention to inconsistent tag. | 06-03 | fail to get. |  |
-| 3 | [#6261](https://github.com/Azure/sdk-release-request/issues/6261) | mihretkidane-OCI |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 06-03 | fail to get. |  |
+| 3 | [#6261](https://github.com/Azure/sdk-release-request/issues/6261) | mihretkidane-OCI |  | weidongxu-microsoft | Attention to inconsistent tag. | 06-03 | fail to get. |  |
 | 4 | [#6258](https://github.com/Azure/sdk-release-request/issues/6258) | hjscherer |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 05-30 | fail to get. |  |
 | 5 | [#6253](https://github.com/Azure/sdk-release-request/issues/6253) | amberwang113 |  | v-hongli1 | new issue. | 05-29 | 06-20 |  |
 | 6 | [#6250](https://github.com/Azure/sdk-release-request/issues/6250) | olivertowers |  | XiaofeiCao | new issue. new comment. Attention to inconsistent tag. | 05-28 | fail to get. |  |
