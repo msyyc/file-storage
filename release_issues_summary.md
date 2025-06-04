@@ -22,16 +22,12 @@
 | 20 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  | [#5911](https://github.com/Azure/sdk-release-request/issues/5911)  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Go/Python/ |
 | 21 | [TypeSpec] Java SDK generate request for Compute Schedule  |  |  | [#6265](https://github.com/Azure/sdk-release-request/issues/6265)  |  | 06-03 | fail to get. |  |
 | 22 | [TypeSpec] Java SDK generate request for Oracle Database@Azure  |  |  | [#6261](https://github.com/Azure/sdk-release-request/issues/6261)  |  | 06-03 | fail to get. |  |
-| 23 | [TypeSpec] Java SDK generate request for Azure Monitor Health Models  |  |  | [#6258](https://github.com/Azure/sdk-release-request/issues/6258)  |  | 05-30 | fail to get. |  |
-| 24 | [TypeSpec] Java SDK generate request for vCore Cosmos DB for MongoDB  |  |  | [#6250](https://github.com/Azure/sdk-release-request/issues/6250)  |  | 05-28 | fail to get. |  |
-| 25 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
-| 26 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  | [#6189](https://github.com/Azure/sdk-release-request/issues/6189)  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
-| 27 | [TypeSpec] Java SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  |  | [#6116](https://github.com/Azure/sdk-release-request/issues/6116)  |  | 04-29 | fail to get. |  |
-| 28 | [TypeSpec] Go SDK generate request for Compute Schedule  |  | [#6266](https://github.com/Azure/sdk-release-request/issues/6266)  |  |  | 06-03 | fail to get. |  |
-| 29 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6264](https://github.com/Azure/sdk-release-request/issues/6264)  |  |  | 06-03 | fail to get. |  |
-| 30 | [TypeSpec] Go SDK generate request for Azure Monitor Health Models  |  | [#6260](https://github.com/Azure/sdk-release-request/issues/6260)  |  |  | 05-30 | fail to get. |  |
-| 31 | [TypeSpec] Go SDK generate request for vCore Cosmos DB for MongoDB  |  | [#6248](https://github.com/Azure/sdk-release-request/issues/6248)  |  |  | 05-28 | fail to get. |  |
-| 32 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
-| 33 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 34 | [TypeSpec] Go SDK generate request for VMware to Azure Stack HCI VM migration with Azure Migrate  |  | [#6114](https://github.com/Azure/sdk-release-request/issues/6114)  |  |  | 04-29 | fail to get. |  |
-| 35 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  |  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Go/ |
+| 23 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
+| 24 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  | [#6189](https://github.com/Azure/sdk-release-request/issues/6189)  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
+| 25 | [TypeSpec] Go SDK generate request for Compute Schedule  |  | [#6266](https://github.com/Azure/sdk-release-request/issues/6266)  |  |  | 06-03 | fail to get. |  |
+| 26 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6264](https://github.com/Azure/sdk-release-request/issues/6264)  |  |  | 06-03 | fail to get. |  |
+| 27 | [TypeSpec] Go SDK generate request for Azure Monitor Health Models  |  | [#6260](https://github.com/Azure/sdk-release-request/issues/6260)  |  |  | 05-30 | fail to get. |  |
+| 28 | [TypeSpec] Go SDK generate request for vCore Cosmos DB for MongoDB  |  | [#6248](https://github.com/Azure/sdk-release-request/issues/6248)  |  |  | 05-28 | fail to get. |  |
+| 29 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
+| 30 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
+| 31 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  |  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Go/ |
