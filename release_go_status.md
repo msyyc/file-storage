@@ -16,5 +16,5 @@
 | 14 | [#6188](https://github.com/Azure/sdk-release-request/issues/6188) | fumingzhang |  | jliusan | multi readme link! | 05-12 | 06-19 |  |
 | 15 | [#6126](https://github.com/Azure/sdk-release-request/issues/6126) | RenzoPrettoMS |  | jliusan | HoldOn. | 04-30 | 05-23 |  |
 | 16 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan | new comment. HoldOn. | 04-27 | 05-23 |  |
-| 17 | [#6090](https://github.com/Azure/sdk-release-request/issues/6090) | joshbauanch |  | jliusan | HoldOn. | 04-22 | 05-23 |  |
+| 17 | [#6090](https://github.com/Azure/sdk-release-request/issues/6090) | joshbauanch |  | jliusan | new comment. HoldOn. | 04-22 | 05-23 |  |
 | 18 | [#5911](https://github.com/Azure/sdk-release-request/issues/5911) | SiddarthaCherukumudi |  | jliusan | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
