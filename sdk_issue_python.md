@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#41216](https://github.com/Azure/azure-sdk-for-python/issues/41216)|Incorrect links to `typing.Container` rather than `azure.mgmt.containerinstance.models.container`|Docs, question, Container Instances, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-05-20|
-|2|[#41108](https://github.com/Azure/azure-sdk-for-python/issues/41108)|Deprecate Azure Spring Apps mgmt. SDK for Python|App Services, Service Attention, Mgmt, needs-team-attention|Copilot, msyyc|no reply > 7|2025-05-15|
+|2|[#41108](https://github.com/Azure/azure-sdk-for-python/issues/41108)|Deprecate Azure Spring Apps mgmt. SDK for Python|App Services, Service Attention, Mgmt, needs-team-attention|msyyc, Copilot|no reply > 7|2025-05-15|
 |3|[#40981](https://github.com/Azure/azure-sdk-for-python/issues/40981)|azure-mgmt-advisor source distribution does not contain license|bug, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-05-08|
 |4|[#40976](https://github.com/Azure/azure-sdk-for-python/issues/40976)|Verify Python SDK generation for common-types replacement|Mgmt|msyyc|new issue|2025-05-08|
 |5|[#40228](https://github.com/Azure/azure-sdk-for-python/issues/40228)|DecodeError retrieving data from monitor api|question, Monitor, Service Attention, Mgmt, customer-reported, issue-addressed|msyyc||2025-03-26|
@@ -15,4 +15,4 @@
 |13|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |14|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |15|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
+|16|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, lmazuel, iscai-msft|new comment|2021-04-05|
