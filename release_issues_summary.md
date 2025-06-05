@@ -21,6 +21,6 @@
 | 19 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  | [#6189](https://github.com/Azure/sdk-release-request/issues/6189)  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
 | 20 | [TypeSpec] Go SDK generate request for Compute Schedule  |  | [#6266](https://github.com/Azure/sdk-release-request/issues/6266)  |  |  | 06-03 | fail to get. |  |
 | 21 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6264](https://github.com/Azure/sdk-release-request/issues/6264)  |  |  | 06-03 | fail to get. |  |
-| 22 | Release for Container Service - 2025-03-02-preview  |  | [#6226](https://github.com/Azure/sdk-release-request/issues/6226)  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
-| 23 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 24 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  |  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Go/ |
+| 22 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
+| 23 | Release for ContainerRegistry - 2025-04-01  |  | [#6090](https://github.com/Azure/sdk-release-request/issues/6090)  |  | [#6092](https://github.com/Azure/sdk-release-request/issues/6092)  | 04-22 | 05-23 | Hold on by JS/Go/ |
+| 24 | Release for Container Service - 2025-03-02-preview  |  |  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
