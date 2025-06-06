@@ -11,6 +11,5 @@
 | 9 | [#6199](https://github.com/Azure/sdk-release-request/issues/6199) | annapankiewicz |  | MaryGao | new issue. | 05-12 | 06-20 |  |
 | 10 | [#6194](https://github.com/Azure/sdk-release-request/issues/6194) | yaotongms |  | MaryGao | new comment. Attention to inconsistent tag. | 05-12 | 06-20 |  |
 | 11 | [#6190](https://github.com/Azure/sdk-release-request/issues/6190) | fumingzhang |  | MaryGao | multi readme link! | 05-12 | 06-19 |  |
-| 12 | [#6128](https://github.com/Azure/sdk-release-request/issues/6128) | RenzoPrettoMS |  | MaryGao | HoldOn. TypeSpec. | 04-30 | 05-23 |  |
-| 13 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | HoldOn. | 04-27 | 05-23 |  |
-| 14 | [#6092](https://github.com/Azure/sdk-release-request/issues/6092) | joshbauanch |  | qiaozha | new issue. new comment. HoldOn. | 04-22 | 05-23 |  |
+| 12 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | HoldOn. | 04-27 | 05-23 |  |
+| 13 | [#6092](https://github.com/Azure/sdk-release-request/issues/6092) | joshbauanch |  | qiaozha | new issue. new comment. HoldOn. | 04-22 | 05-23 |  |
