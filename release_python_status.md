@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6276](https://github.com/Azure/sdk-release-request/issues/6276) | msyyc | azure-mgmt-resources-deploymentstacks | ChenxiJiang333 | new issue. | 06-06 | 06-20 |  |
-| 2 | [#6275](https://github.com/Azure/sdk-release-request/issues/6275) | msyyc | azure-mgmt-resources-templatespecs | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 06-06 | 06-20 |  |
-| 3 | [#6274](https://github.com/Azure/sdk-release-request/issues/6274) | msyyc | azure-mgmt-resources-deploymentscripts | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 06-06 | 06-20 |  |
+| 2 | [#6275](https://github.com/Azure/sdk-release-request/issues/6275) | msyyc | azure-mgmt-resources-templatespecs | ChenxiJiang333 | new issue. | 06-06 | 06-20 |  |
+| 3 | [#6274](https://github.com/Azure/sdk-release-request/issues/6274) | msyyc | azure-mgmt-resources-deploymentscripts | ChenxiJiang333 | new issue. | 06-06 | 06-20 |  |
 | 4 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 | new comment. | 06-05 | 06-19 |  |
 | 5 | [#6272](https://github.com/Azure/sdk-release-request/issues/6272) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 06-03 | 06-19 |  |
 | 6 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 |  | 05-29 | 06-20 |  |
