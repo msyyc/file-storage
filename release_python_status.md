@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 |  | 06-05 | 06-19 |  |
+| 1 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 | new comment. | 06-05 | 06-19 |  |
 | 2 | [#6272](https://github.com/Azure/sdk-release-request/issues/6272) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 06-03 | 06-19 |  |
 | 3 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 |  | 05-29 | 06-20 |  |
 | 4 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
