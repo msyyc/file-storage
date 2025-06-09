@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#34406](https://github.com/Azure/azure-sdk-for-js/issues/34406)|On Demand Backups for MySQL Flexible Server|question, customer-reported, Mgmt, needs-author-feedback|kazrael2119, qiaozha|new comment|2025-05-16|
-|2|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|MaryGao|new issue|2025-05-08|
+|2|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|MaryGao, kazrael2119, v-jiaodi|new issue|2025-05-08|
 |3|[#34085](https://github.com/Azure/azure-sdk-for-js/issues/34085)|`ipv6Rules` missing from `NetworkRule` type|question, customer-reported, Mgmt, Storage, Service Attention, needs-team-attention|qiaozha||2025-04-28|
 |4|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|qiaozha|new comment|2025-04-17|
 |5|[#33035](https://github.com/Azure/azure-sdk-for-js/issues/33035)|SubscriptionClient.subscriptions.get SubscriptionNotFound Error is in the wrong format|bug, customer-reported, Mgmt, Subscription, needs-team-attention|kazrael2119, qiaozha|new comment|2025-02-13|
