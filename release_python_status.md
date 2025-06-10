@@ -1,7 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6280](https://github.com/Azure/sdk-release-request/issues/6280) | qingquanzhao | azure-mgmt-dashboard | ChenxiJiang333 |  | 06-09 | 07-25 |  |
-| 2 | [#6276](https://github.com/Azure/sdk-release-request/issues/6276) | msyyc | azure-mgmt-resource-deploymentstacks | ChenxiJiang333 |  | 06-06 | 06-20 |  |
 | 3 | [#6275](https://github.com/Azure/sdk-release-request/issues/6275) | msyyc | azure-mgmt-resource-templatespecs | ChenxiJiang333 | close to release date. | 06-06 | 06-09 | -1 |
 | 4 | [#6274](https://github.com/Azure/sdk-release-request/issues/6274) | msyyc | azure-mgmt-resource-deploymentscripts | ChenxiJiang333 | close to release date. | 06-06 | 06-09 | -1 |
 | 5 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 | new comment. | 06-05 | 06-19 |  |
