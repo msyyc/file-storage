@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-06-03,2025-06-11,https://github.com/Azure/sdk-release-request/issues/6272,37.0.0,True
 azure-mgmt-resource-deploymentscripts,msyyc,ChenxiJiang333,2025-06-06,2025-06-10,https://github.com/Azure/sdk-release-request/issues/6274,1.0.0b1,
 azure-mgmt-resource-templatespecs,msyyc,ChenxiJiang333,2025-06-06,2025-06-10,https://github.com/Azure/sdk-release-request/issues/6275,1.0.0b1,
 azure-mgmt-resource-deploymentstacks,msyyc,ChenxiJiang333,2025-06-06,2025-06-10,https://github.com/Azure/sdk-release-request/issues/6276,1.0.0b1,

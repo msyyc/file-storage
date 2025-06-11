@@ -3,7 +3,6 @@
 | 1 | [#6288](https://github.com/Azure/sdk-release-request/issues/6288) | omerdolev-ms | azure-mgmt-healthbot | ChenxiJiang333 |  | 06-10 | 07-24 |  |
 | 2 | [#6280](https://github.com/Azure/sdk-release-request/issues/6280) | qingquanzhao | azure-mgmt-dashboard | ChenxiJiang333 |  | 06-09 | 07-25 |  |
 | 3 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 |  | 06-05 | 06-19 |  |
-| 4 | [#6272](https://github.com/Azure/sdk-release-request/issues/6272) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 06-03 | 06-19 |  |
 | 5 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 |  | 05-29 | 06-20 |  |
 | 6 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
 | 7 | [#6241](https://github.com/Azure/sdk-release-request/issues/6241) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> | 05-26 | 06-19 |  |
