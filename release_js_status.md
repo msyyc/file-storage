@@ -6,9 +6,9 @@
 | 4 | [#6271](https://github.com/Azure/sdk-release-request/issues/6271) | fumingzhang |  | qiaozha | new issue. | 06-03 | 06-19 |  |
 | 5 | [#6254](https://github.com/Azure/sdk-release-request/issues/6254) | amberwang113 |  | MaryGao | new issue. | 05-29 | 06-20 |  |
 | 6 | [#6245](https://github.com/Azure/sdk-release-request/issues/6245) | jamesvoongms |  | MaryGao | new issue. | 05-27 | 06-20 |  |
-| 7 | [#6240](https://github.com/Azure/sdk-release-request/issues/6240) | ChristineWanjau |  | MaryGao | new comment. Attention to inconsistent tag. | 05-26 | 06-19 |  |
+| 7 | [#6240](https://github.com/Azure/sdk-release-request/issues/6240) | ChristineWanjau |  | MaryGao | Attention to inconsistent tag. | 05-26 | 06-19 |  |
 | 8 | [#6235](https://github.com/Azure/sdk-release-request/issues/6235) | zubairabid |  | MaryGao |  | 05-26 | 06-19 |  |
-| 9 | [#6230](https://github.com/Azure/sdk-release-request/issues/6230) | dipti-pai |  | qiaozha | Attention to inconsistent tag. | 05-23 | 06-20 |  |
+| 9 | [#6230](https://github.com/Azure/sdk-release-request/issues/6230) | dipti-pai |  | qiaozha | Attention to inconsistent tag. FirstBeta. | 05-23 | 06-20 |  |
 | 10 | [#6227](https://github.com/Azure/sdk-release-request/issues/6227) | fumingzhang |  | qiaozha | Attention to inconsistent tag. | 05-23 | 06-19 |  |
 | 11 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | MaryGao | Attention to inconsistent tag. | 05-14 | 06-20 |  |
 | 12 | [#6199](https://github.com/Azure/sdk-release-request/issues/6199) | annapankiewicz |  | MaryGao |  | 05-12 | 06-20 |  |
