@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | new issue. | 06-13 | 07-25 |  |
+| 1 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 06-13 | 07-25 |  |
 | 2 | [#6288](https://github.com/Azure/sdk-release-request/issues/6288) | omerdolev-ms | azure-mgmt-healthbot | ChenxiJiang333 |  | 06-10 | 07-24 |  |
 | 3 | [#6280](https://github.com/Azure/sdk-release-request/issues/6280) | qingquanzhao | azure-mgmt-dashboard | ChenxiJiang333 |  | 06-09 | 07-25 |  |
 | 4 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 |  | 06-05 | 06-19 |  |
