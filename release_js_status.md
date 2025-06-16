@@ -11,8 +11,8 @@
 | 9 | [#6235](https://github.com/Azure/sdk-release-request/issues/6235) | zubairabid |  | MaryGao | new comment. close to release date. | 05-26 | 06-19 | 2 |
 | 10 | [#6230](https://github.com/Azure/sdk-release-request/issues/6230) | dipti-pai |  | qiaozha | Attention to inconsistent tag. FirstBeta. | 05-23 | 06-20 |  |
 | 11 | [#6227](https://github.com/Azure/sdk-release-request/issues/6227) | fumingzhang |  | qiaozha | close to release date. Attention to inconsistent tag. | 05-23 | 06-19 | 2 |
-| 12 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | MaryGao | Attention to inconsistent tag. | 05-14 | 06-20 |  |
+| 12 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | qiaozha | Attention to inconsistent tag. | 05-14 | 06-20 |  |
 | 13 | [#6199](https://github.com/Azure/sdk-release-request/issues/6199) | annapankiewicz |  | MaryGao |  | 05-12 | 06-20 |  |
 | 14 | [#6194](https://github.com/Azure/sdk-release-request/issues/6194) | yaotongms |  | MaryGao | Attention to inconsistent tag. | 05-12 | 06-20 |  |
-| 15 | [#6190](https://github.com/Azure/sdk-release-request/issues/6190) | fumingzhang |  | MaryGao | new comment. multi readme link! close to release date. | 05-12 | 06-19 | 2 |
+| 15 | [#6190](https://github.com/Azure/sdk-release-request/issues/6190) | fumingzhang |  | qiaozha | new comment. multi readme link! close to release date. | 05-12 | 06-19 | 2 |
 | 16 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | new comment. HoldOn. | 04-27 | 06-20 |  |
