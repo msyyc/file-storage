@@ -12,7 +12,6 @@
 | 10 | [#6223](https://github.com/Azure/sdk-release-request/issues/6223) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | HoldOn. TypeSpec. | 05-21 | fail to get. |  |
 | 11 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> close to release date. HoldOn. | 05-21 | 06-19 | 2 |
 | 12 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 |  | 05-14 | 06-20 |  |
-| 13 | [#6200](https://github.com/Azure/sdk-release-request/issues/6200) | annapankiewicz | azure-mgmt-networkcloud | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 14 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 |  | 05-12 | 06-20 |  |
 | 15 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new comment. HoldOn. | 04-27 | 06-20 |  |
 | 16 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
