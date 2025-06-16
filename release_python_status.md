@@ -3,7 +3,7 @@
 | 1 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 06-13 | 07-25 |  |
 | 2 | [#6288](https://github.com/Azure/sdk-release-request/issues/6288) | omerdolev-ms | azure-mgmt-healthbot | ChenxiJiang333 |  | 06-10 | 07-24 |  |
 | 3 | [#6280](https://github.com/Azure/sdk-release-request/issues/6280) | qingquanzhao | azure-mgmt-dashboard | ChenxiJiang333 |  | 06-09 | 07-25 |  |
-| 4 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 | close to release date. | 06-05 | 06-19 | 2 |
+| 4 | [#6273](https://github.com/Azure/sdk-release-request/issues/6273) | gansach | azure-mgmt-datamigration | ChenxiJiang333 | close to release date. OnTime. | 06-05 | 06-19 | 2 |
 | 5 | [#6255](https://github.com/Azure/sdk-release-request/issues/6255) | amberwang113 | azure-mgmt-web | ChenxiJiang333 |  | 05-29 | 06-20 |  |
 | 6 | [#6246](https://github.com/Azure/sdk-release-request/issues/6246) | jamesvoongms | azure-mgmt-dnsresolver | ChenxiJiang333 |  | 05-27 | 06-20 |  |
 | 7 | [#6241](https://github.com/Azure/sdk-release-request/issues/6241) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> close to release date. | 05-26 | 06-19 | 2 |
