@@ -12,8 +12,7 @@
 | 10 | [#6228](https://github.com/Azure/sdk-release-request/issues/6228) | dipti-pai |  | jliusan | new comment. close to release date. Attention to inconsistent tag. | 05-23 | 06-20 | 2 |
 | 11 | [#6224](https://github.com/Azure/sdk-release-request/issues/6224) | iliu816 |  | jliusan | new comment. Attention to inconsistent tag. HoldOn. | 05-21 | fail to get. |  |
 | 12 | [#6206](https://github.com/Azure/sdk-release-request/issues/6206) | anthony-c-martin |  | jliusan | close to release date. Attention to inconsistent tag. | 05-14 | 06-20 | 2 |
-| 13 | [#6197](https://github.com/Azure/sdk-release-request/issues/6197) | annapankiewicz |  | jliusan | new issue. close to release date. | 05-12 | 06-20 | 2 |
-| 14 | [#6192](https://github.com/Azure/sdk-release-request/issues/6192) | yaotongms |  | jliusan | new comment. close to release date. Attention to inconsistent tag. | 05-12 | 06-20 | 2 |
-| 15 | [#6188](https://github.com/Azure/sdk-release-request/issues/6188) | fumingzhang |  | jliusan | multi readme link! close to release date. | 05-12 | 06-19 | 1 |
-| 16 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 2 |
-| 17 | [#5911](https://github.com/Azure/sdk-release-request/issues/5911) | SiddarthaCherukumudi |  | jliusan | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 13 | [#6192](https://github.com/Azure/sdk-release-request/issues/6192) | yaotongms |  | jliusan | new comment. close to release date. Attention to inconsistent tag. | 05-12 | 06-20 | 2 |
+| 14 | [#6188](https://github.com/Azure/sdk-release-request/issues/6188) | fumingzhang |  | jliusan | multi readme link! close to release date. | 05-12 | 06-19 | 1 |
+| 15 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 2 |
+| 16 | [#5911](https://github.com/Azure/sdk-release-request/issues/5911) | SiddarthaCherukumudi |  | jliusan | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
