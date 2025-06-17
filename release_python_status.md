@@ -11,5 +11,5 @@
 | 9 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | duplicated issue  <br> close to release date. HoldOn. | 05-21 | 06-19 | 1 |
 | 10 | [#6209](https://github.com/Azure/sdk-release-request/issues/6209) | anthony-c-martin | azure-mgmt-resource | ChenxiJiang333 | close to release date. | 05-14 | 06-20 | 2 |
 | 11 | [#6195](https://github.com/Azure/sdk-release-request/issues/6195) | yaotongms | azure-mgmt-hybridcompute | ChenxiJiang333 | close to release date. | 05-12 | 06-20 | 2 |
-| 13 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 2 |
-| 14 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 12 | [#6107](https://github.com/Azure/sdk-release-request/issues/6107) | mattgotteiner | azure-mgmt-search | ChenxiJiang333 | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 2 |
+| 13 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
