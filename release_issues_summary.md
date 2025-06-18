@@ -19,9 +19,9 @@
 | 17 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
 | 18 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6296](https://github.com/Azure/sdk-release-request/issues/6296)  |  |  | 06-17 | fail to get. |  |
 | 19 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 20 | Release for Azure DNS Resolver - 2025-05-01  |  | [#6243](https://github.com/Azure/sdk-release-request/issues/6243)  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
-| 21 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 22 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  |  | [#6190](https://github.com/Azure/sdk-release-request/issues/6190)  | 05-12 | 06-19 |  |
+| 20 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
+| 21 | Release for Container Service - 2025-03-01  |  | [#6188](https://github.com/Azure/sdk-release-request/issues/6188)  |  |  | 05-12 | 06-19 |  |
+| 22 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
 | 23 | Release for app configuration management sdks  |  |  |  | [#6240](https://github.com/Azure/sdk-release-request/issues/6240)  | 05-26 | 06-19 |  |
 | 24 | Release for Container Service - 2025-03-02-preview  |  |  |  | [#6227](https://github.com/Azure/sdk-release-request/issues/6227)  | 05-23 | 06-19 |  |
 | 25 | Release for Network Cloud - 2025-02-01 GA  |  |  |  | [#6199](https://github.com/Azure/sdk-release-request/issues/6199)  | 05-12 | 06-20 |  |
