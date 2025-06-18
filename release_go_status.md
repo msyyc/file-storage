@@ -12,4 +12,3 @@
 | 10 | [#6224](https://github.com/Azure/sdk-release-request/issues/6224) | iliu816 |  | jliusan | new comment. Attention to inconsistent tag. HoldOn. | 05-21 | fail to get. |  |
 | 11 | [#6206](https://github.com/Azure/sdk-release-request/issues/6206) | anthony-c-martin |  | jliusan | close to release date. Attention to inconsistent tag. | 05-14 | 06-20 | 1 |
 | 12 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 1 |
-| 13 | [#5911](https://github.com/Azure/sdk-release-request/issues/5911) | SiddarthaCherukumudi |  | jliusan | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
