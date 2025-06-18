@@ -14,7 +14,7 @@
 | 12 | [TypeSpec] Java SDK generate request for Azure Load Testing  |  |  | [#6298](https://github.com/Azure/sdk-release-request/issues/6298)  |  | 06-17 | fail to get. |  |
 | 13 | Release for Container Service - 2025-04-01  |  | [#6269](https://github.com/Azure/sdk-release-request/issues/6269)  | [#6270](https://github.com/Azure/sdk-release-request/issues/6270)  | [#6271](https://github.com/Azure/sdk-release-request/issues/6271)  | 06-03 | 06-19 |  |
 | 14 | Release for App Service - 2024-11-01  |  |  | [#6253](https://github.com/Azure/sdk-release-request/issues/6253)  | [#6254](https://github.com/Azure/sdk-release-request/issues/6254)  | 05-29 | 06-20 |  |
-| 15 | Release for RecoveryServices - 2025-02-01  |  | [#6233](https://github.com/Azure/sdk-release-request/issues/6233)  | [#6234](https://github.com/Azure/sdk-release-request/issues/6234)  | [#6235](https://github.com/Azure/sdk-release-request/issues/6235)  | 05-26 | 06-19 |  |
+| 15 | Release for RecoveryServices - 2025-02-01  |  |  | [#6234](https://github.com/Azure/sdk-release-request/issues/6234)  | [#6235](https://github.com/Azure/sdk-release-request/issues/6235)  | 05-26 | 06-19 |  |
 | 16 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
 | 17 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6296](https://github.com/Azure/sdk-release-request/issues/6296)  |  |  | 06-17 | fail to get. |  |
 | 18 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
