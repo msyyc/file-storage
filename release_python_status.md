@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 06-19 | 06-30 |  |
-| 2 | [#6315](https://github.com/Azure/sdk-release-request/issues/6315) | blueww | azure-mgmt-storageactions | ChenxiJiang333 |  | 06-19 | 06-30 |  |
+| 2 | [#6315](https://github.com/Azure/sdk-release-request/issues/6315) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | HoldOn. | 06-19 | 06-30 |  |
 | 3 | [#6310](https://github.com/Azure/sdk-release-request/issues/6310) | ajaykumarmehra | azure-mgmt-mongodbatlas | ChenxiJiang333 | FirstGA. TypeSpec. | 06-18 | fail to get. |  |
 | 4 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
 | 5 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | Attention to inconsistent tag. | 06-17 | 07-25 |  |
