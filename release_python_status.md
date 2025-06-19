@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6310](https://github.com/Azure/sdk-release-request/issues/6310) | ajaykumarmehra | azure-mgmt-mongodbatlas | ChenxiJiang333 | TypeSpec. | 06-18 | fail to get. |  |
+| 1 | [#6310](https://github.com/Azure/sdk-release-request/issues/6310) | ajaykumarmehra | azure-mgmt-mongodbatlas | ChenxiJiang333 | FirstGA. TypeSpec. | 06-18 | fail to get. |  |
 | 2 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
 | 3 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | Attention to inconsistent tag. | 06-17 | 07-25 |  |
 | 4 | [#6301](https://github.com/Azure/sdk-release-request/issues/6301) | ShreyaAnand |  | ChenxiJiang333 |  | 06-17 |  | 0 |
