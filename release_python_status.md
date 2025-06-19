@@ -3,8 +3,8 @@
 | 1 | [#6310](https://github.com/Azure/sdk-release-request/issues/6310) | ajaykumarmehra | azure-mgmt-mongodbatlas | ChenxiJiang333 | new issue. TypeSpec. | 06-18 | fail to get. |  |
 | 2 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
 | 3 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | Attention to inconsistent tag. | 06-17 | 07-25 |  |
-| 4 | [#6301](https://github.com/Azure/sdk-release-request/issues/6301) | ShreyaAnand |  | ChenxiJiang333 | duplicated issue  <br> | 06-17 |  | 0 |
-| 5 | [#6300](https://github.com/Azure/sdk-release-request/issues/6300) | ShreyaAnand |  | ChenxiJiang333 | duplicated issue  <br> | 06-17 |  | 0 |
+| 4 | [#6301](https://github.com/Azure/sdk-release-request/issues/6301) | ShreyaAnand |  | ChenxiJiang333 |  | 06-17 |  | 0 |
+| 5 | [#6300](https://github.com/Azure/sdk-release-request/issues/6300) | ShreyaAnand | azure-mgmt-playwright | ChenxiJiang333 | new comment. FirstBeta. TypeSpec. | 06-17 | fail to get. |  |
 | 6 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 06-13 | 07-25 |  |
 | 7 | [#6288](https://github.com/Azure/sdk-release-request/issues/6288) | omerdolev-ms | azure-mgmt-healthbot | ChenxiJiang333 |  | 06-10 | 07-24 |  |
 | 8 | [#6280](https://github.com/Azure/sdk-release-request/issues/6280) | qingquanzhao | azure-mgmt-dashboard | ChenxiJiang333 |  | 06-09 | 07-25 |  |
