@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for MongoDB Atlas  | [#6310](https://github.com/Azure/sdk-release-request/issues/6310)  |  |  |  | 06-18 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for MongoDB Atlas  | [#6310](https://github.com/Azure/sdk-release-request/issues/6310)  |  |  |  | 06-18 | fail to get. |  |
 | 2 | Release Monitor 2023-03-11 (only for python)  | [#6307](https://github.com/Azure/sdk-release-request/issues/6307)  |  |  |  | 06-18 | 07-25 |  |
 | 3 | Private IP Address prefix  | [#6305](https://github.com/Azure/sdk-release-request/issues/6305)  | [#6302](https://github.com/Azure/sdk-release-request/issues/6302)  | [#6303](https://github.com/Azure/sdk-release-request/issues/6303)  | [#6304](https://github.com/Azure/sdk-release-request/issues/6304)  | 06-17 | 07-25 |  |
 | 4 | [TypeSpec] Python SDK generate request for Azure Load Testing  | [#6300](https://github.com/Azure/sdk-release-request/issues/6300)  |  |  |  | 06-17 |  |  |
