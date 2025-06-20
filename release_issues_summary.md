@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release for Resources deployments  | [#6327](https://github.com/Azure/sdk-release-request/issues/6327)  |  |  |  | 06-20 | 06-09 |  |
+| 1 | Release for Resources deployments  | [#6327](https://github.com/Azure/sdk-release-request/issues/6327)  |  |  |  | 06-20 | 06-20 |  |
 | 2 | Release for Azure Carbon Optimization - 2025-04-01  | [#6325](https://github.com/Azure/sdk-release-request/issues/6325)  | [#6322](https://github.com/Azure/sdk-release-request/issues/6322)  | [#6323](https://github.com/Azure/sdk-release-request/issues/6323)  | [#6324](https://github.com/Azure/sdk-release-request/issues/6324)  | 06-19 | 07-25 |  |
 | 3 | Release for Storage - 2024-01-01  | [#6320](https://github.com/Azure/sdk-release-request/issues/6320)  | [#6317](https://github.com/Azure/sdk-release-request/issues/6317)  | [#6318](https://github.com/Azure/sdk-release-request/issues/6318)  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
 | 4 | Release for StorageActions - 2023-01-01  | [#6315](https://github.com/Azure/sdk-release-request/issues/6315)  | [#6312](https://github.com/Azure/sdk-release-request/issues/6312)  | [#6313](https://github.com/Azure/sdk-release-request/issues/6313)  | [#6314](https://github.com/Azure/sdk-release-request/issues/6314)  | 06-19 | 06-30 | Hold on by Python/ |
