@@ -23,6 +23,5 @@
 | 21 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
 | 22 | Release for app configuration management sdks  |  |  |  | [#6240](https://github.com/Azure/sdk-release-request/issues/6240)  | 05-26 | 06-19 |  |
 | 23 | Release for RecoveryServices - 2025-02-01  |  |  |  | [#6235](https://github.com/Azure/sdk-release-request/issues/6235)  | 05-26 | 06-19 |  |
-| 24 | Release for Kubernetes Configuration PLS version 2024-11-01-preview  |  |  |  | [#6230](https://github.com/Azure/sdk-release-request/issues/6230)  | 05-23 | 06-20 |  |
-| 25 | Release for Network Cloud - 2025-02-01 GA  |  |  |  | [#6199](https://github.com/Azure/sdk-release-request/issues/6199)  | 05-12 | 06-20 |  |
-| 26 | Release for Hybrid Compute 2025-02-19-preview  |  |  |  | [#6194](https://github.com/Azure/sdk-release-request/issues/6194)  | 05-12 | 06-20 |  |
+| 24 | Release for Network Cloud - 2025-02-01 GA  |  |  |  | [#6199](https://github.com/Azure/sdk-release-request/issues/6199)  | 05-12 | 06-20 |  |
+| 25 | Release for Hybrid Compute 2025-02-19-preview  |  |  |  | [#6194](https://github.com/Azure/sdk-release-request/issues/6194)  | 05-12 | 06-20 |  |

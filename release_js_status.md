@@ -12,8 +12,7 @@
 | 10 | [#6245](https://github.com/Azure/sdk-release-request/issues/6245) | jamesvoongms |  | MaryGao | new comment. close to release date. | 05-27 | 06-20 | 0 |
 | 11 | [#6240](https://github.com/Azure/sdk-release-request/issues/6240) | ChristineWanjau |  | MaryGao | close to release date. Attention to inconsistent tag. | 05-26 | 06-19 | -1 |
 | 12 | [#6235](https://github.com/Azure/sdk-release-request/issues/6235) | zubairabid |  | MaryGao | new comment. close to release date. | 05-26 | 06-19 | -1 |
-| 13 | [#6230](https://github.com/Azure/sdk-release-request/issues/6230) | dipti-pai |  | qiaozha | close to release date. Attention to inconsistent tag. FirstBeta. | 05-23 | 06-20 | 0 |
-| 14 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | qiaozha | close to release date. Attention to inconsistent tag. | 05-14 | 06-20 | 0 |
-| 15 | [#6199](https://github.com/Azure/sdk-release-request/issues/6199) | annapankiewicz |  | MaryGao | close to release date. | 05-12 | 06-20 | 0 |
-| 16 | [#6194](https://github.com/Azure/sdk-release-request/issues/6194) | yaotongms |  | MaryGao | close to release date. Attention to inconsistent tag. | 05-12 | 06-20 | 0 |
-| 17 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 0 |
+| 13 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | qiaozha | close to release date. Attention to inconsistent tag. | 05-14 | 06-20 | 0 |
+| 14 | [#6199](https://github.com/Azure/sdk-release-request/issues/6199) | annapankiewicz |  | MaryGao | close to release date. | 05-12 | 06-20 | 0 |
+| 15 | [#6194](https://github.com/Azure/sdk-release-request/issues/6194) | yaotongms |  | MaryGao | close to release date. Attention to inconsistent tag. | 05-12 | 06-20 | 0 |
+| 16 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | new comment. close to release date. HoldOn. | 04-27 | 06-20 | 0 |
