@@ -3,7 +3,7 @@
 | 1 | [#6322](https://github.com/Azure/sdk-release-request/issues/6322) | liangchenmicrosoft |  | jliusan | new issue. | 06-19 | 07-25 |  |
 | 2 | [#6317](https://github.com/Azure/sdk-release-request/issues/6317) | blueww |  | jliusan | new issue. | 06-19 | 06-30 |  |
 | 3 | [#6312](https://github.com/Azure/sdk-release-request/issues/6312) | blueww |  | jliusan | new issue. | 06-19 | 06-30 |  |
-| 4 | [#6308](https://github.com/Azure/sdk-release-request/issues/6308) | ajaykumarmehra |  | jliusan | new issue. Attention to inconsistent tag. | 06-18 | fail to get. |  |
+| 4 | [#6308](https://github.com/Azure/sdk-release-request/issues/6308) | ajaykumarmehra |  | jliusan | Attention to inconsistent tag. | 06-18 | fail to get. |  |
 | 5 | [#6302](https://github.com/Azure/sdk-release-request/issues/6302) | ramandhillon84 |  | jliusan | Attention to inconsistent tag. | 06-17 | 07-25 |  |
 | 6 | [#6296](https://github.com/Azure/sdk-release-request/issues/6296) | ShreyaAnand |  | jliusan | multi readme link! | 06-17 | fail to get. |  |
 | 7 | [#6290](https://github.com/Azure/sdk-release-request/issues/6290) | CarlOchs |  | jliusan | new issue. | 06-13 | 07-25 |  |
