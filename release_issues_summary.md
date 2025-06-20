@@ -14,15 +14,15 @@
 | 12 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
 | 13 | Release for Container Service - 2025-04-01  |  |  | [#6270](https://github.com/Azure/sdk-release-request/issues/6270)  | [#6271](https://github.com/Azure/sdk-release-request/issues/6271)  | 06-03 | 06-19 |  |
 | 14 | Release for App Service - 2024-11-01  |  |  | [#6253](https://github.com/Azure/sdk-release-request/issues/6253)  | [#6254](https://github.com/Azure/sdk-release-request/issues/6254)  | 05-29 | 06-20 |  |
-| 15 | Release for RecoveryServices - 2025-02-01  |  |  | [#6234](https://github.com/Azure/sdk-release-request/issues/6234)  | [#6235](https://github.com/Azure/sdk-release-request/issues/6235)  | 05-26 | 06-19 |  |
-| 16 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
-| 17 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
-| 18 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
-| 19 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6296](https://github.com/Azure/sdk-release-request/issues/6296)  |  |  | 06-17 | fail to get. |  |
-| 20 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 21 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 22 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
-| 23 | Release for app configuration management sdks  |  |  |  | [#6240](https://github.com/Azure/sdk-release-request/issues/6240)  | 05-26 | 06-19 |  |
+| 15 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
+| 16 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
+| 17 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
+| 18 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6296](https://github.com/Azure/sdk-release-request/issues/6296)  |  |  | 06-17 | fail to get. |  |
+| 19 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 20 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
+| 21 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
+| 22 | Release for app configuration management sdks  |  |  |  | [#6240](https://github.com/Azure/sdk-release-request/issues/6240)  | 05-26 | 06-19 |  |
+| 23 | Release for RecoveryServices - 2025-02-01  |  |  |  | [#6235](https://github.com/Azure/sdk-release-request/issues/6235)  | 05-26 | 06-19 |  |
 | 24 | Release for Kubernetes Configuration PLS version 2024-11-01-preview  |  |  |  | [#6230](https://github.com/Azure/sdk-release-request/issues/6230)  | 05-23 | 06-20 |  |
 | 25 | Release for Network Cloud - 2025-02-01 GA  |  |  |  | [#6199](https://github.com/Azure/sdk-release-request/issues/6199)  | 05-12 | 06-20 |  |
 | 26 | Release for Hybrid Compute 2025-02-19-preview  |  |  |  | [#6194](https://github.com/Azure/sdk-release-request/issues/6194)  | 05-12 | 06-20 |  |
