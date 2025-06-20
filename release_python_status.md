@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6327](https://github.com/Azure/sdk-release-request/issues/6327) | msyyc | azure-mgmt-resource-deployments | msyyc | new issue. | 06-20 | 06-09 |  |
+| 1 | [#6327](https://github.com/Azure/sdk-release-request/issues/6327) | msyyc | azure-mgmt-resource-deployments | msyyc |  | 06-20 | 06-09 |  |
 | 2 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft |  | ChenxiJiang333 |  | 06-19 |  | 0 |
 | 3 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 06-19 | 06-30 |  |
 | 4 | [#6315](https://github.com/Azure/sdk-release-request/issues/6315) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | HoldOn. | 06-19 | 06-30 |  |
