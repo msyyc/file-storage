@@ -18,12 +18,11 @@
 | 16 | [TypeSpec] Java SDK generate request for Azure Resource Manager  |  |  | [#6330](https://github.com/Azure/sdk-release-request/issues/6330)  |  | 06-20 | fail to get. |  |
 | 17 | Release for Container Service - 2025-04-01  |  |  | [#6270](https://github.com/Azure/sdk-release-request/issues/6270)  |  | 06-03 | 06-19 |  |
 | 18 | Release for App Service - 2024-11-01  |  |  | [#6253](https://github.com/Azure/sdk-release-request/issues/6253)  |  | 05-29 | 06-20 |  |
-| 19 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6221](https://github.com/Azure/sdk-release-request/issues/6221)  |  | 05-21 | fail to get. | Hold on by Java/ |
-| 20 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
-| 21 | [TypeSpec] Go SDK generate request for Azure Kubernetes Service (AKS)  |  | [#6333](https://github.com/Azure/sdk-release-request/issues/6333)  |  |  | 06-20 | fail to get. |  |
-| 22 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
-| 23 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
-| 24 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 25 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 26 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
-| 27 | Release for Hybrid Compute 2025-02-19-preview  |  |  |  | [#6194](https://github.com/Azure/sdk-release-request/issues/6194)  | 05-12 | 06-20 |  |
+| 19 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
+| 20 | [TypeSpec] Go SDK generate request for Azure Kubernetes Service (AKS)  |  | [#6333](https://github.com/Azure/sdk-release-request/issues/6333)  |  |  | 06-20 | fail to get. |  |
+| 21 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
+| 22 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
+| 23 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 24 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
+| 25 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
+| 26 | Release for Hybrid Compute 2025-02-19-preview  |  |  |  | [#6194](https://github.com/Azure/sdk-release-request/issues/6194)  | 05-12 | 06-20 |  |
