@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#41441](https://github.com/Azure/azure-sdk-for-python/issues/41441)|azure.mgmt.monitor.v2022_06_01.models.extensiondatasource type not proper set for extension_settings|question, Monitor, Mgmt, customer-reported, needs-team-attention|pvaneck, msyyc|new comment|2025-06-05|
+|1|[#41441](https://github.com/Azure/azure-sdk-for-python/issues/41441)|azure.mgmt.monitor.v2022_06_01.models.extensiondatasource type not proper set for extension_settings|question, Monitor, Mgmt, customer-reported, needs-team-attention|msyyc, pvaneck|new comment|2025-06-05|
 |2|[#40981](https://github.com/Azure/azure-sdk-for-python/issues/40981)|azure-mgmt-advisor source distribution does not contain license|bug, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-05-08|
 |3|[#40976](https://github.com/Azure/azure-sdk-for-python/issues/40976)|Verify Python SDK generation for common-types replacement|Mgmt|msyyc|new issue|2025-05-08|
 |4|[#40158](https://github.com/Azure/azure-sdk-for-python/issues/40158)|public_ip_address method within NetworkManagementClient will not return values|question, Service Attention, Network - Virtual Network, Mgmt, customer-reported, no-recent-activity, needs-author-feedback|msyyc||2025-03-20|
@@ -13,4 +13,4 @@
 |11|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |12|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |13|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|14|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
+|14|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, lmazuel, iscai-msft|new comment|2021-04-05|
