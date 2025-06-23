@@ -40,7 +40,7 @@
     "azure-mgmt-purestorageblock",
     "azure-mgmt-mongodbatlas",
     "azure-mgmt-cloudhealth",
-    "azure-mgmt-resources-bicep",
+    "azure-mgmt-resource-bicep",
     "azure-mgmt-containerservicesafeguards"
   ],
   "js": [],
