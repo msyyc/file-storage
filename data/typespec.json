@@ -39,7 +39,9 @@
     "azure-mgmt-sitemanager",
     "azure-mgmt-purestorageblock",
     "azure-mgmt-mongodbatlas",
-    "azure-mgmt-cloudhealth"
+    "azure-mgmt-cloudhealth",
+    "azure-mgmt-resource-bicep",
+    "azure-mgmt-containerservicesafeguards"
   ],
   "js": [],
   "go": [],
