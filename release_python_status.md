@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6338](https://github.com/Azure/sdk-release-request/issues/6338) | deepakmauryams | azure-mgmt-purestorageblock | ChenxiJiang333 | new issue. FirstGA. TypeSpec. | 06-23 | fail to get. |  |
+| 1 | [#6338](https://github.com/Azure/sdk-release-request/issues/6338) | deepakmauryams | azure-mgmt-purestorageblock | ChenxiJiang333 | FirstGA. TypeSpec. | 06-23 | fail to get. |  |
 | 2 | [#6332](https://github.com/Azure/sdk-release-request/issues/6332) | NickKeller | azure-mgmt-containerservicesafeguards | ChenxiJiang333 | new issue. new comment. FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
 | 3 | [#6328](https://github.com/Azure/sdk-release-request/issues/6328) | anthony-c-martin | azure-mgmt-resources-bicep | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
 | 4 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
