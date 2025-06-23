@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [TypeSpec] Python SDK generate request for Azure Kubernetes Service (AKS)  | [#6332](https://github.com/Azure/sdk-release-request/issues/6332)  |  |  |  | 06-20 | fail to get. |  |
-| 2 | [TypeSpec] Python SDK generate request for Azure Resource Manager  | [#6328](https://github.com/Azure/sdk-release-request/issues/6328)  |  |  |  | 06-20 |  |  |
+| 2 | [TypeSpec] Python SDK generate request for Azure Resource Manager  | [#6328](https://github.com/Azure/sdk-release-request/issues/6328)  |  |  |  | 06-20 | fail to get. |  |
 | 3 | Release for Azure Carbon Optimization - 2025-04-01  | [#6325](https://github.com/Azure/sdk-release-request/issues/6325)  | [#6322](https://github.com/Azure/sdk-release-request/issues/6322)  | [#6323](https://github.com/Azure/sdk-release-request/issues/6323)  | [#6324](https://github.com/Azure/sdk-release-request/issues/6324)  | 06-19 | 07-25 |  |
 | 4 | Release for Storage - 2024-01-01  | [#6320](https://github.com/Azure/sdk-release-request/issues/6320)  | [#6317](https://github.com/Azure/sdk-release-request/issues/6317)  | [#6318](https://github.com/Azure/sdk-release-request/issues/6318)  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
 | 5 | Release for StorageActions - 2023-01-01  | [#6315](https://github.com/Azure/sdk-release-request/issues/6315)  | [#6312](https://github.com/Azure/sdk-release-request/issues/6312)  | [#6313](https://github.com/Azure/sdk-release-request/issues/6313)  | [#6314](https://github.com/Azure/sdk-release-request/issues/6314)  | 06-19 | 06-30 | Hold on by Python/ |
