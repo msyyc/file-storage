@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6332](https://github.com/Azure/sdk-release-request/issues/6332) | NickKeller | azure-mgmt-containerservicesafeguards | ChenxiJiang333 | new issue. new comment. FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
 | 2 | [#6328](https://github.com/Azure/sdk-release-request/issues/6328) | anthony-c-martin | azure-mgmt-resources-bicep | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
-| 3 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | new issue. TypeSpec. | 06-19 | 07-25 |  |
+| 3 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | TypeSpec. | 06-19 | 07-25 |  |
 | 4 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 06-19 | 06-30 |  |
 | 5 | [#6315](https://github.com/Azure/sdk-release-request/issues/6315) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | HoldOn. | 06-19 | 06-30 |  |
 | 6 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
