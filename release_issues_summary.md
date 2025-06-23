@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Liftr Pure Storage Krypton Service  | [#6338](https://github.com/Azure/sdk-release-request/issues/6338)  |  |  |  | 06-23 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Liftr Pure Storage Krypton Service  | [#6338](https://github.com/Azure/sdk-release-request/issues/6338)  |  |  |  | 06-23 | fail to get. |  |
 | 2 | [TypeSpec] Python SDK generate request for Azure Kubernetes Service (AKS)  | [#6332](https://github.com/Azure/sdk-release-request/issues/6332)  |  |  |  | 06-20 | fail to get. |  |
 | 3 | [TypeSpec] Python SDK generate request for Azure Resource Manager  | [#6328](https://github.com/Azure/sdk-release-request/issues/6328)  |  |  |  | 06-20 | fail to get. |  |
 | 4 | Release for Azure Carbon Optimization - 2025-04-01  | [#6325](https://github.com/Azure/sdk-release-request/issues/6325)  | [#6322](https://github.com/Azure/sdk-release-request/issues/6322)  | [#6323](https://github.com/Azure/sdk-release-request/issues/6323)  | [#6324](https://github.com/Azure/sdk-release-request/issues/6324)  | 06-19 | 07-25 |  |
