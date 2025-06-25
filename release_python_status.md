@@ -3,9 +3,9 @@
 | 1 | [#6356](https://github.com/Azure/sdk-release-request/issues/6356) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 06-24 | 07-25 |  |
 | 2 | [#6350](https://github.com/Azure/sdk-release-request/issues/6350) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | duplicated issue  <br> | 06-24 | fail to get. |  |
 | 3 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 | new issue. MultiAPI | 06-24 | 07-25 |  |
-| 4 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 06-24 | 07-24 |  |
+| 4 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. | 06-24 | 07-24 |  |
 | 5 | [#6338](https://github.com/Azure/sdk-release-request/issues/6338) | deepakmauryams | azure-mgmt-purestorageblock | ChenxiJiang333 | FirstGA. TypeSpec. | 06-23 | fail to get. |  |
-| 6 | [#6332](https://github.com/Azure/sdk-release-request/issues/6332) | NickKeller | azure-mgmt-containerservicesafeguards | ChenxiJiang333 | FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
+| 6 | [#6332](https://github.com/Azure/sdk-release-request/issues/6332) | NickKeller | azure-mgmt-containerservicesafeguards | ChenxiJiang333 | new issue. new comment. FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
 | 7 | [#6328](https://github.com/Azure/sdk-release-request/issues/6328) | anthony-c-martin | azure-mgmt-resource-bicep | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
 | 8 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
 | 9 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 06-19 | 06-30 |  |
