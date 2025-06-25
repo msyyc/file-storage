@@ -11,6 +11,5 @@
 | 9 | [#6287](https://github.com/Azure/sdk-release-request/issues/6287) | omerdolev-ms |  | MaryGao | new issue. | 06-10 | 07-24 |  |
 | 10 | [#6283](https://github.com/Azure/sdk-release-request/issues/6283) | fumingzhang |  | MaryGao | Attention to inconsistent tag. | 06-10 | 07-24 |  |
 | 11 | [#6279](https://github.com/Azure/sdk-release-request/issues/6279) | qingquanzhao |  | MaryGao | new issue. | 06-09 | 07-25 |  |
-| 12 | [#6245](https://github.com/Azure/sdk-release-request/issues/6245) | jamesvoongms |  | MaryGao |  | 05-27 | 06-20 |  |
-| 13 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | qiaozha | Attention to inconsistent tag. HoldOn. | 05-14 | 06-20 |  |
-| 14 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | HoldOn. | 04-27 | 06-20 |  |
+| 12 | [#6208](https://github.com/Azure/sdk-release-request/issues/6208) | anthony-c-martin |  | qiaozha | Attention to inconsistent tag. HoldOn. | 05-14 | 06-20 |  |
+| 13 | [#6106](https://github.com/Azure/sdk-release-request/issues/6106) | mattgotteiner |  | qiaozha | HoldOn. | 04-27 | 06-20 |  |

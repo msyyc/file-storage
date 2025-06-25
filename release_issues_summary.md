@@ -30,4 +30,3 @@
 | 28 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
 | 29 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
 | 30 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 31 | Release for Azure DNS Resolver - 2025-05-01  |  |  |  | [#6245](https://github.com/Azure/sdk-release-request/issues/6245)  | 05-27 | 06-20 |  |
