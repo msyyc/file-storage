@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6354](https://github.com/Azure/sdk-release-request/issues/6354) | audunn |  | weidongxu-microsoft | new issue. | 06-24 | 07-25 |  |
-| 2 | [#6349](https://github.com/Azure/sdk-release-request/issues/6349) | iliu816 |  | XiaofeiCao | new issue. Attention to inconsistent tag. | 06-24 | fail to get. |  |
-| 3 | [#6345](https://github.com/Azure/sdk-release-request/issues/6345) | isaacbanner |  | weidongxu-microsoft | new issue. | 06-24 | 07-25 |  |
+| 2 | [#6349](https://github.com/Azure/sdk-release-request/issues/6349) | iliu816 |  | XiaofeiCao | Attention to inconsistent tag. | 06-24 | fail to get. |  |
+| 3 | [#6345](https://github.com/Azure/sdk-release-request/issues/6345) | isaacbanner |  | v-hongli1 | new issue. | 06-24 | 07-25 |  |
 | 4 | [#6341](https://github.com/Azure/sdk-release-request/issues/6341) | fumingzhang |  | haolingdong-msft | new issue. | 06-24 | 07-24 |  |
 | 5 | [#6335](https://github.com/Azure/sdk-release-request/issues/6335) | NickKeller |  | XiaofeiCao | new issue. new comment. Attention to inconsistent tag. | 06-20 | fail to get. |  |
 | 6 | [#6330](https://github.com/Azure/sdk-release-request/issues/6330) | anthony-c-martin |  | haolingdong-msft | Attention to inconsistent tag. | 06-20 | fail to get. |  |
