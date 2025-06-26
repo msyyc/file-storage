@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | Release for NetAppFiles - 2025-03-01  | [#6356](https://github.com/Azure/sdk-release-request/issues/6356)  | [#6353](https://github.com/Azure/sdk-release-request/issues/6353)  | [#6354](https://github.com/Azure/sdk-release-request/issues/6354)  | [#6355](https://github.com/Azure/sdk-release-request/issues/6355)  | 06-24 | 07-25 |  |
-| 2 | [TypeSpec] Python SDK generate request for Service Fabric  | [#6223](https://github.com/Azure/sdk-release-request/issues/6223)  |  |  |  | 05-21 | fail to get. | Hold on by Python/ |
+| 2 | [TypeSpec] Python SDK generate request for Service Fabric  | [#6223](https://github.com/Azure/sdk-release-request/issues/6223)  |  |  |  | 05-21 | fail to get. |  |
 | 3 | Release for Managed Service Identity 2024-11-30  | [#6347](https://github.com/Azure/sdk-release-request/issues/6347)  | [#6344](https://github.com/Azure/sdk-release-request/issues/6344)  | [#6345](https://github.com/Azure/sdk-release-request/issues/6345)  | [#6346](https://github.com/Azure/sdk-release-request/issues/6346)  | 06-24 | 07-25 |  |
 | 4 | Release for Container Service - 2025-05-01  | [#6343](https://github.com/Azure/sdk-release-request/issues/6343)  | [#6340](https://github.com/Azure/sdk-release-request/issues/6340)  | [#6341](https://github.com/Azure/sdk-release-request/issues/6341)  | [#6342](https://github.com/Azure/sdk-release-request/issues/6342)  | 06-24 | 07-24 |  |
 | 5 | [TypeSpec] Python SDK generate request for Liftr Pure Storage Krypton Service  | [#6338](https://github.com/Azure/sdk-release-request/issues/6338)  |  |  |  | 06-23 | fail to get. |  |
@@ -18,14 +18,13 @@
 | 16 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 17 | Release for Search - 2025-05-01  | [#6107](https://github.com/Azure/sdk-release-request/issues/6107)  | [#6104](https://github.com/Azure/sdk-release-request/issues/6104)  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 06-20 | Hold on by JS/Java/Go/Python/ |
 | 18 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 19 | [TypeSpec] Java SDK generate request for Service Fabric  |  |  | [#6349](https://github.com/Azure/sdk-release-request/issues/6349)  |  | 06-24 | fail to get. |  |
-| 20 | [TypeSpec] Java SDK generate request for Azure Resource Manager  |  |  | [#6330](https://github.com/Azure/sdk-release-request/issues/6330)  |  | 06-20 | fail to get. |  |
-| 21 | Release for Container Service - 2025-04-01  |  |  | [#6270](https://github.com/Azure/sdk-release-request/issues/6270)  |  | 06-03 | 06-19 |  |
-| 22 | Release for App Service - 2024-11-01  |  |  | [#6253](https://github.com/Azure/sdk-release-request/issues/6253)  |  | 05-29 | 06-20 |  |
-| 23 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
-| 24 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. | Hold on by Go/ |
-| 25 | [TypeSpec] Go SDK generate request for Liftr Pure Storage Krypton Service  |  | [#6339](https://github.com/Azure/sdk-release-request/issues/6339)  |  |  | 06-23 | fail to get. |  |
-| 26 | [TypeSpec] Go SDK generate request for Azure Kubernetes Service (AKS)  |  | [#6333](https://github.com/Azure/sdk-release-request/issues/6333)  |  |  | 06-20 | fail to get. |  |
-| 27 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
-| 28 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
-| 29 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 19 | [TypeSpec] Java SDK generate request for Azure Resource Manager  |  |  | [#6330](https://github.com/Azure/sdk-release-request/issues/6330)  |  | 06-20 | fail to get. |  |
+| 20 | Release for Container Service - 2025-04-01  |  |  | [#6270](https://github.com/Azure/sdk-release-request/issues/6270)  |  | 06-03 | 06-19 |  |
+| 21 | Release for App Service - 2024-11-01  |  |  | [#6253](https://github.com/Azure/sdk-release-request/issues/6253)  |  | 05-29 | 06-20 |  |
+| 22 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  | [#6207](https://github.com/Azure/sdk-release-request/issues/6207)  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
+| 23 | [TypeSpec] Go SDK generate request for Liftr Pure Storage Krypton Service  |  | [#6339](https://github.com/Azure/sdk-release-request/issues/6339)  |  |  | 06-23 | fail to get. |  |
+| 24 | [TypeSpec] Go SDK generate request for Azure Kubernetes Service (AKS)  |  | [#6333](https://github.com/Azure/sdk-release-request/issues/6333)  |  |  | 06-20 | fail to get. |  |
+| 25 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
+| 26 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
+| 27 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 28 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. |  |

@@ -3,7 +3,7 @@
 | 1 | [#6355](https://github.com/Azure/sdk-release-request/issues/6355) | audunn |  | MaryGao | new issue. | 06-24 | 07-25 |  |
 | 2 | [#6346](https://github.com/Azure/sdk-release-request/issues/6346) | isaacbanner |  | MaryGao | new issue. | 06-24 | 07-25 |  |
 | 3 | [#6342](https://github.com/Azure/sdk-release-request/issues/6342) | fumingzhang |  | MaryGao | new issue. | 06-24 | 07-24 |  |
-| 4 | [#6324](https://github.com/Azure/sdk-release-request/issues/6324) | liangchenmicrosoft |  | qiaozha | new issue. | 06-19 | 07-25 |  |
+| 4 | [#6324](https://github.com/Azure/sdk-release-request/issues/6324) | liangchenmicrosoft |  | qiaozha | new issue. new comment. | 06-19 | 07-25 |  |
 | 5 | [#6319](https://github.com/Azure/sdk-release-request/issues/6319) | blueww |  | qiaozha | new issue. | 06-19 | 06-30 |  |
 | 6 | [#6314](https://github.com/Azure/sdk-release-request/issues/6314) | blueww |  | qiaozha | new issue. | 06-19 | 06-30 |  |
 | 7 | [#6304](https://github.com/Azure/sdk-release-request/issues/6304) | ramandhillon84 |  | qiaozha | Attention to inconsistent tag. | 06-17 | 07-25 |  |
