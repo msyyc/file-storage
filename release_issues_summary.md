@@ -27,4 +27,3 @@
 | 25 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
 | 26 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. |  |
 | 27 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 28 | [TypeSpec] Go SDK generate request for Service Fabric  |  | [#6224](https://github.com/Azure/sdk-release-request/issues/6224)  |  |  | 05-21 | fail to get. |  |
