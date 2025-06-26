@@ -9,7 +9,7 @@
 | 7 | [#6328](https://github.com/Azure/sdk-release-request/issues/6328) | anthony-c-martin | azure-mgmt-resource-bicep | ChenxiJiang333 | FirstBeta. TypeSpec. | 06-20 | fail to get. |  |
 | 8 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
 | 9 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 06-19 | 06-30 |  |
-| 10 | [#6315](https://github.com/Azure/sdk-release-request/issues/6315) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | HoldOn. | 06-19 | 06-30 |  |
+| 10 | [#6315](https://github.com/Azure/sdk-release-request/issues/6315) | blueww | azure-mgmt-storageactions | ChenxiJiang333 |  | 06-19 | 06-30 |  |
 | 11 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
 | 12 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 |  | 06-17 | 07-25 |  |
 | 13 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 06-13 | 07-25 |  |
