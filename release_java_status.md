@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6368](https://github.com/Azure/sdk-release-request/issues/6368) | anthony-c-martin |  | XiaofeiCao |  | 06-27 |  | 0 |
+| 1 | [#6368](https://github.com/Azure/sdk-release-request/issues/6368) | anthony-c-martin |  | XiaofeiCao | multi readme link! | 06-27 | 07-25 |  |
 | 2 | [#6363](https://github.com/Azure/sdk-release-request/issues/6363) | grizzlytheodore |  | haolingdong-msft | new issue. new comment. | 06-26 | 07-25 |  |
 | 3 | [#6361](https://github.com/Azure/sdk-release-request/issues/6361) | blueww |  | XiaofeiCao | new comment. Attention to inconsistent tag. | 06-26 | fail to get. |  |
 | 4 | [#6354](https://github.com/Azure/sdk-release-request/issues/6354) | audunn |  | weidongxu-microsoft | new issue. | 06-24 | 07-25 |  |
