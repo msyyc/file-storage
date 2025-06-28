@@ -7,7 +7,7 @@
 | 5 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 |  | 06-24 | 07-25 |  |
 | 6 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. | 06-24 | 07-24 |  |
 | 7 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
-| 8 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 | new comment. close to release date. OnTime. | 06-19 | 06-30 | 2 |
+| 8 | [#6320](https://github.com/Azure/sdk-release-request/issues/6320) | blueww | azure-mgmt-storage | ChenxiJiang333 | new comment. close to release date. OnTime. | 06-19 | 06-30 | 1 |
 | 9 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
 | 10 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 |  | 06-17 | 07-25 |  |
 | 11 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 06-13 | 07-25 |  |
