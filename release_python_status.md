@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6370](https://github.com/Azure/sdk-release-request/issues/6370) | anthony-c-martin |  | ChenxiJiang333 |  | 06-27 |  | 0 |
 | 2 | [#6365](https://github.com/Azure/sdk-release-request/issues/6365) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. new comment. MultiAPI | 06-26 | 07-25 |  |
-| 3 | [#6359](https://github.com/Azure/sdk-release-request/issues/6359) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | new comment. OnTime. TypeSpec. | 06-26 | fail to get. |  |
+| 3 | [#6359](https://github.com/Azure/sdk-release-request/issues/6359) | blueww | azure-mgmt-storageactions | ChenxiJiang333 | OnTime. TypeSpec. | 06-26 | fail to get. |  |
 | 4 | [#6356](https://github.com/Azure/sdk-release-request/issues/6356) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 06-24 | 07-25 |  |
 | 5 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 |  | 06-24 | 07-25 |  |
 | 6 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. | 06-24 | 07-24 |  |
