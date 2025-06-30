@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-storage,azure-sdk,ChenxiJiang333,2025-06-19,2025-06-30,https://github.com/Azure/sdk-release-request/issues/6320,23.0.1,True
 azure-mgmt-oracledatabase,azure-sdk,ChenxiJiang333,2025-06-03,2025-06-26,https://github.com/Azure/sdk-release-request/issues/6262,2.0.0,True
 azure-mgmt-computeschedule,azure-sdk,ChenxiJiang333,2025-06-03,2025-06-26,https://github.com/Azure/sdk-release-request/issues/6268,1.1.0,True
 azure-mgmt-resource-deployments,msyyc,msyyc,2025-06-20,2025-06-20,https://github.com/Azure/sdk-release-request/issues/6327,1.0.0b1,
