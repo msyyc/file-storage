@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6368](https://github.com/Azure/sdk-release-request/issues/6368) | anthony-c-martin |  | weidongxu-microsoft | multi readme link! | 06-27 | 07-25 |  |
 | 2 | [#6363](https://github.com/Azure/sdk-release-request/issues/6363) | grizzlytheodore |  | haolingdong-msft | new issue. new comment. | 06-26 | 07-25 |  |
-| 3 | [#6361](https://github.com/Azure/sdk-release-request/issues/6361) | blueww |  | XiaofeiCao | Attention to inconsistent tag. | 06-26 | fail to get. |  |
+| 3 | [#6361](https://github.com/Azure/sdk-release-request/issues/6361) | blueww |  | XiaofeiCao | new comment. Attention to inconsistent tag. | 06-26 | fail to get. |  |
 | 4 | [#6354](https://github.com/Azure/sdk-release-request/issues/6354) | audunn |  | weidongxu-microsoft | new issue. | 06-24 | 07-25 |  |
 | 5 | [#6345](https://github.com/Azure/sdk-release-request/issues/6345) | isaacbanner |  | v-hongli1 | new issue. | 06-24 | 07-25 |  |
 | 6 | [#6341](https://github.com/Azure/sdk-release-request/issues/6341) | fumingzhang |  | haolingdong-msft | new issue. | 06-24 | 07-24 |  |
