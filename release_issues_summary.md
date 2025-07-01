@@ -18,7 +18,7 @@
 | 16 | [TypeSpec] Go SDK generate request for Liftr Pure Storage Krypton Service  |  | [#6339](https://github.com/Azure/sdk-release-request/issues/6339)  |  |  | 06-23 | fail to get. |  |
 | 17 | [TypeSpec] Go SDK generate request for Azure Kubernetes Service (AKS)  |  | [#6333](https://github.com/Azure/sdk-release-request/issues/6333)  |  |  | 06-20 | fail to get. |  |
 | 18 | [TypeSpec] Go SDK generate request for Azure Resource Manager  |  | [#6329](https://github.com/Azure/sdk-release-request/issues/6329)  |  |  | 06-20 | fail to get. |  |
-| 19 | Release for Storage - 2024-01-01  |  | [#6317](https://github.com/Azure/sdk-release-request/issues/6317)  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
-| 20 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. | Hold on by Go/ |
-| 21 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 22 | Release for Resources - 2025-04-01  |  | [#6206](https://github.com/Azure/sdk-release-request/issues/6206)  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
+| 19 | [TypeSpec] Go SDK generate request for MongoDB Atlas  |  | [#6308](https://github.com/Azure/sdk-release-request/issues/6308)  |  |  | 06-18 | fail to get. | Hold on by Go/ |
+| 20 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 21 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
+| 22 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
