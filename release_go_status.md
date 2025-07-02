@@ -11,10 +11,9 @@
 | 9 | [#6333](https://github.com/Azure/sdk-release-request/issues/6333) | NickKeller |  | jliusan | Attention to inconsistent tag. | 06-20 | fail to get. |  |
 | 10 | [#6329](https://github.com/Azure/sdk-release-request/issues/6329) | anthony-c-martin |  | jliusan | new issue. new comment. Attention to inconsistent tag. | 06-20 | fail to get. |  |
 | 11 | [#6322](https://github.com/Azure/sdk-release-request/issues/6322) | liangchenmicrosoft |  | jliusan |  | 06-19 | 07-25 |  |
-| 12 | [#6308](https://github.com/Azure/sdk-release-request/issues/6308) | ajaykumarmehra |  | jliusan | Attention to inconsistent tag. HoldOn. | 06-18 | fail to get. |  |
-| 13 | [#6302](https://github.com/Azure/sdk-release-request/issues/6302) | ramandhillon84 |  | jliusan | Attention to inconsistent tag. | 06-17 | 07-25 |  |
-| 14 | [#6290](https://github.com/Azure/sdk-release-request/issues/6290) | CarlOchs |  | jliusan |  | 06-13 | 07-25 |  |
-| 15 | [#6285](https://github.com/Azure/sdk-release-request/issues/6285) | omerdolev-ms |  | jliusan |  | 06-10 | 07-24 |  |
-| 16 | [#6284](https://github.com/Azure/sdk-release-request/issues/6284) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 06-10 | 07-24 |  |
-| 17 | [#6277](https://github.com/Azure/sdk-release-request/issues/6277) | qingquanzhao |  | jliusan | HoldOn. TypeSpec. | 06-09 | 07-25 |  |
-| 18 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan | new comment. HoldOn. | 04-27 | 06-20 |  |
+| 12 | [#6302](https://github.com/Azure/sdk-release-request/issues/6302) | ramandhillon84 |  | jliusan | Attention to inconsistent tag. | 06-17 | 07-25 |  |
+| 13 | [#6290](https://github.com/Azure/sdk-release-request/issues/6290) | CarlOchs |  | jliusan |  | 06-13 | 07-25 |  |
+| 14 | [#6285](https://github.com/Azure/sdk-release-request/issues/6285) | omerdolev-ms |  | jliusan |  | 06-10 | 07-24 |  |
+| 15 | [#6284](https://github.com/Azure/sdk-release-request/issues/6284) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 06-10 | 07-24 |  |
+| 16 | [#6277](https://github.com/Azure/sdk-release-request/issues/6277) | qingquanzhao |  | jliusan | HoldOn. TypeSpec. | 06-09 | 07-25 |  |
+| 17 | [#6104](https://github.com/Azure/sdk-release-request/issues/6104) | mattgotteiner |  | jliusan | new comment. HoldOn. | 04-27 | 06-20 |  |
