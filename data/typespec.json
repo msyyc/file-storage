@@ -41,7 +41,8 @@
     "azure-mgmt-mongodbatlas",
     "azure-mgmt-cloudhealth",
     "azure-mgmt-resource-bicep",
-    "azure-mgmt-containerservicesafeguards"
+    "azure-mgmt-containerservicesafeguards",
+    "azure-mgmt-hardwaresecuritymodules"
   ],
   "js": [],
   "go": [],
