@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6381](https://github.com/Azure/sdk-release-request/issues/6381) | bbi2015 | azure-mgmt-eventgrid | ChenxiJiang333 | new issue. | 07-02 | 07-24 |  |
+| 1 | [#6381](https://github.com/Azure/sdk-release-request/issues/6381) | bbi2015 | azure-mgmt-eventgrid | ChenxiJiang333 |  | 07-02 | 07-24 |  |
 | 2 | [#6374](https://github.com/Azure/sdk-release-request/issues/6374) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | TypeSpec. | 07-01 | fail to get. |  |
 | 3 | [#6370](https://github.com/Azure/sdk-release-request/issues/6370) | anthony-c-martin |  | ChenxiJiang333 |  | 06-27 |  | 0 |
 | 4 | [#6365](https://github.com/Azure/sdk-release-request/issues/6365) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. new comment. MultiAPI | 06-26 | 07-25 |  |
