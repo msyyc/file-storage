@@ -8,7 +8,7 @@
 | 6 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 |  | 06-24 | 07-25 |  |
 | 7 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 06-24 | 07-24 |  |
 | 8 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
-| 9 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 06-18 | 07-25 |  |
+| 9 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 |  | 06-18 | 07-25 |  |
 | 10 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 |  | 06-17 | 07-25 |  |
 | 11 | [#6293](https://github.com/Azure/sdk-release-request/issues/6293) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 06-13 | 07-25 |  |
 | 12 | [#6288](https://github.com/Azure/sdk-release-request/issues/6288) | omerdolev-ms | azure-mgmt-healthbot | ChenxiJiang333 |  | 06-10 | 07-24 |  |
