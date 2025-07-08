@@ -6,7 +6,7 @@
 | 4 | [#6370](https://github.com/Azure/sdk-release-request/issues/6370) | anthony-c-martin |  | ChenxiJiang333 |  | 06-27 |  | 0 |
 | 5 | [#6365](https://github.com/Azure/sdk-release-request/issues/6365) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new issue. new comment. MultiAPI | 06-26 | 07-25 |  |
 | 6 | [#6356](https://github.com/Azure/sdk-release-request/issues/6356) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 06-24 | 07-25 |  |
-| 7 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 |  | 06-24 | 07-25 |  |
+| 7 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 | new comment. | 06-24 | 07-25 |  |
 | 8 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 06-24 | 07-24 |  |
 | 9 | [#6325](https://github.com/Azure/sdk-release-request/issues/6325) | liangchenmicrosoft | azure-mgmt-carbonoptimization | ChenxiJiang333 | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
 | 10 | [#6307](https://github.com/Azure/sdk-release-request/issues/6307) | ChenxiJiang333 | azure-mgmt-monitor | ChenxiJiang333 |  | 06-18 | 07-25 |  |

@@ -19,8 +19,9 @@
 | 17 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
 | 18 | Microsoft.DataMigration - 2025-03-15-preview  |  | [#6382](https://github.com/Azure/sdk-release-request/issues/6382)  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
 | 19 | [TypeSpec] Java SDK generate request for Azure Cloud HSM  |  |  | [#6373](https://github.com/Azure/sdk-release-request/issues/6373)  |  | 07-01 | fail to get. |  |
-| 20 | Release for Container Service - 2025-05-02-preview  |  | [#6376](https://github.com/Azure/sdk-release-request/issues/6376)  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
-| 21 | [TypeSpec] Go SDK generate request for Azure Cloud HSM  |  | [#6372](https://github.com/Azure/sdk-release-request/issues/6372)  |  |  | 07-01 | fail to get. |  |
-| 22 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 23 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
-| 24 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
+| 20 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. |  |
+| 21 | Release for Container Service - 2025-05-02-preview  |  | [#6376](https://github.com/Azure/sdk-release-request/issues/6376)  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
+| 22 | [TypeSpec] Go SDK generate request for Azure Cloud HSM  |  | [#6372](https://github.com/Azure/sdk-release-request/issues/6372)  |  |  | 07-01 | fail to get. |  |
+| 23 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 24 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
+| 25 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
