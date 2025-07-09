@@ -4,7 +4,7 @@
 | 2 | [#6388](https://github.com/Azure/sdk-release-request/issues/6388) | anlandu |  | haolingdong-msft | new issue. | 07-04 | 07-25 |  |
 | 3 | [#6383](https://github.com/Azure/sdk-release-request/issues/6383) | gansach |  | v-hongli1 | new issue. | 07-04 | 07-24 |  |
 | 4 | [#6379](https://github.com/Azure/sdk-release-request/issues/6379) | bbi2015 |  | XiaofeiCao | new issue. | 07-02 | 07-24 |  |
-| 5 | [#6373](https://github.com/Azure/sdk-release-request/issues/6373) | emmeliaAra |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 07-01 | fail to get. |  |
+| 5 | [#6373](https://github.com/Azure/sdk-release-request/issues/6373) | emmeliaAra |  | weidongxu-microsoft | Attention to inconsistent tag. | 07-01 | fail to get. |  |
 | 6 | [#6368](https://github.com/Azure/sdk-release-request/issues/6368) | anthony-c-martin |  | weidongxu-microsoft | multi readme link! | 06-27 | 07-25 |  |
 | 7 | [#6363](https://github.com/Azure/sdk-release-request/issues/6363) | grizzlytheodore |  | XiaofeiCao | new issue. new comment. | 06-26 | 07-25 |  |
 | 8 | [#6354](https://github.com/Azure/sdk-release-request/issues/6354) | audunn |  | weidongxu-microsoft | new issue. | 06-24 | 07-25 |  |
