@@ -1,4 +1,12 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-iotfirmwaredefense,azure-sdk,ChenxiJiang333,2025-04-18,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6077,2.0.0b1,
+azure-mgmt-arizeaiobservabilityeval,azure-sdk,ChenxiJiang333,2025-05-06,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6141,1.0.0,True
+azure-mgmt-cloudhealth,azure-sdk,ChenxiJiang333,2025-05-30,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6257,1.0.0b1,
+azure-mgmt-mongodbatlas,azure-sdk,ChenxiJiang333,2025-06-18,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6310,1.0.0,True
+azure-mgmt-containerservicesafeguards,azure-sdk,ChenxiJiang333,2025-06-20,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6332,1.0.0b1,
+azure-mgmt-purestorageblock,azure-sdk,ChenxiJiang333,2025-06-23,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6338,1.0.0,True
+azure-mgmt-servicefabricmanagedclusters,azure-sdk,ChenxiJiang333,2025-06-24,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6350,2.1.0b3,
+azure-mgmt-storageactions,azure-sdk,ChenxiJiang333,2025-06-26,2025-07-10,https://github.com/Azure/sdk-release-request/issues/6359,1.0.0,True
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2025-06-19,2025-06-30,https://github.com/Azure/sdk-release-request/issues/6320,23.0.1,True
 azure-mgmt-oracledatabase,azure-sdk,ChenxiJiang333,2025-06-03,2025-06-26,https://github.com/Azure/sdk-release-request/issues/6262,2.0.0,True
 azure-mgmt-computeschedule,azure-sdk,ChenxiJiang333,2025-06-03,2025-06-26,https://github.com/Azure/sdk-release-request/issues/6268,1.1.0,True
