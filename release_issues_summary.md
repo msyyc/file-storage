@@ -23,7 +23,6 @@
 | 21 | [TypeSpec] Java SDK generate request for Azure Cloud HSM  |  |  | [#6373](https://github.com/Azure/sdk-release-request/issues/6373)  |  | 07-01 | fail to get. |  |
 | 22 | [TypeSpec] Java SDK generate request for Azure VMware Solution  |  |  | [#6109](https://github.com/Azure/sdk-release-request/issues/6109)  |  | 04-29 | fail to get. |  |
 | 23 | Release for Container Service - 2025-05-02-preview  |  | [#6376](https://github.com/Azure/sdk-release-request/issues/6376)  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
-| 24 | [TypeSpec] Go SDK generate request for Azure Cloud HSM  |  | [#6372](https://github.com/Azure/sdk-release-request/issues/6372)  |  |  | 07-01 | fail to get. |  |
-| 25 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 26 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
-| 27 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
+| 24 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 25 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
+| 26 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
