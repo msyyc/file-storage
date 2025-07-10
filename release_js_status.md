@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6397](https://github.com/Azure/sdk-release-request/issues/6397) | anthony-c-martin |  | MaryGao |  | 07-09 |  | 0 |
+| 1 | [#6397](https://github.com/Azure/sdk-release-request/issues/6397) | anthony-c-martin |  | MaryGao | multi readme link! | 07-09 | 07-25 |  |
 | 2 | [#6389](https://github.com/Azure/sdk-release-request/issues/6389) | anlandu |  | qiaozha | new issue. | 07-04 | 07-25 |  |
 | 3 | [#6384](https://github.com/Azure/sdk-release-request/issues/6384) | gansach |  | qiaozha | new issue. | 07-04 | 07-24 |  |
 | 4 | [#6380](https://github.com/Azure/sdk-release-request/issues/6380) | bbi2015 |  | qiaozha | new issue. | 07-02 | 07-24 |  |
