@@ -1,6 +1,5 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6405](https://github.com/Azure/sdk-release-request/issues/6405) | msyyc | azure-mgmt-keyvault | msyyc | close to release date. | 07-11 | 07-11 | 0 |
 | 2 | [#6403](https://github.com/Azure/sdk-release-request/issues/6403) | shanefujs |  | ChenxiJiang333 |  | 07-10 |  | 0 |
 | 3 | [#6400](https://github.com/Azure/sdk-release-request/issues/6400) | msyyc | azure-mgmt-dns | msyyc | new issue. new comment. | 07-10 | 07-25 |  |
 | 4 | [#6398](https://github.com/Azure/sdk-release-request/issues/6398) | anthony-c-martin | azure-mgmt-resource-deploymentstacks | ChenxiJiang333 | new comment. | 07-09 | 07-25 |  |
