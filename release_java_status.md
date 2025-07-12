@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6407](https://github.com/Azure/sdk-release-request/issues/6407) | shraddhasun |  | v-hongli1 |  | 07-11 |  | 0 |
+| 1 | [#6407](https://github.com/Azure/sdk-release-request/issues/6407) | shraddhasun |  | v-hongli1 | multi readme link! | 07-11 | fail to get. |  |
 | 2 | [#6402](https://github.com/Azure/sdk-release-request/issues/6402) | shanefujs |  | haolingdong-msft | new issue. | 07-10 | fail to get. |  |
 | 3 | [#6394](https://github.com/Azure/sdk-release-request/issues/6394) | wendychang_microsoft |  | v-hongli1 |  | 07-08 | 07-25 |  |
 | 4 | [#6388](https://github.com/Azure/sdk-release-request/issues/6388) | anlandu |  | haolingdong-msft | new issue. | 07-04 | 07-25 |  |

@@ -19,12 +19,12 @@
 | 17 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 18 | Release for Search - 2025-05-01  | [#6107](https://github.com/Azure/sdk-release-request/issues/6107)  | [#6104](https://github.com/Azure/sdk-release-request/issues/6104)  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 07-24 | Hold on by JS/Java/Go/Python/ |
 | 19 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 20 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 |  |  |
+| 20 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. |  |
 | 21 | [TypeSpec] Java SDK generate request for Storage Discovery  |  |  | [#6402](https://github.com/Azure/sdk-release-request/issues/6402)  |  | 07-10 | fail to get. |  |
 | 22 | Release for ProviderHub 2024-09-01  |  | [#6392](https://github.com/Azure/sdk-release-request/issues/6392)  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
 | 23 | Microsoft.DataMigration - 2025-03-15-preview  |  | [#6382](https://github.com/Azure/sdk-release-request/issues/6382)  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
 | 24 | Release for Deployments - 2025-04-01  |  | [#6367](https://github.com/Azure/sdk-release-request/issues/6367)  | [#6368](https://github.com/Azure/sdk-release-request/issues/6368)  | [#6369](https://github.com/Azure/sdk-release-request/issues/6369)  | 06-27 | 07-25 |  |
-| 25 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 |  |  |
+| 25 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. |  |
 | 26 | [TypeSpec] Go SDK generate request for Storage Discovery  |  | [#6401](https://github.com/Azure/sdk-release-request/issues/6401)  |  |  | 07-10 | fail to get. |  |
 | 27 | Release for DeploymentStacks - 2024-03-01  |  | [#6395](https://github.com/Azure/sdk-release-request/issues/6395)  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 |  |
 | 28 | Release for Container Service - 2025-05-02-preview  |  | [#6376](https://github.com/Azure/sdk-release-request/issues/6376)  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
