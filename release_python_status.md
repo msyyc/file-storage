@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6409](https://github.com/Azure/sdk-release-request/issues/6409) | shraddhasun |  | ChenxiJiang333 | duplicated issue  <br> | 07-11 |  | 0 |
 | 2 | [#6403](https://github.com/Azure/sdk-release-request/issues/6403) | shanefujs |  | ChenxiJiang333 | duplicated issue  <br> | 07-10 |  | 0 |
-| 3 | [#6400](https://github.com/Azure/sdk-release-request/issues/6400) | msyyc | azure-mgmt-dns | msyyc | new issue. new comment. | 07-10 | 07-25 |  |
+| 3 | [#6400](https://github.com/Azure/sdk-release-request/issues/6400) | msyyc | azure-mgmt-dns | msyyc |  | 07-10 | 07-25 |  |
 | 4 | [#6390](https://github.com/Azure/sdk-release-request/issues/6390) | anlandu | azure-mgmt-policyinsights | ChenxiJiang333 |  | 07-04 | 07-25 |  |
 | 5 | [#6381](https://github.com/Azure/sdk-release-request/issues/6381) | bbi2015 | azure-mgmt-eventgrid | ChenxiJiang333 |  | 07-02 | 07-24 |  |
 | 6 | [#6374](https://github.com/Azure/sdk-release-request/issues/6374) | emmeliaAra | azure-mgmt-hardwaresecuritymodules | ChenxiJiang333 | TypeSpec. | 07-01 | fail to get. |  |
