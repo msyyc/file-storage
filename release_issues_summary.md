@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [TypeSpec] Python SDK generate request for ASZ-Arc VMs  | [#6409](https://github.com/Azure/sdk-release-request/issues/6409)  |  |  |  | 07-11 |  |  |
 | 2 | [TypeSpec] Python SDK generate request for Storage Discovery  | [#6403](https://github.com/Azure/sdk-release-request/issues/6403)  |  |  |  | 07-10 |  |  |
-| 3 | Release for Azure DNS Public Zones - 2023-07-01-preview (convert to singleapi)  | [#6400](https://github.com/Azure/sdk-release-request/issues/6400)  |  |  |  | 07-10 | 07-25 |  |
+| 3 | Release for Azure DNS Public Zones (convert to singleapi)  | [#6400](https://github.com/Azure/sdk-release-request/issues/6400)  |  |  |  | 07-10 | 07-25 |  |
 | 4 | Release for Policy Insights - Api-version 2024-10  | [#6390](https://github.com/Azure/sdk-release-request/issues/6390)  | [#6387](https://github.com/Azure/sdk-release-request/issues/6387)  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  | [#6389](https://github.com/Azure/sdk-release-request/issues/6389)  | 07-04 | 07-25 |  |
 | 5 | Release for EventGrid - 2025-04-01-preview  | [#6381](https://github.com/Azure/sdk-release-request/issues/6381)  | [#6378](https://github.com/Azure/sdk-release-request/issues/6378)  | [#6379](https://github.com/Azure/sdk-release-request/issues/6379)  | [#6380](https://github.com/Azure/sdk-release-request/issues/6380)  | 07-02 | 07-24 |  |
 | 6 | [TypeSpec] Python SDK generate request for Azure Cloud HSM  | [#6374](https://github.com/Azure/sdk-release-request/issues/6374)  |  |  |  | 07-01 | fail to get. |  |
