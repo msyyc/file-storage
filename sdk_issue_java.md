@@ -7,7 +7,7 @@
 |5|[#45937](https://github.com/Azure/azure-sdk-for-java/issues/45937)|[mgmt] move configurations from api-specs.json into each services' readme.md|Mgmt|XiaofeiCao||2025-07-08|
 |6|[#45936](https://github.com/Azure/azure-sdk-for-java/issues/45936)|[mgmt] UserAgentPolicy should use actual package version, instead of azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-07-08|
 |7|[#45935](https://github.com/Azure/azure-sdk-for-java/issues/45935)|[mgmt] generation script adaption for premium packages|Mgmt|XiaofeiCao||2025-07-08|
-|8|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2025-07-07|
+|8|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
 |9|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
 |10|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
 |11|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
@@ -45,7 +45,7 @@
 |43|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |44|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |45|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|46|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|46|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |47|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |48|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |49|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
@@ -57,4 +57,3 @@
 |55|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
 |56|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
 |57|[#35992](https://github.com/Azure/azure-sdk-for-java/issues/35992)|[BUG]batch playback run fails using `mvn test` when `.assets` already exists|Mgmt, test-proxy|XiaofeiCao||2023-07-20|
-|58|[#35884](https://github.com/Azure/azure-sdk-for-java/issues/35884)|[FEATURE REQ] Update mgmt automation for pom with maven profile|Mgmt, Mgmt-EngSys|weidongxu-microsoft||2023-07-14|
