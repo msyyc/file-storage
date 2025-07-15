@@ -1,11 +1,11 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6412](https://github.com/Azure/sdk-release-request/issues/6412) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | new issue. Attention to inconsistent tag. TypeSpec. | 07-14 | fail to get. |  |
+| 1 | [#6412](https://github.com/Azure/sdk-release-request/issues/6412) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | new issue. TypeSpec. | 07-14 | fail to get. |  |
 | 2 | [#6409](https://github.com/Azure/sdk-release-request/issues/6409) | shraddhasun |  | ChenxiJiang333 | duplicated issue  <br> | 07-11 |  | 0 |
 | 3 | [#6403](https://github.com/Azure/sdk-release-request/issues/6403) | shanefujs |  | ChenxiJiang333 | duplicated issue  <br> | 07-10 |  | 0 |
 | 4 | [#6390](https://github.com/Azure/sdk-release-request/issues/6390) | anlandu | azure-mgmt-policyinsights | ChenxiJiang333 |  | 07-04 | 07-25 |  |
 | 5 | [#6381](https://github.com/Azure/sdk-release-request/issues/6381) | bbi2015 | azure-mgmt-eventgrid | ChenxiJiang333 |  | 07-02 | 07-24 |  |
-| 6 | [#6365](https://github.com/Azure/sdk-release-request/issues/6365) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 | new comment. | 06-26 | 07-25 |  |
+| 6 | [#6365](https://github.com/Azure/sdk-release-request/issues/6365) | grizzlytheodore | azure-mgmt-compute | ChenxiJiang333 |  | 06-26 | 07-25 |  |
 | 7 | [#6356](https://github.com/Azure/sdk-release-request/issues/6356) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 06-24 | 07-25 |  |
 | 8 | [#6347](https://github.com/Azure/sdk-release-request/issues/6347) | isaacbanner | azure-mgmt-msi | ChenxiJiang333 | new comment. | 06-24 | 07-25 |  |
 | 9 | [#6343](https://github.com/Azure/sdk-release-request/issues/6343) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 06-24 | 07-24 |  |
