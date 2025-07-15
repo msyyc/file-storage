@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6415](https://github.com/Azure/sdk-release-request/issues/6415) | msyyc | azure-mgmt-eventhub | msyyc | new issue. new comment. close to release date. | 07-15 | 07-15 | 0 |
-| 2 | [#6414](https://github.com/Azure/sdk-release-request/issues/6414) | msyyc | azure-mgmt-servicebus | msyyc | new issue. close to release date. | 07-15 | 07-15 | 0 |
+| 1 | [#6415](https://github.com/Azure/sdk-release-request/issues/6415) | msyyc | azure-mgmt-eventhub | msyyc | close to release date. | 07-15 | 07-15 | 0 |
+| 2 | [#6414](https://github.com/Azure/sdk-release-request/issues/6414) | msyyc | azure-mgmt-servicebus | msyyc | close to release date. | 07-15 | 07-15 | 0 |
 | 3 | [#6412](https://github.com/Azure/sdk-release-request/issues/6412) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | TypeSpec. | 07-14 | fail to get. |  |
 | 4 | [#6409](https://github.com/Azure/sdk-release-request/issues/6409) | shraddhasun |  | ChenxiJiang333 | duplicated issue  <br> | 07-11 |  | 0 |
 | 5 | [#6403](https://github.com/Azure/sdk-release-request/issues/6403) | shanefujs |  | ChenxiJiang333 | duplicated issue  <br> | 07-10 |  | 0 |
