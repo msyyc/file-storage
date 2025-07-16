@@ -32,6 +32,6 @@
 | 30 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. |  |
 | 31 | Release for DeploymentStacks - 2024-03-01  |  | [#6395](https://github.com/Azure/sdk-release-request/issues/6395)  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 |  |
 | 32 | Release for Container Service - 2025-05-02-preview  |  | [#6376](https://github.com/Azure/sdk-release-request/issues/6376)  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
-| 33 | Release for Container Service - 2025-04-02-preview  |  | [#6284](https://github.com/Azure/sdk-release-request/issues/6284)  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 34 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
+| 33 | Release for Storage - 2024-01-01  |  |  |  | [#6319](https://github.com/Azure/sdk-release-request/issues/6319)  | 06-19 | 06-30 |  |
+| 34 | Release for Container Service - 2025-04-02-preview  |  |  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
 | 35 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
