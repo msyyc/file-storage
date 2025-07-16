@@ -7,7 +7,7 @@
 | 5 | [#6377](https://github.com/Azure/sdk-release-request/issues/6377) | fumingzhang |  | qiaozha | Attention to inconsistent tag. | 07-02 | 07-24 |  |
 | 6 | [#6369](https://github.com/Azure/sdk-release-request/issues/6369) | anthony-c-martin |  | MaryGao | multi readme link! | 06-27 | 07-25 |  |
 | 7 | [#6364](https://github.com/Azure/sdk-release-request/issues/6364) | grizzlytheodore |  | MaryGao | new issue. new comment. | 06-26 | 07-25 |  |
-| 8 | [#6355](https://github.com/Azure/sdk-release-request/issues/6355) | audunn |  | MaryGao | new issue. | 06-24 | 07-25 |  |
+| 8 | [#6355](https://github.com/Azure/sdk-release-request/issues/6355) | audunn |  | MaryGao |  | 06-24 | 07-25 |  |
 | 9 | [#6346](https://github.com/Azure/sdk-release-request/issues/6346) | isaacbanner |  | MaryGao |  | 06-24 | 07-25 |  |
 | 10 | [#6342](https://github.com/Azure/sdk-release-request/issues/6342) | fumingzhang |  | MaryGao | new issue. | 06-24 | 07-24 |  |
 | 11 | [#6324](https://github.com/Azure/sdk-release-request/issues/6324) | liangchenmicrosoft |  | qiaozha | FirstGA. TypeSpec. | 06-19 | 07-25 |  |

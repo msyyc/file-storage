@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-servicebus,msyyc,msyyc,2025-07-15,2025-07-16,https://github.com/Azure/sdk-release-request/issues/6414,10.0.0b1,
 azure-mgmt-playwright,azure-sdk,ChenxiJiang333,2025-06-17,2025-07-15,https://github.com/Azure/sdk-release-request/issues/6300,1.0.0b1,
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-06-24,2025-07-15,https://github.com/Azure/sdk-release-request/issues/6343,38.0.0,True
 azure-mgmt-dns,msyyc,msyyc,2025-07-10,2025-07-15,https://github.com/Azure/sdk-release-request/issues/6400,9.0.0,True
