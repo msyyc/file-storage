@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Workload Orchestration GA   | [#6423](https://github.com/Azure/sdk-release-request/issues/6423)  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 |  |  |
+| 1 | Workload Orchestration GA   | [#6423](https://github.com/Azure/sdk-release-request/issues/6423)  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
 | 2 | [TypeSpec] Python SDK generate request for Storage Discovery  | [#6417](https://github.com/Azure/sdk-release-request/issues/6417)  |  |  |  | 07-15 | fail to get. |  |
 | 3 | [TypeSpec] Python SDK generate request for Recurring Scheduled Actions  | [#6412](https://github.com/Azure/sdk-release-request/issues/6412)  |  |  |  | 07-14 | fail to get. |  |
 | 4 | [TypeSpec] Python SDK generate request for ASZ-Arc VMs  | [#6409](https://github.com/Azure/sdk-release-request/issues/6409)  |  |  |  | 07-11 |  |  |

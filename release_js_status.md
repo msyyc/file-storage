@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6422](https://github.com/Azure/sdk-release-request/issues/6422) | atharvau |  | qiaozha |  | 07-16 |  | 0 |
+| 1 | [#6422](https://github.com/Azure/sdk-release-request/issues/6422) | atharvau |  | qiaozha | multi readme link! | 07-16 | 08-21 |  |
 | 2 | [#6397](https://github.com/Azure/sdk-release-request/issues/6397) | anthony-c-martin |  | MaryGao | multi readme link! | 07-09 | 07-25 |  |
 | 3 | [#6389](https://github.com/Azure/sdk-release-request/issues/6389) | anlandu |  | qiaozha | new issue. | 07-04 | 07-25 |  |
 | 4 | [#6384](https://github.com/Azure/sdk-release-request/issues/6384) | gansach |  | qiaozha | new issue. | 07-04 | 07-24 |  |
@@ -12,7 +12,7 @@
 | 10 | [#6346](https://github.com/Azure/sdk-release-request/issues/6346) | isaacbanner |  | MaryGao |  | 06-24 | 07-25 |  |
 | 11 | [#6342](https://github.com/Azure/sdk-release-request/issues/6342) | fumingzhang |  | MaryGao | new issue. | 06-24 | 07-24 |  |
 | 12 | [#6324](https://github.com/Azure/sdk-release-request/issues/6324) | liangchenmicrosoft |  | qiaozha | FirstGA. TypeSpec. | 06-19 | 07-25 |  |
-| 13 | [#6319](https://github.com/Azure/sdk-release-request/issues/6319) | blueww |  | qiaozha | new comment. | 06-19 | 06-30 |  |
+| 13 | [#6319](https://github.com/Azure/sdk-release-request/issues/6319) | blueww |  | qiaozha |  | 06-19 | 06-30 |  |
 | 14 | [#6304](https://github.com/Azure/sdk-release-request/issues/6304) | ramandhillon84 |  | qiaozha | Attention to inconsistent tag. HoldOn. | 06-17 | 07-25 |  |
 | 15 | [#6292](https://github.com/Azure/sdk-release-request/issues/6292) | CarlOchs |  | MaryGao |  | 06-13 | 07-25 |  |
 | 16 | [#6287](https://github.com/Azure/sdk-release-request/issues/6287) | omerdolev-ms |  | MaryGao | HoldOn. | 06-10 | 07-24 |  |
