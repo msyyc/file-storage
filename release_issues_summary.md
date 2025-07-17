@@ -25,7 +25,7 @@
 | 23 | Microsoft.DataMigration - 2025-03-15-preview  |  | [#6382](https://github.com/Azure/sdk-release-request/issues/6382)  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
 | 24 | Release for Container Service - 2025-05-01  |  |  | [#6341](https://github.com/Azure/sdk-release-request/issues/6341)  | [#6342](https://github.com/Azure/sdk-release-request/issues/6342)  | 06-24 | 07-24 |  |
 | 25 | [TypeSpec] Go SDK generate request for Storage Discovery  |  | [#6416](https://github.com/Azure/sdk-release-request/issues/6416)  |  |  | 07-15 | fail to get. |  |
-| 26 | [TypeSpec] Go SDK generate request for Recurring Scheduled Actions  |  | [#6411](https://github.com/Azure/sdk-release-request/issues/6411)  |  |  | 07-14 | fail to get. |  |
+| 26 | [TypeSpec] Go SDK generate request for Recurring Scheduled Actions  |  | [#6411](https://github.com/Azure/sdk-release-request/issues/6411)  |  |  | 07-14 | fail to get. | Hold on by Go/ |
 | 27 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. | Hold on by Go/ |
 | 28 | Release for DeploymentStacks - 2024-03-01  |  | [#6395](https://github.com/Azure/sdk-release-request/issues/6395)  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 |  |
 | 29 | Release for Container Service - 2025-05-02-preview  |  | [#6376](https://github.com/Azure/sdk-release-request/issues/6376)  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |

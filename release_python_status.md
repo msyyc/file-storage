@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6425](https://github.com/Azure/sdk-release-request/issues/6425) | msyyc | azure-mgmt-resource | msyyc | close to release date. | 07-16 | 07-20 | 2 |
+| 1 | [#6425](https://github.com/Azure/sdk-release-request/issues/6425) | msyyc | azure-mgmt-resource | msyyc | new issue. new comment. close to release date. | 07-16 | 07-20 | 2 |
 | 2 | [#6423](https://github.com/Azure/sdk-release-request/issues/6423) | atharvau |  | ChenxiJiang333 | duplicated issue  <br> | 07-16 |  | 0 |
 | 3 | [#6417](https://github.com/Azure/sdk-release-request/issues/6417) | shanefujs | azure-mgmt-storagediscovery | ChenxiJiang333 | FirstBeta. TypeSpec. | 07-15 | fail to get. |  |
 | 4 | [#6412](https://github.com/Azure/sdk-release-request/issues/6412) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | HoldOn. TypeSpec. | 07-14 | fail to get. |  |
