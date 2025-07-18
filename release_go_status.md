@@ -4,7 +4,7 @@
 | 2 | [#6420](https://github.com/Azure/sdk-release-request/issues/6420) | atharvau |  | jliusan | multi readme link! | 07-16 | 08-21 |  |
 | 3 | [#6416](https://github.com/Azure/sdk-release-request/issues/6416) | shanefujs |  | jliusan | Attention to inconsistent tag. FirstBeta. | 07-15 | fail to get. |  |
 | 4 | [#6411](https://github.com/Azure/sdk-release-request/issues/6411) | NneOkeke |  | jliusan | Attention to inconsistent tag. | 07-14 | fail to get. |  |
-| 5 | [#6406](https://github.com/Azure/sdk-release-request/issues/6406) | shraddhasun |  | jliusan | new comment. multi readme link! HoldOn. | 07-11 | fail to get. |  |
+| 5 | [#6406](https://github.com/Azure/sdk-release-request/issues/6406) | shraddhasun |  | jliusan | multi readme link! HoldOn. | 07-11 | fail to get. |  |
 | 6 | [#6395](https://github.com/Azure/sdk-release-request/issues/6395) | anthony-c-martin |  | jliusan | multi readme link! | 07-09 | 07-25 |  |
 | 7 | [#6392](https://github.com/Azure/sdk-release-request/issues/6392) | wendychang_microsoft |  | jliusan |  | 07-08 | 07-25 |  |
 | 8 | [#6387](https://github.com/Azure/sdk-release-request/issues/6387) | anlandu |  | jliusan |  | 07-04 | 07-25 |  |

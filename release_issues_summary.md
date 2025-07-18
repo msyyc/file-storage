@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [TypeSpec] Python SDK generate request for Azure Monitor Grafana  | [#6426](https://github.com/Azure/sdk-release-request/issues/6426)  |  |  |  | 07-17 | fail to get. |  |
 | 2 | Workload Orchestration GA   | [#6423](https://github.com/Azure/sdk-release-request/issues/6423)  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
-| 3 | [TypeSpec] Python SDK generate request for Storage Discovery  | [#6417](https://github.com/Azure/sdk-release-request/issues/6417)  |  |  |  | 07-15 | fail to get. |  |
+| 3 | [TypeSpec] Python SDK generate request for Recurring Scheduled Actions  | [#6412](https://github.com/Azure/sdk-release-request/issues/6412)  |  |  |  | 07-14 | fail to get. |  |
 | 4 | [TypeSpec] Python SDK generate request for ASZ-Arc VMs  | [#6409](https://github.com/Azure/sdk-release-request/issues/6409)  |  |  |  | 07-11 |  |  |
 | 5 | Release for Policy Insights - Api-version 2024-10  | [#6390](https://github.com/Azure/sdk-release-request/issues/6390)  | [#6387](https://github.com/Azure/sdk-release-request/issues/6387)  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  | [#6389](https://github.com/Azure/sdk-release-request/issues/6389)  | 07-04 | 07-25 |  |
 | 6 | Release for EventGrid - 2025-04-01-preview  | [#6381](https://github.com/Azure/sdk-release-request/issues/6381)  |  | [#6379](https://github.com/Azure/sdk-release-request/issues/6379)  | [#6380](https://github.com/Azure/sdk-release-request/issues/6380)  | 07-02 | 07-24 |  |
