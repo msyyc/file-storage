@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-resource,msyyc,msyyc,2025-07-16,2025-07-18,https://github.com/Azure/sdk-release-request/issues/6425,25.0.0b1,
 azure-mgmt-eventhub,msyyc,msyyc,2025-07-15,2025-07-16,https://github.com/Azure/sdk-release-request/issues/6415,12.0.0b1,
 azure-mgmt-servicebus,msyyc,msyyc,2025-07-15,2025-07-16,https://github.com/Azure/sdk-release-request/issues/6414,10.0.0b1,
 azure-mgmt-playwright,azure-sdk,ChenxiJiang333,2025-06-17,2025-07-15,https://github.com/Azure/sdk-release-request/issues/6300,1.0.0b1,
