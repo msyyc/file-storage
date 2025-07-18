@@ -42,7 +42,10 @@
     "azure-mgmt-cloudhealth",
     "azure-mgmt-resource-bicep",
     "azure-mgmt-containerservicesafeguards",
-    "azure-mgmt-hardwaresecuritymodules"
+    "azure-mgmt-hardwaresecuritymodules",
+    "azure-mgmt-storagediscovery",
+    "azure-mgmt-dashboard",
+    "azure-mgmt-storageactions"
   ],
   "js": [],
   "go": [],
