@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6430](https://github.com/Azure/sdk-release-request/issues/6430) | briantkim93 |  | jliusan | new issue. | 07-18 | 08-21 |  |
-| 2 | [#6427](https://github.com/Azure/sdk-release-request/issues/6427) | joshelton1 |  | jliusan | new issue. Attention to inconsistent tag. | 07-17 | fail to get. |  |
+| 1 | [#6430](https://github.com/Azure/sdk-release-request/issues/6430) | briantkim93 |  | jliusan |  | 07-18 | 08-21 |  |
+| 2 | [#6427](https://github.com/Azure/sdk-release-request/issues/6427) | joshelton1 |  | jliusan | Attention to inconsistent tag. | 07-17 | fail to get. |  |
 | 3 | [#6420](https://github.com/Azure/sdk-release-request/issues/6420) | atharvau |  | jliusan | multi readme link! | 07-16 | 08-21 |  |
 | 4 | [#6416](https://github.com/Azure/sdk-release-request/issues/6416) | shanefujs |  | jliusan | Attention to inconsistent tag. FirstBeta. | 07-15 | fail to get. |  |
 | 5 | [#6411](https://github.com/Azure/sdk-release-request/issues/6411) | NneOkeke |  | jliusan | Attention to inconsistent tag. | 07-14 | fail to get. |  |
