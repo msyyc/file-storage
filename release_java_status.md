@@ -13,6 +13,5 @@
 | 11 | [#6345](https://github.com/Azure/sdk-release-request/issues/6345) | isaacbanner |  | v-hongli1 |  | 06-24 | 07-25 |  |
 | 12 | [#6341](https://github.com/Azure/sdk-release-request/issues/6341) | fumingzhang |  | v-hongli1 | close to release date. | 06-24 | 07-24 | 2 |
 | 13 | [#6303](https://github.com/Azure/sdk-release-request/issues/6303) | ramandhillon84 |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 06-17 | 07-25 |  |
-| 14 | [#6291](https://github.com/Azure/sdk-release-request/issues/6291) | CarlOchs |  | weidongxu-microsoft | new issue. | 06-13 | 07-25 |  |
-| 15 | [#6105](https://github.com/Azure/sdk-release-request/issues/6105) | mattgotteiner |  | v-hongli1 | close to release date. HoldOn. | 04-27 | 07-24 | 2 |
-| 16 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 14 | [#6105](https://github.com/Azure/sdk-release-request/issues/6105) | mattgotteiner |  | v-hongli1 | close to release date. HoldOn. | 04-27 | 07-24 | 2 |
+| 15 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
