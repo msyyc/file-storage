@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 |  | 07-18 | 08-21 |  |
-| 2 | [#6426](https://github.com/Azure/sdk-release-request/issues/6426) | joshelton1 | azure-mgmt-dashboard | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 07-17 | fail to get. |  |
+| 2 | [#6426](https://github.com/Azure/sdk-release-request/issues/6426) | joshelton1 | azure-mgmt-dashboard | ChenxiJiang333 | duplicated issue  <br> TypeSpec. | 07-17 | fail to get. |  |
 | 3 | [#6423](https://github.com/Azure/sdk-release-request/issues/6423) | atharvau |  | ChenxiJiang333 | duplicated issue  <br> | 07-16 |  | 0 |
 | 4 | [#6412](https://github.com/Azure/sdk-release-request/issues/6412) | NneOkeke | azure-mgmt-computeschedule | ChenxiJiang333 | TypeSpec. | 07-14 | fail to get. |  |
 | 5 | [#6409](https://github.com/Azure/sdk-release-request/issues/6409) | shraddhasun |  | ChenxiJiang333 | duplicated issue  <br> | 07-11 |  | 0 |
