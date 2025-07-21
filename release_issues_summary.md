@@ -31,4 +31,4 @@
 | 29 | Release for NetAppFiles - 2025-03-01  |  |  |  | [#6355](https://github.com/Azure/sdk-release-request/issues/6355)  | 06-24 | 07-25 |  |
 | 30 | Cognitive Services - 2025-06-01 Release  |  |  |  | [#6292](https://github.com/Azure/sdk-release-request/issues/6292)  | 06-13 | 07-25 |  |
 | 31 | Release for Container Service - 2025-04-02-preview  |  |  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 32 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 | Hold on by JS/ |
+| 32 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
