@@ -9,9 +9,8 @@
 | 7 | [#6383](https://github.com/Azure/sdk-release-request/issues/6383) | gansach |  | v-hongli1 | close to release date. | 07-04 | 07-24 | 2 |
 | 8 | [#6379](https://github.com/Azure/sdk-release-request/issues/6379) | bbi2015 |  | XiaofeiCao | new issue. close to release date. | 07-02 | 07-24 | 2 |
 | 9 | [#6363](https://github.com/Azure/sdk-release-request/issues/6363) | grizzlytheodore |  | XiaofeiCao |  | 06-26 | 07-25 |  |
-| 10 | [#6354](https://github.com/Azure/sdk-release-request/issues/6354) | audunn |  | weidongxu-microsoft | new issue. | 06-24 | 07-25 |  |
-| 11 | [#6345](https://github.com/Azure/sdk-release-request/issues/6345) | isaacbanner |  | v-hongli1 |  | 06-24 | 07-25 |  |
-| 12 | [#6341](https://github.com/Azure/sdk-release-request/issues/6341) | fumingzhang |  | v-hongli1 | close to release date. | 06-24 | 07-24 | 2 |
-| 13 | [#6303](https://github.com/Azure/sdk-release-request/issues/6303) | ramandhillon84 |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 06-17 | 07-25 |  |
-| 14 | [#6105](https://github.com/Azure/sdk-release-request/issues/6105) | mattgotteiner |  | v-hongli1 | close to release date. HoldOn. | 04-27 | 07-24 | 2 |
-| 15 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 10 | [#6345](https://github.com/Azure/sdk-release-request/issues/6345) | isaacbanner |  | v-hongli1 |  | 06-24 | 07-25 |  |
+| 11 | [#6341](https://github.com/Azure/sdk-release-request/issues/6341) | fumingzhang |  | v-hongli1 | close to release date. | 06-24 | 07-24 | 2 |
+| 12 | [#6303](https://github.com/Azure/sdk-release-request/issues/6303) | ramandhillon84 |  | v-hongli1 | Attention to inconsistent tag. HoldOn. | 06-17 | 07-25 |  |
+| 13 | [#6105](https://github.com/Azure/sdk-release-request/issues/6105) | mattgotteiner |  | v-hongli1 | close to release date. HoldOn. | 04-27 | 07-24 | 2 |
+| 14 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
