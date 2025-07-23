@@ -3,7 +3,7 @@
 | 1 | [#6438](https://github.com/Azure/sdk-release-request/issues/6438) | helen229 |  | v-hongli1 | new issue. Attention to inconsistent tag. | 07-22 | fail to get. |  |
 | 2 | [#6431](https://github.com/Azure/sdk-release-request/issues/6431) | briantkim93 |  | weidongxu-microsoft | new issue. | 07-18 | 08-21 |  |
 | 3 | [#6421](https://github.com/Azure/sdk-release-request/issues/6421) | atharvau |  | haolingdong-msft | multi readme link! | 07-16 | 08-21 |  |
-| 4 | [#6410](https://github.com/Azure/sdk-release-request/issues/6410) | NneOkeke |  | haolingdong-msft | new comment. Attention to inconsistent tag. | 07-14 | fail to get. |  |
+| 4 | [#6410](https://github.com/Azure/sdk-release-request/issues/6410) | NneOkeke |  | haolingdong-msft | Attention to inconsistent tag. | 07-14 | fail to get. |  |
 | 5 | [#6407](https://github.com/Azure/sdk-release-request/issues/6407) | shraddhasun |  | v-hongli1 | new comment. multi readme link! | 07-11 | fail to get. |  |
 | 6 | [#6394](https://github.com/Azure/sdk-release-request/issues/6394) | wendychang_microsoft |  | v-hongli1 | close to release date. | 07-08 | 07-25 | 1 |
 | 7 | [#6388](https://github.com/Azure/sdk-release-request/issues/6388) | anlandu |  | haolingdong-msft | new issue. close to release date. | 07-04 | 07-25 | 1 |
