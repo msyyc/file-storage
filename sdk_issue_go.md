@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#24945](https://github.com/Azure/azure-sdk-for-go/issues/24945)|Unsupported API Version for Deleting NRT Alert RUles|question, Mgmt, customer-reported, SecurityInsights|lirenhe|new comment|2025-07-17|
+|1|[#24945](https://github.com/Azure/azure-sdk-for-go/issues/24945)|Unsupported API Version for Deleting NRT Alert RUles|question, Mgmt, customer-reported, SecurityInsights, issue-addressed|lirenhe||2025-07-17|
 |2|[#24798](https://github.com/Azure/azure-sdk-for-go/issues/24798)|SQL Database API version is old|question, SQL, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-06-15|
 |3|[#24655](https://github.com/Azure/azure-sdk-for-go/issues/24655)|armresource.ClientListOptions  when resources are filtered by tag does the returned result will contains the original tags|question, Service Attention, Mgmt, customer-reported, ARM - Core, Resource Graph, needs-team-attention|lirenhe||2025-05-20|
 |4|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-02-12|
-|5|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|lirenhe, JiaqiZhang-Dev|new comment|2025-02-11|
+|5|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|JiaqiZhang-Dev, lirenhe|new comment|2025-02-11|
 |6|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |7|[#23669](https://github.com/Azure/azure-sdk-for-go/issues/23669)|Appcomplianceautomation report list pager returns 401|question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-10-29|
 |8|[#23506](https://github.com/Azure/azure-sdk-for-go/issues/23506)|Upgrade API Management package to latest REST API 2024-05-01 or higher|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-26|
