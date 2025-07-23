@@ -15,7 +15,7 @@
 | 13 | [TypeSpec] Java SDK generate request for Release Planner Test Product  |  |  | [#6438](https://github.com/Azure/sdk-release-request/issues/6438)  |  | 07-22 | fail to get. |  |
 | 14 | [TypeSpec] Java SDK generate request for Recurring Scheduled Actions  |  |  | [#6410](https://github.com/Azure/sdk-release-request/issues/6410)  |  | 07-14 | fail to get. |  |
 | 15 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. |  |
-| 16 | Release for ProviderHub 2024-09-01  |  | [#6392](https://github.com/Azure/sdk-release-request/issues/6392)  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
+| 16 | Release for ProviderHub 2024-09-01  |  |  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
 | 17 | Release for Policy Insights - Api-version 2024-10  |  |  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  |  | 07-04 | 07-25 |  |
 | 18 | Microsoft.DataMigration - 2025-03-15-preview  |  |  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
 | 19 | Release for EventGrid - 2025-04-01-preview  |  |  | [#6379](https://github.com/Azure/sdk-release-request/issues/6379)  | [#6380](https://github.com/Azure/sdk-release-request/issues/6380)  | 07-02 | 07-24 |  |
