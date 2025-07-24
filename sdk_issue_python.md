@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#42181](https://github.com/Azure/azure-sdk-for-python/issues/42181)|Scheduled query rules API 2021-08-01 missing|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2025-07-23|
+|1|[#42181](https://github.com/Azure/azure-sdk-for-python/issues/42181)|Scheduled query rules API 2021-08-01 missing|question, Monitor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc||2025-07-23|
 |2|[#41862](https://github.com/Azure/azure-sdk-for-python/issues/41862)|[Bug] Batch mount storage account blob: AzureBlobFileSystemConfiguration endpoint cannot be modified|question, Batch, Service Attention, Mgmt, customer-reported, issue-addressed|msyyc||2025-07-02|
 |3|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|zhoxing-ms, msyyc|new comment|2025-06-27|
 |4|[#41816](https://github.com/Azure/azure-sdk-for-python/issues/41816)|Update API for azure-mgmt-security SDK to the latest version.|question, Security, Mgmt, customer-reported, needs-author-feedback|msyyc||2025-06-27|
@@ -16,4 +16,4 @@
 |14|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |15|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
 |16|[#31541](https://github.com/Azure/azure-sdk-for-python/issues/31541)|Upload DatasetResource with DataFactoryManagementClient.create_or_update() adds non-wanted piece of code to dataset json|question, Data Factory, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2023-08-09|
-|17|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|lmazuel, iscai-msft, msyyc|new comment|2021-04-05|
+|17|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, iscai-msft, lmazuel|new comment|2021-04-05|
