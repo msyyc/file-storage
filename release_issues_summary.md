@@ -15,7 +15,7 @@
 | 13 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
 | 14 | [TypeSpec] Java SDK generate request for Release Planner Test Product  |  |  | [#6438](https://github.com/Azure/sdk-release-request/issues/6438)  |  | 07-22 | fail to get. |  |
 | 15 | [TypeSpec] Java SDK generate request for Recurring Scheduled Actions  |  |  | [#6410](https://github.com/Azure/sdk-release-request/issues/6410)  |  | 07-14 | fail to get. |  |
-| 16 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. |  |
+| 16 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. | Hold on by Java/ |
 | 17 | Release for ProviderHub 2024-09-01  |  |  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
 | 18 | Release for Policy Insights - Api-version 2024-10  |  |  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  |  | 07-04 | 07-25 |  |
 | 19 | Microsoft.DataMigration - 2025-03-15-preview  |  |  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
