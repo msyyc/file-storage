@@ -1,11 +1,11 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, needs-triage|weidongxu-microsoft, XiaofeiCao||2025-07-24|
+|1|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, needs-triage|XiaofeiCao, weidongxu-microsoft||2025-07-24|
 |2|[#46009](https://github.com/Azure/azure-sdk-for-java/issues/46009)|[mgmt] package specific generate script in some separated premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |3|[#46007](https://github.com/Azure/azure-sdk-for-java/issues/46007)|[mgmt] selectively enable `modelerfour.lenient-model-deduplication` for premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |4|[#45993](https://github.com/Azure/azure-sdk-for-java/issues/45993)|[mgmt] move premium packages to separate folder|Mgmt|XiaofeiCao||2025-07-11|
 |5|[#45957](https://github.com/Azure/azure-sdk-for-java/issues/45957)|[mgmt] release azure-resourcemanager-test for self-serve premium packages|Mgmt|XiaofeiCao||2025-07-10|
-|6|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2025-07-07|
+|6|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
 |7|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
 |8|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
 |9|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
@@ -24,7 +24,7 @@
 |22|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |23|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
 |24|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
-|25|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
+|25|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |26|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |27|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |28|[#40553](https://github.com/Azure/azure-sdk-for-java/issues/40553)|Azure Resource Manager Creation is stuck in kubernetes cluster environment|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-06-07|
@@ -37,11 +37,11 @@
 |35|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|question, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |36|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
 |37|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
-|38|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
+|38|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-11-24|
 |39|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |40|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |41|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|42|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|42|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
 |43|[#36808](https://github.com/Azure/azure-sdk-for-java/issues/36808)|[BUG] Azure Java SDK timeout requesting target resources|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-09-18|
 |44|[#36781](https://github.com/Azure/azure-sdk-for-java/issues/36781)|How to set api version for cdnmanager|question, Network - CDN, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-09-15|
 |45|[#36763](https://github.com/Azure/azure-sdk-for-java/issues/36763)|Authentication method for Proxy in AzureResourceManager|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2023-09-14|
@@ -50,5 +50,5 @@
 |48|[#36598](https://github.com/Azure/azure-sdk-for-java/issues/36598)|linkedstorageaccounts.get produces stack trace on success message concatenation|question, Monitor, Mgmt, customer-reported|weidongxu-microsoft||2023-08-30|
 |49|[#36552](https://github.com/Azure/azure-sdk-for-java/issues/36552)|[FEATURE REQ] mgmt function app, convenience API for container app `daprConfig` and `managedEnvironmentId`|Mgmt, Mgmt - Track 2|XiaofeiCao||2023-08-28|
 |50|[#36394](https://github.com/Azure/azure-sdk-for-java/issues/36394)|[BUG] SecurityInsightsImpl NoRegisteredProviderFound|question, Service Attention, Mgmt, customer-reported, needs-team-triage, SecurityInsights|XiaofeiCao||2023-08-18|
-|51|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2023-08-14|
+|51|[#36332](https://github.com/Azure/azure-sdk-for-java/issues/36332)|[BUG] ApiManagement - apiExports().get() returning null on all fields except 'id'|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2023-08-14|
 |52|[#36122](https://github.com/Azure/azure-sdk-for-java/issues/36122)|[FEATURE REQ] Re-check private endpoint support in Application Gateway|Mgmt|XiaofeiCao||2023-07-27|
