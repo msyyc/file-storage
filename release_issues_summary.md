@@ -14,21 +14,20 @@
 | 12 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 13 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
 | 14 | [TypeSpec] Java SDK generate request for Release Planner Test Product  |  |  | [#6438](https://github.com/Azure/sdk-release-request/issues/6438)  |  | 07-22 | fail to get. |  |
-| 15 | [TypeSpec] Java SDK generate request for Recurring Scheduled Actions  |  |  | [#6410](https://github.com/Azure/sdk-release-request/issues/6410)  |  | 07-14 | fail to get. |  |
-| 16 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. | Hold on by Java/ |
-| 17 | Release for ProviderHub 2024-09-01  |  |  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
-| 18 | Release for Policy Insights - Api-version 2024-10  |  |  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  |  | 07-04 | 07-25 |  |
-| 19 | Microsoft.DataMigration - 2025-03-15-preview  |  |  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
-| 20 | Release for EventGrid - 2025-04-01-preview  |  |  | [#6379](https://github.com/Azure/sdk-release-request/issues/6379)  | [#6380](https://github.com/Azure/sdk-release-request/issues/6380)  | 07-02 | 07-24 |  |
-| 21 | Release for Managed Service Identity 2024-11-30  |  |  | [#6345](https://github.com/Azure/sdk-release-request/issues/6345)  | [#6346](https://github.com/Azure/sdk-release-request/issues/6346)  | 06-24 | 07-25 |  |
-| 22 | Release for Container Service - 2025-05-01  |  |  | [#6341](https://github.com/Azure/sdk-release-request/issues/6341)  | [#6342](https://github.com/Azure/sdk-release-request/issues/6342)  | 06-24 | 07-24 |  |
-| 23 | Release for Search - 2025-05-01  |  |  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 07-24 | Hold on by Java/ |
-| 24 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |
-| 25 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. | Hold on by Go/ |
-| 26 | Release for DeploymentStacks - 2024-03-01  |  | [#6395](https://github.com/Azure/sdk-release-request/issues/6395)  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
-| 27 | Release for Deployments - 2025-04-01  |  | [#6367](https://github.com/Azure/sdk-release-request/issues/6367)  |  |  | 06-27 | 07-25 |  |
-| 28 | Release for Container Service - 2025-05-02-preview  |  |  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
-| 29 | Release for NetAppFiles - 2025-03-01  |  |  |  | [#6355](https://github.com/Azure/sdk-release-request/issues/6355)  | 06-24 | 07-25 |  |
-| 30 | Cognitive Services - 2025-06-01 Release  |  |  |  | [#6292](https://github.com/Azure/sdk-release-request/issues/6292)  | 06-13 | 07-25 |  |
-| 31 | Release for Container Service - 2025-04-02-preview  |  |  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
-| 32 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
+| 15 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. | Hold on by Java/ |
+| 16 | Release for ProviderHub 2024-09-01  |  |  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
+| 17 | Release for Policy Insights - Api-version 2024-10  |  |  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  |  | 07-04 | 07-25 |  |
+| 18 | Microsoft.DataMigration - 2025-03-15-preview  |  |  | [#6383](https://github.com/Azure/sdk-release-request/issues/6383)  | [#6384](https://github.com/Azure/sdk-release-request/issues/6384)  | 07-04 | 07-24 |  |
+| 19 | Release for EventGrid - 2025-04-01-preview  |  |  | [#6379](https://github.com/Azure/sdk-release-request/issues/6379)  | [#6380](https://github.com/Azure/sdk-release-request/issues/6380)  | 07-02 | 07-24 |  |
+| 20 | Release for Managed Service Identity 2024-11-30  |  |  | [#6345](https://github.com/Azure/sdk-release-request/issues/6345)  | [#6346](https://github.com/Azure/sdk-release-request/issues/6346)  | 06-24 | 07-25 |  |
+| 21 | Release for Container Service - 2025-05-01  |  |  | [#6341](https://github.com/Azure/sdk-release-request/issues/6341)  | [#6342](https://github.com/Azure/sdk-release-request/issues/6342)  | 06-24 | 07-24 |  |
+| 22 | Release for Search - 2025-05-01  |  |  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  | [#6106](https://github.com/Azure/sdk-release-request/issues/6106)  | 04-27 | 07-24 | Hold on by Java/ |
+| 23 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |
+| 24 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. | Hold on by Go/ |
+| 25 | Release for DeploymentStacks - 2024-03-01  |  | [#6395](https://github.com/Azure/sdk-release-request/issues/6395)  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
+| 26 | Release for Deployments - 2025-04-01  |  | [#6367](https://github.com/Azure/sdk-release-request/issues/6367)  |  |  | 06-27 | 07-25 |  |
+| 27 | Release for Container Service - 2025-05-02-preview  |  |  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
+| 28 | Release for NetAppFiles - 2025-03-01  |  |  |  | [#6355](https://github.com/Azure/sdk-release-request/issues/6355)  | 06-24 | 07-25 |  |
+| 29 | Cognitive Services - 2025-06-01 Release  |  |  |  | [#6292](https://github.com/Azure/sdk-release-request/issues/6292)  | 06-13 | 07-25 |  |
+| 30 | Release for Container Service - 2025-04-02-preview  |  |  |  | [#6283](https://github.com/Azure/sdk-release-request/issues/6283)  | 06-10 | 07-24 |  |
+| 31 | Release for Resources - 2025-04-01  |  |  |  | [#6208](https://github.com/Azure/sdk-release-request/issues/6208)  | 05-14 | 06-20 |  |
