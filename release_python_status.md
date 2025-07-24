@@ -1,7 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6441](https://github.com/Azure/sdk-release-request/issues/6441) | msyyc | azure-mgmt-applicationinsights | msyyc | new issue. | 07-24 | 07-28 |  |
-| 2 | [#6440](https://github.com/Azure/sdk-release-request/issues/6440) | msyyc | azure-mgmt-authorization | msyyc | close to release date. | 07-23 | 07-27 | 2 |
 | 3 | [#6435](https://github.com/Azure/sdk-release-request/issues/6435) | lixiachena | azure-mgmt-sql | ChenxiJiang333 |  | 07-21 | 08-22 |  |
 | 4 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 |  | 07-18 | 08-21 |  |
 | 5 | [#6426](https://github.com/Azure/sdk-release-request/issues/6426) | joshelton1 | azure-mgmt-dashboard | ChenxiJiang333 | TypeSpec. | 07-17 | fail to get. |  |
