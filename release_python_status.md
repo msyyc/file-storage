@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> new issue. | 07-25 | 08-21 |  |
+| 1 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> | 07-25 | 08-21 |  |
 | 2 | [#6442](https://github.com/Azure/sdk-release-request/issues/6442) | msyyc | azure-mgmt-monitor | ChenxiJiang333 |  | 07-25 | 07-29 |  |
 | 3 | [#6435](https://github.com/Azure/sdk-release-request/issues/6435) | lixiachena | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> | 07-21 | 08-22 |  |
 | 4 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 |  | 07-18 | 08-21 |  |
