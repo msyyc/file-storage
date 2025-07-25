@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> new issue. | 07-25 | 08-21 |  |
 | 2 | [#6442](https://github.com/Azure/sdk-release-request/issues/6442) | msyyc | azure-mgmt-monitor | ChenxiJiang333 |  | 07-25 | 07-29 |  |
-| 3 | [#6441](https://github.com/Azure/sdk-release-request/issues/6441) | msyyc | azure-mgmt-applicationinsights | msyyc | close to release date. | 07-24 | 07-28 | 2 |
 | 4 | [#6435](https://github.com/Azure/sdk-release-request/issues/6435) | lixiachena | azure-mgmt-sql | ChenxiJiang333 | duplicated issue  <br> | 07-21 | 08-22 |  |
 | 5 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 |  | 07-18 | 08-21 |  |
 | 6 | [#6426](https://github.com/Azure/sdk-release-request/issues/6426) | joshelton1 | azure-mgmt-dashboard | ChenxiJiang333 | TypeSpec. | 07-17 | fail to get. |  |
