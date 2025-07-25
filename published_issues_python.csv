@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,azure-sdk,ChenxiJiang333,2025-06-26,2025-07-25,https://github.com/Azure/sdk-release-request/issues/6365,35.0.0,True
 azure-mgmt-carbonoptimization,azure-sdk,ChenxiJiang333,2025-06-19,2025-07-25,https://github.com/Azure/sdk-release-request/issues/6325,1.0.0,True
 azure-mgmt-authorization,msyyc,msyyc,2025-07-23,2025-07-24,https://github.com/Azure/sdk-release-request/issues/6440,5.0.0b1,
 azure-mgmt-storagediscovery,azure-sdk,ChenxiJiang333,2025-07-15,2025-07-23,https://github.com/Azure/sdk-release-request/issues/6417,1.0.0b1,
