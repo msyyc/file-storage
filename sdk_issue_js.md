@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#34865](https://github.com/Azure/azure-sdk-for-js/issues/34865)|Streamanalytics pricing should allow Standardv2|question, customer-reported, Mgmt, Service Attention, Stream Analytics, needs-team-attention|kazrael2119, MaryGao|new comment|2025-06-18|
 |2|[#34779](https://github.com/Azure/azure-sdk-for-js/issues/34779)|arm-cosmosdb 16.3.0 still missing fullTextIndexes after FullTextPath was added|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2025-06-11|
-|3|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|kazrael2119, v-jiaodi, MaryGao|new issue|2025-05-08|
+|3|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|v-jiaodi, kazrael2119, MaryGao|new issue|2025-05-08|
 |4|[#34085](https://github.com/Azure/azure-sdk-for-js/issues/34085)|`ipv6Rules` missing from `NetworkRule` type|question, customer-reported, Mgmt, Storage, Service Attention, needs-team-attention|qiaozha|new comment|2025-04-28|
 |5|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|MaryGao|new comment|2025-04-17|
 |6|[#33035](https://github.com/Azure/azure-sdk-for-js/issues/33035)|SubscriptionClient.subscriptions.get SubscriptionNotFound Error is in the wrong format|bug, customer-reported, Mgmt, Subscription, needs-team-attention|kazrael2119, qiaozha|new comment|2025-02-13|
