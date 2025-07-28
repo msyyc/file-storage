@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6444](https://github.com/Azure/sdk-release-request/issues/6444) | mohitagarwal-sql |  | haolingdong-msft | new issue. | 07-25 | 08-21 |  |
 | 2 | [#6438](https://github.com/Azure/sdk-release-request/issues/6438) | helen229 |  | v-hongli1 | new issue. Attention to inconsistent tag. | 07-22 | fail to get. |  |
-| 3 | [#6431](https://github.com/Azure/sdk-release-request/issues/6431) | briantkim93 |  | weidongxu-microsoft | new issue. | 07-18 | 08-21 |  |
+| 3 | [#6431](https://github.com/Azure/sdk-release-request/issues/6431) | briantkim93 |  | weidongxu-microsoft | new issue. TypeSpec. | 07-18 | 08-21 |  |
 | 4 | [#6421](https://github.com/Azure/sdk-release-request/issues/6421) | atharvau |  | haolingdong-msft | multi readme link! | 07-16 | 08-21 |  |
 | 5 | [#6407](https://github.com/Azure/sdk-release-request/issues/6407) | shraddhasun |  | v-hongli1 | new comment. multi readme link! HoldOn. | 07-11 | fail to get. |  |
 | 6 | [#6394](https://github.com/Azure/sdk-release-request/issues/6394) | wendychang_microsoft |  | v-hongli1 |  | 07-08 | 07-25 |  |

@@ -19,5 +19,4 @@
 | 17 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |
 | 18 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. | Hold on by Go/ |
 | 19 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
-| 20 | Release for Container Service - 2025-05-02-preview  |  |  |  | [#6377](https://github.com/Azure/sdk-release-request/issues/6377)  | 07-02 | 07-24 |  |
-| 21 | Azure Compute DiskRP 2025-01-02   |  |  |  | [#6364](https://github.com/Azure/sdk-release-request/issues/6364)  | 06-26 | 07-25 |  |
+| 20 | Azure Compute DiskRP 2025-01-02   |  |  |  | [#6364](https://github.com/Azure/sdk-release-request/issues/6364)  | 06-26 | 07-25 |  |
