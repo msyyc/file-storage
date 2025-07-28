@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | Release request for Release for monitor (only for python)  | [#6442](https://github.com/Azure/sdk-release-request/issues/6442)  |  |  |  | 07-25 | 07-29 |  |
-| 2 | Release azure-mgmt-sql for 2024-11-01-preview  | [#6435](https://github.com/Azure/sdk-release-request/issues/6435)  |  |  |  | 07-21 | 08-22 |  |
+| 2 | Release azure-mgmt-sql for 2024-11-01-preview  | [#6435](https://github.com/Azure/sdk-release-request/issues/6435)  |  |  |  | 07-21 | 08-01 |  |
 | 3 | Nginx SDK Release for 2025-03-01-preview  | [#6433](https://github.com/Azure/sdk-release-request/issues/6433)  | [#6430](https://github.com/Azure/sdk-release-request/issues/6430)  | [#6431](https://github.com/Azure/sdk-release-request/issues/6431)  | [#6432](https://github.com/Azure/sdk-release-request/issues/6432)  | 07-18 | 08-21 |  |
 | 4 | [TypeSpec] Python SDK generate request for Azure Monitor Grafana  | [#6426](https://github.com/Azure/sdk-release-request/issues/6426)  |  |  |  | 07-17 | fail to get. |  |
 | 5 | Workload Orchestration GA   | [#6423](https://github.com/Azure/sdk-release-request/issues/6423)  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
