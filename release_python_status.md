@@ -9,4 +9,4 @@
 | 7 | [#6305](https://github.com/Azure/sdk-release-request/issues/6305) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | HoldOn. | 06-17 | 07-25 |  |
 | 8 | [#6288](https://github.com/Azure/sdk-release-request/issues/6288) | omerdolev-ms | azure-mgmt-healthbot | ChenxiJiang333 | HoldOn. | 06-10 | 07-24 |  |
 | 9 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | HoldOn. | 05-21 | 06-19 |  |
-| 10 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 11 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
