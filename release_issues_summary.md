@@ -9,13 +9,13 @@
 | 7 | Private IP Address prefix  | [#6305](https://github.com/Azure/sdk-release-request/issues/6305)  | [#6302](https://github.com/Azure/sdk-release-request/issues/6302)  | [#6303](https://github.com/Azure/sdk-release-request/issues/6303)  |  | 06-17 | 07-25 | Hold on by Java/Go/Python/ |
 | 8 | Release for Healthcare Agent - 2025-05-25  | [#6288](https://github.com/Azure/sdk-release-request/issues/6288)  | [#6285](https://github.com/Azure/sdk-release-request/issues/6285)  |  | [#6287](https://github.com/Azure/sdk-release-request/issues/6287)  | 06-10 | 07-24 | Hold on by JS/Go/Python/ |
 | 9 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
-| 10 | [TypeSpec] Python SDK generate request for Dell OneFS Azure Native Service  | [#6117](https://github.com/Azure/sdk-release-request/issues/6117)  |  |  |  | 04-30 | fail to get. |  |
-| 11 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 12 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. | Hold on by Java/ |
-| 13 | Release for ProviderHub 2024-09-01  |  |  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
-| 14 | Release for Policy Insights - Api-version 2024-10  |  |  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  |  | 07-04 | 07-25 |  |
-| 15 | Release for Search - 2025-05-01  |  |  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  |  | 04-27 | 07-24 |  |
-| 16 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |
-| 17 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. | Hold on by Go/ |
+| 10 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
+| 11 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. | Hold on by Java/ |
+| 12 | Release for ProviderHub 2024-09-01  |  |  | [#6394](https://github.com/Azure/sdk-release-request/issues/6394)  |  | 07-08 | 07-25 |  |
+| 13 | Release for Policy Insights - Api-version 2024-10  |  |  | [#6388](https://github.com/Azure/sdk-release-request/issues/6388)  |  | 07-04 | 07-25 |  |
+| 14 | Release for Search - 2025-05-01  |  |  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  |  | 04-27 | 07-24 |  |
+| 15 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |
+| 16 | [TypeSpec] Go SDK generate request for ASZ-Arc VMs  |  | [#6406](https://github.com/Azure/sdk-release-request/issues/6406)  |  |  | 07-11 | fail to get. | Hold on by Go/ |
+| 17 | [TypeSpec] Go SDK generate request for Azure VMware Solution  |  | [#6111](https://github.com/Azure/sdk-release-request/issues/6111)  |  |  | 04-29 | fail to get. |  |
 | 18 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
 | 19 | Azure Compute DiskRP 2025-01-02   |  |  |  | [#6364](https://github.com/Azure/sdk-release-request/issues/6364)  | 06-26 | 07-25 |  |

@@ -7,3 +7,4 @@
 | 5 | [#6406](https://github.com/Azure/sdk-release-request/issues/6406) | shraddhasun |  | jliusan | multi readme link! HoldOn. | 07-11 | fail to get. |  |
 | 6 | [#6302](https://github.com/Azure/sdk-release-request/issues/6302) | ramandhillon84 |  | jliusan | new comment. Attention to inconsistent tag. HoldOn. | 06-17 | 07-25 |  |
 | 7 | [#6285](https://github.com/Azure/sdk-release-request/issues/6285) | omerdolev-ms |  | jliusan | new comment. HoldOn. TypeSpec. | 06-10 | 07-24 |  |
+| 8 | [#6111](https://github.com/Azure/sdk-release-request/issues/6111) | cataggar |  | jliusan | new comment. Attention to inconsistent tag. | 04-29 | fail to get. |  |
