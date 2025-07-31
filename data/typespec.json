@@ -45,7 +45,8 @@
     "azure-mgmt-hardwaresecuritymodules",
     "azure-mgmt-storagediscovery",
     "azure-mgmt-dashboard",
-    "azure-mgmt-storageactions"
+    "azure-mgmt-storageactions",
+    "azure-mgmt-containerservicefleet"
   ],
   "js": [],
   "go": [],
