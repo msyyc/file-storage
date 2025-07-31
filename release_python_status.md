@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6449](https://github.com/Azure/sdk-release-request/issues/6449) | frantran | azure-mgmt-containerservicefleet | ChenxiJiang333 | TypeSpec. | 07-29 | fail to get. |  |
-| 2 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | new issue. | 07-25 | 08-21 |  |
+| 2 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
 | 3 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 | TypeSpec. | 07-18 | 08-21 |  |
 | 4 | [#6426](https://github.com/Azure/sdk-release-request/issues/6426) | joshelton1 | azure-mgmt-dashboard | ChenxiJiang333 | TypeSpec. | 07-17 | fail to get. |  |
 | 5 | [#6423](https://github.com/Azure/sdk-release-request/issues/6423) | atharvau | azure-mgmt-workloadorchestration | ChenxiJiang333 | FirstBeta. | 07-16 | 08-21 |  |
