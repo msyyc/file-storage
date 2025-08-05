@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6452](https://github.com/Azure/sdk-release-request/issues/6452) | msyyc | azure-mgmt-monitor | msyyc | new issue. | 08-05 | 08-09 |  |
+| 1 | [#6452](https://github.com/Azure/sdk-release-request/issues/6452) | msyyc | azure-mgmt-monitor | msyyc |  | 08-05 | 08-09 |  |
 | 2 | [#6449](https://github.com/Azure/sdk-release-request/issues/6449) | frantran | azure-mgmt-containerservicefleet | ChenxiJiang333 | TypeSpec. | 07-29 | fail to get. |  |
 | 3 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
 | 4 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 | TypeSpec. | 07-18 | 08-21 |  |
