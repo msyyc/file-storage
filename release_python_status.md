@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 | Attention to inconsistent tag. | 08-05 | 08-22 |  |
+| 1 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
 | 2 | [#6452](https://github.com/Azure/sdk-release-request/issues/6452) | msyyc | azure-mgmt-monitor | msyyc | close to release date. | 08-05 | 08-09 | 2 |
 | 3 | [#6449](https://github.com/Azure/sdk-release-request/issues/6449) | frantran | azure-mgmt-containerservicefleet | ChenxiJiang333 | TypeSpec. | 07-29 | fail to get. |  |
 | 4 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
