@@ -2,7 +2,6 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6458](https://github.com/Azure/sdk-release-request/issues/6458) | msyyc | azure-mgmt-databoxedge | msyyc |  | 08-06 | 08-10 |  |
 | 2 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
-| 3 | [#6452](https://github.com/Azure/sdk-release-request/issues/6452) | msyyc | azure-mgmt-monitor | msyyc | close to release date. | 08-05 | 08-09 | 2 |
 | 4 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
 | 5 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 | TypeSpec. | 07-18 | 08-21 |  |
 | 6 | [#6423](https://github.com/Azure/sdk-release-request/issues/6423) | atharvau | azure-mgmt-workloadorchestration | ChenxiJiang333 | FirstBeta. | 07-16 | 08-21 |  |
