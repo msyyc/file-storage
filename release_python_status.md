@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6458](https://github.com/Azure/sdk-release-request/issues/6458) | msyyc | azure-mgmt-databoxedge | msyyc | new issue. | 08-06 | 08-10 |  |
+| 1 | [#6458](https://github.com/Azure/sdk-release-request/issues/6458) | msyyc | azure-mgmt-databoxedge | msyyc |  | 08-06 | 08-10 |  |
 | 2 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
 | 3 | [#6452](https://github.com/Azure/sdk-release-request/issues/6452) | msyyc | azure-mgmt-monitor | msyyc | close to release date. | 08-05 | 08-09 | 2 |
 | 4 | [#6449](https://github.com/Azure/sdk-release-request/issues/6449) | frantran | azure-mgmt-containerservicefleet | ChenxiJiang333 | TypeSpec. | 07-29 | fail to get. |  |
