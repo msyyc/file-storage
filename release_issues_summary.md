@@ -11,5 +11,4 @@
 | 9 | Release for Search - 2025-05-01  |  |  | [#6105](https://github.com/Azure/sdk-release-request/issues/6105)  |  | 04-27 | 07-24 |  |
 | 10 | [TypeSpec] Go SDK generate request for Azure Kubernetes Fleet Manager  |  | [#6451](https://github.com/Azure/sdk-release-request/issues/6451)  |  |  | 07-29 | fail to get. |  |
 | 11 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |
-| 12 | [TypeSpec] Go SDK generate request for Azure Monitor Grafana  |  | [#6427](https://github.com/Azure/sdk-release-request/issues/6427)  |  |  | 07-17 | fail to get. |  |
-| 13 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
+| 12 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
