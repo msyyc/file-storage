@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | new issue. | 08-08 | 08-21 |  |
+| 1 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 08-08 | 08-21 |  |
 | 2 | [#6462](https://github.com/Azure/sdk-release-request/issues/6462) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | new issue. | 08-07 | 08-22 |  |
 | 3 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
 | 4 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
