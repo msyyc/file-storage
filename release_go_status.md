@@ -6,5 +6,5 @@
 | 4 | [#6443](https://github.com/Azure/sdk-release-request/issues/6443) | mohitagarwal-sql |  | jliusan |  | 07-25 | 08-21 |  |
 | 5 | [#6437](https://github.com/Azure/sdk-release-request/issues/6437) | helen229 |  | jliusan | Attention to inconsistent tag. | 07-22 | fail to get. |  |
 | 6 | [#6430](https://github.com/Azure/sdk-release-request/issues/6430) | briantkim93 |  | jliusan | TypeSpec. | 07-18 | 08-21 |  |
-| 7 | [#6427](https://github.com/Azure/sdk-release-request/issues/6427) | joshelton1 |  | jliusan | new comment. Attention to inconsistent tag. | 07-17 | fail to get. |  |
+| 7 | [#6427](https://github.com/Azure/sdk-release-request/issues/6427) | joshelton1 |  | jliusan | Attention to inconsistent tag. | 07-17 | fail to get. |  |
 | 8 | [#6420](https://github.com/Azure/sdk-release-request/issues/6420) | atharvau |  | jliusan | new comment. multi readme link! | 07-16 | 08-21 |  |
