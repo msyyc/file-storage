@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft|new comment|2025-08-07|
+|1|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft||2025-08-07|
 |2|[#46264](https://github.com/Azure/azure-sdk-for-java/issues/46264)|[mgmt] premium packages, consider a common place to put changelogs together|Mgmt|XiaofeiCao||2025-08-04|
 |3|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |4|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
@@ -28,7 +28,7 @@
 |26|[#41606](https://github.com/Azure/azure-sdk-for-java/issues/41606)|[BUG] com.azure.resourcemanager.mysqlflexibleserver.models.Server object always returns "Enabled" for publicNetworkAccess property |question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-22|
 |27|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |28|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|29|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
+|29|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
 |30|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |31|[#41353](https://github.com/Azure/azure-sdk-for-java/issues/41353)|[QUERY] Example of creating a database in a SQL Server using the Java SDK|question, Mgmt, customer-reported, Azure.Identity, needs-team-attention|XiaofeiCao||2024-07-30|
 |32|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
