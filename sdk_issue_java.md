@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft||2025-08-07|
+|1|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft|new comment|2025-08-07|
 |2|[#46264](https://github.com/Azure/azure-sdk-for-java/issues/46264)|[mgmt] premium packages, consider a common place to put changelogs together|Mgmt|XiaofeiCao||2025-08-04|
 |3|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |4|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
