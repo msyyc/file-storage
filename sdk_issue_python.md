@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#42425](https://github.com/Azure/azure-sdk-for-python/issues/42425)|Diagnostic Setting not available anymore in the SDK in version 7.0.0 but is in 7.0.0b1|question, Monitor, Mgmt, customer-reported, needs-team-attention|msyyc|new issue|2025-08-08|
-|2|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|zhoxing-ms, msyyc|new comment|2025-06-27|
+|2|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|msyyc, zhoxing-ms|new comment|2025-06-27|
 |3|[#41816](https://github.com/Azure/azure-sdk-for-python/issues/41816)|Update API for azure-mgmt-security SDK to the latest version.|question, Security, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-06-27|
 |4|[#41752](https://github.com/Azure/azure-sdk-for-python/issues/41752)|Not All Types are JSON Serializable|question, Mgmt, customer-reported, needs-team-attention|msyyc||2025-06-25|
 |5|[#41441](https://github.com/Azure/azure-sdk-for-python/issues/41441)|azure.mgmt.monitor.v2022_06_01.models.extensiondatasource type not proper set for extension_settings|question, Monitor, Mgmt, customer-reported, needs-team-attention|msyyc, pvaneck|no reply > 7|2025-06-05|
