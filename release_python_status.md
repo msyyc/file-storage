@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6472](https://github.com/Azure/sdk-release-request/issues/6472) | iliu816 |  | ChenxiJiang333 |  | 08-08 |  | 0 |
+| 1 | [#6472](https://github.com/Azure/sdk-release-request/issues/6472) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new issue. TypeSpec. | 08-08 | fail to get. |  |
 | 2 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 08-08 | 08-21 |  |
 | 3 | [#6462](https://github.com/Azure/sdk-release-request/issues/6462) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | new issue. | 08-07 | 08-22 |  |
 | 4 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
