@@ -46,7 +46,8 @@
     "azure-mgmt-storagediscovery",
     "azure-mgmt-dashboard",
     "azure-mgmt-storageactions",
-    "azure-mgmt-containerservicefleet"
+    "azure-mgmt-containerservicefleet",
+    "azure-mgmt-servicefabricmanagedclusters"
   ],
   "js": [],
   "go": [],
