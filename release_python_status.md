@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6474](https://github.com/Azure/sdk-release-request/issues/6474) | diyellap | azure-mgmt-computefleet | ChenxiJiang333 | new issue. TypeSpec. | 08-11 | fail to get. |  |
+| 1 | [#6474](https://github.com/Azure/sdk-release-request/issues/6474) | diyellap | azure-mgmt-computefleet | ChenxiJiang333 | TypeSpec. | 08-11 | fail to get. |  |
 | 2 | [#6472](https://github.com/Azure/sdk-release-request/issues/6472) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new issue. TypeSpec. | 08-08 | fail to get. |  |
-| 3 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 08-08 | 08-21 |  |
+| 3 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | new comment. HoldOn. | 08-08 | 08-21 |  |
 | 4 | [#6462](https://github.com/Azure/sdk-release-request/issues/6462) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | new issue. | 08-07 | 08-22 |  |
 | 5 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
 | 6 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
