@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6481](https://github.com/Azure/sdk-release-request/issues/6481) | Greedygre | azure-mgmt-appcontainers | ChenxiJiang333 | new issue. | 08-12 | 09-25 |  |
-| 2 | [#6477](https://github.com/Azure/sdk-release-request/issues/6477) | msyyc | azure-mgmt-iothub | msyyc | new issue. new comment. | 08-12 | 08-16 |  |
+| 1 | [#6481](https://github.com/Azure/sdk-release-request/issues/6481) | Greedygre | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-12 | 09-25 |  |
+| 2 | [#6477](https://github.com/Azure/sdk-release-request/issues/6477) | msyyc | azure-mgmt-iothub | msyyc |  | 08-12 | 08-16 |  |
 | 3 | [#6474](https://github.com/Azure/sdk-release-request/issues/6474) | diyellap | azure-mgmt-computefleet | ChenxiJiang333 | TypeSpec. | 08-11 | fail to get. |  |
 | 4 | [#6472](https://github.com/Azure/sdk-release-request/issues/6472) | iliu816 | azure-mgmt-servicefabricmanagedclusters | ChenxiJiang333 | new issue. TypeSpec. | 08-08 | fail to get. |  |
 | 5 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 08-08 | 08-21 |  |
