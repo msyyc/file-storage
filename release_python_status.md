@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 | new issue. | 08-12 | 09-25 |  |
+| 1 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
 | 2 | [#6481](https://github.com/Azure/sdk-release-request/issues/6481) | Greedygre | azure-mgmt-appcontainers | ChenxiJiang333 | new issue. | 08-12 | 09-25 |  |
 | 3 | [#6477](https://github.com/Azure/sdk-release-request/issues/6477) | msyyc | azure-mgmt-iothub | msyyc | close to release date. | 08-12 | 08-16 | 2 |
 | 4 | [#6474](https://github.com/Azure/sdk-release-request/issues/6474) | diyellap | azure-mgmt-computefleet | ChenxiJiang333 | TypeSpec. | 08-11 | fail to get. |  |
