@@ -10,4 +10,4 @@
 | 8 | [#6443](https://github.com/Azure/sdk-release-request/issues/6443) | mohitagarwal-sql |  | jliusan |  | 07-25 | 08-21 |  |
 | 9 | [#6437](https://github.com/Azure/sdk-release-request/issues/6437) | helen229 |  | jliusan | Attention to inconsistent tag. | 07-22 | fail to get. |  |
 | 10 | [#6430](https://github.com/Azure/sdk-release-request/issues/6430) | briantkim93 |  | jliusan | HoldOn. TypeSpec. | 07-18 | 08-21 |  |
-| 11 | [#6420](https://github.com/Azure/sdk-release-request/issues/6420) | atharvau |  | jliusan | multi readme link! | 07-16 | 08-21 |  |
+| 11 | [#6420](https://github.com/Azure/sdk-release-request/issues/6420) | atharvau |  | jliusan | new comment. multi readme link! | 07-16 | 08-21 |  |
