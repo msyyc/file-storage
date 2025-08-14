@@ -3,7 +3,6 @@
 | 1 | [#6489](https://github.com/Azure/sdk-release-request/issues/6489) | Azure.ResourceManager.Playwright | azure-mgmt-playwright | ChenxiJiang333 | FirstGA. TypeSpec. | 08-13 | fail to get. |  |
 | 2 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
 | 3 | [#6481](https://github.com/Azure/sdk-release-request/issues/6481) | Greedygre | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-12 | 09-25 |  |
-| 4 | [#6477](https://github.com/Azure/sdk-release-request/issues/6477) | msyyc | azure-mgmt-iothub | msyyc | close to release date. | 08-12 | 08-16 | 1 |
 | 5 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 08-08 | 08-21 |  |
 | 6 | [#6462](https://github.com/Azure/sdk-release-request/issues/6462) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 |  | 08-07 | 08-22 |  |
 | 7 | [#6456](https://github.com/Azure/sdk-release-request/issues/6456) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 08-05 | 08-22 |  |
