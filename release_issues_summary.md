@@ -12,8 +12,6 @@
 | 10 | Workload Orchestration GA   | [#6423](https://github.com/Azure/sdk-release-request/issues/6423)  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
 | 11 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 12 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 13 | [TypeSpec] Java SDK generate request for Azure Load Testing  |  |  | [#6491](https://github.com/Azure/sdk-release-request/issues/6491)  |  | 08-13 | fail to get. |  |
-| 14 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. |  |
-| 15 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
-| 16 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. |  |
-| 17 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
+| 13 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
+| 14 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. |  |
+| 15 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
