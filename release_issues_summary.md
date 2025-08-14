@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Azure Load Testing  | [#6489](https://github.com/Azure/sdk-release-request/issues/6489)  |  |  |  | 08-13 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Azure Load Testing  | [#6489](https://github.com/Azure/sdk-release-request/issues/6489)  |  |  |  | 08-13 | fail to get. |  |
 | 2 | ADLS SDK  | [#6486](https://github.com/Azure/sdk-release-request/issues/6486)  | [#6483](https://github.com/Azure/sdk-release-request/issues/6483)  | [#6484](https://github.com/Azure/sdk-release-request/issues/6484)  | [#6485](https://github.com/Azure/sdk-release-request/issues/6485)  | 08-12 | 09-25 |  |
 | 3 | Release for containerapp 2025-02-02-preview  | [#6481](https://github.com/Azure/sdk-release-request/issues/6481)  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  | [#6480](https://github.com/Azure/sdk-release-request/issues/6480)  | 08-12 | 09-25 |  |
 | 4 | Release request for Release for iothub (convert to singleapi)  | [#6477](https://github.com/Azure/sdk-release-request/issues/6477)  |  |  |  | 08-12 | 08-16 |  |

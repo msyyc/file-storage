@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6489](https://github.com/Azure/sdk-release-request/issues/6489) | Azure.ResourceManager.Playwright |  | ChenxiJiang333 |  | 08-13 |  | 0 |
+| 1 | [#6489](https://github.com/Azure/sdk-release-request/issues/6489) | Azure.ResourceManager.Playwright | azure-mgmt-playwright | ChenxiJiang333 | TypeSpec. | 08-13 | fail to get. |  |
 | 2 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 | new issue. | 08-12 | 09-25 |  |
 | 3 | [#6481](https://github.com/Azure/sdk-release-request/issues/6481) | Greedygre | azure-mgmt-appcontainers | ChenxiJiang333 | new issue. | 08-12 | 09-25 |  |
 | 4 | [#6477](https://github.com/Azure/sdk-release-request/issues/6477) | msyyc | azure-mgmt-iothub | msyyc | close to release date. | 08-12 | 08-16 | 1 |
