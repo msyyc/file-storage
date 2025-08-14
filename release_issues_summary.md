@@ -14,9 +14,9 @@
 | 12 | Workload Orchestration GA   | [#6423](https://github.com/Azure/sdk-release-request/issues/6423)  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
 | 13 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 14 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 15 | [TypeSpec] Java SDK generate request for Azure Load Testing  |  |  | [#6491](https://github.com/Azure/sdk-release-request/issues/6491)  |  | 08-13 |  |  |
+| 15 | [TypeSpec] Java SDK generate request for Azure Load Testing  |  |  | [#6491](https://github.com/Azure/sdk-release-request/issues/6491)  |  | 08-13 | fail to get. |  |
 | 16 | [TypeSpec] Java SDK generate request for ASZ-Arc VMs  |  |  | [#6407](https://github.com/Azure/sdk-release-request/issues/6407)  |  | 07-11 | fail to get. |  |
-| 17 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 |  |  |
+| 17 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
 | 18 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. |  |
 | 19 | [TypeSpec] Go SDK generate request for Azure Kubernetes Fleet Manager  |  | [#6451](https://github.com/Azure/sdk-release-request/issues/6451)  |  |  | 07-29 | fail to get. |  |
 | 20 | [TypeSpec] Go SDK generate request for Release Planner Test Product  |  | [#6437](https://github.com/Azure/sdk-release-request/issues/6437)  |  |  | 07-22 | fail to get. |  |

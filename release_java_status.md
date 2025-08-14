@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6491](https://github.com/Azure/sdk-release-request/issues/6491) | Azure.ResourceManager.Playwright |  | XiaofeiCao |  | 08-13 |  | 0 |
+| 1 | [#6491](https://github.com/Azure/sdk-release-request/issues/6491) | Azure.ResourceManager.Playwright |  | XiaofeiCao | multi readme link! FirstGA. | 08-13 | fail to get. |  |
 | 2 | [#6484](https://github.com/Azure/sdk-release-request/issues/6484) | Daya Patil |  | v-hongli1 | new issue. | 08-12 | 09-25 |  |
 | 3 | [#6479](https://github.com/Azure/sdk-release-request/issues/6479) | Greedygre |  | weidongxu-microsoft | new issue. | 08-12 | 09-25 |  |
 | 4 | [#6465](https://github.com/Azure/sdk-release-request/issues/6465) | blueww |  | v-hongli1 |  | 08-08 | 08-21 |  |

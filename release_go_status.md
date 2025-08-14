@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6488](https://github.com/Azure/sdk-release-request/issues/6488) | Azure.ResourceManager.Playwright |  | jliusan |  | 08-13 |  | 0 |
+| 1 | [#6488](https://github.com/Azure/sdk-release-request/issues/6488) | Azure.ResourceManager.Playwright |  | jliusan | multi readme link! | 08-13 | fail to get. |  |
 | 2 | [#6483](https://github.com/Azure/sdk-release-request/issues/6483) | Daya Patil |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 3 | [#6478](https://github.com/Azure/sdk-release-request/issues/6478) | Greedygre |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 4 | [#6473](https://github.com/Azure/sdk-release-request/issues/6473) | diyellap |  | jliusan | new issue. Attention to inconsistent tag. | 08-11 | fail to get. |  |
