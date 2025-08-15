@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6493](https://github.com/Azure/sdk-release-request/issues/6493) | msyyc | azure-mgmt-containerregistry | msyyc | new issue. | 08-15 | 08-19 |  |
-| 2 | [#6492](https://github.com/Azure/sdk-release-request/issues/6492) | msyyc | azure-mgmt-msi | msyyc | new issue. | 08-15 | 08-19 |  |
+| 1 | [#6493](https://github.com/Azure/sdk-release-request/issues/6493) | msyyc | azure-mgmt-containerregistry | msyyc |  | 08-15 | 08-19 |  |
+| 2 | [#6492](https://github.com/Azure/sdk-release-request/issues/6492) | msyyc | azure-mgmt-msi | msyyc |  | 08-15 | 08-19 |  |
 | 3 | [#6489](https://github.com/Azure/sdk-release-request/issues/6489) | Azure.ResourceManager.Playwright | azure-mgmt-playwright | ChenxiJiang333 | FirstGA. TypeSpec. | 08-13 | fail to get. |  |
 | 4 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
 | 5 | [#6481](https://github.com/Azure/sdk-release-request/issues/6481) | Greedygre | azure-mgmt-appcontainers | ChenxiJiang333 |  | 08-12 | 09-25 |  |
