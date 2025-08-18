@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-msi,msyyc,msyyc,2025-08-15,2025-08-18,https://github.com/Azure/sdk-release-request/issues/6492,8.0.0b1,
+azure-mgmt-containerregistry,msyyc,msyyc,2025-08-15,2025-08-18,https://github.com/Azure/sdk-release-request/issues/6493,14.1.0b2,
 azure-mgmt-iothub,msyyc,msyyc,2025-08-12,2025-08-14,https://github.com/Azure/sdk-release-request/issues/6477,5.0.0b1,
 azure-mgmt-databoxedge,msyyc,msyyc,2025-08-06,2025-08-06,https://github.com/Azure/sdk-release-request/issues/6458,3.0.0b1,
 azure-mgmt-monitor,msyyc,msyyc,2025-08-05,2025-08-06,https://github.com/Azure/sdk-release-request/issues/6452,8.0.0b1,
