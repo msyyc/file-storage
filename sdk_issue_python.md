@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#42452](https://github.com/Azure/azure-sdk-for-python/issues/42452)|Unable to configure 'public network access' property in the Python SDK for Azure Container Apps Managed Environment|question, Mgmt, customer-reported, needs-team-attention, Container Apps|msyyc||2025-08-11|
+|1|[#42452](https://github.com/Azure/azure-sdk-for-python/issues/42452)|Unable to configure 'public network access' property in the Python SDK for Azure Container Apps Managed Environment|question, Mgmt, customer-reported, needs-team-attention, Container Apps|msyyc|new comment|2025-08-11|
 |2|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|zhoxing-ms, msyyc|new comment|2025-06-27|
 |3|[#41816](https://github.com/Azure/azure-sdk-for-python/issues/41816)|Update API for azure-mgmt-security SDK to the latest version.|question, Security, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-06-27|
 |4|[#41752](https://github.com/Azure/azure-sdk-for-python/issues/41752)|Not All Types are JSON Serializable|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-06-25|
