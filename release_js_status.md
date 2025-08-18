@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6485](https://github.com/Azure/sdk-release-request/issues/6485) | Daya Patil |  | qiaozha | new issue. | 08-12 | 09-25 |  |
-| 2 | [#6480](https://github.com/Azure/sdk-release-request/issues/6480) | Greedygre |  | qiaozha | new issue. | 08-12 | 09-25 |  |
+| 2 | [#6480](https://github.com/Azure/sdk-release-request/issues/6480) | Greedygre |  | qiaozha |  | 08-12 | 09-25 |  |
 | 3 | [#6466](https://github.com/Azure/sdk-release-request/issues/6466) | blueww |  | MaryGao | close to release date. | 08-08 | 08-21 | 2 |
 | 4 | [#6461](https://github.com/Azure/sdk-release-request/issues/6461) | ramandhillon84 |  | MaryGao | new issue. HoldOn. | 08-07 | 08-22 |  |
 | 5 | [#6455](https://github.com/Azure/sdk-release-request/issues/6455) | audunn |  | MaryGao | new comment. Attention to inconsistent tag. | 08-05 | 08-22 |  |
