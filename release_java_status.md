@@ -3,7 +3,6 @@
 | 1 | [#6479](https://github.com/Azure/sdk-release-request/issues/6479) | Greedygre |  | weidongxu-microsoft | new issue. | 08-12 | 09-25 |  |
 | 2 | [#6465](https://github.com/Azure/sdk-release-request/issues/6465) | blueww |  | v-hongli1 | new comment. close to release date. | 08-08 | 08-21 | 1 |
 | 3 | [#6460](https://github.com/Azure/sdk-release-request/issues/6460) | ramandhillon84 |  | weidongxu-microsoft | close to release date. | 08-07 | 08-22 | 2 |
-| 4 | [#6454](https://github.com/Azure/sdk-release-request/issues/6454) | audunn |  | weidongxu-microsoft | new comment. close to release date. Attention to inconsistent tag. | 08-05 | 08-22 | 2 |
-| 5 | [#6431](https://github.com/Azure/sdk-release-request/issues/6431) | briantkim93 |  | weidongxu-microsoft | close to release date. HoldOn. TypeSpec. | 07-18 | 08-21 | 1 |
-| 6 | [#6421](https://github.com/Azure/sdk-release-request/issues/6421) | atharvau |  | haolingdong-msft | new comment. multi readme link! close to release date. | 07-16 | 08-21 | 1 |
-| 7 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 4 | [#6431](https://github.com/Azure/sdk-release-request/issues/6431) | briantkim93 |  | weidongxu-microsoft | close to release date. HoldOn. TypeSpec. | 07-18 | 08-21 | 1 |
+| 5 | [#6421](https://github.com/Azure/sdk-release-request/issues/6421) | atharvau |  | haolingdong-msft | new comment. multi readme link! close to release date. | 07-16 | 08-21 | 1 |
+| 6 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |

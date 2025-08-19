@@ -9,8 +9,8 @@
 | 7 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 8 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
 | 9 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  | [#6480](https://github.com/Azure/sdk-release-request/issues/6480)  | 08-12 | 09-25 |  |
-| 10 | Release for NetAppFiles - 2025-06-01  |  | [#6453](https://github.com/Azure/sdk-release-request/issues/6453)  | [#6454](https://github.com/Azure/sdk-release-request/issues/6454)  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
-| 11 | Workload Orchestration GA   |  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
-| 12 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
-| 13 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. |  |
+| 10 | Workload Orchestration GA   |  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
+| 11 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
+| 12 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. |  |
+| 13 | Release for NetAppFiles - 2025-06-01  |  | [#6453](https://github.com/Azure/sdk-release-request/issues/6453)  |  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
 | 14 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
