@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6497](https://github.com/Azure/sdk-release-request/issues/6497) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. new comment. | 08-20 | 09-25 |  |
+| 1 | [#6497](https://github.com/Azure/sdk-release-request/issues/6497) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | ForCLI. | 08-20 | 09-25 |  |
 | 2 | [#6489](https://github.com/Azure/sdk-release-request/issues/6489) | Azure.ResourceManager.Playwright |  | ChenxiJiang333 |  | 08-13 |  | 0 |
 | 3 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
 | 4 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | close to release date. HoldOn. | 08-08 | 08-21 | 0 |
