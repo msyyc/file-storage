@@ -9,4 +9,3 @@
 | 7 | [#6445](https://github.com/Azure/sdk-release-request/issues/6445) | mohitagarwal-sql |  | MaryGao | close to release date. HoldOn. | 07-25 | 08-21 | 0 |
 | 8 | [#6432](https://github.com/Azure/sdk-release-request/issues/6432) | briantkim93 |  | qiaozha | close to release date. HoldOn. TypeSpec. | 07-18 | 08-21 | 0 |
 | 9 | [#6422](https://github.com/Azure/sdk-release-request/issues/6422) | atharvau |  | qiaozha | new comment. multi readme link! close to release date. | 07-16 | 08-21 | 0 |
-| 10 | [#6397](https://github.com/Azure/sdk-release-request/issues/6397) | anthony-c-martin |  | MaryGao | multi readme link! HoldOn. | 07-09 | 07-25 |  |

@@ -14,4 +14,3 @@
 | 12 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
 | 13 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. | Hold on by Go/ |
 | 14 | Release for NetAppFiles - 2025-06-01  |  | [#6453](https://github.com/Azure/sdk-release-request/issues/6453)  |  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
-| 15 | Release for DeploymentStacks - 2024-03-01  |  |  |  | [#6397](https://github.com/Azure/sdk-release-request/issues/6397)  | 07-09 | 07-25 | Hold on by JS/ |
