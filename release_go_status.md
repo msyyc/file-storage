@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6494](https://github.com/Azure/sdk-release-request/issues/6494) | fumingzhang |  | jliusan | new issue. | 08-20 | 09-25 |  |
+| 1 | [#6494](https://github.com/Azure/sdk-release-request/issues/6494) | fumingzhang |  | jliusan |  | 08-20 | 09-25 |  |
 | 2 | [#6488](https://github.com/Azure/sdk-release-request/issues/6488) | Azure.ResourceManager.Playwright |  | jliusan | multi readme link! | 08-13 | fail to get. |  |
 | 3 | [#6483](https://github.com/Azure/sdk-release-request/issues/6483) | Daya Patil |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 4 | [#6478](https://github.com/Azure/sdk-release-request/issues/6478) | Greedygre |  | jliusan | new issue. | 08-12 | 09-25 |  |
