@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-08-20,2025-08-21,https://github.com/Azure/sdk-release-request/issues/6497,39.1.0,True
 azure-mgmt-workloadorchestration,azure-sdk,ChenxiJiang333,2025-07-16,2025-08-19,https://github.com/Azure/sdk-release-request/issues/6423,1.0.0b1,
 azure-mgmt-appcontainers,azure-sdk,ChenxiJiang333,2025-08-12,2025-08-19,https://github.com/Azure/sdk-release-request/issues/6481,4.0.0b1,
 azure-mgmt-netapp,azure-sdk,ChenxiJiang333,2025-08-05,2025-08-18,https://github.com/Azure/sdk-release-request/issues/6456,13.7.0,True
