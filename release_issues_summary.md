@@ -11,5 +11,4 @@
 | 9 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  | [#6480](https://github.com/Azure/sdk-release-request/issues/6480)  | 08-12 | 09-25 |  |
 | 10 | Workload Orchestration GA   |  | [#6420](https://github.com/Azure/sdk-release-request/issues/6420)  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 |  |
 | 11 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
-| 12 | [TypeSpec] Go SDK generate request for Azure Compute Fleet  |  | [#6473](https://github.com/Azure/sdk-release-request/issues/6473)  |  |  | 08-11 | fail to get. |  |
-| 13 | Release for NetAppFiles - 2025-06-01  |  | [#6453](https://github.com/Azure/sdk-release-request/issues/6453)  |  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
+| 12 | Release for NetAppFiles - 2025-06-01  |  | [#6453](https://github.com/Azure/sdk-release-request/issues/6453)  |  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
