@@ -13,5 +13,4 @@
 | 11 | Release for Container Service - 2025-07-01  |  | [#6494](https://github.com/Azure/sdk-release-request/issues/6494)  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 12 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  | [#6480](https://github.com/Azure/sdk-release-request/issues/6480)  | 08-12 | 09-25 |  |
 | 13 | Workload Orchestration GA   |  |  | [#6421](https://github.com/Azure/sdk-release-request/issues/6421)  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 | Hold on by JS/ |
-| 14 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
-| 15 | Release for NetAppFiles - 2025-06-01  |  |  |  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
+| 14 | Release for NetAppFiles - 2025-06-01  |  |  |  | [#6455](https://github.com/Azure/sdk-release-request/issues/6455)  | 08-05 | 08-22 |  |
