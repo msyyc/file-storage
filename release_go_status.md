@@ -4,6 +4,6 @@
 | 2 | [#6483](https://github.com/Azure/sdk-release-request/issues/6483) | Daya Patil |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 3 | [#6478](https://github.com/Azure/sdk-release-request/issues/6478) | Greedygre |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 4 | [#6464](https://github.com/Azure/sdk-release-request/issues/6464) | blueww |  | jliusan | new comment. HoldOn. | 08-08 | 08-21 |  |
-| 5 | [#6459](https://github.com/Azure/sdk-release-request/issues/6459) | ramandhillon84 |  | jliusan | close to release date. HoldOn. | 08-07 | 08-22 | -2 |
+| 5 | [#6459](https://github.com/Azure/sdk-release-request/issues/6459) | ramandhillon84 |  | jliusan | HoldOn. | 08-07 | 08-22 |  |
 | 6 | [#6443](https://github.com/Azure/sdk-release-request/issues/6443) | mohitagarwal-sql |  | jliusan | HoldOn. | 07-25 | 08-21 |  |
 | 7 | [#6430](https://github.com/Azure/sdk-release-request/issues/6430) | briantkim93 |  | jliusan | new comment. HoldOn. TypeSpec. | 07-18 | 08-21 |  |
