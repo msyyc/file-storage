@@ -1,7 +1,5 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6500](https://github.com/Azure/sdk-release-request/issues/6500) | msyyc | azure-mgmt-compute | msyyc | close to release date. | 08-22 | 08-26 | 0 |
-| 2 | [#6499](https://github.com/Azure/sdk-release-request/issues/6499) | msyyc | azure-mgmt-web | msyyc | close to release date. | 08-21 | 08-25 | 0 |
 | 3 | [#6498](https://github.com/Azure/sdk-release-request/issues/6498) | msyyc | azure-mgmt-security | msyyc | close to release date. | 08-21 | 08-25 | 0 |
 | 4 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
 | 5 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 08-08 | 08-21 |  |

@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-web,msyyc,msyyc,2025-08-21,2025-08-25,https://github.com/Azure/sdk-release-request/issues/6499,10.0.0,True
+azure-mgmt-compute,msyyc,msyyc,2025-08-22,2025-08-25,https://github.com/Azure/sdk-release-request/issues/6500,36.0.0,True
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-08-20,2025-08-21,https://github.com/Azure/sdk-release-request/issues/6497,39.1.0,True
 azure-mgmt-workloadorchestration,azure-sdk,ChenxiJiang333,2025-07-16,2025-08-19,https://github.com/Azure/sdk-release-request/issues/6423,1.0.0b1,
 azure-mgmt-appcontainers,azure-sdk,ChenxiJiang333,2025-08-12,2025-08-19,https://github.com/Azure/sdk-release-request/issues/6481,4.0.0b1,
