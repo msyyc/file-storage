@@ -10,5 +10,4 @@
 | 8 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
 | 9 | Release for Container Service - 2025-07-01  |  | [#6494](https://github.com/Azure/sdk-release-request/issues/6494)  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 10 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  |  | 08-12 | 09-25 |  |
-| 11 | [TypeSpec] Go SDK generate request for Azure Load Testing  |  | [#6488](https://github.com/Azure/sdk-release-request/issues/6488)  |  |  | 08-13 | fail to get. |  |
-| 12 | Workload Orchestration GA   |  |  |  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 | Hold on by JS/ |
+| 11 | Workload Orchestration GA   |  |  |  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 | Hold on by JS/ |
