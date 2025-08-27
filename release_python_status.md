@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | new issue. | 08-26 | 09-26 |  |
-| 2 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 | new issue. | 08-25 | 09-25 |  |
+| 1 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
+| 2 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 |  | 08-25 | 09-25 |  |
 | 3 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
 | 4 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 08-08 | 08-21 |  |
 | 5 | [#6462](https://github.com/Azure/sdk-release-request/issues/6462) | ramandhillon84 | azure-mgmt-network | ChenxiJiang333 | HoldOn. | 08-07 | 08-22 |  |
