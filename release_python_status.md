@@ -8,4 +8,4 @@
 | 6 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 | HoldOn. | 07-25 | 08-21 |  |
 | 7 | [#6433](https://github.com/Azure/sdk-release-request/issues/6433) | briantkim93 | azure-mgmt-nginx | ChenxiJiang333 | HoldOn. TypeSpec. | 07-18 | 08-21 |  |
 | 8 | [#6220](https://github.com/Azure/sdk-release-request/issues/6220) | ChristineWanjau | azure-mgmt-appconfiguration | ChenxiJiang333 | HoldOn. | 05-21 | 06-19 |  |
-| 9 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 |  | 02-28 | 03-27 |  |
+| 9 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
