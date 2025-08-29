@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6524](https://github.com/Azure/sdk-release-request/issues/6524) | shraddhasun |  | v-hongli1 | Attention to inconsistent tag. | 08-28 | 09-26 |  |
 | 2 | [#6521](https://github.com/Azure/sdk-release-request/issues/6521) | TheDonLuke |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 08-28 | fail to get. |  |
-| 3 | [#6517](https://github.com/Azure/sdk-release-request/issues/6517) | Elina-L |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 08-28 | fail to get. |  |
+| 3 | [#6517](https://github.com/Azure/sdk-release-request/issues/6517) | Elina-L |  | weidongxu-microsoft | Attention to inconsistent tag. | 08-28 | fail to get. |  |
 | 4 | [#6511](https://github.com/Azure/sdk-release-request/issues/6511) | bsomeshekar |  | v-hongli1 | new issue. Attention to inconsistent tag. | 08-28 | fail to get. |  |
 | 5 | [#6507](https://github.com/Azure/sdk-release-request/issues/6507) | CarlOchs |  | weidongxu-microsoft | Attention to inconsistent tag. | 08-26 | 09-26 |  |
 | 6 | [#6502](https://github.com/Azure/sdk-release-request/issues/6502) | amarjeetkr |  | weidongxu-microsoft | Attention to inconsistent tag. | 08-25 | 09-25 |  |
