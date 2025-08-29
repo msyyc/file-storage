@@ -3,7 +3,7 @@
 | 1 | [#6531](https://github.com/Azure/sdk-release-request/issues/6531) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 08-29 | fail to get. |  |
 | 2 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 08-28 | 09-26 |  |
 | 3 | [#6522](https://github.com/Azure/sdk-release-request/issues/6522) | TheDonLuke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | TypeSpec. | 08-28 | fail to get. |  |
-| 4 | [#6515](https://github.com/Azure/sdk-release-request/issues/6515) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 08-28 | fail to get. |  |
+| 4 | [#6515](https://github.com/Azure/sdk-release-request/issues/6515) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | duplicated issue  <br> FirstBeta. TypeSpec. | 08-28 | fail to get. |  |
 | 5 | [#6514](https://github.com/Azure/sdk-release-request/issues/6514) | bsomeshekar | azure-mgmt-sitemanager | ChenxiJiang333 | TypeSpec. | 08-28 | fail to get. |  |
 | 6 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 7 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 |  | 08-25 | 09-25 |  |
