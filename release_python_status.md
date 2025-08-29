@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhci | ChenxiJiang333 | Attention to inconsistent tag. | 08-28 | 09-26 |  |
-| 2 | [#6522](https://github.com/Azure/sdk-release-request/issues/6522) | TheDonLuke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new issue. Attention to inconsistent tag. TypeSpec. | 08-28 | fail to get. |  |
-| 3 | [#6515](https://github.com/Azure/sdk-release-request/issues/6515) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 08-28 | fail to get. |  |
+| 1 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhci | ChenxiJiang333 | new issue. | 08-28 | 09-26 |  |
+| 2 | [#6522](https://github.com/Azure/sdk-release-request/issues/6522) | TheDonLuke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new issue. TypeSpec. | 08-28 | fail to get. |  |
+| 3 | [#6515](https://github.com/Azure/sdk-release-request/issues/6515) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | new issue. TypeSpec. | 08-28 | fail to get. |  |
 | 4 | [#6514](https://github.com/Azure/sdk-release-request/issues/6514) | bsomeshekar | azure-mgmt-sitemanager | ChenxiJiang333 | new issue. Attention to inconsistent tag. TypeSpec. | 08-28 | fail to get. |  |
 | 5 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 6 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 |  | 08-25 | 09-25 |  |
