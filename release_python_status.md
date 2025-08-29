@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6531](https://github.com/Azure/sdk-release-request/issues/6531) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | duplicated issue  <br> new issue. Attention to inconsistent tag. | 08-29 | fail to get. |  |
+| 1 | [#6531](https://github.com/Azure/sdk-release-request/issues/6531) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 08-29 | fail to get. |  |
 | 2 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhci | ChenxiJiang333 |  | 08-28 | 09-26 |  |
 | 3 | [#6522](https://github.com/Azure/sdk-release-request/issues/6522) | TheDonLuke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | TypeSpec. | 08-28 | fail to get. |  |
 | 4 | [#6515](https://github.com/Azure/sdk-release-request/issues/6515) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | duplicated issue  <br> new issue. TypeSpec. | 08-28 | fail to get. |  |
