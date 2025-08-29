@@ -1,8 +1,8 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Azure stack hci vm - 2024-01-01  | [#6526](https://github.com/Azure/sdk-release-request/issues/6526)  | [#6523](https://github.com/Azure/sdk-release-request/issues/6523)  | [#6524](https://github.com/Azure/sdk-release-request/issues/6524)  | [#6525](https://github.com/Azure/sdk-release-request/issues/6525)  | 08-28 | 09-26 |  |
-| 2 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6522](https://github.com/Azure/sdk-release-request/issues/6522)  |  |  |  | 08-28 | fail to get. |  |
-| 3 | [TypeSpec] Python SDK generate request for Placement Score  | [#6515](https://github.com/Azure/sdk-release-request/issues/6515)  |  |  |  | 08-28 | fail to get. |  |
+| 1 | [TypeSpec] Python SDK generate request for Placement Score  | [#6515](https://github.com/Azure/sdk-release-request/issues/6515)  |  |  |  | 08-28 | fail to get. |  |
+| 2 | Azure stack hci vm - 2024-01-01  | [#6526](https://github.com/Azure/sdk-release-request/issues/6526)  | [#6523](https://github.com/Azure/sdk-release-request/issues/6523)  | [#6524](https://github.com/Azure/sdk-release-request/issues/6524)  | [#6525](https://github.com/Azure/sdk-release-request/issues/6525)  | 08-28 | 09-26 |  |
+| 3 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6522](https://github.com/Azure/sdk-release-request/issues/6522)  |  |  |  | 08-28 | fail to get. |  |
 | 4 | [TypeSpec] Python SDK generate request for Azure Arc site manager  | [#6514](https://github.com/Azure/sdk-release-request/issues/6514)  |  |  |  | 08-28 | fail to get. |  |
 | 5 | Cognitive Services - 2025-06-01 Release  | [#6509](https://github.com/Azure/sdk-release-request/issues/6509)  | [#6506](https://github.com/Azure/sdk-release-request/issues/6506)  | [#6507](https://github.com/Azure/sdk-release-request/issues/6507)  | [#6508](https://github.com/Azure/sdk-release-request/issues/6508)  | 08-26 | 09-26 |  |
 | 6 | Release the stable API version for the DataMigration APIs - 2025-06-30  | [#6504](https://github.com/Azure/sdk-release-request/issues/6504)  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  | [#6502](https://github.com/Azure/sdk-release-request/issues/6502)  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 |  |
@@ -13,12 +13,12 @@
 | 11 | Nginx SDK Release for 2025-03-01-preview  | [#6433](https://github.com/Azure/sdk-release-request/issues/6433)  | [#6430](https://github.com/Azure/sdk-release-request/issues/6430)  | [#6431](https://github.com/Azure/sdk-release-request/issues/6431)  | [#6432](https://github.com/Azure/sdk-release-request/issues/6432)  | 07-18 | 08-21 | Hold on by JS/Java/Go/Python/ |
 | 12 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 13 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 14 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6521](https://github.com/Azure/sdk-release-request/issues/6521)  |  | 08-28 | fail to get. |  |
-| 15 | [TypeSpec] Java SDK generate request for Placement Score  |  |  | [#6517](https://github.com/Azure/sdk-release-request/issues/6517)  |  | 08-28 | fail to get. |  |
+| 14 | [TypeSpec] Java SDK generate request for Placement Score  |  |  | [#6517](https://github.com/Azure/sdk-release-request/issues/6517)  |  | 08-28 | fail to get. |  |
+| 15 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6521](https://github.com/Azure/sdk-release-request/issues/6521)  |  | 08-28 | fail to get. |  |
 | 16 | [TypeSpec] Java SDK generate request for Azure Arc site manager  |  |  | [#6511](https://github.com/Azure/sdk-release-request/issues/6511)  |  | 08-28 | fail to get. |  |
 | 17 | Release for Container Service - 2025-07-01  |  | [#6494](https://github.com/Azure/sdk-release-request/issues/6494)  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 18 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  |  | 08-12 | 09-25 |  |
-| 19 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6520](https://github.com/Azure/sdk-release-request/issues/6520)  |  |  | 08-28 | fail to get. |  |
-| 20 | [TypeSpec] Go SDK generate request for Placement Score  |  | [#6518](https://github.com/Azure/sdk-release-request/issues/6518)  |  |  | 08-28 | fail to get. |  |
+| 19 | [TypeSpec] Go SDK generate request for Placement Score  |  | [#6518](https://github.com/Azure/sdk-release-request/issues/6518)  |  |  | 08-28 | fail to get. |  |
+| 20 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6520](https://github.com/Azure/sdk-release-request/issues/6520)  |  |  | 08-28 | fail to get. |  |
 | 21 | [TypeSpec] Go SDK generate request for Azure Arc site manager  |  | [#6512](https://github.com/Azure/sdk-release-request/issues/6512)  |  |  | 08-28 | fail to get. |  |
 | 22 | Workload Orchestration GA   |  |  |  | [#6422](https://github.com/Azure/sdk-release-request/issues/6422)  | 07-16 | 08-21 | Hold on by JS/ |
