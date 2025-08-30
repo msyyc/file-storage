@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#35807](https://github.com/Azure/azure-sdk-for-js/issues/35807)|@azure/arm-mongocluster: mongoClusters.list() pagination fails in 1.1.0-beta.1|question, customer-reported, Mgmt|qiaozha, kazrael2119, MaryGao|new issue|2025-08-29|
+|1|[#35807](https://github.com/Azure/azure-sdk-for-js/issues/35807)|@azure/arm-mongocluster: mongoClusters.list() pagination fails in 1.1.0-beta.1|question, customer-reported, Mgmt|kazrael2119, qiaozha, MaryGao|new issue|2025-08-29|
 |2|[#35383](https://github.com/Azure/azure-sdk-for-js/issues/35383)|Inconsistent Azure > KeyVault > Diagnostic Settings (List) response between @azure/arm-monitor v7.0.0 and v8.0.0-beta.5.|question, customer-reported, Mgmt, ARM|kazrael2119, qiaozha|new comment|2025-07-28|
 |3|[#34865](https://github.com/Azure/azure-sdk-for-js/issues/34865)|Streamanalytics pricing should allow Standardv2|question, customer-reported, Mgmt, Service Attention, Stream Analytics, needs-team-attention|kazrael2119, MaryGao|new comment|2025-06-18|
 |4|[#34779](https://github.com/Azure/azure-sdk-for-js/issues/34779)|arm-cosmosdb 16.3.0 still missing fullTextIndexes after FullTextPath was added|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2025-06-11|
@@ -8,7 +8,7 @@
 |6|[#34085](https://github.com/Azure/azure-sdk-for-js/issues/34085)|`ipv6Rules` missing from `NetworkRule` type|question, customer-reported, Mgmt, Storage, Service Attention, needs-team-attention|qiaozha|new comment|2025-04-28|
 |7|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|MaryGao|new comment|2025-04-17|
 |8|[#33035](https://github.com/Azure/azure-sdk-for-js/issues/33035)|SubscriptionClient.subscriptions.get SubscriptionNotFound Error is in the wrong format|bug, customer-reported, Mgmt, Subscription, needs-team-attention|kazrael2119, qiaozha|new comment|2025-02-13|
-|9|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, needs-team-attention|MaryGao, Copilot||2025-01-07|
+|9|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, needs-team-attention|Copilot, MaryGao||2025-01-07|
 |10|[#32353](https://github.com/Azure/azure-sdk-for-js/issues/32353)|Interface JitNetworkAccessPolicyInitiatePort is missing the property allowedSourceAddressPrefixes|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha|new comment|2024-12-24|
 |11|[#29948](https://github.com/Azure/azure-sdk-for-js/issues/29948)|costManagementClient.query.usage() returns wrong CAD unit instead of USD|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-07|
 |12|[#29917](https://github.com/Azure/azure-sdk-for-js/issues/29917)|Creating app service plan with custom locations doesn't sent extendedLocation and returns error.|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-05|
