@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#42696](https://github.com/Azure/azure-sdk-for-python/issues/42696)|Update SDK to the latest API version to get important properties|question, Mgmt, customer-reported, needs-team-attention, Recovery Services|msyyc|new comment|2025-08-26|
 |2|[#42587](https://github.com/Azure/azure-sdk-for-python/issues/42587)|Type stubs / hints (e.g. pyi) for azure-mgmt-resourcegraph|question, Mgmt, customer-reported|msyyc|no reply > 7|2025-08-19|
-|3|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|zhoxing-ms, msyyc|new comment|2025-06-27|
+|3|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|msyyc, zhoxing-ms|new comment|2025-06-27|
 |4|[#41816](https://github.com/Azure/azure-sdk-for-python/issues/41816)|Update API for azure-mgmt-security SDK to the latest version.|question, Security, Mgmt, customer-reported, needs-team-attention|msyyc||2025-06-27|
 |5|[#41752](https://github.com/Azure/azure-sdk-for-python/issues/41752)|Not All Types are JSON Serializable|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-06-25|
 |6|[#41441](https://github.com/Azure/azure-sdk-for-python/issues/41441)|azure.mgmt.monitor.v2022_06_01.models.extensiondatasource type not proper set for extension_settings|question, Monitor, Mgmt, customer-reported, needs-team-attention|msyyc, pvaneck|no reply > 7|2025-06-05|
@@ -14,4 +14,4 @@
 |12|[#36761](https://github.com/Azure/azure-sdk-for-python/issues/36761)|Microsoft.Web/connections|question, Logic App, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-08-05|
 |13|[#34305](https://github.com/Azure/azure-sdk-for-python/issues/34305)|Python Azure Resource Management models reference do not render.|Docs, question, ARM, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|new comment|2024-02-13|
 |14|[#34295](https://github.com/Azure/azure-sdk-for-python/issues/34295)|Document missing details for latest version|Docs, question, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-02-13|
-|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|msyyc, lmazuel, iscai-msft|new comment|2021-04-05|
+|15|[#17801](https://github.com/Azure/azure-sdk-for-python/issues/17801)|Azure SDK is over 500MB and growing on each release.|question, Network, Mgmt, customer-reported, needs-team-attention, auto-close-exempt|iscai-msft, lmazuel, msyyc|new comment|2021-04-05|
