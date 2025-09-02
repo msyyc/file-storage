@@ -20,5 +20,4 @@
 | 18 | [TypeSpec] Java SDK generate request for Azure Arc site manager  |  |  | [#6511](https://github.com/Azure/sdk-release-request/issues/6511)  |  | 08-28 | fail to get. | Hold on by Java/ |
 | 19 | Release for Container Service - 2025-07-01  |  | [#6494](https://github.com/Azure/sdk-release-request/issues/6494)  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 20 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  |  | 08-12 | 09-25 |  |
-| 21 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. |  |
-| 22 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6520](https://github.com/Azure/sdk-release-request/issues/6520)  |  |  | 08-28 | fail to get. |  |
+| 21 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6520](https://github.com/Azure/sdk-release-request/issues/6520)  |  |  | 08-28 | fail to get. |  |
