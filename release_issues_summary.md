@@ -14,7 +14,7 @@
 | 12 | Nginx SDK Release for 2025-03-01-preview  | [#6433](https://github.com/Azure/sdk-release-request/issues/6433)  | [#6430](https://github.com/Azure/sdk-release-request/issues/6430)  | [#6431](https://github.com/Azure/sdk-release-request/issues/6431)  | [#6432](https://github.com/Azure/sdk-release-request/issues/6432)  | 07-18 | 08-21 | Hold on by JS/Java/Go/Python/ |
 | 13 | Release for app config python mgmt sdk  | [#6220](https://github.com/Azure/sdk-release-request/issues/6220)  |  |  |  | 05-21 | 06-19 | Hold on by Python/ |
 | 14 | Management Plane SDK for AgriculturePlatform  | [#5914](https://github.com/Azure/sdk-release-request/issues/5914)  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/Python/ |
-| 15 | [TypeSpec] Java SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  |  | [#6533](https://github.com/Azure/sdk-release-request/issues/6533)  |  | 09-01 | fail to get. |  |
+| 15 | [TypeSpec] Java SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  |  | [#6539](https://github.com/Azure/sdk-release-request/issues/6539)  |  | 09-01 | fail to get. |  |
 | 16 | [TypeSpec] Java SDK generate request for Placement Score  |  |  | [#6528](https://github.com/Azure/sdk-release-request/issues/6528)  |  | 08-29 | fail to get. |  |
 | 17 | [TypeSpec] Java SDK generate request for Firmware Analysis  |  |  | [#6521](https://github.com/Azure/sdk-release-request/issues/6521)  |  | 08-28 | fail to get. |  |
 | 18 | [TypeSpec] Java SDK generate request for Azure Arc site manager  |  |  | [#6511](https://github.com/Azure/sdk-release-request/issues/6511)  |  | 08-28 | fail to get. |  |
