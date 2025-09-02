@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  | [#6534](https://github.com/Azure/sdk-release-request/issues/6534)  |  |  |  | 09-01 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  | [#6537](https://github.com/Azure/sdk-release-request/issues/6537)  |  |  |  | 09-01 | fail to get. |  |
 | 2 | [TypeSpec] Python SDK generate request for Placement Score  | [#6531](https://github.com/Azure/sdk-release-request/issues/6531)  |  |  |  | 08-29 | fail to get. |  |
 | 3 | Azure stack hci vm - 2024-01-01  | [#6526](https://github.com/Azure/sdk-release-request/issues/6526)  | [#6523](https://github.com/Azure/sdk-release-request/issues/6523)  | [#6524](https://github.com/Azure/sdk-release-request/issues/6524)  | [#6525](https://github.com/Azure/sdk-release-request/issues/6525)  | 08-28 | 09-26 | Hold on by Java/ |
 | 4 | [TypeSpec] Python SDK generate request for Firmware Analysis  | [#6522](https://github.com/Azure/sdk-release-request/issues/6522)  |  |  |  | 08-28 | fail to get. |  |
