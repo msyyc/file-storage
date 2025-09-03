@@ -3,7 +3,6 @@
 | 1 | [#6540](https://github.com/Azure/sdk-release-request/issues/6540) | msyyc | azure-mgmt-storagediscovery | msyyc | close to release date. TypeSpec. | 09-02 | 09-06 | 2 |
 | 2 | [#6537](https://github.com/Azure/sdk-release-request/issues/6537) | nmarella-ms | azure-mgmt-neonpostgres | ChenxiJiang333 | TypeSpec. | 09-01 | fail to get. |  |
 | 3 | [#6531](https://github.com/Azure/sdk-release-request/issues/6531) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | new issue. new comment. TypeSpec. | 08-29 | fail to get. |  |
-| 4 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhci | ChenxiJiang333 | new comment. | 08-28 | 09-26 |  |
 | 5 | [#6522](https://github.com/Azure/sdk-release-request/issues/6522) | TheDonLuke | azure-mgmt-iotfirmwaredefense | ChenxiJiang333 | new comment. TypeSpec. | 08-28 | fail to get. |  |
 | 6 | [#6514](https://github.com/Azure/sdk-release-request/issues/6514) | bsomeshekar | azure-mgmt-sitemanager | ChenxiJiang333 | new comment. FirstGA. TypeSpec. | 08-28 | fail to get. |  |
 | 7 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
