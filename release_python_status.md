@@ -1,6 +1,5 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6540](https://github.com/Azure/sdk-release-request/issues/6540) | msyyc | azure-mgmt-storagediscovery | msyyc | close to release date. TypeSpec. | 09-02 | 09-06 | 2 |
 | 2 | [#6537](https://github.com/Azure/sdk-release-request/issues/6537) | nmarella-ms | azure-mgmt-neonpostgres | ChenxiJiang333 | TypeSpec. | 09-01 | fail to get. |  |
 | 3 | [#6531](https://github.com/Azure/sdk-release-request/issues/6531) | Elina-L | azure-mgmt-computerecommender | ChenxiJiang333 | new issue. new comment. TypeSpec. | 08-29 | fail to get. |  |
 | 4 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhcivm | ChenxiJiang333 | TypeSpec. | 08-28 | 09-26 |  |
