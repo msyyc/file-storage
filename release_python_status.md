@@ -6,5 +6,5 @@
 | 4 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 5 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 |  | 08-25 | 09-25 |  |
 | 6 | [#6486](https://github.com/Azure/sdk-release-request/issues/6486) | Daya Patil | azure-mgmt-dataprotection | ChenxiJiang333 |  | 08-12 | 09-25 |  |
-| 7 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 08-08 | 08-21 |  |
+| 7 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | HoldOn. | 08-08 | 09-26 |  |
 | 8 | [#6446](https://github.com/Azure/sdk-release-request/issues/6446) | mohitagarwal-sql | azure-mgmt-sql | ChenxiJiang333 |  | 07-25 | 08-21 |  |
