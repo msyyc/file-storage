@@ -8,5 +8,5 @@
 | 6 | [#6496](https://github.com/Azure/sdk-release-request/issues/6496) | fumingzhang |  | MaryGao | new issue. | 08-20 | 09-25 |  |
 | 7 | [#6466](https://github.com/Azure/sdk-release-request/issues/6466) | blueww |  | MaryGao | new comment. HoldOn. | 08-08 | 08-21 |  |
 | 8 | [#6461](https://github.com/Azure/sdk-release-request/issues/6461) | ramandhillon84 |  | MaryGao | new issue. HoldOn. | 08-07 | 08-22 |  |
-| 9 | [#6445](https://github.com/Azure/sdk-release-request/issues/6445) | mohitagarwal-sql |  | MaryGao | HoldOn. | 07-25 | 08-21 |  |
+| 9 | [#6445](https://github.com/Azure/sdk-release-request/issues/6445) | mohitagarwal-sql |  | MaryGao |  | 07-25 | 08-21 |  |
 | 10 | [#6432](https://github.com/Azure/sdk-release-request/issues/6432) | briantkim93 |  | qiaozha | new comment. HoldOn. TypeSpec. | 07-18 | 08-21 |  |
