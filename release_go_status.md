@@ -11,5 +11,4 @@
 | 9 | [#6483](https://github.com/Azure/sdk-release-request/issues/6483) | Daya Patil |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 10 | [#6478](https://github.com/Azure/sdk-release-request/issues/6478) | Greedygre |  | jliusan | new issue. | 08-12 | 09-25 |  |
 | 11 | [#6464](https://github.com/Azure/sdk-release-request/issues/6464) | blueww |  | jliusan | new comment. HoldOn. | 08-08 | 08-21 |  |
-| 12 | [#6459](https://github.com/Azure/sdk-release-request/issues/6459) | ramandhillon84 |  | jliusan | HoldOn. | 08-07 | 08-22 |  |
-| 13 | [#6443](https://github.com/Azure/sdk-release-request/issues/6443) | mohitagarwal-sql |  | jliusan |  | 07-25 | 08-21 |  |
+| 12 | [#6443](https://github.com/Azure/sdk-release-request/issues/6443) | mohitagarwal-sql |  | jliusan |  | 07-25 | 08-21 |  |
