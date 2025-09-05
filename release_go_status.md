@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6542](https://github.com/Azure/sdk-release-request/issues/6542) | Aman-Jain-14 |  | jliusan | new issue. | 09-03 | 09-26 |  |
-| 2 | [#6541](https://github.com/Azure/sdk-release-request/issues/6541) | Aman-Jain-14 |  | jliusan | new issue. | 09-03 | 09-26 |  |
+| 1 | [#6542](https://github.com/Azure/sdk-release-request/issues/6542) | Aman-Jain-14 |  | jliusan |  | 09-03 | 09-26 |  |
+| 2 | [#6541](https://github.com/Azure/sdk-release-request/issues/6541) | Aman-Jain-14 |  | jliusan |  | 09-03 | 09-26 |  |
 | 3 | [#6535](https://github.com/Azure/sdk-release-request/issues/6535) | nmarella-ms |  | jliusan | new comment. Attention to inconsistent tag. HoldOn. | 09-01 | fail to get. |  |
 | 4 | [#6523](https://github.com/Azure/sdk-release-request/issues/6523) | shraddhasun |  | jliusan | new comment. HoldOn. | 08-28 | 09-26 |  |
 | 5 | [#6520](https://github.com/Azure/sdk-release-request/issues/6520) | TheDonLuke |  | jliusan | Attention to inconsistent tag. | 08-28 | fail to get. |  |
