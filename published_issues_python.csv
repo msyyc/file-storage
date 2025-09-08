@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-dashboard,azure-sdk,ChenxiJiang333,2025-07-17,2025-09-08,https://github.com/Azure/sdk-release-request/issues/6426,2.0.0b1,
+azure-mgmt-containerservicefleet,azure-sdk,ChenxiJiang333,2025-07-29,2025-09-08,https://github.com/Azure/sdk-release-request/issues/6449,4.0.0b1,
+azure-mgmt-iotfirmwaredefense,azure-sdk,ChenxiJiang333,2025-08-28,2025-09-08,https://github.com/Azure/sdk-release-request/issues/6522,2.0.0,True
+azure-mgmt-computerecommender,azure-sdk,ChenxiJiang333,2025-08-29,2025-09-08,https://github.com/Azure/sdk-release-request/issues/6531,1.0.0b1,
 azure-mgmt-storagediscovery,msyyc,msyyc,2025-09-02,2025-09-03,https://github.com/Azure/sdk-release-request/issues/6540,1.0.0b2,
 azure-mgmt-azurestackhcivm,azure-sdk,ChenxiJiang333,2025-08-28,2025-09-03,https://github.com/Azure/sdk-release-request/issues/6526,1.0.0b1,
 azure-mgmt-azurestackhcivm,azure-sdk,ChenxiJiang333,2025-07-11,2025-09-01,https://github.com/Azure/sdk-release-request/issues/6409,1.0.0b1,
