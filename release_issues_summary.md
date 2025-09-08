@@ -12,5 +12,6 @@
 | 10 | Release for Container Service - 2025-07-01  |  | [#6494](https://github.com/Azure/sdk-release-request/issues/6494)  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 11 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  | [#6479](https://github.com/Azure/sdk-release-request/issues/6479)  |  | 08-12 | 09-25 |  |
 | 12 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 13 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. | Hold on by Go/ |
-| 14 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6520](https://github.com/Azure/sdk-release-request/issues/6520)  |  |  | 08-28 | fail to get. |  |
+| 13 | Release for Container Service - 2025-07-02-preview  |  | [#6551](https://github.com/Azure/sdk-release-request/issues/6551)  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
+| 14 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. | Hold on by Go/ |
+| 15 | [TypeSpec] Go SDK generate request for Firmware Analysis  |  | [#6520](https://github.com/Azure/sdk-release-request/issues/6520)  |  |  | 08-28 | fail to get. |  |
