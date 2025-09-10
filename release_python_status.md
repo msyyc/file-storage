@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 |  | 09-03 | 09-26 |  |
-| 2 | [#6537](https://github.com/Azure/sdk-release-request/issues/6537) | nmarella-ms | azure-mgmt-neonpostgres | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 09-01 | fail to get. |  |
+| 2 | [#6537](https://github.com/Azure/sdk-release-request/issues/6537) | nmarella-ms | azure-mgmt-neonpostgres | ChenxiJiang333 | HoldOn. TypeSpec. | 09-01 | fail to get. |  |
 | 3 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhcivm | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 08-28 | 09-26 |  |
 | 4 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 5 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 |  | 08-25 | 09-25 |  |
