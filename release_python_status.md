@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6556](https://github.com/Azure/sdk-release-request/issues/6556) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 | Attention to inconsistent tag. | 09-10 | 09-26 |  |
+| 1 | [#6556](https://github.com/Azure/sdk-release-request/issues/6556) | tejasm-microsoft | azure-mgmt-quota | ChenxiJiang333 |  | 09-10 | 09-26 |  |
 | 2 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 |  | 09-03 | 09-26 |  |
 | 3 | [#6537](https://github.com/Azure/sdk-release-request/issues/6537) | nmarella-ms | azure-mgmt-neonpostgres | ChenxiJiang333 | HoldOn. TypeSpec. | 09-01 | fail to get. |  |
 | 4 | [#6526](https://github.com/Azure/sdk-release-request/issues/6526) | shraddhasun | azure-mgmt-azurestackhcivm | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 08-28 | 09-26 |  |
