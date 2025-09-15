@@ -47,7 +47,9 @@
     "azure-mgmt-dashboard",
     "azure-mgmt-storageactions",
     "azure-mgmt-containerservicefleet",
-    "azure-mgmt-recoveryservices"
+    "azure-mgmt-recoveryservices",
+    "azure-mgmt-disconnectedoperations",
+    "azure-mgmt-dataprotection"
   ],
   "js": [],
   "go": [],
