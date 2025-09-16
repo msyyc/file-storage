@@ -19,7 +19,6 @@
 | 17 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 18 | [TypeSpec] Go SDK generate request for Group Quota  |  | [#6573](https://github.com/Azure/sdk-release-request/issues/6573)  |  |  | 09-15 | fail to get. |  |
 | 19 | [TypeSpec] Go SDK generate request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. |  |
-| 20 | [TypeSpec] Go SDK generate request for Enhanced soft delete  |  | [#6560](https://github.com/Azure/sdk-release-request/issues/6560)  |  |  | 09-11 | fail to get. |  |
-| 21 | Release for Container Service - 2025-07-02-preview  |  | [#6551](https://github.com/Azure/sdk-release-request/issues/6551)  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
-| 22 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. | Hold on by Go/ |
-| 23 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
+| 20 | Release for Container Service - 2025-07-02-preview  |  | [#6551](https://github.com/Azure/sdk-release-request/issues/6551)  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
+| 21 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. | Hold on by Go/ |
+| 22 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
