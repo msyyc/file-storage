@@ -1,11 +1,11 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6573](https://github.com/Azure/sdk-release-request/issues/6573) | BArthur1972 |  | jliusan | Attention to inconsistent tag. HoldOn. | 09-15 | fail to get. |  |
-| 2 | [#6569](https://github.com/Azure/sdk-release-request/issues/6569) | haagha |  | jliusan | new issue. Attention to inconsistent tag. HoldOn. | 09-15 | fail to get. |  |
+| 2 | [#6569](https://github.com/Azure/sdk-release-request/issues/6569) | haagha |  | jliusan | new issue. new comment. Attention to inconsistent tag. HoldOn. | 09-15 | fail to get. |  |
 | 3 | [#6562](https://github.com/Azure/sdk-release-request/issues/6562) | azure-sdk |  |  |  | 09-12 |  | 0 |
 | 4 | [#6551](https://github.com/Azure/sdk-release-request/issues/6551) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 09-08 | 09-25 |  |
 | 5 | [#6542](https://github.com/Azure/sdk-release-request/issues/6542) | Aman-Jain-14 |  | jliusan |  | 09-03 | 09-26 |  |
-| 6 | [#6535](https://github.com/Azure/sdk-release-request/issues/6535) | nmarella-ms |  | jliusan | new comment. Attention to inconsistent tag. HoldOn. | 09-01 | fail to get. |  |
+| 6 | [#6535](https://github.com/Azure/sdk-release-request/issues/6535) | nmarella-ms |  | jliusan | new comment. Attention to inconsistent tag. | 09-01 | fail to get. |  |
 | 7 | [#6523](https://github.com/Azure/sdk-release-request/issues/6523) | shraddhasun |  | jliusan | new comment. HoldOn. | 08-28 | 09-26 |  |
 | 8 | [#6506](https://github.com/Azure/sdk-release-request/issues/6506) | CarlOchs |  | jliusan | Attention to inconsistent tag. | 08-26 | 09-26 |  |
 | 9 | [#6501](https://github.com/Azure/sdk-release-request/issues/6501) | amarjeetkr |  | jliusan | Attention to inconsistent tag. | 08-25 | 09-25 |  |

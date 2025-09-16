@@ -1,7 +1,7 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [TypeSpec] Python SDK generate request for Group Quota  | [#6571](https://github.com/Azure/sdk-release-request/issues/6571)  |  |  |  | 09-15 | fail to get. |  |
-| 2 | [TypeSpec] Python SDK generate request for Azure Dedicated Host  | [#6567](https://github.com/Azure/sdk-release-request/issues/6567)  |  |  |  | 09-15 |  |  |
+| 2 | Python SDK release request for Azure Dedicated Host  | [#6567](https://github.com/Azure/sdk-release-request/issues/6567)  |  |  |  | 09-15 | fail to get. |  |
 | 3 | Release for Azure Search 2025-10-01-Preview  | [#6565](https://github.com/Azure/sdk-release-request/issues/6565)  | [#6562](https://github.com/Azure/sdk-release-request/issues/6562)  | [#6563](https://github.com/Azure/sdk-release-request/issues/6563)  | [#6564](https://github.com/Azure/sdk-release-request/issues/6564)  | 09-12 |  |  |
 | 4 | [TypeSpec] Python SDK generate request for Enhanced soft delete  | [#6558](https://github.com/Azure/sdk-release-request/issues/6558)  |  |  |  | 09-11 | fail to get. | Hold on by Python/ |
 | 5 | StorageCache support for AutoExport and AutoImport (2024-07-01, 2025-07-01)  | [#6545](https://github.com/Azure/sdk-release-request/issues/6545)  | [#6542](https://github.com/Azure/sdk-release-request/issues/6542)  | [#6547](https://github.com/Azure/sdk-release-request/issues/6547)  | [#6544](https://github.com/Azure/sdk-release-request/issues/6544)  | 09-03 | 09-26 |  |
@@ -11,14 +11,14 @@
 | 9 | ADLS SDK  | [#6486](https://github.com/Azure/sdk-release-request/issues/6486)  | [#6483](https://github.com/Azure/sdk-release-request/issues/6483)  |  |  | 08-12 | 09-25 |  |
 | 10 | Release for Storage - 2025-01-01  | [#6467](https://github.com/Azure/sdk-release-request/issues/6467)  | [#6464](https://github.com/Azure/sdk-release-request/issues/6464)  | [#6465](https://github.com/Azure/sdk-release-request/issues/6465)  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 | Hold on by JS/Java/Go/Python/ |
 | 11 | [TypeSpec] Java SDK generate request for Group Quota  |  |  | [#6572](https://github.com/Azure/sdk-release-request/issues/6572)  |  | 09-15 | fail to get. |  |
-| 12 | [TypeSpec] Java SDK generate request for Azure Dedicated Host  |  |  | [#6570](https://github.com/Azure/sdk-release-request/issues/6570)  |  | 09-15 | fail to get. |  |
+| 12 | Java SDK release request for Azure Dedicated Host  |  |  | [#6570](https://github.com/Azure/sdk-release-request/issues/6570)  |  | 09-15 | fail to get. |  |
 | 13 | [TypeSpec] Java SDK generate request for Enhanced soft delete  |  |  | [#6561](https://github.com/Azure/sdk-release-request/issues/6561)  |  | 09-11 | fail to get. |  |
 | 14 | Release for Quota 2025-09-01  |  |  | [#6554](https://github.com/Azure/sdk-release-request/issues/6554)  | [#6555](https://github.com/Azure/sdk-release-request/issues/6555)  | 09-10 | 09-26 | Hold on by JS/Java/ |
 | 15 | Release for Container Service - 2025-07-01  |  | [#6494](https://github.com/Azure/sdk-release-request/issues/6494)  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 16 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 17 | [TypeSpec] Go SDK generate request for Group Quota  |  | [#6573](https://github.com/Azure/sdk-release-request/issues/6573)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
-| 18 | [TypeSpec] Go SDK generate request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
+| 18 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
 | 19 | Release for Container Service - 2025-07-02-preview  |  | [#6551](https://github.com/Azure/sdk-release-request/issues/6551)  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
-| 20 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. | Hold on by Go/ |
+| 20 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. |  |
 | 21 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  |  |  | 08-12 | 09-25 |  |
 | 22 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |

@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6572](https://github.com/Azure/sdk-release-request/issues/6572) | BArthur1972 |  | haolingdong-msft | new issue. Attention to inconsistent tag. | 09-15 | fail to get. |  |
-| 2 | [#6570](https://github.com/Azure/sdk-release-request/issues/6570) | haagha |  | haolingdong-msft | new issue. Attention to inconsistent tag. | 09-15 | fail to get. |  |
+| 2 | [#6570](https://github.com/Azure/sdk-release-request/issues/6570) | haagha |  | haolingdong-msft | new issue. new comment. Attention to inconsistent tag. | 09-15 | fail to get. |  |
 | 3 | [#6563](https://github.com/Azure/sdk-release-request/issues/6563) | azure-sdk |  |  |  | 09-12 |  | 0 |
 | 4 | [#6561](https://github.com/Azure/sdk-release-request/issues/6561) | zubairabid |  | haolingdong-msft | new issue. Attention to inconsistent tag. | 09-11 | fail to get. |  |
 | 5 | [#6554](https://github.com/Azure/sdk-release-request/issues/6554) | tejasm-microsoft |  | weidongxu-microsoft | Attention to inconsistent tag. HoldOn. | 09-10 | 09-26 |  |
