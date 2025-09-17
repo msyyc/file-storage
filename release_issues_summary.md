@@ -22,5 +22,6 @@
 | 20 | Release for Container Service - 2025-07-02-preview  |  | [#6551](https://github.com/Azure/sdk-release-request/issues/6551)  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
 | 21 | [TypeSpec] Go SDK generate request for Liftr - Neon integration SaaS offer on Marketplace  |  | [#6535](https://github.com/Azure/sdk-release-request/issues/6535)  |  |  | 09-01 | fail to get. |  |
 | 22 | Release for containerapp 2025-02-02-preview  |  | [#6478](https://github.com/Azure/sdk-release-request/issues/6478)  |  |  | 08-12 | 09-25 |  |
-| 23 | Release for Quota 2025-09-01  |  |  |  | [#6555](https://github.com/Azure/sdk-release-request/issues/6555)  | 09-10 | 09-26 | Hold on by JS/ |
-| 24 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
+| 23 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
+| 24 | Release for Quota 2025-09-01  |  |  |  | [#6555](https://github.com/Azure/sdk-release-request/issues/6555)  | 09-10 | 09-26 | Hold on by JS/ |
+| 25 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
