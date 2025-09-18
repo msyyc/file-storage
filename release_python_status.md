@@ -5,7 +5,7 @@
 | 3 | [#6571](https://github.com/Azure/sdk-release-request/issues/6571) | BArthur1972 | azure-mgmt-quota | ChenxiJiang333 | TypeSpec. | 09-15 | fail to get. |  |
 | 4 | [#6567](https://github.com/Azure/sdk-release-request/issues/6567) | haagha | azure-mgmt-compute | ChenxiJiang333 | new comment. ForCLI. | 09-15 | fail to get. |  |
 | 5 | [#6565](https://github.com/Azure/sdk-release-request/issues/6565) | azure-sdk |  |  |  | 09-12 |  | 0 |
-| 6 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | HoldOn. TypeSpec. | 09-11 | fail to get. |  |
+| 6 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 09-11 | fail to get. |  |
 | 7 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 | new comment. HoldOn. | 09-03 | 09-26 |  |
 | 8 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
 | 9 | [#6504](https://github.com/Azure/sdk-release-request/issues/6504) | amarjeetkr | azure-mgmt-datamigration | ChenxiJiang333 |  | 08-25 | 09-25 |  |
