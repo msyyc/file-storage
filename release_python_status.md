@@ -3,7 +3,7 @@
 | 1 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 09-16 | 10-24 |  |
 | 2 | [#6578](https://github.com/Azure/sdk-release-request/issues/6578) | fponzi-ms | azure-mgmt-keyvault | ChenxiJiang333 | ForCLI. | 09-16 | 10-23 |  |
 | 3 | [#6571](https://github.com/Azure/sdk-release-request/issues/6571) | BArthur1972 | azure-mgmt-quota | ChenxiJiang333 | TypeSpec. | 09-15 | fail to get. |  |
-| 4 | [#6567](https://github.com/Azure/sdk-release-request/issues/6567) | haagha | azure-mgmt-compute | ChenxiJiang333 | ForCLI. | 09-15 | fail to get. |  |
+| 4 | [#6567](https://github.com/Azure/sdk-release-request/issues/6567) | haagha | azure-mgmt-compute | ChenxiJiang333 | new comment. ForCLI. | 09-15 | fail to get. |  |
 | 5 | [#6565](https://github.com/Azure/sdk-release-request/issues/6565) | azure-sdk |  |  |  | 09-12 |  | 0 |
 | 6 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | HoldOn. TypeSpec. | 09-11 | fail to get. |  |
 | 7 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 |  | 09-03 | 09-26 |  |
