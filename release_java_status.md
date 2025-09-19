@@ -8,5 +8,5 @@
 | 6 | [#6547](https://github.com/Azure/sdk-release-request/issues/6547) | Aman-Jain-14 |  | haolingdong-msft | new comment. HoldOn. | 09-03 | 09-26 |  |
 | 7 | [#6502](https://github.com/Azure/sdk-release-request/issues/6502) | amarjeetkr |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. | 08-25 | 09-25 |  |
 | 8 | [#6495](https://github.com/Azure/sdk-release-request/issues/6495) | fumingzhang |  | XiaofeiCao | new issue. | 08-20 | 09-25 |  |
-| 9 | [#6465](https://github.com/Azure/sdk-release-request/issues/6465) | blueww |  | v-hongli1 | HoldOn. | 08-08 | 09-26 |  |
+| 9 | [#6465](https://github.com/Azure/sdk-release-request/issues/6465) | blueww |  | v-hongli1 | new comment. | 08-08 | 09-26 |  |
 | 10 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
