@@ -5,16 +5,16 @@
 |3|[#46464](https://github.com/Azure/azure-sdk-for-java/issues/46464)|[mgmt] remove external dependencies, e.g. Netty, Jackson|Mgmt|XiaofeiCao||2025-08-21|
 |4|[#46463](https://github.com/Azure/azure-sdk-for-java/issues/46463)|[mgmt] Open discussion, enhance SDK dependency and logging experience|Mgmt|XiaofeiCao||2025-08-21|
 |5|[#46429](https://github.com/Azure/azure-sdk-for-java/issues/46429)|[mgmt] Add resourcemanager libraries into patch_release_client.txt|Mgmt|XiaofeiCao||2025-08-18|
-|6|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|weidongxu-microsoft, XiaofeiCao||2025-08-07|
+|6|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-team-attention|XiaofeiCao, weidongxu-microsoft||2025-08-07|
 |7|[#46264](https://github.com/Azure/azure-sdk-for-java/issues/46264)|[mgmt] premium packages, consider a common place to put changelogs together|Mgmt|XiaofeiCao||2025-08-04|
 |8|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |9|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
 |10|[#46159](https://github.com/Azure/azure-sdk-for-java/issues/46159)|[BUG] Role assignment to Synapse workspace fails with RoleDefinitionDoesNotExist for valid Synapse Contributor role ID|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2025-07-25|
-|11|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|weidongxu-microsoft, XiaofeiCao||2025-07-24|
+|11|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|XiaofeiCao, weidongxu-microsoft||2025-07-24|
 |12|[#46009](https://github.com/Azure/azure-sdk-for-java/issues/46009)|[mgmt] package specific generate script in some separated premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |13|[#46007](https://github.com/Azure/azure-sdk-for-java/issues/46007)|[mgmt] selectively enable `modelerfour.lenient-model-deduplication` for premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |14|[#45993](https://github.com/Azure/azure-sdk-for-java/issues/45993)|[mgmt] move premium packages to separate folder|Mgmt|XiaofeiCao||2025-07-11|
-|15|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2025-07-07|
+|15|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
 |16|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
 |17|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
 |18|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
@@ -50,4 +50,4 @@
 |48|[#37374](https://github.com/Azure/azure-sdk-for-java/issues/37374)|resourcemanager.cdn.fluent.EndpointsClient blocks thread for > 1 minute|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft||2023-10-25|
 |49|[#37270](https://github.com/Azure/azure-sdk-for-java/issues/37270)|[QUERY]  Figure out if ASR protection is enabled for VMs using Azure SDK for Java|question, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao|new comment|2023-10-20|
 |50|[#37097](https://github.com/Azure/azure-sdk-for-java/issues/37097)|[BUG] networkWatcher.getFlowLogSettings(securityGroup.id()) sporadically returning null|question, Mgmt, Client, customer-reported, needs-team-triage, Track 1|XiaofeiCao||2023-10-09|
-|51|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|weidongxu-microsoft, XiaofeiCao|new comment|2023-09-21|
+|51|[#36880](https://github.com/Azure/azure-sdk-for-java/issues/36880)|LRO failure after 16 seconds (orginal title: ClientClosedRequest for Async requests)|question, Mgmt, customer-reported|XiaofeiCao, weidongxu-microsoft|new comment|2023-09-21|
