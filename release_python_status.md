@@ -3,7 +3,7 @@
 | 1 | [#6595](https://github.com/Azure/sdk-release-request/issues/6595) | IannGeorges |  | ChenxiJiang333 | duplicated issue  <br> | 09-19 |  | 0 |
 | 2 | [#6590](https://github.com/Azure/sdk-release-request/issues/6590) | tgoodyear | azure-mgmt-mission | ChenxiJiang333 |  | 09-19 | 10-24 |  |
 | 3 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 |  | 09-16 | 10-24 |  |
-| 4 | [#6578](https://github.com/Azure/sdk-release-request/issues/6578) | fponzi-ms | azure-mgmt-keyvault | ChenxiJiang333 | close to release date. ForCLI. | 09-16 | 09-22 | 1 |
+| 4 | [#6578](https://github.com/Azure/sdk-release-request/issues/6578) | fponzi-ms | azure-mgmt-keyvault | ChenxiJiang333 | close to release date. ForCLI. | 09-16 | 09-22 | 0 |
 | 5 | [#6571](https://github.com/Azure/sdk-release-request/issues/6571) | BArthur1972 | azure-mgmt-quota | ChenxiJiang333 | TypeSpec. | 09-15 | fail to get. |  |
 | 6 | [#6567](https://github.com/Azure/sdk-release-request/issues/6567) | haagha | azure-mgmt-compute | ChenxiJiang333 | new comment. ForCLI. | 09-15 | fail to get. |  |
 | 7 | [#6565](https://github.com/Azure/sdk-release-request/issues/6565) | azure-sdk |  |  | duplicated issue  <br> | 09-12 |  | 0 |
