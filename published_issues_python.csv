@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-compute,azure-sdk,ChenxiJiang333,2025-09-15,2025-09-22,https://github.com/Azure/sdk-release-request/issues/6567,37.0.0,True
 azure-mgmt-sql,azure-sdk,ChenxiJiang333,2025-07-25,2025-09-15,https://github.com/Azure/sdk-release-request/issues/6446,4.0.0b23,
 azure-mgmt-dashboard,azure-sdk,ChenxiJiang333,2025-07-17,2025-09-08,https://github.com/Azure/sdk-release-request/issues/6426,2.0.0b1,
 azure-mgmt-containerservicefleet,azure-sdk,ChenxiJiang333,2025-07-29,2025-09-08,https://github.com/Azure/sdk-release-request/issues/6449,4.0.0b1,
