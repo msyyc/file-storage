@@ -50,7 +50,6 @@
     "azure-mgmt-recoveryservices",
     "azure-mgmt-disconnectedoperations",
     "azure-mgmt-dataprotection",
-    "azure-mgmt-compute",
     "azure-mgmt-quota"
   ],
   "js": [],
