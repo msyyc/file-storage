@@ -8,4 +8,3 @@
 | 6 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 09-11 | fail to get. |  |
 | 7 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 | new comment. HoldOn. | 09-03 | 09-26 |  |
 | 8 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 08-26 | 09-26 |  |
-| 9 | [#6467](https://github.com/Azure/sdk-release-request/issues/6467) | blueww | azure-mgmt-storage | ChenxiJiang333 | new comment. | 08-08 | 09-26 |  |
