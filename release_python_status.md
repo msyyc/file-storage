@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6598](https://github.com/Azure/sdk-release-request/issues/6598) | mihretkidane-OCI | azure-mgmt-oracledatabase | ChenxiJiang333 | new issue. Attention to inconsistent tag. | 09-23 | fail to get. |  |
+| 1 | [#6598](https://github.com/Azure/sdk-release-request/issues/6598) | mihretkidane-OCI |  | ChenxiJiang333 | duplicated issue  <br> | 09-23 |  | 0 |
 | 2 | [#6595](https://github.com/Azure/sdk-release-request/issues/6595) | IannGeorges | azure-mgmt-dataprotection | ChenxiJiang333 | new comment. TypeSpec. | 09-19 | fail to get. |  |
 | 3 | [#6590](https://github.com/Azure/sdk-release-request/issues/6590) | tgoodyear |  | ChenxiJiang333 | duplicated issue  <br> | 09-19 |  | 0 |
 | 4 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 09-16 | 09-26 | 2 |
