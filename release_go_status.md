@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6599](https://github.com/Azure/sdk-release-request/issues/6599) | mihretkidane-OCI |  | jliusan | new issue. Attention to inconsistent tag. | 09-23 | fail to get. |  |
-| 2 | [#6594](https://github.com/Azure/sdk-release-request/issues/6594) | IannGeorges |  | jliusan | new issue. new comment. | 09-19 | fail to get. |  |
+| 1 | [#6599](https://github.com/Azure/sdk-release-request/issues/6599) | mihretkidane-OCI |  | jliusan | Attention to inconsistent tag. | 09-23 | fail to get. |  |
+| 2 | [#6594](https://github.com/Azure/sdk-release-request/issues/6594) | IannGeorges |  | jliusan |  | 09-19 | fail to get. |  |
 | 3 | [#6587](https://github.com/Azure/sdk-release-request/issues/6587) | tgoodyear |  | jliusan | new issue. | 09-19 | 10-24 |  |
 | 4 | [#6580](https://github.com/Azure/sdk-release-request/issues/6580) | audunn |  | jliusan | new issue. | 09-16 | 10-24 |  |
 | 5 | [#6575](https://github.com/Azure/sdk-release-request/issues/6575) | fponzi-ms |  | jliusan | new issue. | 09-16 | 10-23 |  |
