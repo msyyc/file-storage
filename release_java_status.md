@@ -4,7 +4,7 @@
 | 2 | [#6588](https://github.com/Azure/sdk-release-request/issues/6588) | tgoodyear |  | XiaofeiCao | new issue. | 09-19 | 10-24 |  |
 | 3 | [#6581](https://github.com/Azure/sdk-release-request/issues/6581) | audunn |  | weidongxu-microsoft | new issue. | 09-16 | 10-24 |  |
 | 4 | [#6576](https://github.com/Azure/sdk-release-request/issues/6576) | fponzi-ms |  | v-hongli1 | new issue. | 09-16 | 10-23 |  |
-| 5 | [#6570](https://github.com/Azure/sdk-release-request/issues/6570) | haagha |  | v-hongli1 | new issue. new comment. Attention to inconsistent tag. | 09-15 | fail to get. |  |
+| 5 | [#6570](https://github.com/Azure/sdk-release-request/issues/6570) | haagha |  | XiaofeiCao | new issue. new comment. Attention to inconsistent tag. | 09-15 | fail to get. |  |
 | 6 | [#6563](https://github.com/Azure/sdk-release-request/issues/6563) | azure-sdk |  |  |  | 09-12 |  | 0 |
 | 7 | [#6561](https://github.com/Azure/sdk-release-request/issues/6561) | zubairabid |  | weidongxu-microsoft | Attention to inconsistent tag. HoldOn. | 09-11 | fail to get. |  |
 | 8 | [#6547](https://github.com/Azure/sdk-release-request/issues/6547) | Aman-Jain-14 |  | haolingdong-msft | new comment. close to release date. HoldOn. | 09-03 | 09-26 | 2 |
