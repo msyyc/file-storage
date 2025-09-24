@@ -1,8 +1,8 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6601](https://github.com/Azure/sdk-release-request/issues/6601) | pkamboj_microsoft |  | haolingdong-msft | new issue. | 09-23 | 10-23 |  |
-| 2 | [#6597](https://github.com/Azure/sdk-release-request/issues/6597) | mihretkidane-OCI |  | haolingdong-msft | new issue. Attention to inconsistent tag. | 09-23 | fail to get. |  |
-| 3 | [#6592](https://github.com/Azure/sdk-release-request/issues/6592) | IannGeorges |  | XiaofeiCao | new issue. new comment. | 09-19 | fail to get. |  |
+| 2 | [#6597](https://github.com/Azure/sdk-release-request/issues/6597) | mihretkidane-OCI |  | weidongxu-microsoft | new issue. Attention to inconsistent tag. | 09-23 | fail to get. |  |
+| 3 | [#6592](https://github.com/Azure/sdk-release-request/issues/6592) | IannGeorges |  | XiaofeiCao |  | 09-19 | fail to get. |  |
 | 4 | [#6588](https://github.com/Azure/sdk-release-request/issues/6588) | tgoodyear |  | XiaofeiCao | new issue. | 09-19 | 10-24 |  |
 | 5 | [#6581](https://github.com/Azure/sdk-release-request/issues/6581) | audunn |  | weidongxu-microsoft | new issue. | 09-16 | 10-24 |  |
 | 6 | [#6576](https://github.com/Azure/sdk-release-request/issues/6576) | fponzi-ms |  | v-hongli1 | new issue. | 09-16 | 10-23 |  |
