@@ -12,13 +12,13 @@
 | 10 | Release for Azure key vault api version 2025-05-01  |  | [#6575](https://github.com/Azure/sdk-release-request/issues/6575)  | [#6576](https://github.com/Azure/sdk-release-request/issues/6576)  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
 | 11 | Java SDK release request for Azure Dedicated Host  |  |  | [#6570](https://github.com/Azure/sdk-release-request/issues/6570)  |  | 09-15 | fail to get. |  |
 | 12 | [TypeSpec] Java SDK generate request for Enhanced soft delete  |  |  | [#6561](https://github.com/Azure/sdk-release-request/issues/6561)  |  | 09-11 | fail to get. | Hold on by Java/ |
-| 13 | Release for Container Service - 2025-07-01  |  |  | [#6495](https://github.com/Azure/sdk-release-request/issues/6495)  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
-| 14 | Release for Storage - 2025-01-01  |  | [#6464](https://github.com/Azure/sdk-release-request/issues/6464)  | [#6465](https://github.com/Azure/sdk-release-request/issues/6465)  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 |  |
-| 15 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 16 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6599](https://github.com/Azure/sdk-release-request/issues/6599)  |  |  | 09-23 | fail to get. |  |
-| 17 | [TypeSpec] Go SDK generate request for Vaulted Backup for Azure Data Lake Storage  |  | [#6594](https://github.com/Azure/sdk-release-request/issues/6594)  |  |  | 09-19 | fail to get. |  |
-| 18 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
-| 19 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by Go/ |
-| 20 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
-| 21 | Release for Container Service - 2025-07-02-preview  |  |  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
+| 13 | Release for Storage - 2025-01-01  |  | [#6464](https://github.com/Azure/sdk-release-request/issues/6464)  | [#6465](https://github.com/Azure/sdk-release-request/issues/6465)  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 |  |
+| 14 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
+| 15 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6599](https://github.com/Azure/sdk-release-request/issues/6599)  |  |  | 09-23 | fail to get. |  |
+| 16 | [TypeSpec] Go SDK generate request for Vaulted Backup for Azure Data Lake Storage  |  | [#6594](https://github.com/Azure/sdk-release-request/issues/6594)  |  |  | 09-19 | fail to get. |  |
+| 17 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
+| 18 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by Go/ |
+| 19 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
+| 20 | Release for Container Service - 2025-07-02-preview  |  |  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
+| 21 | Release for Container Service - 2025-07-01  |  |  |  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
 | 22 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
