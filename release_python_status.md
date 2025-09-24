@@ -5,7 +5,6 @@
 | 3 | [#6595](https://github.com/Azure/sdk-release-request/issues/6595) | IannGeorges | azure-mgmt-dataprotection | ChenxiJiang333 | new comment. TypeSpec. | 09-19 | fail to get. |  |
 | 4 | [#6590](https://github.com/Azure/sdk-release-request/issues/6590) | tgoodyear | azure-mgmt-virtualenclaves | ChenxiJiang333 | new issue. FirstBeta. TypeSpec. | 09-19 | 10-24 |  |
 | 5 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 09-16 | 09-26 | 1 |
-| 6 | [#6571](https://github.com/Azure/sdk-release-request/issues/6571) | BArthur1972 | azure-mgmt-quota | ChenxiJiang333 | TypeSpec. | 09-15 | fail to get. |  |
-| 7 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | new comment. HoldOn. TypeSpec. | 09-11 | fail to get. |  |
-| 8 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 | new comment. close to release date. HoldOn. | 09-03 | 09-26 | 1 |
-| 9 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | close to release date. | 08-26 | 09-26 | 1 |
+| 6 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | HoldOn. TypeSpec. | 09-11 | fail to get. |  |
+| 7 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 | new comment. close to release date. HoldOn. | 09-03 | 09-26 | 1 |
+| 8 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | close to release date. | 08-26 | 09-26 | 1 |
