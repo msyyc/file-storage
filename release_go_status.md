@@ -10,4 +10,3 @@
 | 8 | [#6542](https://github.com/Azure/sdk-release-request/issues/6542) | Aman-Jain-14 |  | jliusan | new comment. close to release date. HoldOn. | 09-03 | 09-26 | 1 |
 | 9 | [#6506](https://github.com/Azure/sdk-release-request/issues/6506) | CarlOchs |  | jliusan | close to release date. Attention to inconsistent tag. | 08-26 | 09-26 | 1 |
 | 10 | [#6501](https://github.com/Azure/sdk-release-request/issues/6501) | amarjeetkr |  | jliusan | close to release date. Attention to inconsistent tag. HoldOn. | 08-25 | 09-25 | 0 |
-| 11 | [#6464](https://github.com/Azure/sdk-release-request/issues/6464) | blueww |  | jliusan | new comment. close to release date. | 08-08 | 09-26 | 1 |

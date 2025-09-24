@@ -12,7 +12,7 @@
 | 10 | Release for Azure key vault api version 2025-05-01  |  | [#6575](https://github.com/Azure/sdk-release-request/issues/6575)  | [#6576](https://github.com/Azure/sdk-release-request/issues/6576)  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
 | 11 | Java SDK release request for Azure Dedicated Host  |  |  | [#6570](https://github.com/Azure/sdk-release-request/issues/6570)  |  | 09-15 | fail to get. |  |
 | 12 | [TypeSpec] Java SDK generate request for Enhanced soft delete  |  |  | [#6561](https://github.com/Azure/sdk-release-request/issues/6561)  |  | 09-11 | fail to get. | Hold on by Java/ |
-| 13 | Release for Storage - 2025-01-01  |  | [#6464](https://github.com/Azure/sdk-release-request/issues/6464)  | [#6465](https://github.com/Azure/sdk-release-request/issues/6465)  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 |  |
+| 13 | Release for Storage - 2025-01-01  |  |  | [#6465](https://github.com/Azure/sdk-release-request/issues/6465)  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 |  |
 | 14 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 15 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6599](https://github.com/Azure/sdk-release-request/issues/6599)  |  |  | 09-23 | fail to get. |  |
 | 16 | [TypeSpec] Go SDK generate request for Vaulted Backup for Azure Data Lake Storage  |  | [#6594](https://github.com/Azure/sdk-release-request/issues/6594)  |  |  | 09-19 | fail to get. |  |
