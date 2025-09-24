@@ -17,7 +17,7 @@
 | 15 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6599](https://github.com/Azure/sdk-release-request/issues/6599)  |  |  | 09-23 | fail to get. |  |
 | 16 | [TypeSpec] Go SDK generate request for Vaulted Backup for Azure Data Lake Storage  |  | [#6594](https://github.com/Azure/sdk-release-request/issues/6594)  |  |  | 09-19 | fail to get. |  |
 | 17 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
-| 18 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by Go/ |
+| 18 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by JS/Go/ |
 | 19 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
 | 20 | Release for Container Service - 2025-07-02-preview  |  |  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
 | 21 | Release for Container Service - 2025-07-01  |  |  |  | [#6496](https://github.com/Azure/sdk-release-request/issues/6496)  | 08-20 | 09-25 |  |
