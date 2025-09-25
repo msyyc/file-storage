@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [TypeSpec] Python SDK generate request for Durable Task Scheduler  | [#6606](https://github.com/Azure/sdk-release-request/issues/6606)  |  |  |  | 09-24 |  |  |
+| 1 | [TypeSpec] Python SDK generate request for Durable Task Scheduler  | [#6606](https://github.com/Azure/sdk-release-request/issues/6606)  |  |  |  | 09-24 | fail to get. |  |
 | 2 | Release Microsoft.Network 2024-10-01 #35689  | [#6603](https://github.com/Azure/sdk-release-request/issues/6603)  | [#6600](https://github.com/Azure/sdk-release-request/issues/6600)  | [#6601](https://github.com/Azure/sdk-release-request/issues/6601)  | [#6602](https://github.com/Azure/sdk-release-request/issues/6602)  | 09-23 | 10-23 |  |
 | 3 | [TypeSpec] Python SDK generate request for Oracle Database@Azure  | [#6598](https://github.com/Azure/sdk-release-request/issues/6598)  |  |  |  | 09-23 | fail to get. |  |
 | 4 | [TypeSpec] Python SDK generate request for Vaulted Backup for Azure Data Lake Storage  | [#6595](https://github.com/Azure/sdk-release-request/issues/6595)  |  |  |  | 09-19 | fail to get. |  |
