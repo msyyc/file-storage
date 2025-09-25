@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6602](https://github.com/Azure/sdk-release-request/issues/6602) | pkamboj_microsoft |  | qiaozha | new issue. | 09-23 | 10-23 |  |
-| 2 | [#6589](https://github.com/Azure/sdk-release-request/issues/6589) | tgoodyear |  | MaryGao | new issue. | 09-19 | 10-24 |  |
+| 2 | [#6589](https://github.com/Azure/sdk-release-request/issues/6589) | tgoodyear |  | MaryGao | new issue. new comment. HoldOn. | 09-19 | 10-24 |  |
 | 3 | [#6582](https://github.com/Azure/sdk-release-request/issues/6582) | audunn |  | MaryGao | new issue. | 09-16 | 10-24 |  |
 | 4 | [#6577](https://github.com/Azure/sdk-release-request/issues/6577) | fponzi-ms |  | MaryGao | new issue. | 09-16 | 10-23 |  |
 | 5 | [#6568](https://github.com/Azure/sdk-release-request/issues/6568) | haagha |  | MaryGao | Attention to inconsistent tag. | 09-15 | fail to get. |  |
