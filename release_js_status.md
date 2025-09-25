@@ -9,6 +9,5 @@
 | 7 | [#6544](https://github.com/Azure/sdk-release-request/issues/6544) | Aman-Jain-14 |  | MaryGao | new comment. close to release date. | 09-03 | 09-26 | 0 |
 | 8 | [#6508](https://github.com/Azure/sdk-release-request/issues/6508) | CarlOchs |  | qiaozha | close to release date. Attention to inconsistent tag. | 08-26 | 09-26 | 0 |
 | 9 | [#6503](https://github.com/Azure/sdk-release-request/issues/6503) | amarjeetkr |  | qiaozha | close to release date. Attention to inconsistent tag. HoldOn. | 08-25 | 09-25 | 0 |
-| 10 | [#6496](https://github.com/Azure/sdk-release-request/issues/6496) | fumingzhang |  | MaryGao | new comment. close to release date. | 08-20 | 09-25 | 0 |
-| 11 | [#6466](https://github.com/Azure/sdk-release-request/issues/6466) | blueww |  | MaryGao | new comment. close to release date. | 08-08 | 09-26 | 0 |
-| 12 | [#6445](https://github.com/Azure/sdk-release-request/issues/6445) | mohitagarwal-sql |  | qiaozha |  | 07-25 | 08-21 |  |
+| 10 | [#6466](https://github.com/Azure/sdk-release-request/issues/6466) | blueww |  | MaryGao | new comment. close to release date. | 08-08 | 09-26 | 0 |
+| 11 | [#6445](https://github.com/Azure/sdk-release-request/issues/6445) | mohitagarwal-sql |  | qiaozha |  | 07-25 | 08-21 |  |
