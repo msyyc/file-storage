@@ -6,4 +6,3 @@
 | 4 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 | close to release date. | 09-16 | 09-26 | 0 |
 | 5 | [#6558](https://github.com/Azure/sdk-release-request/issues/6558) | zubairabid | azure-mgmt-recoveryservices | ChenxiJiang333 | HoldOn. TypeSpec. | 09-11 | fail to get. |  |
 | 6 | [#6545](https://github.com/Azure/sdk-release-request/issues/6545) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 | new comment. close to release date. | 09-03 | 09-26 | 0 |
-| 7 | [#6509](https://github.com/Azure/sdk-release-request/issues/6509) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | close to release date. | 08-26 | 09-26 | 0 |

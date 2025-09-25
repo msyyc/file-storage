@@ -14,10 +14,8 @@
 | 12 | Release for Storage - 2025-01-01  |  |  | [#6465](https://github.com/Azure/sdk-release-request/issues/6465)  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 |  |
 | 13 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 14 | [TypeSpec] Go SDK generate request for Durable Task Scheduler  |  | [#6607](https://github.com/Azure/sdk-release-request/issues/6607)  |  |  | 09-24 | fail to get. |  |
-| 15 | [TypeSpec] Go SDK generate request for Oracle Database@Azure  |  | [#6599](https://github.com/Azure/sdk-release-request/issues/6599)  |  |  | 09-23 | fail to get. |  |
-| 16 | [TypeSpec] Go SDK generate request for Vaulted Backup for Azure Data Lake Storage  |  | [#6594](https://github.com/Azure/sdk-release-request/issues/6594)  |  |  | 09-19 | fail to get. |  |
-| 17 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
-| 18 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by JS/Go/ |
-| 19 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
-| 20 | Release for Container Service - 2025-07-02-preview  |  |  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
-| 21 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
+| 15 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
+| 16 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by JS/Go/ |
+| 17 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
+| 18 | Release for Container Service - 2025-07-02-preview  |  |  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
+| 19 | Release for Hyperscale Forward Migration progress reporting changes in DatabaseOperations API  |  |  |  | [#6445](https://github.com/Azure/sdk-release-request/issues/6445)  | 07-25 | 08-21 |  |
