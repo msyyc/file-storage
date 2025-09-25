@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6606](https://github.com/Azure/sdk-release-request/issues/6606) | berndverst |  | ChenxiJiang333 |  | 09-24 |  | 0 |
+| 1 | [#6606](https://github.com/Azure/sdk-release-request/issues/6606) | berndverst |  |  |  | 09-24 |  | 0 |
 | 2 | [#6603](https://github.com/Azure/sdk-release-request/issues/6603) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-23 | 10-23 |  |
 | 3 | [#6598](https://github.com/Azure/sdk-release-request/issues/6598) | mihretkidane-OCI | azure-mgmt-oracledatabase | ChenxiJiang333 | TypeSpec. | 09-23 | fail to get. |  |
 | 4 | [#6595](https://github.com/Azure/sdk-release-request/issues/6595) | IannGeorges | azure-mgmt-dataprotection | ChenxiJiang333 | new comment. TypeSpec. | 09-19 | fail to get. |  |

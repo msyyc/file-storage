@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6607](https://github.com/Azure/sdk-release-request/issues/6607) | berndverst |  | jliusan | new issue. Attention to inconsistent tag. | 09-24 | fail to get. |  |
+| 1 | [#6607](https://github.com/Azure/sdk-release-request/issues/6607) | berndverst |  |  | new issue. Attention to inconsistent tag. | 09-24 | fail to get. |  |
 | 2 | [#6600](https://github.com/Azure/sdk-release-request/issues/6600) | pkamboj_microsoft |  | jliusan | new issue. | 09-23 | 10-23 |  |
 | 3 | [#6599](https://github.com/Azure/sdk-release-request/issues/6599) | mihretkidane-OCI |  | jliusan | Attention to inconsistent tag. | 09-23 | fail to get. |  |
 | 4 | [#6594](https://github.com/Azure/sdk-release-request/issues/6594) | IannGeorges |  | jliusan |  | 09-19 | fail to get. |  |
