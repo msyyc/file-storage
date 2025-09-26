@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6609](https://github.com/Azure/sdk-release-request/issues/6609) | 2258093686 |  |  | new issue. | 09-25 | 10-23 |  |
+| 1 | [#6609](https://github.com/Azure/sdk-release-request/issues/6609) | 2258093686 |  |  |  | 09-25 | 10-23 |  |
 | 2 | [#6601](https://github.com/Azure/sdk-release-request/issues/6601) | pkamboj_microsoft |  | v-hongli1 | new issue. | 09-23 | 10-23 |  |
 | 3 | [#6588](https://github.com/Azure/sdk-release-request/issues/6588) | tgoodyear |  | XiaofeiCao | new issue. new comment. HoldOn. | 09-19 | 10-24 |  |
 | 4 | [#6581](https://github.com/Azure/sdk-release-request/issues/6581) | audunn |  | weidongxu-microsoft | new issue. | 09-16 | 10-24 |  |
