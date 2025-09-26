@@ -13,7 +13,7 @@
 | 11 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
 | 12 | StorageCache support for AutoExport and AutoImport (2024-07-01, 2025-07-01)  |  | [#6542](https://github.com/Azure/sdk-release-request/issues/6542)  |  | [#6544](https://github.com/Azure/sdk-release-request/issues/6544)  | 09-03 | 09-26 |  |
 | 13 | Cognitive Services - 2025-06-01 Release  |  | [#6506](https://github.com/Azure/sdk-release-request/issues/6506)  |  | [#6508](https://github.com/Azure/sdk-release-request/issues/6508)  | 08-26 | 09-26 |  |
-| 14 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 | Hold on by JS/ |
+| 14 | Release the stable API version for the DataMigration APIs - 2025-06-30  |  | [#6501](https://github.com/Azure/sdk-release-request/issues/6501)  |  | [#6503](https://github.com/Azure/sdk-release-request/issues/6503)  | 08-25 | 09-25 |  |
 | 15 | JavaScript SDK release request for Azure Dedicated Host  |  |  |  | [#6568](https://github.com/Azure/sdk-release-request/issues/6568)  | 09-15 | fail to get. |  |
 | 16 | Release for Container Service - 2025-07-02-preview  |  |  |  | [#6552](https://github.com/Azure/sdk-release-request/issues/6552)  | 09-08 | 09-25 |  |
 | 17 | Release for Storage - 2025-01-01  |  |  |  | [#6466](https://github.com/Azure/sdk-release-request/issues/6466)  | 08-08 | 09-26 |  |
