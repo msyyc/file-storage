@@ -10,5 +10,4 @@
 | 8 | Java SDK release request for Azure Dedicated Host  |  |  | [#6570](https://github.com/Azure/sdk-release-request/issues/6570)  |  | 09-15 | fail to get. |  |
 | 9 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 10 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
-| 11 | StorageCache support for AutoExport and AutoImport (2024-07-01, 2025-07-01)  |  | [#6542](https://github.com/Azure/sdk-release-request/issues/6542)  |  |  | 09-03 | 09-26 |  |
-| 12 | Cognitive Services - 2025-06-01 Release  |  | [#6506](https://github.com/Azure/sdk-release-request/issues/6506)  |  |  | 08-26 | 09-26 |  |
+| 11 | Cognitive Services - 2025-06-01 Release  |  | [#6506](https://github.com/Azure/sdk-release-request/issues/6506)  |  |  | 08-26 | 09-26 |  |
