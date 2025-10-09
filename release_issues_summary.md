@@ -9,5 +9,5 @@
 | 7 | Release for NetAppFiles - 2025-07-01-preview  |  | [#6580](https://github.com/Azure/sdk-release-request/issues/6580)  | [#6581](https://github.com/Azure/sdk-release-request/issues/6581)  | [#6582](https://github.com/Azure/sdk-release-request/issues/6582)  | 09-16 | 10-24 |  |
 | 8 | Release for Azure key vault api version 2025-05-01  |  | [#6575](https://github.com/Azure/sdk-release-request/issues/6575)  | [#6576](https://github.com/Azure/sdk-release-request/issues/6576)  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 | Hold on by Java/ |
 | 9 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 10 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. | Hold on by Go/ |
+| 10 | Go SDK release request for Azure Dedicated Host  |  | [#6569](https://github.com/Azure/sdk-release-request/issues/6569)  |  |  | 09-15 | fail to get. |  |
 | 11 | Cognitive Services - 2025-06-01 Release  |  | [#6506](https://github.com/Azure/sdk-release-request/issues/6506)  |  |  | 08-26 | 09-26 |  |
