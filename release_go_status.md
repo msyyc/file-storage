@@ -12,4 +12,3 @@
 | 10 | [#6580](https://github.com/Azure/sdk-release-request/issues/6580) | audunn |  | jliusan | new comment. | 09-16 | 10-24 |  |
 | 11 | [#6575](https://github.com/Azure/sdk-release-request/issues/6575) | fponzi-ms |  | jliusan |  | 09-16 | 10-23 |  |
 | 12 | [#6569](https://github.com/Azure/sdk-release-request/issues/6569) | haagha |  | jliusan | Attention to inconsistent tag. | 09-15 | fail to get. |  |
-| 13 | [#6506](https://github.com/Azure/sdk-release-request/issues/6506) | CarlOchs |  | jliusan | Attention to inconsistent tag. | 08-26 | 09-26 |  |
