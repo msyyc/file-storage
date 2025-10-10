@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6642](https://github.com/Azure/sdk-release-request/issues/6642) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | duplicated issue  <br> | 10-10 | 10-23 |  |
+| 1 | [#6642](https://github.com/Azure/sdk-release-request/issues/6642) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | duplicated issue  <br> new comment. | 10-10 | 10-23 |  |
 | 2 | [#6637](https://github.com/Azure/sdk-release-request/issues/6637) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 10-09 | 10-24 |  |
 | 3 | [#6630](https://github.com/Azure/sdk-release-request/issues/6630) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 10-09 | 10-23 |  |
 | 4 | [#6624](https://github.com/Azure/sdk-release-request/issues/6624) | davidemontanari | azure-mgmt-iothub | ChenxiJiang333 |  | 10-02 | 10-24 |  |
