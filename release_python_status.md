@@ -1,9 +1,9 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6661](https://github.com/Azure/sdk-release-request/issues/6661) | blueww | azure-mgmt-storage | ChenxiJiang333 |  | 10-14 | 10-24 |  |
+| 1 | [#6661](https://github.com/Azure/sdk-release-request/issues/6661) | blueww | azure-mgmt-storage | ChenxiJiang333 | new comment. | 10-14 | 10-24 |  |
 | 2 | [#6657](https://github.com/Azure/sdk-release-request/issues/6657) | msyyc | azure-mgmt-recoveryservicesbackup | msyyc |  | 10-14 | 10-18 |  |
 | 3 | [#6656](https://github.com/Azure/sdk-release-request/issues/6656) | vanshjoshi_microsoft | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 10-13 | 11-20 |  |
-| 4 | [#6647](https://github.com/Azure/sdk-release-request/issues/6647) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 |  | 10-13 | 11-20 |  |
+| 4 | [#6647](https://github.com/Azure/sdk-release-request/issues/6647) | jkore1911 | azure-mgmt-elastic | ChenxiJiang333 | new comment. | 10-13 | 11-20 |  |
 | 5 | [#6642](https://github.com/Azure/sdk-release-request/issues/6642) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-10 | 10-23 |  |
 | 6 | [#6637](https://github.com/Azure/sdk-release-request/issues/6637) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 10-09 | 10-24 |  |
 | 7 | [#6630](https://github.com/Azure/sdk-release-request/issues/6630) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 10-09 | 10-23 |  |
