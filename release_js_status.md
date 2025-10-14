@@ -8,7 +8,7 @@
 | 6 | [#6636](https://github.com/Azure/sdk-release-request/issues/6636) | CarlOchs |  | qiaozha | new issue. | 10-09 | 10-24 |  |
 | 7 | [#6629](https://github.com/Azure/sdk-release-request/issues/6629) | najimicrosoft.com |  | qiaozha | new issue. | 10-09 | 10-23 |  |
 | 8 | [#6623](https://github.com/Azure/sdk-release-request/issues/6623) | davidemontanari |  | MaryGao | new issue. | 10-02 | 10-24 |  |
-| 9 | [#6618](https://github.com/Azure/sdk-release-request/issues/6618) | nikitagarg123 |  | MaryGao | new issue. | 09-29 | 10-23 |  |
+| 9 | [#6618](https://github.com/Azure/sdk-release-request/issues/6618) | nikitagarg123 |  | MaryGao | new issue. new comment. | 09-29 | 10-23 |  |
 | 10 | [#6614](https://github.com/Azure/sdk-release-request/issues/6614) | fumingzhang |  | MaryGao | new issue. | 09-28 | 10-23 |  |
 | 11 | [#6610](https://github.com/Azure/sdk-release-request/issues/6610) | 2258093686 |  |  | new issue. | 09-25 | 10-23 |  |
 | 12 | [#6602](https://github.com/Azure/sdk-release-request/issues/6602) | pkamboj_microsoft |  | qiaozha | new issue. | 09-23 | 10-23 |  |
