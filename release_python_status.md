@@ -7,7 +7,7 @@
 | 5 | [#6637](https://github.com/Azure/sdk-release-request/issues/6637) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 |  | 10-09 | 10-24 |  |
 | 6 | [#6630](https://github.com/Azure/sdk-release-request/issues/6630) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 |  | 10-09 | 10-23 |  |
 | 7 | [#6624](https://github.com/Azure/sdk-release-request/issues/6624) | davidemontanari | azure-mgmt-iothub | ChenxiJiang333 |  | 10-02 | 10-24 |  |
-| 8 | [#6619](https://github.com/Azure/sdk-release-request/issues/6619) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 | new comment. | 09-29 | 10-23 |  |
+| 8 | [#6619](https://github.com/Azure/sdk-release-request/issues/6619) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 09-29 | 10-23 |  |
 | 9 | [#6611](https://github.com/Azure/sdk-release-request/issues/6611) | 2258093686 | azure-mgmt-hdinsight |  |  | 09-25 | 10-23 |  |
 | 10 | [#6603](https://github.com/Azure/sdk-release-request/issues/6603) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-23 | 10-23 |  |
 | 11 | [#6590](https://github.com/Azure/sdk-release-request/issues/6590) | tgoodyear | azure-mgmt-virtualenclaves | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 09-19 | 10-24 |  |
