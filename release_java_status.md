@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6659](https://github.com/Azure/sdk-release-request/issues/6659) | blueww |  | weidongxu-microsoft | new issue. | 10-14 | 10-24 |  |
+| 1 | [#6659](https://github.com/Azure/sdk-release-request/issues/6659) | blueww |  | weidongxu-microsoft | new issue. new comment. | 10-14 | 10-24 |  |
 | 2 | [#6654](https://github.com/Azure/sdk-release-request/issues/6654) | vanshjoshi_microsoft |  | XiaofeiCao | new issue. | 10-13 | 11-20 |  |
 | 3 | [#6650](https://github.com/Azure/sdk-release-request/issues/6650) | vanshjoshi_microsoft |  | XiaofeiCao | new issue. | 10-13 | 11-20 |  |
 | 4 | [#6645](https://github.com/Azure/sdk-release-request/issues/6645) | jkore1911 |  | weidongxu-microsoft | new issue. | 10-13 | 11-20 |  |
