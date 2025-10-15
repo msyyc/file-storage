@@ -4,7 +4,7 @@
 |2|[#46464](https://github.com/Azure/azure-sdk-for-java/issues/46464)|[mgmt] remove external dependencies, e.g. Netty, Jackson|Mgmt|XiaofeiCao||2025-08-21|
 |3|[#46463](https://github.com/Azure/azure-sdk-for-java/issues/46463)|[mgmt] Open discussion, enhance SDK dependency and logging experience|Mgmt|XiaofeiCao||2025-08-21|
 |4|[#46429](https://github.com/Azure/azure-sdk-for-java/issues/46429)|[mgmt] Add resourcemanager libraries into patch_release_client.txt|Mgmt|XiaofeiCao||2025-08-18|
-|5|[#46371](https://github.com/Azure/azure-sdk-for-java/issues/46371)|[QUERY]how to create a cross tenant vnet peering with two service principals|question, Mgmt, customer-reported|XiaofeiCao|new issue|2025-08-12|
+|5|[#46371](https://github.com/Azure/azure-sdk-for-java/issues/46371)|[QUERY]how to create a cross tenant vnet peering with two service principals|question, Mgmt, customer-reported|XiaofeiCao||2025-08-12|
 |6|[#46306](https://github.com/Azure/azure-sdk-for-java/issues/46306)|[QUERY]Will Azure java SDK support downloading VNet Flow Logs (those not tied to NSG) via the NetworkWatcher or related client libraries?|question, Network - Network Watcher, Mgmt, customer-reported, Mgmt - Track 2, needs-author-feedback, no-recent-activity|weidongxu-microsoft, XiaofeiCao||2025-08-07|
 |7|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |8|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
