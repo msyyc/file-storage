@@ -10,3 +10,4 @@
 | 8 | [#6619](https://github.com/Azure/sdk-release-request/issues/6619) | nikitagarg123 | azure-mgmt-redisenterprise | ChenxiJiang333 |  | 09-29 | 10-23 |  |
 | 9 | [#6603](https://github.com/Azure/sdk-release-request/issues/6603) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 09-23 | 10-23 |  |
 | 10 | [#6590](https://github.com/Azure/sdk-release-request/issues/6590) | tgoodyear | azure-mgmt-virtualenclaves | ChenxiJiang333 | new comment. FirstBeta. HoldOn. TypeSpec. | 09-19 | 10-24 |  |
+| 11 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 | TypeSpec. | 09-16 | 09-26 |  |
