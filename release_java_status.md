@@ -7,6 +7,5 @@
 | 5 | [#6635](https://github.com/Azure/sdk-release-request/issues/6635) | CarlOchs |  | haolingdong-msft | new issue. | 10-09 | 10-24 |  |
 | 6 | [#6628](https://github.com/Azure/sdk-release-request/issues/6628) | najimicrosoft.com |  | haolingdong-msft | new issue. | 10-09 | 10-23 |  |
 | 7 | [#6622](https://github.com/Azure/sdk-release-request/issues/6622) | davidemontanari |  | XiaofeiCao | new issue. | 10-02 | 10-24 |  |
-| 8 | [#6617](https://github.com/Azure/sdk-release-request/issues/6617) | nikitagarg123 |  | XiaofeiCao | new issue. new comment. | 09-29 | 10-23 |  |
-| 9 | [#6588](https://github.com/Azure/sdk-release-request/issues/6588) | tgoodyear |  | XiaofeiCao | new issue. new comment. HoldOn. | 09-19 | 10-24 |  |
-| 10 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 8 | [#6588](https://github.com/Azure/sdk-release-request/issues/6588) | tgoodyear |  | XiaofeiCao | new issue. new comment. HoldOn. | 09-19 | 10-24 |  |
+| 9 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |

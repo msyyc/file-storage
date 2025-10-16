@@ -10,7 +10,7 @@
 | 8 | [#6621](https://github.com/Azure/sdk-release-request/issues/6621) | davidemontanari |  | jliusan | new issue. | 10-02 | 10-24 |  |
 | 9 | [#6616](https://github.com/Azure/sdk-release-request/issues/6616) | nikitagarg123 |  | jliusan | new issue. new comment. | 09-29 | 10-23 |  |
 | 10 | [#6612](https://github.com/Azure/sdk-release-request/issues/6612) | fumingzhang |  | jliusan |  | 09-28 | 10-23 |  |
-| 11 | [#6608](https://github.com/Azure/sdk-release-request/issues/6608) | 2258093686 |  |  | close to release date. | 09-25 | 10-15 | 0 |
+| 11 | [#6608](https://github.com/Azure/sdk-release-request/issues/6608) | 2258093686 |  |  | close to release date. | 09-25 | 10-15 | -1 |
 | 12 | [#6600](https://github.com/Azure/sdk-release-request/issues/6600) | pkamboj_microsoft |  | jliusan |  | 09-23 | 10-23 |  |
 | 13 | [#6587](https://github.com/Azure/sdk-release-request/issues/6587) | tgoodyear |  | jliusan | new issue. new comment. HoldOn. | 09-19 | 10-24 |  |
 | 14 | [#6580](https://github.com/Azure/sdk-release-request/issues/6580) | audunn |  | jliusan | new comment. | 09-16 | 10-24 |  |
