@@ -7,5 +7,5 @@
 | 5 | [#6642](https://github.com/Azure/sdk-release-request/issues/6642) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | close to release date. | 10-10 | 10-23 | 2 |
 | 6 | [#6637](https://github.com/Azure/sdk-release-request/issues/6637) | CarlOchs | azure-mgmt-cognitiveservices | ChenxiJiang333 | HoldOn. | 10-09 | 10-24 |  |
 | 7 | [#6630](https://github.com/Azure/sdk-release-request/issues/6630) | najimicrosoft.com | azure-mgmt-appcontainers | ChenxiJiang333 | close to release date. | 10-09 | 10-23 | 2 |
-| 10 | [#6603](https://github.com/Azure/sdk-release-request/issues/6603) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | close to release date. | 09-23 | 10-23 | 2 |
-| 11 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 | TypeSpec. | 09-16 | 10-24 |  |
+| 8 | [#6603](https://github.com/Azure/sdk-release-request/issues/6603) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | close to release date. | 09-23 | 10-23 | 2 |
+| 9 | [#6583](https://github.com/Azure/sdk-release-request/issues/6583) | audunn | azure-mgmt-netapp | ChenxiJiang333 | TypeSpec. | 09-16 | 10-24 |  |
