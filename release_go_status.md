@@ -10,7 +10,6 @@
 | 8 | [#6634](https://github.com/Azure/sdk-release-request/issues/6634) | CarlOchs |  | jliusan | close to release date. | 10-09 | 10-24 | 1 |
 | 9 | [#6627](https://github.com/Azure/sdk-release-request/issues/6627) | najimicrosoft.com |  | jliusan | close to release date. | 10-09 | 10-23 | 0 |
 | 10 | [#6621](https://github.com/Azure/sdk-release-request/issues/6621) | davidemontanari |  | jliusan | new issue. close to release date. | 10-02 | 10-24 | 1 |
-| 11 | [#6616](https://github.com/Azure/sdk-release-request/issues/6616) | nikitagarg123 |  | jliusan | new issue. new comment. close to release date. | 09-29 | 10-23 | 0 |
-| 12 | [#6612](https://github.com/Azure/sdk-release-request/issues/6612) | fumingzhang |  | jliusan | close to release date. | 09-28 | 10-23 | 0 |
-| 13 | [#6580](https://github.com/Azure/sdk-release-request/issues/6580) | audunn |  | jliusan | new comment. close to release date. | 09-16 | 10-24 | 1 |
-| 14 | [#6575](https://github.com/Azure/sdk-release-request/issues/6575) | fponzi-ms |  | jliusan | new comment. close to release date. | 09-16 | 10-23 | 0 |
+| 11 | [#6612](https://github.com/Azure/sdk-release-request/issues/6612) | fumingzhang |  | jliusan | close to release date. | 09-28 | 10-23 | 0 |
+| 12 | [#6580](https://github.com/Azure/sdk-release-request/issues/6580) | audunn |  | jliusan | new comment. close to release date. | 09-16 | 10-24 | 1 |
+| 13 | [#6575](https://github.com/Azure/sdk-release-request/issues/6575) | fponzi-ms |  | jliusan | new comment. close to release date. | 09-16 | 10-23 | 0 |
