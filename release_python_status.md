@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6671](https://github.com/Azure/sdk-release-request/issues/6671) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | duplicated issue  <br> new issue. | 10-22 | 11-20 |  |
+| 1 | [#6671](https://github.com/Azure/sdk-release-request/issues/6671) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 | duplicated issue  <br> | 10-22 | 11-20 |  |
 | 2 | [#6666](https://github.com/Azure/sdk-release-request/issues/6666) | norsaad | azure-mgmt-networkcloud | ChenxiJiang333 |  | 10-17 | 11-21 |  |
 | 3 | [#6661](https://github.com/Azure/sdk-release-request/issues/6661) | blueww | azure-mgmt-storage | ChenxiJiang333 | close to release date. | 10-14 | 10-24 | 1 |
 | 4 | [#6656](https://github.com/Azure/sdk-release-request/issues/6656) | vanshjoshi_microsoft | azure-mgmt-newrelicobservability | ChenxiJiang333 |  | 10-13 | 11-20 |  |
