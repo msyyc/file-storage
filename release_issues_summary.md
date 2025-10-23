@@ -14,4 +14,3 @@
 | 12 | Release for Azure key vault api version 2025-05-01  |  | [#6575](https://github.com/Azure/sdk-release-request/issues/6575)  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
 | 13 | Release for Storage - 2025-06-01  |  |  |  | [#6660](https://github.com/Azure/sdk-release-request/issues/6660)  | 10-14 | 10-24 |  |
 | 14 | Release for Redis Enterprise - 2025-07-01  |  |  |  | [#6618](https://github.com/Azure/sdk-release-request/issues/6618)  | 09-29 | 10-23 |  |
-| 15 | Release for Container Service - 2025-08-01  |  |  |  | [#6614](https://github.com/Azure/sdk-release-request/issues/6614)  | 09-28 | 10-23 |  |
