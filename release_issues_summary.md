@@ -12,5 +12,4 @@
 | 10 | Release for Microsoft.Devices/IotHubs Control Plane - 2025-08-01-preview  |  | [#6621](https://github.com/Azure/sdk-release-request/issues/6621)  | [#6622](https://github.com/Azure/sdk-release-request/issues/6622)  | [#6623](https://github.com/Azure/sdk-release-request/issues/6623)  | 10-02 | 10-24 | Hold on by JS/Go/ |
 | 11 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 12 | Release for Azure key vault api version 2025-05-01  |  | [#6575](https://github.com/Azure/sdk-release-request/issues/6575)  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
-| 13 | Release for Storage - 2025-06-01  |  |  |  | [#6660](https://github.com/Azure/sdk-release-request/issues/6660)  | 10-14 | 10-24 |  |
-| 14 | Release for Redis Enterprise - 2025-07-01  |  |  |  | [#6618](https://github.com/Azure/sdk-release-request/issues/6618)  | 09-29 | 10-23 |  |
+| 13 | Release for Redis Enterprise - 2025-07-01  |  |  |  | [#6618](https://github.com/Azure/sdk-release-request/issues/6618)  | 09-29 | 10-23 |  |
