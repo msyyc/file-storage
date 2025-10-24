@@ -1,4 +1,8 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-network,azure-sdk,ChenxiJiang333,2025-09-23,2025-10-24,https://github.com/Azure/sdk-release-request/issues/6603,30.0.0,True
+azure-mgmt-appcontainers,azure-sdk,ChenxiJiang333,2025-10-09,2025-10-24,https://github.com/Azure/sdk-release-request/issues/6630,4.0.0,True
+azure-mgmt-cognitiveservices,azure-sdk,ChenxiJiang333,2025-10-09,2025-10-24,https://github.com/Azure/sdk-release-request/issues/6637,14.1.0,True
+azure-mgmt-network,azure-sdk,ChenxiJiang333,2025-10-22,2025-10-24,https://github.com/Azure/sdk-release-request/issues/6671,30.0.0,True
 azure-mgmt-storage,azure-sdk,ChenxiJiang333,2025-10-14,2025-10-23,https://github.com/Azure/sdk-release-request/issues/6661,24.0.0,True
 azure-mgmt-redisenterprise,azure-sdk,ChenxiJiang333,2025-09-29,2025-10-20,https://github.com/Azure/sdk-release-request/issues/6619,3.1.0,True
 azure-mgmt-iothub,azure-sdk,ChenxiJiang333,2025-10-02,2025-10-20,https://github.com/Azure/sdk-release-request/issues/6624,5.0.0b2,
