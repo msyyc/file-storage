@@ -6,10 +6,10 @@
 |4|[#46371](https://github.com/Azure/azure-sdk-for-java/issues/46371)|[QUERY]how to create a cross tenant vnet peering with two service principals|question, Mgmt, customer-reported|XiaofeiCao||2025-08-12|
 |5|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |6|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
-|7|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|weidongxu-microsoft, XiaofeiCao||2025-07-24|
+|7|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|XiaofeiCao, weidongxu-microsoft||2025-07-24|
 |8|[#46009](https://github.com/Azure/azure-sdk-for-java/issues/46009)|[mgmt] package specific generate script in some separated premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |9|[#46007](https://github.com/Azure/azure-sdk-for-java/issues/46007)|[mgmt] selectively enable `modelerfour.lenient-model-deduplication` for premium packages|Mgmt|XiaofeiCao||2025-07-14|
-|10|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2025-07-07|
+|10|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
 |11|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
 |12|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
 |13|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
