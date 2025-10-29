@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6684](https://github.com/Azure/sdk-release-request/issues/6684) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-28 | 11-20 |  |
+| 1 | [#6684](https://github.com/Azure/sdk-release-request/issues/6684) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new comment. | 10-28 | 11-20 |  |
 | 2 | [#6680](https://github.com/Azure/sdk-release-request/issues/6680) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 10-28 | 11-21 |  |
 | 3 | [#6675](https://github.com/Azure/sdk-release-request/issues/6675) | manpujarimicrosoft.com | azure-mgmt-recoveryservices | ChenxiJiang333 | Attention to inconsistent tag. TypeSpec. | 10-28 | 11-20 |  |
 | 4 | [#6666](https://github.com/Azure/sdk-release-request/issues/6666) | norsaad | azure-mgmt-networkcloud | ChenxiJiang333 |  | 10-17 | 11-21 |  |
