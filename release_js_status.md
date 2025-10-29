@@ -9,4 +9,4 @@
 | 7 | [#6646](https://github.com/Azure/sdk-release-request/issues/6646) | jkore1911 |  | MaryGao | new issue. | 10-13 | 11-20 |  |
 | 8 | [#6636](https://github.com/Azure/sdk-release-request/issues/6636) | CarlOchs |  | qiaozha | HoldOn. | 10-09 | 10-24 |  |
 | 9 | [#6623](https://github.com/Azure/sdk-release-request/issues/6623) | davidemontanari |  | MaryGao | new comment. HoldOn. | 10-02 | 10-24 |  |
-| 10 | [#6577](https://github.com/Azure/sdk-release-request/issues/6577) | fponzi-ms |  | MaryGao | new comment. | 09-16 | 10-23 |  |
+| 10 | [#6577](https://github.com/Azure/sdk-release-request/issues/6577) | fponzi-ms |  | MaryGao | HoldOn. | 09-16 | 10-23 |  |
