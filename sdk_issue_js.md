@@ -1,10 +1,10 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#36352](https://github.com/Azure/azure-sdk-for-js/issues/36352)|Provide optional 'apiVersion' in 'ServiceClientOptions' or 'OperationOptions'|question, customer-reported, Mgmt|kazrael2119, qiaozha|new comment|2025-10-27|
-|2|[#36139](https://github.com/Azure/azure-sdk-for-js/issues/36139)|@azure/arm-mysql-flexible — beginUpdateAndWait does not update publicNetworkAccess property|question, customer-reported, Mgmt, needs-team-attention|MaryGao, kazrael2119|new comment|2025-10-08|
+|2|[#36139](https://github.com/Azure/azure-sdk-for-js/issues/36139)|@azure/arm-mysql-flexible — beginUpdateAndWait does not update publicNetworkAccess property|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, MaryGao|new comment|2025-10-08|
 |3|[#35383](https://github.com/Azure/azure-sdk-for-js/issues/35383)|Inconsistent Azure > KeyVault > Diagnostic Settings (List) response between @azure/arm-monitor v7.0.0 and v8.0.0-beta.5.|question, customer-reported, Mgmt, ARM, needs-team-attention|kazrael2119, qiaozha||2025-07-28|
 |4|[#34779](https://github.com/Azure/azure-sdk-for-js/issues/34779)|arm-cosmosdb 16.3.0 still missing fullTextIndexes after FullTextPath was added|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2025-06-11|
-|5|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|v-jiaodi, MaryGao, kazrael2119|new issue|2025-05-08|
+|5|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|v-jiaodi, kazrael2119, MaryGao|new issue|2025-05-08|
 |6|[#34085](https://github.com/Azure/azure-sdk-for-js/issues/34085)|`ipv6Rules` missing from `NetworkRule` type|question, customer-reported, Mgmt, Storage, Service Attention, needs-team-attention|qiaozha|new comment|2025-04-28|
 |7|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|MaryGao|new comment|2025-04-17|
 |8|[#33035](https://github.com/Azure/azure-sdk-for-js/issues/33035)|SubscriptionClient.subscriptions.get SubscriptionNotFound Error is in the wrong format|bug, customer-reported, Mgmt, Subscription, needs-team-attention|kazrael2119, qiaozha|new comment|2025-02-13|
@@ -19,4 +19,4 @@
 |17|[#29328](https://github.com/Azure/azure-sdk-for-js/issues/29328)|[@azure/arm-machinelearning] Unable to create Job due to bad validation|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-04-16|
 |18|[#29235](https://github.com/Azure/azure-sdk-for-js/issues/29235)|Event grid client requests returned 502 ProviderError|question, customer-reported, Mgmt, Service Attention, Event Grid, needs-team-attention|kazrael2119, qiaozha||2024-04-09|
 |19|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|kazrael2119, josefree, qiaozha||2024-03-01|
-|20|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, Resource Health, test-manual-pass|MaryGao, kazrael2119||2023-11-29|
+|20|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, Resource Health, test-manual-pass|kazrael2119, MaryGao||2023-11-29|
