@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6693](https://github.com/Azure/sdk-release-request/issues/6693) | CodeJourneys | azure-mgmt-containerregistry | ChenxiJiang333 | new issue. | 10-30 | 11-21 |  |
+| 1 | [#6693](https://github.com/Azure/sdk-release-request/issues/6693) | CodeJourneys | azure-mgmt-containerregistry | ChenxiJiang333 |  | 10-30 | 11-21 |  |
 | 2 | [#6688](https://github.com/Azure/sdk-release-request/issues/6688) | violetVogithub | azure-mgmt-monitor | ChenxiJiang333 | Attention to inconsistent tag. | 10-30 | 11-20 |  |
 | 3 | [#6684](https://github.com/Azure/sdk-release-request/issues/6684) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 10-28 | 11-20 |  |
 | 4 | [#6680](https://github.com/Azure/sdk-release-request/issues/6680) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 |  | 10-28 | 11-21 |  |
