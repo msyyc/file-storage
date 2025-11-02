@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6692](https://github.com/Azure/sdk-release-request/issues/6692) | CodeJourneys |  | MaryGao | HoldOn. | 10-30 | 11-21 |  |
-| 2 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | Attention to inconsistent tag. | 10-30 | 11-20 |  |
+| 2 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | new comment. Attention to inconsistent tag. | 10-30 | 11-20 |  |
 | 3 | [#6683](https://github.com/Azure/sdk-release-request/issues/6683) | fumingzhang |  | MaryGao | new issue. | 10-28 | 11-20 |  |
 | 4 | [#6679](https://github.com/Azure/sdk-release-request/issues/6679) | nasc17 |  | MaryGao | new issue. | 10-28 | 11-21 |  |
 | 5 | [#6674](https://github.com/Azure/sdk-release-request/issues/6674) | manpujarimicrosoft.com |  | MaryGao | Attention to inconsistent tag. | 10-28 | 11-20 |  |
