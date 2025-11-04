@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#36139](https://github.com/Azure/azure-sdk-for-js/issues/36139)|@azure/arm-mysql-flexible — beginUpdateAndWait does not update publicNetworkAccess property|question, customer-reported, Mgmt, MySQL, needs-team-attention|kazrael2119, MaryGao|new comment|2025-10-08|
+|1|[#36139](https://github.com/Azure/azure-sdk-for-js/issues/36139)|@azure/arm-mysql-flexible — beginUpdateAndWait does not update publicNetworkAccess property|question, customer-reported, Mgmt, MySQL, needs-author-feedback|kazrael2119, MaryGao||2025-10-08|
 |2|[#35383](https://github.com/Azure/azure-sdk-for-js/issues/35383)|Inconsistent Azure > KeyVault > Diagnostic Settings (List) response between @azure/arm-monitor v7.0.0 and v8.0.0-beta.5.|question, customer-reported, Mgmt, ARM, needs-team-attention|kazrael2119, qiaozha||2025-07-28|
 |3|[#34779](https://github.com/Azure/azure-sdk-for-js/issues/34779)|arm-cosmosdb 16.3.0 still missing fullTextIndexes after FullTextPath was added|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2025-06-11|
 |4|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|v-jiaodi, kazrael2119, MaryGao|new issue|2025-05-08|
@@ -16,5 +16,5 @@
 |14|[#29469](https://github.com/Azure/azure-sdk-for-js/issues/29469)|SDK does not provide means of getting Next Page of Subscription Aliases|question, customer-reported, Mgmt, Service Attention, Subscription, needs-team-attention, no-recent-activity|kazrael2119, qiaozha||2024-04-26|
 |15|[#29328](https://github.com/Azure/azure-sdk-for-js/issues/29328)|[@azure/arm-machinelearning] Unable to create Job due to bad validation|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-04-16|
 |16|[#29235](https://github.com/Azure/azure-sdk-for-js/issues/29235)|Event grid client requests returned 502 ProviderError|question, customer-reported, Mgmt, Service Attention, Event Grid, needs-team-attention|kazrael2119, qiaozha||2024-04-09|
-|17|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|kazrael2119, qiaozha, josefree||2024-03-01|
+|17|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|josefree, kazrael2119, qiaozha||2024-03-01|
 |18|[#27926](https://github.com/Azure/azure-sdk-for-js/issues/27926)|Azure Resource Management Resource Health Sample Issue|Mgmt, Service Attention, Resource Health, test-manual-pass|kazrael2119, MaryGao||2023-11-29|
