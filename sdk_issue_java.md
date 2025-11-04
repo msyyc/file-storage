@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#47141](https://github.com/Azure/azure-sdk-for-java/issues/47141)|[MGMT] package split for containerregistry|Mgmt, needs-triage|weidongxu-microsoft||2025-11-03|
-|2|[#47110](https://github.com/Azure/azure-sdk-for-java/issues/47110)|[DISCUSSION] Should `getFinalResult` impl throw an HttpResponseException, if Poller completed not as successful|Mgmt|srnagar, weidongxu-microsoft||2025-10-28|
+|2|[#47110](https://github.com/Azure/azure-sdk-for-java/issues/47110)|[DISCUSSION] Should `getFinalResult` impl throw an HttpResponseException, if Poller completed not as successful|Mgmt|weidongxu-microsoft, srnagar||2025-10-28|
 |3|[#46465](https://github.com/Azure/azure-sdk-for-java/issues/46465)|[mgmt] discussion, enhance logging experience|Mgmt|XiaofeiCao||2025-08-21|
 |4|[#46464](https://github.com/Azure/azure-sdk-for-java/issues/46464)|[mgmt] remove external dependencies, e.g. Netty, Jackson|Mgmt|XiaofeiCao||2025-08-21|
 |5|[#46463](https://github.com/Azure/azure-sdk-for-java/issues/46463)|[mgmt] Open discussion, enhance SDK dependency and logging experience|Mgmt|XiaofeiCao||2025-08-21|
@@ -26,7 +26,7 @@
 |24|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |25|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |26|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
-|27|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
+|27|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
 |28|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |29|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |30|[#40553](https://github.com/Azure/azure-sdk-for-java/issues/40553)|Azure Resource Manager Creation is stuck in kubernetes cluster environment|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-06-07|
@@ -37,5 +37,5 @@
 |35|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
 |36|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |37|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|38|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
+|38|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
 |39|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|bug, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
