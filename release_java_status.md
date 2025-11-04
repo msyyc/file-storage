@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6696](https://github.com/Azure/sdk-release-request/issues/6696) | fumingzhang |  | haolingdong-msft | Attention to inconsistent tag. | 11-04 | 11-20 |  |
 | 2 | [#6691](https://github.com/Azure/sdk-release-request/issues/6691) | CodeJourneys |  | weidongxu-microsoft |  | 10-30 | 11-21 |  |
-| 3 | [#6686](https://github.com/Azure/sdk-release-request/issues/6686) | violetVogithub |  | weidongxu-microsoft | Attention to inconsistent tag. | 10-30 | 11-20 |  |
+| 3 | [#6686](https://github.com/Azure/sdk-release-request/issues/6686) | violetVogithub |  | weidongxu-microsoft | new comment. Attention to inconsistent tag. | 10-30 | 11-20 |  |
 | 4 | [#6682](https://github.com/Azure/sdk-release-request/issues/6682) | fumingzhang |  | XiaofeiCao | new issue. | 10-28 | 11-20 |  |
 | 5 | [#6678](https://github.com/Azure/sdk-release-request/issues/6678) | nasc17 |  | XiaofeiCao |  | 10-28 | 11-21 |  |
 | 6 | [#6673](https://github.com/Azure/sdk-release-request/issues/6673) | manpujarimicrosoft.com |  | haolingdong-msft | Attention to inconsistent tag. | 10-28 | 11-20 |  |
