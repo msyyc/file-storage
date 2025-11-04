@@ -7,10 +7,10 @@
 |5|[#46371](https://github.com/Azure/azure-sdk-for-java/issues/46371)|[QUERY]how to create a cross tenant vnet peering with two service principals|question, Mgmt, customer-reported|XiaofeiCao||2025-08-12|
 |6|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |7|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
-|8|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|XiaofeiCao, weidongxu-microsoft||2025-07-24|
+|8|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|weidongxu-microsoft, XiaofeiCao||2025-07-24|
 |9|[#46009](https://github.com/Azure/azure-sdk-for-java/issues/46009)|[mgmt] package specific generate script in some separated premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |10|[#46007](https://github.com/Azure/azure-sdk-for-java/issues/46007)|[mgmt] selectively enable `modelerfour.lenient-model-deduplication` for premium packages|Mgmt|XiaofeiCao||2025-07-14|
-|11|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
+|11|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2025-07-07|
 |12|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
 |13|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
 |14|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
@@ -26,7 +26,7 @@
 |24|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |25|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-08-09|
 |26|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
-|27|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
+|27|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |28|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |29|[#40553](https://github.com/Azure/azure-sdk-for-java/issues/40553)|Azure Resource Manager Creation is stuck in kubernetes cluster environment|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-06-07|
 |30|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|bug, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
@@ -36,5 +36,5 @@
 |34|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
 |35|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |36|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|37|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|g2vinay, weidongxu-microsoft||2024-01-23|
-|38|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|bug, ARM, Mgmt, customer-reported, needs-team-triage|XiaofeiCao, v-hongli1||2023-11-24|
+|37|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|question, ARM, Mgmt, customer-reported, needs-team-triage|weidongxu-microsoft, g2vinay||2024-01-23|
+|38|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|bug, ARM, Mgmt, customer-reported, needs-team-triage|v-hongli1, XiaofeiCao||2023-11-24|
