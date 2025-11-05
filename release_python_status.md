@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6708](https://github.com/Azure/sdk-release-request/issues/6708) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> new comment. | 11-04 | 11-21 |  |
+| 1 | [#6708](https://github.com/Azure/sdk-release-request/issues/6708) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> HoldOn. | 11-04 | 11-21 |  |
 | 2 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> HoldOn. | 11-04 | 11-21 |  |
 | 3 | [#6698](https://github.com/Azure/sdk-release-request/issues/6698) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 11-04 | 11-20 |  |
 | 4 | [#6693](https://github.com/Azure/sdk-release-request/issues/6693) | CodeJourneys | azure-mgmt-containerregistry | ChenxiJiang333 |  | 10-30 | 11-21 |  |
