@@ -16,4 +16,3 @@
 | 14 | Release for Azure key vault api version 2025-05-01  |  |  | [#6576](https://github.com/Azure/sdk-release-request/issues/6576)  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 | Hold on by JS/ |
 | 15 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 16 | Cognitive Services 2025-09-01 Stable  |  | [#6634](https://github.com/Azure/sdk-release-request/issues/6634)  |  | [#6636](https://github.com/Azure/sdk-release-request/issues/6636)  | 10-09 | 10-24 | Hold on by JS/Go/ |
-| 17 | Container Registry Release - 2025-11  |  |  |  | [#6692](https://github.com/Azure/sdk-release-request/issues/6692)  | 10-30 | 11-21 | Hold on by JS/ |
