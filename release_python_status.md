@@ -1,7 +1,7 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6721](https://github.com/Azure/sdk-release-request/issues/6721) | dwmsft | azure-mgmt-appservice | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 11-05 | 11-21 |  |
-| 2 | [#6717](https://github.com/Azure/sdk-release-request/issues/6717) | dwmsft | azure-mgmt-appservice | ChenxiJiang333 | duplicated issue  <br> new issue. | 11-05 | 11-21 |  |
+| 2 | [#6717](https://github.com/Azure/sdk-release-request/issues/6717) | dwmsft | azure-mgmt-appservice | ChenxiJiang333 | duplicated issue  <br> | 11-05 | 11-21 |  |
 | 3 | [#6713](https://github.com/Azure/sdk-release-request/issues/6713) | dwmsft | azure-mgmt-appservice | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 11-05 | 11-21 |  |
 | 4 | [#6708](https://github.com/Azure/sdk-release-request/issues/6708) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> HoldOn. | 11-04 | 11-21 |  |
 | 5 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | duplicated issue  <br> HoldOn. | 11-04 | 11-21 |  |
