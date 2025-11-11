@@ -5,7 +5,7 @@
 | 3 | [#6707](https://github.com/Azure/sdk-release-request/issues/6707) | pjohari-ms |  | qiaozha | Attention to inconsistent tag. | 11-04 | 11-21 |  |
 | 4 | [#6702](https://github.com/Azure/sdk-release-request/issues/6702) | pjohari-ms |  | qiaozha | new issue. | 11-04 | 11-21 |  |
 | 5 | [#6697](https://github.com/Azure/sdk-release-request/issues/6697) | fumingzhang |  | qiaozha | Attention to inconsistent tag. | 11-04 | 11-20 |  |
-| 6 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | new comment. Attention to inconsistent tag. | 10-30 | 11-20 |  |
+| 6 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | new comment. | 10-30 | 11-20 |  |
 | 7 | [#6683](https://github.com/Azure/sdk-release-request/issues/6683) | fumingzhang |  | MaryGao | new issue. | 10-28 | 11-20 |  |
 | 8 | [#6679](https://github.com/Azure/sdk-release-request/issues/6679) | nasc17 |  | MaryGao | new issue. new comment. | 10-28 | 11-21 |  |
 | 9 | [#6674](https://github.com/Azure/sdk-release-request/issues/6674) | manpujarimicrosoft.com |  | MaryGao | Attention to inconsistent tag. | 10-28 | 11-20 |  |
