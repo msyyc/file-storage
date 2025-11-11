@@ -38,5 +38,5 @@
 |36|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
 |37|[#39088](https://github.com/Azure/azure-sdk-for-java/issues/39088)|[BUG] Java SDK - Private DNS - Delete virtual link doesn't work|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-03-05|
 |38|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
-|39|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|bug, ARM, Mgmt, customer-reported, needs-team-attention|g2vinay, weidongxu-microsoft||2024-01-23|
+|39|[#38434](https://github.com/Azure/azure-sdk-for-java/issues/38434)|Make Java class description more descriptive with complete sentences|bug, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft, g2vinay||2024-01-23|
 |40|[#37813](https://github.com/Azure/azure-sdk-for-java/issues/37813)|[BUG] `planInformation()` of `ReservationOrderResponse` always returns `null`|bug, ARM, Mgmt, customer-reported, issue-addressed|XiaofeiCao||2023-11-24|
