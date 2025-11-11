@@ -14,4 +14,3 @@
 | 12 | [#6649](https://github.com/Azure/sdk-release-request/issues/6649) | vanshjoshi_microsoft |  | jliusan |  | 10-13 | 11-20 |  |
 | 13 | [#6644](https://github.com/Azure/sdk-release-request/issues/6644) | jkore1911 |  | jliusan |  | 10-13 | 11-20 |  |
 | 14 | [#6634](https://github.com/Azure/sdk-release-request/issues/6634) | CarlOchs |  | jliusan | HoldOn. | 10-09 | 10-24 |  |
-| 15 | [#6621](https://github.com/Azure/sdk-release-request/issues/6621) | davidemontanari |  | jliusan | new issue. new comment. | 10-02 | 10-24 |  |
