@@ -8,11 +8,9 @@
 | 6 | [#6700](https://github.com/Azure/sdk-release-request/issues/6700) | pjohari-ms |  | jliusan | new issue. | 11-04 | 11-21 |  |
 | 7 | [#6695](https://github.com/Azure/sdk-release-request/issues/6695) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 11-04 | 11-20 |  |
 | 8 | [#6685](https://github.com/Azure/sdk-release-request/issues/6685) | violetVogithub |  | jliusan |  | 10-30 | 11-20 |  |
-| 9 | [#6681](https://github.com/Azure/sdk-release-request/issues/6681) | fumingzhang |  | jliusan |  | 10-28 | 11-20 |  |
-| 10 | [#6677](https://github.com/Azure/sdk-release-request/issues/6677) | nasc17 |  | jliusan | new comment. | 10-28 | 11-21 |  |
-| 11 | [#6668](https://github.com/Azure/sdk-release-request/issues/6668) | pkamboj_microsoft |  | jliusan |  | 10-22 | 11-20 |  |
-| 12 | [#6663](https://github.com/Azure/sdk-release-request/issues/6663) | norsaad |  | jliusan | Attention to inconsistent tag. | 10-17 | 11-21 |  |
-| 13 | [#6653](https://github.com/Azure/sdk-release-request/issues/6653) | vanshjoshi_microsoft |  | jliusan | HoldOn. | 10-13 | 11-20 |  |
-| 14 | [#6649](https://github.com/Azure/sdk-release-request/issues/6649) | vanshjoshi_microsoft |  | jliusan | HoldOn. | 10-13 | 11-20 |  |
-| 15 | [#6644](https://github.com/Azure/sdk-release-request/issues/6644) | jkore1911 |  | jliusan |  | 10-13 | 11-20 |  |
-| 16 | [#6634](https://github.com/Azure/sdk-release-request/issues/6634) | CarlOchs |  | jliusan |  | 10-09 | 10-24 |  |
+| 9 | [#6677](https://github.com/Azure/sdk-release-request/issues/6677) | nasc17 |  | jliusan | new comment. | 10-28 | 11-21 |  |
+| 10 | [#6663](https://github.com/Azure/sdk-release-request/issues/6663) | norsaad |  | jliusan | Attention to inconsistent tag. | 10-17 | 11-21 |  |
+| 11 | [#6653](https://github.com/Azure/sdk-release-request/issues/6653) | vanshjoshi_microsoft |  | jliusan | HoldOn. | 10-13 | 11-20 |  |
+| 12 | [#6649](https://github.com/Azure/sdk-release-request/issues/6649) | vanshjoshi_microsoft |  | jliusan | HoldOn. | 10-13 | 11-20 |  |
+| 13 | [#6644](https://github.com/Azure/sdk-release-request/issues/6644) | jkore1911 |  | jliusan |  | 10-13 | 11-20 |  |
+| 14 | [#6634](https://github.com/Azure/sdk-release-request/issues/6634) | CarlOchs |  | jliusan |  | 10-09 | 10-24 |  |
