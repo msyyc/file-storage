@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6735](https://github.com/Azure/sdk-release-request/issues/6735) | dulikvor | azure-mgmt-loganalytics | ChenxiJiang333 | new issue. | 11-11 | 12-25 |  |
+| 1 | [#6735](https://github.com/Azure/sdk-release-request/issues/6735) | dulikvor | azure-mgmt-loganalytics | ChenxiJiang333 |  | 11-11 | 12-25 |  |
 | 2 | [#6730](https://github.com/Azure/sdk-release-request/issues/6730) | 2258093686 | azure-mgmt-hdinsight | ChenxiJiang333 | new issue. | 11-11 | 12-25 |  |
 | 3 | [#6725](https://github.com/Azure/sdk-release-request/issues/6725) | haagha | azure-mgmt-compute | ChenxiJiang333 |  | 11-07 | 11-21 |  |
 | 4 | [#6717](https://github.com/Azure/sdk-release-request/issues/6717) | dwmsft | azure-mgmt-appservice | ChenxiJiang333 |  | 11-05 | 11-21 |  |

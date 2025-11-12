@@ -10,7 +10,7 @@
 | 8 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | new comment. | 10-30 | 11-20 |  |
 | 9 | [#6683](https://github.com/Azure/sdk-release-request/issues/6683) | fumingzhang |  | MaryGao | new issue. | 10-28 | 11-20 |  |
 | 10 | [#6679](https://github.com/Azure/sdk-release-request/issues/6679) | nasc17 |  | MaryGao |  | 10-28 | 11-21 |  |
-| 11 | [#6670](https://github.com/Azure/sdk-release-request/issues/6670) | pkamboj_microsoft |  | qiaozha | new issue. | 10-22 | 11-20 |  |
+| 11 | [#6670](https://github.com/Azure/sdk-release-request/issues/6670) | pkamboj_microsoft |  | qiaozha |  | 10-22 | 11-20 |  |
 | 12 | [#6665](https://github.com/Azure/sdk-release-request/issues/6665) | norsaad |  | MaryGao | new comment. Attention to inconsistent tag. | 10-17 | 11-21 |  |
 | 13 | [#6651](https://github.com/Azure/sdk-release-request/issues/6651) | vanshjoshi_microsoft |  | MaryGao |  | 10-13 | 11-20 |  |
 | 14 | [#6646](https://github.com/Azure/sdk-release-request/issues/6646) | jkore1911 |  | MaryGao |  | 10-13 | 11-20 |  |
