@@ -4,7 +4,7 @@
 | 2 | [#6727](https://github.com/Azure/sdk-release-request/issues/6727) | 2258093686 |  | jliusan | Attention to inconsistent tag. | 11-11 | 12-25 |  |
 | 3 | [#6722](https://github.com/Azure/sdk-release-request/issues/6722) | haagha |  | jliusan |  | 11-07 | 11-21 |  |
 | 4 | [#6710](https://github.com/Azure/sdk-release-request/issues/6710) | dwmsft |  | jliusan | Attention to inconsistent tag. | 11-05 | 11-21 |  |
-| 5 | [#6705](https://github.com/Azure/sdk-release-request/issues/6705) | pjohari-ms |  | jliusan | Attention to inconsistent tag. | 11-04 | 11-21 |  |
+| 5 | [#6705](https://github.com/Azure/sdk-release-request/issues/6705) | pjohari-ms |  | jliusan | Attention to inconsistent tag. HoldOn. | 11-04 | 11-21 |  |
 | 6 | [#6700](https://github.com/Azure/sdk-release-request/issues/6700) | pjohari-ms |  | jliusan | new issue. | 11-04 | 11-21 |  |
 | 7 | [#6695](https://github.com/Azure/sdk-release-request/issues/6695) | fumingzhang |  | jliusan | Attention to inconsistent tag. | 11-04 | 11-20 |  |
 | 8 | [#6685](https://github.com/Azure/sdk-release-request/issues/6685) | violetVogithub |  | jliusan |  | 10-30 | 11-20 |  |
