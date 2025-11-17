@@ -1,4 +1,6 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-web,azure-sdk,ChenxiJiang333,2025-11-05,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6717,10.1.0,True
+azure-mgmt-compute,azure-sdk,ChenxiJiang333,2025-11-07,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6725,37.1.0,True
 azure-mgmt-elastic,azure-sdk,ChenxiJiang333,2025-10-13,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6647,2.0.0,True
 azure-mgmt-newrelicobservability,azure-sdk,ChenxiJiang333,2025-10-13,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6656,2.0.0b1,
 azure-mgmt-networkcloud,azure-sdk,ChenxiJiang333,2025-10-17,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6666,2.2.0b1,
