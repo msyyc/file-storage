@@ -5,13 +5,13 @@
 | 3 | [#6724](https://github.com/Azure/sdk-release-request/issues/6724) | haagha |  | qiaozha |  | 11-07 | 11-21 |  |
 | 4 | [#6712](https://github.com/Azure/sdk-release-request/issues/6712) | dwmsft |  | qiaozha | Attention to inconsistent tag. HoldOn. | 11-05 | 11-21 |  |
 | 5 | [#6702](https://github.com/Azure/sdk-release-request/issues/6702) | pjohari-ms |  | qiaozha |  | 11-04 | 11-21 |  |
-| 6 | [#6697](https://github.com/Azure/sdk-release-request/issues/6697) | fumingzhang |  | qiaozha | Attention to inconsistent tag. | 11-04 | 11-20 |  |
-| 7 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | new comment. HoldOn. | 10-30 | 11-20 |  |
-| 8 | [#6683](https://github.com/Azure/sdk-release-request/issues/6683) | fumingzhang |  | MaryGao |  | 10-28 | 11-20 |  |
+| 6 | [#6697](https://github.com/Azure/sdk-release-request/issues/6697) | fumingzhang |  | qiaozha | close to release date. Attention to inconsistent tag. | 11-04 | 11-20 | 2 |
+| 7 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | MaryGao | new comment. close to release date. HoldOn. | 10-30 | 11-20 | 2 |
+| 8 | [#6683](https://github.com/Azure/sdk-release-request/issues/6683) | fumingzhang |  | MaryGao | close to release date. | 10-28 | 11-20 | 2 |
 | 9 | [#6679](https://github.com/Azure/sdk-release-request/issues/6679) | nasc17 |  | MaryGao | new comment. HoldOn. | 10-28 | 11-21 |  |
-| 10 | [#6670](https://github.com/Azure/sdk-release-request/issues/6670) | pkamboj_microsoft |  | qiaozha |  | 10-22 | 11-20 |  |
+| 10 | [#6670](https://github.com/Azure/sdk-release-request/issues/6670) | pkamboj_microsoft |  | qiaozha | close to release date. | 10-22 | 11-20 | 2 |
 | 11 | [#6665](https://github.com/Azure/sdk-release-request/issues/6665) | norsaad |  | MaryGao | new comment. Attention to inconsistent tag. | 10-17 | 11-21 |  |
-| 12 | [#6651](https://github.com/Azure/sdk-release-request/issues/6651) | vanshjoshi_microsoft |  | MaryGao |  | 10-13 | 11-20 |  |
-| 13 | [#6646](https://github.com/Azure/sdk-release-request/issues/6646) | jkore1911 |  | MaryGao |  | 10-13 | 11-20 |  |
+| 12 | [#6651](https://github.com/Azure/sdk-release-request/issues/6651) | vanshjoshi_microsoft |  | MaryGao | close to release date. | 10-13 | 11-20 | 2 |
+| 13 | [#6646](https://github.com/Azure/sdk-release-request/issues/6646) | jkore1911 |  | MaryGao | close to release date. | 10-13 | 11-20 | 2 |
 | 14 | [#6636](https://github.com/Azure/sdk-release-request/issues/6636) | CarlOchs |  | qiaozha |  | 10-09 | 10-24 |  |
 | 15 | [#6577](https://github.com/Azure/sdk-release-request/issues/6577) | fponzi-ms |  | MaryGao |  | 09-16 | 10-23 |  |
