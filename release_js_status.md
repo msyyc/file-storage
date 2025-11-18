@@ -3,7 +3,7 @@
 | 1 | [#6739](https://github.com/Azure/sdk-release-request/issues/6739) | https://github.com/MekaylaMoore |  | MaryGao | Attention to inconsistent tag. | 11-14 | 12-26 |  |
 | 2 | [#6734](https://github.com/Azure/sdk-release-request/issues/6734) | dulikvor |  | MaryGao | Attention to inconsistent tag. | 11-11 | 12-25 |  |
 | 3 | [#6724](https://github.com/Azure/sdk-release-request/issues/6724) | haagha |  | qiaozha | close to release date. | 11-07 | 11-21 | 2 |
-| 4 | [#6712](https://github.com/Azure/sdk-release-request/issues/6712) | dwmsft |  | qiaozha | close to release date. Attention to inconsistent tag. | 11-05 | 11-21 | 2 |
+| 4 | [#6712](https://github.com/Azure/sdk-release-request/issues/6712) | dwmsft |  | qiaozha | close to release date. Attention to inconsistent tag. HoldOn. | 11-05 | 11-21 | 2 |
 | 5 | [#6702](https://github.com/Azure/sdk-release-request/issues/6702) | pjohari-ms |  | qiaozha | close to release date. | 11-04 | 11-21 | 2 |
 | 6 | [#6697](https://github.com/Azure/sdk-release-request/issues/6697) | fumingzhang |  | qiaozha | close to release date. Attention to inconsistent tag. | 11-04 | 11-20 | 1 |
 | 7 | [#6687](https://github.com/Azure/sdk-release-request/issues/6687) | violetVogithub |  | qiaozha | new comment. close to release date. HoldOn. | 10-30 | 11-20 | 1 |
