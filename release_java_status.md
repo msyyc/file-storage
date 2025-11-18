@@ -6,6 +6,5 @@
 | 4 | [#6696](https://github.com/Azure/sdk-release-request/issues/6696) | fumingzhang |  | XiaofeiCao | close to release date. Attention to inconsistent tag. | 11-04 | 11-20 | 1 |
 | 5 | [#6678](https://github.com/Azure/sdk-release-request/issues/6678) | nasc17 |  | weidongxu-microsoft | new comment. close to release date. HoldOn. | 10-28 | 11-21 | 2 |
 | 6 | [#6673](https://github.com/Azure/sdk-release-request/issues/6673) | manpujarimicrosoft.com |  | haolingdong-msft | new comment. close to release date. Attention to inconsistent tag. | 10-28 | 11-20 | 1 |
-| 7 | [#6664](https://github.com/Azure/sdk-release-request/issues/6664) | norsaad |  | XiaofeiCao | close to release date. Attention to inconsistent tag. | 10-17 | 11-21 | 2 |
-| 8 | [#6650](https://github.com/Azure/sdk-release-request/issues/6650) | vanshjoshi_microsoft |  | XiaofeiCao | close to release date. HoldOn. | 10-13 | 11-20 | 1 |
-| 9 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 7 | [#6650](https://github.com/Azure/sdk-release-request/issues/6650) | vanshjoshi_microsoft |  | XiaofeiCao | close to release date. HoldOn. | 10-13 | 11-20 | 1 |
+| 8 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |

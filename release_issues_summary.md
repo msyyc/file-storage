@@ -7,13 +7,12 @@
 | 5 | Release for threat detection under vault properties for Recovery Services Vault - 2025-02-01  | [#6675](https://github.com/Azure/sdk-release-request/issues/6675)  | [#6672](https://github.com/Azure/sdk-release-request/issues/6672)  | [#6673](https://github.com/Azure/sdk-release-request/issues/6673)  | [#6674](https://github.com/Azure/sdk-release-request/issues/6674)  | 10-28 | 11-20 |  |
 | 6 | CosmosDB 2025-10-15 Stable  |  |  | [#6706](https://github.com/Azure/sdk-release-request/issues/6706)  |  | 11-04 | 11-21 |  |
 | 7 | Release for Container Service - 2025-09-02-preview  |  |  | [#6696](https://github.com/Azure/sdk-release-request/issues/6696)  | [#6697](https://github.com/Azure/sdk-release-request/issues/6697)  | 11-04 | 11-20 |  |
-| 8 | SDK Release for Network Cloud - 2025-07-01-preview  |  |  | [#6664](https://github.com/Azure/sdk-release-request/issues/6664)  |  | 10-17 | 11-21 |  |
-| 9 | Release for NewRelicObservability - 2025-05-01-preview  |  | [#6653](https://github.com/Azure/sdk-release-request/issues/6653)  | [#6650](https://github.com/Azure/sdk-release-request/issues/6650)  | [#6651](https://github.com/Azure/sdk-release-request/issues/6651)  | 10-13 | 11-20 | Hold on by Java/ |
-| 10 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 11 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  | [#6712](https://github.com/Azure/sdk-release-request/issues/6712)  | 11-05 | 11-21 | Hold on by Go/ |
-| 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
-| 13 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
-| 14 | Release for Compute 2025-04-01-updates  |  |  |  | [#6724](https://github.com/Azure/sdk-release-request/issues/6724)  | 11-07 | 11-21 |  |
-| 15 | Release Microsoft.Network 2025-01-01  |  |  |  | [#6670](https://github.com/Azure/sdk-release-request/issues/6670)  | 10-22 | 11-20 |  |
-| 16 | Cognitive Services 2025-09-01 Stable  |  |  |  | [#6636](https://github.com/Azure/sdk-release-request/issues/6636)  | 10-09 | 10-24 |  |
-| 17 | Release for Azure key vault api version 2025-05-01  |  |  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
+| 8 | Release for NewRelicObservability - 2025-05-01-preview  |  | [#6653](https://github.com/Azure/sdk-release-request/issues/6653)  | [#6650](https://github.com/Azure/sdk-release-request/issues/6650)  | [#6651](https://github.com/Azure/sdk-release-request/issues/6651)  | 10-13 | 11-20 | Hold on by Java/ |
+| 9 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
+| 10 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  | [#6712](https://github.com/Azure/sdk-release-request/issues/6712)  | 11-05 | 11-21 | Hold on by Go/ |
+| 11 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
+| 12 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
+| 13 | Release for Compute 2025-04-01-updates  |  |  |  | [#6724](https://github.com/Azure/sdk-release-request/issues/6724)  | 11-07 | 11-21 |  |
+| 14 | Release Microsoft.Network 2025-01-01  |  |  |  | [#6670](https://github.com/Azure/sdk-release-request/issues/6670)  | 10-22 | 11-20 |  |
+| 15 | Cognitive Services 2025-09-01 Stable  |  |  |  | [#6636](https://github.com/Azure/sdk-release-request/issues/6636)  | 10-09 | 10-24 |  |
+| 16 | Release for Azure key vault api version 2025-05-01  |  |  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
