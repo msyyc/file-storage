@@ -11,7 +11,7 @@
 | 9 | Release for NewRelicObservability - 2025-05-01-preview  |  | [#6649](https://github.com/Azure/sdk-release-request/issues/6649)  | [#6650](https://github.com/Azure/sdk-release-request/issues/6650)  | [#6651](https://github.com/Azure/sdk-release-request/issues/6651)  | 10-13 | 11-20 | Hold on by Go/ |
 | 10 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 11 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  | [#6712](https://github.com/Azure/sdk-release-request/issues/6712)  | 11-05 | 11-21 | Hold on by JS/ |
-| 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/ |
+| 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
 | 13 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
 | 14 | Release Microsoft.Network 2025-01-01  |  |  |  | [#6670](https://github.com/Azure/sdk-release-request/issues/6670)  | 10-22 | 11-20 |  |
 | 15 | Cognitive Services 2025-09-01 Stable  |  |  |  | [#6636](https://github.com/Azure/sdk-release-request/issues/6636)  | 10-09 | 10-24 |  |
