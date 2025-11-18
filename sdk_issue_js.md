@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#35383](https://github.com/Azure/azure-sdk-for-js/issues/35383)|Inconsistent Azure > KeyVault > Diagnostic Settings (List) response between @azure/arm-monitor v7.0.0 and v8.0.0-beta.5.|question, customer-reported, Mgmt, ARM, needs-team-attention|kazrael2119, qiaozha||2025-07-28|
 |2|[#34779](https://github.com/Azure/azure-sdk-for-js/issues/34779)|arm-cosmosdb 16.3.0 still missing fullTextIndexes after FullTextPath was added|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2025-06-11|
-|3|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|kazrael2119, MaryGao, v-jiaodi|new issue|2025-05-08|
+|3|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|kazrael2119, v-jiaodi, MaryGao|new issue|2025-05-08|
 |4|[#34085](https://github.com/Azure/azure-sdk-for-js/issues/34085)|`ipv6Rules` missing from `NetworkRule` type|question, customer-reported, Mgmt, Storage, Service Attention, needs-team-attention|qiaozha|new comment|2025-04-28|
 |5|[#33913](https://github.com/Azure/azure-sdk-for-js/issues/33913)|`tsp-client update` is failing for arm-standbypool|Mgmt|MaryGao|new comment|2025-04-17|
 |6|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, needs-team-attention|MaryGao, Copilot||2025-01-07|
