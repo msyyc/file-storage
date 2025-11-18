@@ -4,3 +4,4 @@
 | 2 | [#6735](https://github.com/Azure/sdk-release-request/issues/6735) | dulikvor | azure-mgmt-loganalytics | ChenxiJiang333 |  | 11-11 | 12-25 |  |
 | 3 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | close to release date. HoldOn. | 11-04 | 11-21 | 2 |
 | 4 | [#6680](https://github.com/Azure/sdk-release-request/issues/6680) | nasc17 | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | new comment. close to release date. HoldOn. | 10-28 | 11-21 | 2 |
+| 5 | [#6675](https://github.com/Azure/sdk-release-request/issues/6675) | manpujarimicrosoft.com | azure-mgmt-recoveryservices | ChenxiJiang333 | new comment. close to release date. TypeSpec. | 10-28 | 11-20 | 1 |
