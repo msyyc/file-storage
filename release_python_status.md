@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6750](https://github.com/Azure/sdk-release-request/issues/6750) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 | new issue. | 11-19 | 12-25 |  |
+| 1 | [#6750](https://github.com/Azure/sdk-release-request/issues/6750) | fumingzhang | azure-mgmt-containerservice | ChenxiJiang333 |  | 11-19 | 12-25 |  |
 | 2 | [#6745](https://github.com/Azure/sdk-release-request/issues/6745) | mekaylamoore | azure-mgmt-network | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 11-18 | 12-26 |  |
 | 3 | [#6740](https://github.com/Azure/sdk-release-request/issues/6740) | https://github.com/MekaylaMoore | azure-mgmt-network | ChenxiJiang333 | duplicated issue  <br> Attention to inconsistent tag. | 11-14 | 12-26 |  |
 | 4 | [#6735](https://github.com/Azure/sdk-release-request/issues/6735) | dulikvor | azure-mgmt-loganalytics | ChenxiJiang333 |  | 11-11 | 12-25 |  |
