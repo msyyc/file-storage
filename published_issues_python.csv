@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-11-19,2025-11-24,https://github.com/Azure/sdk-release-request/issues/6750,40.2.0,True
 azure-mgmt-network,azure-sdk,ChenxiJiang333,2025-11-18,2025-11-24,https://github.com/Azure/sdk-release-request/issues/6745,30.1.0,True
 azure-mgmt-web,azure-sdk,ChenxiJiang333,2025-11-05,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6717,10.1.0,True
 azure-mgmt-compute,azure-sdk,ChenxiJiang333,2025-11-07,2025-11-17,https://github.com/Azure/sdk-release-request/issues/6725,37.1.0,True
