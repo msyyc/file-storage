@@ -9,7 +9,7 @@
 | 7 | PostgreSQL Flexible Server API GA V20250801  | [#6680](https://github.com/Azure/sdk-release-request/issues/6680)  | [#6677](https://github.com/Azure/sdk-release-request/issues/6677)  | [#6678](https://github.com/Azure/sdk-release-request/issues/6678)  | [#6679](https://github.com/Azure/sdk-release-request/issues/6679)  | 10-28 | 11-21 |  |
 | 8 | Release for Container Service - 2025-10-01  |  | [#6747](https://github.com/Azure/sdk-release-request/issues/6747)  | [#6748](https://github.com/Azure/sdk-release-request/issues/6748)  | [#6749](https://github.com/Azure/sdk-release-request/issues/6749)  | 11-19 | 12-25 |  |
 | 9 | Release for Container Service - 2025-09-02-preview  |  |  | [#6696](https://github.com/Azure/sdk-release-request/issues/6696)  |  | 11-04 | 11-20 |  |
-| 10 | Release for NewRelicObservability - 2025-05-01-preview  |  | [#6653](https://github.com/Azure/sdk-release-request/issues/6653)  | [#6650](https://github.com/Azure/sdk-release-request/issues/6650)  |  | 10-13 | 11-20 |  |
+| 10 | Release for NewRelicObservability - 2025-05-01-preview  |  |  | [#6650](https://github.com/Azure/sdk-release-request/issues/6650)  |  | 10-13 | 11-20 |  |
 | 11 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 12 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  | [#6744](https://github.com/Azure/sdk-release-request/issues/6744)  | 11-18 | 12-26 |  |
 | 13 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  | [#6712](https://github.com/Azure/sdk-release-request/issues/6712)  | 11-05 | 11-21 |  |

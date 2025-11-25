@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6756](https://github.com/Azure/sdk-release-request/issues/6756) | msyyc | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | duplicated issue  <br> new issue. | 11-25 | 11-29 |  |
+| 1 | [#6756](https://github.com/Azure/sdk-release-request/issues/6756) | msyyc | azure-mgmt-postgresqlflexibleservers | ChenxiJiang333 | duplicated issue  <br> | 11-25 | 11-29 |  |
 | 2 | [#6755](https://github.com/Azure/sdk-release-request/issues/6755) | msyyc | azure-mgmt-web | ChenxiJiang333 | close to release date. | 11-24 | 11-28 | 2 |
 | 3 | [#6754](https://github.com/Azure/sdk-release-request/issues/6754) | msyyc | azure-mgmt-certificateregistration | ChenxiJiang333 | close to release date. | 11-24 | 11-28 | 2 |
 | 4 | [#6753](https://github.com/Azure/sdk-release-request/issues/6753) | msyyc | azure-mgmt-domainregistration | ChenxiJiang333 | close to release date. | 11-24 | 11-28 | 2 |
