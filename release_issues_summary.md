@@ -12,7 +12,7 @@
 | 10 | Release for NewRelicObservability - 2025-05-01-preview  |  |  | [#6650](https://github.com/Azure/sdk-release-request/issues/6650)  |  | 10-13 | 11-20 |  |
 | 11 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 12 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  | [#6744](https://github.com/Azure/sdk-release-request/issues/6744)  | 11-18 | 12-26 |  |
-| 13 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  | [#6712](https://github.com/Azure/sdk-release-request/issues/6712)  | 11-05 | 11-21 |  |
+| 13 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  |  | 11-05 | 11-21 |  |
 | 14 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
 | 15 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
 | 16 | Release for Azure key vault api version 2025-05-01  |  |  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
