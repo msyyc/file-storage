@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-postgresqlflexibleservers,azure-sdk,ChenxiJiang333,2025-10-28,2025-11-25,https://github.com/Azure/sdk-release-request/issues/6680,2.0.0,True
 azure-mgmt-resourcegraph,msyyc,ChenxiJiang333,2025-11-24,2025-11-24,https://github.com/Azure/sdk-release-request/issues/6752,8.0.1,True
 azure-mgmt-containerservice,azure-sdk,ChenxiJiang333,2025-11-19,2025-11-24,https://github.com/Azure/sdk-release-request/issues/6750,40.2.0,True
 azure-mgmt-network,azure-sdk,ChenxiJiang333,2025-11-18,2025-11-24,https://github.com/Azure/sdk-release-request/issues/6745,30.1.0,True
