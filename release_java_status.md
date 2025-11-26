@@ -4,5 +4,4 @@
 | 2 | [#6748](https://github.com/Azure/sdk-release-request/issues/6748) | fumingzhang |  | weidongxu-microsoft | new issue. | 11-19 | 12-25 |  |
 | 3 | [#6733](https://github.com/Azure/sdk-release-request/issues/6733) | dulikvor |  | XiaofeiCao | Attention to inconsistent tag. | 11-11 | 12-25 |  |
 | 4 | [#6696](https://github.com/Azure/sdk-release-request/issues/6696) | fumingzhang |  | XiaofeiCao | Attention to inconsistent tag. | 11-04 | 11-20 |  |
-| 5 | [#6678](https://github.com/Azure/sdk-release-request/issues/6678) | nasc17 |  | weidongxu-microsoft |  | 10-28 | 11-21 |  |
-| 6 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 5 | [#5912](https://github.com/Azure/sdk-release-request/issues/5912) | SiddarthaCherukumudi |  | weidongxu-microsoft | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
