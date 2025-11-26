@@ -10,8 +10,7 @@
 | 8 | Release for Container Service - 2025-09-02-preview  |  |  | [#6696](https://github.com/Azure/sdk-release-request/issues/6696)  |  | 11-04 | 11-20 |  |
 | 9 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 10 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
-| 11 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  |  | 11-05 | 11-21 |  |
-| 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
-| 13 | PostgreSQL Flexible Server API GA V20250801  |  | [#6677](https://github.com/Azure/sdk-release-request/issues/6677)  |  | [#6679](https://github.com/Azure/sdk-release-request/issues/6679)  | 10-28 | 11-21 |  |
-| 14 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
-| 15 | Release for Azure key vault api version 2025-05-01  |  |  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
+| 11 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
+| 12 | PostgreSQL Flexible Server API GA V20250801  |  | [#6677](https://github.com/Azure/sdk-release-request/issues/6677)  |  | [#6679](https://github.com/Azure/sdk-release-request/issues/6679)  | 10-28 | 11-21 |  |
+| 13 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
+| 14 | Release for Azure key vault api version 2025-05-01  |  |  |  | [#6577](https://github.com/Azure/sdk-release-request/issues/6577)  | 09-16 | 10-23 |  |
