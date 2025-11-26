@@ -10,7 +10,7 @@
 | 8 | Release for Container Service - 2025-09-02-preview  |  |  | [#6696](https://github.com/Azure/sdk-release-request/issues/6696)  |  | 11-04 | 11-20 |  |
 | 9 | PostgreSQL Flexible Server API GA V20250801  |  | [#6677](https://github.com/Azure/sdk-release-request/issues/6677)  | [#6678](https://github.com/Azure/sdk-release-request/issues/6678)  | [#6679](https://github.com/Azure/sdk-release-request/issues/6679)  | 10-28 | 11-21 |  |
 | 10 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 11 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  | [#6744](https://github.com/Azure/sdk-release-request/issues/6744)  | 11-18 | 12-26 |  |
+| 11 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
 | 12 | Release for App Service Split  |  | [#6710](https://github.com/Azure/sdk-release-request/issues/6710)  |  |  | 11-05 | 11-21 |  |
 | 13 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
 | 14 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  | [#6646](https://github.com/Azure/sdk-release-request/issues/6646)  | 10-13 | 11-20 |  |
