@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release Microsoft.Network 2025-03-01  | [#6760](https://github.com/Azure/sdk-release-request/issues/6760)  | [#6757](https://github.com/Azure/sdk-release-request/issues/6757)  | [#6758](https://github.com/Azure/sdk-release-request/issues/6758)  | [#6759](https://github.com/Azure/sdk-release-request/issues/6759)  | 11-25 | 12-25 |  |
+| 1 | Release Microsoft.Network 2025-03-01  | [#6760](https://github.com/Azure/sdk-release-request/issues/6760)  | [#6757](https://github.com/Azure/sdk-release-request/issues/6757)  | [#6758](https://github.com/Azure/sdk-release-request/issues/6758)  |  | 11-25 | 12-25 |  |
 | 2 | Release request for web (Python only)  | [#6755](https://github.com/Azure/sdk-release-request/issues/6755)  |  |  |  | 11-24 | 11-28 |  |
 | 3 | Release request for certificateregistration (Python only)  | [#6754](https://github.com/Azure/sdk-release-request/issues/6754)  |  |  |  | 11-24 | 11-28 |  |
 | 4 | Release request for domainregistration (Python only)  | [#6753](https://github.com/Azure/sdk-release-request/issues/6753)  |  |  |  | 11-24 | 11-28 |  |
