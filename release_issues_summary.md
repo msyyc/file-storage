@@ -12,4 +12,3 @@
 | 10 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 11 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
 | 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
-| 13 | PostgreSQL Flexible Server API GA V20250801  |  | [#6677](https://github.com/Azure/sdk-release-request/issues/6677)  |  |  | 10-28 | 11-21 |  |
