@@ -13,4 +13,3 @@
 | 11 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
 | 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
 | 13 | PostgreSQL Flexible Server API GA V20250801  |  | [#6677](https://github.com/Azure/sdk-release-request/issues/6677)  |  |  | 10-28 | 11-21 |  |
-| 14 | Release for Elastic 2025-06-01  |  | [#6644](https://github.com/Azure/sdk-release-request/issues/6644)  |  |  | 10-13 | 11-20 |  |

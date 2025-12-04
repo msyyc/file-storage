@@ -9,4 +9,3 @@
 | 7 | [#6700](https://github.com/Azure/sdk-release-request/issues/6700) | pjohari-ms |  | jliusan | HoldOn. | 11-04 | 11-21 |  |
 | 8 | [#6685](https://github.com/Azure/sdk-release-request/issues/6685) | violetVogithub |  | jliusan | HoldOn. | 10-30 | 11-20 |  |
 | 9 | [#6677](https://github.com/Azure/sdk-release-request/issues/6677) | nasc17 |  | jliusan | new comment. | 10-28 | 11-21 |  |
-| 10 | [#6644](https://github.com/Azure/sdk-release-request/issues/6644) | jkore1911 |  | jliusan |  | 10-13 | 11-20 |  |
