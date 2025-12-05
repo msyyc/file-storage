@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-containerregistry,azure-sdk,ChenxiJiang333,2025-12-03,2025-12-05,https://github.com/Azure/sdk-release-request/issues/6770,14.1.0b4,
 azure-mgmt-rdbms,msyyc,ChenxiJiang333,2025-11-25,2025-11-26,https://github.com/Azure/sdk-release-request/issues/6756,10.1.1,True
 azure-mgmt-postgresqlflexibleservers,azure-sdk,ChenxiJiang333,2025-10-28,2025-11-25,https://github.com/Azure/sdk-release-request/issues/6680,2.0.0,True
 azure-mgmt-resourcegraph,msyyc,ChenxiJiang333,2025-11-24,2025-11-24,https://github.com/Azure/sdk-release-request/issues/6752,8.0.1,True
