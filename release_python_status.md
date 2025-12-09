@@ -6,4 +6,4 @@
 | 4 | [#6755](https://github.com/Azure/sdk-release-request/issues/6755) | msyyc | azure-mgmt-web | ChenxiJiang333 |  | 11-24 | 11-28 |  |
 | 5 | [#6754](https://github.com/Azure/sdk-release-request/issues/6754) | msyyc | azure-mgmt-certificateregistration | ChenxiJiang333 |  | 11-24 | 11-28 |  |
 | 6 | [#6753](https://github.com/Azure/sdk-release-request/issues/6753) | msyyc | azure-mgmt-domainregistration | ChenxiJiang333 |  | 11-24 | 11-28 |  |
-| 8 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | HoldOn. | 11-04 | 11-21 |  |
+| 7 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | HoldOn. | 11-04 | 11-21 |  |
