@@ -10,6 +10,6 @@
 | 8 | CosmosDB 2025-11-01-preview  | [#6703](https://github.com/Azure/sdk-release-request/issues/6703)  | [#6700](https://github.com/Azure/sdk-release-request/issues/6700)  |  |  | 11-04 | 11-21 | Hold on by Go/Python/ |
 | 9 | Release for Container Service - 2025-10-01  |  | [#6747](https://github.com/Azure/sdk-release-request/issues/6747)  | [#6748](https://github.com/Azure/sdk-release-request/issues/6748)  | [#6749](https://github.com/Azure/sdk-release-request/issues/6749)  | 11-19 | 12-25 |  |
 | 10 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
-| 11 | Release for azure container registry - 2025-11-01 for containerregistry and 2025-03-01-preview for containerregistry_build   |  | [#6767](https://github.com/Azure/sdk-release-request/issues/6767)  |  | [#6769](https://github.com/Azure/sdk-release-request/issues/6769)  | 12-03 | 12-26 |  |
-| 12 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
-| 13 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
+| 11 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
+| 12 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
+| 13 | Release for azure container registry - 2025-11-01 for containerregistry and 2025-03-01-preview for containerregistry_build   |  |  |  | [#6769](https://github.com/Azure/sdk-release-request/issues/6769)  | 12-03 | 12-26 |  |
