@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#36822](https://github.com/Azure/azure-sdk-for-js/issues/36822)|@azure/arm-subscriptions|question, customer-reported, Mgmt, Service Attention, Subscription, needs-team-attention|qiaozha, kazrael2119||2025-12-08|
-|2|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-team-attention|qiaozha, MaryGao||2025-12-04|
+|2|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-team-attention|MaryGao, qiaozha||2025-12-04|
 |3|[#36766](https://github.com/Azure/azure-sdk-for-js/issues/36766)|Expected signal to be an instanceof AbortSignal - @azure/arm-resourcegraph|question, customer-reported, Mgmt|qiaozha, kazrael2119|new comment|2025-12-01|
 |4|[#36757](https://github.com/Azure/azure-sdk-for-js/issues/36757)|[samples] consider stopping management samples publication|EngSys, Mgmt|MaryGao||2025-11-26|
 |5|[#36686](https://github.com/Azure/azure-sdk-for-js/issues/36686)|[@azure/arm-policyinsights] "Unsupported resource type: 'Microsoft.PolicyInsights/policyStates/queryResults'" error when trying to list policy states|question, customer-reported, Mgmt|qiaozha, kazrael2119||2025-11-19|
@@ -19,4 +19,4 @@
 |17|[#29469](https://github.com/Azure/azure-sdk-for-js/issues/29469)|SDK does not provide means of getting Next Page of Subscription Aliases|question, customer-reported, Mgmt, Service Attention, Subscription, needs-team-attention, no-recent-activity|qiaozha, kazrael2119||2024-04-26|
 |18|[#29328](https://github.com/Azure/azure-sdk-for-js/issues/29328)|[@azure/arm-machinelearning] Unable to create Job due to bad validation|question, customer-reported, Mgmt, needs-team-attention|qiaozha, kazrael2119|new comment|2024-04-16|
 |19|[#29235](https://github.com/Azure/azure-sdk-for-js/issues/29235)|Event grid client requests returned 502 ProviderError|question, customer-reported, Mgmt, Service Attention, Event Grid, needs-team-attention|qiaozha, kazrael2119||2024-04-09|
-|20|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|qiaozha, kazrael2119, josefree||2024-03-01|
+|20|[#28738](https://github.com/Azure/azure-sdk-for-js/issues/28738)|MonitorClient.diagnosticSettings.list(resource)` returns empty when it should return|question, customer-reported, Mgmt, Monitor, needs-team-attention|josefree, qiaozha, kazrael2119||2024-03-01|
