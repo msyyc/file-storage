@@ -4,5 +4,4 @@
 | 2 | [#6765](https://github.com/Azure/sdk-release-request/issues/6765) | norsaadmicrosoft.com | azure-mgmt-networkcloud | ChenxiJiang333 |  | 12-01 | 12-26 |  |
 | 3 | [#6760](https://github.com/Azure/sdk-release-request/issues/6760) | pkamboj_microsoft | azure-mgmt-network | ChenxiJiang333 |  | 11-25 | 12-25 |  |
 | 4 | [#6755](https://github.com/Azure/sdk-release-request/issues/6755) | msyyc | azure-mgmt-web | ChenxiJiang333 |  | 11-24 | 11-28 |  |
-| 5 | [#6753](https://github.com/Azure/sdk-release-request/issues/6753) | msyyc | azure-mgmt-domainregistration | ChenxiJiang333 |  | 11-24 | 11-28 |  |
-| 6 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | HoldOn. | 11-04 | 11-21 |  |
+| 5 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | HoldOn. | 11-04 | 11-21 |  |
