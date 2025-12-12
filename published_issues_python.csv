@@ -1,5 +1,4 @@
 package name,author,assignee,created at,closed at,link,version,is stable
-azure-mgmt-certificateregistration,msyyc,ChenxiJiang333,2025-11-24,2025-12-12,https://github.com/Azure/sdk-release-request/issues/6754,11.0.2,True
 azure-mgmt-loganalytics,azure-sdk,ChenxiJiang333,2025-11-11,2025-12-09,https://github.com/Azure/sdk-release-request/issues/6735,13.1.0,True
 azure-mgmt-containerregistry,azure-sdk,ChenxiJiang333,2025-12-03,2025-12-05,https://github.com/Azure/sdk-release-request/issues/6770,14.1.0b4,
 azure-mgmt-rdbms,msyyc,ChenxiJiang333,2025-11-25,2025-11-26,https://github.com/Azure/sdk-release-request/issues/6756,10.1.1,True
