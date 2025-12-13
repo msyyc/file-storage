@@ -2,11 +2,11 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#25769](https://github.com/Azure/azure-sdk-for-go/issues/25769)|Some packages import themselves at older versions|ARM, Mgmt, needs-team-attention|lirenhe||2025-12-11|
 |2|[#25763](https://github.com/Azure/azure-sdk-for-go/issues/25763)|Lost DeploymentsClient in github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources/v3|ARM, Mgmt, needs-team-attention|lirenhe||2025-12-11|
-|3|[#25627](https://github.com/Azure/azure-sdk-for-go/issues/25627)|ComputedDisabledRules field causes unmarshalling error in armnetwork/v7|Network, Mgmt, customer-reported, needs-author-feedback|jliusan, lirenhe||2025-11-14|
+|3|[#25627](https://github.com/Azure/azure-sdk-for-go/issues/25627)|ComputedDisabledRules field causes unmarshalling error in armnetwork/v7|Network, Mgmt, customer-reported, needs-author-feedback|lirenhe, jliusan||2025-11-14|
 |4|[#24798](https://github.com/Azure/azure-sdk-for-go/issues/24798)|SQL Database API version is old|question, SQL, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-06-15|
 |5|[#24655](https://github.com/Azure/azure-sdk-for-go/issues/24655)|armresource.ClientListOptions  when resources are filtered by tag does the returned result will contains the original tags|question, Service Attention, Mgmt, customer-reported, ARM - Core, Resource Graph, needs-team-attention|lirenhe||2025-05-20|
 |6|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-02-12|
-|7|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|JiaqiZhang-Dev, lirenhe|new comment|2025-02-11|
+|7|[#24089](https://github.com/Azure/azure-sdk-for-go/issues/24089)|v2.0.0 Release for armoperationalinsights|Mgmt, customer-reported, needs-team-attention|lirenhe, JiaqiZhang-Dev|new comment|2025-02-11|
 |8|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |9|[#23669](https://github.com/Azure/azure-sdk-for-go/issues/23669)|Appcomplianceautomation report list pager returns 401|question, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-10-29|
 |10|[#23506](https://github.com/Azure/azure-sdk-for-go/issues/23506)|Upgrade API Management package to latest REST API 2024-05-01 or higher|question, API Management, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-26|
