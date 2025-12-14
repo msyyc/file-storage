@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#36822](https://github.com/Azure/azure-sdk-for-js/issues/36822)|@azure/arm-subscriptions|question, customer-reported, Mgmt, Subscription, needs-team-attention|kazrael2119, MaryGao|new comment|2025-12-08|
-|2|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-author-feedback|qiaozha, MaryGao||2025-12-04|
+|2|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-author-feedback|MaryGao, qiaozha||2025-12-04|
 |3|[#36766](https://github.com/Azure/azure-sdk-for-js/issues/36766)|Expected signal to be an instanceof AbortSignal - @azure/arm-resourcegraph|question, customer-reported, Mgmt|kazrael2119, qiaozha|new comment|2025-12-01|
 |4|[#36757](https://github.com/Azure/azure-sdk-for-js/issues/36757)|[samples] consider stopping management samples publication|EngSys, Mgmt|MaryGao||2025-11-26|
 |5|[#36686](https://github.com/Azure/azure-sdk-for-js/issues/36686)|[@azure/arm-policyinsights] "Unsupported resource type: 'Microsoft.PolicyInsights/policyStates/queryResults'" error when trying to list policy states|question, customer-reported, Mgmt|kazrael2119, qiaozha||2025-11-19|
