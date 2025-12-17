@@ -24,14 +24,15 @@
 |22|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft||2024-11-07|
 |23|[#42242](https://github.com/Azure/azure-sdk-for-java/issues/42242)|[QUERY] Add data disk with write accelerator enabled|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-10-09|
 |24|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
-|25|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
-|26|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2024-08-09|
-|27|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
-|28|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
-|29|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
-|30|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|bug, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|31|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
-|32|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
-|33|[#39703](https://github.com/Azure/azure-sdk-for-java/issues/39703)|[BUG]responseFilter parameter not encoded correctly in cognitiveServicesWebSearch|bug, Search, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-15|
-|34|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
-|35|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
+|25|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
+|26|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
+|27|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2024-08-09|
+|28|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|29|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
+|30|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
+|31|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|bug, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
+|32|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
+|33|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
+|34|[#39703](https://github.com/Azure/azure-sdk-for-java/issues/39703)|[BUG]responseFilter parameter not encoded correctly in cognitiveServicesWebSearch|bug, Search, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-15|
+|35|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
+|36|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
