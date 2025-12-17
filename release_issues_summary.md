@@ -8,6 +8,5 @@
 | 6 | Release for Azure Log Analytics - 2025-07-01  |  | [#6732](https://github.com/Azure/sdk-release-request/issues/6732)  | [#6733](https://github.com/Azure/sdk-release-request/issues/6733)  | [#6734](https://github.com/Azure/sdk-release-request/issues/6734)  | 11-11 | 12-25 |  |
 | 7 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 8 | Release for Container Service - 2025-10-01  |  | [#6747](https://github.com/Azure/sdk-release-request/issues/6747)  |  | [#6749](https://github.com/Azure/sdk-release-request/issues/6749)  | 11-19 | 12-25 |  |
-| 9 | ExpressRoute Scalable Gateway  |  | [#6742](https://github.com/Azure/sdk-release-request/issues/6742)  |  |  | 11-18 | 12-26 |  |
-| 10 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
-| 11 | Release for azure container registry - 2025-11-01 for containerregistry and 2025-03-01-preview for containerregistry_build   |  |  |  | [#6769](https://github.com/Azure/sdk-release-request/issues/6769)  | 12-03 | 12-26 |  |
+| 9 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
+| 10 | Release for azure container registry - 2025-11-01 for containerregistry and 2025-03-01-preview for containerregistry_build   |  |  |  | [#6769](https://github.com/Azure/sdk-release-request/issues/6769)  | 12-03 | 12-26 |  |
