@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
+|1|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
 |2|[#47284](https://github.com/Azure/azure-sdk-for-java/issues/47284)|[BUG] mgmt, thread stuck when initializing `AzureResourceManager` instances concurrently|Mgmt|XiaofeiCao||2025-11-14|
 |3|[#47194](https://github.com/Azure/azure-sdk-for-java/issues/47194)|[MGMT][core-v2] Remove workarounds for breaking changes|Mgmt, Azure.Core.V2|XiaofeiCao||2025-11-07|
 |4|[#47141](https://github.com/Azure/azure-sdk-for-java/issues/47141)|[MGMT] package split for containerregistry|Mgmt|weidongxu-microsoft||2025-11-03|
@@ -28,11 +28,10 @@
 |26|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |27|[#41478](https://github.com/Azure/azure-sdk-for-java/issues/41478)|Unexpected deployment status on Azure WebApp Slot using getDeploymentStatusAsync from SupportsOneDeploy|question, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2024-08-09|
 |28|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
-|29|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
+|29|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
 |30|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
-|31|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|bug, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft|new comment|2024-05-22|
-|32|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-05-08|
+|31|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|bug, ARM, Mgmt, customer-reported, needs-author-feedback|weidongxu-microsoft||2024-05-22|
+|32|[#40081](https://github.com/Azure/azure-sdk-for-java/issues/40081)|Error log from compute client sdk|question, ARM, Mgmt, customer-reported, needs-author-feedback|weidongxu-microsoft||2024-05-08|
 |33|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
-|34|[#39703](https://github.com/Azure/azure-sdk-for-java/issues/39703)|[BUG]responseFilter parameter not encoded correctly in cognitiveServicesWebSearch|bug, Search, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-04-15|
-|35|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
-|36|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
+|34|[#39402](https://github.com/Azure/azure-sdk-for-java/issues/39402)|ExecuteDataFlowActivity- dataflow reference is everytime null|question, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2024-03-26|
+|35|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
