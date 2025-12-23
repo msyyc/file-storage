@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
+|1|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
 |2|[#47284](https://github.com/Azure/azure-sdk-for-java/issues/47284)|[BUG] mgmt, thread stuck when initializing `AzureResourceManager` instances concurrently|Mgmt|XiaofeiCao||2025-11-14|
 |3|[#47194](https://github.com/Azure/azure-sdk-for-java/issues/47194)|[MGMT][core-v2] Remove workarounds for breaking changes|Mgmt, Azure.Core.V2|XiaofeiCao||2025-11-07|
 |4|[#47141](https://github.com/Azure/azure-sdk-for-java/issues/47141)|[MGMT] package split for containerregistry|Mgmt|weidongxu-microsoft||2025-11-03|
@@ -26,7 +26,7 @@
 |24|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |25|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
 |26|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
-|27|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|27|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
 |28|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |29|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |30|[#40302](https://github.com/Azure/azure-sdk-for-java/issues/40302)|[BUG] Unable to list Virtual Networks in an Subscription|bug, ARM, Mgmt, customer-reported, needs-author-feedback|weidongxu-microsoft||2024-05-22|
