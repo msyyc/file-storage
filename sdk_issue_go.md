@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#25769](https://github.com/Azure/azure-sdk-for-go/issues/25769)|Some packages import themselves at older versions|ARM, Mgmt, needs-author-feedback|lirenhe||2025-12-11|
-|2|[#25763](https://github.com/Azure/azure-sdk-for-go/issues/25763)|Lost DeploymentsClient in github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources/v3|ARM, Mgmt, needs-author-feedback|lirenhe||2025-12-11|
+|1|[#25769](https://github.com/Azure/azure-sdk-for-go/issues/25769)|Some packages import themselves at older versions|ARM, Mgmt, needs-author-feedback, no-recent-activity|lirenhe||2025-12-11|
+|2|[#25763](https://github.com/Azure/azure-sdk-for-go/issues/25763)|Lost DeploymentsClient in github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources/v3|ARM, Mgmt, needs-author-feedback, no-recent-activity|lirenhe||2025-12-11|
 |3|[#24798](https://github.com/Azure/azure-sdk-for-go/issues/24798)|SQL Database API version is old|question, SQL, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-06-15|
 |4|[#24655](https://github.com/Azure/azure-sdk-for-go/issues/24655)|armresource.ClientListOptions  when resources are filtered by tag does the returned result will contains the original tags|question, Service Attention, Mgmt, customer-reported, ARM - Core, Resource Graph, needs-team-attention|lirenhe||2025-05-20|
 |5|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-02-12|
