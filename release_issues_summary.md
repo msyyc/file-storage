@@ -4,5 +4,4 @@
 | 2 | CosmosDB 2025-11-01-preview  | [#6703](https://github.com/Azure/sdk-release-request/issues/6703)  | [#6700](https://github.com/Azure/sdk-release-request/issues/6700)  |  |  | 11-04 | 11-21 | Hold on by Go/Python/ |
 | 3 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
 | 4 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 11-20 | Hold on by JS/Go/ |
-| 5 | Release for Container Service - 2025-10-02-preview  |  |  |  | [#6774](https://github.com/Azure/sdk-release-request/issues/6774)  | 12-05 | 12-25 |  |
-| 6 | Release for Azure Log Analytics - 2025-07-01  |  |  |  | [#6734](https://github.com/Azure/sdk-release-request/issues/6734)  | 11-11 | 12-25 |  |
+| 5 | Release for Azure Log Analytics - 2025-07-01  |  |  |  | [#6734](https://github.com/Azure/sdk-release-request/issues/6734)  | 11-11 | 12-25 | Hold on by JS/ |
