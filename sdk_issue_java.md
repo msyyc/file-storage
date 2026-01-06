@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#47621](https://github.com/Azure/azure-sdk-for-java/issues/47621)|mgmt premium, move premium samples from `azure-resourcemanager` to individual packages|Mgmt|XiaofeiCao||2026-01-05|
-|2|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
+|2|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
 |3|[#47194](https://github.com/Azure/azure-sdk-for-java/issues/47194)|[MGMT][core-v2] Remove workarounds for breaking changes|Mgmt, Azure.Core.V2|XiaofeiCao||2025-11-07|
 |4|[#47141](https://github.com/Azure/azure-sdk-for-java/issues/47141)|[MGMT] package split for containerregistry|Mgmt|weidongxu-microsoft||2025-11-03|
 |5|[#46465](https://github.com/Azure/azure-sdk-for-java/issues/46465)|[mgmt] discussion, enhance logging experience|Mgmt|XiaofeiCao||2025-08-21|
@@ -10,10 +10,10 @@
 |8|[#46371](https://github.com/Azure/azure-sdk-for-java/issues/46371)|[QUERY]how to create a cross tenant vnet peering with two service principals|question, Mgmt, customer-reported|XiaofeiCao||2025-08-12|
 |9|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |10|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
-|11|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|XiaofeiCao, weidongxu-microsoft||2025-07-24|
+|11|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|weidongxu-microsoft, XiaofeiCao||2025-07-24|
 |12|[#46009](https://github.com/Azure/azure-sdk-for-java/issues/46009)|[mgmt] package specific generate script in some separated premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |13|[#46007](https://github.com/Azure/azure-sdk-for-java/issues/46007)|[mgmt] selectively enable `modelerfour.lenient-model-deduplication` for premium packages|Mgmt|XiaofeiCao||2025-07-14|
-|14|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
+|14|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|weidongxu-microsoft, XiaofeiCao||2025-07-07|
 |15|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
 |16|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
 |17|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
