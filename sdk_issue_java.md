@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#47640](https://github.com/Azure/azure-sdk-for-java/issues/47640)|[BUG] subscription client - alias creation has no additional properties field|bug, ARM, Mgmt, customer-reported, needs-team-attention|weidongxu-microsoft||2026-01-07|
+|1|[#47640](https://github.com/Azure/azure-sdk-for-java/issues/47640)|[BUG] subscription client - alias creation has no additional properties field|bug, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2026-01-07|
 |2|[#47633](https://github.com/Azure/azure-sdk-for-java/issues/47633)|[BUG] changelog tool, change to enum value in enum class is not logged|Mgmt, needs-triage|weidongxu-microsoft||2026-01-06|
 |3|[#47621](https://github.com/Azure/azure-sdk-for-java/issues/47621)|mgmt premium, move premium samples from `azure-resourcemanager` to individual packages|Mgmt|XiaofeiCao||2026-01-05|
 |4|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
