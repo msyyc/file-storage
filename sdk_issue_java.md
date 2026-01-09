@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#47640](https://github.com/Azure/azure-sdk-for-java/issues/47640)|[BUG] subscription client - alias creation has no additional properties field|bug, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft||2026-01-07|
+|1|[#47640](https://github.com/Azure/azure-sdk-for-java/issues/47640)|[BUG] subscription client - alias creation has no additional properties field|bug, ARM, Mgmt, customer-reported, issue-addressed|weidongxu-microsoft|new comment|2026-01-07|
 |2|[#47633](https://github.com/Azure/azure-sdk-for-java/issues/47633)|[BUG] changelog tool, change to enum value in enum class is not logged|Mgmt, needs-triage|weidongxu-microsoft||2026-01-06|
 |3|[#47621](https://github.com/Azure/azure-sdk-for-java/issues/47621)|mgmt premium, move premium samples from `azure-resourcemanager` to individual packages|Mgmt|XiaofeiCao||2026-01-05|
 |4|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
@@ -28,7 +28,7 @@
 |26|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |27|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
 |28|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
-|29|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
+|29|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
 |30|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |31|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |32|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
