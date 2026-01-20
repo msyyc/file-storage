@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | Release for GalleryRP 2025-03-03  | [#6787](https://github.com/Azure/sdk-release-request/issues/6787)  | [#6784](https://github.com/Azure/sdk-release-request/issues/6784)  |  | [#6786](https://github.com/Azure/sdk-release-request/issues/6786)  | 01-06 | 01-23 |  |
+| 1 | Release for GalleryRP 2025-03-03  | [#6787](https://github.com/Azure/sdk-release-request/issues/6787)  |  |  | [#6786](https://github.com/Azure/sdk-release-request/issues/6786)  | 01-06 | 01-23 |  |
 | 2 | CosmosDB 2025-11-01-preview  | [#6703](https://github.com/Azure/sdk-release-request/issues/6703)  | [#6700](https://github.com/Azure/sdk-release-request/issues/6700)  |  |  | 11-04 | 11-21 | Hold on by Go/Python/ |
 | 3 | Release for Azure Communication Services - Email - 2025-09-01  |  |  | [#6780](https://github.com/Azure/sdk-release-request/issues/6780)  | [#6781](https://github.com/Azure/sdk-release-request/issues/6781)  | 01-06 | 01-23 |  |
 | 4 | Management Plane SDK for AgriculturePlatform  |  |  | [#5912](https://github.com/Azure/sdk-release-request/issues/5912)  |  | 02-28 | 03-27 | Hold on by Java/ |
