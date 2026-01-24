@@ -30,8 +30,8 @@
 |28|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
 |29|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
 |30|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
-|31|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
-|32|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
+|31|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
+|32|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |33|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |34|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
 |35|[#38657](https://github.com/Azure/azure-sdk-for-java/issues/38657)|mgmt, deprecate deploymentmanager as service has been decommissioned|Mgmt, Mgmt - Track 2|XiaofeiCao||2024-02-06|
