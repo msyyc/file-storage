@@ -13,3 +13,4 @@
 | 11 | [#6796](https://github.com/Azure/sdk-release-request/issues/6796) | santoshgh317 |  | ChenxiJiang333 |  | 01-27 |  | 0 |
 | 12 | [#6792](https://github.com/Azure/sdk-release-request/issues/6792) | cadenmarchese | azure-mgmt-redhatopenshift | ChenxiJiang333 | ForCLI. | 01-21 | 02-20 |  |
 | 13 | [#6703](https://github.com/Azure/sdk-release-request/issues/6703) | pjohari-ms | azure-mgmt-cosmosdb | ChenxiJiang333 | new comment. HoldOn. | 11-04 | 01-22 |  |
+| 14 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
