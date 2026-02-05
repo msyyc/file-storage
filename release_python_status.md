@@ -1,6 +1,6 @@
 | id | issue | author | package | assignee | bot advice | created date of issue | target release date | date from target |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-| 1 | [#6811](https://github.com/Azure/sdk-release-request/issues/6811) | meghanagupta95 | azure-mgmt-management | ChenxiJiang333 | new issue. | 02-04 | 02-20 |  |
+| 1 | [#6811](https://github.com/Azure/sdk-release-request/issues/6811) | meghanagupta95 | azure-mgmt-management | ChenxiJiang333 |  | 02-04 | 02-20 |  |
 | 2 | [#6807](https://github.com/Azure/sdk-release-request/issues/6807) | msyyc | azure-mgmt-resource-databoundaries | ChenxiJiang333 | close to release date. | 02-04 | 02-08 | 2 |
 | 3 | [#6806](https://github.com/Azure/sdk-release-request/issues/6806) | msyyc | azure-mgmt-resource-changes | ChenxiJiang333 | close to release date. | 02-04 | 02-08 | 2 |
 | 4 | [#6805](https://github.com/Azure/sdk-release-request/issues/6805) | msyyc | azure-mgmt-resource-subscriptions | ChenxiJiang333 | close to release date. | 02-04 | 02-08 | 2 |
