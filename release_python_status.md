@@ -13,4 +13,4 @@
 | 11 | [#6799](https://github.com/Azure/sdk-release-request/issues/6799) | msyyc | azure-mgmt-resource-privatelinks | ChenxiJiang333 | close to release date. | 02-04 | 02-08 | 2 |
 | 12 | [#6796](https://github.com/Azure/sdk-release-request/issues/6796) | santoshgh317 |  | ChenxiJiang333 |  | 01-27 |  | 0 |
 | 13 | [#6792](https://github.com/Azure/sdk-release-request/issues/6792) | cadenmarchese | azure-mgmt-redhatopenshift | ChenxiJiang333 | ForCLI. | 01-21 | 02-20 |  |
-| 14 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. HoldOn. TypeSpec. | 02-28 | 03-27 |  |
+| 14 | [#5914](https://github.com/Azure/sdk-release-request/issues/5914) | SiddarthaCherukumudi | azure-mgmt-agricultureplatform | ChenxiJiang333 | FirstBeta. TypeSpec. | 02-28 | 03-27 |  |
