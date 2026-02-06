@@ -1,4 +1,14 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-agricultureplatform,azure-sdk,ChenxiJiang333,2025-02-28,2026-02-06,https://github.com/Azure/sdk-release-request/issues/5914,1.0.0b1,
+azure-mgmt-resource-privatelinks,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6799,1.0.0b1,
+azure-mgmt-resource-features,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6800,1.0.0b1,
+azure-mgmt-resource-links,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6801,1.0.0b1,
+azure-mgmt-resource-locks,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6802,1.0.0b1,
+azure-mgmt-resource-managedapplications,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6803,1.0.0b1,
+azure-mgmt-resource-policy,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6804,1.0.0b1,
+azure-mgmt-resource-subscriptions,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6805,1.0.0b1,
+azure-mgmt-resource-changes,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6806,1.0.0b1,
+azure-mgmt-resource-databoundaries,msyyc,ChenxiJiang333,2026-02-04,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6807,1.0.0b1,
 azure-mgmt-compute,azure-sdk,ChenxiJiang333,2026-01-06,2026-01-27,https://github.com/Azure/sdk-release-request/issues/6787,37.2.0,True
 azure-mgmt-communication,azure-sdk,ChenxiJiang333,2026-01-06,2026-01-19,https://github.com/Azure/sdk-release-request/issues/6782,2.2.0,True
 azure-mgmt-networkcloud,azure-sdk,ChenxiJiang333,2025-12-01,2025-12-22,https://github.com/Azure/sdk-release-request/issues/6765,2.2.0,True
