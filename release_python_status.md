@@ -3,4 +3,3 @@
 | 1 | [#6813](https://github.com/Azure/sdk-release-request/issues/6813) | msyyc | azure-mgmt-resource | ChenxiJiang333 | close to release date. | 02-05 | 02-08 | 1 |
 | 2 | [#6811](https://github.com/Azure/sdk-release-request/issues/6811) | meghanagupta95 | azure-mgmt-management | ChenxiJiang333 |  | 02-04 | 02-20 |  |
 | 3 | [#6796](https://github.com/Azure/sdk-release-request/issues/6796) | santoshgh317 |  | ChenxiJiang333 |  | 01-27 |  | 0 |
-| 4 | [#6792](https://github.com/Azure/sdk-release-request/issues/6792) | cadenmarchese | azure-mgmt-redhatopenshift | ChenxiJiang333 | new comment. ForCLI. | 01-21 | 02-20 |  |
