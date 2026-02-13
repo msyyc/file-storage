@@ -1,4 +1,5 @@
 package name,author,assignee,created at,closed at,link,version,is stable
+azure-mgmt-managementgroups,msyyc,ChenxiJiang333,2026-02-12,2026-02-13,https://github.com/Azure/sdk-release-request/issues/6819,1.1.0,True
 azure-mgmt-resource,msyyc,ChenxiJiang333,2026-02-05,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6813,25.0.0,True
 azure-mgmt-redhatopenshift,azure-sdk,ChenxiJiang333,2026-01-21,2026-02-06,https://github.com/Azure/sdk-release-request/issues/6792,3.0.0,True
 azure-mgmt-agricultureplatform,azure-sdk,ChenxiJiang333,2025-02-28,2026-02-06,https://github.com/Azure/sdk-release-request/issues/5914,1.0.0b1,
