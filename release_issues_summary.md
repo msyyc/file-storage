@@ -1,6 +1,6 @@
 | id | title | Python | Go | Java | Js | created date | target date | status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | Release for Service Groups - 2024-02-01-preview  | [#6811](https://github.com/Azure/sdk-release-request/issues/6811)  | [#6808](https://github.com/Azure/sdk-release-request/issues/6808)  | [#6809](https://github.com/Azure/sdk-release-request/issues/6809)  | [#6810](https://github.com/Azure/sdk-release-request/issues/6810)  | 02-04 | 02-20 | Hold on by Java/Go/Python/ |
-| 2 | Release Microsoft.Network 2025-05-01  | [#6796](https://github.com/Azure/sdk-release-request/issues/6796)  |  |  | [#6795](https://github.com/Azure/sdk-release-request/issues/6795)  | 01-27 | 02-19 |  |
+| 2 | Release Microsoft.Network 2025-05-01  | [#6796](https://github.com/Azure/sdk-release-request/issues/6796)  |  |  |  | 01-27 |  |  |
 | 3 | Azure Red Hat OpenShift SDK releases for API Version 2025-07-25 (Managed Identity GA)  |  |  | [#6790](https://github.com/Azure/sdk-release-request/issues/6790)  | [#6791](https://github.com/Azure/sdk-release-request/issues/6791)  | 01-21 | 02-20 | Hold on by Java/ |
 | 4 | Microsoft.Insights/metricalerts - 2024-03-01-preview  |  | [#6685](https://github.com/Azure/sdk-release-request/issues/6685)  |  | [#6687](https://github.com/Azure/sdk-release-request/issues/6687)  | 10-30 | 01-22 | Hold on by JS/Go/ |
