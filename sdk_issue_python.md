@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#45057](https://github.com/Azure/azure-sdk-for-python/issues/45057)|ImportError: cannot import name 'DeploymentWhatIf' from 'azure.mgmt.resource.resources.models'|question, Mgmt, customer-reported, needs-team-attention, Resources|msyyc||2026-02-06|
+|1|[#45057](https://github.com/Azure/azure-sdk-for-python/issues/45057)|ImportError: cannot import name 'DeploymentWhatIf' from 'azure.mgmt.resource.resources.models'|question, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|no reply > 7|2026-02-06|
 |2|[#44864](https://github.com/Azure/azure-sdk-for-python/issues/44864)|Experiment: Translating Azure SDK mgmt. plane Scenario Tests from .NET to Python|Mgmt, test-enhancement|msyyc|new issue|2026-01-27|
 |3|[#44740](https://github.com/Azure/azure-sdk-for-python/issues/44740)|azure-mgmt-core needs linting updates for pylint version 4.0.4|Mgmt, Azure.Core, pylint|msyyc|new issue|2026-01-18|
 |4|[#44158](https://github.com/Azure/azure-sdk-for-python/issues/44158)|Type Check failing after azure-mgmt-resourcegraph update|question, Mgmt, customer-reported, CodeGen, needs-team-attention|msyyc|no reply > 7|2025-11-24|
