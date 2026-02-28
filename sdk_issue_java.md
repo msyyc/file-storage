@@ -14,23 +14,22 @@
 |12|[#46371](https://github.com/Azure/azure-sdk-for-java/issues/46371)|[QUERY]how to create a cross tenant vnet peering with two service principals|question, Mgmt, customer-reported|XiaofeiCao||2025-08-12|
 |13|[#46165](https://github.com/Azure/azure-sdk-for-java/issues/46165)|[BUG] Recording passed but PLAYBACK failed|Mgmt, test-proxy|XiaofeiCao||2025-07-25|
 |14|[#46162](https://github.com/Azure/azure-sdk-for-java/issues/46162)|[mgmt] Investigate compute test failures|Mgmt|XiaofeiCao||2025-07-25|
-|15|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|XiaofeiCao, weidongxu-microsoft||2025-07-24|
+|15|[#46136](https://github.com/Azure/azure-sdk-for-java/issues/46136)|[mgmt] add troubleshooting doc about "HTTP header is larger than 8192 bytes" in mgmt readme|Mgmt, Docs|weidongxu-microsoft, XiaofeiCao||2025-07-24|
 |16|[#46009](https://github.com/Azure/azure-sdk-for-java/issues/46009)|[mgmt] package specific generate script in some separated premium packages|Mgmt|XiaofeiCao||2025-07-14|
 |17|[#46007](https://github.com/Azure/azure-sdk-for-java/issues/46007)|[mgmt] selectively enable `modelerfour.lenient-model-deduplication` for premium packages|Mgmt|XiaofeiCao||2025-07-14|
-|18|[#45920](https://github.com/Azure/azure-sdk-for-java/issues/45920)|[mgmt] consider moving premium package out to separate folder (and use dependency on released lib)|ARM, Mgmt|XiaofeiCao, weidongxu-microsoft||2025-07-07|
-|19|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
-|20|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
-|21|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
-|22|[#45687](https://github.com/Azure/azure-sdk-for-java/issues/45687)|[BUG] Rename `delete + 2 params + Context` to `deleteByResourceGroup`|Mgmt, Azure.Core.V2|XiaofeiCao||2025-06-13|
-|23|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
-|24|[#44264](https://github.com/Azure/azure-sdk-for-java/issues/44264)|[FEATURE REQ] azure-core-v2 for mgmt SDK|ARM, Mgmt, ARM - Core, Azure.Core.V2|XiaofeiCao||2025-02-19|
-|25|[#43781](https://github.com/Azure/azure-sdk-for-java/issues/43781)|[FEATURE REQ] mgmt sync-stack, SDK support|ARM, Mgmt, Epic, Mgmt - Track 2, needs-team-attention|XiaofeiCao||2025-01-14|
-|26|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft||2024-11-07|
-|27|[#42242](https://github.com/Azure/azure-sdk-for-java/issues/42242)|[QUERY] Add data disk with write accelerator enabled|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-10-09|
-|28|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
-|29|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
-|30|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
-|31|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
-|32|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
-|33|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
-|34|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
+|18|[#45886](https://github.com/Azure/azure-sdk-for-java/issues/45886)|[FEATURE REQ] mgmt, support self-serve for premium packages|Mgmt, Epic, Mgmt - Track 2|XiaofeiCao||2025-07-01|
+|19|[#45829](https://github.com/Azure/azure-sdk-for-java/issues/45829)|[MGMT] discussion, PATCH in ARM resource|Mgmt|weidongxu-microsoft||2025-06-25|
+|20|[#45827](https://github.com/Azure/azure-sdk-for-java/issues/45827)|[MGMT] discussion, what to improve on LRO in core-v2|Mgmt|weidongxu-microsoft||2025-06-25|
+|21|[#45687](https://github.com/Azure/azure-sdk-for-java/issues/45687)|[BUG] Rename `delete + 2 params + Context` to `deleteByResourceGroup`|Mgmt, Azure.Core.V2|XiaofeiCao||2025-06-13|
+|22|[#45086](https://github.com/Azure/azure-sdk-for-java/issues/45086)|[FEATURE REQ] mgmt sync-stack, support for azure-resourcemanager-resources|Mgmt|XiaofeiCao||2025-04-23|
+|23|[#44264](https://github.com/Azure/azure-sdk-for-java/issues/44264)|[FEATURE REQ] azure-core-v2 for mgmt SDK|ARM, Mgmt, ARM - Core, Azure.Core.V2|XiaofeiCao||2025-02-19|
+|24|[#43781](https://github.com/Azure/azure-sdk-for-java/issues/43781)|[FEATURE REQ] mgmt sync-stack, SDK support|ARM, Mgmt, Epic, Mgmt - Track 2, needs-team-attention|XiaofeiCao||2025-01-14|
+|25|[#42841](https://github.com/Azure/azure-sdk-for-java/issues/42841)|Create documentation for partners on generating management SDKs using MPG|Mgmt|weidongxu-microsoft||2024-11-07|
+|26|[#42242](https://github.com/Azure/azure-sdk-for-java/issues/42242)|[QUERY] Add data disk with write accelerator enabled|ARM, Mgmt, needs-team-attention|weidongxu-microsoft||2024-10-09|
+|27|[#42033](https://github.com/Azure/azure-sdk-for-java/issues/42033)|[FEATURE REQ] changelog tool, exclude changes from `implementation` package|Mgmt|XiaofeiCao||2024-09-25|
+|28|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
+|29|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
+|30|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|srnagar, weidongxu-microsoft||2024-08-07|
+|31|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
+|32|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
+|33|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
