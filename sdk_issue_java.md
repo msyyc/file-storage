@@ -5,7 +5,7 @@
 |3|[#47691](https://github.com/Azure/azure-sdk-for-java/issues/47691)|mgmt, generate CDN from TypeSpec|Mgmt|weidongxu-microsoft||2026-01-13|
 |4|[#47679](https://github.com/Azure/azure-sdk-for-java/issues/47679)|mgmt, migrate commerce to azure-json|Mgmt|XiaofeiCao||2026-01-12|
 |5|[#47621](https://github.com/Azure/azure-sdk-for-java/issues/47621)|mgmt premium, keep premium samples in individual packages, instead of moving under `azure-resourcemanager`|Mgmt|XiaofeiCao||2026-01-05|
-|6|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
+|6|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
 |7|[#47194](https://github.com/Azure/azure-sdk-for-java/issues/47194)|[MGMT][core-v2] Remove workarounds for breaking changes|Mgmt, Azure.Core.V2|XiaofeiCao||2025-11-07|
 |8|[#47141](https://github.com/Azure/azure-sdk-for-java/issues/47141)|[MGMT] package split for containerregistry|Mgmt|weidongxu-microsoft||2025-11-03|
 |9|[#46465](https://github.com/Azure/azure-sdk-for-java/issues/46465)|[mgmt] discussion, enhance logging experience|Mgmt|XiaofeiCao||2025-08-21|
