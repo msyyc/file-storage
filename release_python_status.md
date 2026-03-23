@@ -3,3 +3,4 @@
 | 1 | [#6838](https://github.com/Azure/sdk-release-request/issues/6838) | Shekar2004 | azure-mgmt-confluent | ChenxiJiang333 |  | 03-15 | 04-23 |  |
 | 2 | [#6823](https://github.com/Azure/sdk-release-request/issues/6823) | Aman-Jain-14 | azure-mgmt-storagecache | ChenxiJiang333 |  | 02-24 | 03-19 |  |
 | 3 | [#6811](https://github.com/Azure/sdk-release-request/issues/6811) | meghanagupta95 | azure-mgmt-management | ChenxiJiang333 | new comment. HoldOn. | 02-04 | 02-20 |  |
+| 4 | [#2048](https://github.com/Azure/sdk-release-request/issues/2048) | msyyc | azure-mgmt-storage | msyyc | close to release date. | 09-29 | 03-23 | 0 |
