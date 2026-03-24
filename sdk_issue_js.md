@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#37705](https://github.com/Azure/azure-sdk-for-js/issues/37705)|[mgmt agentic workflow] Provide guidance on pipeline failures and next step for self service PRs|EngSys, Mgmt|kazrael2119, lirenhe, MaryGao||2026-03-18|
-|2|[#37631](https://github.com/Azure/azure-sdk-for-js/issues/37631)|[mgmt agentic workflow] Continue monitoring the mgmt review agentic workflow and improve its quality|Mgmt|kazrael2119, lirenhe, MaryGao||2026-03-13|
+|1|[#37705](https://github.com/Azure/azure-sdk-for-js/issues/37705)|[mgmt agentic workflow] Provide guidance on pipeline failures and next step for self service PRs|EngSys, Mgmt|MaryGao, kazrael2119, lirenhe||2026-03-18|
+|2|[#37631](https://github.com/Azure/azure-sdk-for-js/issues/37631)|[mgmt agentic workflow] Continue monitoring the mgmt review agentic workflow and improve its quality|Mgmt|MaryGao, kazrael2119, lirenhe||2026-03-13|
 |3|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-team-attention|MaryGao, v-jiaodi||2025-12-04|
 |4|[#36766](https://github.com/Azure/azure-sdk-for-js/issues/36766)|Expected signal to be an instanceof AbortSignal - @azure/arm-resourcegraph|question, customer-reported, Mgmt|kazrael2119, qiaozha|new comment|2025-12-01|
 |5|[#36686](https://github.com/Azure/azure-sdk-for-js/issues/36686)|[@azure/arm-policyinsights] "Unsupported resource type: 'Microsoft.PolicyInsights/policyStates/queryResults'" error when trying to list policy states|question, customer-reported, Mgmt|kazrael2119, qiaozha|new comment|2025-11-19|
@@ -9,7 +9,7 @@
 |7|[#34779](https://github.com/Azure/azure-sdk-for-js/issues/34779)|arm-cosmosdb 16.3.0 still missing fullTextIndexes after FullTextPath was added|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha||2025-06-11|
 |8|[#34256](https://github.com/Azure/azure-sdk-for-js/issues/34256)|Verify JS SDK generation for common-types replacement|Mgmt, CodeGen|kazrael2119, MaryGao, v-jiaodi|new issue|2025-05-08|
 |9|[#34085](https://github.com/Azure/azure-sdk-for-js/issues/34085)|`ipv6Rules` missing from `NetworkRule` type|question, customer-reported, Mgmt, Storage, Service Attention, needs-team-attention|qiaozha|new comment|2025-04-28|
-|10|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, needs-team-attention|MaryGao, Copilot||2025-01-07|
+|10|[#32449](https://github.com/Azure/azure-sdk-for-js/issues/32449)|a util that can parse arm id|question, customer-reported, Mgmt, Azure.Core, needs-team-attention|Copilot, MaryGao||2025-01-07|
 |11|[#32353](https://github.com/Azure/azure-sdk-for-js/issues/32353)|Interface JitNetworkAccessPolicyInitiatePort is missing the property allowedSourceAddressPrefixes|question, customer-reported, Mgmt, Service Attention, needs-team-attention|qiaozha|new comment|2024-12-24|
 |12|[#29948](https://github.com/Azure/azure-sdk-for-js/issues/29948)|costManagementClient.query.usage() returns wrong CAD unit instead of USD|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-07|
 |13|[#29917](https://github.com/Azure/azure-sdk-for-js/issues/29917)|Creating app service plan with custom locations doesn't sent extendedLocation and returns error.|question, customer-reported, Mgmt, needs-team-attention|kazrael2119, qiaozha|new comment|2024-06-05|
