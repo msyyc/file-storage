@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#37705](https://github.com/Azure/azure-sdk-for-js/issues/37705)|[mgmt] Provide guidance on pipeline failures and next step for self service PRs|EngSys, Mgmt|lirenhe, kazrael2119, MaryGao||2026-03-18|
-|2|[#37631](https://github.com/Azure/azure-sdk-for-js/issues/37631)|[mgmt] Continue monitoring the mgmt review agentic workflow and improve its quality|Mgmt|lirenhe, kazrael2119, MaryGao||2026-03-13|
+|1|[#37705](https://github.com/Azure/azure-sdk-for-js/issues/37705)|[mgmt agentic workflow] Provide guidance on pipeline failures and next step for self service PRs|EngSys, Mgmt|MaryGao, lirenhe, kazrael2119||2026-03-18|
+|2|[#37631](https://github.com/Azure/azure-sdk-for-js/issues/37631)|[mgmt agentic workflow] Continue monitoring the mgmt review agentic workflow and improve its quality|Mgmt|MaryGao, lirenhe, kazrael2119||2026-03-13|
 |3|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-team-attention|MaryGao, v-jiaodi||2025-12-04|
 |4|[#36766](https://github.com/Azure/azure-sdk-for-js/issues/36766)|Expected signal to be an instanceof AbortSignal - @azure/arm-resourcegraph|question, customer-reported, Mgmt|qiaozha, kazrael2119|new comment|2025-12-01|
 |5|[#36686](https://github.com/Azure/azure-sdk-for-js/issues/36686)|[@azure/arm-policyinsights] "Unsupported resource type: 'Microsoft.PolicyInsights/policyStates/queryResults'" error when trying to list policy states|question, customer-reported, Mgmt|qiaozha, kazrael2119|new comment|2025-11-19|
