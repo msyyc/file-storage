@@ -2,5 +2,5 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 | 1 | [#6836](https://github.com/Azure/sdk-release-request/issues/6836) | Shekar2004 |  | haolingdong-msft | new issue. | 03-15 | 04-23 |  |
 | 2 | [#6821](https://github.com/Azure/sdk-release-request/issues/6821) | Aman-Jain-14 |  | weidongxu-microsoft | new issue. | 02-24 | 03-19 |  |
-| 3 | [#6809](https://github.com/Azure/sdk-release-request/issues/6809) | meghanagupta95 |  | XiaofeiCao | HoldOn. | 02-04 | 02-20 |  |
+| 3 | [#6809](https://github.com/Azure/sdk-release-request/issues/6809) | meghanagupta95 |  | XiaofeiCao |  | 02-04 | 02-20 |  |
 | 4 | [#6790](https://github.com/Azure/sdk-release-request/issues/6790) | cadenmarchese |  | XiaofeiCao | new comment. HoldOn. | 01-21 | 02-20 |  |
