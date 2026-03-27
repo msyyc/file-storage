@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#48574](https://github.com/Azure/azure-sdk-for-java/issues/48574)|[QUERY] How to retrieve Availability Zone information directly from `GenericResource`?|question, ARM, Mgmt, customer-reported|weidongxu-microsoft||2026-03-25|
+|1|[#48574](https://github.com/Azure/azure-sdk-for-java/issues/48574)|[QUERY] How to retrieve Availability Zone information directly from `GenericResource`?|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2026-03-25|
 |2|[#47956](https://github.com/Azure/azure-sdk-for-java/issues/47956)|[BUG] mgmt eng, investigate generate script failure|Mgmt|XiaofeiCao||2026-02-10|
 |3|[#47679](https://github.com/Azure/azure-sdk-for-java/issues/47679)|mgmt, migrate commerce to azure-json|Mgmt|XiaofeiCao||2026-01-12|
 |4|[#47621](https://github.com/Azure/azure-sdk-for-java/issues/47621)|mgmt premium, keep premium samples in individual packages, instead of moving under `azure-resourcemanager`|Mgmt|XiaofeiCao||2026-01-05|
@@ -29,6 +29,6 @@
 |27|[#41669](https://github.com/Azure/azure-sdk-for-java/issues/41669)|[BUG] RoleAssignment not working with Java but works through AZ CLI|bug, Mgmt, customer-reported, needs-team-attention|XiaofeiCao||2024-08-28|
 |28|[#41513](https://github.com/Azure/azure-sdk-for-java/issues/41513)|[BUG] investigate live test failures|Mgmt|XiaofeiCao||2024-08-14|
 |29|[#41460](https://github.com/Azure/azure-sdk-for-java/issues/41460)|[FEATURE REQ] Create a `ResourceIdentifier` type in azure-core|ARM, Mgmt, Azure.Core, needs-team-attention|weidongxu-microsoft, srnagar||2024-08-07|
-|30|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|v-hongli1, XiaofeiCao||2024-08-06|
+|30|[#41434](https://github.com/Azure/azure-sdk-for-java/issues/41434)|Virutal VWAN Objects are not seen under com.azure.resourcemanager.network.models packe|question, ARM, Mgmt, customer-reported, needs-team-attention|XiaofeiCao, v-hongli1||2024-08-06|
 |31|[#40680](https://github.com/Azure/azure-sdk-for-java/issues/40680)|[FEATURE REQ] function app on ACA, support consumption tier|Mgmt|XiaofeiCao||2024-06-18|
 |32|[#39712](https://github.com/Azure/azure-sdk-for-java/issues/39712)|[FEATURE REQ] mgmt, improve docs on ThreadPool|Mgmt|XiaofeiCao||2024-04-15|
