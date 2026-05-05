@@ -7,7 +7,7 @@
 |5|[#47956](https://github.com/Azure/azure-sdk-for-java/issues/47956)|[BUG] mgmt eng, investigate generate script failure|Mgmt|XiaofeiCao||2026-02-10|
 |6|[#47679](https://github.com/Azure/azure-sdk-for-java/issues/47679)|mgmt, migrate commerce to azure-json|Mgmt|XiaofeiCao||2026-01-12|
 |7|[#47621](https://github.com/Azure/azure-sdk-for-java/issues/47621)|mgmt premium, keep premium samples in individual packages, instead of moving under `azure-resourcemanager`|Mgmt|XiaofeiCao||2026-01-05|
-|8|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
+|8|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
 |9|[#47194](https://github.com/Azure/azure-sdk-for-java/issues/47194)|[MGMT][core-v2] Remove workarounds for breaking changes|Mgmt, Azure.Core.V2|XiaofeiCao||2025-11-07|
 |10|[#46465](https://github.com/Azure/azure-sdk-for-java/issues/46465)|[mgmt] discussion, enhance logging experience|Mgmt|XiaofeiCao||2025-08-21|
 |11|[#46464](https://github.com/Azure/azure-sdk-for-java/issues/46464)|[mgmt] remove external dependencies, e.g. Netty, Jackson|Mgmt|XiaofeiCao||2025-08-21|
