@@ -1,8 +1,8 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#37825](https://github.com/Azure/azure-sdk-for-js/issues/37825)|Allow customers to fix common release issues on auto SDK release PR without checkout locally|enhancement, Mgmt|MaryGao, JialinHuang803, lirenhe||2026-03-25|
-|2|[#37705](https://github.com/Azure/azure-sdk-for-js/issues/37705)|[mgmt agentic workflow] Provide guidance on pipeline failures and next step for self service PRs|EngSys, Mgmt|MaryGao, JialinHuang803, lirenhe, kazrael2119||2026-03-18|
-|3|[#37631](https://github.com/Azure/azure-sdk-for-js/issues/37631)|[mgmt agentic workflow] Continue monitoring the mgmt review agentic workflow and improve its quality|Mgmt|MaryGao, JialinHuang803, lirenhe, kazrael2119||2026-03-13|
+|1|[#37825](https://github.com/Azure/azure-sdk-for-js/issues/37825)|Allow customers to fix common release issues on auto SDK release PR without checkout locally|enhancement, Mgmt|lirenhe, MaryGao, JialinHuang803||2026-03-25|
+|2|[#37705](https://github.com/Azure/azure-sdk-for-js/issues/37705)|[mgmt agentic workflow] Provide guidance on pipeline failures and next step for self service PRs|EngSys, Mgmt|lirenhe, MaryGao, JialinHuang803, kazrael2119||2026-03-18|
+|3|[#37631](https://github.com/Azure/azure-sdk-for-js/issues/37631)|[mgmt agentic workflow] Continue monitoring the mgmt review agentic workflow and improve its quality|Mgmt|lirenhe, MaryGao, JialinHuang803, kazrael2119||2026-03-13|
 |4|[#37420](https://github.com/Azure/azure-sdk-for-js/issues/37420)|Move JavaScript SDK samples (management-plane and data-plane) to a centralized repository|EngSys, Client, Mgmt|lirenhe||2026-03-02|
 |5|[#36801](https://github.com/Azure/azure-sdk-for-js/issues/36801)|🚀 Feature Request: Provide a REST-Based Client for @azure/arm-sql (e.g., @azure-rest/arm-sql)|question, customer-reported, Mgmt, Service Attention, SQL, needs-team-attention|MaryGao, v-jiaodi|new comment|2025-12-04|
 |6|[#36766](https://github.com/Azure/azure-sdk-for-js/issues/36766)|Expected signal to be an instanceof AbortSignal - @azure/arm-resourcegraph|question, customer-reported, Mgmt|qiaozha, kazrael2119|new comment|2025-12-01|
