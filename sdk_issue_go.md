@@ -8,4 +8,4 @@
 |6|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |7|[#23669](https://github.com/Azure/azure-sdk-for-go/issues/23669)|Appcomplianceautomation report list pager returns 401|question, Security, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-10-29|
 |8|[#23479](https://github.com/Azure/azure-sdk-for-go/issues/23479)|App Service module "The api-version '2023-12-01' is invalid." error|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-23|
-|9|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|Mitse1n, lirenhe||2024-08-13|
+|9|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, Mitse1n||2024-08-13|
