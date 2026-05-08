@@ -2,7 +2,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
 |1|[#26716](https://github.com/Azure/azure-sdk-for-go/issues/26716)|[SDK Generation] Microsoft.Security - TypeSpec migration (armsecurity)|Security, Mgmt, needs-team-attention|lirenhe||2026-05-05|
 |2|[#26608](https://github.com/Azure/azure-sdk-for-go/issues/26608)|add the Tags field to VirtualMachineScaleSetVMProfile|question, Compute - VMSS, Service Attention, Mgmt, customer-reported, needs-author-feedback|lirenhe||2026-04-16|
-|3|[#26585](https://github.com/Azure/azure-sdk-for-go/issues/26585)|Disable all live test under sdk/resourcemanager/apimanagemnet/armapimanagemnet|API Management, Mgmt, needs-team-attention|Copilot, lirenhe, jliusan||2026-04-14|
+|3|[#26585](https://github.com/Azure/azure-sdk-for-go/issues/26585)|Disable all live test under sdk/resourcemanager/apimanagemnet/armapimanagemnet|API Management, Mgmt, needs-team-attention|Copilot, jliusan, lirenhe||2026-04-14|
 |4|[#24798](https://github.com/Azure/azure-sdk-for-go/issues/24798)|SQL Database API version is old|question, SQL, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-06-15|
 |5|[#24655](https://github.com/Azure/azure-sdk-for-go/issues/24655)|armresource.ClientListOptions  when resources are filtered by tag does the returned result will contains the original tags|question, Service Attention, Mgmt, customer-reported, ARM - Core, Resource Graph, needs-team-attention|lirenhe||2025-05-20|
 |6|[#24104](https://github.com/Azure/azure-sdk-for-go/issues/24104)|Failed listing security contacts in azure china|Security, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2025-02-12|
@@ -10,4 +10,4 @@
 |8|[#23700](https://github.com/Azure/azure-sdk-for-go/issues/23700)|Missing Endpoints for Purview API|question, Service Attention, Mgmt, customer-reported, needs-team-attention, Purview|lirenhe||2024-11-06|
 |9|[#23669](https://github.com/Azure/azure-sdk-for-go/issues/23669)|Appcomplianceautomation report list pager returns 401|question, Security, Mgmt, customer-reported, needs-team-attention|lirenhe|new comment|2024-10-29|
 |10|[#23479](https://github.com/Azure/azure-sdk-for-go/issues/23479)|App Service module "The api-version '2023-12-01' is invalid." error|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2024-09-23|
-|11|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe, Mitse1n||2024-08-13|
+|11|[#23315](https://github.com/Azure/azure-sdk-for-go/issues/23315)|Return Nil Values when Using ListFunctionKeys|question, App Services, Service Attention, Mgmt, customer-reported, needs-team-attention|Mitse1n, lirenhe||2024-08-13|
