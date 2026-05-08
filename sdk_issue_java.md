@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#48954](https://github.com/Azure/azure-sdk-for-java/issues/48954)|Release Request: azure-resourcemanager-authorization 2.54.0-beta.1 (Deny Assignment GA)|ARM, Mgmt, needs-author-feedback|weidongxu-microsoft||2026-04-28|
+|1|[#48954](https://github.com/Azure/azure-sdk-for-java/issues/48954)|Release Request: azure-resourcemanager-authorization 2.54.0-beta.1 (Deny Assignment GA)|ARM, Mgmt, needs-team-attention|weidongxu-microsoft|new comment|2026-04-28|
 |2|[#48806](https://github.com/Azure/azure-sdk-for-java/issues/48806)|[MGMT] avoid automatically skip revapi check for preview lib|Mgmt, needs-triage|weidongxu-microsoft||2026-04-14|
 |3|[#48765](https://github.com/Azure/azure-sdk-for-java/issues/48765)|mgmt batch, missing migration guide|Mgmt|XiaofeiCao||2026-04-10|
 |4|[#48574](https://github.com/Azure/azure-sdk-for-java/issues/48574)|[QUERY] How to retrieve Availability Zone information directly from `GenericResource`?|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2026-03-25|
