@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#26738](https://github.com/Azure/azure-sdk-for-go/issues/26738)|Release Request: armauthorization v3.0.0-beta.3 (Deny Assignment GA)|Mgmt, needs-author-feedback|lirenhe||2026-05-07|
+|1|[#26738](https://github.com/Azure/azure-sdk-for-go/issues/26738)|Release Request: armauthorization v3.0.0-beta.3 (Deny Assignment GA)|Mgmt, needs-author-feedback, no-recent-activity|lirenhe||2026-05-07|
 |2|[#26716](https://github.com/Azure/azure-sdk-for-go/issues/26716)|[SDK Generation] Microsoft.Security - TypeSpec migration (armsecurity)|Security, Mgmt, needs-team-attention|lirenhe||2026-05-05|
 |3|[#26608](https://github.com/Azure/azure-sdk-for-go/issues/26608)|add the Tags field to VirtualMachineScaleSetVMProfile|question, Compute - VMSS, Service Attention, Mgmt, customer-reported, needs-author-feedback, no-recent-activity|lirenhe||2026-04-16|
 |4|[#24798](https://github.com/Azure/azure-sdk-for-go/issues/24798)|SQL Database API version is old|question, SQL, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-06-15|
