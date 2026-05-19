@@ -1,6 +1,6 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#46922](https://github.com/Azure/azure-sdk-for-python/issues/46922)|azure-mgmt-automation should be bumped to 1.1.0|question, Automation, Mgmt, customer-reported, needs-author-feedback|msyyc||2026-05-15|
+|1|[#46922](https://github.com/Azure/azure-sdk-for-python/issues/46922)|azure-mgmt-automation should be bumped to 1.1.0|question, Automation, Mgmt, customer-reported, needs-team-attention|msyyc||2026-05-15|
 |2|[#46335](https://github.com/Azure/azure-sdk-for-python/issues/46335)|Azure VM Cross-Region Restore from Recovery Services Vault(RA-GRS) Snapshot|question, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2026-04-15|
 |3|[#45444](https://github.com/Azure/azure-sdk-for-python/issues/45444)|azure-mgmt-core needs linting updates for pylint version 4.0.4|Mgmt, Azure.Core, pylint|msyyc|new issue|2026-02-28|
 |4|[#45057](https://github.com/Azure/azure-sdk-for-python/issues/45057)|ImportError: cannot import name 'DeploymentWhatIf' from 'azure.mgmt.resource.resources.models'|question, Mgmt, customer-reported, needs-team-attention, Resources|msyyc|no reply > 7|2026-02-06|
@@ -11,7 +11,7 @@
 |9|[#41825](https://github.com/Azure/azure-sdk-for-python/issues/41825)|Response bodies missing when using `--verbose --debug`|bug, question, ARM, Service Attention, Mgmt|zhoxing-ms, msyyc|new comment|2025-06-27|
 |10|[#41441](https://github.com/Azure/azure-sdk-for-python/issues/41441)|azure.mgmt.monitor.v2022_06_01.models.extensiondatasource type not proper set for extension_settings|question, Monitor, Mgmt, customer-reported, needs-team-attention|pvaneck, msyyc|no reply > 7|2025-06-05|
 |11|[#40981](https://github.com/Azure/azure-sdk-for-python/issues/40981)|azure-mgmt-advisor source distribution does not contain license|bug, Advisor, Service Attention, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2025-05-08|
-|12|[#39148](https://github.com/Azure/azure-sdk-for-python/issues/39148)|azure-mgmt-webpubsub needs typing updates for mypy version 1.19.1|Mgmt, WebPubSub, mypy|chenkennt, Y-Sindo, msyyc, iscai-msft|new issue|2025-01-12|
+|12|[#39148](https://github.com/Azure/azure-sdk-for-python/issues/39148)|azure-mgmt-webpubsub needs typing updates for mypy version 1.19.1|Mgmt, WebPubSub, mypy|Y-Sindo, chenkennt, iscai-msft, msyyc|new issue|2025-01-12|
 |13|[#38738](https://github.com/Azure/azure-sdk-for-python/issues/38738)|Metrictype -- appallingly incomplete documentation|Docs, question, Mgmt, customer-reported, needs-team-attention, Consumption|msyyc|no reply > 7|2024-12-02|
 |14|[#37901](https://github.com/Azure/azure-sdk-for-python/issues/37901)|azure.mgmt.eventhub.models.EHNamespace.disable_local_auth not recognized by mypy|question, Event Hubs, Mgmt, customer-reported, needs-team-attention|msyyc|no reply > 7|2024-10-15|
 |15|[#37406](https://github.com/Azure/azure-sdk-for-python/issues/37406)|[Storage] StorageManagementClient.storage_task_assignments.begin_create(...) fail with date-time format not aligned with server request.|Storage, Service Attention, Mgmt, needs-team-attention|msyyc|no reply > 7|2024-09-14|
