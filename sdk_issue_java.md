@@ -6,7 +6,7 @@
 |4|[#48765](https://github.com/Azure/azure-sdk-for-java/issues/48765)|mgmt batch, missing migration guide|Mgmt|XiaofeiCao||2026-04-10|
 |5|[#48574](https://github.com/Azure/azure-sdk-for-java/issues/48574)|[QUERY] How to retrieve Availability Zone information directly from `GenericResource`?|question, ARM, Mgmt, customer-reported|weidongxu-microsoft|new comment|2026-03-25|
 |6|[#47679](https://github.com/Azure/azure-sdk-for-java/issues/47679)|mgmt, migrate commerce to azure-json|Mgmt|XiaofeiCao||2026-01-12|
-|7|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|v-huizhu2, XiaofeiCao||2025-11-17|
+|7|[#47303](https://github.com/Azure/azure-sdk-for-java/issues/47303)|mgmt, re-run premium live tests|Mgmt|XiaofeiCao, v-huizhu2||2025-11-17|
 |8|[#47194](https://github.com/Azure/azure-sdk-for-java/issues/47194)|[MGMT][core-v2] Remove workarounds for breaking changes|Mgmt, Azure.Core.V2|XiaofeiCao||2025-11-07|
 |9|[#46465](https://github.com/Azure/azure-sdk-for-java/issues/46465)|[mgmt] discussion, enhance logging experience|Mgmt|XiaofeiCao||2025-08-21|
 |10|[#46464](https://github.com/Azure/azure-sdk-for-java/issues/46464)|[mgmt] remove external dependencies, e.g. Netty, Jackson|Mgmt|XiaofeiCao||2025-08-21|
