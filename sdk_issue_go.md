@@ -1,7 +1,7 @@
 | No. | issue | title | labels | assignees | bot advice | created date |
 | ------ | ------ | ------ | ------ | ------ | ------ | :-----: |
-|1|[#27029](https://github.com/Azure/azure-sdk-for-go/issues/27029)|Fetched GroupQuotaSubscriptionID Properties always nil|question, Mgmt, customer-reported, needs-author-feedback, Quota|lirenhe||2026-06-18|
-|2|[#27028](https://github.com/Azure/azure-sdk-for-go/issues/27028)|List Group Quota Limits Request returns a Json Unmarshalling error when there are no requests|question, Mgmt, customer-reported, needs-author-feedback, Quota|lirenhe||2026-06-18|
+|1|[#27029](https://github.com/Azure/azure-sdk-for-go/issues/27029)|Fetched GroupQuotaSubscriptionID Properties always nil|question, Mgmt, customer-reported, needs-author-feedback, no-recent-activity, Quota|lirenhe||2026-06-18|
+|2|[#27028](https://github.com/Azure/azure-sdk-for-go/issues/27028)|List Group Quota Limits Request returns a Json Unmarshalling error when there are no requests|question, Mgmt, customer-reported, needs-author-feedback, no-recent-activity, Quota|lirenhe||2026-06-18|
 |3|[#26716](https://github.com/Azure/azure-sdk-for-go/issues/26716)|[SDK Generation] Microsoft.Security - TypeSpec migration (armsecurity)|Security, Mgmt, needs-team-attention|lirenhe||2026-05-05|
 |4|[#24798](https://github.com/Azure/azure-sdk-for-go/issues/24798)|SQL Database API version is old|question, SQL, Service Attention, Mgmt, customer-reported, needs-team-attention|lirenhe||2025-06-15|
 |5|[#24655](https://github.com/Azure/azure-sdk-for-go/issues/24655)|armresource.ClientListOptions  when resources are filtered by tag does the returned result will contains the original tags|question, Service Attention, Mgmt, customer-reported, ARM - Core, Resource Graph, needs-team-attention|lirenhe||2025-05-20|
